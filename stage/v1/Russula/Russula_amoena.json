@@ -1,0 +1,79 @@
+{
+ "genus": "Russula",
+ "name": "amoena",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "怡紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/2389",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_amoena_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_amoena_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_amoena_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_amoena_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_amoena_5_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "怡红菇"
+ ],
+ "meta": {
+  "CapColors": "4291998860",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Russula amoena",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/875150-Russula-amoena",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/144987168/thumb.jpeg"
+  }
+ ]
+}

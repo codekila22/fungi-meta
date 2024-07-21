@@ -1,0 +1,102 @@
+{
+ "genus": "Ramaria",
+ "name": "flaccida",
+ "date": [
+  "06/19/2023,6116400625136984",
+  "07/23/2020,2951937631583315",
+  "09/20/2015,788897621220671"
+ ],
+ "names_zhtw": [
+  "萎垂白枝瑚菌"
+ ],
+ "names_en": [],
+ "url": "2951937631583315",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Ramaria_flaccida_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Ramaria_flaccida_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Ramaria_flaccida_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Ramaria_flaccida_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Ramaria_flaccida_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Ramaria_flaccida_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ramaria_flaccida_9bc348b0-10ac-11ee-aba5-6396c5d53f46_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ramaria_flaccida_9bc348b0-10ac-11ee-aba5-6396c5d53f46_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ramaria_flaccida_9bc348b0-10ac-11ee-aba5-6396c5d53f46_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ramaria_flaccida_9bc348b0-10ac-11ee-aba5-6396c5d53f46_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "萎垂白枝瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4294962944,4294309365,4292786311",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Phaeoclavulina flaccida",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/349693-Phaeoclavulina-flaccida",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8579204/thumb.jpg"
+  }
+ ]
+}

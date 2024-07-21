@@ -1,0 +1,91 @@
+{
+ "genus": "Agrocybe",
+ "name": "paludosa",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "沼生田頭菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1734",
+ "images": [
+  {
+   "author": "李志穎",
+   "image_src": "Agrocybe_paludosa_2_CC BY-NC_李志穎.jpg"
+  },
+  {
+   "author": "李志穎",
+   "image_src": "Agrocybe_paludosa_1_CC BY-NC_李志穎.jpg"
+  },
+  {
+   "author": "李志穎",
+   "image_src": "Agrocybe_paludosa_3_CC BY-NC_李志穎.jpg"
+  },
+  {
+   "author": "李志穎",
+   "image_src": "Agrocybe_paludosa_4_CC BY-NC_李志穎.jpg"
+  },
+  {
+   "author": "李志穎",
+   "image_src": "Agrocybe_paludosa_5_CC BY-NC_李志穎.jpg"
+  },
+  {
+   "author": "李志穎",
+   "image_src": "Agrocybe_paludosa_6_CC BY-NC_李志穎.jpg"
+  },
+  {
+   "author": "李志穎",
+   "image_src": "Agrocybe_paludosa_7_CC BY-NC_李志穎.jpg"
+  },
+  {
+   "author": "李志穎",
+   "image_src": "Agrocybe_paludosa_8_CC BY-NC_李志穎.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "沼生田头菇"
+ ],
+ "meta": {
+  "CapColors": "4291605388,4290822336",
+  "CapDiamRangeValues": "25,40",
+  "CapShape": "convex,flat",
+  "CapTexture": "smooth",
+  "CapMargin": "striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295,4286141768",
+  "HymeniumSporePrints": "4286141768",
+  "HymeniumGillArrangement": "close,shortgills",
+  "HymeniumGillAttachment": "adnate,free",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "smooth",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
+  "StalkBase": "equal",
+  "StalkDiamRangeValuess": "2,3",
+  "StalkLengthRangeValuess": "40,70",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground,meadow",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Agrocybe paludosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/486572-Agrocybe-paludosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29266834/thumb.jpg"
+  }
+ ]
+}

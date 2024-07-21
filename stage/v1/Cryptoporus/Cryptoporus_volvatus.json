@@ -1,0 +1,80 @@
+{
+ "genus": "Cryptoporus",
+ "name": "volvatus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "隱孔菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4188",
+ "images": [
+  {
+   "author": "連振豐",
+   "image_src": "Cryptoporus_volvatus_3_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Cryptoporus_volvatus_2_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Cryptoporus_volvatus_1_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Cryptoporus_volvatus_4_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Cryptoporus_volvatus_5_CC BY-NC_連振豐.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "隐孔菌"
+ ],
+ "meta": {
+  "CapColors": "4291979550,4291581184",
+  "CapDiamRangeValues": "20,40",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "absent",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "菌蓋邊緣覆蓋到菌孔面，質感似軟木塞。"
+ },
+ "inaturalist": [
+  {
+   "name": "Cryptoporus volvatus",
+   "cname": "Veiled Polypore",
+   "url": "https://www.inaturalist.org/taxa/118051-Cryptoporus-volvatus",
+   "src": "https://static.inaturalist.org/photos/70465768/thumb.jpg"
+  }
+ ]
+}

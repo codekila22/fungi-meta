@@ -1,0 +1,83 @@
+{
+ "genus": "Botryobasidium",
+ "name": "robustius",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "粗壯串擔革菌"
+ ],
+ "names_en": [],
+ "url": "2724738327636581",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Botryobasidium_robustius_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Botryobasidium_robustius_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Botryobasidium_robustius_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Botryobasidium_robustius_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Botryobasidium_robustius_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Botryobasidium_robustius_6_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粗壮串担革菌"
+ ],
+ "meta": {
+  "CapColors": "4290278195,4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Botryobasidium robustius",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1530107-Botryobasidium-robustius",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/280194106/thumb.jpeg"
+  }
+ ]
+}

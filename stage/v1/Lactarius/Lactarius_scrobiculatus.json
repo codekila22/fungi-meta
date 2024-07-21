@@ -1,0 +1,113 @@
+{
+ "genus": "Lactarius",
+ "name": "scrobiculatus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "窩柄黃乳菇"
+ ],
+ "names_en": [],
+ "url": "2871609089616170",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Lactarius_scrobiculatus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactarius_scrobiculatus_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactarius_scrobiculatus_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactarius_scrobiculatus_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactarius_scrobiculatus_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactarius_scrobiculatus_6_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactarius_scrobiculatus_7_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactarius_scrobiculatus_8_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactarius_scrobiculatus_9_CC BY-NC_James Ho.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "窝柄黄乳菇"
+ ],
+ "meta": {
+  "CapColors": "4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "乳汁為黃色。"
+ },
+ "inaturalist": [
+  {
+   "name": "Lactarius scrobiculatus",
+   "cname": "Spotted Milkcap",
+   "url": "https://www.inaturalist.org/taxa/351305-Lactarius-scrobiculatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/232879464/thumb.jpg"
+  },
+  {
+   "name": "Lactarius scrobiculatus var. canadensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/559720-Lactarius-scrobiculatus-canadensis",
+   "src": "https://static.inaturalist.org/photos/105359333/thumb.jpg"
+  },
+  {
+   "name": "Lactarius scrobiculatus ssp. pubescens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/351306-Lactarius-scrobiculatus-pubescens",
+   "src": ""
+  },
+  {
+   "name": "Lactarius insulsus scrobiculatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344531-Lactarius-insulsus-scrobiculatus",
+   "src": ""
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "genus": "Amanita",
+ "name": "javanica",
+ "date": [
+  "08/19/2021,4050459638397770",
+  "10/02/2016,989449864498778"
+ ],
+ "names_zhtw": [
+  "爪哇鵝膏"
+ ],
+ "names_en": [],
+ "url": "989449864498778",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_9_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_6_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_8_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_10_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_11_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_hemibapha_12_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Amanita_hemibapha_5_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Amanita_hemibapha_6_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Amanita_hemibapha_4_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Amanita_hemibapha_7_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Amanita_hemibapha_8_CC BY-NC_邱嫊惠.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "爪哇鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4288696877,4290283019",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "colored",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Amanita hemibapha,,",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita javanica",
+   "cname": "Javan Slender Caesar",
+   "url": "https://www.inaturalist.org/taxa/371565-Amanita-javanica",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14677835/thumb.jpeg"
+  }
+ ]
+}

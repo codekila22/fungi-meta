@@ -1,0 +1,420 @@
+{
+ "genus": "Physarella",
+ "name": "oblonga",
+ "date": [
+  "07/09/2024,7631659820277716",
+  "07/08/2024,7627315857378779",
+  "07/15/2023,6196709273772785",
+  "06/18/2023,6102735143170199",
+  "01/31/2023,5655040954606289",
+  "01/27/2023,5638489099594808",
+  "11/29/2022,5454788147964905",
+  "11/17/2022,5429324497177937",
+  "11/13/2022,5410850509025336",
+  "06/28/2022,5023755211068203",
+  "03/13/2022,4727315054045555",
+  "10/13/2020,3197026837074392",
+  "06/21/2018,5142890105821379",
+  "04/20/2016,886205194823246"
+ ],
+ "names_zhtw": [
+  "針箍黏菌"
+ ],
+ "names_en": [],
+ "url": "5142890105821379",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Physarella_oblonga_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarella_oblonga_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarella_oblonga_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarella_oblonga_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarella_oblonga_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarella_oblonga_6_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarella_oblonga_7_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarella_oblonga_8_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Physarella_oblonga_1_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Physarella_oblonga_2_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Physarella_oblonga_3_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Physarella_oblonga_4_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Physarella_oblonga_5_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Physarella_oblonga_6_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "傅志男",
+   "image_src": "Physarella_oblonga_1_CC BY-NC_傅志男.jpg"
+  },
+  {
+   "author": "傅志男",
+   "image_src": "Physarella_oblonga_3_CC BY-NC_傅志男.jpg"
+  },
+  {
+   "author": "傅志男",
+   "image_src": "Physarella_oblonga_4_CC BY-NC_傅志男.jpg"
+  },
+  {
+   "author": "傅志男",
+   "image_src": "Physarella_oblonga_5_CC BY-NC_傅志男.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_9_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_10_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarella_oblonga_11_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "傅志男",
+   "image_src": "Physarella_oblonga_2_CC BY-NC_傅志男.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_6_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_8_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_9_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_10_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_11_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_12_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_13_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_14_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_15_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_16_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarella_oblonga_17_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_9_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_11_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_12_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_13_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_14_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_15_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_16_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_17_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_18_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_19_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_20_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_21_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_22_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_23_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_24_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_25_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_26_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_27_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_28_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_29_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_30_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_31_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarella_oblonga_166608b0-d9ac-1076-8f2a-038c3d9c1715_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarella_oblonga_166608b0-d9ac-1076-8f2a-038c3d9c1715_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarella_oblonga_166608b0-d9ac-1076-8f2a-038c3d9c1715_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarella_oblonga_166608b0-d9ac-1076-8f2a-038c3d9c1715_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarella_oblonga_166608b0-d9ac-1076-8f2a-038c3d9c1715_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarella_oblonga_166608b0-d9ac-1076-8f2a-038c3d9c1715_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "针箍黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4290623339,4284635991",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Physarella oblonga",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/327933-Physarella-oblonga",
+   "src": "https://static.inaturalist.org/photos/21486829/thumb.jpg"
+  }
+ ]
+}

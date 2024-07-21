@@ -1,0 +1,71 @@
+{
+ "genus": "Fomitopsis",
+ "name": "officinalis",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "藥用擬層孔菌",
+  "苦白蹄"
+ ],
+ "names_en": [
+  "Laricifomes  officinalis"
+ ],
+ "url": "3437863346324072",
+ "images": [
+  {
+   "author": "林玉泉",
+   "image_src": "Fomitopsis_officinalis_1_CC BY-NC_林玉泉.jpg"
+  },
+  {
+   "author": "林玉泉",
+   "image_src": "Fomitopsis_officinalis_2_CC BY-NC_林玉泉.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "药用拟层孔菌",
+  "苦白蹄"
+ ],
+ "meta": {
+  "CapColors": "4284635991,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Laricifomes officinalis",
+   "cname": "Quinine Conk",
+   "url": "https://www.inaturalist.org/taxa/135216-Laricifomes-officinalis",
+   "src": "https://static.inaturalist.org/photos/772008/thumb.jpg"
+  }
+ ]
+}

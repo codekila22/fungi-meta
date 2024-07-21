@@ -1,0 +1,129 @@
+{
+ "genus": "Pterula",
+ "name": "gracilis",
+ "date": [
+  "03/08/2024,7072453292865041",
+  "02/15/2021,3523995174377555"
+ ],
+ "names_zhtw": [
+  "細鬚瑚菌"
+ ],
+ "names_en": [],
+ "url": "3523995174377555",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Pterula_gracilis_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Pterula_gracilis_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Pterula_gracilis_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Pterula_gracilis_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Pterula_gracilis_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_gracilis_45a27a00-e8d8-11ee-ac56-131fa124af31_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_gracilis_45a27a00-e8d8-11ee-ac56-131fa124af31_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_gracilis_45a27a00-e8d8-11ee-ac56-131fa124af31_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_gracilis_45a27a00-e8d8-11ee-ac56-131fa124af31_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_gracilis_45a27a00-e8d8-11ee-ac56-131fa124af31_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "细须瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,winter",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood,fruit,meadow",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長在腐爛植物上，可能是枯莖、枯葉、枯果等。"
+ },
+ "inaturalist": [
+  {
+   "name": "Pterulicium gracile",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1239236-Pterulicium-gracile",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8298061/thumb.jpg"
+  }
+ ]
+}

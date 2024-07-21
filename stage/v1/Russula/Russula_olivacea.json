@@ -1,0 +1,79 @@
+{
+ "genus": "Russula",
+ "name": "olivacea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "青黃紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1008",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Russula_olivacea_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_olivacea_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_olivacea_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_olivacea_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_olivacea_5_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "青黄红菇"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4290547599",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Russula olivacea",
+   "cname": "Olive Brittlegill",
+   "url": "https://www.inaturalist.org/taxa/352303-Russula-olivacea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/166321175/thumb.jpg"
+  }
+ ]
+}

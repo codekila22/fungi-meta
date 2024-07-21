@@ -1,0 +1,434 @@
+{
+ "genus": "Lycoperdon",
+ "name": "perlatum",
+ "date": [
+  "03/28/2024,7148973728546330",
+  "12/25/2023,6794720257305014",
+  "12/15/2023,6897070907069948",
+  "11/15/2023,6889289091181463",
+  "08/25/2023,6346215172155527",
+  "06/27/2023,6135155623261484",
+  "06/10/2023,6073821319394915",
+  "05/01/2023,5943346019109113",
+  "11/19/2022,5427505714026482",
+  "09/15/2022,5957233487720366",
+  "07/02/2022,5263067477136974",
+  "07/17/2021,3969285513181850",
+  "05/30/2020,2820564084720671",
+  "07/14/2004,5582767695166949"
+ ],
+ "names_zhtw": [
+  "網紋馬勃"
+ ],
+ "names_en": [
+  "Common Puffball"
+ ],
+ "url": "3969285513181850",
+ "images": [
+  {
+   "author": "姜淋友",
+   "image_src": "Lycoperdon_perlatum_2_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lycoperdon_perlatum_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Lycoperdon_perlatum_1_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lycoperdon_perlatum_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lycoperdon_perlatum_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lycoperdon_perlatum_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lycoperdon_perlatum_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lycoperdon_perlatum_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lycoperdon_perlatum_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_15.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_16.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_17.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_18.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lycoperdon_perlatum_2aa6d610-ea55-11ed-b443-bfedfda51501_19.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Lycoperdon_perlatum_312265f0-ed83-11ed-8c68-0dbcfa7e9d47_1.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Lycoperdon_perlatum_312265f0-ed83-11ed-8c68-0dbcfa7e9d47_2.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Lycoperdon_perlatum_312265f0-ed83-11ed-8c68-0dbcfa7e9d47_3.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Lycoperdon_perlatum_312265f0-ed83-11ed-8c68-0dbcfa7e9d47_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_a8cd4b00-14d5-11ee-86fc-6d38eafc4a6d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_a8cd4b00-14d5-11ee-86fc-6d38eafc4a6d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_a8cd4b00-14d5-11ee-86fc-6d38eafc4a6d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_a8cd4b00-14d5-11ee-86fc-6d38eafc4a6d_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_a8cd4b00-14d5-11ee-86fc-6d38eafc4a6d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_e54b0ca0-a57d-11ee-b330-a3eb38818dcc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_e54b0ca0-a57d-11ee-b330-a3eb38818dcc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_e54b0ca0-a57d-11ee-b330-a3eb38818dcc_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_e54b0ca0-a57d-11ee-b330-a3eb38818dcc_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_e54b0ca0-a57d-11ee-b330-a3eb38818dcc_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_e54b0ca0-a57d-11ee-b330-a3eb38818dcc_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_perlatum_e54b0ca0-a57d-11ee-b330-a3eb38818dcc_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_10.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_11.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_12.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_13.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_14.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_15.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_16.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_1a84a850-bb85-11ee-b627-b5318325c0a9_17.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_13f34340-bb88-11ee-96ea-eff897951ed8_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_13f34340-bb88-11ee-96ea-eff897951ed8_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_13f34340-bb88-11ee-96ea-eff897951ed8_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lycoperdon_perlatum_13f34340-bb88-11ee-96ea-eff897951ed8_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lycoperdon_perlatum_dd5fb080-eef8-11ee-91fa-d754c01eabaa_13.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "网纹马勃"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4292786311",
+  "CapDiamRangeValues": "20,70",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gasteroid",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "4294961979,4286141768",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "30,80",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "ground,debris",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Lycoperdon bispinosum,,",
+  "Note": "菌體呈現倒梨形或座墊樣，菌體頂端較為扁平。極少數會生長在枯木上，只有菌肉白色時可食。"
+ },
+ "inaturalist": [
+  {
+   "name": "Lycoperdon perlatum",
+   "cname": "Common Puffball",
+   "url": "https://www.inaturalist.org/taxa/48443-Lycoperdon-perlatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/237728653/thumb.jpg"
+  }
+ ]
+}

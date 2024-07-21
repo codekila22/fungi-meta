@@ -1,0 +1,75 @@
+{
+ "genus": "Physarum",
+ "name": "superbum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "華麗絨泡黏菌"
+ ],
+ "names_en": [],
+ "url": "3787033131407090",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_superbum_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_superbum_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_superbum_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_superbum_6_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "华丽绒泡黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294962944,4293313372",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Physarum superbum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/715891-Physarum-superbum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/25391755/thumb.jpeg"
+  }
+ ]
+}

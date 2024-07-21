@@ -1,0 +1,91 @@
+{
+ "genus": "Neolentinus",
+ "name": "adhaerens",
+ "date": [
+  "09/18/2021,4151038388339894"
+ ],
+ "names_zhtw": [
+  "黏新香菇"
+ ],
+ "names_en": [],
+ "url": "4151038388339894",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Neolentinus_adhaerens_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Neolentinus_adhaerens_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Neolentinus_adhaerens_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Neolentinus_adhaerens_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Neolentinus_adhaerens_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Neolentinus_adhaerens_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Neolentinus_adhaerens_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Neolentinus_adhaerens_8_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黏新香菇"
+ ],
+ "meta": {
+  "CapColors": "4294960324,4294956800",
+  "CapDiamRangeValues": "30,50",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Neolentinus adhaerens",
+   "cname": "Sticky Sawgill",
+   "url": "https://www.inaturalist.org/taxa/631605-Neolentinus-adhaerens",
+   "src": "https://static.inaturalist.org/photos/65659718/thumb.jpeg"
+  }
+ ]
+}

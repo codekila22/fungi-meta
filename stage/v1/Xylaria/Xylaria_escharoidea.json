@@ -1,0 +1,97 @@
+{
+ "genus": "Xylaria",
+ "name": "escharoidea",
+ "synonym": [
+  {
+   "name": "Xylaria melanaxis",
+   "zhtw": "黑軸炭角菌",
+   "zhcn": "黑轴炭角菌"
+  }
+ ],
+ "date": [
+  "07/17/2023,6202594026517643",
+  "06/06/2023,6179159108861135",
+  "12/04/2020,3337498326360575"
+ ],
+ "names_zhtw": [
+  "芽孔炭角菌"
+ ],
+ "names_en": [],
+ "url": "6179159108861135",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Xylaria_melanaxis_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Xylaria_melanaxis_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Xylaria_melanaxis_f3fca620-1fca-11ee-b2c1-e38ecd7e9e0c_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Xylaria_melanaxis_f3fca620-1fca-11ee-b2c1-e38ecd7e9e0c_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Xylaria_melanaxis_f3fca620-1fca-11ee-b2c1-e38ecd7e9e0c_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Xylaria_melanaxis_f3fca620-1fca-11ee-b2c1-e38ecd7e9e0c_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Xylaria_melanaxis_f3fca620-1fca-11ee-b2c1-e38ecd7e9e0c_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "芽孔炭角菌"
+ ],
+ "meta": {
+  "CapColors": "4288768839,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "solid",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "80,160",
+  "Rareness": "occacional",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Xylaria escharoidea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1218686-Xylaria-escharoidea",
+   "src": ""
+  }
+ ]
+}

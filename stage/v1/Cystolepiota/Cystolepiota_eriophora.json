@@ -1,0 +1,80 @@
+{
+ "genus": "Cystolepiota",
+ "name": "eriophora",
+ "date": [
+  "04/30/2024,7344717202305314"
+ ],
+ "names_zhtw": [
+  "刺囊小傘"
+ ],
+ "names_en": [],
+ "url": "7344717202305314",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Cystolepita_eriophora_bc2ce0a0-103a-11ef-b382-436d132b33cd_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cystolepita_eriophora_bc2ce0a0-103a-11ef-b382-436d132b33cd_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cystolepita_eriophora_bc2ce0a0-103a-11ef-b382-436d132b33cd_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cystolepita_eriophora_bc2ce0a0-103a-11ef-b382-436d132b33cd_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cystolepita_eriophora_bc2ce0a0-103a-11ef-b382-436d132b33cd_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "刺囊小伞"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4286578816",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Lepiota eriophora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/603149-Lepiota-eriophora",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27717349/thumb.png"
+  }
+ ]
+}

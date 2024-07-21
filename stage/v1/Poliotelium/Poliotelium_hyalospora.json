@@ -1,0 +1,91 @@
+{
+ "genus": "Poliotelium",
+ "name": "hyalospora",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "透灰冬銹菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/6191",
+ "images": [
+  {
+   "author": "Piano Hope",
+   "image_src": "Poliotelium_hyalospora_2_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Poliotelium_hyalospora_1_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Poliotelium_hyalospora_3_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Poliotelium_hyalospora_4_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Poliotelium_hyalospora_5_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Poliotelium_hyalospora_6_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Poliotelium_hyalospora_7_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "歐玠皜",
+   "image_src": "Poliotelium_hyalospora_8_CC BY-NC_歐玠皜.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "透灰冬锈菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Endoraecium hyalosporum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1421542-Endoraecium-hyalosporum",
+   "src": "https://static.inaturalist.org/photos/187891158/thumb.jpeg"
+  }
+ ]
+}

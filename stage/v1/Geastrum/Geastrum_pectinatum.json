@@ -1,0 +1,86 @@
+{
+ "genus": "Geastrum",
+ "name": "pectinatum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "篦齒地星"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/2530",
+ "images": [
+  {
+   "author": "黃春珠",
+   "image_src": "Geastrum_pectinatum_3_CC BY-NC_黃春珠.jpg"
+  },
+  {
+   "author": "黃春珠",
+   "image_src": "Geastrum_pectinatum_2_CC BY-NC_黃春珠.jpg"
+  },
+  {
+   "author": "黃春珠",
+   "image_src": "Geastrum_pectinatum_1_CC BY-NC_黃春珠.jpg"
+  },
+  {
+   "author": "黃春珠",
+   "image_src": "Geastrum_pectinatum_4_CC BY-NC_黃春珠.jpg"
+  },
+  {
+   "author": "黃春珠",
+   "image_src": "Geastrum_pectinatum_5_CC BY-NC_黃春珠.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "篦齿地星"
+ ],
+ "meta": {
+  "CapColors": "4290822336,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Geastrum pectinatum",
+   "cname": "Geastrum Pectinatum Group",
+   "url": "https://www.inaturalist.org/taxa/1246409-Geastrum-pectinatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/75781790/thumb.jpg"
+  },
+  {
+   "name": "Geastrum pectinatum",
+   "cname": "Beaked Earthstar",
+   "url": "https://www.inaturalist.org/taxa/119134-Geastrum-pectinatum",
+   "src": "https://static.inaturalist.org/photos/13009167/thumb.jpg"
+  }
+ ]
+}

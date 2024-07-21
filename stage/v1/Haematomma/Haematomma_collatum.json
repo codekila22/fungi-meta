@@ -1,0 +1,111 @@
+{
+ "genus": "Haematomma",
+ "name": "collatum",
+ "date": [
+  "12/26/2022,5543754202401632",
+  "02/06/2021,3498947286882344",
+  "12/29/2020,3399258260184581",
+  "08/10/2018,3400016060108801",
+  "07/31/2015,3400016060108801"
+ ],
+ "names_zhtw": [
+  "羽衣赤星衣"
+ ],
+ "names_en": [],
+ "url": "5543754202401632",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Haematomma_puniceum subsp. pacificum_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Haematomma_puniceum subsp. pacificum_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Haematomma_puniceum subsp. pacificum_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Haematomma_puniceum subsp. pacificum_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Haematomma_puniceum subsp. pacificum_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum subsp. pacificum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum subsp. pacificum_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum subsp. pacificum_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum subsp. pacificum_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum subsp. pacificum_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum subsp. pacificum_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum subsp. pacificum_7_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "羽衣赤星衣"
+ ],
+ "meta": {
+  "CapColors": "4293263360,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Haematomma puniceum,,",
+  "Note": "與相似種比較，此種子囊盤邊緣有鋸齒狀。"
+ },
+ "inaturalist": [
+  {
+   "name": "Haematomma collatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/586744-Haematomma-collatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/184402840/thumb.jpeg"
+  }
+ ]
+}

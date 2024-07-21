@@ -1,0 +1,99 @@
+{
+ "genus": "Dicephalospora",
+ "name": "huangshanica",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "黃山雙頭孢菌",
+  "黃山藍斯盤菌"
+ ],
+ "names_en": [
+  "Lanzia huangshanica"
+ ],
+ "url": "3721431277967276",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Dicephalospora_huangshanica_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Dicephalospora_huangshanica_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Dicephalospora_aff. rufocornea_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Dicephalospora_aff. rufocornea_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Dicephalospora_aff. rufocornea_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Dicephalospora_aff. rufocornea_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dicephalospora_huangshanica_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dicephalospora_huangshanica_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dicephalospora_huangshanica_4_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄山双头孢菌",
+  "黄山蓝斯盘菌"
+ ],
+ "meta": {
+  "CapColors": "4291581184,4294934579",
+  "CapDiamRangeValues": "1,2",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Dicephalospora rufocornea,,",
+  "Note": "長在枯葉柄上。"
+ },
+ "inaturalist": [
+  {
+   "name": "Dicephalospora huangshanica",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1360747-Dicephalospora-huangshanica",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16512858/thumb.jpeg"
+  }
+ ]
+}

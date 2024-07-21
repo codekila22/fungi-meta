@@ -1,0 +1,152 @@
+{
+ "genus": "Mycena",
+ "name": "punkissima",
+ "date": [
+  "04/06/2023,5856150661161983",
+  "04/01/2023,5841965662580483",
+  "05/09/2022,4878751568901902",
+  "05/07/2022,4873652886078437",
+  "01/22/2018,3300699810040427"
+ ],
+ "names_zhtw": [
+  "龐克頭小菇"
+ ],
+ "names_en": [],
+ "url": "4878751568901902",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_punkissima_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_punkissima_1_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_punkissima_2_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_punkissima_3_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_punkissima_4_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_punkissima_5_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_punkissima_6_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_punkissima_7_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_punkissima_8_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_punkissima_9_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_punkissima_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_punkissima_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_punkissima_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_punkissima_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_punkissima_6_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_punkissima_7_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_punkissima_8_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_punkissima_9_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_punkissima_10_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_punkissima_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_punkissima_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_punkissima_3_CC BY-NC_Sunny Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "庞克头小菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "1,2",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer",
+  "GrowthType": "grouped",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Mycena brunneisetosa,,",
+  "Note": "傘面有長毛，柄下半部有腺毛，柄基部有圓盤。"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena punkissima",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/981472-Mycena-punkissima",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58226071/thumb.jpeg"
+  }
+ ]
+}

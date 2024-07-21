@@ -1,0 +1,116 @@
+{
+ "genus": "Hygrophorus",
+ "name": "cossus",
+ "date": [
+  "05/04/2023,5955600337883681",
+  "01/07/2023,5597571653686553"
+ ],
+ "names_zhtw": [
+  "粉黃蠟傘"
+ ],
+ "names_en": [],
+ "url": "5597571653686553",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_cossus_1063f030-ea7d-11ed-91b2-9176a4964f5f_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_cossus_1063f030-ea7d-11ed-91b2-9176a4964f5f_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_cossus_1063f030-ea7d-11ed-91b2-9176a4964f5f_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_cossus_1063f030-ea7d-11ed-91b2-9176a4964f5f_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_cossus_1063f030-ea7d-11ed-91b2-9176a4964f5f_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_cossus_1063f030-ea7d-11ed-91b2-9176a4964f5f_6.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrophorus_cossus_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrophorus_cossus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrophorus_cossus_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrophorus_cossus_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrophorus_cossus_893daa30-ece1-11ed-84a6-cfed5f36005a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrophorus_cossus_893daa30-ece1-11ed-84a6-cfed5f36005a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrophorus_cossus_893daa30-ece1-11ed-84a6-cfed5f36005a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrophorus_cossus_893daa30-ece1-11ed-84a6-cfed5f36005a_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粉黄蜡伞"
+ ],
+ "meta": {
+  "CapColors": "4292664540,4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Hygrophorus cossus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/765272-Hygrophorus-cossus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29253478/thumb.jpg"
+  }
+ ]
+}

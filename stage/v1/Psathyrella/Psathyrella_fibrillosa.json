@@ -1,0 +1,95 @@
+{
+ "genus": "Psathyrella",
+ "name": "fibrillosa",
+ "date": [
+  "12/31/2021,4498879796889083"
+ ],
+ "names_zhtw": [
+  "纖絨小脆柄菇"
+ ],
+ "names_en": [],
+ "url": "4498879796889083",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_9_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "纤绒小脆柄菇"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4288768839",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "woolly-scales",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Psathyrella fibrillosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1154124-Psathyrella-fibrillosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164555386/thumb.jpg"
+  }
+ ]
+}

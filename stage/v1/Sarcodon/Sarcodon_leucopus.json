@@ -1,0 +1,87 @@
+{
+ "genus": "Sarcodon",
+ "name": "leucopus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "白柄肉齒菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1014",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Sarcodon_leucopus_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Sarcodon_leucopus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Sarcodon_leucopus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Sarcodon_leucopus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Sarcodon_leucopus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Sarcodon_leucopus_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Sarcodon_leucopus_7_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "白柄肉齿菌"
+ ],
+ "meta": {
+  "CapColors": "4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Sarcodon leucopus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/341757-Sarcodon-leucopus",
+   "src": "https://static.inaturalist.org/photos/12420318/thumb.jpg"
+  }
+ ]
+}

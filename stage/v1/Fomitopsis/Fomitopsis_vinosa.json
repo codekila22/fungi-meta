@@ -1,0 +1,75 @@
+{
+ "genus": "Fomitopsis",
+ "name": "vinosa",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "葡酒色擬層孔菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/756",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Fomitopsis_vinosa_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Fomitopsis_vinosa_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Fomitopsis_vinosa_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Fomitopsis_vinosa_1_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "葡酒色拟层孔菌"
+ ],
+ "meta": {
+  "CapColors": "4288696877,4283244288",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Nigroporus vinosus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/351637-Nigroporus-vinosus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4305620/thumb.jpg"
+  }
+ ]
+}

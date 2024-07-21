@@ -1,0 +1,139 @@
+{
+ "genus": "Lepiota",
+ "name": "cygnea",
+ "date": [
+  "04/11/2024,7339523832824651",
+  "08/20/2023,6331408223636222",
+  "05/29/2023,6037852686325112",
+  "09/26/2022,5272173626226359",
+  "10/27/2021,4268466873263711",
+  "09/26/2021,4168552956588437",
+  "05/06/2021,3751089285001475",
+  "11/15/2020,3413321875444886"
+ ],
+ "names_zhtw": [
+  "天鵝色環柄菇"
+ ],
+ "names_en": [],
+ "url": "3751089285001475",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Lepiota_cygnea_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lepiota_cygnea_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lepiota_cygnea_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lepiota_cygnea_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lepiota_cygnea_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lepiota_cygnea_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cygnea_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cygnea_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_cygnea_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_cygnea_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_cygnea_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_cygnea_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lepiota_cygnea_81dbc5c0-4307-11ee-b96c-37a5a8cdc507_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lepiota_cygnea_81dbc5c0-4307-11ee-b96c-37a5a8cdc507_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lepiota_cygnea_81dbc5c0-4307-11ee-b96c-37a5a8cdc507_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cygnea_a8027fc0-1032-11ef-98e5-45948a25df5f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cygnea_a8027fc0-1032-11ef-98e5-45948a25df5f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cygnea_a8027fc0-1032-11ef-98e5-45948a25df5f_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "天鹅色环柄菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "15,30",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Leucocoprinus cepaestipes,,",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Leucocoprinus cygneus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/887847-Leucocoprinus-cygneus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/180042838/thumb.jpg"
+  }
+ ]
+}

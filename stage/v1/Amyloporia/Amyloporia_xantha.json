@@ -1,0 +1,79 @@
+{
+ "genus": "Amyloporia",
+ "name": "xantha",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "黃粉孔菌",
+  "黃薄孔菌"
+ ],
+ "names_en": [
+  "Antrodia xantha"
+ ],
+ "url": "3538750779568661",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Amyloporia_xantha_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Amyloporia_xantha_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Amyloporia_xantha_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Amyloporia_xantha_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄粉孔菌",
+  "黄薄孔菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Amyloporia xantha",
+   "cname": "Yellow Porecrust",
+   "url": "https://www.inaturalist.org/taxa/1131188-Amyloporia-xantha",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20724350/thumb.jpg"
+  }
+ ]
+}

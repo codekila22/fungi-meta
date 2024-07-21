@@ -1,0 +1,75 @@
+{
+ "genus": "Echinochaete",
+ "name": "russiceps",
+ "date": [
+  "09/13/2020,3176347475808995"
+ ],
+ "names_zhtw": [
+  "細長刺剛毛狀菌"
+ ],
+ "names_en": [],
+ "url": "3176347475808995",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Echinochaete_russiceps_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Echinochaete_russiceps_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Echinochaete_russiceps_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Echinochaete_russiceps_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "细长刺刚毛状菌"
+ ],
+ "meta": {
+  "CapColors": "4291581184,4286578688",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Echinochaete russiceps",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382221-Echinochaete-russiceps",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1333394/thumb.jpg"
+  }
+ ]
+}

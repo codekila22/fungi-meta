@@ -1,0 +1,89 @@
+{
+ "genus": "Scutellinia",
+ "name": "trechispora",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "鈍刺盾盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1022",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Scutellinia_trechispora_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Scutellinia_trechispora_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Scutellinia_trechispora_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Scutellinia_trechispora_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Scutellinia_trechispora_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Scutellinia_trechispora_6_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "钝刺盾盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294927175,4294934352",
+  "CapDiamRangeValues": "2,5",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Scutellinia trechispora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/379890-Scutellinia-trechispora",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29571685/thumb.jpg"
+  },
+  {
+   "name": "Scutellinia paludicola",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/867796-Scutellinia-paludicola",
+   "src": ""
+  }
+ ]
+}

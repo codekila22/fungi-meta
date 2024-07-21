@@ -1,0 +1,95 @@
+{
+ "genus": "Stropharia",
+ "name": "aff. riparia",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "灰裂環球蓋菇之近似種"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3385",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_9_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "灰裂环球盖菇之近似种"
+ ],
+ "meta": {
+  "CapColors": "4290822336,4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Leratiomyces percevalii",
+   "cname": "Mulch Maids",
+   "url": "https://www.inaturalist.org/taxa/129323-Leratiomyces-percevalii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6006668/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "genus": "Albatrellus",
+ "name": "dispansus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "散放地花菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/593",
+ "images": [
+  {
+   "author": "黃淑恩",
+   "image_src": "Albatrellus_dispansus_1_CC BY-NC_黃淑恩.jpg"
+  },
+  {
+   "author": "黃淑恩",
+   "image_src": "Albatrellus_dispansus_2_CC BY-NC_黃淑恩.jpg"
+  },
+  {
+   "author": "黃淑恩",
+   "image_src": "Albatrellus_dispansus_3_CC BY-NC_黃淑恩.jpg"
+  },
+  {
+   "author": "黃淑恩",
+   "image_src": "Albatrellus_dispansus_4_CC BY-NC_黃淑恩.jpg"
+  },
+  {
+   "author": "黃淑恩",
+   "image_src": "Albatrellus_dispansus_5_CC BY-NC_黃淑恩.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "散放地花菌"
+ ],
+ "meta": {
+  "CapColors": "4290283019,4293313372",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Polypus dispansus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/351929-Polypus-dispansus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43574488/thumb.jpg"
+  }
+ ]
+}

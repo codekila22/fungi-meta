@@ -1,0 +1,83 @@
+{
+ "genus": "Dasyscyphella",
+ "name": "crystallina",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "晶狀小毛釘菌"
+ ],
+ "names_en": [],
+ "url": "3641602842616787",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Dasyscyphella_crystallina_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Dasyscyphella_crystallina_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Dasyscyphella_crystallina_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Dasyscyphella_crystallina_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dasyscyphella_crystallina_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dasyscyphella_crystallina_2_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "晶状小毛钉菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "1,2",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Dasyscyphella crystallina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1252257-Dasyscyphella-crystallina",
+   "src": ""
+  }
+ ]
+}

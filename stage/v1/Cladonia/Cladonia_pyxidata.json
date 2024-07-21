@@ -1,0 +1,151 @@
+{
+ "genus": "Cladonia",
+ "name": "pyxidata",
+ "date": [
+  "01/22/2024,6892437780866594",
+  "03/10/2021,3585237474919991",
+  "03/02/2021,3564631626980576"
+ ],
+ "names_zhtw": [
+  "喇叭石蕊"
+ ],
+ "names_en": [],
+ "url": "3585237474919991",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Cladonia_pyxidata_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cladonia_pyxidata_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cladonia_pyxidata_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cladonia_pyxidata_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_pyxidata_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_pyxidata_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_pyxidata_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cladonia_pyxidata_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cladonia_pyxidata_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cladonia_pyxidata_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cladonia_pyxidata_2d75fbb0-bb87-11ee-a937-ff4929f1c714_11.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "喇叭石蕊"
+ ],
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "ground,rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Cladonia pyxidata",
+   "cname": "Pebbled Pixie Cup",
+   "url": "https://www.inaturalist.org/taxa/123894-Cladonia-pyxidata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37611636/thumb.jpg"
+  },
+  {
+   "name": "Cladonia chlorophaea",
+   "cname": "Mealy Pixie Cup",
+   "url": "https://www.inaturalist.org/taxa/49488-Cladonia-chlorophaea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2339782/thumb.jpg"
+  }
+ ]
+}

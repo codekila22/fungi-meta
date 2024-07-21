@@ -1,0 +1,72 @@
+{
+ "genus": "Stereocaulon",
+ "name": "intermedium",
+ "date": [
+  "07/10/2023,6195083243935388"
+ ],
+ "names_zhtw": [
+  "間型珊瑚枝"
+ ],
+ "names_en": [],
+ "url": "6195083243935388",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereocaulon_intermedium_7b404580-a84a-11ee-8391-f700a7f5cb68_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereocaulon_intermedium_7b404580-a84a-11ee-8391-f700a7f5cb68_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereocaulon_intermedium_7b404580-a84a-11ee-8391-f700a7f5cb68_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "间型珊瑚枝"
+ ],
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Stereocaulon intermedium",
+   "cname": "Pacific Foam Lichen",
+   "url": "https://www.inaturalist.org/taxa/231701-Stereocaulon-intermedium",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2085055/thumb.JPG"
+  }
+ ]
+}

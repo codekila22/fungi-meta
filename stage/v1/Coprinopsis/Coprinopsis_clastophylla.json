@@ -1,0 +1,129 @@
+{
+ "genus": "Coprinopsis",
+ "name": "clastophylla",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "粒褶擬鬼傘",
+  "粒褶似鬼傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5651",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_9_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_10_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_11_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_12_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_13_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_14_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_15_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_16_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_clastophylla_17_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粒褶拟鬼伞",
+  "粒褶似鬼伞"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4293263360",
+  "CapDiamRangeValues": "2,10",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "15,25",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped,scattered",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Coprinopsis clastophylla",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/878393-Coprinopsis-clastophylla",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/149561074/thumb.jpg"
+  }
+ ]
+}

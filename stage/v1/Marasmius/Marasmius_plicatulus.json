@@ -1,0 +1,87 @@
+{
+ "genus": "Marasmius",
+ "name": "plicatulus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "扇褶小皮傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/886",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Marasmius_plicatulus_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_plicatulus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_plicatulus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_plicatulus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_plicatulus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_plicatulus_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_plicatulus_7_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "扇褶小皮伞"
+ ],
+ "meta": {
+  "CapColors": "4291648604,4288696877",
+  "CapDiamRangeValues": "10,50",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "2,3",
+  "StalkLengthRangeValuess": "50,130",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "debris",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Marasmius plicatulus",
+   "cname": "Red Pinwheel",
+   "url": "https://www.inaturalist.org/taxa/55291-Marasmius-plicatulus",
+   "src": "https://static.inaturalist.org/photos/2853836/thumb.jpg"
+  }
+ ]
+}

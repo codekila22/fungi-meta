@@ -1,0 +1,79 @@
+{
+ "genus": "Mycena",
+ "name": "pterigena",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "粉翅小菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5554",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_pterigena_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_pterigena_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_pterigena_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_pterigena_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_pterigena_2_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粉翅小菇"
+ ],
+ "meta": {
+  "CapColors": "4293313475,4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena pterigena",
+   "cname": "Ferny Bonnet",
+   "url": "https://www.inaturalist.org/taxa/774085-Mycena-pterigena",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/162695559/thumb.jpeg"
+  }
+ ]
+}

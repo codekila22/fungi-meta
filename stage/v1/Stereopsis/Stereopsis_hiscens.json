@@ -1,0 +1,71 @@
+{
+ "genus": "Stereopsis",
+ "name": "hiscens",
+ "date": [
+  "08/02/2020,3082085155235228"
+ ],
+ "names_zhtw": [
+  "瓣裂柄革菌"
+ ],
+ "names_en": [],
+ "url": "3082085155235228",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Stereopsis_hiscens_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stereopsis_hiscens_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stereopsis_hiscens_3_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "瓣裂柄革菌"
+ ],
+ "meta": {
+  "CapColors": "4294309340",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Stereopsis hiscens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/384414-Stereopsis-hiscens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/49559773/thumb.jpg"
+  }
+ ]
+}

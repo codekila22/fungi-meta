@@ -1,0 +1,91 @@
+{
+ "genus": "Amanita",
+ "name": "hongoi",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "本鄉鵝膏"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3065",
+ "images": [
+  {
+   "author": "蛾米",
+   "image_src": "Amanita_hongoi_3_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Amanita_hongoi_2_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Amanita_hongoi_1_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Amanita_hongoi_4_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Amanita_hongoi_5_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Amanita_hongoi_6_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Amanita_hongoi_7_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Amanita_hongoi_8_CC BY-NC_蛾米.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "本乡鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4286611584,4291605388",
+  "CapDiamRangeValues": "90,160",
+  "CapShape": "convex,flat",
+  "CapTexture": "raised-scales",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "bulbous",
+  "StalkDiamRangeValuess": "10,30",
+  "StalkLengthRangeValuess": "110,130",
+  "Rareness": "",
+  "Seasons": "summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita hongoi",
+   "cname": "Hongo's Lepidella",
+   "url": "https://www.inaturalist.org/taxa/895588-Amanita-hongoi",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251459424/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "genus": "Mycena",
+ "name": "filopes",
+ "date": [
+  "01/09/2024,6856058404504532"
+ ],
+ "names_zhtw": [
+  "線柄小菇"
+ ],
+ "names_en": [],
+ "url": "6856058404504532",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_filopes_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_filopes_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_filopes_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_filopes_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_filopes_9a682350-b6a1-11ee-b41a-b51a0262c73a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_filopes_9a682350-b6a1-11ee-b41a-b51a0262c73a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_filopes_9a682350-b6a1-11ee-b41a-b51a0262c73a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_filopes_9a682350-b6a1-11ee-b41a-b51a0262c73a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_filopes_9a682350-b6a1-11ee-b41a-b51a0262c73a_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_filopes_9a682350-b6a1-11ee-b41a-b51a0262c73a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_filopes_9a682350-b6a1-11ee-b41a-b51a0262c73a_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "线柄小菇"
+ ],
+ "meta": {
+  "CapColors": "4294303411",
+  "CapDiamRangeValues": "5,20",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "40,150",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena filopes",
+   "cname": "Iodine Bonnet",
+   "url": "https://www.inaturalist.org/taxa/63466-Mycena-filopes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/178346221/thumb.jpeg"
+  },
+  {
+   "name": "Mycena metata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63456-Mycena-metata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28140211/thumb.jpg"
+  }
+ ]
+}

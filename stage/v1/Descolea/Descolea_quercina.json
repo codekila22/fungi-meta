@@ -1,0 +1,75 @@
+{
+ "genus": "Descolea",
+ "name": "quercina",
+ "date": [
+  "11/22/2021,4346470952129969"
+ ],
+ "names_zhtw": [
+  "櫟生環鱗傘"
+ ],
+ "names_en": [],
+ "url": "4346470952129969",
+ "images": [
+  {
+   "author": "范瓊貞",
+   "image_src": "Descolea_quercina_1_CC BY-NC_范瓊貞.jpg"
+  },
+  {
+   "author": "范瓊貞",
+   "image_src": "Descolea_quercina_4_CC BY-NC_范瓊貞.jpg"
+  },
+  {
+   "author": "范瓊貞",
+   "image_src": "Descolea_quercina_3_CC BY-NC_范瓊貞.jpg"
+  },
+  {
+   "author": "范瓊貞",
+   "image_src": "Descolea_quercina_2_CC BY-NC_范瓊貞.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "栎生环鳞伞"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4283788079",
+  "CapDiamRangeValues": "50,70",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "8,12",
+  "StalkLengthRangeValuess": "50,70",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Descolea quercina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1463827-Descolea-quercina",
+   "src": ""
+  }
+ ]
+}

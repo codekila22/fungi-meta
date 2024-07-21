@@ -1,0 +1,108 @@
+{
+ "genus": "Gliocladium",
+ "name": "polyporicola",
+ "date": [
+  "04/15/2024,7234359606674408",
+  "11/22/2020,3331727066937701"
+ ],
+ "names_zhtw": [
+  "多孔菌生黏帚黴"
+ ],
+ "names_en": [],
+ "url": "3331727066937701",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Gliocladium_polyporicola_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Gliocladium_polyporicola_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Gliocladium_polyporicola_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Gliocladium_polyporicola_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Gliocladium_polyporicola_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Gliocladium_polyporicola_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Gliocladium_polyporicola_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gliocladium_polyporicola_3ecec5b0-fedd-11ee-8bff-c9f421204a78_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gliocladium_polyporicola_3ecec5b0-fedd-11ee-8bff-c9f421204a78_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gliocladium_polyporicola_3ecec5b0-fedd-11ee-8bff-c9f421204a78_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gliocladium_polyporicola_3ecec5b0-fedd-11ee-8bff-c9f421204a78_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gliocladium_polyporicola_3ecec5b0-fedd-11ee-8bff-c9f421204a78_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "多孔菌生黏帚霉"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "寄生於多孔菌上的黴菌。"
+ },
+ "inaturalist": [
+  {
+   "name": "Gliocladium polyporicola",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/871741-Gliocladium-polyporicola",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13198394/thumb.jpg"
+  }
+ ]
+}

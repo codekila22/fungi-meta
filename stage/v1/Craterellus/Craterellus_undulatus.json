@@ -1,0 +1,134 @@
+{
+ "genus": "Craterellus",
+ "name": "undulatus",
+ "date": [
+  "06/13/2023,6084913181619062",
+  "08/15/2021,4064358970341170",
+  "06/23/2018,1697997226977368"
+ ],
+ "names_zhtw": [
+  "波喇叭菌",
+  "波假喇叭菌"
+ ],
+ "names_en": [
+  "Pseudocraterellus undulatus"
+ ],
+ "url": "1697997226977368",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Craterellus_undulatus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Craterellus_undulatus_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Craterellus_undulatus_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Craterellus_undulatus_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Craterellus_undulatus_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Craterellus_undulatus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Craterellus_undulatus_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Craterellus_undulatus_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Craterellus_undulatus_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Craterellus_undulatus_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Craterellus_undulatus_6_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Craterellus_undulatus_c5daf940-09ef-11ee-bf2d-b9db572473c4_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Craterellus_undulatus_c5daf940-09ef-11ee-bf2d-b9db572473c4_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Craterellus_undulatus_c5daf940-09ef-11ee-bf2d-b9db572473c4_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Craterellus_undulatus_c5daf940-09ef-11ee-bf2d-b9db572473c4_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Craterellus_undulatus_c5daf940-09ef-11ee-bf2d-b9db572473c4_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Craterellus_undulatus_c5daf940-09ef-11ee-bf2d-b9db572473c4_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "波喇叭菌",
+  "波假喇叭菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4294967040",
+  "CapDiamRangeValues": "10,50",
+  "CapShape": "infundibuliform",
+  "CapTexture": "",
+  "CapMargin": "wavy",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "20,60",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Craterellus undulatus",
+   "cname": "Sinuous Chanterelle",
+   "url": "https://www.inaturalist.org/taxa/1137797-Craterellus-undulatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28211870/thumb.jpg"
+  }
+ ]
+}

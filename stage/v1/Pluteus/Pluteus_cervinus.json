@@ -1,0 +1,159 @@
+{
+ "genus": "Pluteus",
+ "name": "cervinus",
+ "synonym": [
+  {
+   "name": "Pluteus atricapillus",
+   "zhtw": "暗灰光柄菇",
+   "zhcn": "暗灰光柄菇"
+  }
+ ],
+ "date": [
+  "05/16/2021,3788985331211870",
+  "02/27/2021,4264919166951815"
+ ],
+ "names_zhtw": [
+  "暗色光柄菇"
+ ],
+ "names_en": [
+  "Deer mushroom"
+ ],
+ "url": "4264919166951815",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Pluteus_atricapillus_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_6_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_8_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_9_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_10_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_11_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pluteus_atricapillus_12_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Pluteus_atricapillus_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Pluteus_cervinus_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Pluteus_cervinus_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Pluteus_cervinus_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Pluteus_cervinus_4_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "暗色光柄菇"
+ ],
+ "meta": {
+  "CapColors": "4289309097,4285098345",
+  "CapDiamRangeValues": "45,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Pluteus cervinus",
+   "cname": "Deer Mushroom",
+   "url": "https://www.inaturalist.org/taxa/60782-Pluteus-cervinus",
+   "src": "https://static.inaturalist.org/photos/163162725/thumb.jpg"
+  },
+  {
+   "name": "Pluteus atromarginatus",
+   "cname": "Blackedged Shield",
+   "url": "https://www.inaturalist.org/taxa/118268-Pluteus-atromarginatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672198/thumb.jpeg"
+  },
+  {
+   "name": "Pluteus cervinus ssp. cervinus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/351887-Pluteus-cervinus-cervinus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13077776/thumb.jpeg"
+  },
+  {
+   "name": "Pluteus cervinus ssp. eximius",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1061509-Pluteus-cervinus-eximius",
+   "src": ""
+  }
+ ]
+}

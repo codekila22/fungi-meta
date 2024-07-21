@@ -1,0 +1,71 @@
+{
+ "genus": "Entoloma",
+ "name": "chytrophilum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "紫迷粉褶菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5459",
+ "images": [
+  {
+   "author": "郭淑慧",
+   "image_src": "Entoloma_chytrophilum_1_CC BY-NC_郭淑慧.jpg"
+  },
+  {
+   "author": "郭淑慧",
+   "image_src": "Entoloma_chytrophilum_2_CC BY-NC_郭淑慧.jpg"
+  },
+  {
+   "author": "郭淑慧",
+   "image_src": "Entoloma_chytrophilum_3_CC BY-NC_郭淑慧.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫迷粉褶菌"
+ ],
+ "meta": {
+  "CapColors": "4278209945,4278202707,4282924427",
+  "CapDiamRangeValues": "1,5",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "4294951115",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "20,40",
+  "Rareness": "",
+  "Seasons": "summer,autumn",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma chytrophilum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/795291-Entoloma-chytrophilum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28080649/thumb.jpg"
+  }
+ ]
+}

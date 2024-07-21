@@ -1,0 +1,76 @@
+{
+ "genus": "Xylaria",
+ "name": "cinerea",
+ "date": [
+  "09/06/2022,5229592833817772"
+ ],
+ "names_zhtw": [
+  "灰炭角菌"
+ ],
+ "names_en": [],
+ "url": "5229592833817772",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cinerea_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cinerea_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cinerea_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cinerea_4_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "灰炭角菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Xylaria cinerea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/714254-Xylaria-cinerea",
+   "src": "https://static.inaturalist.org/photos/109226840/thumb.jpeg"
+  }
+ ]
+}

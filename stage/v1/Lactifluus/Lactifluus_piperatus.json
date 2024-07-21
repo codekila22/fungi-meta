@@ -1,0 +1,104 @@
+{
+ "genus": "Lactifluus",
+ "name": "piperatus",
+ "date": [
+  "06/13/2020,2845762248867521",
+  "07/30/2014,578365202273915"
+ ],
+ "names_zhtw": [
+  "白辣乳菇"
+ ],
+ "names_en": [],
+ "url": "2845762248867521",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Lactarius_piperatus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lactarius_piperatus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lactarius_piperatus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lactarius_piperatus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lactarius_piperatus_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactifluus_piperatus_0ed54a90-5ece-106e-bf3b-adba3bf7b190_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactifluus_piperatus_0ed54a90-5ece-106e-bf3b-adba3bf7b190_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactifluus_piperatus_0ed54a90-5ece-106e-bf3b-adba3bf7b190_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lactifluus_piperatus_0ed54a90-5ece-106e-bf3b-adba3bf7b190_4.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Lactarius piperatus",
+   "zhtw": "白辣乳菇",
+   "zhcn": "白辣乳菇"
+  }
+ ],
+ "names_zhcn": [
+  "白辣乳菇"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294967295",
+  "CapDiamRangeValues": "40,180",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "crowded",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "10,30",
+  "StalkLengthRangeValuess": "30,90",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Seasons": "spring,summer",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "spicy",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Lactifluus piperatus",
+   "cname": "Peppery Milkcap",
+   "url": "https://www.inaturalist.org/taxa/351321-Lactifluus-piperatus",
+   "src": "https://static.inaturalist.org/photos/32834443/thumb.jpg"
+  }
+ ]
+}

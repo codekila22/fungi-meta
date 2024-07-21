@@ -1,0 +1,91 @@
+{
+ "genus": "Steccherinum",
+ "name": "septentrionale",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "大肉齒耳菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1029",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Steccherinum_septentrionale_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Steccherinum_septentrionale_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Steccherinum_septentrionale_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Steccherinum_septentrionale_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Steccherinum_septentrionale_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Steccherinum_septentrionale_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Steccherinum_septentrionale_7_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Steccherinum_septentrionale_8_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "大肉齿耳菌"
+ ],
+ "meta": {
+  "CapColors": "4294309340,4290822336",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Climacodon septentrionalis",
+   "cname": "Northern Tooth",
+   "url": "https://www.inaturalist.org/taxa/350366-Climacodon-septentrionalis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340627/thumb.jpg"
+  }
+ ]
+}

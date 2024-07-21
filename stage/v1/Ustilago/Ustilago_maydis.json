@@ -1,0 +1,99 @@
+{
+ "genus": "Ustilago",
+ "name": "maydis",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "玉蜀黍黑穗菌",
+  "玉米黑穗菌",
+  "玉米黑粉菌"
+ ],
+ "names_en": [
+  "Corn smut"
+ ],
+ "url": "3614416298668775",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Ustilago_maydis_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ustilago_maydis_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ustilago_maydis_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "陳哲志",
+   "image_src": "Ustilago_maydis_1_CC BY-NC_陳哲志.jpg"
+  },
+  {
+   "author": "陳哲志",
+   "image_src": "Ustilago_maydis_2_CC BY-NC_陳哲志.jpg"
+  },
+  {
+   "author": "陳哲志",
+   "image_src": "Ustilago_maydis_3_CC BY-NC_陳哲志.jpg"
+  },
+  {
+   "author": "陳哲志",
+   "image_src": "Ustilago_maydis_4_CC BY-NC_陳哲志.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "玉蜀黍黑穗菌",
+  "玉米黑穗菌",
+  "玉米黑粉菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Mycosarcoma maydis",
+   "cname": "Corn Smut",
+   "url": "https://www.inaturalist.org/taxa/1409663-Mycosarcoma-maydis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174317/thumb.jpg"
+  },
+  {
+   "name": "Ustilago maydis virus h one",
+   "cname": "Umvh1",
+   "url": "https://www.inaturalist.org/taxa/1300410-Ustilago-maydis-virus-h-one",
+   "src": ""
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "genus": "Inonotus",
+ "name": "rodwayi",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "羅德威纖孔菌"
+ ],
+ "names_en": [],
+ "url": "2930014370442308",
+ "images": [
+  {
+   "author": "陳啟仁",
+   "image_src": "Inonotus_rodwayi_1_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Inonotus_rodwayi_2_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Inonotus_rodwayi_3_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Inonotus_rodwayi_4_CC BY-NC_陳啟仁.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "罗德威纤孔菌"
+ ],
+ "meta": {
+  "CapColors": "4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Inonotus rodwayi",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1028644-Inonotus-rodwayi",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/145790124/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "genus": "Trogia",
+ "name": "buccinalis",
+ "date": [
+  "06/10/2024,7488727764570923"
+ ],
+ "names_zhtw": [
+  "貝狀溝褶菌"
+ ],
+ "names_en": [],
+ "url": "7488727764570923",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Trogia_buccinalis_4dadd9b0-27f3-11ef-a33a-87d2350a05fc_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trogia_buccinalis_4dadd9b0-27f3-11ef-a33a-87d2350a05fc_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trogia_buccinalis_4dadd9b0-27f3-11ef-a33a-87d2350a05fc_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trogia_buccinalis_4dadd9b0-27f3-11ef-a33a-87d2350a05fc_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trogia_buccinalis_4dadd9b0-27f3-11ef-a33a-87d2350a05fc_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "贝状沟褶菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "debris",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Trogia buccinalis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/352624-Trogia-buccinalis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94753447/thumb.jpg"
+  }
+ ]
+}

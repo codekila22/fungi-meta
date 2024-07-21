@@ -1,0 +1,72 @@
+{
+ "genus": "Helminthosporium",
+ "name": "zizaniae",
+ "date": [
+  "09/01/2023,6358880774222300"
+ ],
+ "names_zhtw": [
+  "胡麻葉枯病"
+ ],
+ "names_en": [],
+ "url": "6358880774222300",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Helminhosporium_zizaniae_f00ffed0-499c-11ee-9305-276c0eb54f21_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helminhosporium_zizaniae_f00ffed0-499c-11ee-9305-276c0eb54f21_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helminhosporium_zizaniae_f00ffed0-499c-11ee-9305-276c0eb54f21_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helminhosporium_zizaniae_f00ffed0-499c-11ee-9305-276c0eb54f21_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helminhosporium_zizaniae_f00ffed0-499c-11ee-9305-276c0eb54f21_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "胡麻叶枯病"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4294956800",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ }
+}

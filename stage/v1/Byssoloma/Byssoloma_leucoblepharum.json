@@ -1,0 +1,76 @@
+{
+ "genus": "Byssoloma",
+ "name": "leucoblepharum",
+ "date": [
+  "11/30/2022,6967246920052346"
+ ],
+ "names_zhtw": [
+  "白眼瞼絮緣衣"
+ ],
+ "names_en": [],
+ "url": "6967246920052346",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Byssoloma_leucoblepharum_7fb38040-c8da-11ee-b377-4191b77ec6c6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Byssoloma_leucoblepharum_7fb38040-c8da-11ee-b377-4191b77ec6c6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Byssoloma_leucoblepharum_7fb38040-c8da-11ee-b377-4191b77ec6c6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Byssoloma_leucoblepharum_7fb38040-c8da-11ee-b377-4191b77ec6c6_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "白眼睑絮缘衣"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Byssoloma leucoblepharum",
+   "cname": "Brown-disk Fuzzy-Rim",
+   "url": "https://www.inaturalist.org/taxa/205794-Byssoloma-leucoblepharum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/64259785/thumb.jpeg"
+  }
+ ]
+}

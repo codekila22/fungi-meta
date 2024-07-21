@@ -1,0 +1,80 @@
+{
+ "genus": "Cheilymenia",
+ "name": "aff. magnipila",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "大蓋緣刺盤菌之相似種"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/6302",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Cheilymenia_aff. magnipila_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cheilymenia_aff. magnipila_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cheilymenia_aff. magnipila_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cheilymenia_aff. magnipila_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cheilymenia_aff. magnipila_5_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "大盖缘刺盘菌之相似种"
+ ],
+ "meta": {
+  "CapColors": "4291998860",
+  "CapDiamRangeValues": "3,10",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Cheilymenia fimicola,,",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Cheilymenia magnipila",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/381630-Cheilymenia-magnipila",
+   "src": ""
+  }
+ ]
+}

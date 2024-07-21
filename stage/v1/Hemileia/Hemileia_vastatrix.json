@@ -1,0 +1,113 @@
+{
+ "genus": "Hemileia",
+ "name": "vastatrix",
+ "date": [
+  "03/06/2024,7070975089679528",
+  "03/31/2023,5838570336253349"
+ ],
+ "names_zhtw": [
+  "咖啡駝孢銹菌"
+ ],
+ "names_en": [],
+ "url": "5838570336253349",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Hemileia_vastatrix_fafc6150-cfce-11ed-87a2-d18a4423b747_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hemileia_vastatrix_fafc6150-cfce-11ed-87a2-d18a4423b747_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hemileia_vastatrix_fafc6150-cfce-11ed-87a2-d18a4423b747_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hemileia_vastatrix_fafc6150-cfce-11ed-87a2-d18a4423b747_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hemileia_vastatrix_fafc6150-cfce-11ed-87a2-d18a4423b747_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hemileia_vastatrix_fafc6150-cfce-11ed-87a2-d18a4423b747_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hemileia_vastatrix_fafc6150-cfce-11ed-87a2-d18a4423b747_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hemileia_vastatrix_63cad0c0-ddd6-11ee-bbe8-b34b0fdb9915_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hemileia_vastatrix_63cad0c0-ddd6-11ee-bbe8-b34b0fdb9915_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hemileia_vastatrix_63cad0c0-ddd6-11ee-bbe8-b34b0fdb9915_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hemileia_vastatrix_63cad0c0-ddd6-11ee-bbe8-b34b0fdb9915_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hemileia_vastatrix_63cad0c0-ddd6-11ee-bbe8-b34b0fdb9915_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hemileia_vastatrix_63cad0c0-ddd6-11ee-bbe8-b34b0fdb9915_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "咖啡驼孢锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840,4294931200",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Hemileia vastatrix",
+   "cname": "Coffee Rust Fungus",
+   "url": "https://www.inaturalist.org/taxa/328339-Hemileia-vastatrix",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3314420/thumb.jpg"
+  }
+ ]
+}

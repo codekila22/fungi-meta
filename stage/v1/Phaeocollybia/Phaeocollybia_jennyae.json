@@ -1,0 +1,71 @@
+{
+ "genus": "Phaeocollybia",
+ "name": "jennyae",
+ "date": [
+  "06/21/2020,2867756073334805"
+ ],
+ "names_zhtw": [
+  "詹尼暗金錢菌"
+ ],
+ "names_en": [],
+ "url": "2867756073334805",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Phaeocollybia_jennyae_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Phaeocollybia_jennyae_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Phaeocollybia_jennyae_3_CC BY-NC_James Ho.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "詹尼暗金钱菌"
+ ],
+ "meta": {
+  "CapColors": "4290547599,4289864226,4288696877",
+  "CapDiamRangeValues": "10,30",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "4294921536",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "rooting",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Phaeocollybia jennyae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/855661-Phaeocollybia-jennyae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30551099/thumb.jpg"
+  }
+ ]
+}

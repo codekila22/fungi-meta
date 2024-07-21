@@ -1,0 +1,143 @@
+{
+ "genus": "Purpureocillium",
+ "name": "atypicola",
+ "synonym": [
+  {
+   "name": "Nomuraea atypicola",
+   "zhtw": "非典型野村黴",
+   "zhcn": "非典型野村霉"
+  }
+ ],
+ "date": [
+  "04/29/2024,7286333218143713",
+  "07/04/2023,6161271200649926",
+  "07/02/2023,6155836471193399",
+  "05/01/2023,5934944879949227",
+  "02/23/2023,5760205077423209",
+  "06/30/2021,4082987425144991",
+  "07/13/2018,1617083315068760",
+  "07/19/2017,1262815523828876",
+  "07/09/2017,1251709848272777",
+  "05/27/2017,1210629452380817",
+  "05/10/2017,1195657847211311",
+  "06/10/2016,914840748626357"
+ ],
+ "names_zhtw": [
+  "非典型紫孢菌",
+  "紫僵菌"
+ ],
+ "names_en": [],
+ "url": "4082987425144991",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Nomuraea_atypicola_11_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Purpureocillium_atypicola_2a1911f0-199d-11ee-8ca7-ad4ff54ffc59_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Purpureocillium_atypicola_2a1911f0-199d-11ee-8ca7-ad4ff54ffc59_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Purpureocillium_atypicola_6e87ac10-1afc-11ee-b32e-536629aba92b_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Purpureocillium_atypicola_6e87ac10-1afc-11ee-b32e-536629aba92b_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Purpureocillium_atypicola_6e87ac10-1afc-11ee-b32e-536629aba92b_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "非典型紫孢菌",
+  "紫僵菌"
+ ],
+ "meta": {
+  "CapColors": "4290822336,4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Cordyceps cylindrica,,",
+  "Note": "紫殭菌(Purpureocillium atypicola)為柱形蟲草(Cordyceps cylindrica)的無性型，在台灣會寄生在閉戶螲蟷科(Ctenizidae)的蜘蛛上。"
+ },
+ "inaturalist": [
+  {
+   "name": "Purpureocillium atypicola",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/823761-Purpureocillium-atypicola",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/126471866/thumb.jpeg"
+  }
+ ]
+}

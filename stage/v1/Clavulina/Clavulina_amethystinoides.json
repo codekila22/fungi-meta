@@ -1,0 +1,71 @@
+{
+ "genus": "Clavulina",
+ "name": "amethystinoides",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "淡紫鎖瑚菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/679",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Clavulina_amethystinoides_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Clavulina_amethystinoides_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Clavulina_amethystinoides_1_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "淡紫锁瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4290547599,4293313475,4286578816",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "30,80",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Clavulina amethystinoides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1268171-Clavulina-amethystinoides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156149960/thumb.jpg"
+  }
+ ]
+}

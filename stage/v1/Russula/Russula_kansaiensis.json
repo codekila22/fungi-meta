@@ -1,0 +1,101 @@
+{
+ "genus": "Russula",
+ "name": "kansaiensis",
+ "date": [
+  "05/19/2022,4931413846969007",
+  "10/15/2020,3205846299525779",
+  "10/09/2020,3216039461839796"
+ ],
+ "names_zhtw": [
+  "關西紅菇"
+ ],
+ "names_en": [],
+ "url": "3216039461839796",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_kansaiensis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_kansaiensis_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_kansaiensis_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_kansaiensis_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_kansaiensis_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_kansaiensis_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Russula_kansaiensis_f756a320-e5cd-11ed-b6e9-196f0e123df9_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Russula_kansaiensis_f756a320-e5cd-11ed-b6e9-196f0e123df9_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Russula_kansaiensis_f756a320-e5cd-11ed-b6e9-196f0e123df9_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Russula_kansaiensis_f756a320-e5cd-11ed-b6e9-196f0e123df9_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "关西红菇"
+ ],
+ "meta": {
+  "CapColors": "4282843172,4288768839,4288696877",
+  "CapDiamRangeValues": "10,25",
+  "CapShape": "depressed",
+  "CapTexture": "smooth",
+  "CapMargin": "striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "subdistant",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "occacional",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "wood,ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "not-edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "最小型的紅菇之一，偶爾會生長在枯木上。"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula kansaiensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1205145-Russula-kansaiensis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/160363239/thumb.jpg"
+  }
+ ]
+}

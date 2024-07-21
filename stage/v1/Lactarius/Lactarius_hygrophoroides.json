@@ -1,0 +1,98 @@
+{
+ "genus": "Lactarius",
+ "name": "hygrophoroides",
+ "date": [
+  "07/06/2024,7619520638158301",
+  "08/18/2017,1297527470357681"
+ ],
+ "names_zhtw": [
+  "稀褶乳菇"
+ ],
+ "names_en": [],
+ "url": "7619520638158301",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Lactarius_hygrophoroides_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lactarius_hygrophoroides_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lactarius_hygrophoroides_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lactarius_hygrophoroides_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_hygrophoroides_829fac40-a85f-1070-8b97-07109b13a992_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_hygrophoroides_829fac40-a85f-1070-8b97-07109b13a992_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_hygrophoroides_829fac40-a85f-1070-8b97-07109b13a992_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_hygrophoroides_829fac40-a85f-1070-8b97-07109b13a992_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "稀褶乳菇"
+ ],
+ "meta": {
+  "CapColors": "4293302630",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Lactifluus hygrophoroides",
+   "cname": "Hygrophorus Milkcap",
+   "url": "https://www.inaturalist.org/taxa/351320-Lactifluus-hygrophoroides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4471368/thumb.jpeg"
+  },
+  {
+   "name": "Lactifluus rugatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/823802-Lactifluus-rugatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29587430/thumb.jpeg"
+  }
+ ]
+}

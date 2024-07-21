@@ -1,0 +1,93 @@
+{
+ "genus": "Kobayasia",
+ "name": "nipponica",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "日本小林氏菌",
+  "豆沙包"
+ ],
+ "names_en": [],
+ "url": "3272051572905251",
+ "images": [
+  {
+   "author": "邱嫊惠",
+   "image_src": "Kobayasia_nipponica_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Kobayasia_nipponica_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Kobayasia_nipponica_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Kobayasia_nipponica_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Kobayasia_nipponica_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Kobayasia_nipponica_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Kobayasia_nipponica_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Kobayasia_nipponica_2_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "日本小林氏菌",
+  "豆沙包"
+ ],
+ "meta": {
+  "CapColors": "4294309365",
+  "CapDiamRangeValues": "20,40",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gasteroid",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "4283215696,4278190080",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Kobayasia nipponica",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1373991-Kobayasia-nipponica",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/186870780/thumb.jpg"
+  }
+ ]
+}

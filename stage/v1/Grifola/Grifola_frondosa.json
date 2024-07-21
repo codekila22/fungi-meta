@@ -1,0 +1,70 @@
+{
+ "genus": "Grifola",
+ "name": "frondosa",
+ "date": [
+  "08/22/2023,6321176834659361",
+  "03/23/2020,2669233973187017"
+ ],
+ "names_zhtw": [
+  "灰樹花菌"
+ ],
+ "names_en": [
+  "Hen of the Woods"
+ ],
+ "url": "2669233973187017",
+ "images": [
+  {
+   "author": "王亞瑟",
+   "image_src": "Grifola_frondosa_1_CC BY-NC_王亞瑟.jpg"
+  },
+  {
+   "author": "王亞瑟",
+   "image_src": "Grifola_frondosa_2_CC BY-NC_王亞瑟.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "灰树花菌"
+ ],
+ "meta": {
+  "CapColors": "4286611584,4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "100,1000",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "pored",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "1,3",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly",
+  "GrowthEnv": "wood",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "choice",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Meripilus giganteus,,",
+  "Note": "寄生於樹幹基部，或從樹幹附近根部的土上冒出來。與相似種比較，此種菌蓋顏色較灰，菌孔較大。"
+ },
+ "inaturalist": [
+  {
+   "name": "Grifola frondosa",
+   "cname": "Hen of the Woods",
+   "url": "https://www.inaturalist.org/taxa/53714-Grifola-frondosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027079/thumb.jpg"
+  }
+ ]
+}

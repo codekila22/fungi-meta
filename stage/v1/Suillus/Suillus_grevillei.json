@@ -1,0 +1,96 @@
+{
+ "genus": "Suillus",
+ "name": "grevillei",
+ "date": [
+  "10/30/2022"
+ ],
+ "names_zhtw": [
+  "厚環乳牛肝菌"
+ ],
+ "names_en": [],
+ "url": "5424310934345960",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Suillus_grevillei_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Suillus_grevillei_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Suillus_grevillei_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Suillus_grevillei_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Suillus_grevillei_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Suillus_grevillei_6_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Suillus_grevillei_7_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Suillus_grevillei_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Suillus_grevillei_2_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "厚环乳牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4289864226,4286141768",
+  "CapDiamRangeValues": "50,110",
+  "CapShape": "convex",
+  "CapTexture": "slimy",
+  "CapMargin": "",
+  "HymeniumType": "pored",
+  "HymeniumColors": "4286141768,4294962944",
+  "HymeniumSporePrints": "4286141768,4294198070",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "60,120",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "red",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Suillus luteus,,",
+  "Note": "生長於松科植物旁，傘面一開始從紅橙色慢慢轉變為紅棕色。傘面潮濕時會黏滑，乾燥時不會。菌柄無腺點，菌環下方的菌柄與傘面同色。具有黏性的表皮剝除後，充分煮熟方能食用。"
+ },
+ "inaturalist": [
+  {
+   "name": "Suillus grevillei",
+   "cname": "Larch Bolete",
+   "url": "https://www.inaturalist.org/taxa/147277-Suillus-grevillei",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20305810/thumb.jpg"
+  }
+ ]
+}

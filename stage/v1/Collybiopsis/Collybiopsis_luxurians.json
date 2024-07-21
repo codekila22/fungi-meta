@@ -1,0 +1,147 @@
+{
+ "genus": "Collybiopsis",
+ "name": "luxurians",
+ "synonym": [
+  {
+   "name": "Gymnopus luxurians",
+   "zhtw": "華麗金錢菌",
+   "zhcn": "华丽金钱菌"
+  },
+  {
+   "name": "Marasmiellus luxurians",
+   "zhtw": "華麗微皮傘",
+   "zhcn": "华丽微皮伞"
+  }
+ ],
+ "date": [
+  "08/17/2023,6304294653014246",
+  "08/06/2023,6268279633282415",
+  "08/06/2023,6268303799946665",
+  "08/13/2021,4031525210291213"
+ ],
+ "names_zhtw": [
+  "華麗擬金錢菇"
+ ],
+ "names_en": [],
+ "url": "4031525210291213",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Collybiopsis_luxurians_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Collybiopsis_luxurians_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Collybiopsis_luxurians_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Collybiopsis_luxurians_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Collybiopsis_luxurians_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Collybiopsis_luxurians_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Collybiopsis_luxurians_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Collybiopsis_luxurians_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Collybiopsis_luxurians_9_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Collybiopsis_luxurians_10_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybiopsis_luxurians_30c2b4f0-34ac-11ee-90be-99a0510f4988_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybiopsis_luxurians_30c2b4f0-34ac-11ee-90be-99a0510f4988_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybiopsis_luxurians_30c2b4f0-34ac-11ee-90be-99a0510f4988_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybiopsis_luxurians_30c2b4f0-34ac-11ee-90be-99a0510f4988_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybiopsis_luxurians_30c2b4f0-34ac-11ee-90be-99a0510f4988_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybiopsis_luxurians_30c2b4f0-34ac-11ee-90be-99a0510f4988_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybiopsis_luxurians_30c2b4f0-34ac-11ee-90be-99a0510f4988_7.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybiopsis_luxurians_30c2b4f0-34ac-11ee-90be-99a0510f4988_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "华丽拟金钱菇"
+ ],
+ "meta": {
+  "CapColors": "4294957753,4291659071,4290278195",
+  "CapDiamRangeValues": "30,110",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "4,15",
+  "StalkLengthRangeValuess": "40,70",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer",
+  "GrowthType": "grouped,clustered",
+  "GrowthEnv": "ground,debris,meadow",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "褶色年輕的時候偏白色，老熟之後轉為帶粉褐色。"
+ },
+ "inaturalist": [
+  {
+   "name": "Collybiopsis luxurians",
+   "cname": "Luxury Caps",
+   "url": "https://www.inaturalist.org/taxa/1275348-Collybiopsis-luxurians",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10379126/thumb.jpg"
+  }
+ ]
+}

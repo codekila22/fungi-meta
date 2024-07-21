@@ -1,0 +1,84 @@
+{
+ "genus": "Erysiphe",
+ "name": "sordida",
+ "date": [
+  "04/22/2023,5906098706167178"
+ ],
+ "names_zhtw": [
+  "車前草白粉病"
+ ],
+ "names_en": [],
+ "url": "5906098706167178",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Erysiphe_sordida_5b644790-e0e3-11ed-a351-19e39d67a5c9_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Erysiphe_sordida_5b644790-e0e3-11ed-a351-19e39d67a5c9_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Erysiphe_sordida_5b644790-e0e3-11ed-a351-19e39d67a5c9_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Erysiphe_sordida_5b644790-e0e3-11ed-a351-19e39d67a5c9_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Erysiphe_sordida_5b644790-e0e3-11ed-a351-19e39d67a5c9_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Erysiphe_sordida_5b644790-e0e3-11ed-a351-19e39d67a5c9_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "车前草白粉病"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Golovinomyces sordidus",
+   "cname": "Plantain Mildew",
+   "url": "https://www.inaturalist.org/taxa/379816-Golovinomyces-sordidus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55196749/thumb.jpg"
+  }
+ ]
+}

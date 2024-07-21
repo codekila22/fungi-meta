@@ -1,0 +1,79 @@
+{
+ "genus": "Ombrophila",
+ "name": "violacea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "堇紫雨盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3628",
+ "images": [
+  {
+   "author": "林進福",
+   "image_src": "Ombrophila_violacea_1_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Ombrophila_violacea_2_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Ombrophila_violacea_3_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Ombrophila_violacea_4_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Ombrophila_violacea_5_CC BY-NC_林進福.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "堇紫雨盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294963445,4293316582,4286578816",
+  "CapDiamRangeValues": "2,8",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Ombrophila violacea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/383359-Ombrophila-violacea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/77034095/thumb.jpg"
+  }
+ ]
+}

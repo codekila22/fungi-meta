@@ -1,0 +1,91 @@
+{
+ "genus": "Oudemansiella",
+ "name": "pudens",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "絨毛小奧德蘑"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/924",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Oudemansiella_pudens_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Oudemansiella_pudens_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Oudemansiella_pudens_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Oudemansiella_pudens_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Oudemansiella_pudens_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Oudemansiella_pudens_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Oudemansiella_pudens_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Oudemansiella_pudens_8_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "绒毛小奥德蘑"
+ ],
+ "meta": {
+  "CapColors": "4288768839,4283244288",
+  "CapDiamRangeValues": "20,40",
+  "CapShape": "flat,convex",
+  "CapTexture": "velvety",
+  "CapMargin": "entire",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "subdistant,shortgills",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "smooth",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294940928,4294962944",
+  "StalkTexture": "velvety",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "rooting",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "5,8",
+  "Rareness": "",
+  "Seasons": "spring,summer",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Xerula pudens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/491237-Xerula-pudens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29587924/thumb.jpeg"
+  }
+ ]
+}

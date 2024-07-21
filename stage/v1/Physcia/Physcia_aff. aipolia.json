@@ -1,0 +1,102 @@
+{
+ "genus": "Physcia",
+ "name": "aff. aipolia",
+ "date": [
+  "01/05/2024,6857536117690094"
+ ],
+ "names_zhtw": [
+  "斑面蜈蚣衣的相似種"
+ ],
+ "names_en": [],
+ "url": "6857536117690094",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_7.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_8.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_9.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "斑面蜈蚣衣的相似种"
+ ],
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Physcia aipolia",
+   "cname": "Hoary Rosette Lichen",
+   "url": "https://www.inaturalist.org/taxa/117877-Physcia-aipolia",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/115933742/thumb.jpg"
+  },
+  {
+   "name": "Physcia alnophila",
+   "cname": "Outward-looking Rosette Lichen",
+   "url": "https://www.inaturalist.org/taxa/463769-Physcia-alnophila",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6300858/thumb.jpeg"
+  }
+ ]
+}

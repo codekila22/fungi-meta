@@ -1,0 +1,101 @@
+{
+ "genus": "Agaricus",
+ "name": "augustus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "大紫蘑菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5859",
+ "images": [
+  {
+   "author": "Rachel Ding",
+   "image_src": "Agaricus_augustus_4_CC BY-NC_Rachel Ding.jpg"
+  },
+  {
+   "author": "Rachel Ding",
+   "image_src": "Agaricus_augustus_2_CC BY-NC_Rachel Ding.jpg"
+  },
+  {
+   "author": "Rachel Ding",
+   "image_src": "Agaricus_augustus_3_CC BY-NC_Rachel Ding.jpg"
+  },
+  {
+   "author": "Rachel Ding",
+   "image_src": "Agaricus_augustus_1_CC BY-NC_Rachel Ding.jpg"
+  },
+  {
+   "author": "Rachel Ding",
+   "image_src": "Agaricus_augustus_5_CC BY-NC_Rachel Ding.jpg"
+  },
+  {
+   "author": "Rachel Ding",
+   "image_src": "Agaricus_augustus_6_CC BY-NC_Rachel Ding.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "大紫蘑菇"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4290547599",
+  "CapDiamRangeValues": "100,220",
+  "CapShape": "convex,flat",
+  "CapTexture": "flat-scales",
+  "CapMargin": "entire",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4286141768",
+  "HymeniumSporePrints": "4286141768",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "20,40",
+  "StalkLengthRangeValuess": "100,200",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Agaricus augustus",
+   "cname": "The Prince",
+   "url": "https://www.inaturalist.org/taxa/49547-Agaricus-augustus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22093962/thumb.jpg"
+  },
+  {
+   "name": "Agaricus augustus var. augustus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/371459-Agaricus-augustus-augustus",
+   "src": "https://static.inaturalist.org/photos/12836958/thumb.jpg"
+  },
+  {
+   "name": "Agaricus augustus var. perrarus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/371460-Agaricus-augustus-perrarus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8823853/thumb.jpeg"
+  },
+  {
+   "name": "Agaricus augustus var. albus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/371458-Agaricus-augustus-albus",
+   "src": ""
+  }
+ ]
+}

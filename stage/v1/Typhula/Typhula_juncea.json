@@ -1,0 +1,108 @@
+{
+ "genus": "Typhula",
+ "name": "juncea",
+ "synonym": [
+  {
+   "name": "Clavaria juncea",
+   "zhtw": "燈草珊瑚菌",
+   "zhcn": "灯草珊瑚菌"
+  }
+ ],
+ "date": [
+  "12/08/2023,6722945914482449",
+  "02/11/2023,5684455531664831"
+ ],
+ "names_zhtw": [
+  "燈心草核瑚菌",
+  "燈心草巨核瑚菌"
+ ],
+ "names_en": [
+  "Macrotyphula juncea"
+ ],
+ "url": "5684455531664831",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhula_juncea_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhula_juncea_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhula_juncea_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhula_juncea_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhula_juncea_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_juncea_b1080fc0-fa4f-11ee-99a5-4d8c6aa3c2b4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_juncea_b1080fc0-fa4f-11ee-99a5-4d8c6aa3c2b4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_juncea_b1080fc0-fa4f-11ee-99a5-4d8c6aa3c2b4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_juncea_b1080fc0-fa4f-11ee-99a5-4d8c6aa3c2b4_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "灯心草核瑚菌",
+  "灯心草巨核瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4292072403",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Macrotyphula juncea",
+   "cname": "Slender Club",
+   "url": "https://www.inaturalist.org/taxa/54717-Macrotyphula-juncea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109340192/thumb.jpeg"
+  }
+ ]
+}

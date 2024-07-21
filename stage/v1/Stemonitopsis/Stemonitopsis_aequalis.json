@@ -1,0 +1,83 @@
+{
+ "genus": "Stemonitopsis",
+ "name": "aequalis",
+ "date": [
+  "07/08/2017,1253351844775244"
+ ],
+ "names_zhtw": [
+  "均等半髮網黏菌"
+ ],
+ "names_en": [],
+ "url": "1253351844775244",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_aequalis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_aequalis_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_aequalis_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_aequalis_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_aequalis_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_aequalis_6_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "均等半发网黏菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Stemonitopsis aequalis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1261930-Stemonitopsis-aequalis",
+   "src": "https://static.inaturalist.org/photos/255671094/thumb.jpeg"
+  }
+ ]
+}

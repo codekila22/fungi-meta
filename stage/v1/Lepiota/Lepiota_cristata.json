@@ -1,0 +1,135 @@
+{
+ "genus": "Lepiota",
+ "name": "cristata",
+ "date": [
+  "03/30/2024,7163805320396504",
+  "08/09/2023,6278358278941217",
+  "06/18/2023,6103584063085307"
+ ],
+ "names_zhtw": [
+  "冠環柄菇"
+ ],
+ "names_en": [],
+ "url": "6278358278941217",
+ "images": [
+  {
+   "author": "游永滄",
+   "image_src": "Lepiota_cristata_1_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_cristata_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Lepiota_cristata_2_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Lepiota_cristata_3_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_cristata_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_cristata_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_cristata_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_cristata_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Lepiota_cristata_d2356a90-0e2c-11ee-93e4-8dfca6a70392_1.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Lepiota_cristata_d2356a90-0e2c-11ee-93e4-8dfca6a70392_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_75b7f020-efd7-11ee-a4f4-9b60f1022b22_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_75b7f020-efd7-11ee-a4f4-9b60f1022b22_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_75b7f020-efd7-11ee-a4f4-9b60f1022b22_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_75b7f020-efd7-11ee-a4f4-9b60f1022b22_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_75b7f020-efd7-11ee-a4f4-9b60f1022b22_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_75b7f020-efd7-11ee-a4f4-9b60f1022b22_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_75b7f020-efd7-11ee-a4f4-9b60f1022b22_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "冠环柄菇"
+ ],
+ "meta": {
+  "CapColors": "4294960564,4290278195,4292519200",
+  "CapDiamRangeValues": "20,40",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "common",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Lepiota",
+   "cname": "Stinking Dapperling",
+   "url": "https://www.inaturalist.org/taxa/58695-Lepiota",
+   "src": "https://static.inaturalist.org/photos/53449439/thumb.jpeg"
+  },
+  {
+   "name": "Lepiota cristata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/58694-Lepiota-cristata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/300631187/thumb.jpg"
+  }
+ ]
+}

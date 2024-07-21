@@ -1,0 +1,75 @@
+{
+ "genus": "Tremellodendropsis",
+ "name": "tuberosa",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "種珊瑚銀耳"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/2730",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Tremellodendropsis_tuberosa_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tremellodendropsis_tuberosa_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tremellodendropsis_tuberosa_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tremellodendropsis_tuberosa_6_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "种珊瑚银耳"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294967280",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Tremellodendropsis tuberosa",
+   "cname": "Ashen Coral",
+   "url": "https://www.inaturalist.org/taxa/55235-Tremellodendropsis-tuberosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9224/thumb.jpg"
+  }
+ ]
+}

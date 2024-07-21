@@ -1,0 +1,83 @@
+{
+ "genus": "Cribraria",
+ "name": "aurantiaca",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "橘黃篩黏菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4935",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Cribraria_aurantiaca_14_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cribraria_aurantiaca_12_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cribraria_aurantiaca_13_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cribraria_aurantiaca_11_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cribraria_aurantiaca_15_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cribraria_aurantiaca_16_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "橘黄筛黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294944000,4292519200,4294950656",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Cribraria aurantiaca",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382036-Cribraria-aurantiaca",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4127012/thumb.jpg"
+  }
+ ]
+}

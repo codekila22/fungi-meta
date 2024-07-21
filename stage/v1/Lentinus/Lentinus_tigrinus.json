@@ -1,0 +1,81 @@
+{
+ "genus": "Lentinus",
+ "name": "tigrinus",
+ "date": [
+  "08/18/2023,6307607939349584"
+ ],
+ "names_zhtw": [
+  "虎皮斗菇",
+  "虎皮香菇"
+ ],
+ "names_en": [],
+ "url": "6307607939349584",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Lentinus_tigrinus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lentinus_tigrinus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lentinus_tigrinus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lentinus_tigrinus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lentinus_tigrinus_5_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "虎皮斗菇",
+  "虎皮香菇"
+ ],
+ "meta": {
+  "CapColors": "4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Lentinus tigrinus",
+   "cname": "Tiger Sawgill",
+   "url": "https://www.inaturalist.org/taxa/351365-Lentinus-tigrinus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/132207076/thumb.jpeg"
+  }
+ ]
+}

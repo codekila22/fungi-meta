@@ -1,0 +1,67 @@
+{
+ "genus": "Daedaleopsis",
+ "name": "purpurea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "紫帶擬迷孔菌"
+ ],
+ "names_en": [],
+ "url": "3227078367402572",
+ "images": [
+  {
+   "author": "劉禎",
+   "image_src": "Daedaleopsis_purpurea_1_CC BY-NC_劉禎.jpg"
+  },
+  {
+   "author": "劉禎",
+   "image_src": "Daedaleopsis_purpurea_2_CC BY-NC_劉禎.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫带拟迷孔菌"
+ ],
+ "meta": {
+  "CapColors": "4284635991",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Daedaleopsis nipponica",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1426727-Daedaleopsis-nipponica",
+   "src": ""
+  }
+ ]
+}

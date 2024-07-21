@@ -1,0 +1,79 @@
+{
+ "genus": "Amanita",
+ "name": "spreta",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "條緣鵝膏"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1954",
+ "images": [
+  {
+   "author": "邱嫊惠",
+   "image_src": "Amanita_spreta_3_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Amanita_spreta_2_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Amanita_spreta_1_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Amanita_spreta_4_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Amanita_spreta_5_CC BY-NC_邱嫊惠.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "条缘鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4294309340,4294309365",
+  "CapDiamRangeValues": "50,110",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "10,20",
+  "StalkLengthRangeValuess": "50,100",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita spreta",
+   "cname": "Hated Caesar",
+   "url": "https://www.inaturalist.org/taxa/335052-Amanita-spreta",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/143289039/thumb.jpg"
+  }
+ ]
+}

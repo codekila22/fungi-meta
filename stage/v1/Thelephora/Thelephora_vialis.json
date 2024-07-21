@@ -1,0 +1,79 @@
+{
+ "genus": "Thelephora",
+ "name": "vialis",
+ "date": [
+  "07/29/2020,2968587093251702",
+  "07/05/2017,1258988944211534",
+  "08/14/2016,952091751567923",
+  "09/12/2014,602697473174021"
+ ],
+ "names_zhtw": [
+  "蓮座革菌"
+ ],
+ "names_en": [],
+ "url": "1258988944211534",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Thelephora_vialis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Thelephora_vialis_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Thelephora_vialis_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Thelephora_vialis_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "莲座革菌"
+ ],
+ "meta": {
+  "CapColors": "4290822336,4292072403",
+  "CapDiamRangeValues": "20,150",
+  "CapShape": "",
+  "CapTexture": "velvety",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "20,100",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Thelephora fuscella,,",
+  "Note": "形狀類似蓮花座，菌蓋顏色較淡。"
+ },
+ "inaturalist": [
+  {
+   "name": "Thelephora vialis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/352511-Thelephora-vialis",
+   "src": "https://static.inaturalist.org/photos/962191/thumb.jpg"
+  }
+ ]
+}

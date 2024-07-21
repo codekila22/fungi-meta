@@ -1,0 +1,105 @@
+{
+ "genus": "Rhodocollybia",
+ "name": "maculata",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "斑紅金錢菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4142",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Rhodocollybia_maculata_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Rhodocollybia_maculata_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Rhodocollybia_maculata_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Rhodocollybia_maculata_4_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "斑红金钱菇"
+ ],
+ "meta": {
+  "CapColors": "4294958765,4294303411,4292786311",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Rhodocollybia maculata",
+   "cname": "Spotted Collybia",
+   "url": "https://www.inaturalist.org/taxa/118168-Rhodocollybia-maculata",
+   "src": "https://static.inaturalist.org/photos/237942427/thumb.jpeg"
+  },
+  {
+   "name": "Rhodocollybia maculata var. scorzonerea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1019587-Rhodocollybia-maculata-scorzonerea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15434914/thumb.jpg"
+  },
+  {
+   "name": "Rhodocollybia maculata var. maculata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/118164-Rhodocollybia-maculata-maculata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13070438/thumb.jpeg"
+  },
+  {
+   "name": "Rhodocollybia maculata var. occidentalis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1409651-Rhodocollybia-maculata-occidentalis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/136671123/thumb.jpg"
+  },
+  {
+   "name": "Rhodocollybia maculata var. nigra",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1409652-Rhodocollybia-maculata-nigra",
+   "src": ""
+  },
+  {
+   "name": "Rhodocollybia maculata var. fulva",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1409653-Rhodocollybia-maculata-fulva",
+   "src": ""
+  }
+ ]
+}

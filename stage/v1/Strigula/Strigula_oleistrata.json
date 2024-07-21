@@ -1,0 +1,76 @@
+{
+ "genus": "Strigula",
+ "name": "oleistrata",
+ "date": [
+  "01/22/2023,5620653788045006"
+ ],
+ "names_zhtw": [
+  "黑橄欖葉上衣"
+ ],
+ "names_en": [],
+ "url": "5620653788045006",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Strigula_oleistrata_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Strigula_oleistrata_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Strigula_oleistrata_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Strigula_oleistrata_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黑橄榄叶上衣"
+ ],
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Strigula oleistrata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/968394-Strigula-oleistrata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10640011/thumb.jpg"
+  }
+ ]
+}

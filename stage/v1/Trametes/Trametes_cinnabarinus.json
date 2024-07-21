@@ -1,0 +1,88 @@
+{
+ "genus": "Trametes",
+ "name": "cinnabarinus",
+ "date": [
+  "09/15/2015,1264499800327115",
+  "07/27/2015,760632844047149"
+ ],
+ "names_zhtw": [
+  "朱紅栓菌"
+ ],
+ "names_en": [],
+ "url": "1264499800327115",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Pycnoporus_cinnabarinus_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pycnoporus_cinnabarinus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pycnoporus_cinnabarinus_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pycnoporus_cinnabarinus_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pycnoporus_cinnabarinus_5_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Pycnoporus cinnabarinus",
+   "zhtw": "朱紅密孔菌",
+   "zhcn": "朱红密孔菌"
+  }
+ ],
+ "names_zhcn": [
+  "朱红栓菌"
+ ],
+ "meta": {
+  "CapColors": "4289864226,4294921472",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "2,4",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Trametes sanguineus,,",
+  "Note": "菌蓋較相似種厚，菌孔較相似種大。"
+ },
+ "inaturalist": [
+  {
+   "name": "Trametes cinnabarina",
+   "cname": "Northern Cinnabar Polypore",
+   "url": "https://www.inaturalist.org/taxa/974663-Trametes-cinnabarina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/161138523/thumb.jpg"
+  }
+ ]
+}

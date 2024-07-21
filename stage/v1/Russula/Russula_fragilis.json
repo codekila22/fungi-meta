@@ -1,0 +1,123 @@
+{
+ "genus": "Russula",
+ "name": "fragilis",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "脆紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1006",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Russula_fragilis_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_fragilis_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_fragilis_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_fragilis_4_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "脆红菇"
+ ],
+ "meta": {
+  "CapColors": "4291648604,4286578688",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Russula fragilis",
+   "cname": "Fragile Brittlegill",
+   "url": "https://www.inaturalist.org/taxa/179715-Russula-fragilis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29240304/thumb.jpeg"
+  },
+  {
+   "name": "Russula fragilis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1366832-Russula-fragilis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/237164542/thumb.jpeg"
+  },
+  {
+   "name": "Russula fragilis pseudoraoultii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/179716-Russula-fragilis-pseudoraoultii",
+   "src": ""
+  },
+  {
+   "name": "Russula fragilis nivea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/179718-Russula-fragilis-nivea",
+   "src": ""
+  },
+  {
+   "name": "Russula fragilis violascens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/179713-Russula-fragilis-violascens",
+   "src": ""
+  },
+  {
+   "name": "Russula fragilis viridilutea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/179712-Russula-fragilis-viridilutea",
+   "src": ""
+  },
+  {
+   "name": "Russula fragilis fumosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/179714-Russula-fragilis-fumosa",
+   "src": ""
+  },
+  {
+   "name": "Russula fragilis fragilis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/179717-Russula-fragilis-fragilis",
+   "src": ""
+  },
+  {
+   "name": "Russula fragilis var. carminea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/179719-Russula-fragilis-carminea",
+   "src": ""
+  }
+ ]
+}

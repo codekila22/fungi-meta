@@ -1,0 +1,75 @@
+{
+ "genus": "Clavulina",
+ "name": "aff. tepurumenga",
+ "date": [
+  "08/26/2021,4071794769597590"
+ ],
+ "names_zhtw": [
+  "特普魯蒙鎖瑚菌的相似種"
+ ],
+ "names_en": [],
+ "url": "4071794769597590",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_aff. tepurumenga_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_aff. tepurumenga_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_aff. tepurumenga_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_aff. tepurumenga_4_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "特普鲁蒙锁瑚菌的相似种"
+ ],
+ "meta": {
+  "CapColors": "4286611584,4290822336,4292664540",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "20,60",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,debris",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長在豆科植物旁。"
+ },
+ "inaturalist": [
+  {
+   "name": "Clavulina tepurumenga",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1159261-Clavulina-tepurumenga",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/171359675/thumb.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "genus": "Haematomma",
+ "name": "puniceum",
+ "date": [
+  "08/30/2022,5199513340159055"
+ ],
+ "names_zhtw": [
+  "白赤星衣"
+ ],
+ "names_en": [],
+ "url": "5199513340159055",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Haematomma_puniceum_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Haematomma_puniceum_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Haematomma_puniceum_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Haematomma_puniceum_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Haematomma_puniceum_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum_a89384b0-7b0f-11ee-84c2-9b628d51c94c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum_a89384b0-7b0f-11ee-84c2-9b628d51c94c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum_a89384b0-7b0f-11ee-84c2-9b628d51c94c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haematomma_puniceum_a89384b0-7b0f-11ee-84c2-9b628d51c94c_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "白赤星衣"
+ ],
+ "meta": {
+  "CapColors": "4293263360,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Haematomma collatum,,",
+  "Note": "與相似種比較，此種子囊盤邊緣平整。"
+ },
+ "inaturalist": [
+  {
+   "name": "Haematomma puniceum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/220842-Haematomma-puniceum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/189495943/thumb.jpeg"
+  },
+  {
+   "name": "Haematomma breviculum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/586743-Haematomma-breviculum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/184402840/thumb.jpeg"
+  },
+  {
+   "name": "Haematomma collatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/586744-Haematomma-collatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/824123/thumb.jpg"
+  },
+  {
+   "name": "Haematomma africanum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/355349-Haematomma-africanum",
+   "src": ""
+  },
+  {
+   "name": "Haematomma puniceum puniceum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1052720-Haematomma-puniceum-puniceum",
+   "src": ""
+  },
+  {
+   "name": "Haematomma puniceum rufopallens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1101418-Haematomma-puniceum-rufopallens",
+   "src": ""
+  }
+ ]
+}

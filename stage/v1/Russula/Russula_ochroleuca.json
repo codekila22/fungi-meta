@@ -1,0 +1,75 @@
+{
+ "genus": "Russula",
+ "name": "ochroleuca",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "黃白紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1949",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_ochroleuca_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_ochroleuca_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_ochroleuca_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_ochroleuca_4_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄白红菇"
+ ],
+ "meta": {
+  "CapColors": "4292519200,4294962944",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Russula ochroleuca",
+   "cname": "Ochre Brittlegill",
+   "url": "https://www.inaturalist.org/taxa/153459-Russula-ochroleuca",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174540168/thumb.jpg"
+  }
+ ]
+}

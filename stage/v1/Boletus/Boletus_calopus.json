@@ -1,0 +1,113 @@
+{
+ "genus": "Boletus",
+ "name": "calopus",
+ "date": [
+  "06/28/2023,6141370069306706",
+  "07/29/2016,941055352671563"
+ ],
+ "names_zhtw": [
+  "美柄牛肝菌"
+ ],
+ "names_en": [],
+ "url": "6141370069306706",
+ "images": [
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_calopus_4cd9cc60-1679-11ee-a4b2-2f6e997751c5_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_calopus_4cd9cc60-1679-11ee-a4b2-2f6e997751c5_2.jpg"
+  },
+  {
+   "author": "郭淑慧",
+   "image_src": "Boletus_calopus_1_CC BY-NC_郭淑慧.jpg"
+  },
+  {
+   "author": "郭淑慧",
+   "image_src": "Boletus_calopus_2_CC BY-NC_郭淑慧.jpg"
+  },
+  {
+   "author": "郭淑慧",
+   "image_src": "Boletus_calopus_3_CC BY-NC_郭淑慧.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Boletus_calopus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Boletus_calopus_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Boletus_calopus_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Boletus_calopus_7_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Boletus_calopus_8_CC BY-NC.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_calopus_4cd9cc60-1679-11ee-a4b2-2f6e997751c5_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_calopus_4cd9cc60-1679-11ee-a4b2-2f6e997751c5_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_calopus_4cd9cc60-1679-11ee-a4b2-2f6e997751c5_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "美柄牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4286611584,4290822336,4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "blue",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Caloboletus calopus",
+   "cname": "Bitter Beech Bolete",
+   "url": "https://www.inaturalist.org/taxa/701434-Caloboletus-calopus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174714429/thumb.jpg"
+  }
+ ]
+}

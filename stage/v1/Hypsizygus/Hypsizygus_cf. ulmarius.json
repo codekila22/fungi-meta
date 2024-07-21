@@ -1,0 +1,144 @@
+{
+ "genus": "Hypsizygus",
+ "name": "cf. ulmarius",
+ "date": [
+  "07/29/2023,6243674539076258",
+  "02/02/2023,5758230517620665",
+  "01/26/2023,7447792241997809",
+  "12/07/2022,5479489582161428",
+  "10/28/2022,5366665336777187",
+  "10/31/2021,4299349413508790",
+  "02/06/2021,3767766166667120"
+ ],
+ "names_zhtw": [
+  "疑似榆生玉蕈",
+  "榆生離褶傘"
+ ],
+ "names_en": [],
+ "url": "3767766166667120",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Hypsizygus_cf. ulmarius_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypsizygus_cf. ulmarius_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypsizygus_cf. ulmarius_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypsizygus_cf. ulmarius_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypsizygus_cf. ulmarius_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypsizygus_cf. ulmarius_6_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypsizygus_cf. ulmarius_7_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypsizygus_cf. ulmarius_8_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypsizygus_cf. ulmarius_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypsizygus_cf. ulmarius_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypsizygus_cf. ulmarius_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypsizygus_cf. ulmarius_641eff10-2e6d-11ee-b70d-59909af45369_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypsizygus_cf. ulmarius_641eff10-2e6d-11ee-b70d-59909af45369_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypsizygus_cf. ulmarius_08073af0-2195-11ef-a1c0-ed41c1e03536_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypsizygus_cf. ulmarius_08073af0-2195-11ef-a1c0-ed41c1e03536_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypsizygus_cf. ulmarius_08073af0-2195-11ef-a1c0-ed41c1e03536_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypsizygus_cf. ulmarius_08073af0-2195-11ef-a1c0-ed41c1e03536_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypsizygus_cf. ulmarius_08073af0-2195-11ef-a1c0-ed41c1e03536_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypsizygus_cf. ulmarius_08073af0-2195-11ef-a1c0-ed41c1e03536_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似榆生玉蕈",
+  "榆生离褶伞"
+ ],
+ "meta": {
+  "CapColors": "4291998860,4288768839",
+  "CapDiamRangeValues": "60,150",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "crowded",
+  "HymeniumGillAttachment": "decurrent,adnate",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "solid",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "20,30",
+  "StalkLengthRangeValuess": "60,130",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "wood,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Lyophyllum fumosum,,",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Hypsizygus ulmarius",
+   "cname": "Elm Mushroom",
+   "url": "https://www.inaturalist.org/taxa/120862-Hypsizygus-ulmarius",
+   "src": "https://static.inaturalist.org/photos/25639310/thumb.jpg"
+  }
+ ]
+}

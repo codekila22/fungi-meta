@@ -1,0 +1,78 @@
+{
+ "genus": "Gibellula",
+ "name": "cf. arachnophila",
+ "synonym": [
+  {
+   "name": "Torrubiella cf. arachnophila",
+   "zhtw": "疑似嗜蛛蟲殼菌",
+   "zhcn": "疑似嗜蛛虫壳菌"
+  }
+ ],
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "疑似嗜蛛球束梗孢黴"
+ ],
+ "names_en": [],
+ "url": "810297079080725",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Gibellula_cf. arachnophila_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Gibellula_cf. arachnophila_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Gibellula_cf. arachnophila_3_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似嗜蛛球束梗孢霉"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Gibellula arachnophila",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/851969-Gibellula-arachnophila",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2702742/thumb.jpg"
+  }
+ ]
+}

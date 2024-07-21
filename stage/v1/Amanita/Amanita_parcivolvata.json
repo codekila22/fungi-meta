@@ -1,0 +1,128 @@
+{
+ "genus": "Amanita",
+ "name": "parcivolvata",
+ "date": [
+  "07/12/2023,6183664458410600",
+  "07/09/2023,6181424705301242",
+  "07/06/2023,6171795152930864"
+ ],
+ "names_zhtw": [
+  "紅鵝膏"
+ ],
+ "names_en": [
+  "False Caesar's Mushroom"
+ ],
+ "url": "6171795152930864",
+ "images": [
+  {
+   "author": "葉珈良",
+   "image_src": "Amanita_parcivolvata_a5d7bac0-1d72-11ee-8c81-6b14efe0b889_1.jpg"
+  },
+  {
+   "author": "葉珈良",
+   "image_src": "Amanita_parcivolvata_a5d7bac0-1d72-11ee-8c81-6b14efe0b889_2.jpg"
+  },
+  {
+   "author": "葉珈良",
+   "image_src": "Amanita_parcivolvata_a5d7bac0-1d72-11ee-8c81-6b14efe0b889_3.jpg"
+  },
+  {
+   "author": "葉珈良",
+   "image_src": "Amanita_parcivolvata_a5d7bac0-1d72-11ee-8c81-6b14efe0b889_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_12.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "红鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Amanita muscaria,,",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita parcivolvata",
+   "cname": "False Caesar's Mushroom",
+   "url": "https://www.inaturalist.org/taxa/500030-Amanita-parcivolvata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13078818/thumb.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "genus": "Baeomyces",
+ "name": "rufus",
+ "date": [
+  "06/05/2023,6057030304407350",
+  "08/08/2017,1313746712069090"
+ ],
+ "names_zhtw": [
+  "肉紅羊角衣"
+ ],
+ "names_en": [],
+ "url": "1313746712069090",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Baeomyces_rufus_8e957b80-0450-11ee-b625-712427f41898_1.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Baeomyces_placophyllus_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Baeomyces_placophyllus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Baeomyces_placophyllus_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Baeomyces_placophyllus_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Baeomyces_placophyllus_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Baeomyces_placophyllus_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Baeomyces_placophyllus_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Baeomyces_placophyllus_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Baeomyces_placophyllus_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Baeomyces_placophyllus_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Baeomyces_rufus_8e957b80-0450-11ee-b625-712427f41898_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Baeomyces_rufus_8e957b80-0450-11ee-b625-712427f41898_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Baeomyces_rufus_8e957b80-0450-11ee-b625-712427f41898_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "肉红羊角衣"
+ ],
+ "meta": {
+  "CapColors": "4278222848,4293498490,4288768839",
+  "CapDiamRangeValues": "1,2",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Baeomyces rufus",
+   "cname": "Brown Beret Lichen",
+   "url": "https://www.inaturalist.org/taxa/180422-Baeomyces-rufus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11835941/thumb.jpg"
+  },
+  {
+   "name": "Baeomyces rufus rufus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180428-Baeomyces-rufus-rufus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249373153/thumb.jpg"
+  },
+  {
+   "name": "Baeomyces rufus var. monstrosus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180423-Baeomyces-rufus-monstrosus",
+   "src": ""
+  },
+  {
+   "name": "Baeomyces rufus var. callianthus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180424-Baeomyces-rufus-callianthus",
+   "src": ""
+  },
+  {
+   "name": "Baeomyces rufus exilis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180425-Baeomyces-rufus-exilis",
+   "src": ""
+  },
+  {
+   "name": "Baeomyces rufus sorediatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180427-Baeomyces-rufus-sorediatus",
+   "src": ""
+  },
+  {
+   "name": "Baeomyces rufus var. prostii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180429-Baeomyces-rufus-prostii",
+   "src": ""
+  },
+  {
+   "name": "Baeomyces carneus var. fuscorufescens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/205572-Baeomyces-carneus-fuscorufescens",
+   "src": ""
+  }
+ ]
+}

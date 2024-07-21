@@ -1,0 +1,87 @@
+{
+ "genus": "Amanita",
+ "name": "subpallidorosea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "假淡紅鵝膏"
+ ],
+ "names_en": [],
+ "url": "3535067003270372",
+ "images": [
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Amanita_subpallidorosea_1_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Amanita_subpallidorosea_2_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Amanita_subpallidorosea_3_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Amanita_subpallidorosea_4_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Amanita_subpallidorosea_5_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Amanita_subpallidorosea_6_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Amanita_subpallidorosea_7_CC BY-NC_Chia Te Lin.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "假淡红鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4291998860,4292072403,4294309365",
+  "CapDiamRangeValues": "30,65",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "6,14",
+  "StalkLengthRangeValuess": "70,120",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita subpallidorosea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1229052-Amanita-subpallidorosea",
+   "src": ""
+  }
+ ]
+}

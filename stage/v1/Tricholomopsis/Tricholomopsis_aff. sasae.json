@@ -1,0 +1,79 @@
+{
+ "genus": "Tricholomopsis",
+ "name": "aff. sasae",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "土黃擬口蘑之相似種"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3120",
+ "images": [
+  {
+   "author": "邱嫊惠",
+   "image_src": "Tricholomopsis_aff. sasae_2_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Tricholomopsis_aff. sasae_1_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Tricholomopsis_aff. sasae_3_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Tricholomopsis_aff. sasae_4_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "author": "邱嫊惠",
+   "image_src": "Tricholomopsis_aff. sasae_5_CC BY-NC_邱嫊惠.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "土黄拟口蘑之相似种"
+ ],
+ "meta": {
+  "CapColors": "4288244511,4287317267,4291581184",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "not-edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Tricholomopsis sasae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1009264-Tricholomopsis-sasae",
+   "src": ""
+  }
+ ]
+}

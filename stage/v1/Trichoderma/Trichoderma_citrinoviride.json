@@ -1,0 +1,82 @@
+{
+ "genus": "Trichoderma",
+ "name": "citrinoviride",
+ "synonym": [
+  {
+   "name": "Hypocrea schweinitzii",
+   "zhtw": "薛凡尼氏肉座菌",
+   "zhcn": "薛凡尼氏肉座菌"
+  }
+ ],
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "橘綠木黴"
+ ],
+ "names_en": [],
+ "url": "3747317592045311",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichoderma_citrinoviride_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichoderma_citrinoviride_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichoderma_citrinoviride_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichoderma_citrinoviride_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "橘绿木霉"
+ ],
+ "meta": {
+  "CapColors": "4286611456",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Trichoderma citrinoviride",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/352595-Trichoderma-citrinoviride",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/50188918/thumb.jpeg"
+  }
+ ]
+}

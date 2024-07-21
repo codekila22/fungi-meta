@@ -1,0 +1,83 @@
+{
+ "genus": "Physarum",
+ "name": "pusillum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "小絨泡黏菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4702",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_pusillum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_pusillum_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_pusillum_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_pusillum_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_pusillum_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_pusillum_6_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "小绒泡黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Physarum pusillum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/343130-Physarum-pusillum",
+   "src": "https://static.inaturalist.org/photos/32546754/thumb.jpg"
+  }
+ ]
+}

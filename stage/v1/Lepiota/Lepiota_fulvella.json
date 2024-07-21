@@ -1,0 +1,75 @@
+{
+ "genus": "Lepiota",
+ "name": "fulvella",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "褐蓋環柄菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/853",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Lepiota_fulvella_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_fulvella_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_fulvella_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_fulvella_4_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "褐盖环柄菇"
+ ],
+ "meta": {
+  "CapColors": "4294940928,4286578688",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Lepiota boudieri",
+   "cname": "Girdled Dapperling",
+   "url": "https://www.inaturalist.org/taxa/803037-Lepiota-boudieri",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/53586309/thumb.jpeg"
+  }
+ ]
+}

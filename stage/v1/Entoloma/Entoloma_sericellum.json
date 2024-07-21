@@ -1,0 +1,88 @@
+{
+ "genus": "Entoloma",
+ "name": "sericellum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "絹毛粉褶菌"
+ ],
+ "names_en": [],
+ "url": "1333731220070639",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_sericellum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_sericellum_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_sericellum_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_sericellum_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_sericellum_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_sericellum_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_sericellum_7_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "绢毛粉褶菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4291605388",
+  "CapDiamRangeValues": "5,20",
+  "CapShape": "campanulate",
+  "CapTexture": "fibrous,velvety",
+  "CapMargin": "entire",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294951115",
+  "HymeniumGillArrangement": "subdistant,shortgills",
+  "HymeniumGillAttachment": "adnate",
+  "HymeniumGillMarginate": "smooth",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294962944",
+  "StalkTexture": "smooth",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "equal",
+  "StalkDiamRangeValuess": "1,3",
+  "StalkLengthRangeValuess": "20,60",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Seasons": "summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma sericellum",
+   "cname": "Cream Pinkgill",
+   "url": "https://www.inaturalist.org/taxa/67400-Entoloma-sericellum",
+   "src": "https://static.inaturalist.org/photos/1549920/thumb.jpg"
+  }
+ ]
+}

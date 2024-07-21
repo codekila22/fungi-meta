@@ -1,0 +1,91 @@
+{
+ "genus": "Crepidotus",
+ "name": "applanatus",
+ "date": [
+  "03/24/2024,7132577940185909"
+ ],
+ "names_zhtw": [
+  "平扁靴耳"
+ ],
+ "names_en": [],
+ "url": "7132577940185909",
+ "images": [
+  {
+   "author": "徐秀團",
+   "image_src": "Crepidotus_applanatus_4b9a8330-e9af-11ee-9edb-51b0b9fc78c6_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Crepidotus_applanatus_4b9a8330-e9af-11ee-9edb-51b0b9fc78c6_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Crepidotus_applanatus_4b9a8330-e9af-11ee-9edb-51b0b9fc78c6_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Crepidotus_applanatus_4b9a8330-e9af-11ee-9edb-51b0b9fc78c6_4.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Crepidotus_applanatus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Crepidotus_applanatus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Crepidotus_applanatus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Crepidotus_applanatus_4_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "平扁靴耳"
+ ],
+ "meta": {
+  "CapColors": "4292664540,4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Crepidotus applanatus",
+   "cname": "Flat Crep",
+   "url": "https://www.inaturalist.org/taxa/350514-Crepidotus-applanatus",
+   "src": "https://static.inaturalist.org/photos/11999820/thumb.jpg"
+  }
+ ]
+}

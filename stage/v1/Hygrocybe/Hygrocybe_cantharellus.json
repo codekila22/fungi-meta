@@ -1,0 +1,132 @@
+{
+ "genus": "Hygrocybe",
+ "name": "cantharellus",
+ "date": [
+  "07/07/2023,6169815323128847",
+  "11/29/2022,5462708480506205",
+  "07/05/2022,5088385487938508",
+  "06/28/2022,5026672490776475",
+  "06/10/2016,915834861860279"
+ ],
+ "names_zhtw": [
+  "雞油濕傘"
+ ],
+ "names_en": [],
+ "url": "5462708480506205",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Hygrocybe_cantharellus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_cantharellus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_cantharellus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_cantharellus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_cantharellus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Hygrocybe_cantharellus_1_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Hygrocybe_cantharellus_2_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Hygrocybe_cantharellus_3_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Hygrocybe_cantharellus_4_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hygrocybe_cantharellus_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hygrocybe_cantharellus_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hygrocybe_cantharellus_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hygrocybe_cantharellus_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hygrocybe_cantharellus_6_CC BY-NC_James Ho.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "鸡油湿伞"
+ ],
+ "meta": {
+  "CapColors": "4294921472,4293263360",
+  "CapDiamRangeValues": "10,30",
+  "CapShape": "",
+  "CapTexture": "fine-scales",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "25,90",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Hygrocybe cantharellus",
+   "cname": "Goblet Waxcap",
+   "url": "https://www.inaturalist.org/taxa/63282-Hygrocybe-cantharellus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2124299/thumb.jpg"
+  },
+  {
+   "name": "Hygrocybe cantharellus cantharellus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63283-Hygrocybe-cantharellus-cantharellus",
+   "src": ""
+  },
+  {
+   "name": "Hygrocybe cantharellus sphagnicola",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63281-Hygrocybe-cantharellus-sphagnicola",
+   "src": ""
+  }
+ ]
+}

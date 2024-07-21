@@ -1,0 +1,138 @@
+{
+ "genus": "Pseudoclitocybe",
+ "name": "cyathiformis",
+ "date": [
+  "03/10/2024,7080855368691500",
+  "09/20/2022,6674927705950937",
+  "02/06/2022,4755756207868106"
+ ],
+ "names_zhtw": [
+  "淺杯形假杯傘"
+ ],
+ "names_en": [],
+ "url": "4755756207868106",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudoclitocybe_cyathiformis_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudoclitocybe_cyathiformis_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudoclitocybe_cyathiformis_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudoclitocybe_cyathiformis_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudoclitocybe_cyathiformis_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudoclitocybe_cyathiformis_1_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudoclitocybe_cyathiformis_2_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudoclitocybe_cyathiformis_3_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudoclitocybe_cyathiformis_4_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudoclitocybe_cyathiformis_5_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudoclitocybe_cyathiformis_9c8b3d00-8c05-11ee-a74a-efed8cb746aa_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudoclitocybe_cyathiformis_9c8b3d00-8c05-11ee-a74a-efed8cb746aa_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudoclitocybe_cyathiformis_9c8b3d00-8c05-11ee-a74a-efed8cb746aa_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudoclitocybe_cyathiformis_9c8b3d00-8c05-11ee-a74a-efed8cb746aa_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudoclitocybe_cyathiformis_9c8b3d00-8c05-11ee-a74a-efed8cb746aa_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pseudoclitocybe_cyathiformis_989d38f0-e8d6-11ee-8978-bf0821556f01_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pseudoclitocybe_cyathiformis_989d38f0-e8d6-11ee-8978-bf0821556f01_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pseudoclitocybe_cyathiformis_989d38f0-e8d6-11ee-8978-bf0821556f01_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pseudoclitocybe_cyathiformis_989d38f0-e8d6-11ee-8978-bf0821556f01_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "浅杯形假杯伞"
+ ],
+ "meta": {
+  "CapColors": "4293313475,4286578816",
+  "CapDiamRangeValues": "25,50",
+  "CapShape": "infundibuliform",
+  "CapTexture": "smooth",
+  "CapMargin": "striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4289309097",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "close,shortgills",
+  "HymeniumGillAttachment": "decurrent",
+  "HymeniumGillMarginate": "smooth",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4286141768,4278190080",
+  "StalkTexture": "fibrous",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "3,5",
+  "StalkLengthRangeValuess": "40,50",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,winter",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Pseudoclitocybe cyathiformis",
+   "cname": "The Goblet",
+   "url": "https://www.inaturalist.org/taxa/339415-Pseudoclitocybe-cyathiformis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/99823185/thumb.jpeg"
+  }
+ ]
+}

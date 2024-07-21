@@ -1,0 +1,117 @@
+{
+ "genus": "Lactarius",
+ "name": "aff. scrobiculatus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "窩柄黃乳菇之相似種"
+ ],
+ "names_en": [],
+ "url": "",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_aff. scrobiculatus_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_aff. scrobiculatus_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_aff. scrobiculatus_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_aff. scrobiculatus_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_aff. scrobiculatus_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_aff. scrobiculatus_6_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_aff. scrobiculatus_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_aff. scrobiculatus_8_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_aff. scrobiculatus_9_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_aff. scrobiculatus_10_CC BY-NC_Sunny Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "窝柄黄乳菇之相似种"
+ ],
+ "meta": {
+  "CapColors": "4291998860,4290547599",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Lactarius scrobiculatus",
+   "cname": "Spotted Milkcap",
+   "url": "https://www.inaturalist.org/taxa/351305-Lactarius-scrobiculatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/232879464/thumb.jpg"
+  },
+  {
+   "name": "Lactarius scrobiculatus var. canadensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/559720-Lactarius-scrobiculatus-canadensis",
+   "src": "https://static.inaturalist.org/photos/105359333/thumb.jpg"
+  },
+  {
+   "name": "Lactarius scrobiculatus ssp. pubescens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/351306-Lactarius-scrobiculatus-pubescens",
+   "src": ""
+  },
+  {
+   "name": "Lactarius insulsus scrobiculatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344531-Lactarius-insulsus-scrobiculatus",
+   "src": ""
+  }
+ ]
+}

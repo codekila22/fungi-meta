@@ -1,0 +1,107 @@
+{
+ "genus": "Gibellula",
+ "name": "leiopus",
+ "date": [
+  "11/05/2023,7058870084223362",
+  "10/06/2022,5302832336493821",
+  "10/09/2020,3708433542600383"
+ ],
+ "names_zhtw": [
+  "天牛球束梗孢黴"
+ ],
+ "names_en": [],
+ "url": "5302832336493821",
+ "images": [
+  {
+   "author": "陳仁杰",
+   "image_src": "Gibellula_leiopus_1_CC BY-NC_陳仁杰.jpg"
+  },
+  {
+   "author": "陳仁杰",
+   "image_src": "Gibellula_leiopus_2_CC BY-NC_陳仁杰.jpg"
+  },
+  {
+   "author": "陳仁杰",
+   "image_src": "Gibellula_leiopus_3_CC BY-NC_陳仁杰.jpg"
+  },
+  {
+   "author": "Huijuan Lo",
+   "image_src": "Gibellula_leiopus_776ed9d0-9cd3-11ee-a037-1f5aeaf8da8e_1.jpg"
+  },
+  {
+   "author": "Huijuan Lo",
+   "image_src": "Gibellula_leiopus_776ed9d0-9cd3-11ee-a037-1f5aeaf8da8e_2.jpg"
+  },
+  {
+   "author": "Huijuan Lo",
+   "image_src": "Gibellula_leiopus_776ed9d0-9cd3-11ee-a037-1f5aeaf8da8e_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Gibellula_leiopus_26527690-da88-11ee-be76-f1c75a08ff94_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Gibellula_leiopus_26527690-da88-11ee-be76-f1c75a08ff94_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Gibellula_leiopus_26527690-da88-11ee-be76-f1c75a08ff94_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Gibellula_leiopus_26527690-da88-11ee-be76-f1c75a08ff94_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "天牛球束梗孢霉"
+ ],
+ "meta": {
+  "CapColors": "4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Gibellula leiopus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/851968-Gibellula-leiopus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1344985/thumb.JPG"
+  },
+  {
+   "name": "Gibellula leiopus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1480086-Gibellula-leiopus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/232930624/thumb.jpg"
+  }
+ ]
+}

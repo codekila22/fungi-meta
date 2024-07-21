@@ -1,0 +1,81 @@
+{
+ "genus": "Xylaria",
+ "name": "furcata",
+ "date": [
+  "04/15/2023,7075365359240501",
+  "09/03/2020,4066250366818697"
+ ],
+ "names_zhtw": [
+  "叉狀炭角菌"
+ ],
+ "names_en": [],
+ "url": "4066250366818697",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Xylaria_furcata_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "林育樟",
+   "image_src": "Xylaria_furcata_1_CC BY-NC_林育樟.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Xylaria_furcata_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "林育樟",
+   "image_src": "Xylaria_furcata_2_CC BY-NC_林育樟.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Xylaria_furcata_1_CC BY-NC_James Ho.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "叉状炭角菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Xylaria furcatula,,",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Xylaria furcata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/384766-Xylaria-furcata",
+   "src": "https://static.inaturalist.org/photos/94536546/thumb.jpeg"
+  }
+ ]
+}

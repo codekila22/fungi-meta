@@ -1,0 +1,84 @@
+{
+ "genus": "Protodaedalea",
+ "name": "foliacea",
+ "date": [
+  "12/05/2022,5432112370232483"
+ ],
+ "names_zhtw": [
+  "葉狀迷孔菌"
+ ],
+ "names_en": [],
+ "url": "5432112370232483",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Protodaedalea_foliacea_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Protodaedalea_foliacea_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Protodaedalea_foliacea_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Protodaedalea_foliacea_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Protodaedalea_foliacea_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Protodaedalea_foliacea_6_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "叶状迷孔菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Protodaedalea foliacea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/895634-Protodaedalea-foliacea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/92790391/thumb.jpeg"
+  }
+ ]
+}

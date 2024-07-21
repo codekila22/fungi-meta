@@ -1,0 +1,80 @@
+{
+ "genus": "Fusicolla",
+ "name": "merismoides",
+ "date": [
+  "02/05/2024,6941778702599168"
+ ],
+ "names_zhtw": [
+  "節狀鐮孢"
+ ],
+ "names_en": [],
+ "url": "6941778702599168",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Fusicolla_merismoides_982260e0-c62a-11ee-9420-21ec582ec619_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fusicolla_merismoides_982260e0-c62a-11ee-9420-21ec582ec619_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fusicolla_merismoides_982260e0-c62a-11ee-9420-21ec582ec619_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fusicolla_merismoides_982260e0-c62a-11ee-9420-21ec582ec619_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fusicolla_merismoides_982260e0-c62a-11ee-9420-21ec582ec619_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "节状镰孢"
+ ],
+ "meta": {
+  "CapColors": "4294944000",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Fusicolla merismoides",
+   "cname": "Deer Vomit",
+   "url": "https://www.inaturalist.org/taxa/525059-Fusicolla-merismoides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30225559/thumb.jpeg"
+  }
+ ]
+}

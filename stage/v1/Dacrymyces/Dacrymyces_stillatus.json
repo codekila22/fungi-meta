@@ -1,0 +1,83 @@
+{
+ "genus": "Dacrymyces",
+ "name": "stillatus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "滴流花耳"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/6300",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Dacrymyces_stillatus_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Dacrymyces_stillatus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Dacrymyces_stillatus_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Dacrymyces_stillatus_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Dacrymyces_stillatus_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Dacrymyces_stillatus_6_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "滴流花耳"
+ ],
+ "meta": {
+  "CapColors": "4294937600,4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Dacrymyces stillatus",
+   "cname": "Jelly Spot Fungus",
+   "url": "https://www.inaturalist.org/taxa/53276-Dacrymyces-stillatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5337/thumb.jpg"
+  }
+ ]
+}

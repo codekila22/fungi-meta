@@ -1,0 +1,87 @@
+{
+ "genus": "Hypocrea",
+ "name": "lixii",
+ "synonym": [
+  {
+   "name": "Trichoderma harzianum",
+   "zhtw": "哈茨木黴菌",
+   "zhcn": "哈茨木霉菌"
+  }
+ ],
+ "date": [
+  "05/28/2023,6027329967377384"
+ ],
+ "names_zhtw": [
+  "綠西肉座菌"
+ ],
+ "names_en": [],
+ "url": "6027329967377384",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypocrea_lixii_3e9b77a0-fd3a-11ed-86e6-ef11a8b92695_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypocrea_lixii_3e9b77a0-fd3a-11ed-86e6-ef11a8b92695_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypocrea_lixii_3e9b77a0-fd3a-11ed-86e6-ef11a8b92695_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypocrea_lixii_3e9b77a0-fd3a-11ed-86e6-ef11a8b92695_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypocrea_lixii_3e9b77a0-fd3a-11ed-86e6-ef11a8b92695_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "绿西肉座菌"
+ ],
+ "meta": {
+  "CapColors": "4278222848,4283788079",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Trichoderma lixii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/959892-Trichoderma-lixii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28219888/thumb.jpg"
+  }
+ ]
+}

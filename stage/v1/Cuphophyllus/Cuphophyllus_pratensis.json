@@ -1,0 +1,131 @@
+{
+ "genus": "Cuphophyllus",
+ "name": "pratensis",
+ "synonym": [
+  {
+   "name": "Hygrocybe pratensis",
+   "zhtw": "草地濕傘",
+   "zhcn": "草地湿伞"
+  }
+ ],
+ "date": [
+  "02/15/2024,6985289704914734"
+ ],
+ "names_zhtw": [
+  "草地拱頂菇"
+ ],
+ "names_en": [
+  "meadow waxcap",
+  "meadow waxy cap",
+  "salmon waxy cap"
+ ],
+ "url": "6985289704914734",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Cuphophyllus_pratensis_43125770-ce38-11ee-bfba-6f7c0da040d1_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cuphophyllus_pratensis_43125770-ce38-11ee-bfba-6f7c0da040d1_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cuphophyllus_pratensis_43125770-ce38-11ee-bfba-6f7c0da040d1_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cuphophyllus_pratensis_43125770-ce38-11ee-bfba-6f7c0da040d1_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cuphophyllus_pratensis_43125770-ce38-11ee-bfba-6f7c0da040d1_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cuphophyllus_pratensis_43125770-ce38-11ee-bfba-6f7c0da040d1_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "草地拱顶菇"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Cuphophyllus pratensis",
+   "cname": "Meadow Waxcap",
+   "url": "https://www.inaturalist.org/taxa/361641-Cuphophyllus-pratensis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/240722/thumb.jpg"
+  },
+  {
+   "name": "Cuphophyllus pratensis var. pallidus",
+   "cname": "Pale Waxcap",
+   "url": "https://www.inaturalist.org/taxa/348699-Cuphophyllus-pratensis-pallidus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94150846/thumb.jpeg"
+  },
+  {
+   "name": "Cuphophyllus pratensis var. pratensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/348698-Cuphophyllus-pratensis-pratensis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/240718/thumb.jpg"
+  },
+  {
+   "name": "Cuphophyllus pratensis var. robustus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/348695-Cuphophyllus-pratensis-robustus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12922984/thumb.jpeg"
+  },
+  {
+   "name": "Cuphophyllus pratensis var. vitulinus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/348693-Cuphophyllus-pratensis-vitulinus",
+   "src": ""
+  },
+  {
+   "name": "Cuphophyllus pratensis var. donadinii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/348694-Cuphophyllus-pratensis-donadinii",
+   "src": ""
+  },
+  {
+   "name": "Cuphophyllus pratensis var. fulvolamellatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/348696-Cuphophyllus-pratensis-fulvolamellatus",
+   "src": ""
+  }
+ ]
+}

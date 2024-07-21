@@ -1,0 +1,125 @@
+{
+ "genus": "Stropharia",
+ "name": "aeruginosa",
+ "date": [
+  "05/29/2024,7445068238936876",
+  "10/24/2023,6560266484083727",
+  "10/12/2023,6510853902358319",
+  "09/29/2022,5281037842006604",
+  "07/11/2022",
+  "01/14/2017,1087851317991965"
+ ],
+ "names_zhtw": [
+  "黃銅綠球蓋菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3387",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Stropharia_aeruginosa_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Stropharia_aeruginosa_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Stropharia_aeruginosa_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Stropharia_aeruginosa_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "葉美邵",
+   "image_src": "Stropharia_aeruginosa_1_CC BY-NC_葉美邵.jpg"
+  },
+  {
+   "author": "葉美邵",
+   "image_src": "Stropharia_aeruginosa_2_CC BY-NC_葉美邵.jpg"
+  },
+  {
+   "author": "葉美邵",
+   "image_src": "Stropharia_aeruginosa_3_CC BY-NC_葉美邵.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stropharia_aeruginosa_9179bb80-73f5-11ee-8ccb-cb4c71174873_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stropharia_aeruginosa_9179bb80-73f5-11ee-8ccb-cb4c71174873_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stropharia_aeruginosa_9179bb80-73f5-11ee-8ccb-cb4c71174873_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stropharia_aeruginosa_9179bb80-73f5-11ee-8ccb-cb4c71174873_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stropharia_aeruginosa_9179bb80-73f5-11ee-8ccb-cb4c71174873_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Stropharia_aeruginosa_44afd9d0-2145-11ef-88ae-4779c29a2bc6_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Stropharia_aeruginosa_44afd9d0-2145-11ef-88ae-4779c29a2bc6_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Stropharia_aeruginosa_44afd9d0-2145-11ef-88ae-4779c29a2bc6_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄铜绿球盖菇"
+ ],
+ "meta": {
+  "CapColors": "4278222976,4282882227,4278215540",
+  "CapDiamRangeValues": "30,50",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "5,10",
+  "StalkLengthRangeValuess": "30,70",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground,debris",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Stropharia aeruginosa",
+   "cname": "Verdigris Agaric",
+   "url": "https://www.inaturalist.org/taxa/55583-Stropharia-aeruginosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/171671477/thumb.jpg"
+  }
+ ]
+}

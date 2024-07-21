@@ -1,0 +1,135 @@
+{
+ "genus": "Penicillium",
+ "name": "digitatum",
+ "date": [
+  "02/20/2024,7002558939854477",
+  "12/22/2022,5532040236906362"
+ ],
+ "names_zhtw": [
+  "指狀青黴",
+  "柑橘綠黴病"
+ ],
+ "names_en": [],
+ "url": "5532040236906362",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_9_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_10_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_11_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_12_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_13_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_digitatum_14_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Penicillium_digitatum_c3b59600-d386-11ee-b9fa-43db17edc76a_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Penicillium_digitatum_c3b59600-d386-11ee-b9fa-43db17edc76a_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Penicillium_digitatum_c3b59600-d386-11ee-b9fa-43db17edc76a_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Penicillium_digitatum_c3b59600-d386-11ee-b9fa-43db17edc76a_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "指状青霉",
+  "柑橘绿霉病"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Penicillium digitatum",
+   "cname": "Citrus Green Mold",
+   "url": "https://www.inaturalist.org/taxa/383410-Penicillium-digitatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/75779183/thumb.jpeg"
+  }
+ ]
+}

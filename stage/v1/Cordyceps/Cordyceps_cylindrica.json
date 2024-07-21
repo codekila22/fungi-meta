@@ -1,0 +1,91 @@
+{
+ "genus": "Cordyceps",
+ "name": "cylindrica",
+ "date": [
+  "04/29/2024,7285264334917268",
+  "03/17/2024,7131805986929771",
+  "04/30/2022,4854434321333627",
+  "05/08/2021,3756500387793698",
+  "05/12/2019,2044736032303484"
+ ],
+ "names_zhtw": [
+  "柱形蟲草"
+ ],
+ "names_en": [],
+ "url": "2044736032303484",
+ "images": [
+  {
+   "author": "Becca Fong",
+   "image_src": "Cordyceps_cylindrica_1_CC BY-NC_Becca Fong.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cordyceps_cylindrica_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cordyceps_cylindrica_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cordyceps_cylindrica_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cordyceps_cylindrica_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cordyceps_cylindrica_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cordyceps_cylindrica_0966b8e0-0ab5-11ef-9bfe-418d2d6f47c6_1.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "柱形虫草"
+ ],
+ "meta": {
+  "CapColors": "4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Purpureocillium atypicola,,",
+  "Note": "柱形蟲草(Cordyceps cylindrica)為紫殭菌(Purpureocillium atypicola)的有性型。"
+ },
+ "inaturalist": [
+  {
+   "name": "Purpureocillium atypicola",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/823761-Purpureocillium-atypicola",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/126471866/thumb.jpeg"
+  }
+ ]
+}

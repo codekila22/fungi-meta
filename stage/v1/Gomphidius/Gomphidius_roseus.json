@@ -1,0 +1,86 @@
+{
+ "genus": "Gomphidius",
+ "name": "roseus",
+ "date": [
+  "06/17/2020,5894283167348732"
+ ],
+ "names_zhtw": [
+  "紅鉚釘菇",
+  "玫瑰鉚釘菇"
+ ],
+ "names_en": [],
+ "url": "5894283167348732",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "红铆钉菇",
+  "玫瑰铆钉菇"
+ ],
+ "meta": {
+  "CapColors": "4294901760,4294921472,4289864226",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Gomphidius roseus",
+   "cname": "Rosy Spike",
+   "url": "https://www.inaturalist.org/taxa/243912-Gomphidius-roseus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10216352/thumb.jpeg"
+  }
+ ]
+}
