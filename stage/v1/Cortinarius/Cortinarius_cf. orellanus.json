@@ -2,6 +2,7 @@
  "genus": "Cortinarius",
  "name": "cf. orellanus",
  "date": [
+  "07/16/2024,7673191902791174",
   "07/05/2024,7611032872340411",
   "07/04/2023,6163010267142686",
   "09/09/2020,3091948164248927"
@@ -107,6 +108,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Cortinarius_cf. orellanus_f4637510-efc5-106c-8fcc-7f8843d6654c_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_9f0858e0-bd86-109e-b63b-3f0b64c93814_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_9f0858e0-bd86-109e-b63b-3f0b64c93814_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_9f0858e0-bd86-109e-b63b-3f0b64c93814_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_9f0858e0-bd86-109e-b63b-3f0b64c93814_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_9f0858e0-bd86-109e-b63b-3f0b64c93814_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_9f0858e0-bd86-109e-b63b-3f0b64c93814_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_9f0858e0-bd86-109e-b63b-3f0b64c93814_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_9f0858e0-bd86-109e-b63b-3f0b64c93814_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_9f0858e0-bd86-109e-b63b-3f0b64c93814_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -145,7 +182,9 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Cortinarius cinnabarinus,,",
-  "Note": ""
+  "Note": "",
+  "la_zhtw": "朱紅絲膜菌,,",
+  "la_zhcn": "朱红丝膜菌,,"
  },
  "inaturalist": [
   {

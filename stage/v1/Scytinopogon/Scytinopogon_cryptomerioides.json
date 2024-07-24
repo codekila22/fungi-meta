@@ -154,11 +154,14 @@
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
+  "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground,debris",
@@ -167,7 +170,9 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "此物種為2022年新發表的台灣物種，生長在柳杉屬的枯枝葉中。"
+  "LookAlikes": "Trechispora khokpasiensis,,",
+  "Note": "此物種為2022年新發表的台灣物種，生長在柳杉屬的枯枝葉中。",
+  "la_zhtw": "加拉信糙孢菌(暫名),,",
+  "la_zhcn": "加拉信糙孢菌(暂名),,"
  }
 }

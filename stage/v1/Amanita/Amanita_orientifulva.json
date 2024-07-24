@@ -3,7 +3,8 @@
  "name": "orientifulva",
  "date": [
   "11/01/2023,6588936901216685",
-  "08/17/2023,6305042456272799"
+  "08/17/2023,6305042456272799",
+  "08/15/2021,7697862480324116"
  ],
  "names_zhtw": [
   "東方褐蓋鵝膏"
@@ -74,6 +75,34 @@
   {
    "author": "柯文俊",
    "image_src": "Amanita_orientifulva_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_orientifulva_5b1c46e0-234e-109f-939f-edc52ea51b88_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_orientifulva_5b1c46e0-234e-109f-939f-edc52ea51b88_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_orientifulva_5b1c46e0-234e-109f-939f-edc52ea51b88_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_orientifulva_5b1c46e0-234e-109f-939f-edc52ea51b88_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_orientifulva_5b1c46e0-234e-109f-939f-edc52ea51b88_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_orientifulva_5b1c46e0-234e-109f-939f-edc52ea51b88_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_orientifulva_5b1c46e0-234e-109f-939f-edc52ea51b88_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -111,8 +140,10 @@
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "菌褶邊緣為褐色。"
+  "LookAlikes": "Amanita suborientifulva,,",
+  "Note": "菌褶邊緣為褐色。",
+  "la_zhtw": "擬東方褐蓋鵝膏,,",
+  "la_zhcn": "拟东方褐盖鹅膏,,"
  },
  "inaturalist": [
   {

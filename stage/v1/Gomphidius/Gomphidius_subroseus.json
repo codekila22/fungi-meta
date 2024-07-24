@@ -2,8 +2,6 @@
  "genus": "Gomphidius",
  "name": "subroseus",
  "date": [
-  "11/08/2022,5395389077238146",
-  "11/15/2021,4323545474422517",
   "08/14/2021,4047531682023899",
   "07/17/2021,3954528724657529"
  ],
@@ -52,34 +50,6 @@
   {
    "author": "Hannah Wang",
    "image_src": "Gomphidius_subroseus_2_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "author": "James Ho",
-   "image_src": "Gomphidius_subroseus_1_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Gomphidius_roseus_4_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Gomphidius_roseus_2_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Gomphidius_roseus_3_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Gomphidius_roseus_1_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Gomphidius_roseus_5_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Gomphidius_roseus_6_CC BY-NC.jpg"
   }
  ],
  "names_zhcn": [
@@ -117,8 +87,10 @@
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "菌柄基部徧黃色，成熟的菌褶有灰色調。\n\n不變色或是緩慢變深色。生長於針葉木旁，常可發現與乳牛肝菌(Suillus bovinus)生長在一起，可能跟其形成伴生關係。"
+  "LookAlikes": "Gomphidius roseus,,",
+  "Note": "菌柄基部徧黃色，成熟的菌褶有灰色調。\n\n不變色或是緩慢變深色。生長於針葉木旁，常可發現與乳牛肝菌屬(Suillus lakei)生長在一起，可能跟其形成伴生關係。",
+  "la_zhtw": "紅鉚釘菇,,",
+  "la_zhcn": "红铆钉菇,,"
  },
  "inaturalist": [
   {

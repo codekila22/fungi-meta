@@ -2,43 +2,45 @@
  "genus": "Gomphidius",
  "name": "roseus",
  "date": [
-  "06/17/2020,5894283167348732"
+  "01/01/0001"
  ],
  "names_zhtw": [
-  "紅鉚釘菇",
-  "玫瑰鉚釘菇"
+  "紅鉚釘菇"
  ],
  "names_en": [],
- "url": "5894283167348732",
+ "url": "",
  "images": [
   {
-   "author": "向高世",
-   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_1.jpg"
+   "author": "",
+   "image_src": "Gomphidius_roseus_4_CC BY-NC.jpg"
   },
   {
-   "author": "向高世",
-   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_2.jpg"
+   "author": "",
+   "image_src": "Gomphidius_roseus_2_CC BY-NC.jpg"
   },
   {
-   "author": "向高世",
-   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_3.jpg"
+   "author": "",
+   "image_src": "Gomphidius_roseus_3_CC BY-NC.jpg"
   },
   {
-   "author": "向高世",
-   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_4.jpg"
+   "author": "",
+   "image_src": "Gomphidius_roseus_1_CC BY-NC.jpg"
   },
   {
-   "author": "向高世",
-   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_5.jpg"
+   "author": "",
+   "image_src": "Gomphidius_roseus_5_CC BY-NC.jpg"
   },
   {
-   "author": "向高世",
-   "image_src": "Gomphidius_roseus_7877f3f0-de3a-11ed-aef7-a14e6edd2c07_6.jpg"
+   "author": "",
+   "image_src": "Gomphidius_roseus_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Gomphidius_subroseus_1_CC BY-NC_James Ho.jpg"
   }
  ],
  "names_zhcn": [
-  "红铆钉菇",
-  "玫瑰铆钉菇"
+  "红铆钉菇"
  ],
  "meta": {
   "CapColors": "4294901760,4294921472,4289864226",
@@ -72,8 +74,10 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": ""
+  "LookAlikes": "Gomphidius subroseus,,",
+  "Note": "生長於針葉木旁，常可發現與乳牛肝菌(Suillus bovinus)生長在一起，可能跟其形成伴生關係。",
+  "la_zhtw": "亞紅鉚釘菇,,",
+  "la_zhcn": "亚红铆钉菇,,"
  },
  "inaturalist": [
   {

@@ -2,6 +2,7 @@
  "genus": "Boletus",
  "name": "calopus",
  "date": [
+  "07/09/2024,7695266867250344",
   "06/28/2023,6141370069306706",
   "07/29/2016,941055352671563"
  ],
@@ -62,6 +63,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Boletus_calopus_4cd9cc60-1679-11ee-a4b2-2f6e997751c5_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_calopus_7ade5630-1ffc-109f-939f-edc52ea51b88_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_calopus_7ade5630-1ffc-109f-939f-edc52ea51b88_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_calopus_7ade5630-1ffc-109f-939f-edc52ea51b88_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_calopus_7ade5630-1ffc-109f-939f-edc52ea51b88_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_calopus_7ade5630-1ffc-109f-939f-edc52ea51b88_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -82,7 +103,7 @@
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
-  "StalkTexture": "",
+  "StalkTexture": "reticulum",
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",

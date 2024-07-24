@@ -2,6 +2,7 @@
  "genus": "Calyptella",
  "name": "longipes",
  "date": [
+  "07/21/2024,7706467456130285",
   "04/09/2024,7202741406502895",
   "08/20/2023,6324765404300504",
   "08/06/2023,6292580510852327",
@@ -190,6 +191,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Calyptella_longipes_fad12530-fab1-11ee-ad01-05e53609ac7a_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Calyptella_longipes_cd4eed00-beec-109f-9e8b-67cd635a6a00_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Calyptella_longipes_cd4eed00-beec-109f-9e8b-67cd635a6a00_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Calyptella_longipes_cd4eed00-beec-109f-9e8b-67cd635a6a00_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Calyptella_longipes_cd4eed00-beec-109f-9e8b-67cd635a6a00_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Calyptella_longipes_cd4eed00-beec-109f-9e8b-67cd635a6a00_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -227,7 +248,9 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Calyptella capula,,",
-  "Note": "子實體基部明顯較細長且常彎曲。"
+  "Note": "子實體基部明顯較細長且常彎曲。",
+  "la_zhtw": "帽形菌,,",
+  "la_zhcn": "帽形菌,,"
  },
  "inaturalist": [
   {

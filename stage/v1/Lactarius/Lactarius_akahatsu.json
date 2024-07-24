@@ -3,6 +3,7 @@
  "name": "akahatsu",
  "date": [
   "08/12/2023,6328807573896287",
+  "07/07/2023,7692158384227859",
   "08/31/2022,5199522886824767",
   "08/15/2021,4041459822631085",
   "07/17/2021,3954542587989476",
@@ -65,6 +66,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Lactarius_akahatsu_e3d2d9f0-4274-11ee-a561-a7d2ca888416_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -103,7 +132,9 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Lactarius deliciosus,Lactarius quietcolor,",
-  "Note": "喜愛生長在松樹旁。受傷部位會呈現青綠色。"
+  "Note": "喜愛生長在松樹旁。受傷部位會呈現青綠色。",
+  "la_zhtw": "松乳菇,紅褐乳菇,",
+  "la_zhcn": "松乳菇,红褐乳菇,"
  },
  "inaturalist": [
   {

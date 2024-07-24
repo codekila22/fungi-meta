@@ -111,5 +111,13 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": ""
- }
+ },
+ "inaturalist": [
+  {
+   "name": "Marasmiellus crassitunicatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1561762-Marasmiellus-crassitunicatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/407337964/thumb.jpg"
+  }
+ ]
 }

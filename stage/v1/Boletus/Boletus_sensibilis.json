@@ -1,0 +1,102 @@
+{
+ "genus": "Boletus",
+ "name": "sensibilis",
+ "date": [
+  "07/18/2024,7688464211263943"
+ ],
+ "names_zhtw": [
+  "敏感牛肝菌",
+  "變藍牛肝菌"
+ ],
+ "names_en": [],
+ "url": "7688464211263943",
+ "images": [
+  {
+   "author": "徐秀團",
+   "image_src": "Boletus_sensibilis_416aba60-3041-109f-939f-edc52ea51b88_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Boletus_sensibilis_416aba60-3041-109f-939f-edc52ea51b88_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Boletus_sensibilis_416aba60-3041-109f-939f-edc52ea51b88_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Boletus_sensibilis_416aba60-3041-109f-939f-edc52ea51b88_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Boletus_sensibilis_416aba60-3041-109f-939f-edc52ea51b88_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Boletus_sensibilis_416aba60-3041-109f-939f-edc52ea51b88_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Boletus_sensibilis_416aba60-3041-109f-939f-edc52ea51b88_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "敏感牛肝菌",
+  "变蓝牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Boletus sensibilis",
+   "cname": "Curry Bolete",
+   "url": "https://www.inaturalist.org/taxa/461639-Boletus-sensibilis",
+   "src": "https://static.inaturalist.org/photos/22728264/thumb.jpg"
+  },
+  {
+   "name": "Boletus sensibilis var. sensibilis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/461641-Boletus-sensibilis-sensibilis",
+   "src": ""
+  },
+  {
+   "name": "Boletus sensibilis var. subviscidus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/461640-Boletus-sensibilis-subviscidus",
+   "src": ""
+  }
+ ]
+}

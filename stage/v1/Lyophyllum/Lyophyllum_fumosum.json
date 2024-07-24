@@ -2,13 +2,14 @@
  "genus": "Lyophyllum",
  "name": "fumosum",
  "date": [
-  "01/01/0001"
+  "10/10/2021,7675993542511010",
+  "07/12/2017,1269886529788442"
  ],
  "names_zhtw": [
   "煙色離褶傘"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/5071",
+ "url": "7675993542511010",
  "images": [
   {
    "author": "陳啟仁",
@@ -33,6 +34,34 @@
   {
    "author": "陳啟仁",
    "image_src": "Lyophyllum_fumosum_6_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -71,7 +100,9 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hypsizygus cf. ulmarius,,",
-  "Note": "生長在附近有針葉木的地上。"
+  "Note": "生長在附近有針葉木的地上。",
+  "la_zhtw": "疑似榆生玉蕈,,",
+  "la_zhcn": "疑似榆生玉蕈,,"
  },
  "inaturalist": [
   {
