@@ -1,0 +1,27 @@
+{
+ "list": [
+  {
+   "name": "Panaeolus papilionaceus",
+   "zhtw": "蝶形花褶傘",
+   "zhcn": "蝶形花褶伞"
+  },
+  {
+   "name": "Panaeolus antillarum",
+   "zhtw": "安地列斯花褶傘",
+   "zhcn": "安地列斯花褶伞"
+  },
+  {
+   "name": "Panaeolus cinctulus",
+   "zhtw": "鹿色花褶傘",
+   "zhcn": "鹿色花褶伞"
+  },
+  {
+   "name": "Panaeolus subbalteatus",
+   "zhtw": "鹿色花褶傘",
+   "zhcn": "鹿色花褶伞",
+   "current": "Panaeolus cinctulus",
+   "current_zhtw": "鹿色花褶傘",
+   "current_zhcn": "鹿色花褶伞"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Podostroma cornu-damae",
+   "zhtw": "火焰肉棒菌",
+   "zhcn": "火焰肉棒菌",
+   "current": "Trichoderma cornu-damae",
+   "current_zhtw": "火焰木黴菌",
+   "current_zhcn": "火焰木霉菌"
+  },
+  {
+   "name": "Podostroma solmsii",
+   "zhtw": "鬼筆肉棒菌",
+   "zhcn": "鬼笔肉棒菌"
+  },
+  {
+   "name": "Podostroma alutaceum",
+   "zhtw": "木棒肉棒菌",
+   "zhcn": "木棒肉棒菌"
+  }
+ ]
+}

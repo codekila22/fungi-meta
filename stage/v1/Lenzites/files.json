@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Lenzites elegans",
+   "zhtw": "優美褶孔菌",
+   "zhcn": "优美褶孔菌"
+  },
+  {
+   "name": "Lenzites betulina",
+   "zhtw": "樺褶孔菌",
+   "zhcn": "桦褶孔菌"
+  },
+  {
+   "name": "Lenzites acuta",
+   "zhtw": "灰蓋褶孔菌",
+   "zhcn": "灰盖褶孔菌",
+   "current": "Cellulariella acuta",
+   "current_zhtw": "灰蓋革褶菌",
+   "current_zhcn": "灰盖革褶菌"
+  }
+ ]
+}

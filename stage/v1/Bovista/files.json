@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Bovista aestivalis",
+   "zhtw": "夏生灰球菌",
+   "zhcn": "夏生灰球菌"
+  },
+  {
+   "name": "Bovista plumbea",
+   "zhtw": "鉛色灰球菌",
+   "zhcn": "铅色灰球菌"
+  },
+  {
+   "name": "Bovista acuminate",
+   "zhtw": "尖頂灰球菌",
+   "zhcn": "尖顶灰球菌",
+   "current": "Bryoperdon acuminatum",
+   "current_zhtw": "尖頂蘚球菌",
+   "current_zhcn": "尖顶藓球菌"
+  }
+ ]
+}

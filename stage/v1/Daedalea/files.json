@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Daedalea quercina",
+   "zhtw": "櫟迷孔菌",
+   "zhcn": "栎迷孔菌"
+  },
+  {
+   "name": "Daedalea modesta",
+   "zhtw": "謙遜迷孔菌",
+   "zhcn": "谦逊迷孔菌",
+   "current": "Trametes modesta",
+   "current_zhtw": "謙遜栓菌",
+   "current_zhcn": "谦逊栓菌"
+  },
+  {
+   "name": "Daedalea dickinsii",
+   "zhtw": "肉色迷孔菌",
+   "zhcn": "肉色迷孔菌"
+  }
+ ]
+}

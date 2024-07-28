@@ -1,0 +1,27 @@
+{
+ "list": [
+  {
+   "name": "Hypholoma subviride",
+   "zhtw": "近綠垂幕菇",
+   "zhcn": "近绿垂幕菇"
+  },
+  {
+   "name": "Hypholoma cinnabarinum",
+   "zhtw": "橙紅鱗垂幕菇",
+   "zhcn": "橙红鳞垂幕菇",
+   "current": "Agaricus trisulphuratus",
+   "current_zhtw": "三硫色蘑菇",
+   "current_zhcn": "三硫色蘑菇"
+  },
+  {
+   "name": "Hypholoma lateritium",
+   "zhtw": "磚紅垂幕菇",
+   "zhcn": "砖红垂幕菇"
+  },
+  {
+   "name": "Hypholoma fasciculare",
+   "zhtw": "簇生垂幕菇",
+   "zhcn": "簇生垂幕菇"
+  }
+ ]
+}

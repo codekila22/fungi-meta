@@ -1,0 +1,42 @@
+{
+ "list": [
+  {
+   "name": "Panus fulvus",
+   "zhtw": "褐絨革耳",
+   "zhcn": "褐绒革耳"
+  },
+  {
+   "name": "Panus similis",
+   "zhtw": "絨柄革耳",
+   "zhcn": "绒柄革耳"
+  },
+  {
+   "name": "Panus neostrigosus",
+   "zhtw": "新粗毛革耳",
+   "zhcn": "新粗毛革耳"
+  },
+  {
+   "name": "Panus giganteus",
+   "zhtw": "巨大革耳",
+   "zhcn": "巨大革耳",
+   "current": "Pleurotus giganteus",
+   "current_zhtw": "巨大側耳",
+   "current_zhcn": "巨大侧耳"
+  },
+  {
+   "name": "Panus strigellus",
+   "zhtw": "鱗毛革耳",
+   "zhcn": "鳞毛革耳"
+  },
+  {
+   "name": "Panus conchatus",
+   "zhtw": "紫蠔貝革耳",
+   "zhcn": "紫蚝贝革耳"
+  },
+  {
+   "name": "Panus natarajanus",
+   "zhtw": "環絨革耳",
+   "zhcn": "环绒革耳"
+  }
+ ]
+}

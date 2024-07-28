@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Pyrenula cf. pseudobufonia",
+   "zhtw": "疑似黑突小核衣",
+   "zhcn": "疑似黑突小核衣"
+  },
+  {
+   "name": "Pyrenula  cf. neglecta",
+   "zhtw": "疑似黑突小核衣",
+   "zhcn": "疑似黑突小核衣",
+   "current": "Pyrenula cf. pseudobufonia",
+   "current_zhtw": "疑似黑突小核衣",
+   "current_zhcn": "疑似黑突小核衣"
+  },
+  {
+   "name": "Pyrenula nitida",
+   "zhtw": "亮小核衣",
+   "zhcn": "亮小核衣"
+  }
+ ]
+}

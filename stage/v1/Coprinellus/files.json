@@ -1,0 +1,42 @@
+{
+ "list": [
+  {
+   "name": "Coprinellus radians",
+   "zhtw": "輻毛小鬼傘",
+   "zhcn": "辐毛小鬼伞"
+  },
+  {
+   "name": "Coprinellus aureogranulatus",
+   "zhtw": "金粒小鬼傘",
+   "zhcn": "金粒小鬼伞"
+  },
+  {
+   "name": "Coprinellus micaceus",
+   "zhtw": "晶粒小鬼傘",
+   "zhcn": "晶粒小鬼伞"
+  },
+  {
+   "name": "Coprinellus impatiens",
+   "zhtw": "急躁小鬼傘",
+   "zhcn": "急躁小鬼伞",
+   "current": "Tulosesus impatiens",
+   "current_zhtw": "急躁刺毛鬼傘",
+   "current_zhcn": "急躁刺毛鬼伞"
+  },
+  {
+   "name": "Coprinellus heptemerus",
+   "zhtw": "柔碎小鬼傘",
+   "zhcn": "柔碎小鬼伞"
+  },
+  {
+   "name": "Coprinellus velatopruinatus",
+   "zhtw": "霜覆小鬼傘",
+   "zhcn": "霜覆小鬼伞"
+  },
+  {
+   "name": "Coprinellus disseminatus",
+   "zhtw": "簇生小鬼傘",
+   "zhcn": "簇生小鬼伞"
+  }
+ ]
+}

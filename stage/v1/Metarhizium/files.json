@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Metarhizium cylindrosporum",
+   "zhtw": "柱孢黑僵菌",
+   "zhcn": "柱孢黑僵菌"
+  },
+  {
+   "name": "Metarhizium kusanagiense",
+   "zhtw": "草薙黑僵菌",
+   "zhcn": "草薙黑僵菌",
+   "current": "Yosiokobayasia kusanaginensis",
+   "current_zhtw": "草薙小林蟲草",
+   "current_zhcn": "草薙小林虫草"
+  },
+  {
+   "name": "Metarhizium anisopliae",
+   "zhtw": "黑僵菌",
+   "zhcn": "黑僵菌"
+  }
+ ]
+}

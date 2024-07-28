@@ -1,0 +1,42 @@
+{
+ "list": [
+  {
+   "name": "Lycoperdon subincarnatum",
+   "zhtw": "亞肉色馬勃",
+   "zhcn": "亚肉色马勃"
+  },
+  {
+   "name": "Lycoperdon pyriforme",
+   "zhtw": "梨形馬勃",
+   "zhcn": "梨形马勃",
+   "current": "Apioperdon pyriforme",
+   "current_zhtw": "梨形馬勃",
+   "current_zhcn": "梨形马勃"
+  },
+  {
+   "name": "Lycoperdon hiemale",
+   "zhtw": "冬季馬勃",
+   "zhcn": "冬季马勃"
+  },
+  {
+   "name": "Lycoperdon curtisii",
+   "zhtw": "柯氏馬勃",
+   "zhcn": "柯氏马勃"
+  },
+  {
+   "name": "Lycoperdon spadiceum",
+   "zhtw": "棗紅馬勃",
+   "zhcn": "枣红马勃"
+  },
+  {
+   "name": "Lycoperdon bispinosum",
+   "zhtw": "雙棘馬勃",
+   "zhcn": "双棘马勃"
+  },
+  {
+   "name": "Lycoperdon perlatum",
+   "zhtw": "網紋馬勃",
+   "zhcn": "网纹马勃"
+  }
+ ]
+}

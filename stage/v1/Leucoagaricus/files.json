@@ -1,0 +1,37 @@
+{
+ "list": [
+  {
+   "name": "Leucoagaricus atrosquamulosus",
+   "zhtw": "暗鱗白環蘑",
+   "zhcn": "暗鳞白环蘑"
+  },
+  {
+   "name": "Leucoagaricus lacrymans",
+   "zhtw": "滴淚白環蘑",
+   "zhcn": "滴泪白环蘑"
+  },
+  {
+   "name": "Leucoagaricus rubrotinctus",
+   "zhtw": "紅色白環蘑",
+   "zhcn": "红色白环蘑"
+  },
+  {
+   "name": "Leucoagaricus americanus",
+   "zhtw": "美國白環蘑",
+   "zhcn": "美国白环蘑"
+  },
+  {
+   "name": "Leucoagaricus bresadolae",
+   "zhtw": "布雷白環蘑",
+   "zhcn": "布雷白环蘑",
+   "current": "Leucoagaricus americanus",
+   "current_zhtw": "美國白環蘑",
+   "current_zhcn": "美国白环蘑"
+  },
+  {
+   "name": "Leucoagaricus aurantioruber",
+   "zhtw": "橙紅白環蘑",
+   "zhcn": "橙红白环蘑"
+  }
+ ]
+}

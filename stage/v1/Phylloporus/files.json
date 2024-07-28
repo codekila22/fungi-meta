@@ -1,0 +1,27 @@
+{
+ "list": [
+  {
+   "name": "Phylloporus leucomycelinus",
+   "zhtw": "紅黃褶孔牛肝菌",
+   "zhcn": "红黄褶孔牛肝菌"
+  },
+  {
+   "name": "Phylloporus bellus",
+   "zhtw": "美麗褶孔牛肝菌",
+   "zhcn": "美丽褶孔牛肝菌"
+  },
+  {
+   "name": "Phylloporus bellus var. cyanescens",
+   "zhtw": "變藍褶孔牛肝菌",
+   "zhcn": "变蓝褶孔牛肝菌",
+   "current": "Phylloporus cyanescens",
+   "current_zhtw": "變藍褶孔牛肝菌",
+   "current_zhcn": "变蓝褶孔牛肝菌"
+  },
+  {
+   "name": "Phylloporus cyanescens",
+   "zhtw": "變藍褶孔牛肝菌",
+   "zhcn": "变蓝褶孔牛肝菌"
+  }
+ ]
+}

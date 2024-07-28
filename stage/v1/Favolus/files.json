@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Favolus tenuiculus",
+   "zhtw": "略薄菱孔菌",
+   "zhcn": "略薄菱孔菌"
+  },
+  {
+   "name": "Favolus brasiliensis",
+   "zhtw": "巴西菱孔菌",
+   "zhcn": "巴西菱孔菌",
+   "current": "Favolus tenuiculus",
+   "current_zhtw": "略薄菱孔菌",
+   "current_zhcn": "略薄菱孔菌"
+  },
+  {
+   "name": "Favolus yanomami",
+   "zhtw": "亞諾馬米菱孔菌",
+   "zhcn": "亚诺马米菱孔菌"
+  }
+ ]
+}

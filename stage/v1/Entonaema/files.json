@@ -1,0 +1,17 @@
+{
+ "list": [
+  {
+   "name": "Entonaema liquescens",
+   "zhtw": "液狀膠球炭殼菌",
+   "zhcn": "液状胶球炭壳菌"
+  },
+  {
+   "name": "Entonaema splendens",
+   "zhtw": "華美膠球炭殼菌",
+   "zhcn": "华美胶球炭壳菌",
+   "current": "Entonaema liquescens",
+   "current_zhtw": "液狀膠球炭殼菌",
+   "current_zhcn": "液状胶球炭壳菌"
+  }
+ ]
+}

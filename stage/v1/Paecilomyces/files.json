@@ -1,0 +1,20 @@
+{
+ "list": [
+  {
+   "name": "Paecilomyces tenuipes",
+   "zhtw": "細腳擬青黴",
+   "zhcn": "细脚拟青霉",
+   "current": "Cordyceps tenuipes",
+   "current_zhtw": "蛾蛹蟲草",
+   "current_zhcn": "蛾蛹虫草"
+  },
+  {
+   "name": "Paecilomyces farinosus",
+   "zhtw": "粉粒擬青黴",
+   "zhcn": "粉粒拟青霉",
+   "current": "Cordyceps farinosa",
+   "current_zhtw": "粉粒擬青黴",
+   "current_zhcn": "粉粒拟青霉"
+  }
+ ]
+}

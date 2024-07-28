@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Torrubiella flava",
+   "zhtw": "黃蟲殼菌",
+   "zhcn": "黄虫壳菌"
+  },
+  {
+   "name": "Torrubiella gonylepticida",
+   "zhtw": "長腳蟹蟲殼菌",
+   "zhcn": "长脚蟹虫壳菌"
+  },
+  {
+   "name": "Torrubiella cf. arachnophila",
+   "zhtw": "疑似嗜蛛蟲殼菌",
+   "zhcn": "疑似嗜蛛虫壳菌",
+   "current": "Gibellula cf. arachnophila",
+   "current_zhtw": "疑似嗜蛛球束梗孢黴",
+   "current_zhcn": "疑似嗜蛛球束梗孢霉"
+  }
+ ]
+}

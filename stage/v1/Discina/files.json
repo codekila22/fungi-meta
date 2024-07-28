@@ -1,0 +1,17 @@
+{
+ "list": [
+  {
+   "name": "Discina ancilis",
+   "zhtw": "珠光平盤菌",
+   "zhcn": "珠光平盘菌"
+  },
+  {
+   "name": "Discina perlata",
+   "zhtw": "珠亮平盤菌",
+   "zhcn": "珠亮平盘菌",
+   "current": "Discina ancilis",
+   "current_zhtw": "珠光平盤菌",
+   "current_zhcn": "珠光平盘菌"
+  }
+ ]
+}

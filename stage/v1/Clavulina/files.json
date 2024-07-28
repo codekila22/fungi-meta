@@ -1,0 +1,47 @@
+{
+ "list": [
+  {
+   "name": "Clavulina coralloides",
+   "zhtw": "珊瑚狀鎖瑚菌",
+   "zhcn": "珊瑚状锁瑚菌",
+   "current": "Clavulina cristata",
+   "current_zhtw": "冠鎖瑚菌",
+   "current_zhcn": "冠锁瑚菌"
+  },
+  {
+   "name": "Clavulina rugosa",
+   "zhtw": "皺鎖瑚菌",
+   "zhcn": "皱锁瑚菌"
+  },
+  {
+   "name": "Clavulina ornatipes",
+   "zhtw": "飾柄鎖瑚菌",
+   "zhcn": "饰柄锁瑚菌"
+  },
+  {
+   "name": "Clavulina amethystinoides",
+   "zhtw": "淡紫鎖瑚菌",
+   "zhcn": "淡紫锁瑚菌"
+  },
+  {
+   "name": "Clavulina cristata",
+   "zhtw": "冠鎖瑚菌",
+   "zhcn": "冠锁瑚菌"
+  },
+  {
+   "name": "Clavulina castaneipes",
+   "zhtw": "栗色鎖瑚菌",
+   "zhcn": "栗色锁瑚菌"
+  },
+  {
+   "name": "Clavulina aff. tepurumenga",
+   "zhtw": "特普魯蒙鎖瑚菌的相似種",
+   "zhcn": "特普鲁蒙锁瑚菌的相似种"
+  },
+  {
+   "name": "Clavulina cinerea",
+   "zhtw": "灰鎖瑚菌",
+   "zhcn": "灰锁瑚菌"
+  }
+ ]
+}

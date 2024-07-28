@@ -1,0 +1,27 @@
+{
+ "list": [
+  {
+   "name": "Orbilia xanthostigma",
+   "zhtw": "黃色圓盤菌",
+   "zhcn": "黄色圆盘菌"
+  },
+  {
+   "name": "Orbilia auricolor",
+   "zhtw": "金色圓盤菌",
+   "zhcn": "金色圆盘菌"
+  },
+  {
+   "name": "Orbilia aurantiorubra",
+   "zhtw": "橘紅圓盤菌",
+   "zhcn": "橘红圆盘菌"
+  },
+  {
+   "name": "Orbilia delicatula",
+   "zhtw": "怡人圓盤菌",
+   "zhcn": "怡人圆盘菌",
+   "current": "Orbilia xanthostigma",
+   "current_zhtw": "黃色圓盤菌",
+   "current_zhcn": "黄色圆盘菌"
+  }
+ ]
+}

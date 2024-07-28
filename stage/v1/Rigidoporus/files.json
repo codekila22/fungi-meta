@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Rigidoporus microporus",
+   "zhtw": "小孔硬孔菌",
+   "zhcn": "小孔硬孔菌"
+  },
+  {
+   "name": "Rigidoporus lineatus",
+   "zhtw": "線條硬孔菌",
+   "zhcn": "线条硬孔菌",
+   "current": "Physisporinus lineatus",
+   "current_zhtw": "平絲變色臥孔菌",
+   "current_zhcn": "平丝变色卧孔菌"
+  },
+  {
+   "name": "Rigidoporus ulmarius",
+   "zhtw": "榆硬孔菌",
+   "zhcn": "榆硬孔菌"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Cymatoderma elegans",
+   "zhtw": "優雅波邊革菌",
+   "zhcn": "优雅波边革菌"
+  },
+  {
+   "name": "Cymatoderma dendriticum",
+   "zhtw": "樹枝狀波邊革菌",
+   "zhcn": "树枝状波边革菌"
+  },
+  {
+   "name": "Cymatoderma lamellatum",
+   "zhtw": "片狀波邊革菌",
+   "zhcn": "片状波边革菌",
+   "current": "Cymatoderma elegans",
+   "current_zhtw": "優雅波邊革菌",
+   "current_zhcn": "优雅波边革菌"
+  }
+ ]
+}

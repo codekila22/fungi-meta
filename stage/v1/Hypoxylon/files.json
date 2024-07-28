@@ -1,0 +1,63 @@
+{
+ "list": [
+  {
+   "name": "Hypoxylon haematostroma",
+   "zhtw": "血座炭團菌",
+   "zhcn": "血座炭团菌"
+  },
+  {
+   "name": "Hypoxylon multiforme",
+   "zhtw": "多形炭團菌",
+   "zhcn": "多形炭团菌"
+  },
+  {
+   "name": "Hypoxylon fragiforme",
+   "zhtw": "莓型炭團菌",
+   "zhcn": "莓型炭团菌"
+  },
+  {
+   "name": "Hypoxylon pseudefendleri",
+   "zhtw": "假芬德勒炭團菌",
+   "zhcn": "假芬德勒炭团菌"
+  },
+  {
+   "name": "Hypoxylon rubiginosum",
+   "zhtw": "赤褐炭團菌",
+   "zhcn": "赤褐炭团菌"
+  },
+  {
+   "name": "Hypoxylon petriniae",
+   "zhtw": "佩特里尼炭團菌",
+   "zhcn": "佩特里尼炭团菌"
+  },
+  {
+   "name": "Hypoxylon truncatum",
+   "zhtw": "截孔炭團菌",
+   "zhcn": "截孔炭团菌"
+  },
+  {
+   "name": "Hypoxylon annulatum",
+   "zhtw": "環形炭團菌",
+   "zhcn": "环形炭团菌",
+   "current": "Annulohypoxylon annulatum",
+   "current_zhtw": "環孔環紋炭團菌",
+   "current_zhcn": "环孔环纹炭团菌"
+  },
+  {
+   "name": "Hypoxylon nitens",
+   "zhtw": "刨光炭團菌",
+   "zhcn": "刨光炭团菌",
+   "current": "Annulohypoxylon cf. nitens",
+   "current_zhtw": "疑似亮環紋炭團菌",
+   "current_zhcn": "疑似亮环纹炭团菌"
+  },
+  {
+   "name": "Hypoxylon moriforme",
+   "zhtw": "葚狀炭團菌",
+   "zhcn": "葚状炭团菌",
+   "current": "Annulohypoxylon moriforme",
+   "current_zhtw": "葚狀環紋炭團菌",
+   "current_zhcn": "葚状环纹炭团菌"
+  }
+ ]
+}

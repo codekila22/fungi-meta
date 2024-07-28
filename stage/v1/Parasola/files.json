@@ -1,0 +1,32 @@
+{
+ "list": [
+  {
+   "name": "Parasola leiocephala",
+   "zhtw": "射紋超鬼傘",
+   "zhcn": "射纹超鬼伞"
+  },
+  {
+   "name": "Parasola auricoma",
+   "zhtw": "金毛超鬼傘",
+   "zhcn": "金毛超鬼伞"
+  },
+  {
+   "name": "Parasola psathyrelloides",
+   "zhtw": "類小脆柄菇超鬼傘",
+   "zhcn": "类小脆柄菇超鬼伞"
+  },
+  {
+   "name": "Parasola plicatilis",
+   "zhtw": "褶紋超鬼傘",
+   "zhcn": "褶纹超鬼伞"
+  },
+  {
+   "name": "Parasola lactea",
+   "zhtw": "射紋超鬼傘",
+   "zhcn": "射纹超鬼伞",
+   "current": "Parasola leiocephala",
+   "current_zhtw": "射紋超鬼傘",
+   "current_zhcn": "射纹超鬼伞"
+  }
+ ]
+}

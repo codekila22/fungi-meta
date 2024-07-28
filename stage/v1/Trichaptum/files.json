@@ -1,0 +1,42 @@
+{
+ "list": [
+  {
+   "name": "Trichaptum biforme",
+   "zhtw": "囊孔附毛菌",
+   "zhcn": "囊孔附毛菌"
+  },
+  {
+   "name": "Trichaptum elongatum",
+   "zhtw": "勾形附毛菌",
+   "zhcn": "勾形附毛菌"
+  },
+  {
+   "name": "Trichaptum durum",
+   "zhtw": "硬附毛菌",
+   "zhcn": "硬附毛菌",
+   "current": "Nigroporus durus",
+   "current_zhtw": "硬黑孔菌",
+   "current_zhcn": "硬黑孔菌"
+  },
+  {
+   "name": "Trichaptum abietinum",
+   "zhtw": "冷杉附毛菌",
+   "zhcn": "冷杉附毛菌"
+  },
+  {
+   "name": "Trichaptum perenne",
+   "zhtw": "多年生附毛菌",
+   "zhcn": "多年生附毛菌"
+  },
+  {
+   "name": "Trichaptum fuscoviolaceum",
+   "zhtw": "紫褐附毛菌",
+   "zhcn": "紫褐附毛菌"
+  },
+  {
+   "name": "Trichaptum byssogenum",
+   "zhtw": "毛囊附毛菌",
+   "zhcn": "毛囊附毛菌"
+  }
+ ]
+}

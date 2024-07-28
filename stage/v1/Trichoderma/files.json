@@ -1,0 +1,47 @@
+{
+ "list": [
+  {
+   "name": "Trichoderma thelephoricola",
+   "zhtw": "革菌生木黴",
+   "zhcn": "革菌生木霉"
+  },
+  {
+   "name": "Trichoderma jecorina",
+   "zhtw": "紅褐木黴菌",
+   "zhcn": "红褐木霉菌"
+  },
+  {
+   "name": "Trichoderma citrinoviride",
+   "zhtw": "橘綠木黴",
+   "zhcn": "橘绿木霉"
+  },
+  {
+   "name": "Trichoderma epimyces",
+   "zhtw": "延伸木黴菌",
+   "zhcn": "延伸木霉菌"
+  },
+  {
+   "name": "Trichoderma sulphureum",
+   "zhtw": "硫色木黴菌",
+   "zhcn": "硫色木霉菌"
+  },
+  {
+   "name": "Trichoderma cornu-damae",
+   "zhtw": "火焰木黴菌",
+   "zhcn": "火焰木霉菌"
+  },
+  {
+   "name": "Trichoderma viride",
+   "zhtw": "綠木黴菌",
+   "zhcn": "绿木霉菌"
+  },
+  {
+   "name": "Trichoderma harzianum",
+   "zhtw": "哈茨木黴菌",
+   "zhcn": "哈茨木霉菌",
+   "current": "Hypocrea lixii",
+   "current_zhtw": "綠西肉座菌",
+   "current_zhcn": "绿西肉座菌"
+  }
+ ]
+}

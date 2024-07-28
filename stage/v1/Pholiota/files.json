@@ -1,0 +1,47 @@
+{
+ "list": [
+  {
+   "name": "Pholiota aurivella",
+   "zhtw": "金毛鱗傘",
+   "zhcn": "金毛鳞伞"
+  },
+  {
+   "name": "Pholiota flammans",
+   "zhtw": "黃鱗傘",
+   "zhcn": "黄鳞伞"
+  },
+  {
+   "name": "Pholiota spumosa",
+   "zhtw": "黃褐環銹傘",
+   "zhcn": "黄褐环锈伞"
+  },
+  {
+   "name": "Pholiota squarrosoides",
+   "zhtw": "尖鱗環銹傘",
+   "zhcn": "尖鳞环锈伞"
+  },
+  {
+   "name": "Pholiota squarrosa",
+   "zhtw": "翹鱗傘",
+   "zhcn": "翘鳞伞"
+  },
+  {
+   "name": "Pholiota lubrica",
+   "zhtw": "黏蓋環銹傘",
+   "zhcn": "黏盖环锈伞"
+  },
+  {
+   "name": "Pholiota nameko",
+   "zhtw": "光滑環銹傘",
+   "zhcn": "光滑环锈伞",
+   "current": "Pholiota microspora",
+   "current_zhtw": "小孢環銹傘",
+   "current_zhcn": "小孢环锈伞"
+  },
+  {
+   "name": "Pholiota microspora",
+   "zhtw": "小孢環銹傘",
+   "zhcn": "小孢环锈伞"
+  }
+ ]
+}

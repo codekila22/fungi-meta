@@ -1,0 +1,50 @@
+{
+ "list": [
+  {
+   "name": "Volvariella caesiotincta",
+   "zhtw": "藍灰小包腳菇",
+   "zhcn": "蓝灰小包脚菇"
+  },
+  {
+   "name": "Volvariella hypopithys",
+   "zhtw": "白毛小包腳菇",
+   "zhcn": "白毛小包脚菇"
+  },
+  {
+   "name": "Volvariella speciosa f gloiocephala",
+   "zhtw": "美麗小包腳菇黏蓋型",
+   "zhcn": "美丽小包脚菇黏盖型",
+   "current": "Volvopluteus gloiocephalus",
+   "current_zhtw": "黏蓋具托光柄菇",
+   "current_zhcn": "黏盖具托光柄菇"
+  },
+  {
+   "name": "Volvariella speciosa",
+   "zhtw": "美麗小包腳菇",
+   "zhcn": "美丽小包脚菇",
+   "current": "Volvopluteus gloiocephalus",
+   "current_zhtw": "黏蓋具托光柄菇",
+   "current_zhcn": "黏盖具托光柄菇"
+  },
+  {
+   "name": "Volvariella pusilla",
+   "zhtw": "矮小包脚菇",
+   "zhcn": "矮小包脚菇"
+  },
+  {
+   "name": "Volvariella bombycina",
+   "zhtw": "絲蓋小包腳菇",
+   "zhcn": "丝盖小包脚菇"
+  },
+  {
+   "name": "Volvariella subtaylori",
+   "zhtw": "亞鐵羅小包腳菇",
+   "zhcn": "亚铁罗小包脚菇"
+  },
+  {
+   "name": "Volvariella volvacea",
+   "zhtw": "美味包腳菇",
+   "zhcn": "美味包脚菇"
+  }
+ ]
+}

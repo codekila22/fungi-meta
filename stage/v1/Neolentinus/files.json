@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Neolentinus suffrutescens",
+   "zhtw": "木質新香菇",
+   "zhcn": "木质新香菇",
+   "current": "Neolentinus lepideus",
+   "current_zhtw": "豹紋新香菇",
+   "current_zhcn": "豹纹新香菇"
+  },
+  {
+   "name": "Neolentinus adhaerens",
+   "zhtw": "黏新香菇",
+   "zhcn": "黏新香菇"
+  },
+  {
+   "name": "Neolentinus lepideus",
+   "zhtw": "豹紋新香菇",
+   "zhcn": "豹纹新香菇"
+  }
+ ]
+}

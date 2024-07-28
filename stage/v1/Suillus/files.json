@@ -1,0 +1,42 @@
+{
+ "list": [
+  {
+   "name": "Suillus americanus",
+   "zhtw": "美洲乳牛肝菌",
+   "zhcn": "美洲乳牛肝菌"
+  },
+  {
+   "name": "Suillus pictus",
+   "zhtw": "虎皮乳牛肝菌",
+   "zhcn": "虎皮乳牛肝菌",
+   "current": "Suillus spraguei",
+   "current_zhtw": "紅鱗乳牛肝菌",
+   "current_zhcn": "红鳞乳牛肝菌"
+  },
+  {
+   "name": "Suillus granulatus",
+   "zhtw": "點柄乳牛肝菌",
+   "zhcn": "点柄乳牛肝菌"
+  },
+  {
+   "name": "Suillus luteus",
+   "zhtw": "褐環乳牛肝菌",
+   "zhcn": "褐环乳牛肝菌"
+  },
+  {
+   "name": "Suillus grevillei",
+   "zhtw": "厚環乳牛肝菌",
+   "zhcn": "厚环乳牛肝菌"
+  },
+  {
+   "name": "Suillus spraguei",
+   "zhtw": "紅鱗乳牛肝菌",
+   "zhcn": "红鳞乳牛肝菌"
+  },
+  {
+   "name": "Suillus bovinus",
+   "zhtw": "乳牛肝菌",
+   "zhcn": "乳牛肝菌"
+  }
+ ]
+}

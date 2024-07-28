@@ -1,0 +1,27 @@
+{
+ "list": [
+  {
+   "name": "Gymnosporangium cornutum",
+   "zhtw": "角狀膠銹菌",
+   "zhcn": "角状胶锈菌"
+  },
+  {
+   "name": "Gymnosporangium niitakayamense",
+   "zhtw": "新高山膠銹菌",
+   "zhcn": "新高山胶锈菌"
+  },
+  {
+   "name": "Gymnosporangium asiaticum",
+   "zhtw": "梨膠銹菌",
+   "zhcn": "梨胶锈菌"
+  },
+  {
+   "name": "Gymnosporangium haraeanum",
+   "zhtw": "梨膠銹菌",
+   "zhcn": "梨胶锈菌",
+   "current": "Gymnosporangium asiaticum",
+   "current_zhtw": "梨膠銹菌",
+   "current_zhcn": "梨胶锈菌"
+  }
+ ]
+}

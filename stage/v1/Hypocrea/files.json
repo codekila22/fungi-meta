@@ -1,0 +1,84 @@
+{
+ "list": [
+  {
+   "name": "Hypocrea cf. rogersonii",
+   "zhtw": "疑似羅傑森肉座菌",
+   "zhcn": "疑似罗杰森肉座菌"
+  },
+  {
+   "name": "Hypocrea sulphurea",
+   "zhtw": "硫色肉座菌",
+   "zhcn": "硫色肉座菌",
+   "current": "Trichoderma sulphureum",
+   "current_zhtw": "硫色木黴菌",
+   "current_zhcn": "硫色木霉菌"
+  },
+  {
+   "name": "Hypocrea schweinitzii",
+   "zhtw": "薛凡尼氏肉座菌",
+   "zhcn": "薛凡尼氏肉座菌",
+   "current": "Trichoderma citrinoviride",
+   "current_zhtw": "橘綠木黴",
+   "current_zhcn": "橘绿木霉"
+  },
+  {
+   "name": "Hypocrea epimyces",
+   "zhtw": "延伸肉座菌",
+   "zhcn": "延伸肉座菌",
+   "current": "Trichoderma epimyces",
+   "current_zhtw": "延伸木黴菌",
+   "current_zhcn": "延伸木霉菌"
+  },
+  {
+   "name": "Hypocrea sp.1",
+   "zhtw": "玫瑰肉座菌(暫名)",
+   "zhcn": "玫瑰肉座菌(暂名)"
+  },
+  {
+   "name": "Hypocrea sinuosa",
+   "zhtw": "曲折肉座菌(暫名)",
+   "zhcn": "曲折肉座菌(暂名)"
+  },
+  {
+   "name": "Hypocrea lixii",
+   "zhtw": "綠西肉座菌",
+   "zhcn": "绿西肉座菌"
+  },
+  {
+   "name": "Hypocrea gelatinosa",
+   "zhtw": "膠質肉座菌",
+   "zhcn": "胶质肉座菌"
+  },
+  {
+   "name": "Hypocrea jecorina",
+   "zhtw": "紅褐肉座菌",
+   "zhcn": "红褐肉座菌",
+   "current": "Trichoderma jecorina",
+   "current_zhtw": "紅褐木黴菌",
+   "current_zhcn": "红褐木霉菌"
+  },
+  {
+   "name": "Hypocrea peltata",
+   "zhtw": "盾形肉座菌",
+   "zhcn": "盾形肉座菌"
+  },
+  {
+   "name": "Hypocrea rufa",
+   "zhtw": "紅棕肉座菌",
+   "zhcn": "红棕肉座菌"
+  },
+  {
+   "name": "Hypocrea thelephoricola",
+   "zhtw": "革菌生肉座菌",
+   "zhcn": "革菌生肉座菌",
+   "current": "Trichoderma thelephoricola",
+   "current_zhtw": "革菌生木黴",
+   "current_zhcn": "革菌生木霉"
+  },
+  {
+   "name": "Hypocrea dacrymycella",
+   "zhtw": "白黃肉座菌",
+   "zhcn": "白黄肉座菌"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "list": [
+  {
+   "name": "Leccinum griseum",
+   "zhtw": "灰疣柄牛肝菌",
+   "zhcn": "灰疣柄牛肝菌"
+  },
+  {
+   "name": "Leccinum scabrum",
+   "zhtw": "褐疣柄牛肝菌",
+   "zhcn": "褐疣柄牛肝菌"
+  },
+  {
+   "name": "Leccinum extremiorientale",
+   "zhtw": "裂皮疣柄牛肝菌",
+   "zhcn": "裂皮疣柄牛肝菌",
+   "current": "Rugiboletus extremiorientalis",
+   "current_zhtw": "裂皮皺蓋牛肝菌",
+   "current_zhcn": "裂皮皱盖牛肝菌"
+  },
+  {
+   "name": "Leccinum scrabrum complex",
+   "zhtw": "疣柄牛肝菌複合群",
+   "zhcn": "疣柄牛肝菌复合群"
+  },
+  {
+   "name": "Leccinum holopus",
+   "zhtw": "污白疣柄牛肝菌",
+   "zhcn": "污白疣柄牛肝菌"
+  },
+  {
+   "name": "Leccinum rugosiceps",
+   "zhtw": "皺蓋疣柄牛肝菌",
+   "zhcn": "皱盖疣柄牛肝菌"
+  }
+ ]
+}

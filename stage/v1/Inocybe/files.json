@@ -1,0 +1,62 @@
+{
+ "list": [
+  {
+   "name": "Inocybe asterospora",
+   "zhtw": "星孢絲蓋傘",
+   "zhcn": "星孢丝盖伞"
+  },
+  {
+   "name": "Inocybe lutea",
+   "zhtw": "蛋黃絲蓋傘",
+   "zhcn": "蛋黄丝盖伞"
+  },
+  {
+   "name": "Inocybe lilacina",
+   "zhtw": "淡紫絲蓋傘",
+   "zhcn": "淡紫丝盖伞"
+  },
+  {
+   "name": "Inocybe calospora",
+   "zhtw": "刺孢絲蓋傘",
+   "zhcn": "刺孢丝盖伞"
+  },
+  {
+   "name": "Inocybe aureostipes",
+   "zhtw": "金柄絲蓋傘",
+   "zhcn": "金柄丝盖伞"
+  },
+  {
+   "name": "Inocybe tahquamenonensis",
+   "zhtw": "褐紅鱗絲蓋傘",
+   "zhcn": "褐红鳞丝盖伞"
+  },
+  {
+   "name": "Inocybe cincinnata",
+   "zhtw": "刺鱗絲蓋傘",
+   "zhcn": "刺鳞丝盖伞"
+  },
+  {
+   "name": "Inocybe squarrosofulva",
+   "zhtw": "鱗黃絲蓋傘",
+   "zhcn": "鳞黄丝盖伞"
+  },
+  {
+   "name": "Inocybe geophylla",
+   "zhtw": "土味絲蓋傘",
+   "zhcn": "土味丝盖伞"
+  },
+  {
+   "name": "Inocybe geophylla var. lilacina",
+   "zhtw": "土味絲蓋傘淡紫色變種",
+   "zhcn": "土味丝盖伞淡紫色变种",
+   "current": "Inocybe lilacina",
+   "current_zhtw": "淡紫絲蓋傘",
+   "current_zhcn": "淡紫丝盖伞"
+  },
+  {
+   "name": "Inocybe nodulosospora",
+   "zhtw": "瘤孢絲蓋傘",
+   "zhcn": "瘤孢丝盖伞"
+  }
+ ]
+}

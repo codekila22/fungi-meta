@@ -1,0 +1,97 @@
+{
+ "list": [
+  {
+   "name": "Agaricus flammicolor",
+   "zhtw": "火焰色蘑菇",
+   "zhcn": "火焰色蘑菇"
+  },
+  {
+   "name": "Agaricus silvaticus",
+   "zhtw": "林地蘑菇",
+   "zhcn": "林地蘑菇"
+  },
+  {
+   "name": "Agaricus placomyces",
+   "zhtw": "雙環林地蘑菇",
+   "zhcn": "双环林地蘑菇"
+  },
+  {
+   "name": "Agaricus praeclaresquamosus",
+   "zhtw": "細褐鱗蘑菇",
+   "zhcn": "细褐鳞蘑菇",
+   "current": "Agaricus moelleri",
+   "current_zhtw": "細褐鱗蘑菇",
+   "current_zhcn": "细褐鳞蘑菇"
+  },
+  {
+   "name": "Agaricus campestris",
+   "zhtw": "野蘑菇",
+   "zhcn": "野蘑菇"
+  },
+  {
+   "name": "Agaricus dulcidulus",
+   "zhtw": "紫檀木色蘑菇",
+   "zhcn": "紫檀木色蘑菇"
+  },
+  {
+   "name": "Agaricus endoxanthus",
+   "zhtw": "內黃蘑菇",
+   "zhcn": "内黄蘑菇"
+  },
+  {
+   "name": "Agaricus abruptibulbus",
+   "zhtw": "球基蘑菇",
+   "zhcn": "球基蘑菇"
+  },
+  {
+   "name": "Agaricus flavopileatus",
+   "zhtw": "黃鱗蘑菇",
+   "zhcn": "黄鳞蘑菇"
+  },
+  {
+   "name": "Agaricus subrutilescens",
+   "zhtw": "紫紅蘑菇",
+   "zhcn": "紫红蘑菇"
+  },
+  {
+   "name": "Agaricus rotalis",
+   "zhtw": "輪轉蘑菇",
+   "zhcn": "轮转蘑菇"
+  },
+  {
+   "name": "Agaricus moelleri",
+   "zhtw": "細褐鱗蘑菇",
+   "zhcn": "细褐鳞蘑菇"
+  },
+  {
+   "name": "Agaricus duplocingulatus",
+   "zhtw": "雙環蘑菇",
+   "zhcn": "双环蘑菇"
+  },
+  {
+   "name": "Agaricus sp.1",
+   "zhtw": "絨毛蘑菇(暫名)",
+   "zhcn": "绒毛蘑菇(暂名)"
+  },
+  {
+   "name": "Agaricus albosquamosus",
+   "zhtw": "白鱗柄蘑菇",
+   "zhcn": "白鳞柄蘑菇"
+  },
+  {
+   "name": "Agaricus trisulphuratus",
+   "zhtw": "三硫色蘑菇",
+   "zhcn": "三硫色蘑菇"
+  },
+  {
+   "name": "Agaricus augustus",
+   "zhtw": "大紫蘑菇",
+   "zhcn": "大紫蘑菇"
+  },
+  {
+   "name": "Agaricus bresadolanus",
+   "zhtw": "假根蘑菇",
+   "zhcn": "假根蘑菇"
+  }
+ ]
+}

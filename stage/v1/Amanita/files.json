@@ -1,0 +1,413 @@
+{
+ "list": [
+  {
+   "name": "Amanita ochracea",
+   "zhtw": "黃褐鵝膏",
+   "zhcn": "黄褐鹅膏"
+  },
+  {
+   "name": "Amanita liquii",
+   "zhtw": "李逵鵝膏",
+   "zhcn": "李逵鹅膏"
+  },
+  {
+   "name": "Amanita ovalispora",
+   "zhtw": "卵孢鵝膏",
+   "zhcn": "卵孢鹅膏"
+  },
+  {
+   "name": "Amanita griseoturcosa",
+   "zhtw": "灰蓋鵝膏",
+   "zhcn": "灰盖鹅膏"
+  },
+  {
+   "name": "Amanita ceciliae",
+   "zhtw": "圈托鱗鵝膏菌",
+   "zhcn": "圈托鳞鹅膏菌"
+  },
+  {
+   "name": "Amanita vestita",
+   "zhtw": "絨毯鵝膏",
+   "zhcn": "绒毯鹅膏"
+  },
+  {
+   "name": "Amanita cf. fuligineoides",
+   "zhtw": "疑似擬灰花紋鵝膏",
+   "zhcn": "疑似拟灰花纹鹅膏"
+  },
+  {
+   "name": "Amanita sp.6",
+   "zhtw": "淡色高大鵝膏",
+   "zhcn": "淡色高大鹅膏"
+  },
+  {
+   "name": "Amanita porphyria",
+   "zhtw": "褐雲斑鵝膏",
+   "zhcn": "褐云斑鹅膏"
+  },
+  {
+   "name": "Amanita spissacea",
+   "zhtw": "角鱗白鵝膏",
+   "zhcn": "角鳞白鹅膏"
+  },
+  {
+   "name": "Amanita punctata",
+   "zhtw": "暗灰鵝膏",
+   "zhcn": "暗灰鹅膏"
+  },
+  {
+   "name": "Amanita rubroflava",
+   "zhtw": "凸頂紅黃鵝膏",
+   "zhcn": "凸顶红黄鹅膏"
+  },
+  {
+   "name": "Amanita alboumbelliformis",
+   "zhtw": "大白傘鵝膏",
+   "zhcn": "大白伞鹅膏"
+  },
+  {
+   "name": "Amanita virosa",
+   "zhtw": "鱗柄白鵝膏",
+   "zhcn": "鳞柄白鹅膏"
+  },
+  {
+   "name": "Amanita sp.7",
+   "zhtw": "乳頭鵝膏",
+   "zhcn": "乳头鹅膏"
+  },
+  {
+   "name": "Amanita parvipantherina",
+   "zhtw": "小豹斑鵝膏",
+   "zhcn": "小豹斑鹅膏"
+  },
+  {
+   "name": "Amanita vaginata",
+   "zhtw": "灰鵝膏",
+   "zhcn": "灰鹅膏"
+  },
+  {
+   "name": "Amanita farinosa",
+   "zhtw": "粉蓋鵝膏",
+   "zhcn": "粉盖鹅膏"
+  },
+  {
+   "name": "Amanita hemibapha",
+   "zhtw": "花柄橙紅鵝膏",
+   "zhcn": "花柄橙红鹅膏"
+  },
+  {
+   "name": "Amanita melleiceps",
+   "zhtw": "小毒蠅鵝膏",
+   "zhcn": "小毒蝇鹅膏"
+  },
+  {
+   "name": "Amanita esculenta",
+   "zhtw": "可食鵝膏",
+   "zhcn": "可食鹅膏"
+  },
+  {
+   "name": "Amanita sculpta",
+   "zhtw": "刻鱗鵝膏",
+   "zhcn": "刻鳞鹅膏"
+  },
+  {
+   "name": "Amanita pekeoides",
+   "zhtw": "蛇紋柄鵝膏",
+   "zhcn": "蛇纹柄鹅膏"
+  },
+  {
+   "name": "Amanita volvata",
+   "zhtw": "苞腳鵝膏",
+   "zhcn": "苞脚鹅膏"
+  },
+  {
+   "name": "Amanita suborientifulva",
+   "zhtw": "擬東方褐蓋鵝膏",
+   "zhcn": "拟东方褐盖鹅膏"
+  },
+  {
+   "name": "Amanita timida",
+   "zhtw": "泛紅鵝膏",
+   "zhcn": "泛红鹅膏"
+  },
+  {
+   "name": "Amanita parcivolvata",
+   "zhtw": "紅鵝膏",
+   "zhcn": "红鹅膏"
+  },
+  {
+   "name": "Amanita abrupta",
+   "zhtw": "球莖鵝膏",
+   "zhcn": "球茎鹅膏"
+  },
+  {
+   "name": "Amanita perpasta",
+   "zhtw": "飽腹球基鵝膏",
+   "zhcn": "饱腹球基鹅膏"
+  },
+  {
+   "name": "Amanita griseoverrucosa",
+   "zhtw": "灰疣鵝膏",
+   "zhcn": "灰疣鹅膏"
+  },
+  {
+   "name": "Amanita orientigemmata",
+   "zhtw": "東方黃蓋鵝膏",
+   "zhcn": "东方黄盖鹅膏"
+  },
+  {
+   "name": "Amanita orientifulva",
+   "zhtw": "東方褐蓋鵝膏",
+   "zhcn": "东方褐盖鹅膏"
+  },
+  {
+   "name": "Amanita rubrovolvata",
+   "zhtw": "紅托鵝膏",
+   "zhcn": "红托鹅膏"
+  },
+  {
+   "name": "Amanita macrocarpa",
+   "zhtw": "大果鵝膏",
+   "zhcn": "大果鹅膏"
+  },
+  {
+   "name": "Amanita sychnopyramis",
+   "zhtw": "殘托鵝膏",
+   "zhcn": "残托鹅膏"
+  },
+  {
+   "name": "Amanita brunneofuliginea",
+   "zhtw": "褐烟色鵝膏",
+   "zhcn": "褐烟色鹅膏"
+  },
+  {
+   "name": "Amanita battarrae",
+   "zhtw": "黑灰鵝膏",
+   "zhcn": "黑灰鹅膏"
+  },
+  {
+   "name": "Amanita zangii",
+   "zhtw": "臧氏鵝膏",
+   "zhcn": "臧氏鹅膏"
+  },
+  {
+   "name": "Amanita franchetii",
+   "zhtw": "黃疣膜鵝膏",
+   "zhcn": "黄疣膜鹅膏"
+  },
+  {
+   "name": "Amanita hesleri",
+   "zhtw": "海斯勒鵝膏",
+   "zhcn": "海斯勒鹅膏"
+  },
+  {
+   "name": "Amanita sp.1",
+   "zhtw": "暗圈鵝膏",
+   "zhcn": "暗圈鹅膏"
+  },
+  {
+   "name": "Amanita umbrinolutea",
+   "zhtw": "褐黃鵝膏",
+   "zhcn": "褐黄鹅膏",
+   "current": "Amanita battarrae",
+   "current_zhtw": "黑灰鵝膏",
+   "current_zhcn": "黑灰鹅膏"
+  },
+  {
+   "name": "Amanita hamadae",
+   "zhtw": "黃邊鵝膏",
+   "zhcn": "黄边鹅膏"
+  },
+  {
+   "name": "Amanita fuliginea",
+   "zhtw": "灰花紋鵝膏",
+   "zhcn": "灰花纹鹅膏"
+  },
+  {
+   "name": "Amanita caesarea",
+   "zhtw": "橙蓋鵝膏",
+   "zhcn": "橙盖鹅膏"
+  },
+  {
+   "name": "Amanita aureofloccosa",
+   "zhtw": "金絮鵝膏",
+   "zhcn": "金絮鹅膏"
+  },
+  {
+   "name": "Amanita garabitoana",
+   "zhtw": "加拉比托鵝膏",
+   "zhcn": "加拉比托鹅膏"
+  },
+  {
+   "name": "Amanita subglobosa",
+   "zhtw": "亞球鵝膏菌",
+   "zhcn": "亚球鹅膏菌"
+  },
+  {
+   "name": "Amanita sp.2",
+   "zhtw": "凸頂褐黃鵝膏",
+   "zhcn": "凸顶褐黄鹅膏"
+  },
+  {
+   "name": "Amanita hemibapha var. ochracea",
+   "zhtw": "紅黃鵝膏黃褐變種",
+   "zhcn": "红黄鹅膏黄褐变种",
+   "current": "Amanita ochracea",
+   "current_zhtw": "黃褐鵝膏",
+   "current_zhcn": "黄褐鹅膏"
+  },
+  {
+   "name": "Amanita neoovoidea",
+   "zhtw": "擬卵蓋鵝膏",
+   "zhcn": "拟卵盖鹅膏"
+  },
+  {
+   "name": "Amanita castanopsidis",
+   "zhtw": "櫟生鵝膏",
+   "zhcn": "栎生鹅膏"
+  },
+  {
+   "name": "Amanita fulva",
+   "zhtw": "赤褐鵝膏",
+   "zhcn": "赤褐鹅膏"
+  },
+  {
+   "name": "Amanita siamensis",
+   "zhtw": "泰國鵝膏",
+   "zhcn": "泰国鹅膏"
+  },
+  {
+   "name": "Amanita sychnopyramis f. subannulata",
+   "zhtw": "殘托鵝膏環變型",
+   "zhcn": "残托鹅膏环变型"
+  },
+  {
+   "name": "Amanita chepangiana",
+   "zhtw": "白條蓋鵝膏",
+   "zhcn": "白条盖鹅膏"
+  },
+  {
+   "name": "Amanita flavipes",
+   "zhtw": "薑黃柄鵝膏菌",
+   "zhcn": "姜黄柄鹅膏菌"
+  },
+  {
+   "name": "Amanita subpallidorosea",
+   "zhtw": "假淡紅鵝膏",
+   "zhcn": "假淡红鹅膏"
+  },
+  {
+   "name": "Amanita cf. cinereopannosa",
+   "zhtw": "疑似大蓋灰鱗鵝膏",
+   "zhcn": "疑似大盖灰鳞鹅膏"
+  },
+  {
+   "name": "Amanita ovoidea",
+   "zhtw": "卵蓋鵝膏",
+   "zhcn": "卵盖鹅膏"
+  },
+  {
+   "name": "Amanita cf. griseofarinosa",
+   "zhtw": "貝鎖灰絨鵝膏",
+   "zhcn": "贝锁灰绒鹅膏"
+  },
+  {
+   "name": "Amanita spreta",
+   "zhtw": "條緣鵝膏",
+   "zhcn": "条缘鹅膏"
+  },
+  {
+   "name": "Amanita pseudoporphyria",
+   "zhtw": "假褐雲斑鵝膏",
+   "zhcn": "假褐云斑鹅膏"
+  },
+  {
+   "name": "Amanita pallidorosea",
+   "zhtw": "淡紅鵝膏",
+   "zhcn": "淡红鹅膏"
+  },
+  {
+   "name": "Amanita rufoferruginea",
+   "zhtw": "土紅粉蓋鵝膏",
+   "zhcn": "土红粉盖鹅膏"
+  },
+  {
+   "name": "Amanita muscaria",
+   "zhtw": "毒蠅傘",
+   "zhcn": "毒蝇伞"
+  },
+  {
+   "name": "Amanita javanica",
+   "zhtw": "爪哇鵝膏",
+   "zhcn": "爪哇鹅膏"
+  },
+  {
+   "name": "Amanita similis",
+   "zhtw": "相似鵝膏",
+   "zhcn": "相似鹅膏"
+  },
+  {
+   "name": "Amanita virgineoides",
+   "zhtw": "錐鱗白鵝膏",
+   "zhcn": "锥鳞白鹅膏"
+  },
+  {
+   "name": "Amanita yenii",
+   "zhtw": "顏氏鵝膏",
+   "zhcn": "颜氏鹅膏"
+  },
+  {
+   "name": "Amanita rubescens",
+   "zhtw": "赭蓋鵝膏",
+   "zhcn": "赭盖鹅膏"
+  },
+  {
+   "name": "Amanita sp.5",
+   "zhtw": "黃鱗灰蓋鵝膏",
+   "zhcn": "黄鳞灰盖鹅膏"
+  },
+  {
+   "name": "Amanita gemmata",
+   "zhtw": "黃蓋鵝膏",
+   "zhcn": "黄盖鹅膏"
+  },
+  {
+   "name": "Amanita hongoi",
+   "zhtw": "本鄉鵝膏",
+   "zhcn": "本乡鹅膏"
+  },
+  {
+   "name": "Amanita pantherina",
+   "zhtw": "豹斑鵝膏",
+   "zhcn": "豹斑鹅膏"
+  },
+  {
+   "name": "Amanita gymnopus",
+   "zhtw": "赤腳鵝膏",
+   "zhcn": "赤脚鹅膏"
+  },
+  {
+   "name": "Amanita flavofloccosa",
+   "zhtw": "黃鱗柱柄鵝膏",
+   "zhcn": "黄鳞柱柄鹅膏",
+   "current": "Saproamanita flavofloccosa",
+   "current_zhtw": "黃鱗柱柄腐生鵝膏",
+   "current_zhcn": "黄鳞柱柄腐生鹅膏"
+  },
+  {
+   "name": "Amanita kotohiraensis",
+   "zhtw": "異味鵝膏",
+   "zhcn": "异味鹅膏"
+  },
+  {
+   "name": "Amanita cf. ochrophylla",
+   "zhtw": "疑似赭黃鵝膏",
+   "zhcn": "疑似赭黄鹅膏"
+  },
+  {
+   "name": "Amanita griseofolia",
+   "zhtw": "灰褶鵝膏",
+   "zhcn": "灰褶鹅膏"
+  }
+ ]
+}

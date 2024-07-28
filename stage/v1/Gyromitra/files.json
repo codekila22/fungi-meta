@@ -1,0 +1,30 @@
+{
+ "list": [
+  {
+   "name": "Gyromitra esculenta",
+   "zhtw": "鹿花菌",
+   "zhcn": "鹿花菌"
+  },
+  {
+   "name": "Gyromitra infula",
+   "zhtw": "帶鹿花菌",
+   "zhcn": "带鹿花菌"
+  },
+  {
+   "name": "Gyromitra perlata",
+   "zhtw": "珠亮鹿花菌",
+   "zhcn": "珠亮鹿花菌",
+   "current": "Discina ancilis",
+   "current_zhtw": "珠光平盤菌",
+   "current_zhcn": "珠光平盘菌"
+  },
+  {
+   "name": "Gyromitra ancilis",
+   "zhtw": "珠光鹿花菌",
+   "zhcn": "珠光鹿花菌",
+   "current": "Discina ancilis",
+   "current_zhtw": "珠光平盤菌",
+   "current_zhcn": "珠光平盘菌"
+  }
+ ]
+}

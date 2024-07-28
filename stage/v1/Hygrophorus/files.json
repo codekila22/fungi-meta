@@ -1,0 +1,30 @@
+{
+ "list": [
+  {
+   "name": "Hygrophorus cossus",
+   "zhtw": "粉黃蠟傘",
+   "zhcn": "粉黄蜡伞"
+  },
+  {
+   "name": "Hygrophorus chrysodon",
+   "zhtw": "金粒蠟傘",
+   "zhcn": "金粒蜡伞"
+  },
+  {
+   "name": "Hygrophorus lewelliniae",
+   "zhtw": "淡紫裂蓋蠟傘",
+   "zhcn": "淡紫裂盖蜡伞",
+   "current": "Porpolomopsis lewelliniae",
+   "current_zhtw": "萊威林擬波緣傘",
+   "current_zhcn": "莱威林拟波缘伞"
+  },
+  {
+   "name": "Hygrophorus irrigatus",
+   "zhtw": "水漾蠟傘",
+   "zhcn": "水漾蜡伞",
+   "current": "Gliophorus irrigatus",
+   "current_zhtw": "水漾濕黏傘",
+   "current_zhcn": "水漾湿黏伞"
+  }
+ ]
+}

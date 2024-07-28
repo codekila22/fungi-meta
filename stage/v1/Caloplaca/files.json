@@ -1,0 +1,22 @@
+{
+ "list": [
+  {
+   "name": "Caloplaca ceracea",
+   "zhtw": "蠟質橙衣",
+   "zhcn": "蜡质橙衣"
+  },
+  {
+   "name": "Caloplaca cinnabarina",
+   "zhtw": "硃砂橙衣",
+   "zhcn": "朱砂橙衣",
+   "current": "Neobrownliella cinnabarina",
+   "current_zhtw": "硃砂橙衣",
+   "current_zhcn": "朱砂橙衣"
+  },
+  {
+   "name": "Caloplaca flavovirescens",
+   "zhtw": "黃綠橙衣",
+   "zhcn": "黄绿橙衣"
+  }
+ ]
+}

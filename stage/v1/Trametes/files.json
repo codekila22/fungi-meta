@@ -1,0 +1,80 @@
+{
+ "list": [
+  {
+   "name": "Trametes vernicipes",
+   "zhtw": "漆柄栓菌",
+   "zhcn": "漆柄栓菌"
+  },
+  {
+   "name": "Trametes orientalis",
+   "zhtw": "東方栓菌",
+   "zhcn": "东方栓菌"
+  },
+  {
+   "name": "Trametes betulina",
+   "zhtw": "樺栓菌",
+   "zhcn": "桦栓菌",
+   "current": "Lenzites betulina",
+   "current_zhtw": "樺褶孔菌",
+   "current_zhcn": "桦褶孔菌"
+  },
+  {
+   "name": "Trametes feei",
+   "zhtw": "粉紅栓菌",
+   "zhcn": "粉红栓菌"
+  },
+  {
+   "name": "Trametes cinnabarinus",
+   "zhtw": "朱紅栓菌",
+   "zhcn": "朱红栓菌"
+  },
+  {
+   "name": "Trametes hirta",
+   "zhtw": "多毛栓菌",
+   "zhcn": "多毛栓菌",
+   "current": "Hexagonia hirta",
+   "current_zhtw": "多毛蜂窩菌",
+   "current_zhcn": "多毛蜂窝菌"
+  },
+  {
+   "name": "Trametes modesta",
+   "zhtw": "謙遜栓菌",
+   "zhcn": "谦逊栓菌"
+  },
+  {
+   "name": "Trametes villosa",
+   "zhtw": "長絨毛栓菌",
+   "zhcn": "长绒毛栓菌"
+  },
+  {
+   "name": "Trametes pubescens",
+   "zhtw": "絨毛栓菌",
+   "zhcn": "绒毛栓菌"
+  },
+  {
+   "name": "Trametes versicolor",
+   "zhtw": "彩絨栓菌",
+   "zhcn": "彩绒栓菌"
+  },
+  {
+   "name": "Trametes ochracea",
+   "zhtw": "赭栓菌",
+   "zhcn": "赭栓菌"
+  },
+  {
+   "name": "Trametes gibbosa",
+   "zhtw": "偏腫栓菌",
+   "zhcn": "偏肿栓菌"
+  },
+  {
+   "name": "Trametes sanguinea",
+   "zhtw": "血紅栓菌",
+   "zhcn": "血红栓菌"
+  },
+  {
+   "name": "Trametes hirsuta",
+   "zhtw": "毛栓菌",
+   "zhcn": "毛栓菌"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "list": [
+  {
+   "name": "Clavaria zollingeri",
+   "zhtw": "堇紫珊瑚菌",
+   "zhcn": "堇紫珊瑚菌"
+  },
+  {
+   "name": "Clavaria juncea",
+   "zhtw": "燈草珊瑚菌",
+   "zhcn": "灯草珊瑚菌",
+   "current": "Typhula juncea",
+   "current_zhtw": "燈心草核瑚菌",
+   "current_zhcn": "灯心草核瑚菌"
+  },
+  {
+   "name": "Clavaria flavostellifera",
+   "zhtw": "黃色飾孢珊瑚菌",
+   "zhcn": "黄色饰孢珊瑚菌"
+  },
+  {
+   "name": "Clavaria purpurea",
+   "zhtw": "紫珊瑚菌",
+   "zhcn": "紫珊瑚菌"
+  },
+  {
+   "name": "Clavaria fragilis",
+   "zhtw": "碎白珊瑚菌",
+   "zhcn": "碎白珊瑚菌"
+  },
+  {
+   "name": "Clavaria acuta",
+   "zhtw": "小勺珊瑚菌",
+   "zhcn": "小勺珊瑚菌"
+  },
+  {
+   "name": "Clavaria falcata",
+   "zhtw": "法卡塔劍形珊瑚菌",
+   "zhcn": "法卡塔剑形珊瑚菌"
+  },
+  {
+   "name": "Clavaria tenuipes",
+   "zhtw": "纖柄珊瑚菌",
+   "zhcn": "纤柄珊瑚菌"
+  }
+ ]
+}

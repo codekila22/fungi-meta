@@ -1,0 +1,32 @@
+{
+ "list": [
+  {
+   "name": "Craterellus undulatus",
+   "zhtw": "波喇叭菌",
+   "zhcn": "波喇叭菌"
+  },
+  {
+   "name": "Craterellus tubaeformis",
+   "zhtw": "管形喇叭菌",
+   "zhcn": "管形喇叭菌"
+  },
+  {
+   "name": "Craterellus cornucopioides",
+   "zhtw": "灰喇叭菌",
+   "zhcn": "灰喇叭菌"
+  },
+  {
+   "name": "Craterellus cinereus",
+   "zhtw": "灰色喇叭菌",
+   "zhcn": "灰色喇叭菌",
+   "current": "Cantharellus cinereus",
+   "current_zhtw": "灰色雞油菌",
+   "current_zhcn": "灰色鸡油菌"
+  },
+  {
+   "name": "Craterellus aureus",
+   "zhtw": "金黃喇叭菌",
+   "zhcn": "金黄喇叭菌"
+  }
+ ]
+}

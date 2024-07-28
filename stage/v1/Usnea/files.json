@@ -1,0 +1,52 @@
+{
+ "list": [
+  {
+   "name": "Usnea rubrotincta",
+   "zhtw": "紅皮松蘿",
+   "zhcn": "红皮松萝"
+  },
+  {
+   "name": "Usnea cornuta",
+   "zhtw": "角狀松蘿",
+   "zhcn": "角状松萝"
+  },
+  {
+   "name": "Usnea longissima",
+   "zhtw": "長松蘿",
+   "zhcn": "长松萝"
+  },
+  {
+   "name": "Usnea orientalis",
+   "zhtw": "東方松蘿",
+   "zhcn": "东方松萝"
+  },
+  {
+   "name": "Usnea shimadae",
+   "zhtw": "島田氏松蘿",
+   "zhcn": "岛田氏松萝"
+  },
+  {
+   "name": "Usnea cf. himalayana",
+   "zhtw": "疑似喜馬拉雅松蘿",
+   "zhcn": "疑似喜马拉雅松萝"
+  },
+  {
+   "name": "Usnea wirthii",
+   "zhtw": "長松蘿",
+   "zhcn": "长松萝",
+   "current": "Usnea longissima",
+   "current_zhtw": "長松蘿",
+   "current_zhcn": "长松萝"
+  },
+  {
+   "name": "Usnea rubicunda",
+   "zhtw": "深紅松蘿",
+   "zhcn": "深红松萝"
+  },
+  {
+   "name": "Usnea pseudogatai",
+   "zhtw": "擬臺灣松蘿",
+   "zhcn": "拟台湾松萝"
+  }
+ ]
+}

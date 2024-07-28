@@ -1,0 +1,27 @@
+{
+ "list": [
+  {
+   "name": "Exidia recisa",
+   "zhtw": "短膠耳",
+   "zhcn": "短胶耳"
+  },
+  {
+   "name": "Exidia glandulosa",
+   "zhtw": "黑膠耳",
+   "zhcn": "黑胶耳"
+  },
+  {
+   "name": "Exidia thuretiana",
+   "zhtw": "腦白膠耳",
+   "zhcn": "脑白胶耳"
+  },
+  {
+   "name": "Exidia alba",
+   "zhtw": "白膠耳",
+   "zhcn": "白胶耳",
+   "current": "Ductifera pululahuana",
+   "current_zhtw": "黏德克耳",
+   "current_zhcn": "黏德克耳"
+  }
+ ]
+}

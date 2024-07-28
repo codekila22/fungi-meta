@@ -1,0 +1,81 @@
+{
+ "list": [
+  {
+   "name": "Ganoderma formosanum",
+   "zhtw": "福爾摩沙靈芝",
+   "zhcn": "福尔摩沙灵芝",
+   "current": "Ganoderma dimidiatum",
+   "current_zhtw": "紫芝",
+   "current_zhcn": "紫芝"
+  },
+  {
+   "name": "Ganoderma weberianum",
+   "zhtw": "韋伯靈芝",
+   "zhcn": "韦伯灵芝"
+  },
+  {
+   "name": "Ganoderma australe",
+   "zhtw": "南方靈芝",
+   "zhcn": "南方灵芝"
+  },
+  {
+   "name": "Ganoderma tropicum",
+   "zhtw": "熱帶靈芝",
+   "zhcn": "热带灵芝"
+  },
+  {
+   "name": "Ganoderma orbiforme",
+   "zhtw": "拱狀靈芝",
+   "zhcn": "拱状灵芝"
+  },
+  {
+   "name": "Ganoderma bambusicola",
+   "zhtw": "竹生靈芝",
+   "zhcn": "竹生灵芝"
+  },
+  {
+   "name": "Ganoderma colossus",
+   "zhtw": "鬆芝",
+   "zhcn": "松芝",
+   "current": "Tomophagus colossus",
+   "current_zhtw": "鬆芝",
+   "current_zhcn": "松芝"
+  },
+  {
+   "name": "Ganoderma lucidum",
+   "zhtw": "赤芝",
+   "zhcn": "赤芝",
+   "current": "Ganoderma orbiforme",
+   "current_zhtw": "拱狀靈芝",
+   "current_zhcn": "拱状灵芝"
+  },
+  {
+   "name": "Ganoderma boninense",
+   "zhtw": "狹長孢靈芝",
+   "zhcn": "狭长孢灵芝",
+   "current": "Ganoderma orbiforme",
+   "current_zhtw": "拱狀靈芝",
+   "current_zhcn": "拱状灵芝"
+  },
+  {
+   "name": "Ganoderma dimidiatum",
+   "zhtw": "紫芝",
+   "zhcn": "紫芝"
+  },
+  {
+   "name": "Ganoderma multipileum",
+   "zhtw": "重傘靈芝",
+   "zhcn": "重伞灵芝"
+  },
+  {
+   "name": "Ganoderma lingzhi",
+   "zhtw": "靈芝",
+   "zhcn": "灵芝"
+  },
+  {
+   "name": "Ganoderma gibbosum",
+   "zhtw": "有柄樹舌靈芝",
+   "zhcn": "有柄树舌灵芝"
+  }
+ ]
+}

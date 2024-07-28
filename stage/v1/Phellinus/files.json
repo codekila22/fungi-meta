@@ -1,0 +1,48 @@
+{
+ "list": [
+  {
+   "name": "Phellinus noxius",
+   "zhtw": "有害木層孔菌",
+   "zhcn": "有害木层孔菌",
+   "current": "Pyrrhoderma noxium",
+   "current_zhtw": "有害紅皮菌",
+   "current_zhcn": "有害红皮菌"
+  },
+  {
+   "name": "Phellinus hoehnelii",
+   "zhtw": "賀尼木層孔菌",
+   "zhcn": "贺尼木层孔菌"
+  },
+  {
+   "name": "Phellinus gilvus",
+   "zhtw": "淡黃木層孔菌",
+   "zhcn": "淡黄木层孔菌"
+  },
+  {
+   "name": "Phellinus fushanianus",
+   "zhtw": "福山木層孔菌",
+   "zhcn": "福山木层孔菌"
+  },
+  {
+   "name": "Phellinus punctatus",
+   "zhtw": "斑孔木層孔菌",
+   "zhcn": "斑孔木层孔菌",
+   "current": "Fomitiporia punctata",
+   "current_zhtw": "斑孔嗜藍孢孔菌",
+   "current_zhcn": "斑孔嗜蓝孢孔菌"
+  },
+  {
+   "name": "Phellinus igniarius",
+   "zhtw": "火木層孔菌",
+   "zhcn": "火木层孔菌"
+  },
+  {
+   "name": "Phellinus pini",
+   "zhtw": "松木層孔菌",
+   "zhcn": "松木层孔菌",
+   "current": "Porodaedalea pini",
+   "current_zhtw": "松孔迷孔菌",
+   "current_zhcn": "松孔迷孔菌"
+  }
+ ]
+}
