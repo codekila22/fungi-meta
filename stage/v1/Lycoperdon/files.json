@@ -3,7 +3,8 @@
   {
    "name": "Lycoperdon subincarnatum",
    "zhtw": "亞肉色馬勃",
-   "zhcn": "亚肉色马勃"
+   "zhcn": "亚肉色马勃",
+   "img": "Lycoperdon_subincarnatum_19_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Lycoperdon pyriforme",
@@ -11,32 +12,38 @@
    "zhcn": "梨形马勃",
    "current": "Apioperdon pyriforme",
    "current_zhtw": "梨形馬勃",
-   "current_zhcn": "梨形马勃"
+   "current_zhcn": "梨形马勃",
+   "img": "Lycoperdon_pyriforme_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Lycoperdon hiemale",
    "zhtw": "冬季馬勃",
-   "zhcn": "冬季马勃"
+   "zhcn": "冬季马勃",
+   "img": "Lycoperdon_hiemale_1_CC BY-NC_蔡古媧.jpg"
   },
   {
    "name": "Lycoperdon curtisii",
    "zhtw": "柯氏馬勃",
-   "zhcn": "柯氏马勃"
+   "zhcn": "柯氏马勃",
+   "img": "Lycoperdon_curtisii_fac007d0-7bb5-11ee-8359-e7dc7bfc7c01_1.jpg"
   },
   {
    "name": "Lycoperdon spadiceum",
    "zhtw": "棗紅馬勃",
-   "zhcn": "枣红马勃"
+   "zhcn": "枣红马勃",
+   "img": "Lycoperdon_spadiceum_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Lycoperdon bispinosum",
    "zhtw": "雙棘馬勃",
-   "zhcn": "双棘马勃"
+   "zhcn": "双棘马勃",
+   "img": "Lycoperdon_bispinosum_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Lycoperdon perlatum",
    "zhtw": "網紋馬勃",
-   "zhcn": "网纹马勃"
+   "zhcn": "网纹马勃",
+   "img": "Lycoperdon_perlatum_2_CC BY-NC_姜淋友.jpg"
   }
  ]
 }

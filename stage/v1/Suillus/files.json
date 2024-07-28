@@ -3,7 +3,8 @@
   {
    "name": "Suillus americanus",
    "zhtw": "美洲乳牛肝菌",
-   "zhcn": "美洲乳牛肝菌"
+   "zhcn": "美洲乳牛肝菌",
+   "img": "Suillus_americanus_4_CC BY-NC.jpg"
   },
   {
    "name": "Suillus pictus",
@@ -11,32 +12,38 @@
    "zhcn": "虎皮乳牛肝菌",
    "current": "Suillus spraguei",
    "current_zhtw": "紅鱗乳牛肝菌",
-   "current_zhcn": "红鳞乳牛肝菌"
+   "current_zhcn": "红鳞乳牛肝菌",
+   "img": "Suillus_spraguei_9e6d2f20-cd65-11ed-a506-67c47cd0527c_1.jpg"
   },
   {
    "name": "Suillus granulatus",
    "zhtw": "點柄乳牛肝菌",
-   "zhcn": "点柄乳牛肝菌"
+   "zhcn": "点柄乳牛肝菌",
+   "img": "Suillus_granulatus_3_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Suillus luteus",
    "zhtw": "褐環乳牛肝菌",
-   "zhcn": "褐环乳牛肝菌"
+   "zhcn": "褐环乳牛肝菌",
+   "img": "Suillus_luteus_1_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Suillus grevillei",
    "zhtw": "厚環乳牛肝菌",
-   "zhcn": "厚环乳牛肝菌"
+   "zhcn": "厚环乳牛肝菌",
+   "img": "Suillus_grevillei_1_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Suillus spraguei",
    "zhtw": "紅鱗乳牛肝菌",
-   "zhcn": "红鳞乳牛肝菌"
+   "zhcn": "红鳞乳牛肝菌",
+   "img": "Suillus_spraguei_9e6d2f20-cd65-11ed-a506-67c47cd0527c_1.jpg"
   },
   {
    "name": "Suillus bovinus",
    "zhtw": "乳牛肝菌",
-   "zhcn": "乳牛肝菌"
+   "zhcn": "乳牛肝菌",
+   "img": "Suillus_bovinus_1_CC BY-NC_江志緯.jpg"
   }
  ]
 }

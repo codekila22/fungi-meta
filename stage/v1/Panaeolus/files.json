@@ -3,17 +3,20 @@
   {
    "name": "Panaeolus papilionaceus",
    "zhtw": "蝶形花褶傘",
-   "zhcn": "蝶形花褶伞"
+   "zhcn": "蝶形花褶伞",
+   "img": "Panaeolus_papilionaceus_4b272da0-c631-11ee-bd07-bb4543f52044_1.jpg"
   },
   {
    "name": "Panaeolus antillarum",
    "zhtw": "安地列斯花褶傘",
-   "zhcn": "安地列斯花褶伞"
+   "zhcn": "安地列斯花褶伞",
+   "img": "Panaeolus_antillarum_5_CC BY-NC.jpg"
   },
   {
    "name": "Panaeolus cinctulus",
    "zhtw": "鹿色花褶傘",
-   "zhcn": "鹿色花褶伞"
+   "zhcn": "鹿色花褶伞",
+   "img": "Panaeolus_cinctulus_304f89a0-30ef-11ee-be2e-3fbd7a5a518e_1.jpg"
   },
   {
    "name": "Panaeolus subbalteatus",
@@ -21,7 +24,8 @@
    "zhcn": "鹿色花褶伞",
    "current": "Panaeolus cinctulus",
    "current_zhtw": "鹿色花褶傘",
-   "current_zhcn": "鹿色花褶伞"
+   "current_zhcn": "鹿色花褶伞",
+   "img": "Panaeolus_cinctulus_304f89a0-30ef-11ee-be2e-3fbd7a5a518e_1.jpg"
   }
  ]
 }

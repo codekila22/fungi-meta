@@ -3,47 +3,56 @@
   {
    "name": "Hygrocybe coccineocrenata",
    "zhtw": "緋紅齒濕傘",
-   "zhcn": "绯红齿湿伞"
+   "zhcn": "绯红齿湿伞",
+   "img": "Hygrocybe_coccineocrenata_3_CC BY-NC.jpg"
   },
   {
    "name": "Hygrocybe suzukaensis",
    "zhtw": "朱黃濕傘",
-   "zhcn": "朱黄湿伞"
+   "zhcn": "朱黄湿伞",
+   "img": "Hygrocybe_suzukaensis_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Hygrocybe atroviridis",
    "zhtw": "深綠濕傘",
-   "zhcn": "深绿湿伞"
+   "zhcn": "深绿湿伞",
+   "img": "Hygrocybe_atroviridis_1_CC BY-NC_姜淋友.jpg"
   },
   {
    "name": "Hygrocybe cuspidata",
    "zhtw": "突頂橙紅濕傘",
-   "zhcn": "突顶橙红湿伞"
+   "zhcn": "突顶橙红湿伞",
+   "img": "Hygrocybe_cuspidata_c84a4190-0f98-11ef-8d44-cbfd9438abaa_1.jpg"
   },
   {
    "name": "Hygrocybe conica",
    "zhtw": "錐形濕傘",
-   "zhcn": "锥形湿伞"
+   "zhcn": "锥形湿伞",
+   "img": "Hygrocybe_conica_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Hygrocybe caespitosa",
    "zhtw": "簇生濕傘",
-   "zhcn": "簇生湿伞"
+   "zhcn": "簇生湿伞",
+   "img": "Hygrocybe_caespitosa_1_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Hygrocybe coccinea",
    "zhtw": "緋紅濕傘",
-   "zhcn": "绯红湿伞"
+   "zhcn": "绯红湿伞",
+   "img": "Hygrocybe_coccinea_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Hygrocybe acutoconica",
    "zhtw": "尖錐形濕傘",
-   "zhcn": "尖锥形湿伞"
+   "zhcn": "尖锥形湿伞",
+   "img": "Hygrocybe_acutoconica_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Hygrocybe miniata",
    "zhtw": "小紅濕傘",
-   "zhcn": "小红湿伞"
+   "zhcn": "小红湿伞",
+   "img": "Hygrocybe_miniata_9_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Hygrocybe virginea",
@@ -51,7 +60,8 @@
    "zhcn": "洁白湿伞",
    "current": "Cuphophyllus virgineus",
    "current_zhtw": "潔白拱頂菇",
-   "current_zhcn": "洁白拱顶菇"
+   "current_zhcn": "洁白拱顶菇",
+   "img": "Cuphophyllus_virgineus_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Hygrocybe unguinosa",
@@ -59,12 +69,14 @@
    "zhcn": "油光湿伞",
    "current": "Gliophorus irrigatus",
    "current_zhtw": "水漾濕黏傘",
-   "current_zhcn": "水漾湿黏伞"
+   "current_zhcn": "水漾湿黏伞",
+   "img": "Gliophorus_irrigatus_1_CC BY-NC_Chia Te Lin.jpg"
   },
   {
    "name": "Hygrocybe ceracea",
    "zhtw": "奶油濕傘",
-   "zhcn": "奶油湿伞"
+   "zhcn": "奶油湿伞",
+   "img": "Hygrocybe_ceracea_f0c35820-ce55-11ee-a19f-9d320fd31e7c_1.jpg"
   },
   {
    "name": "Hygrocybe psittacina",
@@ -72,7 +84,8 @@
    "zhcn": "翠绿湿伞",
    "current": "Gliophorus psittacinus",
    "current_zhtw": "翠綠濕黏傘",
-   "current_zhcn": "翠绿湿黏伞"
+   "current_zhcn": "翠绿湿黏伞",
+   "img": "Gliophorus_psittacinus_4_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Hygrocybe pratensis",
@@ -80,32 +93,38 @@
    "zhcn": "草地湿伞",
    "current": "Cuphophyllus pratensis",
    "current_zhtw": "草地拱頂菇",
-   "current_zhcn": "草地拱顶菇"
+   "current_zhcn": "草地拱顶菇",
+   "img": "Cuphophyllus_pratensis_43125770-ce38-11ee-bfba-6f7c0da040d1_1.jpg"
   },
   {
    "name": "Hygrocybe astatogala",
    "zhtw": "黑鱗濕傘",
-   "zhcn": "黑鳞湿伞"
+   "zhcn": "黑鳞湿伞",
+   "img": "Hygrocybe_astatogala_1_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Hygrocybe apricosa",
    "zhtw": "杏橘濕傘",
-   "zhcn": "杏橘湿伞"
+   "zhcn": "杏橘湿伞",
+   "img": "Hygrocybe_apricosa_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Hygrocybe chlorophana",
    "zhtw": "硫黃濕傘",
-   "zhcn": "硫黄湿伞"
+   "zhcn": "硫黄湿伞",
+   "img": "Hygrocybe_chlorophana_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Hygrocybe flavescens",
    "zhtw": "淺黃褐濕傘",
-   "zhcn": "浅黄褐湿伞"
+   "zhcn": "浅黄褐湿伞",
+   "img": "Hygrocybe_flavescens_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Hygrocybe cantharellus",
    "zhtw": "雞油濕傘",
-   "zhcn": "鸡油湿伞"
+   "zhcn": "鸡油湿伞",
+   "img": "Hygrocybe_cantharellus_1_CC BY-NC_James Ho.jpg"
   }
  ]
 }

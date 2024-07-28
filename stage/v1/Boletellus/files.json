@@ -3,17 +3,20 @@
   {
    "name": "Boletellus ananas",
    "zhtw": "鳳梨條孢牛肝菌",
-   "zhcn": "凤梨条孢牛肝菌"
+   "zhcn": "凤梨条孢牛肝菌",
+   "img": "Boletellus_ananas_12_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Boletellus emodensis",
    "zhtw": "酒色條孢牛肝菌",
-   "zhcn": "酒色条孢牛肝菌"
+   "zhcn": "酒色条孢牛肝菌",
+   "img": "Boletellus_emodensis_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Boletellus aurocontextus",
    "zhtw": "金裂紋條孢牛肝菌",
-   "zhcn": "金裂纹条孢牛肝菌"
+   "zhcn": "金裂纹条孢牛肝菌",
+   "img": "Boletellus_aurocontextus_1_CC BY-NC_Ali Tam.jpg"
   },
   {
    "name": "Boletellus longicollis",
@@ -21,7 +24,8 @@
    "zhcn": "长柄条孢牛肝菌",
    "current": "Aureoboletus longicollis",
    "current_zhtw": "長柄金牛肝菌",
-   "current_zhcn": "长柄金牛肝菌"
+   "current_zhcn": "长柄金牛肝菌",
+   "img": "Aureoboletus_longicollis_1_CC BY-NC_Becca Fong.jpg"
   },
   {
    "name": "Boletellus floriformis",
@@ -29,17 +33,20 @@
    "zhcn": "花形条孢牛肝菌",
    "current": "Boletellus emodensis",
    "current_zhtw": "酒色條孢牛肝菌",
-   "current_zhcn": "酒色条孢牛肝菌"
+   "current_zhcn": "酒色条孢牛肝菌",
+   "img": "Boletellus_emodensis_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Boletellus obscurecoccineus",
    "zhtw": "深紅條孢牛肝菌",
-   "zhcn": "深红条孢牛肝菌"
+   "zhcn": "深红条孢牛肝菌",
+   "img": "Boletellus_obscurecoccineus_4_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Boletellus elatus",
    "zhtw": "高腳條孢牛肝菌",
-   "zhcn": "高脚条孢牛肝菌"
+   "zhcn": "高脚条孢牛肝菌",
+   "img": "Boletellus_elatus_1_CC BY-NC_林杏蓉.jpg"
   }
  ]
 }

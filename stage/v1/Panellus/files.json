@@ -6,32 +6,38 @@
    "zhcn": "美味扇菇",
    "current": "Sarcomyxa edulis",
    "current_zhtw": "美味蠔菇",
-   "current_zhcn": "美味蚝菇"
+   "current_zhcn": "美味蚝菇",
+   "img": "Sarcomyxa_edulis_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Panellus stipticus",
    "zhtw": "鱗皮扇菇",
-   "zhcn": "鳞皮扇菇"
+   "zhcn": "鳞皮扇菇",
+   "img": "Panellus_stipticus_1_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Panellus minimus",
    "zhtw": "迷你扇菇",
-   "zhcn": "迷你扇菇"
+   "zhcn": "迷你扇菇",
+   "img": "Panellus_minima_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Panellus mitis",
    "zhtw": "白鱗皮扇菇",
-   "zhcn": "白鳞皮扇菇"
+   "zhcn": "白鳞皮扇菇",
+   "img": "Panellus_mitis_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Panellus pusillus",
    "zhtw": "小扇菇",
-   "zhcn": "小扇菇"
+   "zhcn": "小扇菇",
+   "img": "Panellus_pusillus_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Panellus sp.1",
    "zhtw": "山棕扇菇 (暫名)",
-   "zhcn": "山棕扇菇 (暂名)"
+   "zhcn": "山棕扇菇 (暂名)",
+   "img": "Panellus_sp.1_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

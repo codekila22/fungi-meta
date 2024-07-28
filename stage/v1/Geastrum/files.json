@@ -3,7 +3,8 @@
   {
    "name": "Geastrum mirabile",
    "zhtw": "木生地星",
-   "zhcn": "木生地星"
+   "zhcn": "木生地星",
+   "img": "Geastrum_mirabile_10_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Geastrum sessile",
@@ -11,62 +12,74 @@
    "zhcn": "无柄地星",
    "current": "Geastrum fimbriatum",
    "current_zhtw": "毛嘴地星",
-   "current_zhcn": "毛嘴地星"
+   "current_zhcn": "毛嘴地星",
+   "img": "Geastrum_fimbriatum_7_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Geastrum fimbriatum",
    "zhtw": "毛嘴地星",
-   "zhcn": "毛嘴地星"
+   "zhcn": "毛嘴地星",
+   "img": "Geastrum_fimbriatum_7_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Geastrum pectinatum",
    "zhtw": "篦齒地星",
-   "zhcn": "篦齿地星"
+   "zhcn": "篦齿地星",
+   "img": "Geastrum_pectinatum_3_CC BY-NC_黃春珠.jpg"
   },
   {
    "name": "Geastrum lageniforme",
    "zhtw": "葫蘆形地星",
-   "zhcn": "葫芦形地星"
+   "zhcn": "葫芦形地星",
+   "img": "Geastrum_lageniforme_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Geastrum suae",
    "zhtw": "蘇氏地星",
-   "zhcn": "苏氏地星"
+   "zhcn": "苏氏地星",
+   "img": "Geastrum_suae_dce6ec20-1a17-1071-b35d-cf91319fa52e_1.jpg"
   },
   {
    "name": "Geastrum elegans",
    "zhtw": "雅緻地星",
-   "zhcn": "雅致地星"
+   "zhcn": "雅致地星",
+   "img": "Geastrum_elegans_1_CC BY-NC_江志緯.jpg"
   },
   {
    "name": "Geastrum saccatum",
    "zhtw": "袋形地星",
-   "zhcn": "袋形地星"
+   "zhcn": "袋形地星",
+   "img": "Geastrum_saccatum_8_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Geastrum triplex",
    "zhtw": "尖頂地星",
-   "zhcn": "尖顶地星"
+   "zhcn": "尖顶地星",
+   "img": "Geastrum_triplex_13_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Geastrum javanicum",
    "zhtw": "爪哇地星",
-   "zhcn": "爪哇地星"
+   "zhcn": "爪哇地星",
+   "img": "Geastrum_javanicum_6c8e2f30-f407-11ee-a8ba-2f0da633d1b0_1.jpg"
   },
   {
    "name": "Geastrum neoamericanum",
    "zhtw": "新美洲地星",
-   "zhcn": "新美洲地星"
+   "zhcn": "新美洲地星",
+   "img": "Geastrum_neoamericanum_547897d0-2b1d-11ef-80a1-69aeab9574df_1.jpg"
   },
   {
    "name": "Geastrum berkeleyi",
    "zhtw": "伯克利地星",
-   "zhcn": "伯克利地星"
+   "zhcn": "伯克利地星",
+   "img": "Geastrum_berkeleyi_3_CC BY-NC_Sunny Wang.jpg"
   },
   {
    "name": "Geastrum litchiforme",
    "zhtw": "荔枝地星",
-   "zhcn": "荔枝地星"
+   "zhcn": "荔枝地星",
+   "img": "Geastrum_litchiforme_1_CC BY-NC_蔣珮瑩.jpg"
   }
  ]
 }

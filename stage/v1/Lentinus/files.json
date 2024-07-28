@@ -6,12 +6,14 @@
    "zhcn": "环柄斗菇",
    "current": "Lentinus connatus",
    "current_zhtw": "合生斗菇",
-   "current_zhcn": "合生斗菇"
+   "current_zhcn": "合生斗菇",
+   "img": "Lentinus_sajor-caju_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Lentinus sajor-caju var. javanicus",
    "zhtw": "赭褐環柄斗菇",
-   "zhcn": "赭褐环柄斗菇"
+   "zhcn": "赭褐环柄斗菇",
+   "img": "Lentinus_sajor-caju var. javanicus_3_CC BY-NC.jpg"
   },
   {
    "name": "Lentinus giganteus",
@@ -19,7 +21,8 @@
    "zhcn": "巨大斗菇",
    "current": "Pleurotus giganteus",
    "current_zhtw": "巨大側耳",
-   "current_zhcn": "巨大侧耳"
+   "current_zhcn": "巨大侧耳",
+   "img": "Lentinus_giganteus_1_CC BY-NC_江志緯.jpg"
   },
   {
    "name": "Lentinus similis",
@@ -27,12 +30,14 @@
    "zhcn": "绒柄斗菇",
    "current": "Panus similis",
    "current_zhtw": "絨柄革耳",
-   "current_zhcn": "绒柄革耳"
+   "current_zhcn": "绒柄革耳",
+   "img": "Panus_similis_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Lentinus squarrosulus",
    "zhtw": "翹鱗斗菇",
-   "zhcn": "翘鳞斗菇"
+   "zhcn": "翘鳞斗菇",
+   "img": "Lentinus_squarrosulus_1_CC BY-NC_王炳娟.jpg"
   },
   {
    "name": "Lentinus strigosus",
@@ -40,27 +45,32 @@
    "zhcn": "硬毛斗菇",
    "current": "Panus neostrigosus",
    "current_zhtw": "新粗毛革耳",
-   "current_zhcn": "新粗毛革耳"
+   "current_zhcn": "新粗毛革耳",
+   "img": "Panus_neostrigosus_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Lentinus badius",
    "zhtw": "栗褐斗菇",
-   "zhcn": "栗褐斗菇"
+   "zhcn": "栗褐斗菇",
+   "img": "Lentinus_badius_1_CC BY-NC_Angela Huang.jpg"
   },
   {
    "name": "Lentinus connatus",
    "zhtw": "合生斗菇",
-   "zhcn": "合生斗菇"
+   "zhcn": "合生斗菇",
+   "img": "Lentinus_sajor-caju_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Lentinus tigrinus",
    "zhtw": "虎皮斗菇",
-   "zhcn": "虎皮斗菇"
+   "zhcn": "虎皮斗菇",
+   "img": "Lentinus_tigrinus_1_CC BY-NC.jpg"
   },
   {
    "name": "Lentinus concavus",
    "zhtw": "凹蓋斗菇",
-   "zhcn": "凹盖斗菇"
+   "zhcn": "凹盖斗菇",
+   "img": "Lentinus_concavus_1_CC BY-NC_Purple Cherry.jpg"
   }
  ]
 }

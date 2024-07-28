@@ -6,17 +6,20 @@
    "zhcn": "迷你胶孔菌",
    "current": "Panellus minimus",
    "current_zhtw": "迷你扇菇",
-   "current_zhcn": "迷你扇菇"
+   "current_zhcn": "迷你扇菇",
+   "img": "Panellus_minima_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Favolaschia gelatina",
    "zhtw": "膠質膠孔菌",
-   "zhcn": "胶质胶孔菌"
+   "zhcn": "胶质胶孔菌",
+   "img": "Favolaschia_gelatina_aded6d60-17b2-11ee-8412-6191a674f659_1.jpg"
   },
   {
    "name": "Favolaschia pustulosa",
    "zhtw": "皰狀膠孔菌",
-   "zhcn": "疱状胶孔菌"
+   "zhcn": "疱状胶孔菌",
+   "img": "Favolaschia_pustulosa_b1524100-1b31-11ef-bca5-1b04858c8bf9_4.jpg"
   },
   {
    "name": "Favolaschia manipularis",
@@ -24,22 +27,26 @@
    "zhcn": "丛伞胶孔菌",
    "current": "Mycena manipularis",
    "current_zhtw": "叢傘小菇",
-   "current_zhcn": "丛伞小菇"
+   "current_zhcn": "丛伞小菇",
+   "img": "Favolaschia_manipularis_2_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Favolaschia fujisanensis",
    "zhtw": "富士山膠孔菌",
-   "zhcn": "富士山胶孔菌"
+   "zhcn": "富士山胶孔菌",
+   "img": "Favolaschia_fujisanensis_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Favolaschia nipponica",
    "zhtw": "日本膠孔菌",
-   "zhcn": "日本胶孔菌"
+   "zhcn": "日本胶孔菌",
+   "img": "Favolaschia_nipponica_1_CC BY-NC_江志緯.jpg"
   },
   {
    "name": "Favolaschia calocera",
    "zhtw": "橘黃膠孔菌",
-   "zhcn": "橘黄胶孔菌"
+   "zhcn": "橘黄胶孔菌",
+   "img": "Favolaschia_calocera_1_CC BY-NC_向高世.jpg"
   }
  ]
 }

@@ -3,32 +3,38 @@
   {
    "name": "Pleurotus giganteus",
    "zhtw": "巨大側耳",
-   "zhcn": "巨大侧耳"
+   "zhcn": "巨大侧耳",
+   "img": "Lentinus_giganteus_1_CC BY-NC_江志緯.jpg"
   },
   {
    "name": "Pleurotus australis",
    "zhtw": "南方側耳",
-   "zhcn": "南方侧耳"
+   "zhcn": "南方侧耳",
+   "img": "Pleurotus_australis_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Pleurotus citrinopileatus",
    "zhtw": "金頂側耳",
-   "zhcn": "金顶侧耳"
+   "zhcn": "金顶侧耳",
+   "img": "Pleurotus_citrinopileatus_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Pleurotus ostreatus",
    "zhtw": "糙皮側耳",
-   "zhcn": "糙皮侧耳"
+   "zhcn": "糙皮侧耳",
+   "img": "Pleurotus_ostreatus_3_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Pleurotus djamor",
    "zhtw": "桃紅側耳",
-   "zhcn": "桃红侧耳"
+   "zhcn": "桃红侧耳",
+   "img": "Pleurotus_salmoneostramineus_6_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Pleurotus tuber-regium",
    "zhtw": "菌核側耳",
-   "zhcn": "菌核侧耳"
+   "zhcn": "菌核侧耳",
+   "img": "Pleurotus_tuber-regium_1_CC BY-NC_Aperic Chang.jpg"
   },
   {
    "name": "Pleurotus salmoneostramineus",
@@ -36,17 +42,20 @@
    "zhcn": "桃红侧耳",
    "current": "Pleurotus djamor",
    "current_zhtw": "桃紅側耳",
-   "current_zhcn": "桃红侧耳"
+   "current_zhcn": "桃红侧耳",
+   "img": "Pleurotus_salmoneostramineus_6_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Pleurotus pulmonarius",
    "zhtw": "肺形側耳",
-   "zhcn": "肺形侧耳"
+   "zhcn": "肺形侧耳",
+   "img": "Pleurotus_pulmonarius_2_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Pleurotus cystidiosus",
    "zhtw": "囊狀側耳",
-   "zhcn": "囊状侧耳"
+   "zhcn": "囊状侧耳",
+   "img": "Pleurotus_cystidiosus_1_CC BY-NC_Rachel Ding.jpg"
   }
  ]
 }

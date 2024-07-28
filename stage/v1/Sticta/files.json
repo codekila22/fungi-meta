@@ -3,12 +3,14 @@
   {
    "name": "Sticta duplolimbata",
    "zhtw": "雙緣牛皮葉衣",
-   "zhcn": "双缘牛皮叶衣"
+   "zhcn": "双缘牛皮叶衣",
+   "img": "Sticta_duplolimbata_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Sticta gracilis",
    "zhtw": "柄扇牛皮葉衣",
-   "zhcn": "柄扇牛皮叶衣"
+   "zhcn": "柄扇牛皮叶衣",
+   "img": "Sticta_gracilis_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Sticta nylanderiana",
@@ -16,12 +18,14 @@
    "zhcn": "平滑牛皮叶衣",
    "current": "Dendriscosticta platyphylla",
    "current_zhtw": "平滑牛皮葉衣",
-   "current_zhcn": "平滑牛皮叶衣"
+   "current_zhcn": "平滑牛皮叶衣",
+   "img": "Dendriscosticta_platyphylla_1_CC BY-NC_江志緯.jpg"
   },
   {
    "name": "Sticta fuliginosa",
    "zhtw": "黑牛皮葉衣",
-   "zhcn": "黑牛皮叶衣"
+   "zhcn": "黑牛皮叶衣",
+   "img": "Sticta_fuliginosa_1_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }
