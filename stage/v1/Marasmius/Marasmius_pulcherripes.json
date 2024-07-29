@@ -66,7 +66,8 @@
   "Smell": "mild",
   "Taste": "mild",
   "LookAlikes": "",
-  "Note": "生長在以針葉樹為主的腐殖質之間，也能發現於闊葉樹的腐殖質中。味道溫和稍苦或白蘿蔔感。"
+  "Note": "生長在以針葉樹為主的腐殖質之間，也能發現於闊葉樹的腐殖質中。味道溫和稍苦或白蘿蔔感。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

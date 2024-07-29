@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "interrupta",
  "date": [
+  "07/27/2024,7737044439739253",
   "06/06/2024,7465059080271125",
   "10/10/2023,6503701016406941",
   "08/20/2023,6358511664259211",
@@ -323,6 +324,30 @@
   {
    "author": "James Ho",
    "image_src": "Mycena_interrupta_010f9c50-4947-11ee-a234-5dc7db49b3ad_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_interrupta_910a5880-1ceb-10b5-a500-77f2459b4595_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_interrupta_910a5880-1ceb-10b5-a500-77f2459b4595_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_interrupta_910a5880-1ceb-10b5-a500-77f2459b4595_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_interrupta_910a5880-1ceb-10b5-a500-77f2459b4595_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_interrupta_910a5880-1ceb-10b5-a500-77f2459b4595_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_interrupta_910a5880-1ceb-10b5-a500-77f2459b4595_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -360,7 +385,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

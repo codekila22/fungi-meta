@@ -184,7 +184,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "在枯木中可能會生成黑色菌核。"
+  "Note": "在枯木中可能會生成黑色菌核。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

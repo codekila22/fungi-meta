@@ -144,7 +144,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "此物種雖可食用，但文獻敘述它容易吸收環境中的砷，所以不建議食用。"
+  "Note": "此物種雖可食用，但文獻敘述它容易吸收環境中的砷，所以不建議食用。",
+  "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
   {

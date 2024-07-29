@@ -83,7 +83,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "此物種在其生長基質上有許多白色菌絲體。"
+  "Note": "此物種在其生長基質上有許多白色菌絲體。",
+  "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
   {

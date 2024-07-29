@@ -62,7 +62,8 @@
   "Smell": "",
   "Taste": "spicy",
   "LookAlikes": "",
-  "Note": "傘面濕時具黏性。菇體有種令人不快的臭味。"
+  "Note": "傘面濕時具黏性。菇體有種令人不快的臭味。",
+  "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
   {

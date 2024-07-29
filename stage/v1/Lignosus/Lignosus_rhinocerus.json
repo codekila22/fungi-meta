@@ -210,7 +210,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "可從土中或極為腐爛的朽木中長出，菌蓋有同心環輪紋、菌柄基部有菌核。"
+  "Note": "可從土中或極為腐爛的朽木中長出，菌蓋有同心環輪紋、菌柄基部有菌核。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

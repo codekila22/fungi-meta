@@ -177,7 +177,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "銀耳雖然長在腐木上，卻是一種寄生真菌，腐木上要先長環紋炭團菌屬(Annulohypoxylon spp.) 或是炭團菌屬(Hypoxylon spp.)，然後才會有銀耳出現。"
+  "Note": "銀耳雖然長在腐木上，卻是一種寄生真菌，腐木上要先長環紋炭團菌屬(Annulohypoxylon spp.) 或是炭團菌屬(Hypoxylon spp.)，然後才會有銀耳出現。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

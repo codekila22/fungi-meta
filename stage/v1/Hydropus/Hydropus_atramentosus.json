@@ -211,7 +211,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體會隨著時間自己變黑。"
+  "Note": "子實體會隨著時間自己變黑。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

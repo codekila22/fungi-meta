@@ -145,7 +145,8 @@
   "Smell": "other",
   "Taste": "mild",
   "LookAlikes": "",
-  "Note": "聞起來有杏桃味。"
+  "Note": "聞起來有杏桃味。",
+  "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
   {

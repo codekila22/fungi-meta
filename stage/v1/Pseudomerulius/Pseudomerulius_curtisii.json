@@ -200,7 +200,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "可生長在闊葉樹或針葉樹的枯木上。"
+  "Note": "可生長在闊葉樹或針葉樹的枯木上。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

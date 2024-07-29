@@ -116,7 +116,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長在腐爛植物上，可能是枯莖、枯葉、枯果等。"
+  "Note": "生長在腐爛植物上，可能是枯莖、枯葉、枯果等。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

@@ -228,7 +228,8 @@
   "Smell": "mild",
   "Taste": "bitter",
   "LookAlikes": "",
-  "Note": "此種顏色偏土黃色，食用有明顯苦味是其辨識重點之一，此物種劇毒請小心。"
+  "Note": "此種顏色偏土黃色，食用有明顯苦味是其辨識重點之一，此物種劇毒請小心。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

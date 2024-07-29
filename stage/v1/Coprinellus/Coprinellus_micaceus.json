@@ -177,7 +177,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "大多生長於腐朽的樹木根部或是埋在土中的枯木，傘面覆蓋雲母狀微粒但易脫落。"
+  "Note": "大多生長於腐朽的樹木根部或是埋在土中的枯木，傘面覆蓋雲母狀微粒但易脫落。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

@@ -271,7 +271,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "幼菌還不會長出菌齒。"
+  "Note": "幼菌還不會長出菌齒。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

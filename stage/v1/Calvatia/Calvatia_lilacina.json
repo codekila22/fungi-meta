@@ -141,7 +141,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "只有菌肉白色時可食。"
+  "Note": "只有菌肉白色時可食。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

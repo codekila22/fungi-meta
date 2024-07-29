@@ -322,7 +322,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "此物種是危害檳榔的真菌，檳榔基腐病的病原。"
+  "Note": "此物種是危害檳榔的真菌，檳榔基腐病的病原。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

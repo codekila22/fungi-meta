@@ -262,7 +262,8 @@
   "Smell": "",
   "Taste": "sweet",
   "LookAlikes": "",
-  "Note": "大雨後常可在平地草坪上發現，很容易形成一圈蘑菇仙女環。"
+  "Note": "大雨後常可在平地草坪上發現，很容易形成一圈蘑菇仙女環。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

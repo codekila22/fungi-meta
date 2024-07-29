@@ -456,7 +456,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "真菌寄生於桑椹果實上使其變成灰白色(桑椹腫果病)，盤菌子實體有黑色菌核。"
+  "Note": "真菌寄生於桑椹果實上使其變成灰白色(桑椹腫果病)，盤菌子實體有黑色菌核。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {

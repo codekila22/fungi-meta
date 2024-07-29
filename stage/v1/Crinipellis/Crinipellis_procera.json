@@ -2,6 +2,7 @@
  "genus": "Crinipellis",
  "name": "procera",
  "date": [
+  "06/15/2024,7748940828549614",
   "05/29/2022,4950850841691974"
  ],
  "names_zhtw": [
@@ -41,6 +42,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Crinipellis_procera_f1682820-a84c-11ee-b510-dd97621a1813_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Crinipellis_procera_c44d05f0-1b27-10b5-a500-77f2459b4595_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Crinipellis_procera_c44d05f0-1b27-10b5-a500-77f2459b4595_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Crinipellis_procera_c44d05f0-1b27-10b5-a500-77f2459b4595_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Crinipellis_procera_c44d05f0-1b27-10b5-a500-77f2459b4595_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Crinipellis_procera_c44d05f0-1b27-10b5-a500-77f2459b4595_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -79,7 +100,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
