@@ -73,7 +73,7 @@
   "Rareness": "common",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
-  "GrowthEnv": "",
+  "GrowthEnv": "ground",
   "Bruising": "blue",
   "Bioluminescent": "",
   "Edible": "edible",

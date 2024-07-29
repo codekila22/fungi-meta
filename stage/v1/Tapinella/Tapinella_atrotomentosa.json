@@ -254,7 +254,7 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "",
+  "GrowthEnv": "wood,ground,bamboo",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "toxic",
