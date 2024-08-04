@@ -1,0 +1,124 @@
+{
+ "name": "Agaricus",
+ "zhtw": "蘑菇屬",
+ "zhcn": "蘑菇属",
+ "list": [
+  {
+   "name": "Agaricus flammicolor",
+   "zhtw": "火焰色蘑菇",
+   "zhcn": "火焰色蘑菇",
+   "img": "Agaricus_flammicolor_a7d13450-0241-11ef-ac23-d574ebe29262_1.jpg"
+  },
+  {
+   "name": "Agaricus silvaticus",
+   "zhtw": "林地蘑菇",
+   "zhcn": "林地蘑菇",
+   "img": "Agaricus_silvaticus_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Agaricus placomyces",
+   "zhtw": "雙環林地蘑菇",
+   "zhcn": "双环林地蘑菇",
+   "img": "Agaricus_placomyces_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Agaricus praeclaresquamosus",
+   "zhtw": "細褐鱗蘑菇",
+   "zhcn": "细褐鳞蘑菇",
+   "current": "Agaricus moelleri",
+   "current_zhtw": "細褐鱗蘑菇",
+   "current_zhcn": "细褐鳞蘑菇",
+   "img": "Agaricus_cf. placomyces_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Agaricus campestris",
+   "zhtw": "野蘑菇",
+   "zhcn": "野蘑菇",
+   "img": "Agaricus_campestris_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Agaricus dulcidulus",
+   "zhtw": "紫檀木色蘑菇",
+   "zhcn": "紫檀木色蘑菇",
+   "img": "Agaricus_dulcidulus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Agaricus endoxanthus",
+   "zhtw": "內黃蘑菇",
+   "zhcn": "内黄蘑菇",
+   "img": "Agaricus_endoxanthus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Agaricus abruptibulbus",
+   "zhtw": "球基蘑菇",
+   "zhcn": "球基蘑菇",
+   "img": "Agaricus_abruptibulbus_cf727c80-6c0f-11ee-9ed1-e3a6fc48fdfa_1.jpg"
+  },
+  {
+   "name": "Agaricus flavopileatus",
+   "zhtw": "黃鱗蘑菇",
+   "zhcn": "黄鳞蘑菇",
+   "img": "Agaricus_flavopileatus_a1e58bc0-fa5a-11ee-b1ea-efe1d1a99b81_1.jpg"
+  },
+  {
+   "name": "Agaricus subrutilescens",
+   "zhtw": "紫紅蘑菇",
+   "zhcn": "紫红蘑菇",
+   "img": "Agaricus_subrutilescens_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Agaricus rotalis",
+   "zhtw": "輪轉蘑菇",
+   "zhcn": "轮转蘑菇",
+   "img": "Agaricus_rotalis_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Agaricus flocculosipes",
+   "zhtw": "卷毛柄蘑菇",
+   "zhcn": "卷毛柄蘑菇",
+   "img": "Agaricus_flocculosipes_c5a1bee0-17ac-10c6-a254-93fc4ec39761_1.jpg"
+  },
+  {
+   "name": "Agaricus moelleri",
+   "zhtw": "細褐鱗蘑菇",
+   "zhcn": "细褐鳞蘑菇",
+   "img": "Agaricus_cf. placomyces_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Agaricus duplocingulatus",
+   "zhtw": "雙環蘑菇",
+   "zhcn": "双环蘑菇",
+   "img": "Agaricus_duplocingulatus_1_CC BY-NC_林杏蓉.jpg"
+  },
+  {
+   "name": "Agaricus sp.1",
+   "zhtw": "絨毛蘑菇(暫名)",
+   "zhcn": "绒毛蘑菇(暂名)",
+   "img": "Agaricus_sp.1_e343dfb0-1583-11ef-9e23-1b438d350a76_1.jpg"
+  },
+  {
+   "name": "Agaricus albosquamosus",
+   "zhtw": "白鱗柄蘑菇",
+   "zhcn": "白鳞柄蘑菇",
+   "img": "Agaricus_albosquamosus_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Agaricus trisulphuratus",
+   "zhtw": "三硫色蘑菇",
+   "zhcn": "三硫色蘑菇",
+   "img": "Agaricus_trisulphuratus_1_CC BY-NC_徐秀團.jpg"
+  },
+  {
+   "name": "Agaricus augustus",
+   "zhtw": "大紫蘑菇",
+   "zhcn": "大紫蘑菇",
+   "img": "Agaricus_augustus_4_CC BY-NC_Rachel Ding.jpg"
+  },
+  {
+   "name": "Agaricus bresadolanus",
+   "zhtw": "假根蘑菇",
+   "zhcn": "假根蘑菇",
+   "img": "Agaricus_bresadolanus_1_CC BY-NC.jpg"
+  }
+ ]
+}

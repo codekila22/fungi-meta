@@ -1,0 +1,72 @@
+{
+ "genus": "Coltricia",
+ "name": "perennis",
+ "date": [
+  "06/28/2023,6142443582532688"
+ ],
+ "names_zhtw": [
+  "多年生集毛菌"
+ ],
+ "names_en": [
+  "Tiger's Eye Fungus",
+  "Fairy Stool Mushroom"
+ ],
+ "url": "6142443582532688",
+ "images": [
+  {
+   "author": "吳湯姆",
+   "image_src": "Coltricia_perennis_b48f9bf0-175a-11ee-a9bd-9fe515c27e2a_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Coltricia_perennis_b48f9bf0-175a-11ee-a9bd-9fe515c27e2a_2.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "多年生集毛菌"
+ ],
+ "meta": {
+  "CapColors": "4286578688,4288696877",
+  "CapDiamRangeValues": "30,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "3,4",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "equal",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "20,50",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "淺而薄的杯狀體，直徑 3 至 10 cm，成熟時常形成波浪狀、不規則的邊緣；菌蓋上表面有天鵝絨般柔軟 光滑，同心地劃分為赭色、棕色和紅棕色，邊緣通常比中心淺。\n\n當兩個或多個子實體非常靠近時，菌柄往往會融合在一起，形成一個帶有兩個或多個“眼睛”的單一帽蓋。\n\n菌孔每毫米3至4個，灰褐色，圓形或稍有棱角。\n\n菌柄深褐色，中生長2-5cm 圓柱形，基部有時略微腫脹。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Coltricia perennis",
+   "cname": "Brown Funnel Polypore",
+   "url": "https://www.inaturalist.org/taxa/118034-Coltricia-perennis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/44825175/thumb.jpg"
+  }
+ ]
+}

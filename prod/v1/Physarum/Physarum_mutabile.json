@@ -1,0 +1,88 @@
+{
+ "genus": "Physarum",
+ "name": "mutabile",
+ "date": [
+  "07/09/2024,7631323813644650"
+ ],
+ "names_zhtw": [
+  "變絨泡黏菌"
+ ],
+ "names_en": [],
+ "url": "7631323813644650",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_mutabile_86c479a0-25ee-1077-8f2a-038c3d9c1715_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_mutabile_86c479a0-25ee-1077-8f2a-038c3d9c1715_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_mutabile_86c479a0-25ee-1077-8f2a-038c3d9c1715_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_mutabile_86c479a0-25ee-1077-8f2a-038c3d9c1715_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_mutabile_86c479a0-25ee-1077-8f2a-038c3d9c1715_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_mutabile_86c479a0-25ee-1077-8f2a-038c3d9c1715_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_mutabile_86c479a0-25ee-1077-8f2a-038c3d9c1715_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "变绒泡黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "absent",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Physarum mutabile",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1109237-Physarum-mutabile",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251710970/thumb.jpg"
+  }
+ ]
+}

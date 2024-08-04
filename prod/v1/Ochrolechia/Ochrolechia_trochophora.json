@@ -1,0 +1,148 @@
+{
+ "genus": "Ochrolechia",
+ "name": "trochophora",
+ "date": [
+  "11/10/2022,5404653226311731",
+  "05/15/2022,7000588153384889"
+ ],
+ "names_zhtw": [
+  "幹生肉疣衣"
+ ],
+ "names_en": [],
+ "url": "7000588153384889",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Ochrolechia_trochophora_3c4435e0-d37d-11ee-a2a9-812f9c8874dd_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ochrolechia_trochophora_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ochrolechia_trochophora_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ochrolechia_trochophora_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ochrolechia_trochophora_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ochrolechia_trochophora_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ochrolechia_trochophora_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ochrolechia_trochophora_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ochrolechia_trochophora_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ochrolechia_trochophora_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ochrolechia_trochophora_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ochrolechia_trochophora_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ochrolechia_trochophora_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ochrolechia_trochophora_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ochrolechia_trochophora_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ochrolechia_trochophora_3c4435e0-d37d-11ee-a2a9-812f9c8874dd_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ochrolechia_trochophora_3c4435e0-d37d-11ee-a2a9-812f9c8874dd_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ochrolechia_trochophora_3c4435e0-d37d-11ee-a2a9-812f9c8874dd_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ochrolechia_trochophora_3c4435e0-d37d-11ee-a2a9-812f9c8874dd_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "干生肉疣衣"
+ ],
+ "meta": {
+  "CapColors": "4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Ochrolechia trochophora",
+   "cname": "Rosy Saucer Lichen",
+   "url": "https://www.inaturalist.org/taxa/182626-Ochrolechia-trochophora",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58720867/thumb.jpg"
+  },
+  {
+   "name": "Ochrolechia trochophora var. pruinirosella",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182624-Ochrolechia-trochophora-pruinirosella",
+   "src": ""
+  },
+  {
+   "name": "Ochrolechia trochophora var. trochophora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182625-Ochrolechia-trochophora-trochophora",
+   "src": ""
+  }
+ ]
+}

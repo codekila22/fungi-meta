@@ -1,0 +1,77 @@
+{
+ "genus": "Dacrymyces",
+ "name": "capitatus",
+ "date": [
+  "10/31/2023,6695354903908217"
+ ],
+ "names_zhtw": [
+  "頭狀花耳"
+ ],
+ "names_en": [],
+ "url": "6695354903908217",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Dacrymyces_capitatus_cb1711f0-91bc-11ee-86a1-9f9cb626064d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dacrymyces_capitatus_cb1711f0-91bc-11ee-86a1-9f9cb626064d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dacrymyces_capitatus_cb1711f0-91bc-11ee-86a1-9f9cb626064d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dacrymyces_capitatus_cb1711f0-91bc-11ee-86a1-9f9cb626064d_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "头状花耳"
+ ],
+ "meta": {
+  "CapColors": "4294083840,4294944000",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Dacrymyces capitatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/407806-Dacrymyces-capitatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11647779/thumb.jpg"
+  }
+ ]
+}

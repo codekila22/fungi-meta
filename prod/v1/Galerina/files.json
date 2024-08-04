@@ -1,0 +1,43 @@
+{
+ "name": "Galerina",
+ "zhtw": "盔孢傘屬",
+ "zhcn": "盔孢伞属",
+ "list": [
+  {
+   "name": "Galerina hypnorum",
+   "zhtw": "苔蘚盔孢傘",
+   "zhcn": "苔藓盔孢伞",
+   "img": "Galerina_hypnorum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Galerina marginata",
+   "zhtw": "紋緣盔孢傘",
+   "zhcn": "纹缘盔孢伞",
+   "img": "Galerina_marginata_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Galerina heterocystis",
+   "zhtw": "異囊盔孢傘",
+   "zhcn": "异囊盔孢伞",
+   "img": "Galerina_heterocystis_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Galerina patagonica",
+   "zhtw": "巴塔哥尼亞盔孢傘",
+   "zhcn": "巴塔哥尼亚盔孢伞",
+   "img": "Galerina_patagonica_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Galerina terrestris",
+   "zhtw": "土棲盔孢傘",
+   "zhcn": "土栖盔孢伞",
+   "img": "Galerina_terrestris_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Galerina helvoliceps",
+   "zhtw": "黃褐盔孢傘",
+   "zhcn": "黄褐盔孢伞",
+   "img": "Galerina_helvoliceps_5_CC BY-NC_柯文俊.jpg"
+  }
+ ]
+}

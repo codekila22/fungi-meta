@@ -1,0 +1,84 @@
+{
+ "genus": "Plectania",
+ "name": "melaena",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "黑褐暗盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3970",
+ "images": [
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_2_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_1_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_3_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_4_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_5_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_6_CC BY-NC_Samra Chang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黑褐暗盘菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4284635991,4286141768",
+  "CapDiamRangeValues": "20,60",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Pseudoplectania melaena",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1077155-Pseudoplectania-melaena",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14792131/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "genus": "Tylopilus",
+ "name": "vinosobrunneus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "紫褐粉孢牛肝菌"
+ ],
+ "names_en": [],
+ "url": "2920663394710739",
+ "images": [
+  {
+   "author": "王彥翔",
+   "image_src": "Tylopilus_vinosobrunneus_1_CC BY-NC_王彥翔.jpg"
+  },
+  {
+   "author": "王彥翔",
+   "image_src": "Tylopilus_vinosobrunneus_2_CC BY-NC_王彥翔.jpg"
+  },
+  {
+   "author": "王彥翔",
+   "image_src": "Tylopilus_vinosobrunneus_3_CC BY-NC_王彥翔.jpg"
+  },
+  {
+   "author": "王彥翔",
+   "image_src": "Tylopilus_vinosobrunneus_4_CC BY-NC_王彥翔.jpg"
+  },
+  {
+   "author": "王彥翔",
+   "image_src": "Tylopilus_vinosobrunneus_5_CC BY-NC_王彥翔.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫褐粉孢牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4287001761,4292571283,4282843172",
+  "CapDiamRangeValues": "50,110",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "60,120",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Tylopilus obscureviolaceus,,",
+  "Note": "",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "堇紫粉孢牛肝菌,,",
+  "la_zhcn": "堇紫粉孢牛肝菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Tylopilus vinosobrunneus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1279970-Tylopilus-vinosobrunneus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155818269/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "genus": "Phaeographis",
+ "name": "intricans",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "錯綜黑文衣"
+ ],
+ "names_en": [],
+ "url": "3724896530954084",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Phaeographis_intricans_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phaeographis_intricans_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phaeographis_intricans_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phaeographis_intricans_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "错综黑文衣"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4286611456",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Phaeographis intricans",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/463730-Phaeographis-intricans",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/64772378/thumb.jpeg"
+  }
+ ]
+}

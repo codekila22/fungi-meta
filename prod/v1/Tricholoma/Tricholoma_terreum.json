@@ -1,0 +1,140 @@
+{
+ "genus": "Tricholoma",
+ "name": "terreum",
+ "date": [
+  "11/01/2023,6627459150697793",
+  "03/18/2022,4772990126144714"
+ ],
+ "names_zhtw": [
+  "棕灰口蘑"
+ ],
+ "names_en": [],
+ "url": "4772990126144714",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Tricholoma_terreum_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Tricholoma_terreum_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Tricholoma_terreum_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Tricholoma_terreum_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Tricholoma_terreum_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Tricholoma_terreum_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Tricholoma_terreum_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Tricholoma_terreum_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholoma_terreum_99883760-8c1f-11ee-851f-7f446069d0a9_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholoma_terreum_99883760-8c1f-11ee-851f-7f446069d0a9_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholoma_terreum_99883760-8c1f-11ee-851f-7f446069d0a9_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholoma_terreum_99883760-8c1f-11ee-851f-7f446069d0a9_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "棕灰口蘑"
+ ],
+ "meta": {
+  "CapColors": "4288768839,4291998860,4286611584",
+  "CapDiamRangeValues": "30,100",
+  "CapShape": "umbontae",
+  "CapTexture": "fibrous",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "close",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "wavy",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "smooth",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "equal",
+  "StalkDiamRangeValuess": "10,15",
+  "StalkLengthRangeValuess": "30,50",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "菌蓋呈現絲毛般的纖維狀，傘尖隆起，棕灰色纖維向外輻射。菌褶由白而灰，常常帶有黃色。喜愛針葉木林地、鈣質土壤。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Tricholoma terreum",
+   "cname": "Grey Knight",
+   "url": "https://www.inaturalist.org/taxa/341797-Tricholoma-terreum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133564/thumb."
+  },
+  {
+   "name": "Tricholoma scalpturatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/340560-Tricholoma-scalpturatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30553733/thumb.jpg"
+  },
+  {
+   "name": "Tricholoma argyraceum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/340559-Tricholoma-argyraceum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28354131/thumb.jpg"
+  },
+  {
+   "name": "Tricholoma atrosquamosum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194807-Tricholoma-atrosquamosum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6133625/thumb.jpg"
+  },
+  {
+   "name": "Tricholoma terreum var. aetnense",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194464-Tricholoma-terreum-aetnense",
+   "src": ""
+  },
+  {
+   "name": "Tricholoma terreum var. fragrans",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194465-Tricholoma-terreum-fragrans",
+   "src": ""
+  }
+ ]
+}

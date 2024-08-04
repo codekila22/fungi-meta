@@ -1,0 +1,97 @@
+{
+ "genus": "Trametopsis",
+ "name": "cervina",
+ "date": [
+  "08/30/2022,5213019225475133"
+ ],
+ "names_zhtw": [
+  "齒被擬栓菌"
+ ],
+ "names_en": [],
+ "url": "5213019225475133",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Trametopsis_cervina_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trametopsis_cervina_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trametopsis_cervina_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trametopsis_cervina_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trametopsis_cervina_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trametopsis_cervina_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trametopsis_cervina_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trametopsis_cervina_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trametopsis_cervina_9_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "齿被拟栓菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Trametopsis cervina",
+   "cname": "Deer-colored Trametes",
+   "url": "https://www.inaturalist.org/taxa/485771-Trametopsis-cervina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/60753489/thumb.jpeg"
+  }
+ ]
+}

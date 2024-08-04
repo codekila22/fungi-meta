@@ -1,0 +1,125 @@
+{
+ "genus": "Marasmius",
+ "name": "niveus",
+ "date": [
+  "05/08/2024,7326986280745073",
+  "09/17/2023,6412264622217248",
+  "08/13/2023,6294090424034669",
+  "08/15/2021,4038624032914664",
+  "08/15/2021,4045859042191163",
+  "08/22/2020,3038345632942514",
+  "08/15/2020,3018673521576392",
+  "04/04/2020,2678279338949147"
+ ],
+ "names_zhtw": [
+  "雪白小皮傘"
+ ],
+ "names_en": [],
+ "url": "4045859042191163",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Marasmius_niveus_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Marasmius_niveus_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Marasmius_niveus_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Marasmius_niveus_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Marasmius_niveus_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Marasmius_niveus_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Marasmius_niveus_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Marasmius_niveus_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Marasmius_niveus_10_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_niveus_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_niveus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_niveus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_niveus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Marasmius_niveus_1_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "雪白小皮伞"
+ ],
+ "meta": {
+  "CapColors": "4294309340,4294967280,4294965468",
+  "CapDiamRangeValues": "8,20",
+  "CapShape": "convex,flat",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "crossconnected",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "smooth",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "occacional",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "grouped,clustered",
+  "GrowthEnv": "debris",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Marasmius cohortalis var. hymeniicephalus,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": ",,",
+  "la_zhcn": ",,"
+ },
+ "inaturalist": [
+  {
+   "name": "Marasmius niveus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1279958-Marasmius-niveus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155080429/thumb.jpg"
+  }
+ ]
+}

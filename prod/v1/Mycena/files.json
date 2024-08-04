@@ -1,0 +1,421 @@
+{
+ "name": "Mycena",
+ "zhtw": "小菇屬",
+ "zhcn": "小菇属",
+ "list": [
+  {
+   "name": "Mycena manipularis",
+   "zhtw": "叢傘小菇",
+   "zhcn": "丛伞小菇",
+   "img": "Favolaschia_manipularis_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Mycena aff. roseoflava",
+   "zhtw": "玫瑰黃小菇之相似種",
+   "zhcn": "玫瑰黄小菇之相似种",
+   "img": "Mycena_aff. roseoflava_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Mycena aff. epipterygia",
+   "zhtw": "黃柄小菇之相似種",
+   "zhcn": "黄柄小菇之相似种",
+   "img": "Mycena_aff. epipterygia_6_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "name": "Mycena brunneisetosa",
+   "zhtw": "褐剛毛小菇",
+   "zhcn": "褐刚毛小菇",
+   "img": "Mycena_brunneisetosa_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Mycena aff. filopes",
+   "zhtw": "線柄小菇之相似種",
+   "zhcn": "线柄小菇之相似种",
+   "img": "Mycena_aff. filopes_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Mycena sp.2",
+   "zhtw": "亮黃小菇(暫)",
+   "zhcn": "亮黄小菇(暂)",
+   "img": "Mycena_sp.2_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Mycena purpureofusca",
+   "zhtw": "紫褐小菇",
+   "zhcn": "紫褐小菇",
+   "img": "Mycena_purpureofusca_230edb40-1b29-11ef-bf8c-3d212a9fa59c_1.jpg"
+  },
+  {
+   "name": "Mycena cf. erubescens f. alba",
+   "zhtw": "疑似紅暈小菇之偏白副種",
+   "zhcn": "疑似红晕小菇之偏白副种",
+   "img": "Mycena_cf. erubescens f. alba_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Mycena albidocapillaris",
+   "zhtw": "白髮小菇",
+   "zhcn": "白发小菇",
+   "img": "Mycena_albidocapillaris_36362f30-021a-11ee-a502-6578876f9c55_1.jpg"
+  },
+  {
+   "name": "Mycena lux-coeli",
+   "zhtw": "天光小菇",
+   "zhcn": "天光小菇",
+   "img": "Mycena_lux-coeli_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena diplazii",
+   "zhtw": "雙蓋蕨小菇",
+   "zhcn": "双盖蕨小菇",
+   "img": "Mycena_diplazii_a63f3410-c674-11ee-9976-31e01ac04a41_1.jpg"
+  },
+  {
+   "name": "Mycena jingyinga",
+   "zhtw": "晶瑩小菇",
+   "zhcn": "晶莹小菇",
+   "img": "Mycena_jingyinga_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Mycena aciculata",
+   "zhtw": "針毛小菇",
+   "zhcn": "针毛小菇",
+   "img": "Mycena_aciculata_12_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Mycena chlorophos",
+   "zhtw": "發光小菇",
+   "zhcn": "发光小菇",
+   "img": "Mycena_chlorophos_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Mycena sp.3",
+   "zhtw": "麻糬小菇(暫)",
+   "zhcn": "麻糬小菇(暂)",
+   "img": "Mycena_mochi_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Mycena tenerrima",
+   "zhtw": "柔軟小菇",
+   "zhcn": "柔软小菇",
+   "img": "Mycena_tenerrima_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Mycena aff. acicula",
+   "zhtw": "紅橘小菇之相似種",
+   "zhcn": "红橘小菇之相似种",
+   "img": "Mycena_aff. acicula_1_CC BY-NC_陳漢欽.jpg"
+  },
+  {
+   "name": "Mycena epipterygia",
+   "zhtw": "黃柄小菇",
+   "zhcn": "黄柄小菇",
+   "img": "Mycena_epipterygia_572a0be0-f832-11ed-b38d-ff6ed6341731_10.jpg"
+  },
+  {
+   "name": "Mycena sp.4",
+   "zhtw": "幸運草小菇(暫名)",
+   "zhcn": "幸运草小菇(暂名)",
+   "img": "Mycena_sp.4_81f78540-1b0a-11ef-bbbf-f32f69159903_1.jpg"
+  },
+  {
+   "name": "Mycena aff. lividorubra",
+   "zhtw": "紫紅小菇近似種",
+   "zhcn": "紫红小菇近似种",
+   "img": "Mycena_aff. lividorubra_fc525cc0-05cf-11ef-9d54-d5be4cd0c781_1.jpg"
+  },
+  {
+   "name": "Mycena comata",
+   "zhtw": "精靈小菇",
+   "zhcn": "精灵小菇",
+   "img": "Mycena_comata_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Mycena stipata",
+   "zhtw": "密小菇",
+   "zhcn": "密小菇",
+   "img": "Mycena_stipata_48ca9c20-f550-11ed-bf35-71fa4e12256c_1.jpg"
+  },
+  {
+   "name": "Mycena auricoma",
+   "zhtw": "金黃小菇",
+   "zhcn": "金黄小菇",
+   "img": "Mycena_auricoma_baf3f060-1550-11ee-84fb-0bb20c5a4e5d_1.jpg"
+  },
+  {
+   "name": "Mycena flammifera",
+   "zhtw": "焰光小菇",
+   "zhcn": "焰光小菇",
+   "img": "Mycena_flammifera_0204f100-e81c-11ed-9821-d7df41129c66_1.jpg"
+  },
+  {
+   "name": "Mycena supina",
+   "zhtw": "朝天小菇",
+   "zhcn": "朝天小菇",
+   "img": "Mycena_supina_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Mycena leaiana",
+   "zhtw": "利氏小菇",
+   "zhcn": "利氏小菇",
+   "img": "Mycena_leaiana_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Mycena holoporphyra",
+   "zhtw": "全紫小菇",
+   "zhcn": "全紫小菇",
+   "img": "Mycena_holoporphyra_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena bulbosa",
+   "zhtw": "球根小菇",
+   "zhcn": "球根小菇",
+   "img": "Mycena_bulbosa_44c47960-17cf-11ee-ac38-8d2c22bd5c44_1.jpg"
+  },
+  {
+   "name": "Mycena Adonis",
+   "zhtw": "美男小菇",
+   "zhcn": "美男小菇",
+   "current": "Atheniella adonis",
+   "current_zhtw": "美男艷小菇",
+   "current_zhcn": "美男艳小菇",
+   "img": "Atheniella_adonis_f508a930-a182-11ee-a6d3-7bf5b1f8c8f3_1.jpg"
+  },
+  {
+   "name": "Mycena olivaceomarginata",
+   "zhtw": "橄緣小菇",
+   "zhcn": "橄缘小菇",
+   "img": "Mycena_olivaceomarginata_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Mycena crocata",
+   "zhtw": "橙黃小菇",
+   "zhcn": "橙黄小菇",
+   "img": "Mycena_crocata_1_CC BY-NC_邱澤峯.jpg"
+  },
+  {
+   "name": "Mycena lazulina",
+   "zhtw": "暗藍小菇",
+   "zhcn": "暗蓝小菇",
+   "img": "Mycena_lazulina_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Mycena roseilignicola",
+   "zhtw": "粉紅玫瑰小菇",
+   "zhcn": "粉红玫瑰小菇",
+   "img": "Mycena_roseilignicola_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena cf. capillaris",
+   "zhtw": "疑似毛狀小菇",
+   "zhcn": "疑似毛状小菇",
+   "img": "Mycena_cf. capillaris_391ca330-019f-11ee-869a-99b7c5f38e02_1.jpg"
+  },
+  {
+   "name": "Mycena ura",
+   "zhtw": "紅心小菇",
+   "zhcn": "红心小菇",
+   "img": "Mycena_ura_473cc890-271f-11ef-be93-3b4b832ef945_1.jpg"
+  },
+  {
+   "name": "Mycena pura",
+   "zhtw": "潔小菇",
+   "zhcn": "洁小菇",
+   "img": "Mycena_pura_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Mycena cf. rhenana",
+   "zhtw": "疑似雷諾那小菇",
+   "zhcn": "疑似雷诺那小菇",
+   "img": "Mycena_cf. rhenana_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Mycena cf. corynephora",
+   "zhtw": "疑似角凸小菇",
+   "zhcn": "疑似角凸小菇",
+   "img": "Mycena_cf. corynephora_f935a730-ebbe-11ed-93a9-a3122e44fa6f_1.jpg"
+  },
+  {
+   "name": "Mycena stylobates",
+   "zhtw": "柱小菇",
+   "zhcn": "柱小菇",
+   "img": "Mycena_stylobates_88a55ec0-fa54-11ee-b757-d3950e150774_1.jpg"
+  },
+  {
+   "name": "Mycena haematopus",
+   "zhtw": "紅紫柄小菇",
+   "zhcn": "红紫柄小菇",
+   "img": "Mycena_haematopus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Mycena viscosa",
+   "zhtw": "黏黃柄小菇",
+   "zhcn": "黏黄柄小菇",
+   "current": "Mycena epipterygia",
+   "current_zhtw": "黃柄小菇",
+   "current_zhcn": "黄柄小菇",
+   "img": "Mycena_epipterygia_572a0be0-f832-11ed-b38d-ff6ed6341731_10.jpg"
+  },
+  {
+   "name": "Mycena picta",
+   "zhtw": "彩麗小菇",
+   "zhcn": "彩丽小菇",
+   "img": "Mycena_picta_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Mycena glaesisetosa",
+   "zhtw": "琥珀剛毛小菇",
+   "zhcn": "琥珀刚毛小菇",
+   "img": "Mycena_glaesisetosa_5a798230-cef7-11ed-9cf8-736c06288897_4.jpg"
+  },
+  {
+   "name": "Mycena leaiana var. australis",
+   "zhtw": "利氏小菇澳洲變種",
+   "zhcn": "利氏小菇澳洲变种",
+   "img": "Mycena_leaiana var. australis_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena amicta",
+   "zhtw": "長柄小菇",
+   "zhcn": "长柄小菇",
+   "img": "Mycena_amicta_73d77340-2366-11ee-ab5c-311d7a56a561_1.jpg"
+  },
+  {
+   "name": "Mycena galericulata",
+   "zhtw": "灰蓋小菇",
+   "zhcn": "灰盖小菇",
+   "img": "Mycena_galericulata_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Mycena alcalina",
+   "zhtw": "鹼味小菇",
+   "zhcn": "碱味小菇",
+   "img": "Mycena_alcalina_7_CC BY-NC_林靜苑.jpg"
+  },
+  {
+   "name": "Mycena acicula",
+   "zhtw": "紅橘小菇",
+   "zhcn": "红橘小菇",
+   "img": "Mycena_acicula_11_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Mycena spinosissima",
+   "zhtw": "多刺小菇",
+   "zhcn": "多刺小菇",
+   "img": "Mycena_spinosissima_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Mycena filopes",
+   "zhtw": "線柄小菇",
+   "zhcn": "线柄小菇",
+   "img": "Mycena_filopes_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Mycena punkissima",
+   "zhtw": "龐克頭小菇",
+   "zhcn": "庞克头小菇",
+   "img": "Mycena_punkissima_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Mycena aff. flavoalba",
+   "zhtw": "黃白小菇之相似種",
+   "zhcn": "黄白小菇之相似种",
+   "img": "Mycena_aff. flavoalba_4b7ba0a0-ff94-11ee-84d1-c707d409f3d4_1.jpg"
+  },
+  {
+   "name": "Mycena aff.  picta",
+   "zhtw": "彩麗小菇相似種",
+   "zhcn": "彩丽小菇相似种",
+   "img": "Mycena_aff.  picta_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Mycena cf. inclinata",
+   "zhtw": "疑似彎柄小菇",
+   "zhcn": "疑似弯柄小菇",
+   "img": "Mycena_cf. inclinata_1_CC BY-NC_Rigo Chang.jpg"
+  },
+  {
+   "name": "Mycena indigotica",
+   "zhtw": "靛藍小菇",
+   "zhcn": "靛蓝小菇",
+   "img": "Mycena_indigotica_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena stellaris",
+   "zhtw": "星光小菇",
+   "zhcn": "星光小菇",
+   "img": "Mycena_stellaris_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Mycena kentingensis",
+   "zhtw": "墾丁小菇",
+   "zhcn": "垦丁小菇",
+   "img": "Mycena_kentingensis_3_CC BY-NC_Hua Te Fang.jpg"
+  },
+  {
+   "name": "Mycena laevigata",
+   "zhtw": "水晶小菇",
+   "zhcn": "水晶小菇",
+   "img": "Mycena_laevigata_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Mycena fengguan",
+   "zhtw": "鳳冠小菇",
+   "zhcn": "凤冠小菇",
+   "img": "Mycena_fengguan_52768170-d33c-11ed-ba90-e537fce31e2d_1.jpg"
+  },
+  {
+   "name": "Mycena hiemalis",
+   "zhtw": "冬生小菇",
+   "zhcn": "冬生小菇",
+   "img": "Mycena_hiemalis_2bbfb0e0-d388-11ee-b997-73bf3d26d667_1.jpg"
+  },
+  {
+   "name": "Mycena pseudocorticola",
+   "zhtw": "假樹皮生小菇",
+   "zhcn": "假树皮生小菇",
+   "img": "Mycena_pseudocorticola_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Mycena sp.1",
+   "zhtw": "翹鱗小菇(暫名)",
+   "zhcn": "翘鳞小菇(暂名)",
+   "img": "Mycena_sp.1_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Mycena interrupta",
+   "zhtw": "炫藍小菇",
+   "zhcn": "炫蓝小菇",
+   "img": "Mycena_interrupta_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena subcyanocephala",
+   "zhtw": "近藍蓋小菇",
+   "zhcn": "近蓝盖小菇",
+   "img": "Mycena_subcyanocephala_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena albopilosa",
+   "zhtw": "白毛小菇",
+   "zhcn": "白毛小菇",
+   "img": "Mycena_albopilosa_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Mycena oregonensis",
+   "zhtw": "奧勒岡黃小菇",
+   "zhcn": "奥勒冈黄小菇",
+   "img": "Mycena_oregonensis_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena aff. ura",
+   "zhtw": "紅心小菇之相似種",
+   "zhcn": "红心小菇之相似种",
+   "img": "Mycena_aff. ura_89b18390-8bf3-11ee-be05-a719e2ed8771_1.jpg"
+  },
+  {
+   "name": "Mycena pterigena",
+   "zhtw": "粉翅小菇",
+   "zhcn": "粉翅小菇",
+   "img": "Mycena_pterigena_3_CC BY-NC_柯文俊.jpg"
+  }
+ ]
+}

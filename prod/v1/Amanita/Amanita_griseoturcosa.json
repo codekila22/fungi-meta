@@ -1,0 +1,80 @@
+{
+ "genus": "Amanita",
+ "name": "griseoturcosa",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "灰蓋鵝膏"
+ ],
+ "names_en": [],
+ "url": "3878395718937497",
+ "images": [
+  {
+   "author": "Ali Tam",
+   "image_src": "Amanita_griseoturcosa_1_CC BY-NC_Ali Tam.jpg"
+  },
+  {
+   "author": "Ali Tam",
+   "image_src": "Amanita_griseoturcosa_2_CC BY-NC_Ali Tam.jpg"
+  },
+  {
+   "author": "Ali Tam",
+   "image_src": "Amanita_griseoturcosa_3_CC BY-NC_Ali Tam.jpg"
+  },
+  {
+   "author": "Ali Tam",
+   "image_src": "Amanita_griseoturcosa_4_CC BY-NC_Ali Tam.jpg"
+  },
+  {
+   "author": "Ali Tam",
+   "image_src": "Amanita_griseoturcosa_5_CC BY-NC_Ali Tam.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "灰盖鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4292664540,4292072403",
+  "CapDiamRangeValues": "60,90",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita griseoturcosa",
+   "cname": "Turquoise Amanita",
+   "url": "https://www.inaturalist.org/taxa/1371045-Amanita-griseoturcosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/184454286/thumb.jpeg"
+  }
+ ]
+}

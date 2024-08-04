@@ -1,0 +1,77 @@
+{
+ "genus": "Russula",
+ "name": "elegans",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "優雅紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5490",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_elegans_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_elegans_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_elegans_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_elegans_4_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "优雅红菇"
+ ],
+ "meta": {
+  "CapColors": "4293951616,4294606962,4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula maculata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/423666-Russula-maculata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4132384/thumb."
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "genus": "Crinipellis",
+ "name": "aff. canescens",
+ "date": [
+  "07/15/2021,4040953886015012"
+ ],
+ "names_zhtw": [
+  "灰毛皮傘相似種"
+ ],
+ "names_en": [],
+ "url": "4040953886015012",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Crinipellis_cf. canescens_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Crinipellis_cf. canescens_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Crinipellis_cf. canescens_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Crinipellis_cf. canescens_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Crinipellis_cf. canescens_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Crinipellis_cf. canescens_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Crinipellis_cf. canescens_9_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "灰毛皮伞相似种"
+ ],
+ "meta": {
+  "CapColors": "4292786311,4290278195,4286141768",
+  "CapDiamRangeValues": "7,15",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Crinipellis canescens,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "灰毛皮傘,,",
+  "la_zhcn": "灰毛皮伞,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Crinipellis canescens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1279969-Crinipellis-canescens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155117268/thumb.jpg"
+  }
+ ]
+}

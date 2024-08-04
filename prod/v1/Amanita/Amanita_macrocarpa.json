@@ -1,0 +1,101 @@
+{
+ "genus": "Amanita",
+ "name": "macrocarpa",
+ "date": [
+  "08/11/2021,4056611217782612"
+ ],
+ "names_zhtw": [
+  "大果鵝膏"
+ ],
+ "names_en": [],
+ "url": "4056611217782612",
+ "images": [
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_1_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_2_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_3_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_4_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_5_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_6_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_7_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_8_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_9_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_10_CC BY-NC_蔣珮瑩.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "大果鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294957753",
+  "CapDiamRangeValues": "150,400",
+  "CapShape": "",
+  "CapTexture": "flat-scales",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "close",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "dissociated",
+  "StalkBase": "clavate",
+  "StalkDiamRangeValuess": "20,50",
+  "StalkLengthRangeValuess": "180,350",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "yellow",
+  "Bioluminescent": "",
+  "Edible": "not-edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita macrocarpa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/516988-Amanita-macrocarpa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5643586/thumb.png"
+  }
+ ]
+}

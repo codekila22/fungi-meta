@@ -1,0 +1,111 @@
+{
+ "genus": "Physarum",
+ "name": "nucleatum",
+ "date": [
+  "07/09/2023,6176936062416773",
+  "12/16/2015,824799110963855"
+ ],
+ "names_zhtw": [
+  "鈣核絨泡黏菌"
+ ],
+ "names_en": [],
+ "url": "6176936062416773",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Physarum_nucleatum_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Physarum_nucleatum_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Physarum_nucleatum_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Physarum_nucleatum_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Physarum_nucleatum_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Physarum_nucleatum_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Physarum_nucleatum_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Physarum_nucleatum_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_nucleatum_f399cd10-2174-11ee-af05-99ab1b862faf_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_nucleatum_f399cd10-2174-11ee-af05-99ab1b862faf_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_nucleatum_f399cd10-2174-11ee-af05-99ab1b862faf_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_nucleatum_f399cd10-2174-11ee-af05-99ab1b862faf_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "钙核绒泡黏菌"
+ ],
+ "meta": {
+  "CapColors": "4286611584,4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Physarum stellatum,,",
+  "Note": "",
+  "la_zhtw": "星狀絨泡黏菌,,",
+  "la_zhcn": "星状绒泡黏菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Physarum nucleatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/410383-Physarum-nucleatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12950282/thumb.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "genus": "Datroniella",
+ "name": "scutellata",
+ "date": [
+  "02/28/2024,7048324251944612"
+ ],
+ "names_zhtw": [
+  "盤狀小異薄孔菌"
+ ],
+ "names_en": [],
+ "url": "7048324251944612",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Datroniella_scutellata_cee4d4a0-d8fe-11ee-b261-83de66b1c9b1_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Datroniella_scutellata_cee4d4a0-d8fe-11ee-b261-83de66b1c9b1_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Datroniella_scutellata_cee4d4a0-d8fe-11ee-b261-83de66b1c9b1_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Datroniella_scutellata_cee4d4a0-d8fe-11ee-b261-83de66b1c9b1_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Datroniella_scutellata_cee4d4a0-d8fe-11ee-b261-83de66b1c9b1_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Datroniella_scutellata_cee4d4a0-d8fe-11ee-b261-83de66b1c9b1_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "盘状小异薄孔菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Datroniella scutellata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/548869-Datroniella-scutellata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/131542843/thumb.jpeg"
+  }
+ ]
+}

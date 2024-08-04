@@ -1,0 +1,72 @@
+{
+ "genus": "Mycena",
+ "name": "cf. erubescens f. alba",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "疑似紅暈小菇之偏白副種"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5112",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_cf. erubescens f. alba_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_cf. erubescens f. alba_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_cf. erubescens f. alba_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_cf. erubescens f. alba_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_cf. erubescens f. alba_5_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似红晕小菇之偏白副种"
+ ],
+ "meta": {
+  "CapColors": "4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ }
+}

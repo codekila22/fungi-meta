@@ -1,0 +1,203 @@
+{
+ "genus": "Volvopluteus",
+ "name": "gloiocephalus",
+ "date": [
+  "12/07/2022,5477507875692932",
+  "07/31/2021,3993071737469894",
+  "11/04/2016,1215756035201492"
+ ],
+ "names_zhtw": [
+  "黏蓋具托光柄菇"
+ ],
+ "names_en": [],
+ "url": "3993071737469894",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_9_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_10_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_11_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_speciosa_12_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Volvariella_speciosa f gloiocephala_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Volvariella_speciosa f gloiocephala_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Volvariella_speciosa f gloiocephala_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Volvariella_speciosa f gloiocephala_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Volvariella_speciosa f gloiocephala_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Volvariella_speciosa f gloiocephala_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Volvariella_speciosa f gloiocephala_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Volvariella_speciosa f gloiocephala_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Volvariella_speciosa_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Volvariella_speciosa_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Volvariella_speciosa_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Volvariella_speciosa_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Volvariella_speciosa_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Volvariella_speciosa_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Volvariella_speciosa_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Volvariella_speciosa_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Volvariella_speciosa_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Volvariella_speciosa_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Volvariella_speciosa_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Volvariella_speciosa_6_CC BY-NC_向高世.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Volvariella speciosa",
+   "zhtw": "美麗小包腳菇",
+   "zhcn": "美丽小包脚菇"
+  },
+  {
+   "name": "Volvariella speciosa f gloiocephala",
+   "zhtw": "美麗小包腳菇黏蓋型",
+   "zhcn": "美丽小包脚菇黏盖型"
+  }
+ ],
+ "names_zhcn": [
+  "黏盖具托光柄菇"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "yes,sheathing",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Volvopluteus gloiocephalus",
+   "cname": "Stubble Rosegill",
+   "url": "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22624144/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "genus": "Hypomyces",
+ "name": "papulasporae",
+ "date": [
+  "07/02/2023,6182848798492166",
+  "09/14/2022,6652927561484285",
+  "08/15/2021,4074607279316339"
+ ],
+ "names_zhtw": [
+  "類團絲核黴菌寄生"
+ ],
+ "names_en": [],
+ "url": "4074607279316339",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Hypomyces_papulasporae_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hypomyces_papulasporae_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hypomyces_papulasporae_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hypomyces_papulasporae_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hypomyces_papulasporae_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hypomyces_papulasporae_3c8acf60-1fd1-11ee-a4a9-57ffa462091b_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypomyces_papulasporae_7bf20ae0-8680-11ee-9d78-d3686b1c9a76_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypomyces_papulasporae_7bf20ae0-8680-11ee-9d78-d3686b1c9a76_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypomyces_papulasporae_7bf20ae0-8680-11ee-9d78-d3686b1c9a76_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypomyces_papulasporae_7bf20ae0-8680-11ee-9d78-d3686b1c9a76_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypomyces_papulasporae_7bf20ae0-8680-11ee-9d78-d3686b1c9a76_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypomyces_papulasporae_7bf20ae0-8680-11ee-9d78-d3686b1c9a76_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "类团丝核霉菌寄生"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4288335154,4293318963",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Trichoglossum hirsutum,,",
+  "Note": "寄生在毛舌菌(Trichoglossum hirsutum)上。",
+  "la_zhtw": "毛舌菌,,",
+  "la_zhcn": "毛舌菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Hypomyces papulasporae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382741-Hypomyces-papulasporae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6277273/thumb.jpg"
+  },
+  {
+   "name": "Hypomyces papulasporae var. americanus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/703132-Hypomyces-papulasporae-americanus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23979973/thumb.jpg"
+  },
+  {
+   "name": "Hypomyces papulasporae var. papulasporae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/414153-Hypomyces-papulasporae-papulasporae",
+   "src": ""
+  }
+ ]
+}

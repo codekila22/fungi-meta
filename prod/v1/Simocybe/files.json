@@ -1,0 +1,31 @@
+{
+ "name": "Simocybe",
+ "zhtw": "絨蓋傘屬",
+ "zhcn": "绒盖伞属",
+ "list": [
+  {
+   "name": "Simocybe amara",
+   "zhtw": "苦絨蓋傘",
+   "zhcn": "苦绒盖伞",
+   "img": "Simocybe_amara_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Simocybe centunculus",
+   "zhtw": "密絨蓋傘",
+   "zhcn": "密绒盖伞",
+   "img": "Simocybe_centunculus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Simocybe sumptuosa",
+   "zhtw": "橄欖色絨蓋傘",
+   "zhcn": "橄榄色绒盖伞",
+   "img": "Simocybe_sumptuosa_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Simocybe haustellaris",
+   "zhtw": "偏柄絨蓋傘",
+   "zhcn": "偏柄绒盖伞",
+   "img": "Simocybe_haustellaris_1_CC BY-NC_陳麗紅.jpg"
+  }
+ ]
+}

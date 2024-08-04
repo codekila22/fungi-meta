@@ -1,0 +1,93 @@
+{
+ "genus": "Metarhizium",
+ "name": "cylindrosporum",
+ "date": [
+  "08/25/2023,6332514936858884",
+  "08/28/2022,5210583042385418",
+  "06/25/2021,3988385854605149"
+ ],
+ "names_zhtw": [
+  "柱孢黑僵菌"
+ ],
+ "names_en": [],
+ "url": "3988385854605149",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Metarhizium_cylindrosporae_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Metarhizium_cylindrosporae_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Metarhizium_cylindrosporae_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Metarhizium_cylindrosporae_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Metarhizium_cylindrosporae_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Metarhizium_cylindrosporae_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Metarhizium_cylindrosporae_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Metarhizium_cylindrosporae_8_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "柱孢黑僵菌"
+ ],
+ "meta": {
+  "CapColors": "4284456608,4283788079,4285238819",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Metarhizium cylindrosporum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1492090-Metarhizium-cylindrosporum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/315934683/thumb.jpeg"
+  }
+ ]
+}

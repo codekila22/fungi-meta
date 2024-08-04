@@ -1,0 +1,148 @@
+{
+ "genus": "Lactarius",
+ "name": "akahatsu",
+ "date": [
+  "08/12/2023,6328807573896287",
+  "07/07/2023,7692158384227859",
+  "08/31/2022,5199522886824767",
+  "08/15/2021,4041459822631085",
+  "07/17/2021,3954542587989476",
+  "08/26/2019,2227943223982763"
+ ],
+ "names_zhtw": [
+  "淡橙紅乳菇"
+ ],
+ "names_en": [],
+ "url": "4041459822631085",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_10_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lactarius_akahatsu_11_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_akahatsu_e3d2d9f0-4274-11ee-a561-a7d2ca888416_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_akahatsu_e3d2d9f0-4274-11ee-a561-a7d2ca888416_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_akahatsu_5e2a35e0-1bc9-109f-939f-edc52ea51b88_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "淡橙红乳菇"
+ ],
+ "meta": {
+  "CapColors": "4294947686,4291589922,4278222848",
+  "CapDiamRangeValues": "50,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Seasons": "summer,autumn",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Lactarius deliciosus,Lactarius quietcolor,",
+  "Note": "喜愛生長在松樹旁。受傷部位會呈現青綠色。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "松乳菇,紅褐乳菇,",
+  "la_zhcn": "松乳菇,红褐乳菇,"
+ },
+ "inaturalist": [
+  {
+   "name": "Lactarius akahatsu",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1278926-Lactarius-akahatsu",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155815076/thumb.jpg"
+  }
+ ]
+}

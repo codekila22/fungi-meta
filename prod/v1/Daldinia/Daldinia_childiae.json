@@ -1,0 +1,95 @@
+{
+ "genus": "Daldinia",
+ "name": "childiae",
+ "date": [
+  "02/03/2023,5661750033935381"
+ ],
+ "names_zhtw": [
+  "雀爾德氏炭球菌"
+ ],
+ "names_en": [],
+ "url": "5661750033935381",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Daldinia_childiae_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Daldinia_childiae_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Daldinia_childiae_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Daldinia_childiae_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Daldinia_childiae_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Daldinia_childiae_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Daldinia_childiae_7_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "雀尔德氏炭球菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4289864226,4283244288",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Daldinia childiae",
+   "cname": "Daldinia Childiae Group",
+   "url": "https://www.inaturalist.org/taxa/1146677-Daldinia-childiae",
+   "src": "https://static.inaturalist.org/photos/8998137/thumb.jpg"
+  },
+  {
+   "name": "Daldinia childiae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/350616-Daldinia-childiae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340345/thumb.jpg"
+  }
+ ]
+}

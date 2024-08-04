@@ -1,0 +1,79 @@
+{
+ "genus": "Pannaria",
+ "name": "conoplea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "綿毛鱗葉衣"
+ ],
+ "names_en": [],
+ "url": "3602052123238526",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Pannaria_conoplea_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pannaria_conoplea_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pannaria_conoplea_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pannaria_conoplea_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pannaria_conoplea_5_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "绵毛鳞叶衣"
+ ],
+ "meta": {
+  "CapColors": "4286611456",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Pannaria conoplea",
+   "cname": "Mealy-rimmed Shingle Lichen",
+   "url": "https://www.inaturalist.org/taxa/226890-Pannaria-conoplea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999617/thumb.jpg"
+  }
+ ]
+}

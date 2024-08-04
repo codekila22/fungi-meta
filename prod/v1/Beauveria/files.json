@@ -1,0 +1,25 @@
+{
+ "name": "Beauveria",
+ "zhtw": "白僵菌屬",
+ "zhcn": "白僵菌属",
+ "list": [
+  {
+   "name": "Beauveria bassiana",
+   "zhtw": "白僵菌",
+   "zhcn": "白僵菌",
+   "img": "Beauveria_bassiana_1_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "name": "Beauveria felina",
+   "zhtw": "貓棒束孢白僵菌",
+   "zhcn": "猫棒束孢白僵菌",
+   "img": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_1.jpg"
+  },
+  {
+   "name": "Beauveria scarabaeicola",
+   "zhtw": "金龜子白僵菌",
+   "zhcn": "金龟子白僵菌",
+   "img": "Beauveria_scarabaeicola_1_CC BY-NC_James Ho.jpg"
+  }
+ ]
+}

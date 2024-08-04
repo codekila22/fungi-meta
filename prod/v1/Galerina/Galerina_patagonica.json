@@ -1,0 +1,108 @@
+{
+ "genus": "Galerina",
+ "name": "patagonica",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "巴塔哥尼亞盔孢傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5924",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_9_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_10_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_11_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_patagonica_12_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "巴塔哥尼亚盔孢伞"
+ ],
+ "meta": {
+  "CapColors": "4287317267,4290278195",
+  "CapDiamRangeValues": "10,20",
+  "CapShape": "conical",
+  "CapTexture": "smooth,slimy",
+  "CapMargin": "striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4286141768",
+  "HymeniumSporePrints": "4286141768",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4286141768",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Galerina patagonica",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/154736-Galerina-patagonica",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1299670/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "genus": "Boletus",
+ "name": "erythropus",
+ "date": [
+  "07/12/2023,6186662308110815"
+ ],
+ "names_zhtw": [
+  "紅柄牛肝菌"
+ ],
+ "names_en": [],
+ "url": "6186662308110815",
+ "images": [
+  {
+   "author": "蛾米",
+   "image_src": "Boletus_erythropus_4_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Boletus_erythropus_2_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Boletus_erythropus_3_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Boletus_erythropus_1_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Boletus_erythropus_5_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_erythropus_2fa07480-2102-11ee-ba28-f5f6c2924b11_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_erythropus_2fa07480-2102-11ee-ba28-f5f6c2924b11_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_erythropus_2fa07480-2102-11ee-ba28-f5f6c2924b11_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_erythropus_2fa07480-2102-11ee-ba28-f5f6c2924b11_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "红柄牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4285547028,4284635991",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Neoboletus erythropus",
+   "cname": "Dotted Stem Bolete",
+   "url": "https://www.inaturalist.org/taxa/553907-Neoboletus-erythropus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239685/thumb.jpeg"
+  }
+ ]
+}

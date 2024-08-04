@@ -1,0 +1,138 @@
+{
+ "genus": "Geastrum",
+ "name": "fimbriatum",
+ "synonym": [
+  {
+   "name": "Geastrum sessile",
+   "zhtw": "無柄地星",
+   "zhcn": "无柄地星"
+  }
+ ],
+ "date": [
+  "11/17/2023,6667039093406465",
+  "07/20/2022,5085918251518565",
+  "08/02/2021,3999973003446434"
+ ],
+ "names_zhtw": [
+  "毛嘴地星"
+ ],
+ "names_en": [],
+ "url": "6667039093406465",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Geastrum_fimbriatum_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Geastrum_fimbriatum_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Geastrum_fimbriatum_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Geastrum_fimbriatum_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Geastrum_fimbriatum_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Geastrum_fimbriatum_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Geastrum_fimbriatum_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Geastrum_sessile_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Geastrum_sessile_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Geastrum_sessile_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_fimbriatum_65b77b80-8c06-11ee-9368-9f68a36bd98a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_fimbriatum_65b77b80-8c06-11ee-9368-9f68a36bd98a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_fimbriatum_65b77b80-8c06-11ee-9368-9f68a36bd98a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_fimbriatum_65b77b80-8c06-11ee-9368-9f68a36bd98a_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "毛嘴地星"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4286141768",
+  "CapDiamRangeValues": "20,30",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "medicinal",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "孢子粉外用具有消炎、止血功效。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Geastrum fimbriatum",
+   "cname": "Sessile Earthstar",
+   "url": "https://www.inaturalist.org/taxa/179167-Geastrum-fimbriatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/739690/thumb.jpg"
+  },
+  {
+   "name": "Geastrum fimbriatum pallidum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/332486-Geastrum-fimbriatum-pallidum",
+   "src": ""
+  },
+  {
+   "name": "Geastrum fimbriatum fimbriatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/332487-Geastrum-fimbriatum-fimbriatum",
+   "src": ""
+  }
+ ]
+}

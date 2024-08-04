@@ -1,0 +1,73 @@
+{
+ "genus": "Russula",
+ "name": "ryukokuensis",
+ "date": [
+  "08/14/2022,5154562001320856"
+ ],
+ "names_zhtw": [
+  "龍谷紅菇"
+ ],
+ "names_en": [],
+ "url": "5154562001320856",
+ "images": [
+  {
+   "author": "姜淋友",
+   "image_src": "Russula_ryukokuensis_1_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Russula_ryukokuensis_2_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Russula_ryukokuensis_3_CC BY-NC_姜淋友.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "龙谷红菇"
+ ],
+ "meta": {
+  "CapColors": "4293302630,4294931200,4294083840",
+  "CapDiamRangeValues": "5,8",
+  "CapShape": "",
+  "CapTexture": "velvety",
+  "CapMargin": "striated",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula ryukokuensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1396339-Russula-ryukokuensis",
+   "src": ""
+  }
+ ]
+}

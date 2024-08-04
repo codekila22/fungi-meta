@@ -1,0 +1,77 @@
+{
+ "genus": "Thelephora",
+ "name": "penicillata",
+ "date": [
+  "05/21/2023,6002343296542718"
+ ],
+ "names_zhtw": [
+  "掃帚革菌"
+ ],
+ "names_en": [],
+ "url": "6002343296542718",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Thelephora_penicillata_d64a3ff0-8bf6-11ee-9f05-f7421ba0211f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Thelephora_penicillata_d64a3ff0-8bf6-11ee-9f05-f7421ba0211f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Thelephora_penicillata_d64a3ff0-8bf6-11ee-9f05-f7421ba0211f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Thelephora_penicillata_d64a3ff0-8bf6-11ee-9f05-f7421ba0211f_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "扫帚革菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "bamboo",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Thelephora penicillata",
+   "cname": "Urchin Earthfan",
+   "url": "https://www.inaturalist.org/taxa/328324-Thelephora-penicillata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1836182/thumb.jpg"
+  }
+ ]
+}

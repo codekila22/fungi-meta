@@ -1,0 +1,142 @@
+{
+ "genus": "Amanita",
+ "name": "franchetii",
+ "date": [
+  "07/26/2024,7724781537632210",
+  "08/15/2021,7507613852682314",
+  "08/07/2014,809010855876014"
+ ],
+ "names_zhtw": [
+  "黃疣膜鵝膏"
+ ],
+ "names_en": [],
+ "url": "7507613852682314",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_franchetii_db3fb330-2aef-11ef-8b59-f94d2f9c027b_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_franchetii_db3fb330-2aef-11ef-8b59-f94d2f9c027b_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_franchetii_db3fb330-2aef-11ef-8b59-f94d2f9c027b_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_franchetii_db3fb330-2aef-11ef-8b59-f94d2f9c027b_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_franchetii_db3fb330-2aef-11ef-8b59-f94d2f9c027b_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_franchetii_db3fb330-2aef-11ef-8b59-f94d2f9c027b_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_franchetii_db3fb330-2aef-11ef-8b59-f94d2f9c027b_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_franchetii_db3fb330-2aef-11ef-8b59-f94d2f9c027b_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_franchetii_db3fb330-2aef-11ef-8b59-f94d2f9c027b_9.jpg"
+  },
+  {
+   "author": "Jody Hsieh",
+   "image_src": "Amanita_franchetii_2_CC BY-NC_Jody Hsieh.jpg"
+  },
+  {
+   "author": "Jody Hsieh",
+   "image_src": "Amanita_franchetii_1_CC BY-NC_Jody Hsieh.jpg"
+  },
+  {
+   "author": "Jody Hsieh",
+   "image_src": "Amanita_franchetii_3_CC BY-NC_Jody Hsieh.jpg"
+  },
+  {
+   "author": "Jody Hsieh",
+   "image_src": "Amanita_franchetii_4_CC BY-NC_Jody Hsieh.jpg"
+  },
+  {
+   "author": "Jody Hsieh",
+   "image_src": "Amanita_franchetii_5_CC BY-NC_Jody Hsieh.jpg"
+  },
+  {
+   "author": "CN Chen",
+   "image_src": "Amanita_franchetii_8ab44360-1466-10b1-af94-833f80d88e04_1.jpg"
+  },
+  {
+   "author": "CN Chen",
+   "image_src": "Amanita_franchetii_8ab44360-1466-10b1-af94-833f80d88e04_2.jpg"
+  },
+  {
+   "author": "CN Chen",
+   "image_src": "Amanita_franchetii_8ab44360-1466-10b1-af94-833f80d88e04_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄疣膜鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4284635991,4286141768,4283244288",
+  "CapDiamRangeValues": "50,120",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita franchetii",
+   "cname": "Franchet's Amanita",
+   "url": "https://www.inaturalist.org/taxa/118396-Amanita-franchetii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109638429/thumb.jpg"
+  },
+  {
+   "name": "Amanita franchetii var. lactella",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/424822-Amanita-franchetii-lactella",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5928421/thumb.jpeg"
+  },
+  {
+   "name": "Amanita franchetii var. franchetii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/424823-Amanita-franchetii-franchetii",
+   "src": ""
+  }
+ ]
+}

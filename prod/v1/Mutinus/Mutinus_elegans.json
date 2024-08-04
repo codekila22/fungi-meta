@@ -1,0 +1,81 @@
+{
+ "genus": "Mutinus",
+ "name": "elegans",
+ "date": [
+  "12/16/2023,6752378018205905"
+ ],
+ "names_zhtw": [
+  "雅致蛇頭菌"
+ ],
+ "names_en": [],
+ "url": "6752378018205905",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Mutinus_elegans_a8503230-9cd1-11ee-ba94-a50cf92230e8_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mutinus_elegans_a8503230-9cd1-11ee-ba94-a50cf92230e8_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mutinus_elegans_a8503230-9cd1-11ee-ba94-a50cf92230e8_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mutinus_elegans_a8503230-9cd1-11ee-ba94-a50cf92230e8_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mutinus_elegans_a8503230-9cd1-11ee-ba94-a50cf92230e8_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "雅致蛇头菌"
+ ],
+ "meta": {
+  "CapColors": "4287299584,4294901760,4289864226",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mutinus elegans",
+   "cname": "Devil's Dipstick",
+   "url": "https://www.inaturalist.org/taxa/84271-Mutinus-elegans",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7550630/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "genus": "Entoloma",
+ "name": "eugenei",
+ "date": [
+  "09/07/2022,5225174324259623",
+  "07/20/2022,5092387214205002"
+ ],
+ "names_zhtw": [
+  "尤金粉褶菌"
+ ],
+ "names_en": [],
+ "url": "5225174324259623",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_3d6deb50-3107-11ee-8531-1fb7d1f967c3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_3d6deb50-3107-11ee-8531-1fb7d1f967c3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_3d6deb50-3107-11ee-8531-1fb7d1f967c3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_3d6deb50-3107-11ee-8531-1fb7d1f967c3_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_3d6deb50-3107-11ee-8531-1fb7d1f967c3_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_3d6deb50-3107-11ee-8531-1fb7d1f967c3_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_3d6deb50-3107-11ee-8531-1fb7d1f967c3_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_755e7200-3107-11ee-a6cf-31f0bf91df88_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_755e7200-3107-11ee-a6cf-31f0bf91df88_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_755e7200-3107-11ee-a6cf-31f0bf91df88_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_755e7200-3107-11ee-a6cf-31f0bf91df88_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_755e7200-3107-11ee-a6cf-31f0bf91df88_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "尤金粉褶菌"
+ ],
+ "meta": {
+  "CapColors": "4278190285,4278190335",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma eugenei",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/706602-Entoloma-eugenei",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16579164/thumb.jpg"
+  }
+ ]
+}

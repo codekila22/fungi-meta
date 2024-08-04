@@ -1,0 +1,142 @@
+{
+ "genus": "Discina",
+ "name": "ancilis",
+ "date": [
+  "03/08/2024,7082693805174323"
+ ],
+ "names_zhtw": [
+  "珠光平盤菌",
+  "豬耳朵"
+ ],
+ "names_en": [
+  "Pig's ears"
+ ],
+ "url": "7082693805174323",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Discina_perlata_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Discina_perlata_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Discina_perlata_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Discina_perlata_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Discina_perlata_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Discina_perlata_4e8d4d80-e8d7-11ee-8fd7-4f071c3dc055_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Discina_perlata_4e8d4d80-e8d7-11ee-8fd7-4f071c3dc055_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Discina_perlata_4e8d4d80-e8d7-11ee-8fd7-4f071c3dc055_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Discina_perlata_4e8d4d80-e8d7-11ee-8fd7-4f071c3dc055_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Discina_perlata_4e8d4d80-e8d7-11ee-8fd7-4f071c3dc055_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Discina_perlata_4e8d4d80-e8d7-11ee-8fd7-4f071c3dc055_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Discina_perlata_4e8d4d80-e8d7-11ee-8fd7-4f071c3dc055_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Discina_perlata_4e8d4d80-e8d7-11ee-8fd7-4f071c3dc055_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Discina_perlata_4e8d4d80-e8d7-11ee-8fd7-4f071c3dc055_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Discina_perlata_4e8d4d80-e8d7-11ee-8fd7-4f071c3dc055_10.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Discina perlata",
+   "zhtw": "珠亮平盤菌",
+   "zhcn": "珠亮平盘菌"
+  },
+  {
+   "name": "Gyromitra ancilis",
+   "zhtw": "珠光鹿花菌",
+   "zhcn": "珠光鹿花菌"
+  },
+  {
+   "name": "Gyromitra perlata",
+   "zhtw": "珠亮鹿花菌",
+   "zhcn": "珠亮鹿花菌"
+  }
+ ],
+ "names_zhcn": [
+  "珠光平盘菌",
+  "猪耳朵"
+ ],
+ "meta": {
+  "CapColors": "4290547599,4286611584,4293313475",
+  "CapDiamRangeValues": "10,70",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Gyromitra ancilis",
+   "cname": "Pig's Ears",
+   "url": "https://www.inaturalist.org/taxa/950530-Gyromitra-ancilis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/124253213/thumb.jpeg"
+  }
+ ]
+}

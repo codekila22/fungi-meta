@@ -1,0 +1,37 @@
+{
+ "name": "Sparassis",
+ "zhtw": "繡球菌屬",
+ "zhcn": "绣球菌属",
+ "list": [
+  {
+   "name": "Sparassis latifolia",
+   "zhtw": "廣葉繡球菌",
+   "zhcn": "广叶绣球菌",
+   "img": "Sparassis_latifolia_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Sparassis cystidiosa",
+   "zhtw": "囊狀體繡球菌",
+   "zhcn": "囊状体绣球菌",
+   "img": "Sparassis_cystidiosa_10_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Sparassis subalpine",
+   "zhtw": "亞高山繡球菌(暫名)",
+   "zhcn": "亚高山绣球菌(暂名)",
+   "img": "Sparassis_subalpine_82c99c10-bcb4-11ee-97c0-b1e3c7c0321e_1.jpg"
+  },
+  {
+   "name": "Sparassis crispa",
+   "zhtw": "繡球菌",
+   "zhcn": "绣球菌",
+   "img": "Sparassis_crispa_1_CC BY-NC_邱澤峯.jpg"
+  },
+  {
+   "name": "Sparassis brevipes",
+   "zhtw": "短柄繡球菌",
+   "zhcn": "短柄绣球菌",
+   "img": "Sparassis_brevipes_1_CC BY-NC_吳湯姆.jpg"
+  }
+ ]
+}

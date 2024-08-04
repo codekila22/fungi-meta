@@ -1,0 +1,84 @@
+{
+ "genus": "Hymenoscyphus",
+ "name": "vacini",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "瓦氏膜盤菌"
+ ],
+ "names_en": [],
+ "url": "3591530900957315",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_vacini_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_vacini_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_vacini_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_vacini_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_vacini_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_vacini_6_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "瓦氏膜盘菌"
+ ],
+ "meta": {
+  "CapColors": "4292786311,4291998860,4294962125",
+  "CapDiamRangeValues": "0,1",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Lanzia vacini",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1118369-Lanzia-vacini",
+   "src": ""
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Baeomyces",
+ "zhtw": "羊角衣屬",
+ "zhcn": "羊角衣属",
+ "list": [
+  {
+   "name": "Baeomyces placophyllus",
+   "zhtw": "葉羊角衣",
+   "zhcn": "叶羊角衣",
+   "img": "Baeomyces_placophyllus_6cf61c50-d227-11ee-a353-bf9d022c8489_6.jpg"
+  },
+  {
+   "name": "Baeomyces fungoides",
+   "zhtw": "羊角衣",
+   "zhcn": "羊角衣",
+   "img": "Baeomyces_fungoides_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Baeomyces rufus",
+   "zhtw": "肉紅羊角衣",
+   "zhcn": "肉红羊角衣",
+   "img": "Baeomyces_rufus_8e957b80-0450-11ee-b625-712427f41898_1.jpg"
+  },
+  {
+   "name": "Baeomyces heteromorphus",
+   "zhtw": "異形羊角衣(暫名)",
+   "zhcn": "异形羊角衣(暂名)",
+   "img": "Baeomyces_heteromorphus_4c58e9e0-e8ee-11ee-82b7-6f9cdaaecc76_1.jpg"
+  },
+  {
+   "name": "Baeomyces absolutus",
+   "zhtw": "小羊角衣",
+   "zhcn": "小羊角衣",
+   "current": "Dibaeis absoluta",
+   "current_zhtw": "小羊角衣",
+   "current_zhcn": "小羊角衣",
+   "img": "Baeomyces_absolutus_2_CC BY-NC.jpg"
+  },
+  {
+   "name": "Baeomyces lotiformis",
+   "zhtw": "荷花狀羊角衣(暫名)",
+   "zhcn": "荷花状羊角衣(暂名)",
+   "img": "Baeomyces_lotiformis_bde1ed90-cbdb-11ed-84ca-9d38f6912732_1.jpg"
+  }
+ ]
+}

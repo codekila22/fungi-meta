@@ -1,0 +1,113 @@
+{
+ "genus": "Leptogium",
+ "name": "menziesii",
+ "date": [
+  "01/07/2022,4526729650770764"
+ ],
+ "names_zhtw": [
+  "貓耳衣"
+ ],
+ "names_en": [],
+ "url": "4526729650770764",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_10_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_11_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_6_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_8_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_9_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leptogium_menziesii_12_CC BY-NC_Sunny Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "猫耳衣"
+ ],
+ "meta": {
+  "CapColors": "4286611456,4285101859,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Leptogium menziesii",
+   "cname": "Long-bearded Jellyskin Lichen",
+   "url": "https://www.inaturalist.org/taxa/410314-Leptogium-menziesii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/243423327/thumb.jpeg"
+  },
+  {
+   "name": "Leptogium burnetiae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/223445-Leptogium-burnetiae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/61258287/thumb.jpg"
+  }
+ ]
+}

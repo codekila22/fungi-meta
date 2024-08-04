@@ -1,0 +1,25 @@
+{
+ "name": "Gibellula",
+ "zhtw": "球束梗孢黴屬",
+ "zhcn": "球束梗孢霉属",
+ "list": [
+  {
+   "name": "Gibellula leiopus",
+   "zhtw": "天牛球束梗孢黴",
+   "zhcn": "天牛球束梗孢霉",
+   "img": "Gibellula_leiopus_1_CC BY-NC_陳仁杰.jpg"
+  },
+  {
+   "name": "Gibellula cf. arachnophila",
+   "zhtw": "疑似嗜蛛球束梗孢黴",
+   "zhcn": "疑似嗜蛛球束梗孢霉",
+   "img": "Gibellula_cf. arachnophila_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Gibellula pulchra",
+   "zhtw": "美麗球束梗孢黴",
+   "zhcn": "美丽球束梗孢霉",
+   "img": "Gibellula_pulchra_3_CC BY-NC_陳雅芬.jpg"
+  }
+ ]
+}

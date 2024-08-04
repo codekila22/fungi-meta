@@ -1,0 +1,114 @@
+{
+ "genus": "Cantharellus",
+ "name": "minor",
+ "date": [
+  "06/18/2024,7528595167250849"
+ ],
+ "names_zhtw": [
+  "小雞油菌"
+ ],
+ "names_en": [],
+ "url": "7528595167250849",
+ "images": [
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_2a699c20-3061-11ef-b2b1-832b5e5836f1_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_2a699c20-3061-11ef-b2b1-832b5e5836f1_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_2a699c20-3061-11ef-b2b1-832b5e5836f1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_2a699c20-3061-11ef-b2b1-832b5e5836f1_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_2a699c20-3061-11ef-b2b1-832b5e5836f1_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_2a699c20-3061-11ef-b2b1-832b5e5836f1_6.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_minor_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_minor_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_minor_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_minor_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_minor_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_minor_6_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "小鸡油菌"
+ ],
+ "meta": {
+  "CapColors": "4293313372",
+  "CapDiamRangeValues": "10,30",
+  "CapShape": "infundibuliform",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "ridged",
+  "HymeniumColors": "4294962944",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294962944",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "2,8",
+  "StalkLengthRangeValuess": "15,35",
+  "Rareness": "",
+  "Seasons": "summer,autumn",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Cantharellus minor",
+   "cname": "Small Chanterelle",
+   "url": "https://www.inaturalist.org/taxa/143312-Cantharellus-minor",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1018635/thumb.jpg"
+  },
+  {
+   "name": "Cantharellus intensissimus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1442794-Cantharellus-intensissimus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/61880727/thumb.jpeg"
+  }
+ ]
+}

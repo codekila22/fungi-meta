@@ -1,0 +1,129 @@
+{
+ "genus": "Nigroporus",
+ "name": "durus",
+ "date": [
+  "01/20/2023,5619773528133032",
+  "07/23/2020,2953540204756391"
+ ],
+ "names_zhtw": [
+  "硬黑孔菌"
+ ],
+ "names_en": [],
+ "url": "2953540204756391",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichaptum_durum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichaptum_durum_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichaptum_durum_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichaptum_durum_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichaptum_durum_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichaptum_durum_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichaptum_durum_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichaptum_durum_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichaptum_durum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichaptum_durum_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichaptum_durum_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichaptum_durum_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichaptum_durum_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichaptum_durum_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichaptum_durum_7_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Trichaptum durum",
+   "zhtw": "硬附毛菌",
+   "zhcn": "硬附毛菌"
+  }
+ ],
+ "names_zhcn": [
+  "硬黑孔菌"
+ ],
+ "meta": {
+  "CapColors": "4291605388,4294303411,4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Nigroporus durus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/511418-Nigroporus-durus",
+   "src": "https://static.inaturalist.org/photos/5287887/thumb.jpeg"
+  }
+ ]
+}

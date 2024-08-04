@@ -1,0 +1,76 @@
+{
+ "genus": "Laurilia",
+ "name": "sulcata",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "槽痕勞氏菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3657",
+ "images": [
+  {
+   "author": "陳啟仁",
+   "image_src": "Laurilia_sulcata_1_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Laurilia_sulcata_2_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Laurilia_sulcata_3_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Laurilia_sulcata_4_CC BY-NC_陳啟仁.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "槽痕劳氏菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4292072403",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Laurilia sulcata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1021239-Laurilia-sulcata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/125916445/thumb.jpg"
+  }
+ ]
+}

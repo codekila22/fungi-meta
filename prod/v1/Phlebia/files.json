@@ -1,0 +1,46 @@
+{
+ "name": "Phlebia",
+ "zhtw": "射脈菌屬",
+ "zhcn": "射脉菌属",
+ "list": [
+  {
+   "name": "Phlebia tremellosus",
+   "zhtw": "膠質射脈菌",
+   "zhcn": "胶质射脉菌",
+   "img": "Phlebia_tremellosus_5d62ef20-d385-11ee-9f50-8d3ecd224e7f_3.jpg"
+  },
+  {
+   "name": "Phlebia coccineofulva",
+   "zhtw": "紅黃射脈菌",
+   "zhcn": "红黄射脉菌",
+   "img": "Phlebia_coccineofulva_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Phlebia subconspersa",
+   "zhtw": "簇生射脈菌",
+   "zhcn": "簇生射脉菌",
+   "img": "Phlebia_subconspersa_3c296320-ab76-11ee-a9e5-97616b9bbab4_1.jpg"
+  },
+  {
+   "name": "Phlebia subochracea",
+   "zhtw": "近赭黃射脈菌",
+   "zhcn": "近赭黄射脉菌",
+   "img": "Phlebia_subochracea_9fbe7e70-e286-11ed-ab12-bbf7b573ce6c_1.jpg"
+  },
+  {
+   "name": "Phlebia chrysocreas",
+   "zhtw": "金黃射脈菌",
+   "zhcn": "金黄射脉菌",
+   "current": "Crustodontia chrysocreas",
+   "current_zhtw": "黃肉殼齒菌",
+   "current_zhcn": "黄肉壳齿菌",
+   "img": "Crustodontia_chrysocreas_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Phlebia rufa",
+   "zhtw": "紅褐射脈菌",
+   "zhcn": "红褐射脉菌",
+   "img": "Phlebia_rufa_72fb2b20-6a82-11ee-b4e4-7f07d1d3c1fe_4.jpg"
+  }
+ ]
+}

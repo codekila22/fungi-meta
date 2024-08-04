@@ -1,0 +1,96 @@
+{
+ "genus": "Scutellinia",
+ "name": "crucipila",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "十字毛盾盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1117",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_crucipila_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_crucipila_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_crucipila_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_crucipila_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_crucipila_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_crucipila_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_crucipila_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_crucipila_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_crucipila_9_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "十字毛盾盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294927175,4294919424",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Cheilymenia crucipila",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/350585-Cheilymenia-crucipila",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/79145759/thumb.jpg"
+  }
+ ]
+}

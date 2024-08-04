@@ -1,0 +1,92 @@
+{
+ "genus": "Perichaena",
+ "name": "vermicularis",
+ "date": [
+  "05/02/2023,5952462304864151",
+  "01/31/2016,842999369143829"
+ ],
+ "names_zhtw": [
+  "蟲蓋碗黏菌"
+ ],
+ "names_en": [],
+ "url": "842999369143829",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Perichaena_vermicularis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Perichaena_vermicularis_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Perichaena_vermicularis_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Perichaena_vermicularis_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Perichaena_vermicularis_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Perichaena_vermicularis_7e95fa00-ec6a-11ed-b0d6-293a8d90752e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Perichaena_vermicularis_7e95fa00-ec6a-11ed-b0d6-293a8d90752e_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Perichaena_vermicularis_7e95fa00-ec6a-11ed-b0d6-293a8d90752e_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "虫盖碗黏菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4294083840,4287317267",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Gulielmina vermicularis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1442011-Gulielmina-vermicularis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28312496/thumb.jpeg"
+  }
+ ]
+}

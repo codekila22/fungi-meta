@@ -1,0 +1,125 @@
+{
+ "genus": "Pseudomerulius",
+ "name": "aureus",
+ "date": [
+  "06/18/2022,7347966561980378",
+  "10/17/2021,4243233565787042"
+ ],
+ "names_zhtw": [
+  "金黃假皺皮菌"
+ ],
+ "names_en": [],
+ "url": "4243233565787042",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Pseudomerulius_aureus_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pseudomerulius_aureus_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pseudomerulius_aureus_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pseudomerulius_aureus_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pseudomerulius_aureus_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pseudomerulius_aureus_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pseudomerulius_aureus_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudomerulius_aureus_99e2aad0-1584-11ef-9fcd-17ff538eb9e3_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudomerulius_aureus_99e2aad0-1584-11ef-9fcd-17ff538eb9e3_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudomerulius_aureus_99e2aad0-1584-11ef-9fcd-17ff538eb9e3_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudomerulius_aureus_99e2aad0-1584-11ef-9fcd-17ff538eb9e3_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudomerulius_aureus_99e2aad0-1584-11ef-9fcd-17ff538eb9e3_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudomerulius_aureus_99e2aad0-1584-11ef-9fcd-17ff538eb9e3_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudomerulius_aureus_99e2aad0-1584-11ef-9fcd-17ff538eb9e3_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudomerulius_aureus_99e2aad0-1584-11ef-9fcd-17ff538eb9e3_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pseudomerulius_aureus_99e2aad0-1584-11ef-9fcd-17ff538eb9e3_9.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "金黄假皱皮菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840,4294956800",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Pseudomerulius aureus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/351975-Pseudomerulius-aureus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13805213/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "genus": "Mucronella",
+ "name": "calva",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "棒狀尖齒菌"
+ ],
+ "names_en": [],
+ "url": "3789531014490635",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mucronella_calva_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mucronella_calva_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mucronella_calva_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mucronella_calva_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mucronella_calva_5_CC BY-NC_Sunny Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "棒状尖齿菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mucronella calva",
+   "cname": "Swarming Spine",
+   "url": "https://www.inaturalist.org/taxa/462013-Mucronella-calva",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1804505/thumb.jpg"
+  },
+  {
+   "name": "Mucronella calva var. aggregata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1366795-Mucronella-calva-aggregata",
+   "src": ""
+  }
+ ]
+}

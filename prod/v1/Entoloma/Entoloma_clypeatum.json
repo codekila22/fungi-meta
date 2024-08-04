@@ -1,0 +1,110 @@
+{
+ "genus": "Entoloma",
+ "name": "clypeatum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "晶蓋粉褶菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/741",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Entoloma_clypeatum_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Entoloma_clypeatum_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Entoloma_clypeatum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Entoloma_clypeatum_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Entoloma_clypeatum_5_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "晶盖粉褶菌"
+ ],
+ "meta": {
+  "CapColors": "4288244511,4286141768",
+  "CapDiamRangeValues": "30,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "4294951115",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "8,15",
+  "StalkLengthRangeValuess": "30,50",
+  "Rareness": "",
+  "Seasons": "summer,autumn",
+  "GrowthType": "",
+  "GrowthEnv": "ground,meadow",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma clypeatum",
+   "cname": "Shield Pinkgill",
+   "url": "https://www.inaturalist.org/taxa/344650-Entoloma-clypeatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/275868650/thumb.jpeg"
+  },
+  {
+   "name": "Entoloma clypeatum var. defibulatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344651-Entoloma-clypeatum-defibulatum",
+   "src": "https://static.inaturalist.org/photos/280290929/thumb.jpg"
+  },
+  {
+   "name": "Entoloma clypeatum xanthophyllum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344652-Entoloma-clypeatum-xanthophyllum",
+   "src": ""
+  },
+  {
+   "name": "Entoloma clypeatum hybridum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344653-Entoloma-clypeatum-hybridum",
+   "src": ""
+  },
+  {
+   "name": "Entoloma clypeatum var. clypeatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344654-Entoloma-clypeatum-clypeatum",
+   "src": ""
+  },
+  {
+   "name": "Entoloma clypeatum pallidogriseum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344655-Entoloma-clypeatum-pallidogriseum",
+   "src": ""
+  }
+ ]
+}

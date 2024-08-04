@@ -1,0 +1,73 @@
+{
+ "genus": "Galerina",
+ "name": "helvoliceps",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "黃褐盔孢傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/6103",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_helvoliceps_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_helvoliceps_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_helvoliceps_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_helvoliceps_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_helvoliceps_9_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄褐盔孢伞"
+ ],
+ "meta": {
+  "CapColors": "4294944000,4294950656,4291581184",
+  "CapDiamRangeValues": "10,30",
+  "CapShape": "convex,conical",
+  "CapTexture": "smooth",
+  "CapMargin": "striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4286141768",
+  "HymeniumSporePrints": "4286141768",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4286141768",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "15,50",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ }
+}

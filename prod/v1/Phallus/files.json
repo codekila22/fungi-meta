@@ -1,0 +1,61 @@
+{
+ "name": "Phallus",
+ "zhtw": "鬼筆屬",
+ "zhcn": "鬼笔属",
+ "list": [
+  {
+   "name": "Phallus formosanus",
+   "zhtw": "台灣鬼筆",
+   "zhcn": "台湾鬼笔",
+   "img": "Phallus_formosanus_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Phallus dongsun",
+   "zhtw": "冬蓀鬼筆",
+   "zhcn": "冬荪鬼笔",
+   "img": "Phallus_dongsun_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Phallus indusiatus",
+   "zhtw": "長裙鬼筆",
+   "zhcn": "长裙鬼笔",
+   "img": "Phallus_indusiatus_11_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Phallus flavocostatus",
+   "zhtw": "黃重脈鬼筆",
+   "zhcn": "黄重脉鬼笔",
+   "img": "Phallus_flavocostatus_48a26d40-e7b3-11ed-905a-b1d116084f35_1.jpg"
+  },
+  {
+   "name": "Phallus lutescens",
+   "zhtw": "變黃鬼筆",
+   "zhcn": "变黄鬼笔",
+   "img": "Phallus_lutescens_1_CC BY-NC_林雪.jpg"
+  },
+  {
+   "name": "Phallus luteus",
+   "zhtw": "淡黃裙鬼筆",
+   "zhcn": "淡黄裙鬼笔",
+   "img": "Phallus_luteus_1_CC BY-NC_Ali Tam.jpg"
+  },
+  {
+   "name": "Phallus rugulosus",
+   "zhtw": "細皺鬼筆",
+   "zhcn": "细皱鬼笔",
+   "img": "Phallus_rugulosus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Phallus multicolor",
+   "zhtw": "多色裙鬼筆",
+   "zhcn": "多色裙鬼笔",
+   "img": "Phallus_multicolor_89788850-e375-11ed-a1b0-b3c1443e58ff_11.jpg"
+  },
+  {
+   "name": "Phallus aurantiacus",
+   "zhtw": "黃橙鬼筆",
+   "zhcn": "黄橙鬼笔",
+   "img": "Phallus_aurantiacus_1_CC BY-NC_向高世.jpg"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "genus": "Cladonia",
+ "name": "scabriuscula",
+ "date": [
+  "07/31/2021,3998495946927473"
+ ],
+ "names_zhtw": [
+  "粗皮石蕊"
+ ],
+ "names_en": [],
+ "url": "3998495946927473",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_scabriuscula_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_scabriuscula_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_scabriuscula_3_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粗皮石蕊"
+ ],
+ "meta": {
+  "CapColors": "4288335154,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "30,80",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Cladonia coniocraea,,",
+  "Note": "",
+  "la_zhtw": "槍石蕊,,",
+  "la_zhcn": "枪石蕊,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Cladonia scabriuscula",
+   "cname": "Mealy Forked Cladonia",
+   "url": "https://www.inaturalist.org/taxa/217148-Cladonia-scabriuscula",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/103378346/thumb.jpg"
+  }
+ ]
+}

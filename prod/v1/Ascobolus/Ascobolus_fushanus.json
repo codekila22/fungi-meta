@@ -1,0 +1,100 @@
+{
+ "genus": "Ascobolus",
+ "name": "fushanus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "福山糞盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5520",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Ascobolus_fushanus_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ascobolus_fushanus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ascobolus_fushanus_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ascobolus_fushanus_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ascobolus_fushanus_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ascobolus_fushanus_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ascobolus_fushanus_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ascobolus_fushanus_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ascobolus_fushanus_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ascobolus_fushanus_10_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "福山粪盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4292519200",
+  "CapDiamRangeValues": "0,2",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "stool",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Ascobolus fushanus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/895603-Ascobolus-fushanus",
+   "src": ""
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "genus": "Nectriopsis",
+ "name": "violacea",
+ "date": [
+  "10/13/2023,6514482185328824",
+  "09/17/2017,5084224561687934"
+ ],
+ "names_zhtw": [
+  "紫色擬叢赤殼菌"
+ ],
+ "names_en": [],
+ "url": "5084224561687934",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Nectriopsis_violacea_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Nectriopsis_violacea_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Nectriopsis_violacea_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Nectriopsis_violacea_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "葉美邵",
+   "image_src": "Nectriopsis_violacea_1_CC BY-NC_葉美邵.jpg"
+  },
+  {
+   "author": "葉美邵",
+   "image_src": "Nectriopsis_violacea_2_CC BY-NC_葉美邵.jpg"
+  },
+  {
+   "author": "葉美邵",
+   "image_src": "Nectriopsis_violacea_3_CC BY-NC_葉美邵.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nectriopsis_violacea_700eb3a0-6a00-11ee-866e-fdfd46d0fece_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nectriopsis_violacea_700eb3a0-6a00-11ee-866e-fdfd46d0fece_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nectriopsis_violacea_700eb3a0-6a00-11ee-866e-fdfd46d0fece_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nectriopsis_violacea_700eb3a0-6a00-11ee-866e-fdfd46d0fece_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫色拟丛赤壳菌"
+ ],
+ "meta": {
+  "CapColors": "4291601356,4294948545",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Fuligo septica,,",
+  "Note": "此物種寄生在煤絨黏菌屬(Fuligo sp.)之上，也有人直接當做是煤絨黏菌玫瑰變種(Fuligo septica var. rosa)。",
+  "la_zhtw": "煤絨黏菌,,",
+  "la_zhcn": "煤绒黏菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Nectriopsis violacea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/473929-Nectriopsis-violacea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8967593/thumb.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "genus": "Mycena",
+ "name": "aff. epipterygia",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "黃柄小菇之相似種"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3947",
+ "images": [
+  {
+   "author": "胡家銘",
+   "image_src": "Mycena_aff. epipterygia_6_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mycena_aff. epipterygia_4_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mycena_aff. epipterygia_3_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mycena_aff. epipterygia_1_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mycena_aff. epipterygia_5_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mycena_aff. epipterygia_2_CC BY-NC_胡家銘.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄柄小菇之相似种"
+ ],
+ "meta": {
+  "CapColors": "4294303411,4291605388",
+  "CapDiamRangeValues": "10,20",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "4294967040",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "40,90",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Mycena epipterygia,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "黃柄小菇,,",
+  "la_zhcn": "黄柄小菇,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena epipterygia",
+   "cname": "Yellowleg Bonnet",
+   "url": "https://www.inaturalist.org/taxa/179107-Mycena-epipterygia",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5638899/thumb.jpg"
+  },
+  {
+   "name": "Mycena epipterygia var. lignicola",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/906235-Mycena-epipterygia-lignicola",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/244078421/thumb.jpg"
+  },
+  {
+   "name": "Mycena epipterygia var. epipterygia",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/351603-Mycena-epipterygia-epipterygia",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12345158/thumb.jpg"
+  },
+  {
+   "name": "Mycena epipterygia var. viscosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/964962-Mycena-epipterygia-viscosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/59602937/thumb.jpg"
+  },
+  {
+   "name": "Mycena epipterygia",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1366800-Mycena-epipterygia",
+   "src": ""
+  }
+ ]
+}

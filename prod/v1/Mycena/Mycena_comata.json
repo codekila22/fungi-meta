@@ -1,0 +1,91 @@
+{
+ "genus": "Mycena",
+ "name": "comata",
+ "date": [
+  "05/20/2022"
+ ],
+ "names_zhtw": [
+  "精靈小菇"
+ ],
+ "names_en": [],
+ "url": "3040112312765846",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_comata_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_comata_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_comata_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_comata_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_comata_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_comata_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_comata_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_comata_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_comata_4_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "精灵小菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "summer,autumn",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Mycena auricoma,,",
+  "Note": "與相似種外觀極為類似，區別只在此種幼菌頂端有凸起。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "金黃小菇,,",
+  "la_zhcn": "金黄小菇,,"
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "genus": "Megasporoporia",
+ "name": "setulosa",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "剛毛大孢孔菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4411",
+ "images": [
+  {
+   "author": "簡秀媛",
+   "image_src": "Megasporoporia_setulosa_2_CC BY-NC_簡秀媛.jpg"
+  },
+  {
+   "author": "簡秀媛",
+   "image_src": "Megasporoporia_setulosa_1_CC BY-NC_簡秀媛.jpg"
+  },
+  {
+   "author": "簡秀媛",
+   "image_src": "Megasporoporia_setulosa_3_CC BY-NC_簡秀媛.jpg"
+  },
+  {
+   "author": "簡秀媛",
+   "image_src": "Megasporoporia_setulosa_4_CC BY-NC_簡秀媛.jpg"
+  },
+  {
+   "author": "簡秀媛",
+   "image_src": "Megasporoporia_setulosa_5_CC BY-NC_簡秀媛.jpg"
+  },
+  {
+   "author": "簡秀媛",
+   "image_src": "Megasporoporia_setulosa_6_CC BY-NC_簡秀媛.jpg"
+  },
+  {
+   "author": "簡秀媛",
+   "image_src": "Megasporoporia_setulosa_7_CC BY-NC_簡秀媛.jpg"
+  },
+  {
+   "author": "簡秀媛",
+   "image_src": "Megasporoporia_setulosa_8_CC BY-NC_簡秀媛.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "刚毛大孢孔菌"
+ ],
+ "meta": {
+  "CapColors": "4292072403,4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Megasporoporia setulosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/202422-Megasporoporia-setulosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40314998/thumb.jpeg"
+  }
+ ]
+}

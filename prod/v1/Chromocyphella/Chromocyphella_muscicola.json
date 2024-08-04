@@ -1,0 +1,95 @@
+{
+ "genus": "Chromocyphella",
+ "name": "muscicola",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "蘚棲有色掛鐘菌"
+ ],
+ "names_en": [],
+ "url": "4011574352286299",
+ "images": [
+  {
+   "author": "蛾米",
+   "image_src": "Chromocyphella_muscicola_1_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Chromocyphella_muscicola_2_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Chromocyphella_muscicola_3_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Chromocyphella_muscicola_4_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Chromocyphella_muscicola_5_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Chromocyphella_muscicola_6_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Chromocyphella_muscicola_7_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "蛾米",
+   "image_src": "Chromocyphella_muscicola_8_CC BY-NC_蛾米.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "藓栖有色挂钟菌"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4294962944,4294966736",
+  "CapDiamRangeValues": "1,4",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Phaeosolenia aff. densa,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "緻密暗管盤菌的相似種,,",
+  "la_zhcn": "致密暗管盘菌的相似种,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Chromocyphella muscicola",
+   "cname": "Moss Ear",
+   "url": "https://www.inaturalist.org/taxa/417944-Chromocyphella-muscicola",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20747210/thumb.jpeg"
+  }
+ ]
+}

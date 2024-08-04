@@ -1,0 +1,76 @@
+{
+ "genus": "Magoderna",
+ "name": "subresinosum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "樹脂大孢芝"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/871",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Magoderna_subresinosum_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Magoderna_subresinosum_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Magoderna_subresinosum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Magoderna_subresinosum_1_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "树脂大孢芝"
+ ],
+ "meta": {
+  "CapColors": "4285098345,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Magoderna subresinosum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1239280-Magoderna-subresinosum",
+   "src": ""
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "genus": "Helvella",
+ "name": "cupuliformis",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "杯狀馬鞍菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/2766",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Helvella_cupuliformis_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Helvella_cupuliformis_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Helvella_cupuliformis_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Helvella_cupuliformis_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Helvella_cupuliformis_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Helvella_cupuliformis_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Helvella_cupuliformis_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Helvella_cupuliformis_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Helvella_cupuliformis_9_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "杯状马鞍菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4292786311",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Helvella cupuliformis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/350980-Helvella-cupuliformis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12947323/thumb.jpeg"
+  }
+ ]
+}

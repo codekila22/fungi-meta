@@ -1,0 +1,111 @@
+{
+ "genus": "Rhodonia",
+ "name": "placenta",
+ "synonym": [
+  {
+   "name": "Postia placenta",
+   "zhtw": "鮭色波斯特孔菌",
+   "zhcn": "鲑色波斯特孔菌"
+  }
+ ],
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "扁紅孔菌"
+ ],
+ "names_en": [],
+ "url": "3614068878703517",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Rhodonia_placenta_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Rhodonia_placenta_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Rhodonia_placenta_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Rhodonia_placenta_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Rhodonia_placenta_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Rhodonia_placenta_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Rhodonia_placenta_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhodonia_placenta_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhodonia_placenta_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhodonia_placenta_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhodonia_placenta_4_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "扁红孔菌"
+ ],
+ "meta": {
+  "CapColors": "4288768839,4293498490",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Rhodonia placenta",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/959366-Rhodonia-placenta",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/31337667/thumb.jpeg"
+  }
+ ]
+}

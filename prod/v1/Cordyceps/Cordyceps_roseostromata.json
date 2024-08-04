@@ -1,0 +1,71 @@
+{
+ "genus": "Cordyceps",
+ "name": "roseostromata",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "紅座蟲草"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/706",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Cordyceps_roseostromata_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cordyceps_roseostromata_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cordyceps_roseostromata_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cordyceps_roseostromata_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cordyceps_roseostromata_5_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "红座虫草"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4294934579",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ }
+}

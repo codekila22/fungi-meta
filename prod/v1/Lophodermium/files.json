@@ -1,0 +1,31 @@
+{
+ "name": "Lophodermium",
+ "zhtw": "散斑殼屬",
+ "zhcn": "散斑壳属",
+ "list": [
+  {
+   "name": "Lophodermium conigenum",
+   "zhtw": "針葉樹散斑殼",
+   "zhcn": "针叶树散斑壳",
+   "img": "Lophodermium_conigenum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Lophodermium juniperinum",
+   "zhtw": "刺柏散斑殼",
+   "zhcn": "刺柏散斑壳",
+   "img": "Lophodermium_juniperinum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Lophodermium cf. arundinaceum",
+   "zhtw": "疑似葦散斑殼",
+   "zhcn": "疑似苇散斑壳",
+   "img": "Lophodermium_cf. arundinaceum_624f37a0-b6a2-11ee-acff-c75fe5e188c2_1.jpg"
+  },
+  {
+   "name": "Lophodermium cf. schweinitzii",
+   "zhtw": "疑似施氏散斑殼",
+   "zhcn": "疑似施氏散斑壳",
+   "img": "Lophodermium_cf. schweinitzii_1_CC BY-NC_陳雅芬.jpg"
+  }
+ ]
+}

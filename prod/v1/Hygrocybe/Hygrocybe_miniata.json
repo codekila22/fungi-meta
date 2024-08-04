@@ -1,0 +1,106 @@
+{
+ "genus": "Hygrocybe",
+ "name": "miniata",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "小紅濕傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/2208",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrocybe_miniata_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrocybe_miniata_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrocybe_miniata_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrocybe_miniata_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrocybe_miniata_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrocybe_miniata_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrocybe_miniata_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrocybe_miniata_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrocybe_miniata_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hygrocybe_miniata_10_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "小红湿伞"
+ ],
+ "meta": {
+  "CapColors": "4294921536,4293263360",
+  "CapDiamRangeValues": "5,35",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "3,4",
+  "StalkLengthRangeValuess": "30,50",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Hygrocybe miniata",
+   "cname": "Vermilion Waxcap",
+   "url": "https://www.inaturalist.org/taxa/194659-Hygrocybe-miniata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/137593315/thumb.jpeg"
+  },
+  {
+   "name": "Hygrocybe miniata var. miniata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1235560-Hygrocybe-miniata-miniata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157451604/thumb.jpg"
+  }
+ ]
+}

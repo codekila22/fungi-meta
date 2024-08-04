@@ -1,0 +1,107 @@
+{
+ "genus": "Amanita",
+ "name": "hesleri",
+ "date": [
+  "08/19/2023,6311486888961689",
+  "08/14/2023,6294817787295266",
+  "09/24/2017,1332737913503303",
+  "10/21/2009,3733873646723039"
+ ],
+ "names_zhtw": [
+  "海斯勒鵝膏"
+ ],
+ "names_en": [],
+ "url": "3733873646723039",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_hesleri_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_hesleri_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_hesleri_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_hesleri_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_hesleri_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Amanita_hesleri_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Amanita_hesleri_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Amanita_hesleri_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "謝正吉",
+   "image_src": "Amanita_hesleri_aed57cd0-3a77-11ee-9c03-b935de2c8cfc_1.jpg"
+  },
+  {
+   "author": "謝正吉",
+   "image_src": "Amanita_hesleri_aed57cd0-3a77-11ee-9c03-b935de2c8cfc_2.jpg"
+  },
+  {
+   "author": "謝正吉",
+   "image_src": "Amanita_hesleri_aed57cd0-3a77-11ee-9c03-b935de2c8cfc_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "海斯勒鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4290822336,4292072403",
+  "CapDiamRangeValues": "30,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita hesleri",
+   "cname": "Hesler's Lepidella",
+   "url": "https://www.inaturalist.org/taxa/1127984-Amanita-hesleri",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/247271465/thumb.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "genus": "Boletus",
+ "name": "flammans",
+ "date": [
+  "09/27/2023,6457570891019954",
+  "09/26/2023,6447425945367782"
+ ],
+ "names_zhtw": [
+  "血紅絨牛肝菌"
+ ],
+ "names_en": [],
+ "url": "6457570891019954",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Boletus_flammans_d02b4010-5f28-11ee-b759-b399c06faeb2_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Boletus_flammans_d02b4010-5f28-11ee-b759-b399c06faeb2_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Boletus_flammans_d02b4010-5f28-11ee-b759-b399c06faeb2_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Boletus_flammans_d02b4010-5f28-11ee-b759-b399c06faeb2_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Boletus_flammans_d02b4010-5f28-11ee-b759-b399c06faeb2_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Boletus_flammans_d02b4010-5f28-11ee-b759-b399c06faeb2_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_339ab9a0-5f29-11ee-8f63-c3720f628d25_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_339ab9a0-5f29-11ee-8f63-c3720f628d25_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_339ab9a0-5f29-11ee-8f63-c3720f628d25_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_339ab9a0-5f29-11ee-8f63-c3720f628d25_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_339ab9a0-5f29-11ee-8f63-c3720f628d25_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_339ab9a0-5f29-11ee-8f63-c3720f628d25_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "血红绒牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "blue",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Boletus flammans",
+   "cname": "Flame Bolete",
+   "url": "https://www.inaturalist.org/taxa/350209-Boletus-flammans",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2450876/thumb.jpg"
+  }
+ ]
+}

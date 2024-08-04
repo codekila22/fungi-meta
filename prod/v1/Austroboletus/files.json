@@ -1,0 +1,43 @@
+{
+ "name": "Austroboletus",
+ "zhtw": "南牛肝菌屬",
+ "zhcn": "南牛肝菌属",
+ "list": [
+  {
+   "name": "Austroboletus fusisporus",
+   "zhtw": "紡錘孢南牛肝菌",
+   "zhcn": "纺锤孢南牛肝菌",
+   "img": "Austroboletus_fusisporus_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Austroboletus neotropicalis",
+   "zhtw": "新熱帶南牛肝菌",
+   "zhcn": "新热带南牛肝菌",
+   "img": "Austroboletus_neotropicalis_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Austroboletus niveus",
+   "zhtw": "雪白南牛肝菌",
+   "zhcn": "雪白南牛肝菌",
+   "img": "Austroboletus_niveus_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Austroboletus gracilis",
+   "zhtw": "細南牛肝菌",
+   "zhcn": "细南牛肝菌",
+   "img": "Austroboletus_gracilis_4_CC BY-NC.jpg"
+  },
+  {
+   "name": "Austroboletus subvirens",
+   "zhtw": "淡黃綠南牛肝菌",
+   "zhcn": "淡黄绿南牛肝菌",
+   "img": "Austroboletus_subvirens_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Austroboletus olivaceoglutinosus",
+   "zhtw": "黏綠南牛肝菌",
+   "zhcn": "黏绿南牛肝菌",
+   "img": "Austroboletus_olivaceoglutinosus_74973d90-bb84-11ee-93a5-95c534a9ce47_1.jpg"
+  }
+ ]
+}

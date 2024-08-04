@@ -1,0 +1,37 @@
+{
+ "name": "Coltricia",
+ "zhtw": "集毛菌屬",
+ "zhcn": "集毛菌属",
+ "list": [
+  {
+   "name": "Coltricia australica",
+   "zhtw": "澳大利亞集毛菌",
+   "zhcn": "澳大利亚集毛菌",
+   "img": "Coltricia_perennis_14_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Coltricia cinnamomea",
+   "zhtw": "肉桂色集毛菌",
+   "zhcn": "肉桂色集毛菌",
+   "img": "Coltricia_cinnamomea_3_CC BY-NC.jpg"
+  },
+  {
+   "name": "Coltricia verrucata",
+   "zhtw": "糙絲集毛菌",
+   "zhcn": "糙丝集毛菌",
+   "img": "Coltricia_verrucata_17ff64b0-11aa-11ee-8162-4bc1c834fd49_1.jpg"
+  },
+  {
+   "name": "Coltricia montagnei",
+   "zhtw": "大集毛菌",
+   "zhcn": "大集毛菌",
+   "img": "Coltricia_montagnei_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Coltricia perennis",
+   "zhtw": "多年生集毛菌",
+   "zhcn": "多年生集毛菌",
+   "img": "Coltricia_perennis_b48f9bf0-175a-11ee-a9bd-9fe515c27e2a_1.jpg"
+  }
+ ]
+}

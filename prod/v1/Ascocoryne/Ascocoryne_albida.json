@@ -1,0 +1,96 @@
+{
+ "genus": "Ascocoryne",
+ "name": "albida",
+ "date": [
+  "01/26/2024,6925395207570851",
+  "12/15/2023,6749509071826133"
+ ],
+ "names_zhtw": [
+  "白紫膠盤菌(暫名)"
+ ],
+ "names_en": [],
+ "url": "6749509071826133",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascocoryne_albida_b462b840-9ce0-11ee-87a4-1f0c3bd92f6d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascocoryne_albida_b462b840-9ce0-11ee-87a4-1f0c3bd92f6d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascocoryne_albida_b462b840-9ce0-11ee-87a4-1f0c3bd92f6d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascocoryne_albida_b462b840-9ce0-11ee-87a4-1f0c3bd92f6d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascocoryne_albida_b257b970-c2a5-11ee-8bb1-398a438cf84c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascocoryne_albida_b257b970-c2a5-11ee-8bb1-398a438cf84c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascocoryne_albida_b257b970-c2a5-11ee-8bb1-398a438cf84c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascocoryne_albida_b257b970-c2a5-11ee-8bb1-398a438cf84c_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "白紫胶盘菌(暂名)"
+ ],
+ "meta": {
+  "CapColors": "4286578816",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Ascocoryne sarcoides,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "肉質紫膠盤菌,,",
+  "la_zhcn": "肉质紫胶盘菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Ascocoryne albida",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/874738-Ascocoryne-albida",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/33091674/thumb.jpg"
+  }
+ ]
+}

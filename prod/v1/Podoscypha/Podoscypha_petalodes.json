@@ -1,0 +1,134 @@
+{
+ "genus": "Podoscypha",
+ "name": "petalodes",
+ "date": [
+  "06/30/2023,6144800468963666",
+  "06/28/2023,6139200956190284",
+  "05/16/2022,4900127673430958",
+  "08/21/2021,7586732018103830",
+  "06/15/2021,3864584970318572",
+  "07/02/2020,2894456627331416"
+ ],
+ "names_zhtw": [
+  "花形柄杯菌"
+ ],
+ "names_en": [],
+ "url": "6144800468963666",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Podoscypha_petalodes_c047f4c0-8c6e-1060-b25f-9340d921a30e_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Podoscypha_petalodes_c047f4c0-8c6e-1060-b25f-9340d921a30e_5.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Podoscypha_petalodes_dd2f2e70-17cf-11ee-8843-87dee6c7bf4c_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Podoscypha_petalodes_dd2f2e70-17cf-11ee-8843-87dee6c7bf4c_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Podoscypha_petalodes_dd2f2e70-17cf-11ee-8843-87dee6c7bf4c_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Podoscypha_petalodes_dd2f2e70-17cf-11ee-8843-87dee6c7bf4c_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Podoscypha_petalodes_dd2f2e70-17cf-11ee-8843-87dee6c7bf4c_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Podoscypha_petalodes_c047f4c0-8c6e-1060-b25f-9340d921a30e_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Podoscypha_petalodes_c047f4c0-8c6e-1060-b25f-9340d921a30e_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Podoscypha_petalodes_c047f4c0-8c6e-1060-b25f-9340d921a30e_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Podoscypha_petalodes_c047f4c0-8c6e-1060-b25f-9340d921a30e_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Podoscypha_petalodes_c047f4c0-8c6e-1060-b25f-9340d921a30e_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Podoscypha_petalodes_c047f4c0-8c6e-1060-b25f-9340d921a30e_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Podoscypha_petalodes_c047f4c0-8c6e-1060-b25f-9340d921a30e_9.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "花形柄杯菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4294960324,4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Podoscypha petalodes",
+   "cname": "Wine Glass Fungus",
+   "url": "https://www.inaturalist.org/taxa/128930-Podoscypha-petalodes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/81170/thumb.jpg"
+  },
+  {
+   "name": "Podoscypha petalodes ssp. petalodes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/128929-Podoscypha-petalodes-petalodes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/81170/thumb.jpg"
+  },
+  {
+   "name": "Podoscypha petalodes ssp. floriformis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/411475-Podoscypha-petalodes-floriformis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5666117/thumb.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "genus": "Podoscypha",
+ "name": "parvula",
+ "date": [
+  "07/03/2023,6155420971234949",
+  "06/24/2023,6131337186976661",
+  "09/05/2021,4126916084085458",
+  "08/21/2021,4062021467241587",
+  "07/18/2021,1259245650852530",
+  "05/15/2021,3833370463440023"
+ ],
+ "names_zhtw": [
+  "小柄杯菌"
+ ],
+ "names_en": [],
+ "url": "4062021467241587",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Podoscypha_parvula_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Podoscypha_parvula_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Podoscypha_parvula_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Podoscypha_parvula_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Podoscypha_parvula_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Podoscypha_parvula_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Podoscypha_parvula_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_7_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_8_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_9_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_10_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_11_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_12_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_13_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_14_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_15_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podoscypha_parvula_16_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Podoscypha_parvula_e074a6b0-1404-11ee-901d-af391d759a46_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Podoscypha_parvula_e074a6b0-1404-11ee-901d-af391d759a46_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Podoscypha_parvula_e074a6b0-1404-11ee-901d-af391d759a46_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Podoscypha_parvula_e074a6b0-1404-11ee-901d-af391d759a46_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "小柄杯菌"
+ ],
+ "meta": {
+  "CapColors": "4292786311,4288696877",
+  "CapDiamRangeValues": "15,40",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Podoscypha parvula",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/705284-Podoscypha-parvula",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15848976/thumb.jpg"
+  }
+ ]
+}

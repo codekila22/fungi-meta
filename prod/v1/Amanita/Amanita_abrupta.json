@@ -1,0 +1,83 @@
+{
+ "genus": "Amanita",
+ "name": "abrupta",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "球莖鵝膏"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/595",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Amanita_abrupta_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_abrupta_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_abrupta_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_abrupta_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_abrupta_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_abrupta_6_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "球茎鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "60,80",
+  "CapShape": "campanulate,flat",
+  "CapTexture": "raised-scales",
+  "CapMargin": "appendiculate",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "close,shortgills",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "smooth",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
+  "StalkBase": "bulbous",
+  "StalkDiamRangeValuess": "9,12",
+  "StalkLengthRangeValuess": "100,130",
+  "Rareness": "occacional",
+  "Seasons": "summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita abrupta",
+   "cname": "American Abrupt-Bulbed Lepidella",
+   "url": "https://www.inaturalist.org/taxa/324361-Amanita-abrupta",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8968119/thumb.jpeg"
+  }
+ ]
+}

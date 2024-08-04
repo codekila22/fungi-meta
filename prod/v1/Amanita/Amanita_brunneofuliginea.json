@@ -1,0 +1,72 @@
+{
+ "genus": "Amanita",
+ "name": "brunneofuliginea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "褐烟色鵝膏"
+ ],
+ "names_en": [],
+ "url": "2764389870338093",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_brunneofuliginea_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_brunneofuliginea_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_brunneofuliginea_3_CC BY-NC_James Ho.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "褐烟色鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4284635991",
+  "CapDiamRangeValues": "50,140",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita brunneofuliginea",
+   "cname": "Brown-Black Ringless Amanita",
+   "url": "https://www.inaturalist.org/taxa/415291-Amanita-brunneofuliginea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/48762828/thumb.jpg"
+  }
+ ]
+}

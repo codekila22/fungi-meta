@@ -1,0 +1,19 @@
+{
+ "name": "Elaphomyces",
+ "zhtw": "大團囊菌屬",
+ "zhcn": "大团囊菌属",
+ "list": [
+  {
+   "name": "Elaphomyces granulatus",
+   "zhtw": "粗粒大團囊菌",
+   "zhcn": "粗粒大团囊菌",
+   "img": "Elaphomyces_granulatus_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Elaphomyces muricatus",
+   "zhtw": "粗棘大團囊菌",
+   "zhcn": "粗棘大团囊菌",
+   "img": "Elaphomyces_muricatus_1_CC BY-NC_陳雅芬.jpg"
+  }
+ ]
+}

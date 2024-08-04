@@ -1,0 +1,90 @@
+{
+ "genus": "Turbinellus",
+ "name": "kauffmanii",
+ "date": [
+  "07/23/2022,5093606214083102",
+  "07/15/2022,5105246556252401"
+ ],
+ "names_zhtw": [
+  "考夫曼釘菇",
+  "考夫曼陀螺菌"
+ ],
+ "names_en": [],
+ "url": "5093606214083102",
+ "images": [
+  {
+   "author": "姜淋友",
+   "image_src": "Turbinellus_kaufmanii_1_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "Linda Hung",
+   "image_src": "Turbinellus_kaufmanii_3_CC BY-NC_Linda Hung.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Turbinellus_kaufmanii_2_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Turbinellus_kaufmanii_3_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "Linda Hung",
+   "image_src": "Turbinellus_kaufmanii_1_CC BY-NC_Linda Hung.jpg"
+  },
+  {
+   "author": "Linda Hung",
+   "image_src": "Turbinellus_kaufmanii_2_CC BY-NC_Linda Hung.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "考夫曼钉菇",
+  "考夫曼陀螺菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "ridged",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Turbinellus fujisanensis,,",
+  "Note": "此種菌蓋上周圍的鱗片較粗。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "富士山毛釘菇,,",
+  "la_zhcn": "富士山毛钉菇,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Turbinellus kauffmanii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/352687-Turbinellus-kauffmanii",
+   "src": "https://static.inaturalist.org/photos/26142567/thumb.jpeg"
+  }
+ ]
+}

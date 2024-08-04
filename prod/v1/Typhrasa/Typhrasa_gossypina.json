@@ -1,0 +1,85 @@
+{
+ "genus": "Typhrasa",
+ "name": "gossypina",
+ "date": [
+  "04/24/2021,7025666814210356"
+ ],
+ "names_zhtw": [
+  "棉毛新脆柄菇"
+ ],
+ "names_en": [],
+ "url": "7025666814210356",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Typhrasa_gossypina_3d89ff50-d5cd-11ee-a3ed-ab4c6dac2e70_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Typhrasa_gossypina_3d89ff50-d5cd-11ee-a3ed-ab4c6dac2e70_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Typhrasa_gossypina_3d89ff50-d5cd-11ee-a3ed-ab4c6dac2e70_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Typhrasa_gossypina_3d89ff50-d5cd-11ee-a3ed-ab4c6dac2e70_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Typhrasa_gossypina_3d89ff50-d5cd-11ee-a3ed-ab4c6dac2e70_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Typhrasa_gossypina_3d89ff50-d5cd-11ee-a3ed-ab4c6dac2e70_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "棉毛新脆柄菇"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,debris",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Typhrasa gossypina",
+   "cname": "Wrinkled Psathyrella",
+   "url": "https://www.inaturalist.org/taxa/1111865-Typhrasa-gossypina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340322/thumb.jpg"
+  }
+ ]
+}

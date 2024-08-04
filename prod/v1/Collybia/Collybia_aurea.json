@@ -1,0 +1,118 @@
+{
+ "genus": "Collybia",
+ "name": "aurea",
+ "date": [
+  "06/13/2023,6083067121803668",
+  "04/22/2023,5906784156098633",
+  "04/21/2023,5932263156884066"
+ ],
+ "names_zhtw": [
+  "金黃金錢菇"
+ ],
+ "names_en": [],
+ "url": "5906784156098633",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Collybia_aurea_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Collybia_aurea_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Collybia_aurea_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Collybia_aurea_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Collybia_aurea_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybia_aurea_85294d40-e116-11ed-a106-efa2e4135e4f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybia_aurea_85294d40-e116-11ed-a106-efa2e4135e4f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybia_aurea_85294d40-e116-11ed-a106-efa2e4135e4f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybia_aurea_85294d40-e116-11ed-a106-efa2e4135e4f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybia_aurea_85294d40-e116-11ed-a106-efa2e4135e4f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybia_aurea_85294d40-e116-11ed-a106-efa2e4135e4f_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybia_aurea_85294d40-e116-11ed-a106-efa2e4135e4f_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybia_aurea_85294d40-e116-11ed-a106-efa2e4135e4f_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybia_aurea_85294d40-e116-11ed-a106-efa2e4135e4f_9.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "金黄金钱菇"
+ ],
+ "meta": {
+  "CapColors": "4293977740",
+  "CapDiamRangeValues": "10,25",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294962944",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294940928,4286141768",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "ground,debris",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Tricholomopsis aurea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/972113-Tricholomopsis-aurea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58225363/thumb.jpeg"
+  }
+ ]
+}

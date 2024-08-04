@@ -1,0 +1,147 @@
+{
+ "genus": "Cortinarius",
+ "name": "cf. obtusus",
+ "date": [
+  "11/27/2023,6687544958022545",
+  "07/29/2012,3880167182093684"
+ ],
+ "names_zhtw": [
+  "疑似淺棕絲膜菌"
+ ],
+ "names_en": [],
+ "url": "3880167182093684",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Cortinarius_cf. obtusus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cortinarius_cf. obtusus_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cortinarius_cf. obtusus_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cortinarius_cf. obtusus_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cortinarius_cf. obtusus_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_cf. obtusus_ca233430-9cc1-11ee-82e3-dfa1faab346f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_cf. obtusus_ca233430-9cc1-11ee-82e3-dfa1faab346f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_cf. obtusus_ca233430-9cc1-11ee-82e3-dfa1faab346f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_cf. obtusus_ca233430-9cc1-11ee-82e3-dfa1faab346f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_cf. obtusus_ca233430-9cc1-11ee-82e3-dfa1faab346f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_cf. obtusus_ca233430-9cc1-11ee-82e3-dfa1faab346f_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_cf. obtusus_ca233430-9cc1-11ee-82e3-dfa1faab346f_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_cf. obtusus_ca233430-9cc1-11ee-82e3-dfa1faab346f_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_cf. obtusus_ca233430-9cc1-11ee-82e3-dfa1faab346f_9.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似浅棕丝膜菌"
+ ],
+ "meta": {
+  "CapColors": "4291979550,4286578688,4288696877",
+  "CapDiamRangeValues": "20,35",
+  "CapShape": "umbontae",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "35,70",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "傘面潮濕的時候會出現線條。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Cortinarius obtusus",
+   "cname": "Blunt Webcap",
+   "url": "https://www.inaturalist.org/taxa/344640-Cortinarius-obtusus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9515676/thumb.jpeg"
+  },
+  {
+   "name": "Cortinarius obtusus obtusus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344648-Cortinarius-obtusus-obtusus",
+   "src": ""
+  },
+  {
+   "name": "Cortinarius obtusus uliginobtusus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344642-Cortinarius-obtusus-uliginobtusus",
+   "src": ""
+  },
+  {
+   "name": "Cortinarius obtusus velenovskyi",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344644-Cortinarius-obtusus-velenovskyi",
+   "src": ""
+  },
+  {
+   "name": "Cortinarius obtusus striatulus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344646-Cortinarius-obtusus-striatulus",
+   "src": ""
+  },
+  {
+   "name": "Cortinarius obtusus var. gracilis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/344647-Cortinarius-obtusus-gracilis",
+   "src": ""
+  }
+ ]
+}

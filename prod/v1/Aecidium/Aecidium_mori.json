@@ -1,0 +1,88 @@
+{
+ "genus": "Aecidium",
+ "name": "mori",
+ "date": [
+  "04/05/2024,7181915898585446",
+  "06/21/2019,2011055182338236"
+ ],
+ "names_zhtw": [
+  "桑銹孢銹菌"
+ ],
+ "names_en": [],
+ "url": "2011055182338236",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Aecidium_mori_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aecidium_mori_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aecidium_mori_71bffda0-f49b-11ee-8fc6-8df7c0af788d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aecidium_mori_71bffda0-f49b-11ee-8fc6-8df7c0af788d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aecidium_mori_71bffda0-f49b-11ee-8fc6-8df7c0af788d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aecidium_mori_71bffda0-f49b-11ee-8fc6-8df7c0af788d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aecidium_mori_71bffda0-f49b-11ee-8fc6-8df7c0af788d_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "桑锈孢锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840,4294937600",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Aecidium mori",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1556249-Aecidium-mori",
+   "src": ""
+  }
+ ]
+}

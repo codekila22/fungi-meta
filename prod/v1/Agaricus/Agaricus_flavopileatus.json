@@ -1,0 +1,73 @@
+{
+ "genus": "Agaricus",
+ "name": "flavopileatus",
+ "date": [
+  "06/13/2023,6095111500599230"
+ ],
+ "names_zhtw": [
+  "黃鱗蘑菇"
+ ],
+ "names_en": [],
+ "url": "6095111500599230",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Agaricus_flavopileatus_a1e58bc0-fa5a-11ee-b1ea-efe1d1a99b81_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Agaricus_flavopileatus_a1e58bc0-fa5a-11ee-b1ea-efe1d1a99b81_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Agaricus_flavopileatus_a1e58bc0-fa5a-11ee-b1ea-efe1d1a99b81_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Agaricus_flavopileatus_a1e58bc0-fa5a-11ee-b1ea-efe1d1a99b81_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Agaricus_flavopileatus_a1e58bc0-fa5a-11ee-b1ea-efe1d1a99b81_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄鳞蘑菇"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "patches",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ }
+}

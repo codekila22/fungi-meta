@@ -1,0 +1,110 @@
+{
+ "genus": "Singerocybe",
+ "name": "humilis",
+ "date": [
+  "06/15/2024,7528488987261467",
+  "07/25/2023,6229101637200215",
+  "10/28/2021,4267078433402555",
+  "09/09/2021,4113160758794324",
+  "08/10/2021,4023462691097465",
+  "08/05/2021,4016203571823377",
+  "07/22/2016,939626356147796",
+  "06/21/2014,1235459653231130"
+ ],
+ "names_zhtw": [
+  "薄囊泡杯傘"
+ ],
+ "names_en": [],
+ "url": "4016203571823377",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Singerocybe_humilis_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Singerocybe_humilis_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Singerocybe_humilis_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Singerocybe_humilis_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Singerocybe_humilis_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Singerocybe_humilis_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_cf2b06c0-3121-11ef-8406-e1b246262253_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_cf2b06c0-3121-11ef-8406-e1b246262253_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_cf2b06c0-3121-11ef-8406-e1b246262253_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_cf2b06c0-3121-11ef-8406-e1b246262253_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "薄囊泡杯伞"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294967295,4292072403",
+  "CapDiamRangeValues": "30,50",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "striated",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "crossconnected",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "3,5",
+  "StalkLengthRangeValuess": "10,20",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Singerocybe alboinfundibuliformis,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "白漏斗囊泡杯傘,,",
+  "la_zhcn": "白漏斗囊泡杯伞,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Singerocybe humilis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/955237-Singerocybe-humilis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/160240617/thumb.jpg"
+  }
+ ]
+}

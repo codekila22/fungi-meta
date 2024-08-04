@@ -1,0 +1,304 @@
+{
+ "genus": "Amanita",
+ "name": "rubrovolvata",
+ "date": [
+  "06/28/2024,7597267927050239",
+  "06/22/2024,7551855471591485",
+  "06/16/2024,7518266988283667",
+  "10/24/2023,6564233097020399",
+  "10/14/2023,6525149537595422",
+  "09/19/2023,6427226270721083",
+  "09/12/2023,6394404717336572",
+  "08/15/2023,6298800813563630",
+  "07/16/2023,6199709730139406",
+  "07/06/2023,6168589339918112",
+  "07/04/2023,6159367870840259",
+  "06/23/2023,6121054348004945",
+  "06/09/2023,6088441991266181",
+  "09/27/2022,5275076729269382",
+  "08/28/2022,5206354082808314",
+  "08/22/2022,5182752601835129",
+  "07/10/2022,5063996850377372",
+  "07/05/2022,5076395279137529",
+  "07/04/2022,5040320312745026",
+  "05/29/2022,4940145959429129",
+  "09/02/2021,4104130369697363",
+  "10/01/2020,3188292864614456",
+  "07/08/2020,2910637972379948",
+  "06/27/2020,2891256317651447",
+  "09/29/2018,4104130369697363"
+ ],
+ "names_zhtw": [
+  "紅托鵝膏"
+ ],
+ "names_en": [],
+ "url": "5040320312745026",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_rubrovolvata_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_rubrovolvata_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_rubrovolvata_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_rubrovolvata_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_rubrovolvata_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_rubrovolvata_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_rubrovolvata_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_rubrovolvata_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_8_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_9_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_10_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_11_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_12_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_13_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_14_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_15_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Amanita_rubrovolvata_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Amanita_rubrovolvata_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Amanita_rubrovolvata_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Amanita_rubrovolvata_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Amanita_rubrovolvata_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Amanita_rubrovolvata_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_6_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Amanita_rubrovolvata_7_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_rubrovolvata_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_rubrovolvata_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_rubrovolvata_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_rubrovolvata_6_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_rubrovolvata_8_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Amanita_rubrovolvata_9_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubrovolvata_4b594010-0ab6-11ee-9943-a18c953bd480_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubrovolvata_4b594010-0ab6-11ee-9943-a18c953bd480_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubrovolvata_4b594010-0ab6-11ee-9943-a18c953bd480_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubrovolvata_4b594010-0ab6-11ee-9943-a18c953bd480_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_rubrovolvata_300cd9d0-d5cb-11ee-b464-d7137d33a0b3_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_rubrovolvata_300cd9d0-d5cb-11ee-b464-d7137d33a0b3_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_rubrovolvata_300cd9d0-d5cb-11ee-b464-d7137d33a0b3_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_rubrovolvata_300cd9d0-d5cb-11ee-b464-d7137d33a0b3_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_rubrovolvata_300cd9d0-d5cb-11ee-b464-d7137d33a0b3_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_rubrovolvata_300cd9d0-d5cb-11ee-b464-d7137d33a0b3_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_rubrovolvata_300cd9d0-d5cb-11ee-b464-d7137d33a0b3_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_rubrovolvata_300cd9d0-d5cb-11ee-b464-d7137d33a0b3_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_rubrovolvata_c0d93850-9d75-105b-b1c3-33cc4cfc5169_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_rubrovolvata_c0d93850-9d75-105b-b1c3-33cc4cfc5169_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_rubrovolvata_c0d93850-9d75-105b-b1c3-33cc4cfc5169_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_rubrovolvata_c0d93850-9d75-105b-b1c3-33cc4cfc5169_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubrovolvata_f554bce0-db1f-1063-b9f9-e98e6c3cc0f2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubrovolvata_f554bce0-db1f-1063-b9f9-e98e6c3cc0f2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubrovolvata_f554bce0-db1f-1063-b9f9-e98e6c3cc0f2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubrovolvata_f554bce0-db1f-1063-b9f9-e98e6c3cc0f2_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "红托鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4294901760,4294083840",
+  "CapDiamRangeValues": "20,40",
+  "CapShape": "campanulate,flat",
+  "CapTexture": "velvety,flat-scales",
+  "CapMargin": "striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295,4294962944",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "close,shortgills",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "serrated",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295,4294962944",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
+  "StalkBase": "bulbous",
+  "StalkDiamRangeValuess": "3,5",
+  "StalkLengthRangeValuess": "40,80",
+  "Rareness": "common",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "菌柄基部的菌拖上包覆著一圈鮮紅色的細鱗是最大辨識特徵。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita rubrovolvata",
+   "cname": "Red Volva Amanita",
+   "url": "https://www.inaturalist.org/taxa/706627-Amanita-rubrovolvata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163434722/thumb.jpg"
+  }
+ ]
+}

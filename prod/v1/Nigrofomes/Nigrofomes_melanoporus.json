@@ -1,0 +1,68 @@
+{
+ "genus": "Nigrofomes",
+ "name": "melanoporus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "黑孔黑木層菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/914",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Nigrofomes_melanoporus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Nigrofomes_melanoporus_2_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黑孔黑木层菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4284635991",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Nigrofomes melanoporus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/408110-Nigrofomes-melanoporus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7942821/thumb.jpeg"
+  }
+ ]
+}

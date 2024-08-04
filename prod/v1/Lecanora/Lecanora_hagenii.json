@@ -1,0 +1,86 @@
+{
+ "genus": "Lecanora",
+ "name": "hagenii",
+ "date": [
+  "01/09/2024,6886081661502206"
+ ],
+ "names_zhtw": [
+  "小茶漬衣"
+ ],
+ "names_en": [],
+ "url": "6886081661502206",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Lecanora_hagenii_429a6510-b8ff-11ee-afa6-d78ea1121119_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lecanora_hagenii_429a6510-b8ff-11ee-afa6-d78ea1121119_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lecanora_hagenii_429a6510-b8ff-11ee-afa6-d78ea1121119_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lecanora_hagenii_429a6510-b8ff-11ee-afa6-d78ea1121119_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lecanora_hagenii_429a6510-b8ff-11ee-afa6-d78ea1121119_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "小茶渍衣"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Myriolecis hagenii",
+   "cname": "Hagen's Rim Lichen",
+   "url": "https://www.inaturalist.org/taxa/532149-Myriolecis-hagenii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/179398004/thumb.jpeg"
+  },
+  {
+   "name": "Myriolecis hagenii gregata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1464560-Myriolecis-hagenii-gregata",
+   "src": ""
+  }
+ ]
+}

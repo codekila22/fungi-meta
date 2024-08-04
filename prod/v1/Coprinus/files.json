@@ -1,0 +1,31 @@
+{
+ "name": "Coprinus",
+ "zhtw": "鬼傘屬",
+ "zhcn": "鬼伞属",
+ "list": [
+  {
+   "name": "Coprinus leucostictus",
+   "zhtw": "白斑鬼傘",
+   "zhcn": "白斑鬼伞",
+   "current": "Hausknechtia leucosticta",
+   "current_zhtw": "白斑霍氏鬼傘",
+   "current_zhcn": "白斑霍氏鬼伞",
+   "img": "Hausknechtia_leucosticta_7ed24230-0380-11ee-b11c-a3665aee4306_1.jpg"
+  },
+  {
+   "name": "Coprinus comatus",
+   "zhtw": "毛頭鬼傘",
+   "zhcn": "毛头鬼伞",
+   "img": "Coprinus_comatus_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Coprinus patouillardii",
+   "zhtw": "帕氏鬼傘",
+   "zhcn": "帕氏鬼伞",
+   "current": "Narcissea patouillardii",
+   "current_zhtw": "帕氏心孢鬼傘",
+   "current_zhcn": "帕氏心孢鬼伞",
+   "img": "Narcissea_patouillardii_2d9bca10-bd72-11ee-90d1-c724fc359928_1.jpg"
+  }
+ ]
+}

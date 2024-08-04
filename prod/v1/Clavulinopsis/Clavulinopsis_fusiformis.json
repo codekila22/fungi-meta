@@ -1,0 +1,70 @@
+{
+ "genus": "Clavulinopsis",
+ "name": "fusiformis",
+ "date": [
+  "08/19/2022",
+  "08/10/2022"
+ ],
+ "names_zhtw": [
+  "紡錘形擬鎖瑚菌"
+ ],
+ "names_en": [],
+ "url": "5149329721844084",
+ "images": [
+  {
+   "author": "Angela Huang",
+   "image_src": "Clavulinopsis_fusiformis_1_CC BY-NC_Angela Huang.jpg"
+  },
+  {
+   "author": "Angela Huang",
+   "image_src": "Clavulinopsis_fusiformis_2_CC BY-NC_Angela Huang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "纺锤形拟锁瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4294931200,4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "10,100",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped,clustered",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Clavulinopsis fusiformis",
+   "cname": "Golden Spindles",
+   "url": "https://www.inaturalist.org/taxa/55272-Clavulinopsis-fusiformis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/462371/thumb.jpg"
+  }
+ ]
+}

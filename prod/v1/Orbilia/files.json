@@ -1,0 +1,34 @@
+{
+ "name": "Orbilia",
+ "zhtw": "圓盤菌屬",
+ "zhcn": "圆盘菌属",
+ "list": [
+  {
+   "name": "Orbilia xanthostigma",
+   "zhtw": "黃色圓盤菌",
+   "zhcn": "黄色圆盘菌",
+   "img": "Orbilia_xanthostigma_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Orbilia auricolor",
+   "zhtw": "金色圓盤菌",
+   "zhcn": "金色圆盘菌",
+   "img": "Orbilia_auricolor_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Orbilia aurantiorubra",
+   "zhtw": "橘紅圓盤菌",
+   "zhcn": "橘红圆盘菌",
+   "img": "Orbilia_aurantiorubra_63d61b00-1a95-11ef-b1cb-1d13022e815d_1.jpg"
+  },
+  {
+   "name": "Orbilia delicatula",
+   "zhtw": "怡人圓盤菌",
+   "zhcn": "怡人圆盘菌",
+   "current": "Orbilia xanthostigma",
+   "current_zhtw": "黃色圓盤菌",
+   "current_zhcn": "黄色圆盘菌",
+   "img": "Orbilia_xanthostigma_1_CC BY-NC_陳麗紅.jpg"
+  }
+ ]
+}

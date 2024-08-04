@@ -1,0 +1,92 @@
+{
+ "genus": "Fistulinella",
+ "name": "violaceipora",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "紫羅蘭小牛舌菌"
+ ],
+ "names_en": [],
+ "url": "3774432979333772",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fistulinella_violaceipora_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fistulinella_violaceipora_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fistulinella_violaceipora_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fistulinella_violaceipora_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fistulinella_violaceipora_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fistulinella_violaceipora_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fistulinella_violaceipora_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fistulinella_violaceipora_8_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫罗兰小牛舌菌"
+ ],
+ "meta": {
+  "CapColors": "4291605388",
+  "CapDiamRangeValues": "40,56",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Fistulinella violaceipora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/566135-Fistulinella-violaceipora",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/118895123/thumb.jpeg"
+  }
+ ]
+}

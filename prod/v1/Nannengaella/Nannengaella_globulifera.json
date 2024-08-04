@@ -1,0 +1,105 @@
+{
+ "genus": "Nannengaella",
+ "name": "globulifera",
+ "date": [
+  "07/02/2024,7615693851874313",
+  "05/27/2024,7421830171260683"
+ ],
+ "names_zhtw": [
+  "球實絨泡黏菌"
+ ],
+ "names_en": [],
+ "url": "7421830171260683",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_globuliferum_fd796400-1cee-11ef-b25e-6d0adb436882_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_globuliferum_fd796400-1cee-11ef-b25e-6d0adb436882_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_globuliferum_fd796400-1cee-11ef-b25e-6d0adb436882_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_globuliferum_fd796400-1cee-11ef-b25e-6d0adb436882_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_globuliferum_7d015230-3740-106e-9df3-217c5aecd892_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_globuliferum_7d015230-3740-106e-9df3-217c5aecd892_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_globuliferum_7d015230-3740-106e-9df3-217c5aecd892_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_globuliferum_7d015230-3740-106e-9df3-217c5aecd892_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_globuliferum_7d015230-3740-106e-9df3-217c5aecd892_5.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Physarum globuliferum",
+   "zhtw": "球實絨泡黏菌",
+   "zhcn": "球实绒泡黏菌"
+  }
+ ],
+ "names_zhcn": [
+  "球实绒泡黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,3",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Nannengaella globulifera",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1504209-Nannengaella-globulifera",
+   "src": "https://static.inaturalist.org/photos/59411135/thumb.jpg"
+  }
+ ]
+}

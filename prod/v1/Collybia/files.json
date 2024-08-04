@@ -1,0 +1,31 @@
+{
+ "name": "Collybia",
+ "zhtw": "金錢菇屬",
+ "zhcn": "金钱菇属",
+ "list": [
+  {
+   "name": "Collybia sordida",
+   "zhtw": "花臉金錢菇",
+   "zhcn": "花脸金钱菇",
+   "img": "Lepista_sordida_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Collybia kurara",
+   "zhtw": "庫拉拉金錢菇",
+   "zhcn": "库拉拉金钱菇",
+   "img": "Collybia_kurara_766f0cc0-02ff-11ef-ae99-e18be05b81e7_1.jpg"
+  },
+  {
+   "name": "Collybia effusa",
+   "zhtw": "疏褶金錢菇",
+   "zhcn": "疏褶金钱菇",
+   "img": "Collybia_effusa_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Collybia aurea",
+   "zhtw": "金黃金錢菇",
+   "zhcn": "金黄金钱菇",
+   "img": "Collybia_aurea_1_CC BY-NC_柯文俊.jpg"
+  }
+ ]
+}

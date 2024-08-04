@@ -1,0 +1,131 @@
+{
+ "genus": "Laetiporus",
+ "name": "sulphureus",
+ "date": [
+  "06/26/2022,5020804734696584",
+  "08/26/2021,4080794705364263"
+ ],
+ "names_zhtw": [
+  "硫色絢孔菌"
+ ],
+ "names_en": [
+  "Chicken of the Woods"
+ ],
+ "url": "5020804734696584",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Laetiporus_sulphureus_edbf3cd0-d55d-1076-8f2a-038c3d9c1715_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Laetiporus_sulphureus_294e6070-d642-1076-8f2a-038c3d9c1715_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Laetiporus_sulphureus_294e6070-d642-1076-8f2a-038c3d9c1715_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Laetiporus_sulphureus_294e6070-d642-1076-8f2a-038c3d9c1715_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Laetiporus_sulphureus_294e6070-d642-1076-8f2a-038c3d9c1715_4.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_11_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_12_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "硫色绚孔菌"
+ ],
+ "meta": {
+  "CapColors": "4291581184,4293302630",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "pored",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Laetiporus sulphureus",
+   "cname": "Chicken of the Woods",
+   "url": "https://www.inaturalist.org/taxa/53713-Laetiporus-sulphureus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/42106925/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Campanella",
+ "zhtw": "脈褶菌屬",
+ "zhcn": "脉褶菌属",
+ "list": [
+  {
+   "name": "Campanella aff. pustulata",
+   "zhtw": "泡突脈褶菌",
+   "zhcn": "泡突脉褶菌",
+   "img": "Campanella_aff. pustulata_15_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Campanella tristis",
+   "zhtw": "暗淡色脈褶菌",
+   "zhcn": "暗淡色脉褶菌",
+   "img": "Campanella_tristis_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Campanella gigantospora",
+   "zhtw": "巨孢脈褶菌",
+   "zhcn": "巨孢脉褶菌",
+   "img": "Campanella_gigantospora_8371e0b0-a881-11ee-9854-717a84b6fc48_1.jpg"
+  },
+  {
+   "name": "Campanella aff. gregaria",
+   "zhtw": "簇生脈褶菌之相似種",
+   "zhcn": "簇生脉褶菌之相似种",
+   "img": "Campanella_aff. gregaria_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Campanella junghuhnii",
+   "zhtw": "脈褶菌",
+   "zhcn": "脉褶菌",
+   "img": "Campanella_junghuhnii_1_CC BY-NC_江志緯.jpg"
+  }
+ ]
+}

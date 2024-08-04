@@ -1,0 +1,43 @@
+{
+ "name": "Steccherinum",
+ "zhtw": "齒耳菌屬",
+ "zhcn": "齿耳菌属",
+ "list": [
+  {
+   "name": "Steccherinum ciliolatum",
+   "zhtw": "闊纖毛齒耳菌",
+   "zhcn": "阔纤毛齿耳菌",
+   "img": "Steccherinum_ciliolatum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Steccherinum oreophilum",
+   "zhtw": "山生齒耳菌",
+   "zhcn": "山生齿耳菌",
+   "img": "Steccherinum_oreophilum_1_CC BY-NC_張惠娟.jpg"
+  },
+  {
+   "name": "Steccherinum septentrionale",
+   "zhtw": "大肉齒耳菌",
+   "zhcn": "大肉齿耳菌",
+   "img": "Steccherinum_septentrionale_2_CC BY-NC.jpg"
+  },
+  {
+   "name": "Steccherinum ochraceum",
+   "zhtw": "赭黃齒耳菌",
+   "zhcn": "赭黄齿耳菌",
+   "img": "Steccherinum_ochraceum_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Steccherinum fimbriatum",
+   "zhtw": "毛緣齒耳菌",
+   "zhcn": "毛缘齿耳菌",
+   "img": "Steccherinum_fimbriatum_1_CC BY-NC_張惠娟.jpg"
+  },
+  {
+   "name": "Steccherinum murashkinskyi",
+   "zhtw": "穆氏齒耳菌",
+   "zhcn": "穆氏齿耳菌",
+   "img": "Steccherinum_murashkinskyi_9_CC BY-NC_陳啟仁.jpg"
+  }
+ ]
+}

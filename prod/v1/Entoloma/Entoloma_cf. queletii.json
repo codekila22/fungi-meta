@@ -1,0 +1,84 @@
+{
+ "genus": "Entoloma",
+ "name": "cf. queletii",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "疑似凱萊粉褶菌"
+ ],
+ "names_en": [],
+ "url": "3441835985926808",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_cf. queletii_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_cf. queletii_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_cf. queletii_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_cf. queletii_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_cf. queletii_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_cf. queletii_6_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似凯莱粉褶菌"
+ ],
+ "meta": {
+  "CapColors": "4293498490",
+  "CapDiamRangeValues": "10,50",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "4294951115",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "2,7",
+  "StalkLengthRangeValuess": "30,50",
+  "Rareness": "occacional",
+  "Seasons": "summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma queletii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/499799-Entoloma-queletii",
+   "src": ""
+  }
+ ]
+}

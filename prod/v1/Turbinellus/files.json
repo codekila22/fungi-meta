@@ -1,0 +1,25 @@
+{
+ "name": "Turbinellus",
+ "zhtw": "釘菇屬",
+ "zhcn": "钉菇属",
+ "list": [
+  {
+   "name": "Turbinellus kauffmanii",
+   "zhtw": "考夫曼釘菇",
+   "zhcn": "考夫曼钉菇",
+   "img": "Turbinellus_kaufmanii_1_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "name": "Turbinellus floccosus",
+   "zhtw": "毛釘菇",
+   "zhcn": "毛钉菇",
+   "img": "Turbinellus_floccosus_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Turbinellus fujisanensis",
+   "zhtw": "富士山毛釘菇",
+   "zhcn": "富士山毛钉菇",
+   "img": "Turbinellus_fujisanensis_1_CC BY-NC_向高世.jpg"
+  }
+ ]
+}

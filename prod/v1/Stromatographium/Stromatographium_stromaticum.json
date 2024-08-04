@@ -1,0 +1,123 @@
+{
+ "genus": "Stromatographium",
+ "name": "stromaticum",
+ "date": [
+  "12/23/2023,6778814392228934",
+  "05/16/2023,6026306447479736",
+  "05/18/2022,4903361929774199",
+  "04/21/2021,3705784632865274",
+  "03/28/2021,3644114549032283",
+  "02/12/2021,3512966238813782"
+ ],
+ "names_zhtw": [
+  "基座狀黴"
+ ],
+ "names_en": [],
+ "url": "3644114549032283",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Stromatographium_stromaticum_6a69f670-fd00-11ed-86fb-9730760ba301_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stromatographium_stromaticum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stromatographium_stromaticum_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stromatographium_stromaticum_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stromatographium_stromaticum_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stromatographium_stromaticum_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stromatographium_stromaticum_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stromatographium_stromaticum_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stromatographium_stromaticum_6a69f670-fd00-11ed-86fb-9730760ba301_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stromatographium_stromaticum_6a69f670-fd00-11ed-86fb-9730760ba301_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stromatographium_stromaticum_6a69f670-fd00-11ed-86fb-9730760ba301_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stromatographium_stromaticum_aef89090-a182-11ee-bfcb-0d90038a75bc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stromatographium_stromaticum_aef89090-a182-11ee-bfcb-0d90038a75bc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stromatographium_stromaticum_aef89090-a182-11ee-bfcb-0d90038a75bc_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "基座状霉"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Gracilistilbella clavulata,,",
+  "Note": "",
+  "la_zhtw": "棒狀細束梗孢菌,,",
+  "la_zhcn": "棒状细束梗孢菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Stromatographium stromaticum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/552821-Stromatographium-stromaticum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8969836/thumb.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "genus": "Apiospora",
+ "name": "neobambusae",
+ "date": [
+  "01/22/2024,6889013597875679"
+ ],
+ "names_zhtw": [
+  "新竹端隔孢殼菌"
+ ],
+ "names_en": [],
+ "url": "6889013597875679",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Arthrinium_bambusae_b892e020-b9fa-11ee-8492-07c412f204b6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arthrinium_bambusae_b892e020-b9fa-11ee-8492-07c412f204b6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arthrinium_bambusae_b892e020-b9fa-11ee-8492-07c412f204b6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arthrinium_bambusae_b892e020-b9fa-11ee-8492-07c412f204b6_4.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Arthrinium bambusae",
+   "zhtw": "竹色孢子節菱孢菌",
+   "zhcn": "竹色孢子节菱孢菌"
+  }
+ ],
+ "names_zhcn": [
+  "新竹端隔孢壳菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "bamboo",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ }
+}

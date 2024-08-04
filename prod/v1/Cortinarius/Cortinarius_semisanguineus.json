@@ -1,0 +1,77 @@
+{
+ "genus": "Cortinarius",
+ "name": "semisanguineus",
+ "date": [
+  "06/04/2023,6052017761575271"
+ ],
+ "names_zhtw": [
+  "半血紅絲膜菌"
+ ],
+ "names_en": [],
+ "url": "6052017761575271",
+ "images": [
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Cortinarius_semisanguineus_86ee02f0-02dc-11ee-8fd6-cd1e70502e97_1.jpg"
+  },
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Cortinarius_semisanguineus_86ee02f0-02dc-11ee-8fd6-cd1e70502e97_2.jpg"
+  },
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Cortinarius_semisanguineus_86ee02f0-02dc-11ee-8fd6-cd1e70502e97_3.jpg"
+  },
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Cortinarius_semisanguineus_86ee02f0-02dc-11ee-8fd6-cd1e70502e97_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "半血红丝膜菌"
+ ],
+ "meta": {
+  "CapColors": "4294901760,4289864226,4294931200",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Cortinarius semisanguineus",
+   "cname": "Surprise Webcap",
+   "url": "https://www.inaturalist.org/taxa/125353-Cortinarius-semisanguineus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159027/thumb."
+  }
+ ]
+}

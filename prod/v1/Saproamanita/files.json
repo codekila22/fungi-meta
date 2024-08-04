@@ -1,0 +1,25 @@
+{
+ "name": "Saproamanita",
+ "zhtw": "腐生鵝膏屬",
+ "zhcn": "腐生鹅膏属",
+ "list": [
+  {
+   "name": "Saproamanita manicata",
+   "zhtw": "黃絮鱗腐生鵝膏",
+   "zhcn": "黄絮鳞腐生鹅膏",
+   "img": "Saproamanita_manicata)_6b45e950-2ad1-11ef-b9bc-3f1a9cffe862_1.jpg"
+  },
+  {
+   "name": "Saproamanita flavofloccosa",
+   "zhtw": "黃鱗柱柄腐生鵝膏",
+   "zhcn": "黄鳞柱柄腐生鹅膏",
+   "img": "Saproamanita_flavofloccosa_4_CC BY-NC_范力中.jpg"
+  },
+  {
+   "name": "Saproamanita nauseosa",
+   "zhtw": "厭味腐生鵝膏",
+   "zhcn": "厌味腐生鹅膏",
+   "img": "Saproamanita_nauseosa_1_CC BY-NC_陳雅芬.jpg"
+  }
+ ]
+}

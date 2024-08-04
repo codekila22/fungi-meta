@@ -1,0 +1,97 @@
+{
+ "name": "Marasmiellus",
+ "zhtw": "微皮傘屬",
+ "zhcn": "微皮伞属",
+ "list": [
+  {
+   "name": "Marasmiellus atrostipitatus",
+   "zhtw": "小黑柄微皮傘",
+   "zhcn": "小黑柄微皮伞",
+   "img": "Marasmiellus_atrostipitatus_906b98f0-100b-11ef-a95f-6f3b6dabe4ec_1.jpg"
+  },
+  {
+   "name": "Marasmiellus dendroegrus",
+   "zhtw": "枝狀微皮傘",
+   "zhcn": "枝状微皮伞",
+   "img": "Marasmiellus_dendroegrus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Marasmiellus inoderma",
+   "zhtw": "纖狀微皮傘",
+   "zhcn": "纤状微皮伞",
+   "img": "Marasmiellus_inoderma_e93b1250-6591-11ee-8207-750a47511bb4_3.jpg"
+  },
+  {
+   "name": "Marasmiellus luxurians",
+   "zhtw": "華麗微皮傘",
+   "zhcn": "华丽微皮伞",
+   "current": "Collybiopsis luxurians",
+   "current_zhtw": "華麗擬金錢菇",
+   "current_zhcn": "华丽拟金钱菇",
+   "img": "Collybiopsis_luxurians_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Marasmiellus sp.2",
+   "zhtw": "晶粒微皮傘",
+   "zhcn": "晶粒微皮伞",
+   "img": "Marasmiellus_sp.2_deeced00-f07a-10c6-ab9f-b964904d832f_1.jpg"
+  },
+  {
+   "name": "Marasmiellus affixus",
+   "zhtw": "貼木微皮傘",
+   "zhcn": "贴木微皮伞",
+   "img": "Marasmiellus_affixus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Marasmiellus stenophyllus",
+   "zhtw": "狹褶微皮傘",
+   "zhcn": "狭褶微皮伞",
+   "img": "Marasmiellus_stenophyllus_82ecfe90-0aa7-11ee-9c61-69eb7976568a_1.jpg"
+  },
+  {
+   "name": "Marasmiellus cf. inodermatoides",
+   "zhtw": "疑似擬內皮微皮傘",
+   "zhcn": "疑似拟内皮微皮伞",
+   "img": "Marasmiellus_cf. inodermatoides_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Marasmiellus cf. crassitunicatus",
+   "zhtw": "疑似厚壁微皮傘",
+   "zhcn": "疑似厚壁微皮伞",
+   "img": "Marasmiellus_cf. crassitunicatus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Marasmiellus candidus",
+   "zhtw": "純白微皮傘",
+   "zhcn": "纯白微皮伞",
+   "img": "Marasmiellus_candidus_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Marasmiellus ramealis",
+   "zhtw": "枝生微皮傘",
+   "zhcn": "枝生微皮伞",
+   "img": "Marasmiellus_ramealis_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Marasmiellus tricolor",
+   "zhtw": "三色微皮傘",
+   "zhcn": "三色微皮伞",
+   "img": "Marasmiellus_tricolor_8c6a21f0-2464-11ef-ae7b-2d4195f8299b_2.jpg"
+  },
+  {
+   "name": "Marasmiellus nigripes",
+   "zhtw": "黑柄微皮傘",
+   "zhcn": "黑柄微皮伞",
+   "current": "Tetrapyrgos nigripes",
+   "current_zhtw": "黑柄四角孢傘",
+   "current_zhcn": "黑柄四角孢伞",
+   "img": "Tetrapyrgos_nigripes_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Marasmiellus sp. 1",
+   "zhtw": "白索微皮傘",
+   "zhcn": "白索微皮伞",
+   "img": "Marasmiellus_sp. 1_1_CC BY-NC_陳麗紅.jpg"
+  }
+ ]
+}

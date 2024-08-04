@@ -1,0 +1,79 @@
+{
+ "genus": "Everniastrum",
+ "name": "cirrhatum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "條梅衣"
+ ],
+ "names_en": [],
+ "url": "3478489895594750",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Everniastrum_cirrhatum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Everniastrum_cirrhatum_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Everniastrum_cirrhatum_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Everniastrum_cirrhatum_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Everniastrum_cirrhatum_5_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "条梅衣"
+ ],
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Hypotrachyna cirrhata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/512799-Hypotrachyna-cirrhata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/62739492/thumb.jpeg"
+  }
+ ]
+}

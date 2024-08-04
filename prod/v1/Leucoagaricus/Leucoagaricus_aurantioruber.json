@@ -1,0 +1,83 @@
+{
+ "genus": "Leucoagaricus",
+ "name": "aurantioruber",
+ "date": [
+  "04/12/2024,7220153184761717",
+  "08/01/2023,6284600824983629",
+  "06/17/2023,6100229000087480"
+ ],
+ "names_zhtw": [
+  "橙紅白環蘑"
+ ],
+ "names_en": [],
+ "url": "6100229000087480",
+ "images": [
+  {
+   "author": "Michael Hung",
+   "image_src": "Leucoagaricus_aurantioruber_ca4bd750-0d65-11ee-8a29-3dc655344bd6_1.jpg"
+  },
+  {
+   "author": "Michael Hung",
+   "image_src": "Leucoagaricus_aurantioruber_ca4bd750-0d65-11ee-8a29-3dc655344bd6_2.jpg"
+  },
+  {
+   "author": "Michael Hung",
+   "image_src": "Leucoagaricus_aurantioruber_ca4bd750-0d65-11ee-8a29-3dc655344bd6_3.jpg"
+  },
+  {
+   "author": "Michael Hung",
+   "image_src": "Leucoagaricus_aurantioruber_ca4bd750-0d65-11ee-8a29-3dc655344bd6_4.jpg"
+  },
+  {
+   "author": "高玉玲",
+   "image_src": "Leucoagaricus_aurantioruber_26247c30-fa5a-11ee-87b3-574d7263bd19_1.jpg"
+  },
+  {
+   "author": "高玉玲",
+   "image_src": "Leucoagaricus_aurantioruber_26247c30-fa5a-11ee-87b3-574d7263bd19_2.jpg"
+  },
+  {
+   "author": "高玉玲",
+   "image_src": "Leucoagaricus_aurantioruber_26247c30-fa5a-11ee-87b3-574d7263bd19_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "橙红白环蘑"
+ ],
+ "meta": {
+  "CapColors": "4294083840,4294931200",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ }
+}

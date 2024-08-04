@@ -1,0 +1,83 @@
+{
+ "genus": "Ophiocordyceps",
+ "name": "buquetii",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "捧束蛇形蟲草"
+ ],
+ "names_en": [],
+ "url": "3190260401084369",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Ophiocordyceps_buquetii_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Ophiocordyceps_buquetii_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳群柏",
+   "image_src": "Ophiocordyceps_buquetii_5_CC BY-NC_陳群柏.jpg"
+  },
+  {
+   "author": "陳群柏",
+   "image_src": "Ophiocordyceps_buquetii_6_CC BY-NC_陳群柏.jpg"
+  },
+  {
+   "author": "陳群柏",
+   "image_src": "Ophiocordyceps_buquetii_7_CC BY-NC_陳群柏.jpg"
+  },
+  {
+   "author": "陳群柏",
+   "image_src": "Ophiocordyceps_buquetii_8_CC BY-NC_陳群柏.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "捧束蛇形虫草"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294960353,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Ophiocordyceps buquetii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1102768-Ophiocordyceps-buquetii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163058177/thumb.jpg"
+  }
+ ]
+}

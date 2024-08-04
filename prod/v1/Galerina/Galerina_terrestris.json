@@ -1,0 +1,80 @@
+{
+ "genus": "Galerina",
+ "name": "terrestris",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "土棲盔孢傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5616",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_terrestris_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_terrestris_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_terrestris_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_terrestris_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_terrestris_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_terrestris_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Galerina_terrestris_7_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "土栖盔孢伞"
+ ],
+ "meta": {
+  "CapColors": "4291605388,4290547599",
+  "CapDiamRangeValues": "4,8",
+  "CapShape": "conical",
+  "CapTexture": "",
+  "CapMargin": "striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4286141768",
+  "HymeniumSporePrints": "4286141768",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4286141768",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ }
+}

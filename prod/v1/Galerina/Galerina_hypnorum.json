@@ -1,0 +1,146 @@
+{
+ "genus": "Galerina",
+ "name": "hypnorum",
+ "date": [
+  "03/17/2024,7109231119187258",
+  "01/09/2024,6856035657840140",
+  "12/14/2023,6789706244473082",
+  "08/15/2023,6299173816859663",
+  "07/03/2023,6154450197998693",
+  "05/09/2023,5962140423896339",
+  "10/29/2022,5376115209165533",
+  "04/14/2022,4811780435599016",
+  "02/25/2022,4684715708305490",
+  "01/07/2022,4510298832413846",
+  "01/22/2021,3463850890391984",
+  "09/25/2020,3176420112468398",
+  "08/15/2020,3037237483053329",
+  "07/17/2017,1260417924068636"
+ ],
+ "names_zhtw": [
+  "苔蘚盔孢傘"
+ ],
+ "names_en": [
+  "Moss Bell"
+ ],
+ "url": "3463850890391984",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_hypnorum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_hypnorum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_hypnorum_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_hypnorum_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Galerina_hypnorum_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Galerina_hypnorum_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Galerina_hypnorum_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Galerina_hypnorum_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Galerina_hypnorum_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Galerina_hypnorum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_hypnorum_f7092420-a4a3-11ee-867d-13f923906e77_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_hypnorum_f7092420-a4a3-11ee-867d-13f923906e77_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_hypnorum_f7092420-a4a3-11ee-867d-13f923906e77_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_hypnorum_6f415fb0-b2c9-11ee-a9d6-c5ef18c32baa_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_hypnorum_6f415fb0-b2c9-11ee-a9d6-c5ef18c32baa_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_hypnorum_6f415fb0-b2c9-11ee-a9d6-c5ef18c32baa_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_hypnorum_6f415fb0-b2c9-11ee-a9d6-c5ef18c32baa_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "苔藓盔孢伞"
+ ],
+ "meta": {
+  "CapColors": "4291589922,4290278195",
+  "CapDiamRangeValues": "5,15",
+  "CapShape": "conical,convex",
+  "CapTexture": "smooth",
+  "CapMargin": "striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4286141768",
+  "HymeniumSporePrints": "4286141768",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4286141768",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "moss",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Rickenella fibula,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "絲狀里肯菇,,",
+  "la_zhcn": "丝状里肯菇,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Galerina hypnorum",
+   "cname": "Moss Bell",
+   "url": "https://www.inaturalist.org/taxa/179175-Galerina-hypnorum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41423328/thumb.jpg"
+  }
+ ]
+}

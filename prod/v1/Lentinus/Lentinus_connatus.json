@@ -1,0 +1,106 @@
+{
+ "genus": "Lentinus",
+ "name": "connatus",
+ "date": [
+  "04/18/2023,5892613297515719",
+  "05/15/2009,3653308101446261"
+ ],
+ "names_zhtw": [
+  "合生斗菇",
+  "環柄香菇"
+ ],
+ "names_en": [],
+ "url": "3653308101446261",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Lentinus_sajor-caju_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lentinus_sajor-caju_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lentinus_sajor-caju_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lentinus_sajor-caju_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lentinus_sajor-caju_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lentinus_sajor-caju_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lentinus_sajor-caju_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lentinus_sajor-caju_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lentinus_sajor-caju_6_CC BY-NC.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Lentinus sajor-caju",
+   "zhtw": "環柄斗菇",
+   "zhcn": "环柄斗菇"
+  }
+ ],
+ "names_zhcn": [
+  "合生斗菇",
+  "环柄香菇"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294967295,4292664540",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Lentinus connatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1009172-Lentinus-connatus",
+   "src": "https://static.inaturalist.org/photos/126130528/thumb.jpg"
+  }
+ ]
+}

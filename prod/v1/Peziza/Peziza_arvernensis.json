@@ -1,0 +1,72 @@
+{
+ "genus": "Peziza",
+ "name": "arvernensis",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "阿地盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/937",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Peziza_arvernensis_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Peziza_arvernensis_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Peziza_arvernensis_3_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "阿地盘菌"
+ ],
+ "meta": {
+  "CapColors": "4287317267",
+  "CapDiamRangeValues": "30,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Peziza arvernensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/179096-Peziza-arvernensis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13785164/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "name": "Physarum",
+ "zhtw": "絨泡黏菌屬",
+ "zhcn": "绒泡黏菌属",
+ "list": [
+  {
+   "name": "Physarum roseum",
+   "zhtw": "薔薇絨泡黏菌",
+   "zhcn": "蔷薇绒泡黏菌",
+   "img": "Physarum_roseum_1_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "name": "Physarum lateritium",
+   "zhtw": "磚紅絨泡黏菌",
+   "zhcn": "砖红绒泡黏菌",
+   "img": "Physarum_lateritium_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Physarum cf. javanicum",
+   "zhtw": "疑似爪哇絨泡黏菌",
+   "zhcn": "疑似爪哇绒泡黏菌",
+   "img": "Physarum_cf.  javanicum_83e176d0-ac70-11ee-8cd2-6fea62f80243_1.jpg"
+  },
+  {
+   "name": "Physarum superbum",
+   "zhtw": "華麗絨泡黏菌",
+   "zhcn": "华丽绒泡黏菌",
+   "img": "Physarum_superbum_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Physarum bogoriense",
+   "zhtw": "星裂絨泡黏菌",
+   "zhcn": "星裂绒泡黏菌",
+   "img": "Physarum_bogoriense_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Physarum mutabile",
+   "zhtw": "變絨泡黏菌",
+   "zhcn": "变绒泡黏菌",
+   "img": "Physarum_mutabile_86c479a0-25ee-1077-8f2a-038c3d9c1715_1.jpg"
+  },
+  {
+   "name": "Physarum virescens",
+   "zhtw": "黃綠絨泡黏菌",
+   "zhcn": "黄绿绒泡黏菌",
+   "img": "Physarum_virescens_9_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Physarum leucopus",
+   "zhtw": "白柄絨泡黏菌",
+   "zhcn": "白柄绒泡黏菌",
+   "img": "Physarum_leucopus_4d162200-231b-11ef-ae53-a9ee693680d0_1.jpg"
+  },
+  {
+   "name": "Physarum sessile",
+   "zhtw": "無柄絨泡黏菌",
+   "zhcn": "无柄绒泡黏菌",
+   "img": "Physarum_sessile_ef723760-27f7-11ef-9bb2-07e47d212447_1.jpg"
+  },
+  {
+   "name": "Physarum melleum f. luteum",
+   "zhtw": "蜜黃絨泡黏菌黃色型",
+   "zhcn": "蜜黄绒泡黏菌黄色型",
+   "img": "Physarum_melleum f. luteum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Physarum compressum",
+   "zhtw": "扁絨泡黏菌",
+   "zhcn": "扁绒泡黏菌",
+   "img": "Physarum_compressum_b2f81780-aa90-11ee-9edf-b7cae0526145_1.jpg"
+  },
+  {
+   "name": "Physarum album",
+   "zhtw": "白絨泡黏菌",
+   "zhcn": "白绒泡黏菌",
+   "img": "Physarum_album_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Physarum umbiliciferum",
+   "zhtw": "臍狀絨泡黏菌",
+   "zhcn": "脐状绒泡黏菌",
+   "img": "Physarum_umbiliciferum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Physarum cremiluteum",
+   "zhtw": "乳黃絨泡黏菌",
+   "zhcn": "乳黄绒泡黏菌",
+   "img": "Physarum_cremiluteum_7f281930-ac8b-11ee-9f50-138e01ea51cf_2.jpg"
+  },
+  {
+   "name": "Physarum pezizoideum",
+   "zhtw": "盤頭絨泡黏菌",
+   "zhcn": "盘头绒泡黏菌",
+   "img": "Physarum_pezizoideum_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Physarum plicatum",
+   "zhtw": "皺褶絨泡黏菌",
+   "zhcn": "皱褶绒泡黏菌",
+   "img": "Physarum_plicatum_a671e6b0-15ae-11ef-a6ef-73e7c98ed184_1.jpg"
+  },
+  {
+   "name": "Physarum stellatum",
+   "zhtw": "星狀絨泡黏菌",
+   "zhcn": "星状绒泡黏菌",
+   "img": "Physarum_stellatum_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Physarum luteolum",
+   "zhtw": "鮮黃絨泡黏菌",
+   "zhcn": "鲜黄绒泡黏菌",
+   "img": "Physarum_luteolum_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Physarum pusillum",
+   "zhtw": "小絨泡黏菌",
+   "zhcn": "小绒泡黏菌",
+   "img": "Physarum_pusillum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Physarum bivalve",
+   "zhtw": "雙瓣絨泡黏菌",
+   "zhcn": "双瓣绒泡黏菌",
+   "img": "Physarum_bivalve_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Physarum nucleatum",
+   "zhtw": "鈣核絨泡黏菌",
+   "zhcn": "钙核绒泡黏菌",
+   "img": "Physarum_nucleatum_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Physarum oblatum",
+   "zhtw": "扁圓絨泡黏菌",
+   "zhcn": "扁圆绒泡黏菌",
+   "img": "Physarum_oblatum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Physarum viride",
+   "zhtw": "綠絨泡黏菌",
+   "zhcn": "绿绒泡黏菌",
+   "img": "Physarum_viride_95fe78e0-1585-11ee-99d8-5de0edb92559_7.jpg"
+  },
+  {
+   "name": "Physarum melleum",
+   "zhtw": "蜜黃絨泡黏菌",
+   "zhcn": "蜜黄绒泡黏菌",
+   "img": "Physarum_melleum_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Physarum cinereum",
+   "zhtw": "灰絨泡黏菌",
+   "zhcn": "灰绒泡黏菌",
+   "img": "Physarum_cinereum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Physarum tenerum",
+   "zhtw": "細弱絨泡黏菌",
+   "zhcn": "细弱绒泡黏菌",
+   "img": "Physarum_tenerum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Physarum globuliferum",
+   "zhtw": "球實絨泡黏菌",
+   "zhcn": "球实绒泡黏菌",
+   "current": "Nannengaella globulifera",
+   "current_zhtw": "球實絨泡黏菌",
+   "current_zhcn": "球实绒泡黏菌",
+   "img": "Physarum_globuliferum_fd796400-1cee-11ef-b25e-6d0adb436882_1.jpg"
+  },
+  {
+   "name": "Physarum decipiens",
+   "zhtw": "鈣絲絨泡黏菌",
+   "zhcn": "钙丝绒泡黏菌",
+   "img": "Physarum_decipiens_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Physarum psittacinum",
+   "zhtw": "鸚鵡絨泡黏菌",
+   "zhcn": "鹦鹉绒泡黏菌",
+   "img": "Physarum_psittacinum_2323ad80-175d-1085-aeae-49fd4a480769_1.jpg"
+  },
+  {
+   "name": "Physarum crateriforme",
+   "zhtw": "杯形絨泡黏菌",
+   "zhcn": "杯形绒泡黏菌",
+   "img": "Physarum_crateriforme_8_CC BY-NC_陳雅芬.jpg"
+  }
+ ]
+}

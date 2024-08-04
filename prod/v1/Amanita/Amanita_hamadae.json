@@ -1,0 +1,88 @@
+{
+ "genus": "Amanita",
+ "name": "hamadae",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "黃邊鵝膏"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/6335",
+ "images": [
+  {
+   "author": "張鈺芳",
+   "image_src": "Amanita_hamadae_1_CC BY-NC_張鈺芳.jpg"
+  },
+  {
+   "author": "張鈺芳",
+   "image_src": "Amanita_hamadae_2_CC BY-NC_張鈺芳.jpg"
+  },
+  {
+   "author": "張鈺芳",
+   "image_src": "Amanita_hamadae_3_CC BY-NC_張鈺芳.jpg"
+  },
+  {
+   "author": "張鈺芳",
+   "image_src": "Amanita_hamadae_4_CC BY-NC_張鈺芳.jpg"
+  },
+  {
+   "author": "張鈺芳",
+   "image_src": "Amanita_hamadae_5_CC BY-NC_張鈺芳.jpg"
+  },
+  {
+   "author": "張鈺芳",
+   "image_src": "Amanita_hamadae_6_CC BY-NC_張鈺芳.jpg"
+  },
+  {
+   "author": "張鈺芳",
+   "image_src": "Amanita_hamadae_7_CC BY-NC_張鈺芳.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄边鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4292519200,4288244511",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita hamadae",
+   "cname": "Hamada's Ringless Amanita",
+   "url": "https://www.inaturalist.org/taxa/895586-Amanita-hamadae",
+   "src": ""
+  }
+ ]
+}

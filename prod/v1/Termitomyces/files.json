@@ -1,0 +1,25 @@
+{
+ "name": "Termitomyces",
+ "zhtw": "蟻巢傘屬",
+ "zhcn": "蚁巢伞属",
+ "list": [
+  {
+   "name": "Termitomyces intermedius",
+   "zhtw": "中間型蟻巢傘",
+   "zhcn": "中间型蚁巢伞",
+   "img": "Termitomyces_intermedius_1_CC BY-NC_彭成標.jpg"
+  },
+  {
+   "name": "Termitomyces microcarpus",
+   "zhtw": "小蟻巢傘",
+   "zhcn": "小蚁巢伞",
+   "img": "Termitomyces_microcarpus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Termitomyces eurrhizus",
+   "zhtw": "真根蟻巢傘",
+   "zhcn": "真根蚁巢伞",
+   "img": "Termitomyces_eurrhizus_1_CC BY-NC_江志緯.jpg"
+  }
+ ]
+}

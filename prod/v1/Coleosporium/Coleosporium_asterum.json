@@ -1,0 +1,80 @@
+{
+ "genus": "Coleosporium",
+ "name": "asterum",
+ "date": [
+  "03/28/2024,7156957184414651"
+ ],
+ "names_zhtw": [
+  "紫菀鞘銹菌"
+ ],
+ "names_en": [],
+ "url": "7156957184414651",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_asterum_7eed7700-15cf-11ef-98aa-7d2bb79a2778_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_asterum_7eed7700-15cf-11ef-98aa-7d2bb79a2778_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_asterum_7eed7700-15cf-11ef-98aa-7d2bb79a2778_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_asterum_7eed7700-15cf-11ef-98aa-7d2bb79a2778_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_asterum_7eed7700-15cf-11ef-98aa-7d2bb79a2778_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫菀鞘锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "寄生在菊科山白蘭葉片上的真菌。"
+ },
+ "inaturalist": [
+  {
+   "name": "Coleosporium asterum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/148086-Coleosporium-asterum",
+   "src": "https://static.inaturalist.org/photos/126203333/thumb.jpg"
+  }
+ ]
+}

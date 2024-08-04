@@ -1,0 +1,76 @@
+{
+ "name": "Cordyceps",
+ "zhtw": "蟲草屬",
+ "zhcn": "虫草属",
+ "list": [
+  {
+   "name": "Cordyceps farinosa",
+   "zhtw": "粉粒擬青黴",
+   "zhcn": "粉粒拟青霉",
+   "img": "Paecilomyces_farinosus_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Cordyceps martialis",
+   "zhtw": "珊瑚蟲草",
+   "zhcn": "珊瑚虫草",
+   "img": "Cordyceps_martialis_1_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "name": "Cordyceps cylindrica",
+   "zhtw": "柱形蟲草",
+   "zhcn": "柱形虫草",
+   "img": "Cordyceps_cylindrica_1_CC BY-NC_Becca Fong.jpg"
+  },
+  {
+   "name": "Cordyceps militaris var. sphaerocephala",
+   "zhtw": "球形蛹蟲草",
+   "zhcn": "球形蛹虫草",
+   "img": "Cordyceps_militaris var. sphaerocephala_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Cordyceps formosana",
+   "zhtw": "台灣蟲草",
+   "zhcn": "台湾虫草",
+   "img": "Cordyceps_formosana_9e6bec70-cb96-11ee-86ae-45e5552ba9df_2.jpg"
+  },
+  {
+   "name": "Cordyceps mantidicola",
+   "zhtw": "螵蛸蟲草",
+   "zhcn": "螵蛸虫草",
+   "img": "Cordyceps_mantidicola_47f15960-cfd0-11ed-9247-b17936afe68b_1.jpg"
+  },
+  {
+   "name": "Cordyceps kusanagiense",
+   "zhtw": "草薙蟲草",
+   "zhcn": "草薙虫草",
+   "current": "Yosiokobayasia kusanaginensis",
+   "current_zhtw": "草薙小林蟲草",
+   "current_zhcn": "草薙小林虫草",
+   "img": "Yosiokobayasia_kusanaginensis_6_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Cordyceps tenuipes",
+   "zhtw": "蛾蛹蟲草",
+   "zhcn": "蛾蛹虫草",
+   "img": "Paecilomyces_tenuipes_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Cordyceps militaris",
+   "zhtw": "蛹蟲草",
+   "zhcn": "蛹虫草",
+   "img": "Cordyceps_militaris_c5c54350-ac4e-11ee-8a1d-732b1b90dbe6_1.jpg"
+  },
+  {
+   "name": "Cordyceps roseostromata",
+   "zhtw": "紅座蟲草",
+   "zhcn": "红座虫草",
+   "img": "Cordyceps_roseostromata_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Cordyceps ninchukispora",
+   "zhtw": "雙節棍蟲草",
+   "zhcn": "双节棍虫草",
+   "img": "Cordyceps_ninchukispora_4_CC BY-NC_向高世.jpg"
+  }
+ ]
+}

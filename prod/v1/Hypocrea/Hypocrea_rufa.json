@@ -1,0 +1,119 @@
+{
+ "genus": "Hypocrea",
+ "name": "rufa",
+ "date": [
+  "01/19/2022"
+ ],
+ "names_zhtw": [
+  "紅棕肉座菌"
+ ],
+ "names_en": [],
+ "url": "4231175843659481",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Hypocrea_rufa_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypocrea_rufa_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Hypocrea_rufa_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Hypocrea_rufa_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Hypocrea_rufa_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypocrea_rufa_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypocrea_rufa_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hypocrea_rufa_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Hypocrea_rufa_4_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Hypocrea_rufa_2_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Hypocrea_rufa_3_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Hypocrea_rufa_1_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Hypocrea_rufa_5_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Hypocrea_rufa_6_CC BY-NC_陳啟仁.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "红棕肉座菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4286578688,4291605388",
+  "CapDiamRangeValues": "1,6",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Trichoderma viride,,",
+  "Note": "綠木黴菌(Trichoderma viride)為其無性世代。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "綠木黴菌,,",
+  "la_zhcn": "绿木霉菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Trichoderma viride",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/352599-Trichoderma-viride",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/19630876/thumb.jpg"
+  }
+ ]
+}

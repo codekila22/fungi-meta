@@ -1,0 +1,84 @@
+{
+ "genus": "Fuscoporia",
+ "name": "formosana",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "福爾摩沙褐孔菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/758",
+ "images": [
+  {
+   "author": "陳啟仁",
+   "image_src": "Fuscoporia_formosana_1_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Fuscoporia_formosana_2_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Fuscoporia_formosana_3_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Fuscoporia_formosana_4_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Fuscoporia_formosana_5_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Fuscoporia_formosana_6_CC BY-NC_陳啟仁.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "福尔摩沙褐孔菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Fuscoporia formosana",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/895564-Fuscoporia-formosana",
+   "src": ""
+  }
+ ]
+}

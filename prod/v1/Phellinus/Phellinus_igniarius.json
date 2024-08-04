@@ -1,0 +1,124 @@
+{
+ "genus": "Phellinus",
+ "name": "igniarius",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "火木層孔菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5681",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Phellinus_igniarius_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Phellinus_igniarius_1_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Phellinus_igniarius_2_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Phellinus_igniarius_3_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Phellinus_igniarius_4_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Phellinus_igniarius_5_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phellinus_igniarius_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phellinus_igniarius_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phellinus_igniarius_9_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phellinus_igniarius_10_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phellinus_igniarius_11_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phellinus_igniarius_12_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phellinus_igniarius_13_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "火木层孔菌"
+ ],
+ "meta": {
+  "CapColors": "4287317267,4290278195",
+  "CapDiamRangeValues": "50,200",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "4,6",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Phellinus igniarius",
+   "cname": "Willow Bracket",
+   "url": "https://www.inaturalist.org/taxa/125136-Phellinus-igniarius",
+   "src": "https://static.inaturalist.org/photos/98649013/thumb.jpg"
+  },
+  {
+   "name": "Phellinus igniarius var. igniarius",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1081973-Phellinus-igniarius-igniarius",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/197738943/thumb.jpeg"
+  },
+  {
+   "name": "Phellinus igniarius var. trivialis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1061180-Phellinus-igniarius-trivialis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/72186545/thumb.jpeg"
+  }
+ ]
+}

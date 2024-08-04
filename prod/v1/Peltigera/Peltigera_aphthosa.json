@@ -1,0 +1,86 @@
+{
+ "genus": "Peltigera",
+ "name": "aphthosa",
+ "date": [
+  "11/01/2023,6592819240828451"
+ ],
+ "names_zhtw": [
+  "綠皮地卷"
+ ],
+ "names_en": [],
+ "url": "6592819240828451",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_aphthosa_f06db410-7bc1-11ee-ba05-1d9f4b40b1ae_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_aphthosa_f06db410-7bc1-11ee-ba05-1d9f4b40b1ae_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_aphthosa_f06db410-7bc1-11ee-ba05-1d9f4b40b1ae_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_aphthosa_f06db410-7bc1-11ee-ba05-1d9f4b40b1ae_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_aphthosa_f06db410-7bc1-11ee-ba05-1d9f4b40b1ae_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "绿皮地卷"
+ ],
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Peltigera aphthosa",
+   "cname": "Freckled Pelt Lichen",
+   "url": "https://www.inaturalist.org/taxa/119675-Peltigera-aphthosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1666777/thumb.jpg"
+  },
+  {
+   "name": "Peltigera leucophlebia",
+   "cname": "Ruffled Freckled Pelt Lichen",
+   "url": "https://www.inaturalist.org/taxa/119676-Peltigera-leucophlebia",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11517399/thumb.jpg"
+  }
+ ]
+}

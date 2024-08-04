@@ -1,0 +1,92 @@
+{
+ "genus": "Peltigera",
+ "name": "neopolydactyla",
+ "date": [
+  "12/01/2022"
+ ],
+ "names_zhtw": [
+  "長根地卷"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1596",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_neopolydactyla_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_neopolydactyla_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_neopolydactyla_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_neopolydactyla_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_neopolydactyla_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_neopolydactyla_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_neopolydactyla_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_neopolydactyla_1_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "长根地卷"
+ ],
+ "meta": {
+  "CapColors": "4286611456,4294944000",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,ground,rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "喜著生於有潮濕苔蘚的土壤、岩壁或樹幹上。地衣體膨脹有皺紋。"
+ },
+ "inaturalist": [
+  {
+   "name": "Peltigera neopolydactyla",
+   "cname": "Carpet Pelt Lichen",
+   "url": "https://www.inaturalist.org/taxa/147374-Peltigera-neopolydactyla",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/194071/thumb.jpg"
+  }
+ ]
+}

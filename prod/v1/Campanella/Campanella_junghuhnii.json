@@ -1,0 +1,155 @@
+{
+ "genus": "Campanella",
+ "name": "junghuhnii",
+ "date": [
+  "04/25/2024,7263427320434303",
+  "11/17/2023,6677138599063181",
+  "10/11/2023,6505766939533682",
+  "09/05/2023,6365343353576042",
+  "06/25/2023,6131816710262042",
+  "06/02/2023,6041431942633853",
+  "05/25/2023,6019135818196799",
+  "08/15/2022,5331998843577170",
+  "10/17/2021,4234102260033506",
+  "06/05/2021,4399490340161363",
+  "02/28/2021,3568841299892942"
+ ],
+ "names_zhtw": [
+  "脈褶菌"
+ ],
+ "names_en": [],
+ "url": "3568841299892942",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Campanella_junghuhnii_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Campanella_junghuhnii_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Campanella_junghuhnii_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Campanella_junghuhnii_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Campanella_junghuhnii_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_9_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_10_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_11_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_12_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Campanella_junghuhnii_13_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanella_junghuhnii_d33e62b0-8bfa-11ee-9099-bdd1ae1b7949_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanella_junghuhnii_d33e62b0-8bfa-11ee-9099-bdd1ae1b7949_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanella_junghuhnii_d33e62b0-8bfa-11ee-9099-bdd1ae1b7949_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "脉褶菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "5,16",
+  "CapShape": "fan",
+  "CapTexture": "smooth",
+  "CapMargin": "entire",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "subdistant",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "smooth",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "lateral,absent",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "無菌柄或極短柄。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Campanella junghuhnii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/709690-Campanella-junghuhnii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/123923998/thumb.jpeg"
+  }
+ ]
+}

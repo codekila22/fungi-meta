@@ -1,0 +1,76 @@
+{
+ "genus": "Placopsis",
+ "name": "lambii",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "蘭布癭茶漬"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/2907",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Placopsis_lambii_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Placopsis_lambii_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Placopsis_lambii_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Placopsis_lambii_4_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "兰布瘿茶渍"
+ ],
+ "meta": {
+  "CapColors": "4293313475,4290547599,4286611456",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Placopsis lambii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/463790-Placopsis-lambii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6182767/thumb.jpg"
+  }
+ ]
+}

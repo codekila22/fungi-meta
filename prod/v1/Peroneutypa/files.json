@@ -1,0 +1,22 @@
+{
+ "name": "Peroneutypa",
+ "zhtw": "長頸座殼屬",
+ "zhcn": "长颈座壳属",
+ "list": [
+  {
+   "name": "Peroneutypa heteracantha",
+   "zhtw": "異棘長頸座殻",
+   "zhcn": "异棘长颈座壳",
+   "current": "Peroneutypa scoparia",
+   "current_zhtw": "掃帚長頸座殼",
+   "current_zhcn": "扫帚长颈座壳",
+   "img": "Peroneutypa_scoparia_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Peroneutypa scoparia",
+   "zhtw": "掃帚長頸座殼",
+   "zhcn": "扫帚长颈座壳",
+   "img": "Peroneutypa_scoparia_1_CC BY-NC_陳雅芬.jpg"
+  }
+ ]
+}

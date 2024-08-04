@@ -1,0 +1,75 @@
+{
+ "genus": "Asterophora",
+ "name": "lycoperdoides",
+ "date": [
+  "09/18/2015,786918004751966"
+ ],
+ "names_zhtw": [
+  "星孢寄生菇"
+ ],
+ "names_en": [],
+ "url": "786918004751966",
+ "images": [
+  {
+   "author": "楊曆縣",
+   "image_src": "Asterophora_lycoperdoides_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "楊曆縣",
+   "image_src": "Asterophora_lycoperdoides_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "楊曆縣",
+   "image_src": "Asterophora_lycoperdoides_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "楊曆縣",
+   "image_src": "Asterophora_lycoperdoides_1_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "星孢寄生菇"
+ ],
+ "meta": {
+  "CapColors": "4291605388,4290822336,4294309365",
+  "CapDiamRangeValues": "20,50",
+  "CapShape": "flat",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "10,25",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "傘面中央部位有一圈褐色厚粉狀無性孢子。"
+ },
+ "inaturalist": [
+  {
+   "name": "Asterophora lycoperdoides",
+   "cname": "Powder Cap",
+   "url": "https://www.inaturalist.org/taxa/125378-Asterophora-lycoperdoides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/104981414/thumb.jpeg"
+  }
+ ]
+}

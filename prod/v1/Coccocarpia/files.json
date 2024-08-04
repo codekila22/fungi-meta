@@ -1,0 +1,25 @@
+{
+ "name": "Coccocarpia",
+ "zhtw": "瓦衣屬",
+ "zhcn": "瓦衣属",
+ "list": [
+  {
+   "name": "Coccocarpia palmicola",
+   "zhtw": "粗瓦衣",
+   "zhcn": "粗瓦衣",
+   "img": "Coccocarpia_palmicola_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Coccocarpia glaucina",
+   "zhtw": "槽瓦衣",
+   "zhcn": "槽瓦衣",
+   "img": "Coccocarpia_glaucina_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Coccocarpia pellita",
+   "zhtw": "鱗瓦衣",
+   "zhcn": "鳞瓦衣",
+   "img": "Coccocarpia_pellita_1_CC BY-NC_陳麗紅.jpg"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "name": "Diaporthe",
+ "zhtw": "間座殼菌屬",
+ "zhcn": "间座壳菌属",
+ "list": [
+  {
+   "name": "Diaporthe citri",
+   "zhtw": "柑橘黑點病",
+   "zhcn": "柑橘黑点病",
+   "img": "Diaporthe_citri_0003d660-c632-11ee-b844-397e416a85a9_1.jpg"
+  },
+  {
+   "name": "Diaporthe arctii",
+   "zhtw": "牛蒡間座殼菌",
+   "zhcn": "牛蒡间座壳菌",
+   "img": "Diaporthe_arctii_1_CC BY-NC_柯文俊.jpg"
+  }
+ ]
+}

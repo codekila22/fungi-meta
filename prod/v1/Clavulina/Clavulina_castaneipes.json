@@ -1,0 +1,142 @@
+{
+ "genus": "Clavulina",
+ "name": "castaneipes",
+ "date": [
+  "08/01/2023,6255341884576190",
+  "07/04/2023,6163217263788653",
+  "07/17/2021,3961118177331917"
+ ],
+ "names_zhtw": [
+  "栗色鎖瑚菌"
+ ],
+ "names_en": [],
+ "url": "3961118177331917",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavulina_castaneipes_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavulina_castaneipes_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavulina_castaneipes_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavulina_castaneipes_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavulina_castaneipes_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavulina_castaneipes_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavulina_castaneipes_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavulina_castaneipes_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_castaneipes_87cacec0-1b90-11ee-9f56-bd7e8ff0be87_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_castaneipes_87cacec0-1b90-11ee-9f56-bd7e8ff0be87_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_castaneipes_87cacec0-1b90-11ee-9f56-bd7e8ff0be87_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_castaneipes_87cacec0-1b90-11ee-9f56-bd7e8ff0be87_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_castaneipes_87cacec0-1b90-11ee-9f56-bd7e8ff0be87_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_castaneipes_4de0efe0-3117-11ee-ada9-f1edaf2debfe_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_castaneipes_4de0efe0-3117-11ee-ada9-f1edaf2debfe_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_castaneipes_4de0efe0-3117-11ee-ada9-f1edaf2debfe_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_castaneipes_4de0efe0-3117-11ee-ada9-f1edaf2debfe_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "栗色锁瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4293313475,4294957753,4291605388",
+  "CapDiamRangeValues": "20,30",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Clavulina castaneipes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1127575-Clavulina-castaneipes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/145842876/thumb.jpg"
+  },
+  {
+   "name": "Clavulina castaneipes var. lignicola",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1347950-Clavulina-castaneipes-lignicola",
+   "src": ""
+  },
+  {
+   "name": "Clavulina castaneipes var. castaneipes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1347951-Clavulina-castaneipes-castaneipes",
+   "src": ""
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "genus": "Mycena",
+ "name": "albidocapillaris",
+ "date": [
+  "01/12/2019,1868829826560773"
+ ],
+ "names_zhtw": [
+  "白髮小菇"
+ ],
+ "names_en": [],
+ "url": "1868829826560773",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_albidocapillaris_36362f30-021a-11ee-a502-6578876f9c55_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_albidocapillaris_36362f30-021a-11ee-a502-6578876f9c55_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_albidocapillaris_36362f30-021a-11ee-a502-6578876f9c55_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "白发小菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena albidocapillaris",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/355936-Mycena-albidocapillaris",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8237191/thumb.jpg"
+  }
+ ]
+}

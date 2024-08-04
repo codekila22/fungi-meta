@@ -1,0 +1,74 @@
+{
+ "genus": "Agaricus",
+ "name": "dulcidulus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "紫檀木色蘑菇"
+ ],
+ "names_en": [
+  "Rosy Wood Mushroom"
+ ],
+ "url": "https://fungimap.biodiv.tw/pages/586",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Agaricus_dulcidulus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Agaricus_dulcidulus_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Agaricus_dulcidulus_3_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫檀木色蘑菇"
+ ],
+ "meta": {
+  "CapColors": "4294947775,4286141768,4293313475",
+  "CapDiamRangeValues": "20,70",
+  "CapShape": "convex,flat",
+  "CapTexture": "fibrous",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4286141768",
+  "HymeniumSporePrints": "4286141768",
+  "HymeniumGillArrangement": "close",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "smooth",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
+  "StalkBase": "bulbous,clavate",
+  "StalkDiamRangeValuess": "4,8",
+  "StalkLengthRangeValuess": "20,50",
+  "Rareness": "occacional",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Agaricus dulcidulus",
+   "cname": "Rosy Wood Mushroom",
+   "url": "https://www.inaturalist.org/taxa/480763-Agaricus-dulcidulus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/56339874/thumb.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "genus": "Vararia",
+ "name": "investiens",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "硬叉絲革菌"
+ ],
+ "names_en": [],
+ "url": "3668232339953837",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Vararia_investiens_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Vararia_investiens_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Vararia_investiens_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Vararia_investiens_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "硬叉丝革菌"
+ ],
+ "meta": {
+  "CapColors": "4290623339,4285238819",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Vararia investiens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/384715-Vararia-investiens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8971536/thumb.jpeg"
+  }
+ ]
+}

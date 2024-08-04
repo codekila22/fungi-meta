@@ -1,0 +1,112 @@
+{
+ "name": "Psathyrella",
+ "zhtw": "小脆柄菇屬",
+ "zhcn": "小脆柄菇属",
+ "list": [
+  {
+   "name": "Psathyrella candolleana",
+   "zhtw": "黃蓋小脆柄菇",
+   "zhcn": "黄盖小脆柄菇",
+   "current": "Candolleomyces candolleanus",
+   "current_zhtw": "黃蓋坎多氏菌",
+   "current_zhcn": "黄盖坎多氏菌",
+   "img": "Candolleomyces_candolleanus_286b69c0-0ad3-11ef-89e4-073137a8e9b6_1.jpg"
+  },
+  {
+   "name": "Psathyrella obtusata",
+   "zhtw": "鈍頂小脆柄菇",
+   "zhcn": "钝顶小脆柄菇",
+   "img": "Psathyrella_obtusata_1ae836f0-1d96-11ee-99a4-57c5ffd35b0b_1.jpg"
+  },
+  {
+   "name": "Psathyrella trechispora",
+   "zhtw": "糙孢小脆柄菇",
+   "zhcn": "糙孢小脆柄菇",
+   "img": "Psathyrella_trechispora_58915d50-3c3c-11ee-8000-a7c8c6037120_1.jpg"
+  },
+  {
+   "name": "Psathyrella piluliformis",
+   "zhtw": "丸形小脆柄菇",
+   "zhcn": "丸形小脆柄菇",
+   "img": "Psathyrella_piluliformis_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Psathyrella delineata",
+   "zhtw": "凸紋小脆柄菇",
+   "zhcn": "凸纹小脆柄菇",
+   "img": "Psathyrella_delineata_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Psathyrella fibrillosa",
+   "zhtw": "纖絨小脆柄菇",
+   "zhcn": "纤绒小脆柄菇",
+   "img": "Psathyrella_fibrillosa_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Psathyrella albipes",
+   "zhtw": "白足小脆柄菇",
+   "zhcn": "白足小脆柄菇",
+   "current": "Candolleomyces albipes",
+   "current_zhtw": "白足坎多氏菌",
+   "current_zhcn": "白足坎多氏菌",
+   "img": "Psathyrella_albipes_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Psathyrella rugocephala",
+   "zhtw": "皺蓋小脆柄菇",
+   "zhcn": "皱盖小脆柄菇",
+   "img": "Psathyrella_rugocephala_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Psathyrella spintrigera",
+   "zhtw": "白絨毛小脆柄菇",
+   "zhcn": "白绒毛小脆柄菇",
+   "img": "Psathyrella_spintrigera_09730850-e696-11ed-8676-9fca3d13c1dc_2.jpg"
+  },
+  {
+   "name": "Psathyrella longistriata",
+   "zhtw": "條環小脆柄菇",
+   "zhcn": "条环小脆柄菇",
+   "img": "Psathyrella_longistriata_e4753880-4184-11ee-b60e-6b57731f401a_1.jpg"
+  },
+  {
+   "name": "Psathyrella olympiana",
+   "zhtw": "奧林匹亞小脆柄菇",
+   "zhcn": "奥林匹亚小脆柄菇",
+   "img": "Psathyrella_olympiana_61826ab0-de2f-10c5-9feb-454e2763b4c9_1.jpg"
+  },
+  {
+   "name": "Psathyrella velutina",
+   "zhtw": "毯毛小脆柄菇",
+   "zhcn": "毯毛小脆柄菇",
+   "current": "Lacrymaria lacrymabunda",
+   "current_zhtw": "毯毛垂齒菌",
+   "current_zhcn": "毯毛垂齿菌",
+   "img": "Psathyrella_velutina_6_CC BY-NC.jpg"
+  },
+  {
+   "name": "Psathyrella cineraria",
+   "zhtw": "鼠灰小脆柄菇",
+   "zhcn": "鼠灰小脆柄菇",
+   "img": "Psathyrella_cineraria_3c6ab1b0-c62c-11ee-9072-159421035d8c_1.jpg"
+  },
+  {
+   "name": "Psathyrella pygmaea",
+   "zhtw": "微小脆柄菇",
+   "zhcn": "微小脆柄菇",
+   "img": "Psathyrella_pygmaea_bdfd2a00-1ca9-11ee-8c87-3736aab4f744_1.jpg"
+  },
+  {
+   "name": "Psathyrella fuscifolia",
+   "zhtw": "褐葉色小脆柄菇",
+   "zhcn": "褐叶色小脆柄菇",
+   "img": "Psathyrella_fuscifolia_17a7f800-1eb2-11ee-9204-7994c0e988a2_1.jpg"
+  },
+  {
+   "name": "Psathyrella hydrophiloides",
+   "zhtw": "類喜溼小脆柄菇",
+   "zhcn": "类喜湿小脆柄菇",
+   "img": "Psathyrella_hydrophiloides_1_CC BY-NC_陳雅芬.jpg"
+  }
+ ]
+}

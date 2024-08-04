@@ -1,0 +1,128 @@
+{
+ "genus": "Lichenomphalia",
+ "name": "umbellifera",
+ "date": [
+  "08/01/2023,6261949920582053",
+  "03/14/2021,3596250993818639"
+ ],
+ "names_zhtw": [
+  "傘形地衣臍菇"
+ ],
+ "names_en": [],
+ "url": "3596250993818639",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_11_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_12_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Lichenomphalia_umbellifera_15_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lichenomphalia_umbellifera_e125a3b0-32af-11ee-9f4a-6d7cb33f0f39_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lichenomphalia_umbellifera_e125a3b0-32af-11ee-9f4a-6d7cb33f0f39_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lichenomphalia_umbellifera_e125a3b0-32af-11ee-9f4a-6d7cb33f0f39_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lichenomphalia_umbellifera_e125a3b0-32af-11ee-9f4a-6d7cb33f0f39_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lichenomphalia_umbellifera_e125a3b0-32af-11ee-9f4a-6d7cb33f0f39_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "伞形地衣脐菇"
+ ],
+ "meta": {
+  "CapColors": "4291605388,4291998860",
+  "CapDiamRangeValues": "5,20",
+  "CapShape": "depressed",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "subdistant",
+  "HymeniumGillAttachment": "decurrent",
+  "HymeniumGillMarginate": "smooth",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "10,20",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground,moss",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "與綠藻Coccomyxa sp.共生。"
+ },
+ "inaturalist": [
+  {
+   "name": "Lichenomphalia umbellifera",
+   "cname": "Lichen Agaric",
+   "url": "https://www.inaturalist.org/taxa/118245-Lichenomphalia-umbellifera",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176457235/thumb.jpeg"
+  }
+ ]
+}

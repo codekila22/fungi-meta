@@ -1,0 +1,159 @@
+{
+ "genus": "Cladonia",
+ "name": "pleurota",
+ "date": [
+  "07/11/2023,6186767764766936",
+  "07/09/2022,5062922163818174",
+  "05/15/2021,3791640060946397",
+  "07/27/2020,2962404480536630",
+  "07/24/2019,5453273458116374",
+  "05/19/2017,1245313538912408",
+  "12/02/2016,1046168995493531"
+ ],
+ "names_zhtw": [
+  "粉杯紅石蕊"
+ ],
+ "names_en": [],
+ "url": "1046168995493531",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Cladonia_pleurota_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "何鳳",
+   "image_src": "Cladonia_pleurota_1_CC BY-NC_何鳳.jpg"
+  },
+  {
+   "author": "何鳳",
+   "image_src": "Cladonia_pleurota_2_CC BY-NC_何鳳.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cladonia_pleurota_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cladonia_pleurota_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cladonia_pleurota_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cladonia_pleurota_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cladonia_pleurota_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_pleurota_a4e8f340-20ba-11ee-a9b6-25663407e48c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_pleurota_a4e8f340-20ba-11ee-a9b6-25663407e48c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_pleurota_a4e8f340-20ba-11ee-a9b6-25663407e48c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_pleurota_a4e8f340-20ba-11ee-a9b6-25663407e48c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_pleurota_a4e8f340-20ba-11ee-a9b6-25663407e48c_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粉杯红石蕊"
+ ],
+ "meta": {
+  "CapColors": "4293263360,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "ground,rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Cladonia pleurota",
+   "cname": "Red-fruited Pixie Cup",
+   "url": "https://www.inaturalist.org/taxa/180467-Cladonia-pleurota",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/33114900/thumb.jpg"
+  },
+  {
+   "name": "Cladonia pleurota var. esorediata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180462-Cladonia-pleurota-esorediata",
+   "src": ""
+  },
+  {
+   "name": "Cladonia pleurota cristata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180463-Cladonia-pleurota-cristata",
+   "src": ""
+  },
+  {
+   "name": "Cladonia pleurota denticulata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180464-Cladonia-pleurota-denticulata",
+   "src": ""
+  },
+  {
+   "name": "Cladonia pleurota dahlii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180465-Cladonia-pleurota-dahlii",
+   "src": ""
+  },
+  {
+   "name": "Cladonia pleurota extensa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180466-Cladonia-pleurota-extensa",
+   "src": ""
+  },
+  {
+   "name": "Cladonia pleurota chthonoblastes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180468-Cladonia-pleurota-chthonoblastes",
+   "src": ""
+  },
+  {
+   "name": "Cladonia pleurota discifera",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/180469-Cladonia-pleurota-discifera",
+   "src": ""
+  }
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "genus": "Russula",
+ "name": "cyanoxantha",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "藍黃紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1003",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Russula_cyanoxantha_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_cyanoxantha_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_cyanoxantha_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_cyanoxantha_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_cyanoxantha_5_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "蓝黄红菇"
+ ],
+ "meta": {
+  "CapColors": "4288696877,4293498490,4293313372",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "solid",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "此物種顏色差異性很大，辨識特徵之一為其菌褶白而有彈性，不像其他紅菇屬的容易脆裂。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula cyanoxantha",
+   "cname": "Charcoal Burner",
+   "url": "https://www.inaturalist.org/taxa/194437-Russula-cyanoxantha",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/128039200/thumb.jpg"
+  },
+  {
+   "name": "Russula cyanoxantha cyanoxantha",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194438-Russula-cyanoxantha-cyanoxantha",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11602876/thumb.jpg"
+  },
+  {
+   "name": "Russula cyanoxantha var. cutefracta",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194439-Russula-cyanoxantha-cutefracta",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12744601/thumb.jpg"
+  },
+  {
+   "name": "Russula cyanoxantha atroviolacea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194436-Russula-cyanoxantha-atroviolacea",
+   "src": ""
+  }
+ ]
+}

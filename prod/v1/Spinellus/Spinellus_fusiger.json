@@ -1,0 +1,109 @@
+{
+ "genus": "Spinellus",
+ "name": "fusiger",
+ "date": [
+  "05/01/2023,5934877086622673",
+  "02/28/2023,5745882618855455",
+  "12/15/2022,5512013538909032",
+  "08/30/2022,5213002942143428",
+  "03/26/2022,4775667452543648",
+  "01/31/2022,4611213572322371",
+  "01/23/2021,3464746030302470"
+ ],
+ "names_zhtw": [
+  "紡錘孢傘菌黴"
+ ],
+ "names_en": [],
+ "url": "4611213572322371",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳金雪",
+   "image_src": "Spinellus_fusiger_8_CC BY-NC_陳金雪.jpg"
+  },
+  {
+   "author": "陳金雪",
+   "image_src": "Spinellus_fusiger_9_CC BY-NC_陳金雪.jpg"
+  },
+  {
+   "author": "陳金雪",
+   "image_src": "Spinellus_fusiger_10_CC BY-NC_陳金雪.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "纺锤孢伞菌霉"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Spinellus fusiger",
+   "cname": "Bonnet Mold",
+   "url": "https://www.inaturalist.org/taxa/425360-Spinellus-fusiger",
+   "src": "https://static.inaturalist.org/photos/12604298/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "genus": "Clitopilus",
+ "name": "crispus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "皺波斜蓋傘"
+ ],
+ "names_en": [],
+ "url": "3840115752765494",
+ "images": [
+  {
+   "author": "WK Chan",
+   "image_src": "Clitopilus_crispus_1_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Clitopilus_crispus_3_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Clitopilus_crispus_2_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "Jasmine Tan",
+   "image_src": "Clitopilus_crispus_1_CC BY-NC_Jasmine Tan.jpg"
+  },
+  {
+   "author": "Jasmine Tan",
+   "image_src": "Clitopilus_crispus_2_CC BY-NC_Jasmine Tan.jpg"
+  },
+  {
+   "author": "Jasmine Tan",
+   "image_src": "Clitopilus_crispus_3_CC BY-NC_Jasmine Tan.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "皱波斜盖伞"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "香港與新加坡紀錄。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Clitopilus crispus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/707723-Clitopilus-crispus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155811771/thumb.jpg"
+  }
+ ]
+}

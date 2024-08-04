@@ -1,0 +1,40 @@
+{
+ "name": "Exobasidium",
+ "zhtw": "外擔菌屬",
+ "zhcn": "外担菌属",
+ "list": [
+  {
+   "name": "Exobasidium hemisphaericum",
+   "zhtw": "半球狀外擔子菌",
+   "zhcn": "半球状外担子菌",
+   "img": "Exobasidium_hemisphaericum_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Exobasidium gracile",
+   "zhtw": "細麗外擔菌",
+   "zhcn": "细丽外担菌",
+   "img": "Exobasidium_gracile_42808f50-cefe-11ed-832a-4b5cb1d20274_1.jpg"
+  },
+  {
+   "name": "Exobasidium japonicum",
+   "zhtw": "日本外擔菌",
+   "zhcn": "日本外担菌",
+   "img": "Exobasidium_japonicum_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Exobasidium sawadae",
+   "zhtw": "樟樹外擔菌",
+   "zhcn": "樟树外担菌",
+   "current": "Clinoconidium sawadae",
+   "current_zhtw": "澤田氏斜孢菌",
+   "current_zhcn": "泽田氏斜孢菌",
+   "img": "Clinoconidium_sawadae_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Exobasidium cf. hemisphaericum",
+   "zhtw": "疑似半球狀外擔子菌",
+   "zhcn": "疑似半球状外担子菌",
+   "img": "Exobasidium_cf. hemisphaericum_1_CC BY-NC_江志緯.jpg"
+  }
+ ]
+}

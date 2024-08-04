@@ -1,0 +1,146 @@
+{
+ "genus": "Amanita",
+ "name": "aureofloccosa",
+ "date": [
+  "08/01/2024,7783745161735847",
+  "05/04/2024,7307826489327719",
+  "08/10/2023,6282405061869872",
+  "09/10/2022,5227872880656434",
+  "09/08/2022,5220528548057534",
+  "08/05/2021,4007643836012684",
+  "06/11/2021,3992621787514889",
+  "10/23/2020,3229893750454367",
+  "08/09/2020,3008443295932748",
+  "08/01/2020,3789081881202215",
+  "05/29/2016,910187899091642"
+ ],
+ "names_zhtw": [
+  "金絮鵝膏"
+ ],
+ "names_en": [],
+ "url": "6282405061869872",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Amanita_aureofloccosa_8_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_aureofloccosa_7_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_aureofloccosa_9_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_aureofloccosa_10_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_aureofloccosa_11_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_aureofloccosa_12_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "賴永祥",
+   "image_src": "Amanita_aureofloccosa_98c553e0-381d-11ee-a0c0-ab732799f362_1.jpg"
+  },
+  {
+   "author": "賴永祥",
+   "image_src": "Amanita_aureofloccosa_98c553e0-381d-11ee-a0c0-ab732799f362_2.jpg"
+  },
+  {
+   "author": "賴永祥",
+   "image_src": "Amanita_aureofloccosa_98c553e0-381d-11ee-a0c0-ab732799f362_3.jpg"
+  },
+  {
+   "author": "賴永祥",
+   "image_src": "Amanita_aureofloccosa_98c553e0-381d-11ee-a0c0-ab732799f362_4.jpg"
+  },
+  {
+   "author": "賴永祥",
+   "image_src": "Amanita_aureofloccosa_98c553e0-381d-11ee-a0c0-ab732799f362_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_aureofloccosa_87de8da0-09fd-11ef-bdb7-bf959f18dceb_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_aureofloccosa_87de8da0-09fd-11ef-bdb7-bf959f18dceb_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_aureofloccosa_87de8da0-09fd-11ef-bdb7-bf959f18dceb_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_aureofloccosa_87de8da0-09fd-11ef-bdb7-bf959f18dceb_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_aureofloccosa_87de8da0-09fd-11ef-bdb7-bf959f18dceb_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_aureofloccosa_87de8da0-09fd-11ef-bdb7-bf959f18dceb_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_aureofloccosa_87de8da0-09fd-11ef-bdb7-bf959f18dceb_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amanita_aureofloccosa_87de8da0-09fd-11ef-bdb7-bf959f18dceb_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "金絮鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4294940928,4294962944",
+  "CapDiamRangeValues": "50,80",
+  "CapShape": "",
+  "CapTexture": "woolly-scales",
+  "CapMargin": "appendiculate",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294940928,4294962944",
+  "StalkTexture": "woolly-scales",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita aureofloccosa",
+   "cname": "Golden Floccose Lepidella",
+   "url": "https://www.inaturalist.org/taxa/705893-Amanita-aureofloccosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16073405/thumb.jpg"
+  }
+ ]
+}

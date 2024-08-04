@@ -1,0 +1,71 @@
+{
+ "genus": "Torrubiella",
+ "name": "gonylepticida",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "長腳蟹蟲殼菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5891",
+ "images": [
+  {
+   "author": "劉森榮",
+   "image_src": "Torrubiella_gonylepticida_1_CC BY-NC_劉森榮.jpg"
+  },
+  {
+   "author": "劉森榮",
+   "image_src": "Torrubiella_gonylepticida_2_CC BY-NC_劉森榮.jpg"
+  },
+  {
+   "author": "劉森榮",
+   "image_src": "Torrubiella_gonylepticida_3_CC BY-NC_劉森榮.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "长脚蟹虫壳菌"
+ ],
+ "meta": {
+  "CapColors": "4291659071,4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Torrubiella gonylepticida",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1537314-Torrubiella-gonylepticida",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/354805383/thumb.jpeg"
+  }
+ ]
+}

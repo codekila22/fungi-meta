@@ -1,0 +1,70 @@
+{
+ "genus": "Gymnopus",
+ "name": "oreadoides",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "奧瑞金錢菌",
+  "奥瑞金裸柄伞"
+ ],
+ "names_en": [],
+ "url": "3431373466973060",
+ "images": [
+  {
+   "author": "Rigo Chang",
+   "image_src": "Gymnopus_oreadoides_1_CC BY-NC_Rigo Chang.jpg"
+  },
+  {
+   "author": "Rigo Chang",
+   "image_src": "Gymnopus_oreadoides_2_CC BY-NC_Rigo Chang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "奥瑞金钱菌",
+  "奥瑞金裸柄伞"
+ ],
+ "meta": {
+  "CapColors": "4292786311,4294634455",
+  "CapDiamRangeValues": "30,60",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,winter,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Gymnopus oreadoides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1109056-Gymnopus-oreadoides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/289675154/thumb.jpg"
+  }
+ ]
+}

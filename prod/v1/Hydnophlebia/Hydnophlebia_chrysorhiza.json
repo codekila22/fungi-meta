@@ -1,0 +1,93 @@
+{
+ "genus": "Hydnophlebia",
+ "name": "chrysorhiza",
+ "date": [
+  "09/14/2023,6403102906466753",
+  "08/12/2020,3019965278113883"
+ ],
+ "names_zhtw": [
+  "金根刺射脈菌"
+ ],
+ "names_en": [],
+ "url": "3019965278113883",
+ "images": [
+  {
+   "author": "蘇慶成",
+   "image_src": "Hydnophlebia_chrysorhiza_1_CC BY-NC_蘇慶成.jpg"
+  },
+  {
+   "author": "蘇慶成",
+   "image_src": "Hydnophlebia_chrysorhiza_2_CC BY-NC_蘇慶成.jpg"
+  },
+  {
+   "author": "蘇慶成",
+   "image_src": "Hydnophlebia_chrysorhiza_3_CC BY-NC_蘇慶成.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnophlebia_chrysorhiza_b1c185b0-5390-11ee-bc77-b1188cc261ef_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnophlebia_chrysorhiza_b1c185b0-5390-11ee-bc77-b1188cc261ef_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnophlebia_chrysorhiza_b1c185b0-5390-11ee-bc77-b1188cc261ef_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnophlebia_chrysorhiza_b1c185b0-5390-11ee-bc77-b1188cc261ef_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnophlebia_chrysorhiza_b1c185b0-5390-11ee-bc77-b1188cc261ef_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "金根刺射脉菌"
+ ],
+ "meta": {
+  "CapColors": "4294222944,4294950656",
+  "CapDiamRangeValues": "20,60",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "菌絲體可以伸長到20cm。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Hydnophlebia chrysorhiza",
+   "cname": "Spreading Yellow Tooth",
+   "url": "https://www.inaturalist.org/taxa/416734-Hydnophlebia-chrysorhiza",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2043394/thumb.jpg"
+  }
+ ]
+}

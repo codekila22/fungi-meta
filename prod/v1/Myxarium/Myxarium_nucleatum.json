@@ -1,0 +1,86 @@
+{
+ "genus": "Myxarium",
+ "name": "nucleatum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "結節黏木耳",
+  "結節黑耳"
+ ],
+ "names_en": [],
+ "url": "3522152764561796",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Myxarium_nucleatum_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Myxarium_nucleatum_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Myxarium_nucleatum_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Myxarium_nucleatum_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_nucleatum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_nucleatum_2_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "结节黏木耳",
+  "结节黑耳"
+ ],
+ "meta": {
+  "CapColors": "4286611584,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Myxarium nucleatum",
+   "cname": "Crystal Brain Fungus",
+   "url": "https://www.inaturalist.org/taxa/742831-Myxarium-nucleatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/256326217/thumb.jpg"
+  }
+ ]
+}

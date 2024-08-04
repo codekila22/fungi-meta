@@ -1,0 +1,46 @@
+{
+ "name": "Leucoagaricus",
+ "zhtw": "白環蘑屬",
+ "zhcn": "白环蘑属",
+ "list": [
+  {
+   "name": "Leucoagaricus atrosquamulosus",
+   "zhtw": "暗鱗白環蘑",
+   "zhcn": "暗鳞白环蘑",
+   "img": "Lepiota_atrosquamulosa_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Leucoagaricus lacrymans",
+   "zhtw": "滴淚白環蘑",
+   "zhcn": "滴泪白环蘑",
+   "img": "Leucocoprinus_meleagris_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Leucoagaricus rubrotinctus",
+   "zhtw": "紅色白環蘑",
+   "zhcn": "红色白环蘑",
+   "img": "Leucoagaricus_rubrotinctus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Leucoagaricus americanus",
+   "zhtw": "美國白環蘑",
+   "zhcn": "美国白环蘑",
+   "img": "Leucoagaricus_americanus_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Leucoagaricus bresadolae",
+   "zhtw": "布雷白環蘑",
+   "zhcn": "布雷白环蘑",
+   "current": "Leucoagaricus americanus",
+   "current_zhtw": "美國白環蘑",
+   "current_zhcn": "美国白环蘑",
+   "img": "Leucoagaricus_americanus_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Leucoagaricus aurantioruber",
+   "zhtw": "橙紅白環蘑",
+   "zhcn": "橙红白环蘑",
+   "img": "Leucoagaricus_aurantioruber_ca4bd750-0d65-11ee-8a29-3dc655344bd6_1.jpg"
+  }
+ ]
+}

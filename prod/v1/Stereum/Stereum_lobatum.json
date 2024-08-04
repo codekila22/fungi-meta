@@ -1,0 +1,79 @@
+{
+ "genus": "Stereum",
+ "name": "lobatum",
+ "date": [
+  "12/25/2023,6807066016070438"
+ ],
+ "names_zhtw": [
+  "脫毛韌革菌"
+ ],
+ "names_en": [],
+ "url": "6807066016070438",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereum_lobatum_d42eb800-a847-11ee-bf98-6b9e731442b5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereum_lobatum_d42eb800-a847-11ee-bf98-6b9e731442b5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereum_lobatum_d42eb800-a847-11ee-bf98-6b9e731442b5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereum_lobatum_d42eb800-a847-11ee-bf98-6b9e731442b5_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "脱毛韧革菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4294083840,4294931200",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Stereum subtomentosum,Stereum ostrea,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "絨毛韌革菌,蠔韌革菌,",
+  "la_zhcn": "绒毛韧革菌,蚝韧革菌,"
+ },
+ "inaturalist": [
+  {
+   "name": "Stereum lobatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1031780-Stereum-lobatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/118564087/thumb.jpg"
+  }
+ ]
+}

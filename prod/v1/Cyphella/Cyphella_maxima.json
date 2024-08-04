@@ -1,0 +1,69 @@
+{
+ "genus": "Cyphella",
+ "name": "maxima",
+ "date": [
+  "09/01/2023,6356989734411404"
+ ],
+ "names_zhtw": [
+  "大型檳榔菌"
+ ],
+ "names_en": [],
+ "url": "6356989734411404",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyphella_maxima_ac22d7f0-4975-11ee-a388-7740ed0b69d4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyphella_maxima_ac22d7f0-4975-11ee-a388-7740ed0b69d4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyphella_maxima_ac22d7f0-4975-11ee-a388-7740ed0b69d4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyphella_maxima_ac22d7f0-4975-11ee-a388-7740ed0b69d4_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "大型槟榔菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "0,1",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "genus": "Bjerkandera",
+ "name": "fumosa",
+ "date": [
+  "12/08/2023,6816139355163104",
+  "04/25/2020,2724827800960967"
+ ],
+ "names_zhtw": [
+  "煙色煙管菌"
+ ],
+ "names_en": [],
+ "url": "2724827800960967",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Bjerkandera_fumosa_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Bjerkandera_fumosa_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Bjerkandera_fumosa_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_fumosa_de3dc800-aa3a-11ee-b5a3-d3de3e426458_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_fumosa_de3dc800-aa3a-11ee-b5a3-d3de3e426458_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_fumosa_de3dc800-aa3a-11ee-b5a3-d3de3e426458_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_fumosa_de3dc800-aa3a-11ee-b5a3-d3de3e426458_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_fumosa_de3dc800-aa3a-11ee-b5a3-d3de3e426458_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "烟色烟管菌"
+ ],
+ "meta": {
+  "CapColors": "4283244288,4286141768",
+  "CapDiamRangeValues": "30,150",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "2,5",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Bjerkandera adusta,,",
+  "Note": "上蓋白棕褐色，孔面呈現出煙灰色。相較於相似種「煙管菌」，此物種菌蓋較厚，且有茴香的氣味。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "煙管菌,,",
+  "la_zhcn": "烟管菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Bjerkandera fumosa",
+   "cname": "Big Smoky Bracket",
+   "url": "https://www.inaturalist.org/taxa/326188-Bjerkandera-fumosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8969878/thumb.jpeg"
+  }
+ ]
+}

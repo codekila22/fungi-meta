@@ -1,0 +1,108 @@
+{
+ "genus": "Entoloma",
+ "name": "conferendum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "星孢粉褶菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/742",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Entoloma_conferendum_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Entoloma_conferendum_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Entoloma_conferendum_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Entoloma_conferendum_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Entoloma_conferendum_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Entoloma_conferendum_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Entoloma_conferendum_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Entoloma_conferendum_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "林靜苑",
+   "image_src": "Entoloma_conferendum_9_CC BY-NC_林靜苑.jpg"
+  },
+  {
+   "author": "林靜苑",
+   "image_src": "Entoloma_conferendum_10_CC BY-NC_林靜苑.jpg"
+  },
+  {
+   "author": "林靜苑",
+   "image_src": "Entoloma_conferendum_11_CC BY-NC_林靜苑.jpg"
+  },
+  {
+   "author": "林靜苑",
+   "image_src": "Entoloma_conferendum_12_CC BY-NC_林靜苑.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "星孢粉褶菌"
+ ],
+ "meta": {
+  "CapColors": "4291998860,4288768839",
+  "CapDiamRangeValues": "30,50",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "0,1",
+  "StalkLengthRangeValuess": "40,90",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma conferendum",
+   "cname": "Star Pinkgill",
+   "url": "https://www.inaturalist.org/taxa/929426-Entoloma-conferendum",
+   "src": "https://static.inaturalist.org/photos/160175562/thumb.jpeg"
+  }
+ ]
+}

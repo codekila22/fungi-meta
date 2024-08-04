@@ -1,0 +1,31 @@
+{
+ "name": "Cystoderma",
+ "zhtw": "囊皮傘屬",
+ "zhcn": "囊皮伞属",
+ "list": [
+  {
+   "name": "Cystoderma granulosum",
+   "zhtw": "疣蓋囊皮傘",
+   "zhcn": "疣盖囊皮伞",
+   "img": "Cystoderma_cf. granulosum_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Cystoderma carpaticum",
+   "zhtw": "喀爾巴阡囊皮傘",
+   "zhcn": "喀尔巴阡囊皮伞",
+   "img": "Cystoderma_carpaticum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Cystoderma amianthinum",
+   "zhtw": "皺蓋囊皮傘",
+   "zhcn": "皱盖囊皮伞",
+   "img": "Cystoderma_amianthinum_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Cystoderma fallax",
+   "zhtw": "金粒囊皮傘",
+   "zhcn": "金粒囊皮伞",
+   "img": "Cystoderma_fallax_1_CC BY-NC_向高世.jpg"
+  }
+ ]
+}

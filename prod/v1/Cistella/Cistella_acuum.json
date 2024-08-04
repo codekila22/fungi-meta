@@ -1,0 +1,159 @@
+{
+ "genus": "Cistella",
+ "name": "acuum",
+ "date": [
+  "10/02/2021,7098446540265716"
+ ],
+ "names_zhtw": [
+  "集棒盤菌"
+ ],
+ "names_en": [],
+ "url": "7098446540265716",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_11_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Clavidisculum_acuum_12_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clavidisculum_acuum_13_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clavidisculum_acuum_14_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clavidisculum_acuum_15_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clavidisculum_acuum_16_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clavidisculum_acuum_17_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cistella_acuum_77382f70-e8f0-11ee-8966-61e9861e0615_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cistella_acuum_77382f70-e8f0-11ee-8966-61e9861e0615_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cistella_acuum_77382f70-e8f0-11ee-8966-61e9861e0615_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cistella_acuum_77382f70-e8f0-11ee-8966-61e9861e0615_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cistella_acuum_77382f70-e8f0-11ee-8966-61e9861e0615_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cistella_acuum_77382f70-e8f0-11ee-8966-61e9861e0615_6.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Clavidisculum acuum",
+   "zhtw": "集棒盤菌",
+   "zhcn": "集棒盘菌"
+  }
+ ],
+ "names_zhcn": [
+  "集棒盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294965468",
+  "CapDiamRangeValues": "0,1",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "長在針葉木枯葉上，有小短柄。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Cistella acuum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/988965-Cistella-acuum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/187568742/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "genus": "Pleurocybella",
+ "name": "porrigens",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "貝形圓孢側耳"
+ ],
+ "names_en": [
+  "Angel Wing Mushroom"
+ ],
+ "url": "https://fungimap.biodiv.tw/pages/956",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Pleurocybella_porrigens_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Pleurocybella_porrigens_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Pleurocybella_porrigens_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Pleurocybella_porrigens_4_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "贝形圆孢侧耳"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "25,100",
+  "CapShape": "fan",
+  "CapTexture": "smooth",
+  "CapMargin": "entire",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "subdistant,shortgills",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "smooth",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "absent,lateral",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Seasons": "winter",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Pleurotus pulmonarius,Pleurotus ostreatus,",
+  "Note": "外觀與側耳屬非常接近，但菌肉比側耳薄且更脆弱。生長環境偏好在針葉樹的枯木。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "肺形側耳,糙皮側耳,",
+  "la_zhcn": "肺形侧耳,糙皮侧耳,"
+ },
+ "inaturalist": [
+  {
+   "name": "Pleurocybella porrigens",
+   "cname": "Angel's Wings",
+   "url": "https://www.inaturalist.org/taxa/48509-Pleurocybella-porrigens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4788157/thumb.jpg"
+  }
+ ]
+}

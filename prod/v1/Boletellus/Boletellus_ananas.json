@@ -1,0 +1,156 @@
+{
+ "genus": "Boletellus",
+ "name": "ananas",
+ "date": [
+  "05/24/2024,7465299753580391",
+  "06/21/2023,6137173129726400",
+  "05/26/2023,6020649441378770",
+  "09/02/2022,5223825851061137",
+  "08/15/2022,3017572451686499",
+  "07/15/2022,5073219879455069",
+  "07/10/2022,3933344526775949",
+  "06/28/2022,5027300097380381",
+  "06/13/2022,4982842585159466",
+  "10/11/2021,4215206541923078"
+ ],
+ "names_zhtw": [
+  "鳳梨條孢牛肝菌",
+  "厚鱗條孢牛肝菌"
+ ],
+ "names_en": [],
+ "url": "3933344526775949",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_12_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_10_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_11_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Boletellus_ananas_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Boletellus_ananas_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Boletellus_ananas_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Boletellus_ananas_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Boletellus_ananas_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Boletellus_ananas_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletellus_ananas_6304c470-245d-11ef-8ec9-a9b5754bf726_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletellus_ananas_6304c470-245d-11ef-8ec9-a9b5754bf726_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletellus_ananas_6304c470-245d-11ef-8ec9-a9b5754bf726_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletellus_ananas_6304c470-245d-11ef-8ec9-a9b5754bf726_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletellus_ananas_6304c470-245d-11ef-8ec9-a9b5754bf726_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "凤梨条孢牛肝菌",
+  "厚鳞条孢牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4291648604,4294901760",
+  "CapDiamRangeValues": "40,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Seasons": "summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "blue",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Boletellus ananas",
+   "cname": "Pineapple Bolete",
+   "url": "https://www.inaturalist.org/taxa/126158-Boletellus-ananas",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55997700/thumb.jpg"
+  }
+ ]
+}

@@ -1,0 +1,120 @@
+{
+ "genus": "Scleroderma",
+ "name": "verrucosum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "多疣硬皮馬勃"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5923",
+ "images": [
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_15_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_14_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_3_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_4_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_5_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_6_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_7_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_8_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_9_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_10_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_11_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_12_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_13_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_2_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_verrucosum_1_CC BY-NC_李俊佑.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "多疣硬皮马勃"
+ ],
+ "meta": {
+  "CapColors": "4288244511",
+  "CapDiamRangeValues": "20,70",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Scleroderma verrucosum",
+   "cname": "Scaly Earthball",
+   "url": "https://www.inaturalist.org/taxa/179071-Scleroderma-verrucosum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027061/thumb.jpg"
+  }
+ ]
+}

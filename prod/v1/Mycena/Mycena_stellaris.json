@@ -1,0 +1,151 @@
+{
+ "genus": "Mycena",
+ "name": "stellaris",
+ "date": [
+  "06/01/2024,7444771998966500",
+  "06/01/2024,7445592642217769",
+  "10/08/2019,2302249276552157"
+ ],
+ "names_zhtw": [
+  "星光小菇"
+ ],
+ "names_en": [],
+ "url": "7444771998966500",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_stellaris_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_stellaris_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "Hua-Te Fang",
+   "image_src": "Mycena_stellaris_1_CC BY-NC_Hua-Te Fang.jpg"
+  },
+  {
+   "author": "Hua-Te Fang",
+   "image_src": "Mycena_stellaris_2_CC BY-NC_Hua-Te Fang.jpg"
+  },
+  {
+   "author": "Hua-Te Fang",
+   "image_src": "Mycena_stellaris_3_CC BY-NC_Hua-Te Fang.jpg"
+  },
+  {
+   "author": "Hua-Te Fang",
+   "image_src": "Mycena_stellaris_4_CC BY-NC_Hua-Te Fang.jpg"
+  },
+  {
+   "author": "Hua-Te Fang",
+   "image_src": "Mycena_stellaris_5_CC BY-NC_Hua-Te Fang.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_stellaris_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_stellaris_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_stellaris_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_stellaris_11_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_stellaris_12_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_stellaris_13_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳漢欽",
+   "image_src": "Mycena_stellaris_14_CC BY-NC_陳漢欽.jpg"
+  },
+  {
+   "author": "陳漢欽",
+   "image_src": "Mycena_stellaris_15_CC BY-NC_陳漢欽.jpg"
+  },
+  {
+   "author": "陳漢欽",
+   "image_src": "Mycena_stellaris_16_CC BY-NC_陳漢欽.jpg"
+  },
+  {
+   "author": "陳漢欽",
+   "image_src": "Mycena_stellaris_17_CC BY-NC_陳漢欽.jpg"
+  },
+  {
+   "author": "陳漢欽",
+   "image_src": "Mycena_stellaris_18_CC BY-NC_陳漢欽.jpg"
+  },
+  {
+   "author": "陳漢欽",
+   "image_src": "Mycena_stellaris_19_CC BY-NC_陳漢欽.jpg"
+  },
+  {
+   "author": "陳漢欽",
+   "image_src": "Mycena_stellaris_20_CC BY-NC_陳漢欽.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_stellaris_cc9582e0-271d-11ef-88a9-7941c7211b0c_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_stellaris_cc9582e0-271d-11ef-88a9-7941c7211b0c_2.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "星光小菇"
+ ],
+ "meta": {
+  "CapColors": "4292664540,4294309365,4290822336",
+  "CapDiamRangeValues": "3,8",
+  "CapShape": "campanulate",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "subdistant",
+  "HymeniumGillAttachment": "decurrent",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "summer,autumn",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "no",
+  "Bioluminescent": "strong",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "目前發現多於水京金枯木上。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena stellaris",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1559791-Mycena-stellaris",
+   "src": "https://static.inaturalist.org/photos/402867148/thumb.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "genus": "Ophiocordyceps",
+ "name": "tricentri",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "沫蟬蛇形蟲草"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4709",
+ "images": [
+  {
+   "author": "林進福",
+   "image_src": "Ophiocordyceps_tricentri_1_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Ophiocordyceps_tricentri_2_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Ophiocordyceps_tricentri_3_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Ophiocordyceps_tricentri_4_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Ophiocordyceps_tricentri_5_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Ophiocordyceps_tricentri_6_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Ophiocordyceps_tricentri_7_CC BY-NC_林進福.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "沫蝉蛇形虫草"
+ ],
+ "meta": {
+  "CapColors": "4294956800",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Ophiocordyceps tricentri",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/976244-Ophiocordyceps-tricentri",
+   "src": ""
+  }
+ ]
+}

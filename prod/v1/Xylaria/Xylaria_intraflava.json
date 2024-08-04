@@ -1,0 +1,80 @@
+{
+ "genus": "Xylaria",
+ "name": "intraflava",
+ "date": [
+  "09/09/2021,4112744422169291"
+ ],
+ "names_zhtw": [
+  "裏黃炭角菌"
+ ],
+ "names_en": [],
+ "url": "4112744422169291",
+ "images": [
+  {
+   "author": "T.J. Chuang",
+   "image_src": "Xylaria_intraflava_1_CC BY-NC_T.J. Chuang.jpg"
+  },
+  {
+   "author": "T.J. Chuang",
+   "image_src": "Xylaria_intraflava_2_CC BY-NC_T.J. Chuang.jpg"
+  },
+  {
+   "author": "T.J. Chuang",
+   "image_src": "Xylaria_intraflava_3_CC BY-NC_T.J. Chuang.jpg"
+  },
+  {
+   "author": "T.J. Chuang",
+   "image_src": "Xylaria_intraflava_4_CC BY-NC_T.J. Chuang.jpg"
+  },
+  {
+   "author": "T.J. Chuang",
+   "image_src": "Xylaria_intraflava_5_CC BY-NC_T.J. Chuang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "里黄炭角菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "子實體基部會形成俗稱烏靈蔘的菌核。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Xylaria intraflava",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1441300-Xylaria-intraflava",
+   "src": ""
+  }
+ ]
+}

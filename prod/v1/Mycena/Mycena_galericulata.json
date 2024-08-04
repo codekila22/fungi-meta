@@ -1,0 +1,138 @@
+{
+ "genus": "Mycena",
+ "name": "galericulata",
+ "date": [
+  "06/02/2023,6044548845655496",
+  "04/26/2021,3722569547853449",
+  "02/28/2021,3587165268060545"
+ ],
+ "names_zhtw": [
+  "灰蓋小菇"
+ ],
+ "names_en": [],
+ "url": "3587165268060545",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Mycena_galericulata_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_galericulata_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_galericulata_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_galericulata_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_galericulata_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_galericulata_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_galericulata_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_galericulata_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_galericulata_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Mycena_galericulata_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Mycena_galericulata_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Mycena_galericulata_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Mycena_galericulata_5_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "灰盖小菇"
+ ],
+ "meta": {
+  "CapColors": "4290822336,4289309097",
+  "CapDiamRangeValues": "10,60",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "crossconnected,close,shortgills",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena galericulata",
+   "cname": "Common Bonnet",
+   "url": "https://www.inaturalist.org/taxa/63446-Mycena-galericulata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/50624897/thumb.jpg"
+  },
+  {
+   "name": "Mycena inclinata",
+   "cname": "Clustered Bonnet",
+   "url": "https://www.inaturalist.org/taxa/63453-Mycena-inclinata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28633778/thumb.jpg"
+  },
+  {
+   "name": "Mycena galericulata var. galericulata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63444-Mycena-galericulata-galericulata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/49563513/thumb.jpeg"
+  },
+  {
+   "name": "Mycena galericulata var. albida",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63455-Mycena-galericulata-albida",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29183327/thumb.jpg"
+  },
+  {
+   "name": "Mycena galericulata patagonica",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63448-Mycena-galericulata-patagonica",
+   "src": ""
+  }
+ ]
+}

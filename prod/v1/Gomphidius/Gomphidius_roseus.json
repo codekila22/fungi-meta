@@ -1,0 +1,91 @@
+{
+ "genus": "Gomphidius",
+ "name": "roseus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "紅鉚釘菇"
+ ],
+ "names_en": [],
+ "url": "",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Gomphidius_roseus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Gomphidius_roseus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Gomphidius_roseus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Gomphidius_roseus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Gomphidius_roseus_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Gomphidius_roseus_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Gomphidius_subroseus_1_CC BY-NC_James Ho.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "红铆钉菇"
+ ],
+ "meta": {
+  "CapColors": "4294901760,4294921472,4289864226",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Gomphidius subroseus,,",
+  "Note": "生長於針葉木旁，常可發現與乳牛肝菌(Suillus bovinus)生長在一起，可能跟其形成伴生關係。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "亞紅鉚釘菇,,",
+  "la_zhcn": "亚红铆钉菇,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Gomphidius roseus",
+   "cname": "Rosy Spike",
+   "url": "https://www.inaturalist.org/taxa/243912-Gomphidius-roseus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10216352/thumb.jpeg"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "genus": "Russula",
+ "name": "aurea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "金黃紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/2212",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_aurea_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_aurea_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_aurea_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_aurea_4_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "金黄红菇"
+ ],
+ "meta": {
+  "CapColors": "4291648604,4293498490",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula aurea",
+   "cname": "Gilded Brittlegill",
+   "url": "https://www.inaturalist.org/taxa/360306-Russula-aurea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29157192/thumb.jpeg"
+  }
+ ]
+}

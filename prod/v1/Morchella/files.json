@@ -1,0 +1,25 @@
+{
+ "name": "Morchella",
+ "zhtw": "羊肚菌屬",
+ "zhcn": "羊肚菌属",
+ "list": [
+  {
+   "name": "Morchella esculenta",
+   "zhtw": "美味羊肚菌",
+   "zhcn": "美味羊肚菌",
+   "img": "Morchella_esculenta_8b4395e0-efb7-11ee-a1b1-c3d5fe680a46_4.jpg"
+  },
+  {
+   "name": "Morchella esculenta var. umbrina",
+   "zhtw": "美味羊肚菌之茶褐變種",
+   "zhcn": "美味羊肚菌之茶褐变种",
+   "img": "Morchella_esculenta var. umbrina_cda7dd20-f2ef-11ee-a182-cd2860bacc4a_1.jpg"
+  },
+  {
+   "name": "Morchella elata",
+   "zhtw": "高羊肚菌",
+   "zhcn": "高羊肚菌",
+   "img": "Morchella_elata_1_CC BY-NC_張敏華.jpg"
+  }
+ ]
+}

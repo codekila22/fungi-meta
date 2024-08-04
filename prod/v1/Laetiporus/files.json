@@ -1,0 +1,31 @@
+{
+ "name": "Laetiporus",
+ "zhtw": "絢孔菌屬",
+ "zhcn": "绚孔菌属",
+ "list": [
+  {
+   "name": "Laetiporus montanus",
+   "zhtw": "高山絢孔菌",
+   "zhcn": "高山绚孔菌",
+   "img": "Laetiporus_montanus_7593f4c0-ab78-11ee-96d0-9b466689198d_1.jpg"
+  },
+  {
+   "name": "Laetiporus cremeipores",
+   "zhtw": "奶油絢孔菌",
+   "zhcn": "奶油绚孔菌",
+   "img": "Laetiporus_cremeipores_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Laetiporus sulphureus",
+   "zhtw": "硫色絢孔菌",
+   "zhcn": "硫色绚孔菌",
+   "img": "Laetiporus_sulphureus_edbf3cd0-d55d-1076-8f2a-038c3d9c1715_1.jpg"
+  },
+  {
+   "name": "Laetiporus gilbertsonii",
+   "zhtw": "鮭色絢孔菌",
+   "zhcn": "鲑色绚孔菌",
+   "img": "Laetiporus_gilbertsonii_4_CC BY-NC_柯文俊.jpg"
+  }
+ ]
+}

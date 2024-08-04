@@ -1,0 +1,106 @@
+{
+ "genus": "Boletus",
+ "name": "violaceofuscus",
+ "date": [
+  "09/25/2023,6447741712002872",
+  "06/09/2023,6068862203224160",
+  "08/04/2018,3494698367307236"
+ ],
+ "names_zhtw": [
+  "紫褐牛肝菌"
+ ],
+ "names_en": [],
+ "url": "3494698367307236",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_violaceofuscus_d953ad60-0aa7-11ee-b1ee-95817a9c2590_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Boletus_violaceofuscus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Boletus_violaceofuscus_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Boletus_violaceofuscus_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Boletus_violaceofuscus_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_violaceofuscus_d953ad60-0aa7-11ee-b1ee-95817a9c2590_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_violaceofuscus_d953ad60-0aa7-11ee-b1ee-95817a9c2590_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_violaceofuscus_d953ad60-0aa7-11ee-b1ee-95817a9c2590_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_violaceofuscus_7cb6c620-604f-11ee-9603-afb41da4ead7_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_violaceofuscus_7cb6c620-604f-11ee-9603-afb41da4ead7_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_violaceofuscus_7cb6c620-604f-11ee-9603-afb41da4ead7_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫褐牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4283244288,4286578816",
+  "CapDiamRangeValues": "40,120",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Boletus violaceofuscus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1229278-Boletus-violaceofuscus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/217580173/thumb.jpeg"
+  }
+ ]
+}

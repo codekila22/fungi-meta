@@ -1,0 +1,80 @@
+{
+ "genus": "Haematomma",
+ "name": "africanum",
+ "date": [
+  "05/15/2022,7090351661075204"
+ ],
+ "names_zhtw": [
+  "非洲赤星衣"
+ ],
+ "names_en": [],
+ "url": "7090351661075204",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Haematomma_africanum_67972a70-e8ec-11ee-8dea-811c748c3948_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Haematomma_africanum_67972a70-e8ec-11ee-8dea-811c748c3948_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Haematomma_africanum_67972a70-e8ec-11ee-8dea-811c748c3948_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Haematomma_africanum_67972a70-e8ec-11ee-8dea-811c748c3948_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Haematomma_africanum_67972a70-e8ec-11ee-8dea-811c748c3948_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "非洲赤星衣"
+ ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Haematomma africanum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/355349-Haematomma-africanum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/824123/thumb.jpg"
+  }
+ ]
+}

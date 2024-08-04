@@ -1,0 +1,124 @@
+{
+ "genus": "Cantharellus",
+ "name": "lutescens",
+ "date": [
+  "07/08/2023,6171704742939905",
+  "11/10/2022,5402520683191652",
+  "08/30/2015,777999892310444"
+ ],
+ "names_zhtw": [
+  "黃柄雞油菌"
+ ],
+ "names_en": [],
+ "url": "5402520683191652",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lutescens_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lutescens_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lutescens_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lutescens_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lutescens_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lutescens_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lutescens_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lutescens_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_lutescens_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_lutescens_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_lutescens_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_lutescens_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_lutescens_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cantharellus_lutescens_6_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄柄鸡油菌"
+ ],
+ "meta": {
+  "CapColors": "4294961979",
+  "CapDiamRangeValues": "30,80",
+  "CapShape": "infundibuliform",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "ridged",
+  "HymeniumColors": "4294961979",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "decurrent",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294961979",
+  "StalkTexture": "smooth",
+  "StalkHollow": "hollow",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "equal",
+  "StalkDiamRangeValuess": "5,10",
+  "StalkLengthRangeValuess": "40,80",
+  "Rareness": "occacional",
+  "Seasons": "summer,autumn",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Craterellus lutescens",
+   "cname": "Yellow Foot",
+   "url": "https://www.inaturalist.org/taxa/514218-Craterellus-lutescens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254486691/thumb.jpeg"
+  },
+  {
+   "name": "Craterellus lutescens niveipes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1408797-Craterellus-lutescens-niveipes",
+   "src": ""
+  }
+ ]
+}

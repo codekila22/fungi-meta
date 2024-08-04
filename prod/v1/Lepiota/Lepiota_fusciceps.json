@@ -1,0 +1,88 @@
+{
+ "genus": "Lepiota",
+ "name": "fusciceps",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "暗褐鱗環柄菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/854",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Lepiota_fusciceps_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lepiota_fusciceps_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lepiota_fusciceps_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lepiota_fusciceps_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lepiota_fusciceps_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lepiota_fusciceps_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lepiota_fusciceps_7_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "暗褐鳞环柄菇"
+ ],
+ "meta": {
+  "CapColors": "4284635991,4278190080",
+  "CapDiamRangeValues": "10,20",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Lepiota fusciceps",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1130503-Lepiota-fusciceps",
+   "src": "https://static.inaturalist.org/photos/96002730/thumb.jpg"
+  }
+ ]
+}

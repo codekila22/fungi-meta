@@ -1,0 +1,105 @@
+{
+ "genus": "Leptogium",
+ "name": "cyanescens",
+ "date": [
+  "11/30/2022,5462792550497798",
+  "05/14/2022,https://www.facebook.com/groups/1731119217207714/permalink/3191784567807831"
+ ],
+ "names_zhtw": [
+  "變藍貓耳衣"
+ ],
+ "names_en": [],
+ "url": "https://www.facebook.com/groups/1731119217207714/permalink/3191784567807831",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Leptogium_cyanescens_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "邱澤峯",
+   "image_src": "Leptogium_cyanescens_1_CC BY-NC_邱澤峯.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leptogium_cyanescens_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "邱澤峯",
+   "image_src": "Leptogium_cyanescens_2_CC BY-NC_邱澤峯.jpg"
+  },
+  {
+   "author": "邱澤峯",
+   "image_src": "Leptogium_cyanescens_3_CC BY-NC_邱澤峯.jpg"
+  },
+  {
+   "author": "邱澤峯",
+   "image_src": "Leptogium_cyanescens_4_CC BY-NC_邱澤峯.jpg"
+  },
+  {
+   "author": "邱澤峯",
+   "image_src": "Leptogium_cyanescens_5_CC BY-NC_邱澤峯.jpg"
+  },
+  {
+   "author": "邱澤峯",
+   "image_src": "Leptogium_cyanescens_6_CC BY-NC_邱澤峯.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "变蓝猫耳衣"
+ ],
+ "meta": {
+  "CapColors": "4278222848,4278190335",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "地衣體有時看起來會有泛藍色。"
+ },
+ "inaturalist": [
+  {
+   "name": "Leptogium cyanescens",
+   "cname": "Blue Jellyskin",
+   "url": "https://www.inaturalist.org/taxa/182554-Leptogium-cyanescens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/62646765/thumb.jpg"
+  },
+  {
+   "name": "Leptogium cyanescens var. lobulatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182555-Leptogium-cyanescens-lobulatum",
+   "src": ""
+  },
+  {
+   "name": "Leptogium cyanescens var. cyanescens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182556-Leptogium-cyanescens-cyanescens",
+   "src": ""
+  }
+ ]
+}

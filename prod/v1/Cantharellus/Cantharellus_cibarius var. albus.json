@@ -1,0 +1,101 @@
+{
+ "genus": "Cantharellus",
+ "name": "cibarius var. albus",
+ "date": [
+  "05/02/2024,7336009589842742",
+  "08/20/2023,6315092445267800",
+  "06/13/2023,6084913181619062",
+  "09/09/2020,3091880817588995"
+ ],
+ "names_zhtw": [
+  "雞油菌白色型"
+ ],
+ "names_en": [
+  "White Chanterelles"
+ ],
+ "url": "3091880817588995",
+ "images": [
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_05afe740-0ab0-11ee-bbe7-dbb4e8cc0d3a_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cantharellus_cibarius f. albus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cantharellus_cibarius f. albus_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cantharellus_cibarius f. albus_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cantharellus_cibarius f. albus_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_05afe740-0ab0-11ee-bbe7-dbb4e8cc0d3a_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_05afe740-0ab0-11ee-bbe7-dbb4e8cc0d3a_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_05afe740-0ab0-11ee-bbe7-dbb4e8cc0d3a_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_05afe740-0ab0-11ee-bbe7-dbb4e8cc0d3a_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_753d08e0-0f96-11ef-914b-43585f1470e9_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_753d08e0-0f96-11ef-914b-43585f1470e9_2.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "鸡油菌白色型"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "20,50",
+  "CapShape": "infundibuliform",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "ridged",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "summer,autumn",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ }
+}
