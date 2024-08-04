@@ -2,6 +2,7 @@
  "genus": "Cruentomycena",
  "name": "orientalis",
  "date": [
+  "08/01/2024,7767482370028793",
   "07/07/2022,5048596678584056",
   "09/02/2021,4094259400684460"
  ],
@@ -70,6 +71,30 @@
   {
    "author": "Kam Ho",
    "image_src": "Cruentomycena_orientalis_11_CC BY-NC_Kam Ho.jpg"
+  },
+  {
+   "author": "李宇薇",
+   "image_src": "Cruentomycena_orientalis_aebe6b50-2072-10c6-a254-93fc4ec39761_1.jpg"
+  },
+  {
+   "author": "李宇薇",
+   "image_src": "Cruentomycena_orientalis_aebe6b50-2072-10c6-a254-93fc4ec39761_2.jpg"
+  },
+  {
+   "author": "李宇薇",
+   "image_src": "Cruentomycena_orientalis_aebe6b50-2072-10c6-a254-93fc4ec39761_3.jpg"
+  },
+  {
+   "author": "李宇薇",
+   "image_src": "Cruentomycena_orientalis_aebe6b50-2072-10c6-a254-93fc4ec39761_4.jpg"
+  },
+  {
+   "author": "李宇薇",
+   "image_src": "Cruentomycena_orientalis_aebe6b50-2072-10c6-a254-93fc4ec39761_5.jpg"
+  },
+  {
+   "author": "李宇薇",
+   "image_src": "Cruentomycena_orientalis_aebe6b50-2072-10c6-a254-93fc4ec39761_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -100,7 +125,7 @@
   "HeightRangeValuess": "",
   "Rareness": "rare",
   "Seasons": "",
-  "GrowthType": "grouped",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "leaves",
   "Bruising": "",
   "Bioluminescent": "",
