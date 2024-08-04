@@ -81,5 +81,13 @@
   "LookAlikes": "",
   "Note": "",
   "GrowthEco": "saprotrophic"
- }
+ },
+ "inaturalist": [
+  {
+   "name": "Tubaria pallidispora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1019020-Tubaria-pallidispora",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/264772722/thumb.jpeg"
+  }
+ ]
 }

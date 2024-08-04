@@ -73,5 +73,13 @@
   "LookAlikes": "",
   "Note": "",
   "GrowthEco": "mycorrhizal"
- }
+ },
+ "inaturalist": [
+  {
+   "name": "Neoalbatrellus caeruleoporus",
+   "cname": "Blue Polypore",
+   "url": "https://www.inaturalist.org/taxa/351628-Neoalbatrellus-caeruleoporus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159958/thumb."
+  }
+ ]
 }

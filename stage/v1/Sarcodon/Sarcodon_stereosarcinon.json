@@ -101,5 +101,13 @@
   "LookAlikes": "",
   "Note": "",
   "GrowthEco": "mycorrhizal"
- }
+ },
+ "inaturalist": [
+  {
+   "name": "Hydnellum stereosarcinon",
+   "cname": "Stereo Tooth",
+   "url": "https://www.inaturalist.org/taxa/1551134-Hydnellum-stereosarcinon",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13071202/thumb.jpeg"
+  }
+ ]
 }
