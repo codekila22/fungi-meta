@@ -2,6 +2,7 @@
  "genus": "Callistosporium",
  "name": "luteo-olivaceum",
  "date": [
+  "08/09/2024,7815463195230710",
   "06/22/2024,7552012648242434",
   "05/24/2024,7403409233102777",
   "10/22/2023,6547545458689163",
@@ -126,6 +127,26 @@
   {
    "author": "陳中城",
    "image_src": "Callistosporium_luteo-olivaceum_f179bbf0-32d3-11ef-b383-5fbce57b8ae1_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Callistosporium_luteo-olivaceum_5938d860-68d7-10d6-9d5a-3db82ac53d2a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Callistosporium_luteo-olivaceum_5938d860-68d7-10d6-9d5a-3db82ac53d2a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Callistosporium_luteo-olivaceum_5938d860-68d7-10d6-9d5a-3db82ac53d2a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Callistosporium_luteo-olivaceum_5938d860-68d7-10d6-9d5a-3db82ac53d2a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Callistosporium_luteo-olivaceum_5938d860-68d7-10d6-9d5a-3db82ac53d2a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -173,5 +194,6 @@
    "url": "https://www.inaturalist.org/taxa/118354-Callistosporium-luteo-olivaceum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14409785/thumb.jpg"
   }
- ]
+ ],
+ "timestamp": "20240810-100526"
 }

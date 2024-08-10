@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "lingzhi",
  "date": [
+  "08/09/2024,7815381448572218",
   "11/11/2017,6611560652287643"
  ],
  "names_zhtw": [
@@ -31,6 +32,42 @@
   {
    "author": "向高世",
    "image_src": "Ganoderma_lucidum_786c28e0-7e03-11ee-8401-7b47ce989191_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_d79e4430-673b-10d6-9d5a-3db82ac53d2a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_d79e4430-673b-10d6-9d5a-3db82ac53d2a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_d79e4430-673b-10d6-9d5a-3db82ac53d2a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_d79e4430-673b-10d6-9d5a-3db82ac53d2a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_d79e4430-673b-10d6-9d5a-3db82ac53d2a_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_d79e4430-673b-10d6-9d5a-3db82ac53d2a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_d79e4430-673b-10d6-9d5a-3db82ac53d2a_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_d79e4430-673b-10d6-9d5a-3db82ac53d2a_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_d79e4430-673b-10d6-9d5a-3db82ac53d2a_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -81,5 +118,6 @@
    "url": "https://www.inaturalist.org/taxa/480130-Ganoderma-sichuanense",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/199359748/thumb.jpg"
   }
- ]
+ ],
+ "timestamp": "20240810-100526"
 }
