@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "cf. capillaris",
  "date": [
+  "08/07/2024,7802708359839527",
   "02/04/2024,6977482595695445",
   "11/17/2023,6649657018478006",
   "08/26/2023,6336101759833535",
@@ -128,6 +129,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Mycena_cf. capillaris_7242a7b0-cb05-11ee-ae6e-c5fbc8545675_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_cf. capillaris_84461ef0-5db5-10db-8ef4-35838296e92c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_cf. capillaris_84461ef0-5db5-10db-8ef4-35838296e92c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_cf. capillaris_84461ef0-5db5-10db-8ef4-35838296e92c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_cf. capillaris_84461ef0-5db5-10db-8ef4-35838296e92c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_cf. capillaris_84461ef0-5db5-10db-8ef4-35838296e92c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_cf. capillaris_84461ef0-5db5-10db-8ef4-35838296e92c_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -177,5 +202,5 @@
    "src": "https://static.inaturalist.org/photos/56187721/thumb.jpg"
   }
  ],
- "timestamp": "20240810-100526"
+ "timestamp": "20240811-204246"
 }

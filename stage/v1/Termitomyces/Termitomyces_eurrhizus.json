@@ -2,6 +2,8 @@
  "genus": "Termitomyces",
  "name": "eurrhizus",
  "date": [
+  "08/11/2024,7827101847400178",
+  "08/04/2024,7789307861179577",
   "08/13/2023,6292771067499938",
   "06/28/2023,6139278542849192",
   "06/26/2023,6131888050254908",
@@ -208,6 +210,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Termitomyces_eurrhizus_c8a444b0-161f-11ee-9f49-f9c2b9a77178_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Termitomyces_eurrhizus_14743cc0-2efb-10dc-ad55-19902423bb2d_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Termitomyces_eurrhizus_14743cc0-2efb-10dc-ad55-19902423bb2d_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Termitomyces_eurrhizus_14743cc0-2efb-10dc-ad55-19902423bb2d_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Termitomyces_eurrhizus_14743cc0-2efb-10dc-ad55-19902423bb2d_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Termitomyces_eurrhizus_14743cc0-2efb-10dc-ad55-19902423bb2d_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Termitomyces_eurrhizus_c5214170-3591-10dc-ad55-19902423bb2d_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -260,5 +286,5 @@
    "src": "https://static.inaturalist.org/photos/87599133/thumb.jpeg"
   }
  ],
- "timestamp": "20240810-100526"
+ "timestamp": "20240811-204246"
 }

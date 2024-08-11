@@ -2,7 +2,7 @@
  "name": "Amanita",
  "zhtw": "鵝膏屬",
  "zhcn": "鹅膏属",
- "timestamp": "20240810-100526",
+ "timestamp": "20240811-204246",
  "list": [
   {
    "name": "Amanita ochracea",
@@ -219,6 +219,12 @@
    "zhtw": "褐烟色鵝膏",
    "zhcn": "褐烟色鹅膏",
    "img": "Amanita_brunneofuliginea_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Amanita oberwinklerana",
+   "zhtw": "歐氏鵝膏",
+   "zhcn": "欧氏鹅膏",
+   "img": "Amanita_oberwinklerana_4c7b3010-9792-10dc-8fce-51116734333e_1.jpg"
   },
   {
    "name": "Amanita battarrae",

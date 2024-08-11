@@ -2,13 +2,13 @@
  "genus": "Russula",
  "name": "rosea",
  "date": [
-  "01/01/0001"
+  "08/09/2024,7825473487563014"
  ],
  "names_zhtw": [
   "玫瑰紅菇"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/1010",
+ "url": "7825473487563014",
  "images": [
   {
    "author": "",
@@ -29,6 +29,22 @@
   {
    "author": "",
    "image_src": "Russula_rosea_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_rosea_1cd50cc0-6799-10db-8ef4-35838296e92c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_rosea_1cd50cc0-6799-10db-8ef4-35838296e92c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_rosea_1cd50cc0-6799-10db-8ef4-35838296e92c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_rosea_1cd50cc0-6799-10db-8ef4-35838296e92c_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -77,5 +93,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/134231873/thumb.jpg"
   }
  ],
- "timestamp": "20240810-100526"
+ "timestamp": "20240811-204246"
 }

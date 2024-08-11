@@ -2,7 +2,7 @@
  "name": "Stemonitis",
  "zhtw": "髮網黏菌屬",
  "zhcn": "发网黏菌属",
- "timestamp": "20240810-100526",
+ "timestamp": "20240811-204246",
  "list": [
   {
    "name": "Stemonitis smithii",
@@ -30,6 +30,12 @@
    "zhtw": "光孢髮網黏菌",
    "zhcn": "光孢发网黏菌",
    "img": "Stemonitis_axifera_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Stemonitis pallida var. rubescens",
+   "zhtw": "灰褐髮網黏菌赭紅變種",
+   "zhcn": "灰褐发网黏菌赭红变种",
+   "img": "Stemonitis_pallida var. rubescens_558baeb0-897a-10d9-b41e-b34c0caf8ec6_1.jpg"
   },
   {
    "name": "Stemonitis splendens",
