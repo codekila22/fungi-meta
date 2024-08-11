@@ -2,6 +2,7 @@
  "genus": "Roridomyces",
  "name": "lamprosporus",
  "date": [
+  "08/02/2024,7802808603162836",
   "04/11/2024,7227352750708427",
   "10/14/2023,6519189124858130",
   "08/19/2023,6841748722602167",
@@ -273,6 +274,38 @@
   {
    "author": "Sunny Wang",
    "image_src": "Roridomyces_lamprosporus_1c8e0d80-ff8c-11ee-9513-9b27911a7567_15.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roridomyces_lamprosporus_1603e660-6a4f-10d6-9d5a-3db82ac53d2a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roridomyces_lamprosporus_1603e660-6a4f-10d6-9d5a-3db82ac53d2a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roridomyces_lamprosporus_1603e660-6a4f-10d6-9d5a-3db82ac53d2a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roridomyces_lamprosporus_1603e660-6a4f-10d6-9d5a-3db82ac53d2a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roridomyces_lamprosporus_1603e660-6a4f-10d6-9d5a-3db82ac53d2a_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roridomyces_lamprosporus_1603e660-6a4f-10d6-9d5a-3db82ac53d2a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roridomyces_lamprosporus_1603e660-6a4f-10d6-9d5a-3db82ac53d2a_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roridomyces_lamprosporus_1603e660-6a4f-10d6-9d5a-3db82ac53d2a_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -321,5 +354,6 @@
    "url": "https://www.inaturalist.org/taxa/155180-Roridomyces-lamprosporus",
    "src": ""
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }

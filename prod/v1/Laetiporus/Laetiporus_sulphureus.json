@@ -2,6 +2,7 @@
  "genus": "Laetiporus",
  "name": "sulphureus",
  "date": [
+  "08/06/2024,7794776630632700",
   "06/26/2022,5020804734696584",
   "08/26/2021,4080794705364263"
  ],
@@ -80,6 +81,30 @@
   {
    "author": "柯文俊",
    "image_src": "Laetiporus_sulphureus_12_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Laetiporus_sulphureus_846d28c0-c196-10cc-8cdc-294de133333a_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Laetiporus_sulphureus_846d28c0-c196-10cc-8cdc-294de133333a_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Laetiporus_sulphureus_846d28c0-c196-10cc-8cdc-294de133333a_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Laetiporus_sulphureus_846d28c0-c196-10cc-8cdc-294de133333a_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Laetiporus_sulphureus_846d28c0-c196-10cc-8cdc-294de133333a_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Laetiporus_sulphureus_846d28c0-c196-10cc-8cdc-294de133333a_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,5 +152,6 @@
    "url": "https://www.inaturalist.org/taxa/53713-Laetiporus-sulphureus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/42106925/thumb.jpg"
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }

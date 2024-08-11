@@ -2,6 +2,7 @@
  "name": "Agrocybe",
  "zhtw": "田頭菇屬",
  "zhcn": "田头菇属",
+ "timestamp": "20240811-205700",
  "list": [
   {
    "name": "Agrocybe putaminum",
@@ -50,12 +51,6 @@
    "zhtw": "平田頭菇",
    "zhcn": "平田头菇",
    "img": "Agrocybe_pediades_5_CC BY-NC_陳雅芬.jpg"
-  },
-  {
-   "name": "Agrocybe paludosa",
-   "zhtw": "沼生田頭菇",
-   "zhcn": "沼生田头菇",
-   "img": "Agrocybe_paludosa_2_CC BY-NC_李志穎.jpg"
   }
  ]
 }

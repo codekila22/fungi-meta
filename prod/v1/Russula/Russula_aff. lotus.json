@@ -1,0 +1,78 @@
+{
+ "genus": "Russula",
+ "name": "aff. lotus",
+ "date": [
+  "05/13/2023,7746949585415405"
+ ],
+ "names_zhtw": [
+  "荷花紅菇的相似種"
+ ],
+ "names_en": [],
+ "url": "7746949585415405",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Russula_aff. lotus_3b81ddf0-5e23-10d9-943a-b3743c54e38c_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Russula_aff. lotus_3b81ddf0-5e23-10d9-943a-b3743c54e38c_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Russula_aff. lotus_3b81ddf0-5e23-10d9-943a-b3743c54e38c_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Russula_aff. lotus_3b81ddf0-5e23-10d9-943a-b3743c54e38c_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "荷花红菇的相似种"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula lotus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1396257-Russula-lotus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253235552/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240811-205700"
+}

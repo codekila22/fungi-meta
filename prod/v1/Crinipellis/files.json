@@ -2,12 +2,19 @@
  "name": "Crinipellis",
  "zhtw": "皮傘屬",
  "zhcn": "皮伞属",
+ "timestamp": "20240811-205700",
  "list": [
   {
    "name": "Crinipellis birhizomorpha",
    "zhtw": "雙索皮傘",
    "zhcn": "双索皮伞",
    "img": "Crinipellis_birhizomorpha_e54a92b0-f2dc-11ed-b593-63342b4b0d75_1.jpg"
+  },
+  {
+   "name": "Crinipellis deutziae",
+   "zhtw": "溲疏皮傘(暫名)",
+   "zhcn": "溲疏皮伞(暂名)",
+   "img": "Crinipellis_deutziae_f1117d30-880b-10d9-b41e-b34c0caf8ec6_1.jpg"
   },
   {
    "name": "Crinipellis filiformis",

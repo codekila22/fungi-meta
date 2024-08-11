@@ -2,6 +2,7 @@
  "genus": "Hypoxylon",
  "name": "haematostroma",
  "date": [
+  "08/08/2024,7808934752550221",
   "10/27/2023,6568244686619240",
   "01/07/2023,5576231239153928",
   "09/06/2022,5217193515057704",
@@ -99,6 +100,18 @@
   {
    "author": "陳雅芬",
    "image_src": "Hypoxylon_haematostroma_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hypoxylon_haematostroma_c4197330-c9c9-10db-ad55-19902423bb2d_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hypoxylon_haematostroma_c4197330-c9c9-10db-ad55-19902423bb2d_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hypoxylon_haematostroma_c4197330-c9c9-10db-ad55-19902423bb2d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -146,5 +159,6 @@
    "url": "https://www.inaturalist.org/taxa/351135-Hypoxylon-haematostroma",
    "src": "https://static.inaturalist.org/photos/95547230/thumb.jpeg"
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }

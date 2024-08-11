@@ -2,6 +2,7 @@
  "genus": "Psilocybe",
  "name": "subcaerulipes",
  "date": [
+  "08/11/2024,7827276837382679",
   "08/05/2023,6265771186866593",
   "07/04/2023,6159037254206654",
   "11/19/2022,5542809859162733",
@@ -140,7 +141,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌柄有明顯白色纖維狀。紀錄於台灣中海拔拉拉山區林地。",
+  "Note": "菌柄有明顯白色纖維狀。紀錄於台灣中海拔拉拉山區與阿里山林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -150,5 +151,6 @@
    "url": "https://www.inaturalist.org/taxa/518764-Psilocybe-subcaerulipes",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5758632/thumb.jpeg"
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }

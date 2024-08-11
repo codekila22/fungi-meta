@@ -2,6 +2,7 @@
  "genus": "Xylobolus",
  "name": "spectabilis",
  "date": [
+  "08/11/2024,7828132543963775",
   "06/28/2024,7571406869636345",
   "05/22/2024,7444360285674338",
   "08/22/2023,6322271204549924",
@@ -181,6 +182,10 @@
   {
    "author": "吳湯姆",
    "image_src": "Xylobolus_spectabilis_ddbf3930-3613-11ef-9f09-97604c706fe0_9.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Xylobolus_spectabilis_a968d390-be66-10dc-8fce-51116734333e_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -229,5 +234,6 @@
    "url": "https://www.inaturalist.org/taxa/890618-Xylobolus-spectabilis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43172145/thumb.jpeg"
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }

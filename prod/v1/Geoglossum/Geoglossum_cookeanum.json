@@ -2,6 +2,7 @@
  "genus": "Geoglossum",
  "name": "cookeanum",
  "date": [
+  "07/21/2024,7724373177673046",
   "09/11/2023,6431475946962782",
   "10/30/2020,3243337739109968"
  ],
@@ -26,6 +27,54 @@
   {
    "author": "James Ho",
    "image_src": "Geoglossum_cookeanum_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geoglossum_cookeanum_99a4e340-e4d7-10db-ad55-19902423bb2d_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -76,5 +125,6 @@
    "url": "https://www.inaturalist.org/taxa/194561-Geoglossum-cookeanum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1670308/thumb.JPG"
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }

@@ -2,6 +2,7 @@
  "genus": "Typhula",
  "name": "setipes",
  "date": [
+  "08/09/2024,7810164069093956",
   "04/27/2024,7276848149092220",
   "10/25/2023,6564097980367244",
   "04/02/2023,5851950231582026",
@@ -142,5 +143,6 @@
    "url": "https://www.inaturalist.org/taxa/384622-Typhula-setipes",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28080336/thumb.jpg"
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }

@@ -83,7 +83,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "此種粉褶菌生長在針葉樹林下潮濕苔蘚環境中，土壤是酸性的。其他藍色系粉褶生長在草地/一般較稀疏林地的鹼性石灰質土壤中。",
+  "Note": "此種粉褶菌傘面反光性較佳，生長在針葉樹林下潮濕苔蘚環境中，土壤是酸性的。其他藍色系粉褶生長在草地/一般較稀疏林地的鹼性石灰質土壤中。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -93,5 +93,6 @@
    "url": "https://www.inaturalist.org/taxa/410778-Entoloma-nitidum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/175496690/thumb.jpg"
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }

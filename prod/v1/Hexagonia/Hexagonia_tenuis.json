@@ -121,9 +121,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Phaeotrametes cf. decipiens,,",
   "Note": "菌孔較淺，菌孔直徑約為1-2孔/mm。菌蓋有同心環紋。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "疑似愚人褐栓菌,,",
+  "la_zhcn": "疑似愚人褐栓菌,,"
  },
  "inaturalist": [
   {
@@ -132,5 +134,6 @@
    "url": "https://www.inaturalist.org/taxa/351004-Hexagonia-tenuis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/95703902/thumb.jpg"
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }

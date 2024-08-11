@@ -2,6 +2,7 @@
  "genus": "Panellus",
  "name": "pusillus",
  "date": [
+  "08/10/2024,7821018938008469",
   "06/21/2024,7537688389674860",
   "04/30/2024,7341588122618222",
   "12/23/2023,6776246815819025",
@@ -123,6 +124,10 @@
   {
    "author": "陳麗紅",
    "image_src": "Panellus_pusillus_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Panellus_pusillus_f0cfbfc0-03c0-10dc-ad55-19902423bb2d_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -172,5 +177,6 @@
    "url": "https://www.inaturalist.org/taxa/351677-Panellus-pusillus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5748774/thumb.jpeg"
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }

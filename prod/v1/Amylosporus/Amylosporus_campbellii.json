@@ -2,6 +2,7 @@
  "genus": "Amylosporus",
  "name": "campbellii",
  "date": [
+  "08/08/2024,7808860822557614",
   "06/12/2024,7488868574556842"
  ],
  "names_zhtw": [
@@ -65,6 +66,26 @@
   {
    "author": "陳中城",
    "image_src": "Amylosporus_campbellii_28760fe0-3069-11ef-9be4-b922032364bc_14.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amylosporus_campbellii_1488d3e0-5891-10d8-be34-db5e30d0b2fe_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amylosporus_campbellii_1488d3e0-5891-10d8-be34-db5e30d0b2fe_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amylosporus_campbellii_1488d3e0-5891-10d8-be34-db5e30d0b2fe_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amylosporus_campbellii_1488d3e0-5891-10d8-be34-db5e30d0b2fe_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Amylosporus_campbellii_1488d3e0-5891-10d8-be34-db5e30d0b2fe_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -113,5 +134,6 @@
    "url": "https://www.inaturalist.org/taxa/350075-Amylosporus-campbellii",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63460330/thumb.jpeg"
   }
- ]
+ ],
+ "timestamp": "20240811-205700"
 }
