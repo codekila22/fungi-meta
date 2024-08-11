@@ -50,5 +50,51 @@
  "names_zhcn": [
   "欧氏鹅膏"
  ],
- "timestamp": "20240811-204246"
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Amanita virosa,,",
+  "Note": "",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "鱗柄白鵝膏,,",
+  "la_zhcn": "鳞柄白鹅膏,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita oberwinkleriana",
+   "cname": "Oberwinkler's Destroying Angel",
+   "url": "https://www.inaturalist.org/taxa/1349128-Amanita-oberwinkleriana",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/84772280/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240811-205700"
 }
