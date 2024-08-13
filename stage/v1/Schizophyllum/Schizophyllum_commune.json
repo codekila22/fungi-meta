@@ -2,6 +2,7 @@
  "genus": "Schizophyllum",
  "name": "commune",
  "date": [
+  "08/11/2024,7833476640096032",
   "08/08/2024,7802996673144029",
   "04/13/2024,7216640278446341",
   "04/06/2024,7189963104447392",
@@ -319,6 +320,10 @@
   {
    "author": "朱艷",
    "image_src": "Schizophyllum_commune_0bf179e0-f987-11ee-931a-af006bfe911e_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Schizophyllum_commune_1d8029f0-b003-10df-a187-09f179fd82f1_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -368,5 +373,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/310771/thumb.JPG"
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240813-181947"
 }
