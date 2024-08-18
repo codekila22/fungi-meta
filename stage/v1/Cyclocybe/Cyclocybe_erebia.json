@@ -106,5 +106,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20240818-162218"
+ "inaturalist": [
+  {
+   "name": "Cyclocybe erebia",
+   "cname": "Dark Fieldcap",
+   "url": "https://www.inaturalist.org/taxa/628418-Cyclocybe-erebia",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/169115546/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240818-164221"
 }
