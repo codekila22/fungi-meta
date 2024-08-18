@@ -2,6 +2,7 @@
  "genus": "Termitomyces",
  "name": "intermedius",
  "date": [
+  "08/17/2024,7857896834320679",
   "08/03/2021,4002180219892379"
  ],
  "names_zhtw": [
@@ -72,6 +73,26 @@
   {
    "author": "",
    "image_src": "Termitomyces_eurrhizus_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "賴永祥",
+   "image_src": "Termitomyces_intermedius_07cf9020-62ec-10f1-aaea-3dcd9f8cede6_1.jpg"
+  },
+  {
+   "author": "賴永祥",
+   "image_src": "Termitomyces_intermedius_07cf9020-62ec-10f1-aaea-3dcd9f8cede6_2.jpg"
+  },
+  {
+   "author": "賴永祥",
+   "image_src": "Termitomyces_intermedius_07cf9020-62ec-10f1-aaea-3dcd9f8cede6_3.jpg"
+  },
+  {
+   "author": "賴永祥",
+   "image_src": "Termitomyces_intermedius_07cf9020-62ec-10f1-aaea-3dcd9f8cede6_4.jpg"
+  },
+  {
+   "author": "賴永祥",
+   "image_src": "Termitomyces_intermedius_07cf9020-62ec-10f1-aaea-3dcd9f8cede6_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -113,7 +134,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "根據論文描述，目前此物種僅在苗栗以南有紀錄。",
+  "Note": "",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -124,5 +145,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/187153577/thumb.jpeg"
   }
  ],
- "timestamp": "20240818-094030"
+ "timestamp": "20240818-132752"
 }
