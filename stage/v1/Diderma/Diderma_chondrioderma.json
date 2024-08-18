@@ -2,13 +2,16 @@
  "genus": "Diderma",
  "name": "chondrioderma",
  "date": [
-  "01/01/0001"
+  "08/15/2024,7868389499938079",
+  "05/18/2022,4925676697542722",
+  "08/30/2020,3065042486939495",
+  "10/15/2016,1022441694532928"
  ],
  "names_zhtw": [
   "苔生雙皮黏菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/3090",
+ "url": "7868389499938079",
  "images": [
   {
    "author": "陳雅芬",
@@ -37,6 +40,18 @@
   {
    "author": "陳雅芬",
    "image_src": "Diderma_chondrioderma_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Diderma_chondrioderma_2fa6d900-a42d-10f1-aaea-3dcd9f8cede6_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Diderma_chondrioderma_2fa6d900-a42d-10f1-aaea-3dcd9f8cede6_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Diderma_chondrioderma_2fa6d900-a42d-10f1-aaea-3dcd9f8cede6_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -84,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4127206/thumb.jpg"
   }
  ],
- "timestamp": "20240818-132752"
+ "timestamp": "20240818-162218"
 }
