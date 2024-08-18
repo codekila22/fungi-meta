@@ -2,8 +2,17 @@
  "name": "Helvella",
  "zhtw": "馬鞍菌屬",
  "zhcn": "马鞍菌属",
- "timestamp": "20240818-172619",
+ "timestamp": "20240818-230853",
  "list": [
+  {
+   "name": "Helvella chinensis",
+   "zhtw": "中華馬鞍菌",
+   "zhcn": "中华马鞍菌",
+   "current": "Helvella fibrosa",
+   "current_zhtw": "纖絨馬鞍菌",
+   "current_zhcn": "纤绒马鞍菌",
+   "img": "Helvella_fibrosa_4_CC BY-NC_蛾米.jpg"
+  },
   {
    "name": "Helvella atra",
    "zhtw": "黑馬鞍菌",
@@ -33,6 +42,15 @@
    "zhtw": "粒柄馬鞍菌",
    "zhcn": "粒柄马鞍菌",
    "img": "Helvella_macropus_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Helvella villosa",
+   "zhtw": "絨毛馬鞍菌",
+   "zhcn": "绒毛马鞍菌",
+   "current": "Helvella fibrosa",
+   "current_zhtw": "纖絨馬鞍菌",
+   "current_zhcn": "纤绒马鞍菌",
+   "img": "Helvella_fibrosa_4_CC BY-NC_蛾米.jpg"
   },
   {
    "name": "Helvella lacunosa",

@@ -42,5 +42,49 @@
  "names_zhcn": [
   "褐红盖新牛肝菌"
  ],
- "timestamp": "20240818-172619"
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "0,80",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "blue",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Neoboletus brunneorubrocarpus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1483827-Neoboletus-brunneorubrocarpus",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240818-230853"
 }
