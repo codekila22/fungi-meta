@@ -2,6 +2,7 @@
  "genus": "Haddowia",
  "name": "longipes",
  "date": [
+  "08/14/2024,7846056332171396",
   "01/04/2024,6821780794598960"
  ],
  "names_zhtw": [
@@ -55,6 +56,66 @@
   {
    "author": "朱艷",
    "image_src": "Haddowia_longipes_9fd3df50-ab75-11ee-8b4a-6fad70c1338e_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_14.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Haddowia_longipes_0ea333d0-e00f-10f0-884d-7b2d90cf3f9f_15.jpg"
   }
  ],
  "names_zhcn": [
@@ -64,7 +125,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4287299584,4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,35",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -74,7 +135,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "5,7",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -89,7 +150,7 @@
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "Bruising": "brown",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
@@ -106,5 +167,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40317135/thumb.jpeg"
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240818-172619"
 }

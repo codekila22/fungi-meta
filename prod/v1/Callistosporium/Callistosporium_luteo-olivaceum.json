@@ -2,6 +2,7 @@
  "genus": "Callistosporium",
  "name": "luteo-olivaceum",
  "date": [
+  "08/18/2024,7868314033278959",
   "08/09/2024,7815463195230710",
   "06/22/2024,7552012648242434",
   "05/24/2024,7403409233102777",
@@ -147,6 +148,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Callistosporium_luteo-olivaceum_5938d860-68d7-10d6-9d5a-3db82ac53d2a_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Callistosporium_luteo-olivaceum_9987cad0-e368-10f1-b652-693ad4795a9c_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Callistosporium_luteo-olivaceum_9987cad0-e368-10f1-b652-693ad4795a9c_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Callistosporium_luteo-olivaceum_9987cad0-e368-10f1-b652-693ad4795a9c_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -195,5 +208,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14409785/thumb.jpg"
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240818-172619"
 }

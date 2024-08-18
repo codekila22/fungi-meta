@@ -2,6 +2,7 @@
  "genus": "Hymenagaricus",
  "name": "olivaceus",
  "date": [
+  "08/16/2024,7857133781063651",
   "06/15/2024,7503803563063343",
   "06/08/2024,7473619289415104",
   "05/04/2023,6001879959922385"
@@ -59,6 +60,54 @@
   {
    "author": "林雪",
    "image_src": "Hymenagaricus_olivaceus_91304840-2b85-11ef-b89c-95896dce0d14_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_9.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_10.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_11.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_158e9120-0329-10f1-bf2f-9d3e15a428e6_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -66,7 +115,7 @@
  ],
  "meta": {
   "CapColors": "4286611456,4285238819,4278222848",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -97,10 +146,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Xanthagaricus pakistanicus,,",
-  "Note": "",
+  "Note": "體型比相似種大。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "巴基斯坦黃蘑菇,,",
   "la_zhcn": "巴基斯坦黄蘑菇,,"
  },
- "timestamp": "20240811-205700"
+ "timestamp": "20240818-172619"
 }

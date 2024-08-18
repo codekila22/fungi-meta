@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20240811-205700",
+ "timestamp": "20240818-172619",
  "list": [
   {
    "name": "Mycena manipularis",
@@ -327,6 +327,12 @@
    "zhtw": "彩麗小菇相似種",
    "zhcn": "彩丽小菇相似种",
    "img": "Mycena_aff.  picta_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Mycena meliigena",
+   "zhtw": "楝小菇",
+   "zhcn": "楝小菇",
+   "img": "Mycena_meliigena_238002b0-1170-10eb-affb-ed4c795f324c_1.jpg"
   },
   {
    "name": "Mycena cf. inclinata",

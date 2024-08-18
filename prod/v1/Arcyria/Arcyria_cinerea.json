@@ -9,6 +9,7 @@
   "07/15/2023,6196709273772785",
   "07/02/2023,6198364330273946",
   "06/23/2023,6124292871014426",
+  "06/17/2023,7855017387941957",
   "06/15/2023,6092474274196286",
   "05/21/2023,5999741460136235",
   "05/18/2023,6009474942496220",
@@ -231,6 +232,34 @@
   {
    "author": "James Ho",
    "image_src": "Arcyria_cinerea_e8594f30-1006-11ef-9de4-b1c71bf8df6f_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Arcyria_cinerea_9d81d1f0-1595-10eb-affb-ed4c795f324c_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Arcyria_cinerea_9d81d1f0-1595-10eb-affb-ed4c795f324c_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Arcyria_cinerea_9d81d1f0-1595-10eb-affb-ed4c795f324c_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Arcyria_cinerea_9d81d1f0-1595-10eb-affb-ed4c795f324c_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Arcyria_cinerea_9d81d1f0-1595-10eb-affb-ed4c795f324c_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Arcyria_cinerea_9d81d1f0-1595-10eb-affb-ed4c795f324c_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Arcyria_cinerea_9d81d1f0-1595-10eb-affb-ed4c795f324c_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -279,5 +308,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11061/thumb.jpg"
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240818-172619"
 }

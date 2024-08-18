@@ -1,6 +1,6 @@
 {
  "genus": "Micropsalliota",
- "name": "lateritia var. vinaceipes",
+ "name": "wuyishanensis",
  "date": [
   "06/11/2024,7567700860006946",
   "06/01/2024,7439699119473788",
@@ -20,7 +20,7 @@
   "06/15/2021,4005545316222536"
  ],
  "names_zhtw": [
-  "磚紅小蘑菇酒紅變種"
+  "武夷山小蘑菇"
  ],
  "names_en": [],
  "url": "4005545316222536",
@@ -227,7 +227,7 @@
   }
  ],
  "names_zhcn": [
-  "砖红小蘑菇酒红变种"
+  "武夷山小蘑菇"
  ],
  "meta": {
   "CapColors": "4294901760",
@@ -267,5 +267,13 @@
   "la_zhtw": "莫勒囊小傘,,",
   "la_zhcn": "莫勒囊小伞,,"
  },
- "timestamp": "20240811-205700"
+ "inaturalist": [
+  {
+   "name": "Micropsalliota wuyishanensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1443774-Micropsalliota-wuyishanensis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/267568809/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20240818-172619"
 }
