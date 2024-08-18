@@ -4,6 +4,7 @@
  "date": [
   "08/11/2024,7833476640096032",
   "08/08/2024,7802996673144029",
+  "07/27/2024,7864536976989998",
   "04/13/2024,7216640278446341",
   "04/06/2024,7189963104447392",
   "02/10/2024,6962899487153756",
@@ -324,6 +325,18 @@
   {
    "author": "朱艷",
    "image_src": "Schizophyllum_commune_1d8029f0-b003-10df-a187-09f179fd82f1_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Schizophyllum_commune_ae787960-b9cc-10f0-8446-9b6d2eeb8d2c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Schizophyllum_commune_ae787960-b9cc-10f0-8446-9b6d2eeb8d2c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Schizophyllum_commune_ae787960-b9cc-10f0-8446-9b6d2eeb8d2c_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -352,10 +365,11 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped,scattered",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,bamboo",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
@@ -373,5 +387,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/310771/thumb.JPG"
   }
  ],
- "timestamp": "20240816-193839"
+ "timestamp": "20240818-094030"
 }
