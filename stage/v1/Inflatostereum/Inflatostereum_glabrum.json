@@ -2,6 +2,7 @@
  "genus": "Inflatostereum",
  "name": "glabrum",
  "date": [
+  "08/19/2024,7876448365798859",
   "08/19/2023,6334291940014517",
   "08/26/2019,6334291940014517",
   "08/29/2018,1696745913769166"
@@ -67,6 +68,34 @@
   {
    "author": "向高世",
    "image_src": "Inflatostereum_glabrum_eced64f0-43b0-11ee-b3bd-450cd7d23705_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Inflatostereum_glabrum_9217a000-8a3c-10f8-9e63-2fd2d82380ae_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Inflatostereum_glabrum_9217a000-8a3c-10f8-9e63-2fd2d82380ae_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Inflatostereum_glabrum_9217a000-8a3c-10f8-9e63-2fd2d82380ae_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Inflatostereum_glabrum_9217a000-8a3c-10f8-9e63-2fd2d82380ae_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Inflatostereum_glabrum_9217a000-8a3c-10f8-9e63-2fd2d82380ae_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Inflatostereum_glabrum_9217a000-8a3c-10f8-9e63-2fd2d82380ae_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Inflatostereum_glabrum_9217a000-8a3c-10f8-9e63-2fd2d82380ae_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -115,5 +144,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112302068/thumb.jpeg"
   }
  ],
- "timestamp": "20240820-203758"
+ "timestamp": "20240820-212712"
 }

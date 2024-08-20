@@ -2,6 +2,7 @@
  "genus": "Coprinopsis",
  "name": "cortinata",
  "date": [
+  "08/19/2024,7881815728595456",
   "01/06/2024,6828039637306409",
   "12/19/2020,3379759755467765"
  ],
@@ -47,6 +48,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Coprinopsis_cortinata_b81ec770-ac9a-11ee-b397-05ebc86b6b58_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33144220-8244-10f8-9e63-2fd2d82380ae_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33144220-8244-10f8-9e63-2fd2d82380ae_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33144220-8244-10f8-9e63-2fd2d82380ae_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33144220-8244-10f8-9e63-2fd2d82380ae_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -96,5 +113,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156356553/thumb.jpg"
   }
  ],
- "timestamp": "20240820-203758"
+ "timestamp": "20240820-212712"
 }

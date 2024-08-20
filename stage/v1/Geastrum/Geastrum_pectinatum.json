@@ -2,13 +2,22 @@
  "genus": "Geastrum",
  "name": "pectinatum",
  "date": [
-  "01/01/0001"
+  "08/20/2024,7880824078694621",
+  "08/01/2024,7765597850217245",
+  "09/09/2022,5225336220910100",
+  "08/25/2022,5183033498473706",
+  "09/11/2021,4130868413690225",
+  "09/09/2021,4113641708746229",
+  "03/23/2021,3619025981541140",
+  "03/13/2021,3593988650711540",
+  "09/05/2020,4216541408456258",
+  "09/10/2018,1705350336242057"
  ],
  "names_zhtw": [
   "篦齒地星"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/2530",
+ "url": "7880824078694621",
  "images": [
   {
    "author": "黃春珠",
@@ -29,6 +38,18 @@
   {
    "author": "黃春珠",
    "image_src": "Geastrum_pectinatum_5_CC BY-NC_黃春珠.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Geastrum_pectinatum_8b522910-8f15-10f8-9e63-2fd2d82380ae_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Geastrum_pectinatum_8b522910-8f15-10f8-9e63-2fd2d82380ae_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Geastrum_pectinatum_8b522910-8f15-10f8-9e63-2fd2d82380ae_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -84,5 +105,5 @@
    "src": "https://static.inaturalist.org/photos/13009167/thumb.jpg"
   }
  ],
- "timestamp": "20240820-203758"
+ "timestamp": "20240820-212712"
 }

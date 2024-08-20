@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20240820-203758",
+ "timestamp": "20240820-212712",
  "list": [
   {
    "name": "Mycena manipularis",
@@ -381,6 +381,12 @@
    "zhtw": "假樹皮生小菇",
    "zhcn": "假树皮生小菇",
    "img": "Mycena_pseudocorticola_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Mycena vulgaris",
+   "zhtw": "普通小菇",
+   "zhcn": "普通小菇",
+   "img": "Mycena_vulgaris_492b7020-8c16-10f8-9e63-2fd2d82380ae_1.jpg"
   },
   {
    "name": "Mycena sp.1",

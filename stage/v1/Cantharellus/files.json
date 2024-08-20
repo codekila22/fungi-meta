@@ -2,7 +2,7 @@
  "name": "Cantharellus",
  "zhtw": "雞油菌屬",
  "zhcn": "鸡油菌属",
- "timestamp": "20240820-203758",
+ "timestamp": "20240820-212712",
  "list": [
   {
    "name": "Cantharellus pallens",
@@ -60,6 +60,12 @@
    "zhtw": "小雞油菌",
    "zhcn": "小鸡油菌",
    "img": "Cantharellus_minor_2a699c20-3061-11ef-b2b1-832b5e5836f1_1.jpg"
+  },
+  {
+   "name": "Cantharellus koreanus",
+   "zhtw": "韓國雞油菌",
+   "zhcn": "韩国鸡油菌",
+   "img": "Cantharellus_koreanus_cc1cfc00-90d6-10f8-9e63-2fd2d82380ae_1.jpg"
   },
   {
    "name": "Cantharellus cibarius",

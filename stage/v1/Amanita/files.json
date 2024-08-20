@@ -2,7 +2,7 @@
  "name": "Amanita",
  "zhtw": "鵝膏屬",
  "zhcn": "鹅膏属",
- "timestamp": "20240820-203758",
+ "timestamp": "20240820-212712",
  "list": [
   {
    "name": "Amanita ochracea",
@@ -429,6 +429,12 @@
    "zhtw": "錐鱗白鵝膏",
    "zhcn": "锥鳞白鹅膏",
    "img": "Amanita_virgineoides_a96acbd0-85d9-11ee-8a1f-c3a1d19cd3ec_5.jpg"
+  },
+  {
+   "name": "Amanita sp.8",
+   "zhtw": "灰黃雙孢鵝膏",
+   "zhcn": "灰黄双孢鹅膏",
+   "img": "Amanita_sp.8_76cc4c50-92df-10f8-9e63-2fd2d82380ae_1.jpg"
   },
   {
    "name": "Amanita yenii",
