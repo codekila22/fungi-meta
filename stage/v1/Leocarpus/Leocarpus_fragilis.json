@@ -22,5 +22,60 @@
  "names_zhcn": [
   "光果黏菌"
  ],
- "timestamp": "20240820-212712"
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Leocarpus fragilis",
+   "cname": "Insect-egg Slime",
+   "url": "https://www.inaturalist.org/taxa/56273-Leocarpus-fragilis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251110640/thumb.jpg"
+  },
+  {
+   "name": "Leocarpus fragilis fragilis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/602715-Leocarpus-fragilis-fragilis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16206041/thumb.jpg"
+  },
+  {
+   "name": "Leocarpus fragilis var. bisporus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/602714-Leocarpus-fragilis-bisporus",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240820-214142"
 }

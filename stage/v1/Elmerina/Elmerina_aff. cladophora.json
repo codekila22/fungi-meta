@@ -50,5 +50,51 @@
  "names_zhcn": [
   "有枝榆孔菌的相似种"
  ],
- "timestamp": "20240820-212712"
+ "meta": {
+  "CapColors": "",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "1,2",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Elmerina cladophora,,",
+  "Note": "菌蓋表面毛較為粗糙。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "有枝榆孔菌,,",
+  "la_zhcn": "有枝榆孔菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Elmerina cladophora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/889023-Elmerina-cladophora",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/62773805/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20240820-214142"
 }
