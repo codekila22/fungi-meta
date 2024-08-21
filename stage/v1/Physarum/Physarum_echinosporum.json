@@ -38,5 +38,13 @@
  "names_zhcn": [
   "棘孢绒泡黏菌"
  ],
- "timestamp": "20240821-163646"
+ "inaturalist": [
+  {
+   "name": "Physarum echinosporum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1281804-Physarum-echinosporum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/158086872/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240821-192011"
 }

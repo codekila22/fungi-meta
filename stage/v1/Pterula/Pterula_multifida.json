@@ -2,9 +2,7 @@
  "genus": "Pterula",
  "name": "multifida",
  "date": [
-  "08/24/2023,6328399023937142",
   "08/06/2023,6327232307387147",
-  "06/22/2023,6117209008389479",
   "01/23/2023,5638064542970597",
   "11/19/2022,5439352706175116",
   "05/26/2022,4930090577101334",
@@ -82,30 +80,6 @@
    "image_src": "Pterula_multifida_4_CC BY-NC_陳麗紅.jpg"
   },
   {
-   "author": "江志緯",
-   "image_src": "Pterula_multifida_a89320f0-10df-11ee-95b9-07a289204818_1.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Pterula_multifida_a89320f0-10df-11ee-95b9-07a289204818_2.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Pterula_multifida_a89320f0-10df-11ee-95b9-07a289204818_3.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Pterula_multifida_a89320f0-10df-11ee-95b9-07a289204818_4.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Pterula_multifida_a89320f0-10df-11ee-95b9-07a289204818_5.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Pterula_multifida_a89320f0-10df-11ee-95b9-07a289204818_6.jpg"
-  },
-  {
    "author": "James Ho",
    "image_src": "Pterula_multifida_0a2d63b0-4214-11ee-a055-3ddad3b1d4d4_1.jpg"
   },
@@ -165,5 +139,5 @@
    "src": "https://static.inaturalist.org/photos/102604357/thumb.jpg"
   }
  ],
- "timestamp": "20240821-163646"
+ "timestamp": "20240821-192011"
 }
