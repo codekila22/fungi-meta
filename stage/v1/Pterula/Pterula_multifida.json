@@ -121,15 +121,17 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
-  "GrowthEnv": "wood,ground,bamboo",
+  "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Pterula bambusicola,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "竹生鬚瑚菌,,",
+  "la_zhcn": "竹生须瑚菌,,"
  },
  "inaturalist": [
   {
@@ -139,5 +141,5 @@
    "src": "https://static.inaturalist.org/photos/102604357/thumb.jpg"
   }
  ],
- "timestamp": "20240821-192011"
+ "timestamp": "20240821-192552"
 }
