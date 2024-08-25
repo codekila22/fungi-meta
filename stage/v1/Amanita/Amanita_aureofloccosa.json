@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "aureofloccosa",
  "date": [
+  "08/25/2024,7911149115662117",
   "08/23/2024,7899088006868228",
   "08/23/2024,7900977106679318",
   "08/21/2024,7897506603693035",
@@ -198,6 +199,26 @@
   {
    "author": "賴永祥",
    "image_src": "Amanita_aureofloccosa_550e82d0-621e-11ef-8f02-69e3d7fe61d6_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_aureofloccosa_adea94a0-62b1-11ef-b3bb-d126b381ba71_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_aureofloccosa_adea94a0-62b1-11ef-b3bb-d126b381ba71_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_aureofloccosa_adea94a0-62b1-11ef-b3bb-d126b381ba71_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_aureofloccosa_adea94a0-62b1-11ef-b3bb-d126b381ba71_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_aureofloccosa_adea94a0-62b1-11ef-b3bb-d126b381ba71_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -246,5 +267,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16073405/thumb.jpg"
   }
  ],
- "timestamp": "20240825-141201"
+ "timestamp": "20240825-153128"
 }
