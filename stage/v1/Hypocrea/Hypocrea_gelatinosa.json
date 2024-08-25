@@ -2,6 +2,7 @@
  "genus": "Hypocrea",
  "name": "gelatinosa",
  "date": [
+  "07/07/2024,7911388228971539",
   "01/09/2024,6856020197841686",
   "06/26/2023,6131950203582026",
   "06/15/2023,6092095707567476",
@@ -239,6 +240,18 @@
   {
    "author": "向高世",
    "image_src": "Hypocrea_gelatinosa_a22f94e0-c427-11ee-82ef-4de3d9afe48c_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hypocrea_gelatinosa_ed36f0c0-62b8-11ef-95d8-3fc96e831113_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hypocrea_gelatinosa_ed36f0c0-62b8-11ef-95d8-3fc96e831113_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Hypocrea_gelatinosa_ed36f0c0-62b8-11ef-95d8-3fc96e831113_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -287,5 +300,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/44584557/thumb.jpeg"
   }
  ],
- "timestamp": "20240825-153128"
+ "timestamp": "20240825-162644"
 }
