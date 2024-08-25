@@ -2,7 +2,7 @@
  "name": "Hypomyces",
  "zhtw": "菌寄生屬",
  "zhcn": "菌寄生属",
- "timestamp": "20240821-192552",
+ "timestamp": "20240825-100911",
  "list": [
   {
    "name": "Hypomyces subiculosus",
@@ -33,6 +33,12 @@
    "zhtw": "粉紅菌寄生",
    "zhcn": "粉红菌寄生",
    "img": "Hypomyces_rosellus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Hypomyces sp.1",
+   "zhtw": "革耳菌寄生(暫名)",
+   "zhcn": "革耳菌寄生(暂名)",
+   "img": "Hypomyces_sp.1_34085350-6155-11ef-83e8-5f1b8ef246ae_1.jpg"
   },
   {
    "name": "Hypomyces polyporinus",

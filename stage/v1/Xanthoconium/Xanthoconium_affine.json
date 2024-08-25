@@ -2,7 +2,8 @@
  "genus": "Xanthoconium",
  "name": "affine",
  "date": [
-  "01/01/0001"
+  "08/07/2024,7802642999846063",
+  "08/21/2020,3051413858302358"
  ],
  "names_zhtw": [
   "褐金孢牛肝菌",
@@ -22,6 +23,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Xanthoconium_affine_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthoconium_affine_33017520-621a-11ef-8f02-69e3d7fe61d6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthoconium_affine_33017520-621a-11ef-8f02-69e3d7fe61d6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthoconium_affine_33017520-621a-11ef-8f02-69e3d7fe61d6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthoconium_affine_33017520-621a-11ef-8f02-69e3d7fe61d6_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthoconium_affine_33017520-621a-11ef-8f02-69e3d7fe61d6_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthoconium_affine_33017520-621a-11ef-8f02-69e3d7fe61d6_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -89,5 +114,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/80194436/thumb.jpg"
   }
  ],
- "timestamp": "20240821-192552"
+ "timestamp": "20240825-100911"
 }

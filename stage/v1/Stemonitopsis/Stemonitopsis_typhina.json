@@ -2,6 +2,7 @@
  "genus": "Stemonitopsis",
  "name": "typhina",
  "date": [
+  "08/18/2024,7890968577680171",
   "10/22/2023,6592163094227399",
   "04/14/2023,5882150528561996",
   "04/01/2022,4782855445158182"
@@ -107,6 +108,38 @@
   {
    "author": "江志緯",
    "image_src": "Stemonitopsis_typhina_b8307c70-79de-11ee-9cc2-5982a5a7a528_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina_308b7ce0-613a-11ef-be83-0d9da1f4363b_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina_308b7ce0-613a-11ef-be83-0d9da1f4363b_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina_308b7ce0-613a-11ef-be83-0d9da1f4363b_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina_308b7ce0-613a-11ef-be83-0d9da1f4363b_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina_308b7ce0-613a-11ef-be83-0d9da1f4363b_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina_308b7ce0-613a-11ef-be83-0d9da1f4363b_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina_308b7ce0-613a-11ef-be83-0d9da1f4363b_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina_308b7ce0-613a-11ef-be83-0d9da1f4363b_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -155,5 +188,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/64908009/thumb.jpeg"
   }
  ],
- "timestamp": "20240821-192552"
+ "timestamp": "20240825-100911"
 }

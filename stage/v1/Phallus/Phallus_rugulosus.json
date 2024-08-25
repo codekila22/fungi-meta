@@ -2,6 +2,7 @@
  "genus": "Phallus",
  "name": "rugulosus",
  "date": [
+  "08/20/2024,7881875488589480",
   "03/31/2024,7181526928624343",
   "03/03/2024,7052271901549847",
   "03/01/2024,7043983829045321",
@@ -191,6 +192,22 @@
   {
    "author": "蔡古媧",
    "image_src": "Phallus_rugulosus_e1c5e5c0-fedb-11ee-9f08-4b63c7e9dc99_19.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_rugulosus_e6927b50-622b-11ef-8f99-bf08db8c4040_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_rugulosus_e6927b50-622b-11ef-8f99-bf08db8c4040_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_rugulosus_e6927b50-622b-11ef-8f99-bf08db8c4040_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_rugulosus_e6927b50-622b-11ef-8f99-bf08db8c4040_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -237,5 +254,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/51241534/thumb.jpeg"
   }
  ],
- "timestamp": "20240821-192552"
+ "timestamp": "20240825-100911"
 }

@@ -2,6 +2,7 @@
  "genus": "Lepiota",
  "name": "castanea",
  "date": [
+  "08/22/2024,7893390480771314",
   "06/11/2024,7488599824583717"
  ],
  "names_zhtw": [
@@ -41,6 +42,30 @@
   {
    "author": "徐秀團",
    "image_src": "Lepiota_castanea_bb54fca0-27f3-11ef-bc7e-3faa35eb0064_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -89,5 +114,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16179821/thumb.jpg"
   }
  ],
- "timestamp": "20240821-192552"
+ "timestamp": "20240825-100911"
 }

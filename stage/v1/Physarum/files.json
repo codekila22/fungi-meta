@@ -2,8 +2,14 @@
  "name": "Physarum",
  "zhtw": "絨泡黏菌屬",
  "zhcn": "绒泡黏菌属",
- "timestamp": "20240821-192552",
+ "timestamp": "20240825-100911",
  "list": [
+  {
+   "name": "Physarum ovisporum",
+   "zhtw": "卵孢絨泡黏菌",
+   "zhcn": "卵孢绒泡黏菌",
+   "img": "Physarum_ovisporum_912653f0-5fcc-11ef-805c-0b3a89feee7a_1.jpg"
+  },
   {
    "name": "Physarum roseum",
    "zhtw": "薔薇絨泡黏菌",

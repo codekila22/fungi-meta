@@ -2,7 +2,7 @@
  "name": "Stemonitis",
  "zhtw": "髮網黏菌屬",
  "zhcn": "发网黏菌属",
- "timestamp": "20240821-192552",
+ "timestamp": "20240825-100911",
  "list": [
   {
    "name": "Stemonitis smithii",
@@ -66,6 +66,12 @@
    "zhtw": "草生髮網黏菌",
    "zhcn": "草生发网黏菌",
    "img": "Stemonitis_herbatica_35714af0-9ccd-11ee-98b4-157429614128_1.jpg"
+  },
+  {
+   "name": "Stemonitis lignicola",
+   "zhtw": "木生髮網黏菌",
+   "zhcn": "木生发网黏菌",
+   "img": "Stemonitis_lignicola_1690d550-613b-11ef-be83-0d9da1f4363b_1.jpg"
   }
  ]
 }

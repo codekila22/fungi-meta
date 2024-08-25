@@ -2,7 +2,7 @@
  "name": "Cantharellus",
  "zhtw": "雞油菌屬",
  "zhcn": "鸡油菌属",
- "timestamp": "20240821-192552",
+ "timestamp": "20240825-100911",
  "list": [
   {
    "name": "Cantharellus pallens",
@@ -48,6 +48,12 @@
    "zhtw": "黃柄雞油菌",
    "zhcn": "黄柄鸡油菌",
    "img": "Cantharellus_lutescens_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Cantharellus citrinus",
+   "zhtw": "檸檬黃雞油菌",
+   "zhcn": "柠檬黄鸡油菌",
+   "img": "Cantharellus_citrinus_e3f5cf10-5fc8-11ef-805c-0b3a89feee7a_1.jpg"
   },
   {
    "name": "Cantharellus luteocomus",

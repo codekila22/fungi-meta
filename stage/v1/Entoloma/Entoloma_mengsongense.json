@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "mengsongense",
  "date": [
+  "08/24/2024,7904969079613454",
   "06/25/2024,7556590081118024",
   "06/22/2024,7542915962485436",
   "08/14/2023,6294740087303036",
@@ -144,6 +145,14 @@
   {
    "author": "徐秀團",
    "image_src": "Entoloma_mengsongense_07db2540-32d5-11ef-9e5b-1535c88f8fc1_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_mengsongense_d120e150-620b-11ef-8f02-69e3d7fe61d6_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_mengsongense_d120e150-620b-11ef-8f02-69e3d7fe61d6_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -195,5 +204,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240821-192552"
+ "timestamp": "20240825-100911"
 }

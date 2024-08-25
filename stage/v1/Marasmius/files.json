@@ -2,7 +2,7 @@
  "name": "Marasmius",
  "zhtw": "小皮傘屬",
  "zhcn": "小皮伞属",
- "timestamp": "20240821-192552",
+ "timestamp": "20240825-100911",
  "list": [
   {
    "name": "Marasmius aff.02 rotula",
@@ -155,10 +155,22 @@
    "img": "Marasmius_plicatulus_5_CC BY-NC.jpg"
   },
   {
+   "name": "Marasmius bambusiniformis",
+   "zhtw": "擬竹林小皮傘",
+   "zhcn": "拟竹林小皮伞",
+   "img": "Marasmius_bambusiniformis_d9511a90-620e-11ef-8f02-69e3d7fe61d6_1.jpg"
+  },
+  {
    "name": "Marasmius tenuissimus",
    "zhtw": "薄小皮傘",
    "zhcn": "薄小皮伞",
    "img": "Marasmius_tenuissimus_6_CC BY-NC_張惠娟.jpg"
+  },
+  {
+   "name": "Marasmius australotrichotus",
+   "zhtw": "南方毛小皮傘",
+   "zhcn": "南方毛小皮伞",
+   "img": "Marasmius_australotrichotus_3737ab20-6222-11ef-8f02-69e3d7fe61d6_1.jpg"
   },
   {
    "name": "Marasmius cf. setulosifolius",

@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20240821-192552",
+ "timestamp": "20240825-100911",
  "list": [
   {
    "name": "Mycena manipularis",
@@ -242,6 +242,12 @@
    "img": "Mycena_stylobates_88a55ec0-fa54-11ee-b757-d3950e150774_1.jpg"
   },
   {
+   "name": "Mycena sp.5",
+   "zhtw": "晶緣小菇(暫名)",
+   "zhcn": "晶缘小菇(暂名)",
+   "img": "Mycena_sp.5_b096e5a0-6211-11ef-8f02-69e3d7fe61d6_1.jpg"
+  },
+  {
    "name": "Mycena haematopus",
    "zhtw": "紅紫柄小菇",
    "zhcn": "红紫柄小菇",
@@ -273,6 +279,12 @@
    "zhtw": "利氏小菇澳洲變種",
    "zhcn": "利氏小菇澳洲变种",
    "img": "Mycena_leaiana var. australis_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena sp.6",
+   "zhtw": "霜紋小菇(暫名)",
+   "zhcn": "霜纹小菇(暂名)",
+   "img": "Mycena_sp.6_e1a3cef0-621c-11ef-8f02-69e3d7fe61d6_1.jpg"
   },
   {
    "name": "Mycena amicta",

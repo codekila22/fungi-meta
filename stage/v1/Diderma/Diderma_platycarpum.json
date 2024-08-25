@@ -2,6 +2,7 @@
  "genus": "Diderma",
  "name": "platycarpum",
  "date": [
+  "08/19/2024,7892588594184836",
   "05/26/2024,7421808797929487",
   "11/20/2016,1032835800160184"
  ],
@@ -98,6 +99,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Diderma_platycarpum_ca7a3230-20b5-11ef-baa6-07a240da963f_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_platycarpum_1ca743e0-627e-11ef-8f99-bf08db8c4040_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_platycarpum_1ca743e0-627e-11ef-8f99-bf08db8c4040_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_platycarpum_1ca743e0-627e-11ef-8f99-bf08db8c4040_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_platycarpum_1ca743e0-627e-11ef-8f99-bf08db8c4040_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -145,5 +162,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30426435/thumb.png"
   }
  ],
- "timestamp": "20240821-192552"
+ "timestamp": "20240825-100911"
 }

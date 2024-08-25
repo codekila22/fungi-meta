@@ -2,6 +2,7 @@
  "genus": "Cladonia",
  "name": "ramulosa",
  "date": [
+  "08/21/2024,7888375544606141",
   "11/05/2023,6642321879211520",
   "10/12/2022,5326858197424568",
   "07/22/2022,5095009553942768"
@@ -167,6 +168,30 @@
   {
    "author": "江志緯",
    "image_src": "Cladonia_ramulosa_1203f2f0-8b4f-11ee-922b-656a3c87a80c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_ramulosa_0a5780f0-622a-11ef-8f99-bf08db8c4040_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_ramulosa_0a5780f0-622a-11ef-8f99-bf08db8c4040_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_ramulosa_0a5780f0-622a-11ef-8f99-bf08db8c4040_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_ramulosa_0a5780f0-622a-11ef-8f99-bf08db8c4040_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_ramulosa_0a5780f0-622a-11ef-8f99-bf08db8c4040_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_ramulosa_0a5780f0-622a-11ef-8f99-bf08db8c4040_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -214,5 +239,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/184299746/thumb.jpg"
   }
  ],
- "timestamp": "20240821-192552"
+ "timestamp": "20240825-100911"
 }
