@@ -2,8 +2,8 @@
  "genus": "Suillus",
  "name": "sibiricus",
  "date": [
-  "09/23/2023,7895661000544262",
-  "06/12/2024,7895661000544262"
+  "06/12/2024,7895661000544262",
+  "09/23/2023,7895661000544262"
  ],
  "names_zhtw": [
   "污黃乳牛肝菌"
@@ -99,5 +99,41 @@
  "names_zhcn": [
   "污黄乳牛肝菌"
  ],
- "timestamp": "20240825-100911"
+ "meta": {
+  "CapColors": "4294956800,4294950656,4293313372",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "timestamp": "20240825-113743"
 }

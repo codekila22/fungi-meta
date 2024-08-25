@@ -14,6 +14,10 @@
  "url": "5326858197424568",
  "images": [
   {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_ramulosa_0a5780f0-622a-11ef-8f99-bf08db8c4040_1.jpg"
+  },
+  {
    "author": "江志緯",
    "image_src": "Cladonia_ramulosa_11_CC BY-NC_江志緯.jpg"
   },
@@ -171,10 +175,6 @@
   },
   {
    "author": "陳麗紅",
-   "image_src": "Cladonia_ramulosa_0a5780f0-622a-11ef-8f99-bf08db8c4040_1.jpg"
-  },
-  {
-   "author": "陳麗紅",
    "image_src": "Cladonia_ramulosa_0a5780f0-622a-11ef-8f99-bf08db8c4040_2.jpg"
   },
   {
@@ -239,5 +239,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/184299746/thumb.jpg"
   }
  ],
- "timestamp": "20240825-100911"
+ "timestamp": "20240825-113743"
 }

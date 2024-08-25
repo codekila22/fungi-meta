@@ -13,6 +13,14 @@
  "url": "6496354340474942",
  "images": [
   {
+   "author": "黃金興",
+   "image_src": "Russula_compacta_cb60bc00-801f-11ee-b8b0-d7622bd7e641_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_compacta_9d8c1ba0-61b3-11ef-9d40-7daafff69d1d_1.jpg"
+  },
+  {
    "author": "",
    "image_src": "Russula_compacta_1_CC BY-NC.jpg"
   },
@@ -50,10 +58,6 @@
   },
   {
    "author": "黃金興",
-   "image_src": "Russula_compacta_cb60bc00-801f-11ee-b8b0-d7622bd7e641_1.jpg"
-  },
-  {
-   "author": "黃金興",
    "image_src": "Russula_compacta_cb60bc00-801f-11ee-b8b0-d7622bd7e641_2.jpg"
   },
   {
@@ -71,10 +75,6 @@
   {
    "author": "黃金興",
    "image_src": "Russula_compacta_cb60bc00-801f-11ee-b8b0-d7622bd7e641_6.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Russula_compacta_9d8c1ba0-61b3-11ef-9d40-7daafff69d1d_1.jpg"
   },
   {
    "author": "吳湯姆",
@@ -122,11 +122,12 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "brown",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
@@ -143,5 +144,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/45998024/thumb.jpeg"
   }
  ],
- "timestamp": "20240825-100911"
+ "timestamp": "20240825-113743"
 }

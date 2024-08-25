@@ -34,5 +34,41 @@
  "names_zhcn": [
   "霜纹小菇(暂名)"
  ],
- "timestamp": "20240825-100911"
+ "meta": {
+  "CapColors": "4286141768,4292072403",
+  "CapDiamRangeValues": "4,10",
+  "CapShape": "depressed",
+  "CapTexture": "",
+  "CapMargin": "striated",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "傘面線條凹處有糖霜粉狀物的一種未知名小菇。",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20240825-113743"
 }

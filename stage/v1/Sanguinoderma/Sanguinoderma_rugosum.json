@@ -29,6 +29,10 @@
  "url": "5998753286901719",
  "images": [
   {
+   "author": "江志緯",
+   "image_src": "Sanguinoderma_rugosum_d3e6e320-61df-11ef-8070-edba09ff1188_7.jpg"
+  },
+  {
    "author": "James Ho",
    "image_src": "Sanguinoderma_rugosum_1e1cde80-12f5-11ee-bf91-f90cdac0d3b3_1.jpg"
   },
@@ -282,10 +286,6 @@
   },
   {
    "author": "江志緯",
-   "image_src": "Sanguinoderma_rugosum_d3e6e320-61df-11ef-8070-edba09ff1188_7.jpg"
-  },
-  {
-   "author": "江志緯",
    "image_src": "Sanguinoderma_rugosum_d3e6e320-61df-11ef-8070-edba09ff1188_8.jpg"
   }
  ],
@@ -343,5 +343,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/111596254/thumb.jpeg"
   }
  ],
- "timestamp": "20240825-100911"
+ "timestamp": "20240825-113743"
 }
