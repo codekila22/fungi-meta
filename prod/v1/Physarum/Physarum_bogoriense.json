@@ -2,6 +2,7 @@
  "genus": "Physarum",
  "name": "bogoriense",
  "date": [
+  "08/15/2024,7868389499938079",
   "06/14/2024,7508421739268192",
   "06/03/2024,7448471181929915",
   "04/27/2024,7280664725377229",
@@ -286,6 +287,26 @@
   {
    "author": "江志緯",
    "image_src": "Physarum_bogoriense_23bbc3f0-2b0a-11ef-99bc-fb7277b35fe8_11.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bogoriense_fc465d90-a1c2-10f1-aaea-3dcd9f8cede6_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bogoriense_fc465d90-a1c2-10f1-aaea-3dcd9f8cede6_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bogoriense_fc465d90-a1c2-10f1-aaea-3dcd9f8cede6_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bogoriense_fc465d90-a1c2-10f1-aaea-3dcd9f8cede6_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bogoriense_fc465d90-a1c2-10f1-aaea-3dcd9f8cede6_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -333,5 +354,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/42374834/thumb.jpg"
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240825-190245"
 }

@@ -2,8 +2,14 @@
  "name": "Pterula",
  "zhtw": "鬚瑚菌屬",
  "zhcn": "须瑚菌属",
- "timestamp": "20240811-205700",
+ "timestamp": "20240825-190245",
  "list": [
+  {
+   "name": "Pterula bambusicola",
+   "zhtw": "竹生鬚瑚菌",
+   "zhcn": "竹生须瑚菌",
+   "img": "Pterula_bambusicola_16ebb960-58a3-10fb-a952-033d43e2f9c1_1.jpg"
+  },
   {
    "name": "Pterula sp.1",
    "zhtw": "枯枝狀鬚瑚菌 (暫名)",

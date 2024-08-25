@@ -2,6 +2,7 @@
  "genus": "Hexagonia",
  "name": "tenuis",
  "date": [
+  "08/10/2024,7834178440025852",
   "01/02/2024,6813105872133119",
   "07/26/2023,6232368866873492",
   "04/01/2023,5877108689066180",
@@ -84,6 +85,26 @@
   {
    "author": "陳中城",
    "image_src": "Hexagonia_tenuis_9e5aa710-3106-11ee-9b49-6b3813a7d626_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hexagonia_tenuis_47f275d0-b439-10e1-9fbb-6725f4c53937_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hexagonia_tenuis_47f275d0-b439-10e1-9fbb-6725f4c53937_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hexagonia_tenuis_47f275d0-b439-10e1-9fbb-6725f4c53937_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hexagonia_tenuis_47f275d0-b439-10e1-9fbb-6725f4c53937_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hexagonia_tenuis_47f275d0-b439-10e1-9fbb-6725f4c53937_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -135,5 +156,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/95703902/thumb.jpg"
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240825-190245"
 }

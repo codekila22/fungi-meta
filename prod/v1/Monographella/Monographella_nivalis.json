@@ -1,0 +1,96 @@
+{
+ "genus": "Monographella",
+ "name": "nivalis",
+ "date": [
+  "08/23/2024,7905832179527144"
+ ],
+ "names_zhtw": [
+  "粉紅雪黴病",
+  "雪腐镰刀菌",
+  "紅色雪腐病"
+ ],
+ "names_en": [
+  "Pink snow mold",
+  "Microdochium Patch"
+ ],
+ "url": "7905832179527144",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Monographella_nivalis_499ae8f0-621c-11ef-8f02-69e3d7fe61d6_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Monographella_nivalis_499ae8f0-621c-11ef-8f02-69e3d7fe61d6_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Monographella_nivalis_499ae8f0-621c-11ef-8f02-69e3d7fe61d6_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Monographella_nivalis_499ae8f0-621c-11ef-8f02-69e3d7fe61d6_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Monographella_nivalis_499ae8f0-621c-11ef-8f02-69e3d7fe61d6_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Monographella_nivalis_499ae8f0-621c-11ef-8f02-69e3d7fe61d6_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Monographella_nivalis_499ae8f0-621c-11ef-8f02-69e3d7fe61d6_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粉红雪霉病",
+  "雪腐镰刀菌",
+  "红色雪腐病"
+ ],
+ "meta": {
+  "CapColors": "4294907027,4294902015",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Microdochium nivale",
+   "cname": "Pink Snow Mold",
+   "url": "https://www.inaturalist.org/taxa/1061814-Microdochium-nivale",
+   "src": "https://static.inaturalist.org/photos/15704283/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20240825-190245"
+}

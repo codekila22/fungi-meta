@@ -2,6 +2,7 @@
  "genus": "Brigantiaea",
  "name": "ferruginea",
  "date": [
+  "08/02/2024,7881938998583129",
   "03/30/2024,7224096111034091",
   "12/15/2022,5520691111374608",
   "09/16/2022,5548963658547353"
@@ -93,6 +94,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Brigantiaea_ferruginea_e7b083d0-fb04-11ee-93f2-5324884b52eb_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Brigantiaea_ferruginea_268b39e0-627c-11ef-8f99-bf08db8c4040_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Brigantiaea_ferruginea_268b39e0-627c-11ef-8f99-bf08db8c4040_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Brigantiaea_ferruginea_268b39e0-627c-11ef-8f99-bf08db8c4040_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Brigantiaea_ferruginea_268b39e0-627c-11ef-8f99-bf08db8c4040_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -141,5 +158,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240825-190245"
 }

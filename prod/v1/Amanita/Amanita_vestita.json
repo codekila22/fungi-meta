@@ -2,6 +2,9 @@
  "genus": "Amanita",
  "name": "vestita",
  "date": [
+  "08/20/2024,7880545322055830",
+  "08/20/2024,7880873088689720",
+  "08/17/2024,7863163390460690",
   "08/08/2024,7810398195737210",
   "09/05/2023,6369140939862950",
   "08/17/2023,6328784117231966",
@@ -205,6 +208,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_vestita_c4999720-e21c-10db-ad55-19902423bb2d_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Amanita_vestita_a716cf90-4a28-10f1-aaea-3dcd9f8cede6_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Amanita_vestita_a716cf90-4a28-10f1-aaea-3dcd9f8cede6_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Amanita_vestita_a716cf90-4a28-10f1-aaea-3dcd9f8cede6_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Amanita_vestita_a716cf90-4a28-10f1-aaea-3dcd9f8cede6_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Amanita_vestita_a716cf90-4a28-10f1-aaea-3dcd9f8cede6_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_vestita_7ddf1be0-1002-10f8-a8ef-fd39a6ada032_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_vestita_7ddf1be0-1002-10f8-a8ef-fd39a6ada032_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_vestita_7ddf1be0-1002-10f8-a8ef-fd39a6ada032_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Amanita_vestita_8afdeb70-11ca-10f8-a8ef-fd39a6ada032_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -253,5 +292,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253549348/thumb.jpg"
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240825-190245"
 }

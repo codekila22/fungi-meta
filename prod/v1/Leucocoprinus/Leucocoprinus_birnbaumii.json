@@ -2,6 +2,7 @@
  "genus": "Leucocoprinus",
  "name": "birnbaumii",
  "date": [
+  "08/21/2024,7904914056285623",
   "06/01/2024,7440404502736583",
   "06/01/2024,7568169366626762",
   "05/27/2024,7417344758375891",
@@ -189,6 +190,42 @@
   {
    "author": "江志緯",
    "image_src": "Leucocoprinus_birnbaumii_2fdec790-3497-11ef-b07c-d3b112b66de4_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_ddce0440-621b-11ef-8f02-69e3d7fe61d6_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_ddce0440-621b-11ef-8f02-69e3d7fe61d6_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_ddce0440-621b-11ef-8f02-69e3d7fe61d6_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_ddce0440-621b-11ef-8f02-69e3d7fe61d6_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_ddce0440-621b-11ef-8f02-69e3d7fe61d6_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_ddce0440-621b-11ef-8f02-69e3d7fe61d6_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_ddce0440-621b-11ef-8f02-69e3d7fe61d6_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_ddce0440-621b-11ef-8f02-69e3d7fe61d6_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_ddce0440-621b-11ef-8f02-69e3d7fe61d6_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -211,8 +248,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "30,100",
@@ -250,5 +287,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240825-190245"
 }

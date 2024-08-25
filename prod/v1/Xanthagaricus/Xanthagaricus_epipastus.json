@@ -2,6 +2,7 @@
  "genus": "Xanthagaricus",
  "name": "epipastus",
  "date": [
+  "08/15/2024,7906841922759503",
   "05/12/2024,7345872992189735",
   "08/14/2023,6294881683955543",
   "08/02/2023,6255465954563783",
@@ -112,6 +113,26 @@
   {
    "author": "陳中城",
    "image_src": "Xanthagaricus_epipastus_4e81a720-10cb-11ef-9926-f5a397d17d65_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_epipastus_d75608b0-6220-11ef-8f02-69e3d7fe61d6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_epipastus_d75608b0-6220-11ef-8f02-69e3d7fe61d6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_epipastus_d75608b0-6220-11ef-8f02-69e3d7fe61d6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_epipastus_d75608b0-6220-11ef-8f02-69e3d7fe61d6_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_epipastus_d75608b0-6220-11ef-8f02-69e3d7fe61d6_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -152,5 +173,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20240811-205700"
+ "timestamp": "20240825-190245"
 }

@@ -2,6 +2,7 @@
  "genus": "Boletellus",
  "name": "aurocontextus",
  "date": [
+  "08/18/2024,7869316443178718",
   "06/06/2023,6055280427915671",
   "07/30/2022,5112096175567439",
   "06/17/2021,7086486714795032",
@@ -129,6 +130,38 @@
   {
    "author": "蔡古媧",
    "image_src": "Boletellus_aurocontextus_295d4fc0-e8e5-11ee-839d-191b1ed2d70b_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Boletellus_aurocontextus_5020db80-5b08-10f2-b23d-9baa169d0b7d_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Boletellus_aurocontextus_5020db80-5b08-10f2-b23d-9baa169d0b7d_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Boletellus_aurocontextus_5020db80-5b08-10f2-b23d-9baa169d0b7d_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Boletellus_aurocontextus_5020db80-5b08-10f2-b23d-9baa169d0b7d_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Boletellus_aurocontextus_5020db80-5b08-10f2-b23d-9baa169d0b7d_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Boletellus_aurocontextus_5020db80-5b08-10f2-b23d-9baa169d0b7d_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Boletellus_aurocontextus_5020db80-5b08-10f2-b23d-9baa169d0b7d_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Boletellus_aurocontextus_5020db80-5b08-10f2-b23d-9baa169d0b7d_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -181,5 +214,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/316335791/thumb.jpg"
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240825-190245"
 }

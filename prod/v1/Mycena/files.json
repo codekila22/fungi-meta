@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20240811-205700",
+ "timestamp": "20240825-190245",
  "list": [
   {
    "name": "Mycena manipularis",
@@ -215,7 +215,7 @@
    "name": "Mycena ura",
    "zhtw": "紅心小菇",
    "zhcn": "红心小菇",
-   "img": "Mycena_ura_473cc890-271f-11ef-be93-3b4b832ef945_1.jpg"
+   "img": "Mycena_ura_55f02380-620e-11ef-8f02-69e3d7fe61d6_1.jpg"
   },
   {
    "name": "Mycena pura",
@@ -240,6 +240,12 @@
    "zhtw": "柱小菇",
    "zhcn": "柱小菇",
    "img": "Mycena_stylobates_88a55ec0-fa54-11ee-b757-d3950e150774_1.jpg"
+  },
+  {
+   "name": "Mycena sp.5",
+   "zhtw": "晶緣小菇(暫名)",
+   "zhcn": "晶缘小菇(暂名)",
+   "img": "Mycena_sp.5_b096e5a0-6211-11ef-8f02-69e3d7fe61d6_1.jpg"
   },
   {
    "name": "Mycena haematopus",
@@ -273,6 +279,12 @@
    "zhtw": "利氏小菇澳洲變種",
    "zhcn": "利氏小菇澳洲变种",
    "img": "Mycena_leaiana var. australis_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena sp.6",
+   "zhtw": "霜紋小菇(暫名)",
+   "zhcn": "霜纹小菇(暂名)",
+   "img": "Mycena_sp.6_e1a3cef0-621c-11ef-8f02-69e3d7fe61d6_1.jpg"
   },
   {
    "name": "Mycena amicta",
@@ -329,6 +341,12 @@
    "img": "Mycena_aff.  picta_1_CC BY-NC_陳雅芬.jpg"
   },
   {
+   "name": "Mycena meliigena",
+   "zhtw": "楝小菇",
+   "zhcn": "楝小菇",
+   "img": "Mycena_meliigena_238002b0-1170-10eb-affb-ed4c795f324c_1.jpg"
+  },
+  {
    "name": "Mycena cf. inclinata",
    "zhtw": "疑似彎柄小菇",
    "zhcn": "疑似弯柄小菇",
@@ -375,6 +393,12 @@
    "zhtw": "假樹皮生小菇",
    "zhcn": "假树皮生小菇",
    "img": "Mycena_pseudocorticola_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Mycena vulgaris",
+   "zhtw": "普通小菇",
+   "zhcn": "普通小菇",
+   "img": "Mycena_vulgaris_492b7020-8c16-10f8-9e63-2fd2d82380ae_1.jpg"
   },
   {
    "name": "Mycena sp.1",

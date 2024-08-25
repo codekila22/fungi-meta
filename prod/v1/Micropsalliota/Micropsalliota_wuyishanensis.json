@@ -1,0 +1,80 @@
+{
+ "genus": "Micropsalliota",
+ "name": "wuyishanensis",
+ "date": [
+  "08/06/2023,6297993143644397"
+ ],
+ "names_zhtw": [
+  "武夷山小蘑菇"
+ ],
+ "names_en": [],
+ "url": "6297993143644397",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Micropsalliota_lateritia var. vinaceipes_082cddb0-3b4e-11ee-8368-d31f8f757e73_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Micropsalliota_lateritia var. vinaceipes_082cddb0-3b4e-11ee-8368-d31f8f757e73_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Micropsalliota_lateritia var. vinaceipes_082cddb0-3b4e-11ee-8368-d31f8f757e73_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Micropsalliota_lateritia var. vinaceipes_082cddb0-3b4e-11ee-8368-d31f8f757e73_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "武夷山小蘑菇"
+ ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Cystolepiota moelleri,Micropsalliota lateritia,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "莫勒囊小傘,磚紅小蘑菇,",
+  "la_zhcn": "莫勒囊小伞,砖红小蘑菇,"
+ },
+ "inaturalist": [
+  {
+   "name": "Micropsalliota wuyishanensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1443774-Micropsalliota-wuyishanensis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/267568809/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20240825-190245"
+}

@@ -2,6 +2,7 @@
  "genus": "Leucocoprinus",
  "name": "cretaceus",
  "date": [
+  "08/14/2024,7851667544943608",
   "07/14/2024,7660997740677257",
   "07/01/2024,7588751891235176",
   "06/05/2024,7457953047648395",
@@ -209,6 +210,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Leucocoprinus_cretaceus_25f5aee0-5970-1077-8f2a-038c3d9c1715_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucocoprinus_cretaceus_6a76fcc0-e40e-10f0-884d-7b2d90cf3f9f_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucocoprinus_cretaceus_6a76fcc0-e40e-10f0-884d-7b2d90cf3f9f_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucocoprinus_cretaceus_6a76fcc0-e40e-10f0-884d-7b2d90cf3f9f_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucocoprinus_cretaceus_6a76fcc0-e40e-10f0-884d-7b2d90cf3f9f_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucocoprinus_cretaceus_6a76fcc0-e40e-10f0-884d-7b2d90cf3f9f_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -236,17 +257,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "30,80",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "wood,ground",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "土生或腐爛的枯木上生長。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -257,5 +279,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110450191/thumb.jpg"
   }
  ],
- "timestamp": "20240811-205700"
+ "timestamp": "20240825-190245"
 }

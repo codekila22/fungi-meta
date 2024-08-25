@@ -2,7 +2,7 @@
  "name": "Entoloma",
  "zhtw": "粉褶菌屬",
  "zhcn": "粉褶菌属",
- "timestamp": "20240811-205700",
+ "timestamp": "20240825-190245",
  "list": [
   {
    "name": "Entoloma chytrophilum",
@@ -15,6 +15,12 @@
    "zhtw": "乳突粉褶菌",
    "zhcn": "乳突粉褶菌",
    "img": "Entoloma_mastoideum_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Entoloma kujyuense",
+   "zhtw": "九重粉褶菌",
+   "zhcn": "九重粉褶菌",
+   "img": "Entoloma_kujyuense_0ac7a180-6b9f-10f1-aaea-3dcd9f8cede6_1.jpg"
   },
   {
    "name": "Entoloma cf. queletii",

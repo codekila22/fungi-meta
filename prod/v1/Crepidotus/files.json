@@ -2,8 +2,14 @@
  "name": "Crepidotus",
  "zhtw": "靴耳屬",
  "zhcn": "靴耳属",
- "timestamp": "20240811-205700",
+ "timestamp": "20240825-190245",
  "list": [
+  {
+   "name": "Crepidotus herbaceous",
+   "zhtw": "草本靴耳(暫名)",
+   "zhcn": "草本靴耳(暂名)",
+   "img": "Crepidotus_herbaceous_68599d50-e777-10f0-884d-7b2d90cf3f9f_1.jpg"
+  },
   {
    "name": "Crepidotus applanatus",
    "zhtw": "平扁靴耳",

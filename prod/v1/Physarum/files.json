@@ -2,8 +2,14 @@
  "name": "Physarum",
  "zhtw": "絨泡黏菌屬",
  "zhcn": "绒泡黏菌属",
- "timestamp": "20240811-205700",
+ "timestamp": "20240825-190245",
  "list": [
+  {
+   "name": "Physarum ovisporum",
+   "zhtw": "卵孢絨泡黏菌",
+   "zhcn": "卵孢绒泡黏菌",
+   "img": "Physarum_ovisporum_912653f0-5fcc-11ef-805c-0b3a89feee7a_1.jpg"
+  },
   {
    "name": "Physarum roseum",
    "zhtw": "薔薇絨泡黏菌",
@@ -93,6 +99,12 @@
    "zhtw": "盤頭絨泡黏菌",
    "zhcn": "盘头绒泡黏菌",
    "img": "Physarum_pezizoideum_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Physarum echinosporum",
+   "zhtw": "棘孢絨泡黏菌",
+   "zhcn": "棘孢绒泡黏菌",
+   "img": "Physarum_echinosporum_c87a85c0-0a7a-10fb-bb10-87327244f626_1.jpg"
   },
   {
    "name": "Physarum plicatum",

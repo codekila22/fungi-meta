@@ -1,0 +1,93 @@
+{
+ "genus": "Didymium",
+ "name": "nigripes",
+ "date": [
+  "06/08/2024,7892550697521959"
+ ],
+ "names_zhtw": [
+  "黑柄鈣皮黏菌"
+ ],
+ "names_en": [],
+ "url": "7892550697521959",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Didymium_nigripes_6ed67d50-613b-11ef-be83-0d9da1f4363b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Didymium_nigripes_6ed67d50-613b-11ef-be83-0d9da1f4363b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Didymium_nigripes_6ed67d50-613b-11ef-be83-0d9da1f4363b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Didymium_nigripes_6ed67d50-613b-11ef-be83-0d9da1f4363b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Didymium_nigripes_6ed67d50-613b-11ef-be83-0d9da1f4363b_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黑柄钙皮黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4286611584",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Didymium nigripes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/327927-Didymium-nigripes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/686894/thumb.jpg"
+  },
+  {
+   "name": "Didymium nigripes ssp. xanthopus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1026060-Didymium-nigripes-xanthopus",
+   "src": ""
+  },
+  {
+   "name": "Didymium nigripes ssp. nigripes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1056390-Didymium-nigripes-nigripes",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240825-190245"
+}
