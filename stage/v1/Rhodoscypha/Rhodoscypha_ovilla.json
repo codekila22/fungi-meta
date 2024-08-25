@@ -133,5 +133,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20240825-113743"
+ "inaturalist": [
+  {
+   "name": "Rhodoscypha ovilla",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1015775-Rhodoscypha-ovilla",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/149311844/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20240825-121638"
 }

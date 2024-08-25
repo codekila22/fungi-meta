@@ -51,7 +51,7 @@
   "CapDiamRangeValues": "",
   "CapShape": "",
   "CapTexture": "",
-  "CapMargin": "",
+  "CapMargin": "wavy",
   "HymeniumType": "",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
@@ -78,9 +78,19 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Marasmius sullivantii,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "沙氏小皮傘,,",
+  "la_zhcn": "沙氏小皮伞,,"
  },
- "timestamp": "20240825-113743"
+ "inaturalist": [
+  {
+   "name": "Marasmius australotrichotus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1508301-Marasmius-australotrichotus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250379189/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240825-121638"
 }

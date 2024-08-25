@@ -70,5 +70,13 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20240825-113743"
+ "inaturalist": [
+  {
+   "name": "Cantharellus citrinus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1374652-Cantharellus-citrinus",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240825-121638"
 }

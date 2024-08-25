@@ -69,5 +69,25 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20240825-113743"
+ "inaturalist": [
+  {
+   "name": "Didymium nigripes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/327927-Didymium-nigripes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/686894/thumb.jpg"
+  },
+  {
+   "name": "Didymium nigripes ssp. xanthopus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1026060-Didymium-nigripes-xanthopus",
+   "src": ""
+  },
+  {
+   "name": "Didymium nigripes ssp. nigripes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1056390-Didymium-nigripes-nigripes",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240825-121638"
 }

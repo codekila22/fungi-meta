@@ -93,5 +93,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20240825-113743"
+ "inaturalist": [
+  {
+   "name": "Stemonitis splendens",
+   "cname": "Chocolate Tube Slime",
+   "url": "https://www.inaturalist.org/taxa/53838-Stemonitis-splendens",
+   "src": "https://static.inaturalist.org/photos/12797119/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240825-121638"
 }
