@@ -2,8 +2,14 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20240825-201936",
+ "timestamp": "20240828-205812",
  "list": [
+  {
+   "name": "Mycena clavularis",
+   "zhtw": "棒柄小菇",
+   "zhcn": "棒柄小菇",
+   "img": "Mycena_clavularis_346a6660-634b-11ef-a4b3-c1319724dbee_1.jpg"
+  },
   {
    "name": "Mycena manipularis",
    "zhtw": "叢傘小菇",

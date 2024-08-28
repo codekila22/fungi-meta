@@ -2,6 +2,7 @@
  "genus": "Turbinellus",
  "name": "floccosus",
  "date": [
+  "08/26/2024,7922585171185178",
   "08/02/2024,7857171897726506",
   "07/09/2024,7638065799637118",
   "10/24/2023,6560310567412652",
@@ -166,6 +167,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Turbinellus_floccosus_7747eaa0-e91c-10f0-884d-7b2d90cf3f9f_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Turbinellus_floccosus_939569b0-6462-11ef-9759-178dd428cc82_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Turbinellus_floccosus_939569b0-6462-11ef-9759-178dd428cc82_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Turbinellus_floccosus_939569b0-6462-11ef-9759-178dd428cc82_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Turbinellus_floccosus_939569b0-6462-11ef-9759-178dd428cc82_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -214,5 +231,5 @@
    "src": "https://static.inaturalist.org/photos/52836567/thumb.jpg"
   }
  ],
- "timestamp": "20240825-201936"
+ "timestamp": "20240828-205812"
 }

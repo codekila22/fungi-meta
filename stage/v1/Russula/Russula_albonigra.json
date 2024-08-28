@@ -2,14 +2,30 @@
  "genus": "Russula",
  "name": "albonigra",
  "date": [
-  "01/01/0001"
+  "09/01/2021,7922330127877349"
  ],
  "names_zhtw": [
   "白黑紅菇"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/6450",
+ "url": "7922330127877349",
  "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Russula_albonigra_b5821ae0-6526-11ef-a69a-398f85428e2c_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Russula_albonigra_b5821ae0-6526-11ef-a69a-398f85428e2c_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Russula_albonigra_b5821ae0-6526-11ef-a69a-398f85428e2c_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Russula_albonigra_b5821ae0-6526-11ef-a69a-398f85428e2c_4.jpg"
+  },
   {
    "author": "柯文俊",
    "image_src": "Russula_albonigra_5_CC BY-NC_柯文俊.jpg"
@@ -82,5 +98,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12705358/thumb.jpg"
   }
  ],
- "timestamp": "20240825-201936"
+ "timestamp": "20240828-205812"
 }
