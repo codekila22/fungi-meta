@@ -14,6 +14,14 @@
  "url": "6328399023937142",
  "images": [
   {
+   "author": "江志緯",
+   "image_src": "Pterula_bambusicola_cefcbf00-629e-11ef-a1a5-6d2fc1be8327_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_bambusicola_cefcbf00-629e-11ef-a1a5-6d2fc1be8327_15.jpg"
+  },
+  {
    "author": "高玉玲",
    "image_src": "Pterula_bambusicola_16ebb960-58a3-10fb-a952-033d43e2f9c1_1.jpg"
   },
@@ -75,10 +83,6 @@
   },
   {
    "author": "江志緯",
-   "image_src": "Pterula_bambusicola_cefcbf00-629e-11ef-a1a5-6d2fc1be8327_2.jpg"
-  },
-  {
-   "author": "江志緯",
    "image_src": "Pterula_bambusicola_cefcbf00-629e-11ef-a1a5-6d2fc1be8327_3.jpg"
   },
   {
@@ -124,10 +128,6 @@
   {
    "author": "江志緯",
    "image_src": "Pterula_bambusicola_cefcbf00-629e-11ef-a1a5-6d2fc1be8327_14.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Pterula_bambusicola_cefcbf00-629e-11ef-a1a5-6d2fc1be8327_15.jpg"
   },
   {
    "author": "江志緯",
@@ -187,5 +187,5 @@
   "la_zhtw": "白鬚瑚菌,,",
   "la_zhcn": "白须瑚菌,,"
  },
- "timestamp": "20240828-205812"
+ "timestamp": "20240829-155325"
 }
