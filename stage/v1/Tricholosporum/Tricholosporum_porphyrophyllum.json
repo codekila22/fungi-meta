@@ -52,7 +52,7 @@
   "紫褶孢口蘑"
  ],
  "meta": {
-  "CapColors": "",
+  "CapColors": "4286141768,4289960447",
   "CapDiamRangeValues": "30,100",
   "CapShape": "",
   "CapTexture": "",
@@ -83,9 +83,19 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Collybia sordida,,",
+  "Note": "目前皆為台灣高雄市的柴山拍攝記錄。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "花臉金錢菇,,",
+  "la_zhcn": "花脸金钱菇,,"
  },
- "timestamp": "20240829-155325"
+ "inaturalist": [
+  {
+   "name": "Tricholosporum porphyrophyllum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/518923-Tricholosporum-porphyrophyllum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5755305/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20240829-161109"
 }
