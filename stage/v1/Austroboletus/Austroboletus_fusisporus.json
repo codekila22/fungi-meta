@@ -164,9 +164,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "bitter",
-  "LookAlikes": "",
-  "Note": "菌孔粉紅色。",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Austroboletus roseialbus,,",
+  "Note": "菌蓋褐色，菌孔粉紅色。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "粉白南牛肝菌,,",
+  "la_zhcn": "粉白南牛肝菌,,"
  },
  "inaturalist": [
   {
@@ -176,5 +178,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157482051/thumb.jpg"
   }
  ],
- "timestamp": "20240830-183307"
+ "timestamp": "20240830-185207"
 }
