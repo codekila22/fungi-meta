@@ -38,5 +38,13 @@
  "names_zhcn": [
   "粉白南牛肝菌"
  ],
- "timestamp": "20240830-181424"
+ "inaturalist": [
+  {
+   "name": "Austroboletus roseialbus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1458047-Austroboletus-roseialbus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/317201284/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240830-183307"
 }
