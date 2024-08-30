@@ -2,6 +2,7 @@
  "genus": "Boletus",
  "name": "sinoaurantiacus",
  "date": [
+  "08/28/2024,7943995765710785",
   "05/28/2024,7428193493957684",
   "10/14/2023,6519073191536390",
   "06/21/2023,6111948365582210",
@@ -116,6 +117,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Boletus_sinoaurantiacus_55763860-1ffe-11ef-a5e0-fd55933f0722_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_sinoaurantiacus_1a5577d0-66b4-11ef-b399-731216a2cb45_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_sinoaurantiacus_1a5577d0-66b4-11ef-b399-731216a2cb45_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_sinoaurantiacus_1a5577d0-66b4-11ef-b399-731216a2cb45_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_sinoaurantiacus_1a5577d0-66b4-11ef-b399-731216a2cb45_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -157,5 +174,5 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20240829-161109"
+ "timestamp": "20240830-175743"
 }

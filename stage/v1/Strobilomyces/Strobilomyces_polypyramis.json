@@ -2,6 +2,7 @@
  "genus": "Strobilomyces",
  "name": "polypyramis",
  "date": [
+  "08/26/2024,7943961925714169",
   "06/21/2024,7532253036885062",
   "10/28/2023,6572195586224150",
   "09/14/2023,6402993393144371",
@@ -179,6 +180,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Strobilomyces_polypyramis_d30a1d10-311e-11ef-8d9d-91a0ff3be111_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Strobilomyces_polypyramis_fd5e52c0-66ac-11ef-b399-731216a2cb45_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Strobilomyces_polypyramis_fd5e52c0-66ac-11ef-b399-731216a2cb45_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Strobilomyces_polypyramis_fd5e52c0-66ac-11ef-b399-731216a2cb45_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Strobilomyces_polypyramis_fd5e52c0-66ac-11ef-b399-731216a2cb45_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Strobilomyces_polypyramis_fd5e52c0-66ac-11ef-b399-731216a2cb45_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -227,5 +248,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155113005/thumb.jpg"
   }
  ],
- "timestamp": "20240829-161109"
+ "timestamp": "20240830-175743"
 }

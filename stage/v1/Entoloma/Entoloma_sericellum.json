@@ -2,7 +2,8 @@
  "genus": "Entoloma",
  "name": "sericellum",
  "date": [
-  "01/01/0001"
+  "08/26/2024,7923160931127602",
+  "08/07/2023,7923160931127602"
  ],
  "names_zhtw": [
   "絹毛粉褶菌"
@@ -37,6 +38,66 @@
   {
    "author": "陳雅芬",
    "image_src": "Entoloma_sericellum_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_12.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_13.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_14.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_15.jpg"
   }
  ],
  "names_zhcn": [
@@ -45,7 +106,7 @@
  "meta": {
   "CapColors": "4294967295,4291605388",
   "CapDiamRangeValues": "5,20",
-  "CapShape": "campanulate",
+  "CapShape": "campanulate,umbontae",
   "CapTexture": "fibrous,velvety",
   "CapMargin": "entire",
   "HymeniumType": "gilled",
@@ -75,7 +136,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "顏色從白色到奶油黃都有。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -86,5 +147,5 @@
    "src": "https://static.inaturalist.org/photos/1549920/thumb.jpg"
   }
  ],
- "timestamp": "20240829-161109"
+ "timestamp": "20240830-175743"
 }

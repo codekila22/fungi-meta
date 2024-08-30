@@ -2,13 +2,16 @@
  "genus": "Gyroporus",
  "name": "longicystidiatus",
  "date": [
-  "01/01/0001"
+  "08/26/2024,7917010408409321",
+  "07/08/2024,7917010408409321",
+  "05/09/2016,898270836950015",
+  "09/06/2015,782061055237661"
  ],
  "names_zhtw": [
   "毛蓋圓孔牛肝菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/784",
+ "url": "7917010408409321",
  "images": [
   {
    "author": "陳雅芬",
@@ -29,6 +32,38 @@
   {
    "author": "陳雅芬",
    "image_src": "Gyroporus_longicystidiatus_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gyroporus_longicystidiatus_d9bde560-665c-11ef-9cd5-5b42e1c893f3_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gyroporus_longicystidiatus_d9bde560-665c-11ef-9cd5-5b42e1c893f3_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gyroporus_longicystidiatus_d9bde560-665c-11ef-9cd5-5b42e1c893f3_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gyroporus_longicystidiatus_d9bde560-665c-11ef-9cd5-5b42e1c893f3_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gyroporus_longicystidiatus_d9bde560-665c-11ef-9cd5-5b42e1c893f3_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gyroporus_longicystidiatus_d9bde560-665c-11ef-9cd5-5b42e1c893f3_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gyroporus_longicystidiatus_d9bde560-665c-11ef-9cd5-5b42e1c893f3_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gyroporus_longicystidiatus_d9bde560-665c-11ef-9cd5-5b42e1c893f3_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -77,5 +112,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240829-161109"
+ "timestamp": "20240830-175743"
 }
