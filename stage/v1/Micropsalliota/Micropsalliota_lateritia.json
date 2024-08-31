@@ -2,6 +2,7 @@
  "genus": "Micropsalliota",
  "name": "lateritia",
  "date": [
+  "08/20/2024,7945072048936490",
   "06/11/2024,7567700860006946",
   "06/01/2024,7439699119473788",
   "04/28/2024,7284189505024751",
@@ -207,6 +208,30 @@
   {
    "author": "江志緯",
    "image_src": "Micropsalliota_lateritia var. vinaceipes_cc9482e0-348e-11ef-bb3e-c31ffa17de5c_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Micropsalliota_lateritia_0cdec280-66d4-11ef-bd74-696d3d9dbe06_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Micropsalliota_lateritia_0cdec280-66d4-11ef-bd74-696d3d9dbe06_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Micropsalliota_lateritia_0cdec280-66d4-11ef-bd74-696d3d9dbe06_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Micropsalliota_lateritia_0cdec280-66d4-11ef-bd74-696d3d9dbe06_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Micropsalliota_lateritia_0cdec280-66d4-11ef-bd74-696d3d9dbe06_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Micropsalliota_lateritia_0cdec280-66d4-11ef-bd74-696d3d9dbe06_6.jpg"
   }
  ],
  "synonym": [
@@ -265,5 +290,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/173267171/thumb.jpeg"
   }
  ],
- "timestamp": "20240830-185207"
+ "timestamp": "20240831-091219"
 }
