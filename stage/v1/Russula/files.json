@@ -2,7 +2,7 @@
  "name": "Russula",
  "zhtw": "紅菇屬",
  "zhcn": "红菇属",
- "timestamp": "20240831-091219",
+ "timestamp": "20240831-165534",
  "list": [
   {
    "name": "Russula cyanoxantha",
@@ -45,6 +45,12 @@
    "zhtw": "辛巴紅菇",
    "zhcn": "辛巴红菇",
    "img": "Russula_shingbaensis_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Russula densifolia",
+   "zhtw": "密褶紅菇",
+   "zhcn": "密褶红菇",
+   "img": "Russula_densifolia_4fc8fd10-6763-11ef-83b1-c16b9f587388_1.jpg"
   },
   {
    "name": "Russula elegans",

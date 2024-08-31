@@ -2,6 +2,7 @@
  "genus": "Sirobasidium",
  "name": "magnum",
  "date": [
+  "08/29/2024,7937031393073889",
   "06/27/2024,7567604530016579",
   "06/10/2024,7483397605103939",
   "02/10/2024,6962899487153756",
@@ -85,6 +86,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Sirobasidium_magnum_f73d1070-c805-11ee-a4de-87f87226db8f_4.jpg"
+  },
+  {
+   "author": "高玉玲",
+   "image_src": "Sirobasidium_magnum_dbe9a780-6737-11ef-8f95-4943a0fc7aee_1.jpg"
+  },
+  {
+   "author": "高玉玲",
+   "image_src": "Sirobasidium_magnum_dbe9a780-6737-11ef-8f95-4943a0fc7aee_2.jpg"
+  },
+  {
+   "author": "高玉玲",
+   "image_src": "Sirobasidium_magnum_dbe9a780-6737-11ef-8f95-4943a0fc7aee_3.jpg"
+  },
+  {
+   "author": "高玉玲",
+   "image_src": "Sirobasidium_magnum_dbe9a780-6737-11ef-8f95-4943a0fc7aee_4.jpg"
+  },
+  {
+   "author": "高玉玲",
+   "image_src": "Sirobasidium_magnum_dbe9a780-6737-11ef-8f95-4943a0fc7aee_5.jpg"
+  },
+  {
+   "author": "高玉玲",
+   "image_src": "Sirobasidium_magnum_dbe9a780-6737-11ef-8f95-4943a0fc7aee_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -136,5 +161,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15573843/thumb.jpg"
   }
  ],
- "timestamp": "20240831-091219"
+ "timestamp": "20240831-165534"
 }
