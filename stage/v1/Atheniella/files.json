@@ -2,7 +2,7 @@
  "name": "Atheniella",
  "zhtw": "豔小菇屬",
  "zhcn": "艳小菇属",
- "timestamp": "20240901-193033",
+ "timestamp": "20240901-201925",
  "list": [
   {
    "name": "Atheniella adonis",
@@ -15,6 +15,12 @@
    "zhtw": "黃白艷小菇",
    "zhcn": "黄白艳小菇",
    "img": "Atheniella_aurantiidisca_6_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Atheniella flavoalba",
+   "zhtw": "象牙色艷小菇",
+   "zhcn": "象牙色艳小菇",
+   "img": "Mycena_aff. flavoalba_4b7ba0a0-ff94-11ee-84d1-c707d409f3d4_1.jpg"
   }
  ]
 }

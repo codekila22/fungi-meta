@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20240901-193033",
+ "timestamp": "20240901-201925",
  "list": [
   {
    "name": "Mycena clavularis",
@@ -173,6 +173,15 @@
    "img": "Mycena_holoporphyra_1_CC BY-NC_向高世.jpg"
   },
   {
+   "name": "Mycena flavoalba",
+   "zhtw": "黃白小菇",
+   "zhcn": "黄白小菇",
+   "current": "Atheniella flavoalba",
+   "current_zhtw": "象牙色艷小菇",
+   "current_zhcn": "象牙色艳小菇",
+   "img": "Mycena_aff. flavoalba_4b7ba0a0-ff94-11ee-84d1-c707d409f3d4_1.jpg"
+  },
+  {
    "name": "Mycena bulbosa",
    "zhtw": "球根小菇",
    "zhcn": "球根小菇",
@@ -333,12 +342,6 @@
    "zhtw": "龐克頭小菇",
    "zhcn": "庞克头小菇",
    "img": "Mycena_punkissima_1_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "name": "Mycena aff. flavoalba",
-   "zhtw": "黃白小菇之相似種",
-   "zhcn": "黄白小菇之相似种",
-   "img": "Mycena_aff. flavoalba_4b7ba0a0-ff94-11ee-84d1-c707d409f3d4_1.jpg"
   },
   {
    "name": "Mycena aff.  picta",

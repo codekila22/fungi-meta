@@ -2,7 +2,7 @@
  "name": "Conocybe",
  "zhtw": "錐蓋傘屬",
  "zhcn": "锥盖伞属",
- "timestamp": "20240901-193033",
+ "timestamp": "20240901-201925",
  "list": [
   {
    "name": "Conocybe aurea",
@@ -23,6 +23,12 @@
    "img": "Conocybe_incarnata_1_CC BY-NC.jpg"
   },
   {
+   "name": "Conocybe apala",
+   "zhtw": "阿帕錐蓋傘(複合群)",
+   "zhcn": "阿帕锥盖伞(复合群)",
+   "img": "Conocybe_lactea_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
    "name": "Conocybe tenera",
    "zhtw": "柔錐蓋傘",
    "zhcn": "柔锥盖伞",
@@ -32,6 +38,9 @@
    "name": "Conocybe lactea",
    "zhtw": "乳白錐蓋傘",
    "zhcn": "乳白锥盖伞",
+   "current": "Conocybe apala",
+   "current_zhtw": "阿帕錐蓋傘(複合群)",
+   "current_zhcn": "阿帕锥盖伞(复合群)",
    "img": "Conocybe_lactea_4_CC BY-NC_陳麗紅.jpg"
   }
  ]

@@ -1,11 +1,11 @@
 {
- "genus": "Mycena",
- "name": "aff. flavoalba",
+ "genus": "Atheniella",
+ "name": "flavoalba",
  "date": [
   "03/25/2022,4762216120555448"
  ],
  "names_zhtw": [
-  "黃白小菇之相似種"
+  "象牙色艷小菇"
  ],
  "names_en": [],
  "url": "4762216120555448",
@@ -59,8 +59,15 @@
    "image_src": "Mycena_aff. flavoalba_4b7ba0a0-ff94-11ee-84d1-c707d409f3d4_12.jpg"
   }
  ],
+ "synonym": [
+  {
+   "name": "Mycena flavoalba",
+   "zhtw": "黃白小菇",
+   "zhcn": "黄白小菇"
+  }
+ ],
  "names_zhcn": [
-  "黄白小菇之相似种"
+  "象牙色艳小菇"
  ],
  "meta": {
   "CapColors": "4294967295,4286141768,4294967040",
@@ -98,13 +105,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "inaturalist": [
-  {
-   "name": "Atheniella flavoalba",
-   "cname": "Ivory Bonnet",
-   "url": "https://www.inaturalist.org/taxa/499704-Atheniella-flavoalba",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/319753391/thumb.jpg"
-  }
- ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240901-201925"
 }
