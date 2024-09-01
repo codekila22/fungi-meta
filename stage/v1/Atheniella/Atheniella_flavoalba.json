@@ -105,5 +105,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20240901-201925"
+ "inaturalist": [
+  {
+   "name": "Atheniella flavoalba",
+   "cname": "Ivory Bonnet",
+   "url": "https://www.inaturalist.org/taxa/499704-Atheniella-flavoalba",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/319753391/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240901-202845"
 }

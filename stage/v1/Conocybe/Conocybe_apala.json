@@ -123,5 +123,25 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20240901-201925"
+ "inaturalist": [
+  {
+   "name": "Conocybe apala",
+   "cname": "Milky Conecap",
+   "url": "https://www.inaturalist.org/taxa/117227-Conocybe-apala",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10358324/thumb.jpg"
+  },
+  {
+   "name": "Conocybe apala var. albipes",
+   "cname": "White Dunce Cap",
+   "url": "https://www.inaturalist.org/taxa/1106485-Conocybe-apala-albipes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1641249/thumb.jpg"
+  },
+  {
+   "name": "Conocybe apala var. apala",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1106486-Conocybe-apala-apala",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/310883193/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240901-202845"
 }
