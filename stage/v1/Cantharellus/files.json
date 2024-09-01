@@ -2,19 +2,13 @@
  "name": "Cantharellus",
  "zhtw": "雞油菌屬",
  "zhcn": "鸡油菌属",
- "timestamp": "20240901-185749",
+ "timestamp": "20240901-193033",
  "list": [
   {
    "name": "Cantharellus pallens",
    "zhtw": "蒼白雞油菌",
    "zhcn": "苍白鸡油菌",
    "img": "Cantharellus_pallens_1_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "name": "Cantharellus cibarius var. albus",
-   "zhtw": "雞油菌白色型",
-   "zhcn": "鸡油菌白色型",
-   "img": "Cantharellus_cibarius var. albus_05afe740-0ab0-11ee-bbe7-dbb4e8cc0d3a_1.jpg"
   },
   {
    "name": "Cantharellus guyanensis",
@@ -42,6 +36,15 @@
    "zhtw": "火色雞油菌",
    "zhcn": "火色鸡油菌",
    "img": "Cantharellus_ignicolor_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Cantharellus cibarius var. albidus",
+   "zhtw": "雞油菌白色型",
+   "zhcn": "鸡油菌白色型",
+   "current": "Cantharellus subalbidus",
+   "current_zhtw": "近白雞油菌",
+   "current_zhcn": "近白鸡油菌",
+   "img": "Cantharellus_cibarius var. albus_05afe740-0ab0-11ee-bbe7-dbb4e8cc0d3a_1.jpg"
   },
   {
    "name": "Cantharellus lutescens",
@@ -84,6 +87,12 @@
    "zhtw": "薄黃雞油菌",
    "zhcn": "薄黄鸡油菌",
    "img": "Cantharellus_lateritius_16_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Cantharellus subalbidus",
+   "zhtw": "近白雞油菌",
+   "zhcn": "近白鸡油菌",
+   "img": "Cantharellus_cibarius var. albus_05afe740-0ab0-11ee-bbe7-dbb4e8cc0d3a_1.jpg"
   }
  ]
 }

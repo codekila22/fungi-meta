@@ -42,5 +42,51 @@
  "names_zhcn": [
   "红鳞小蘑菇"
  ],
- "timestamp": "20240901-185749"
+ "meta": {
+  "CapColors": "4293951616,4294901760",
+  "CapDiamRangeValues": "6,12",
+  "CapShape": "",
+  "CapTexture": "fine-scales",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "velvety",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "0,1",
+  "StalkLengthRangeValuess": "18,38",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Micropsalliota wuyishanensis,,",
+  "Note": "菌蓋上細鱗淡紅色，菌柄絨毛為白色。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "武夷山小蘑菇,,",
+  "la_zhcn": "武夷山小蘑菇,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Micropsalliota rufosquarrosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1426644-Micropsalliota-rufosquarrosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/252236625/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240901-193033"
 }
