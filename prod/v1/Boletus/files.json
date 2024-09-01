@@ -2,7 +2,7 @@
  "name": "Boletus",
  "zhtw": "牛肝菌屬",
  "zhcn": "牛肝菌属",
- "timestamp": "20240825-190245",
+ "timestamp": "20240901-193033",
  "list": [
   {
    "name": "Boletus reticulatus",
@@ -122,6 +122,9 @@
    "name": "Boletus rubellus",
    "zhtw": "朱紅牛肝菌",
    "zhcn": "朱红牛肝菌",
+   "current": "Hortiboletus rubellus",
+   "current_zhtw": "血色牛肝菌",
+   "current_zhcn": "血色牛肝菌",
    "img": "Boletus_rubellus_2ffa1860-0ac1-11ef-a0b4-33ebd64440d8_1.jpg"
   },
   {
@@ -146,6 +149,9 @@
    "name": "Boletus sinoaurantiacus",
    "zhtw": "華金黃牛肝菌",
    "zhcn": "华金黄牛肝菌",
+   "current": "Leccinellum sinoaurantiacum",
+   "current_zhtw": "華金黃小疣柄牛肝菌",
+   "current_zhcn": "华金黄小疣柄牛肝菌",
    "img": "Boletus_sinoaurantiacus_4b68b410-1082-11ee-9b0c-1383b78effa7_1.jpg"
   }
  ]

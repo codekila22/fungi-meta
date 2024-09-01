@@ -2,6 +2,7 @@
  "genus": "Rhytidhysteron",
  "name": "neorufulum",
  "date": [
+  "08/24/2024,7941602942616734",
   "02/09/2023,5680668535376864",
   "01/22/2023,5620991328011252",
   "01/08/2023,5578490905594628"
@@ -131,6 +132,26 @@
   {
    "author": "黃金興",
    "image_src": "Rhytidhysteron_neorufulum_12_CC BY-NC_黃金興.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Rhytidhysteron_neorufulum_e56b6510-668c-11ef-b6fb-e57a13f57f52_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Rhytidhysteron_neorufulum_e56b6510-668c-11ef-b6fb-e57a13f57f52_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Rhytidhysteron_neorufulum_e56b6510-668c-11ef-b6fb-e57a13f57f52_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Rhytidhysteron_neorufulum_e56b6510-668c-11ef-b6fb-e57a13f57f52_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Rhytidhysteron_neorufulum_e56b6510-668c-11ef-b6fb-e57a13f57f52_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -182,5 +203,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/259105659/thumb.jpeg"
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

@@ -23,7 +23,7 @@
   "烟色红菇"
  ],
  "meta": {
-  "CapColors": "4285098345,4278190080",
+  "CapColors": "4285098345,4278190080,4294967295",
   "CapDiamRangeValues": "",
   "CapShape": "",
   "CapTexture": "",
@@ -44,18 +44,21 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "red",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "not-edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Russula densifolia,,",
+  "Note": "幼菌白色，逐漸變成灰褐色至黑色，傷後紅褐色。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "密褶紅菇,,",
+  "la_zhcn": "密褶红菇,,"
  },
  "inaturalist": [
   {
@@ -95,5 +98,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

@@ -2,6 +2,7 @@
  "genus": "Clavulinopsis",
  "name": "corniculata",
  "date": [
+  "08/25/2024,7932904466819915",
   "08/20/2023,6318928341550877",
   "08/12/2020,3926388184138250",
   "08/01/2020,2988556577921420"
@@ -55,6 +56,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Clavulinopsis_corniculata_47e7a4d0-4170-11ee-8672-a1a8aef0d129_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Clavulinopsis_corniculata_626b7c00-65d7-11ef-bf2f-7d0777277c7f_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Clavulinopsis_corniculata_626b7c00-65d7-11ef-bf2f-7d0777277c7f_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Clavulinopsis_corniculata_626b7c00-65d7-11ef-bf2f-7d0777277c7f_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Clavulinopsis_corniculata_626b7c00-65d7-11ef-bf2f-7d0777277c7f_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Clavulinopsis_corniculata_626b7c00-65d7-11ef-bf2f-7d0777277c7f_5.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Clavulinopsis_corniculata_626b7c00-65d7-11ef-bf2f-7d0777277c7f_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -104,5 +129,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/628658/thumb.jpg"
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

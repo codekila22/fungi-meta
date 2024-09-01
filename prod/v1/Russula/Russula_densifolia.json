@@ -1,0 +1,130 @@
+{
+ "genus": "Russula",
+ "name": "densifolia",
+ "date": [
+  "08/30/2024,7949545281822500"
+ ],
+ "names_zhtw": [
+  "密褶紅菇"
+ ],
+ "names_en": [],
+ "url": "7949545281822500",
+ "images": [
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_densifolia_4fc8fd10-6763-11ef-83b1-c16b9f587388_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_densifolia_4fc8fd10-6763-11ef-83b1-c16b9f587388_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_densifolia_4fc8fd10-6763-11ef-83b1-c16b9f587388_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_densifolia_4fc8fd10-6763-11ef-83b1-c16b9f587388_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_densifolia_4fc8fd10-6763-11ef-83b1-c16b9f587388_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_densifolia_4fc8fd10-6763-11ef-83b1-c16b9f587388_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "密褶红菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "close",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "red,black",
+  "Bioluminescent": "",
+  "Edible": "not-edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Russula adusta,,",
+  "Note": "幼菌白色，然后到老化變成黑色。傷後先變成紅色然后變成黑色。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "煙色紅菇,,",
+  "la_zhcn": "烟色红菇,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula densifolia",
+   "cname": "Dense-gilled Russula",
+   "url": "https://www.inaturalist.org/taxa/194407-Russula-densifolia",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13536026/thumb.jpg"
+  },
+  {
+   "name": "Russula densifolia densifolia",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194405-Russula-densifolia-densifolia",
+   "src": ""
+  },
+  {
+   "name": "Russula densifolia var. caucasica",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194400-Russula-densifolia-caucasica",
+   "src": ""
+  },
+  {
+   "name": "Russula densifolia gregata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194401-Russula-densifolia-gregata",
+   "src": ""
+  },
+  {
+   "name": "Russula densifolia dilatoria",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194402-Russula-densifolia-dilatoria",
+   "src": ""
+  },
+  {
+   "name": "Russula densifolia fragrans",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194403-Russula-densifolia-fragrans",
+   "src": ""
+  },
+  {
+   "name": "Russula densifolia cremeispora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194404-Russula-densifolia-cremeispora",
+   "src": ""
+  },
+  {
+   "name": "Russula densifolia clementinae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194406-Russula-densifolia-clementinae",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240901-193033"
+}

@@ -2,7 +2,7 @@
  "name": "Austroboletus",
  "zhtw": "南牛肝菌屬",
  "zhcn": "南牛肝菌属",
- "timestamp": "20240825-190245",
+ "timestamp": "20240901-193033",
  "list": [
   {
    "name": "Austroboletus fusisporus",
@@ -33,6 +33,12 @@
    "zhtw": "淡黃綠南牛肝菌",
    "zhcn": "淡黄绿南牛肝菌",
    "img": "Austroboletus_subvirens_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Austroboletus roseialbus",
+   "zhtw": "粉白南牛肝菌",
+   "zhcn": "粉白南牛肝菌",
+   "img": "Austroboletus_roseialbus_d1bbaa40-66b7-11ef-bc6e-1fdee5e89099_1.jpg"
   },
   {
    "name": "Austroboletus olivaceoglutinosus",

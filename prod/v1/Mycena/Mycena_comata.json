@@ -2,7 +2,8 @@
  "genus": "Mycena",
  "name": "comata",
  "date": [
-  "05/20/2022"
+  "08/25/2024,7912521698858192",
+  "07/15/2020,3040112312765846"
  ],
  "names_zhtw": [
   "精靈小菇"
@@ -10,6 +11,14 @@
  "names_en": [],
  "url": "3040112312765846",
  "images": [
+  {
+   "author": "林雪",
+   "image_src": "Mycena_comata_3cb99490-62e6-11ef-8fb1-614f68c71ea9_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_comata_1_CC BY-NC_陳麗紅.jpg"
+  },
   {
    "author": "James Ho",
    "image_src": "Mycena_comata_1_CC BY-NC_James Ho.jpg"
@@ -32,10 +41,6 @@
   },
   {
    "author": "陳麗紅",
-   "image_src": "Mycena_comata_1_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "author": "陳麗紅",
    "image_src": "Mycena_comata_2_CC BY-NC_陳麗紅.jpg"
   },
   {
@@ -45,6 +50,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_comata_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Mycena_comata_3cb99490-62e6-11ef-8fb1-614f68c71ea9_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Mycena_comata_3cb99490-62e6-11ef-8fb1-614f68c71ea9_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Mycena_comata_3cb99490-62e6-11ef-8fb1-614f68c71ea9_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Mycena_comata_3cb99490-62e6-11ef-8fb1-614f68c71ea9_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -88,5 +109,5 @@
   "la_zhtw": "金黃小菇,,",
   "la_zhcn": "金黄小菇,,"
  },
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

@@ -1,14 +1,16 @@
 {
  "genus": "Cantharellus",
- "name": "cibarius var. albus",
+ "name": "subalbidus",
  "date": [
+  "08/26/2024,7922803251163370",
+  "08/26/2024,7921967791246916",
   "05/02/2024,7336009589842742",
   "08/20/2023,6315092445267800",
   "06/13/2023,6084913181619062",
   "09/09/2020,3091880817588995"
  ],
  "names_zhtw": [
-  "雞油菌白色型"
+  "近白雞油菌"
  ],
  "names_en": [
   "White Chanterelles"
@@ -58,10 +60,65 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Cantharellus_cibarius var. albus_753d08e0-0f96-11ef-914b-43585f1470e9_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_344e0f10-665c-11ef-9cd5-5b42e1c893f3_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_344e0f10-665c-11ef-9cd5-5b42e1c893f3_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_344e0f10-665c-11ef-9cd5-5b42e1c893f3_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_344e0f10-665c-11ef-9cd5-5b42e1c893f3_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_344e0f10-665c-11ef-9cd5-5b42e1c893f3_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius var. albus_344e0f10-665c-11ef-9cd5-5b42e1c893f3_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius var. albus_efd6d400-665d-11ef-9cd5-5b42e1c893f3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius var. albus_efd6d400-665d-11ef-9cd5-5b42e1c893f3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius var. albus_efd6d400-665d-11ef-9cd5-5b42e1c893f3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius var. albus_efd6d400-665d-11ef-9cd5-5b42e1c893f3_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius var. albus_efd6d400-665d-11ef-9cd5-5b42e1c893f3_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius var. albus_efd6d400-665d-11ef-9cd5-5b42e1c893f3_6.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Cantharellus cibarius var. albidus",
+   "zhtw": "雞油菌白色型",
+   "zhcn": "鸡油菌白色型"
   }
  ],
  "names_zhcn": [
-  "鸡油菌白色型"
+  "近白鸡油菌"
  ],
  "meta": {
   "CapColors": "4294967295",
@@ -98,5 +155,5 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

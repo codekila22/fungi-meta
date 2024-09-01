@@ -2,7 +2,7 @@
  "genus": "Austroboletus",
  "name": "fusisporus",
  "date": [
-  "08/25/2024,7911842762259419",
+  "08/30/2024,7944000295710332",
   "08/28/2023,6351336941643350",
   "06/14/2023,6209378945839151",
   "06/25/2022,5014859611957763",
@@ -109,24 +109,24 @@
    "image_src": "Austroboletus_fusisporus_82d25af0-480e-11ee-a169-db1697f7ebb8_5.jpg"
   },
   {
-   "author": "吳湯姆",
-   "image_src": "Austroboletus_fusisporus_23853e80-62cc-11ef-92c7-21c786441f1f_1.jpg"
+   "author": "蔣珮瑩",
+   "image_src": "Austroboletus_fusisporus_54b85050-66af-11ef-b399-731216a2cb45_1.jpg"
   },
   {
-   "author": "吳湯姆",
-   "image_src": "Austroboletus_fusisporus_23853e80-62cc-11ef-92c7-21c786441f1f_2.jpg"
+   "author": "蔣珮瑩",
+   "image_src": "Austroboletus_fusisporus_54b85050-66af-11ef-b399-731216a2cb45_2.jpg"
   },
   {
-   "author": "吳湯姆",
-   "image_src": "Austroboletus_fusisporus_23853e80-62cc-11ef-92c7-21c786441f1f_3.jpg"
+   "author": "蔣珮瑩",
+   "image_src": "Austroboletus_fusisporus_54b85050-66af-11ef-b399-731216a2cb45_3.jpg"
   },
   {
-   "author": "吳湯姆",
-   "image_src": "Austroboletus_fusisporus_23853e80-62cc-11ef-92c7-21c786441f1f_4.jpg"
+   "author": "蔣珮瑩",
+   "image_src": "Austroboletus_fusisporus_54b85050-66af-11ef-b399-731216a2cb45_4.jpg"
   },
   {
-   "author": "吳湯姆",
-   "image_src": "Austroboletus_fusisporus_23853e80-62cc-11ef-92c7-21c786441f1f_5.jpg"
+   "author": "蔣珮瑩",
+   "image_src": "Austroboletus_fusisporus_54b85050-66af-11ef-b399-731216a2cb45_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -164,9 +164,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "bitter",
-  "LookAlikes": "",
-  "Note": "菌孔粉紅色。",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Austroboletus roseialbus,,",
+  "Note": "菌蓋褐色，菌孔粉紅色。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "粉白南牛肝菌,,",
+  "la_zhcn": "粉白南牛肝菌,,"
  },
  "inaturalist": [
   {
@@ -176,5 +178,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157482051/thumb.jpg"
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

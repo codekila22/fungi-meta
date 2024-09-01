@@ -2,13 +2,13 @@
  "genus": "Scutellinia",
  "name": "trechispora",
  "date": [
-  "01/01/0001"
+  "08/24/2024,7917067665070262"
  ],
  "names_zhtw": [
   "鈍刺盾盤菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/1022",
+ "url": "7917067665070262",
  "images": [
   {
    "author": "",
@@ -33,6 +33,42 @@
   {
    "author": "",
    "image_src": "Scutellinia_trechispora_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Scutellinia_trechispora_498fb640-66ba-11ef-a3f1-99e1f4cb2366_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Scutellinia_trechispora_498fb640-66ba-11ef-a3f1-99e1f4cb2366_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Scutellinia_trechispora_498fb640-66ba-11ef-a3f1-99e1f4cb2366_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Scutellinia_trechispora_498fb640-66ba-11ef-a3f1-99e1f4cb2366_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Scutellinia_trechispora_498fb640-66ba-11ef-a3f1-99e1f4cb2366_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Scutellinia_trechispora_498fb640-66ba-11ef-a3f1-99e1f4cb2366_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Scutellinia_trechispora_498fb640-66ba-11ef-a3f1-99e1f4cb2366_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Scutellinia_trechispora_498fb640-66ba-11ef-a3f1-99e1f4cb2366_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Scutellinia_trechispora_498fb640-66ba-11ef-a3f1-99e1f4cb2366_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -87,5 +123,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

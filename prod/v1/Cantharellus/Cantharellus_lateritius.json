@@ -2,6 +2,7 @@
  "genus": "Cantharellus",
  "name": "lateritius",
  "date": [
+  "08/30/2024,7950325765077785",
   "07/05/2024,7611257045651327",
   "07/04/2023,6157444957699217",
   "08/10/2022,5141043489339374",
@@ -108,6 +109,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Cantharellus_lateritius_9d3e37c0-f745-106c-8fcc-7f8843d6654c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lateritius_83f48450-6796-11ef-81a1-0983860f3b96_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lateritius_83f48450-6796-11ef-81a1-0983860f3b96_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lateritius_83f48450-6796-11ef-81a1-0983860f3b96_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lateritius_83f48450-6796-11ef-81a1-0983860f3b96_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_lateritius_83f48450-6796-11ef-81a1-0983860f3b96_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -174,5 +195,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

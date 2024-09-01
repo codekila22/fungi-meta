@@ -2,6 +2,7 @@
  "genus": "Leptogium",
  "name": "saturninum",
  "date": [
+  "08/26/2024,7921889361254759",
   "04/24/2023,5928839220559793",
   "04/08/2023,5875710809205968",
   "04/08/2023,7082656158511421"
@@ -67,6 +68,34 @@
   {
    "author": "蔡古媧",
    "image_src": "Leptogium_saturninum_d1276790-e8d6-11ee-9e62-35b0458d62dc_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leptogium_saturninum_5c0a90d0-665e-11ef-9cd5-5b42e1c893f3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leptogium_saturninum_5c0a90d0-665e-11ef-9cd5-5b42e1c893f3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leptogium_saturninum_5c0a90d0-665e-11ef-9cd5-5b42e1c893f3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leptogium_saturninum_5c0a90d0-665e-11ef-9cd5-5b42e1c893f3_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leptogium_saturninum_5c0a90d0-665e-11ef-9cd5-5b42e1c893f3_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leptogium_saturninum_5c0a90d0-665e-11ef-9cd5-5b42e1c893f3_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leptogium_saturninum_5c0a90d0-665e-11ef-9cd5-5b42e1c893f3_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -115,5 +144,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/220658793/thumb.jpeg"
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

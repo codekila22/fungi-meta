@@ -2,6 +2,7 @@
  "genus": "Lentinus",
  "name": "concavus",
  "date": [
+  "08/25/2024,7912286102215085",
   "11/01/2023,6604961376280904",
   "09/16/2023,6410880182355692",
   "08/10/2023,6280912245352487",
@@ -35,6 +36,22 @@
   {
    "author": "Purple Cherry",
    "image_src": "Lentinus_concavus_5_CC BY-NC_Purple Cherry.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lentinus_concavus_e2d22470-62da-11ef-8fb1-614f68c71ea9_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lentinus_concavus_e2d22470-62da-11ef-8fb1-614f68c71ea9_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lentinus_concavus_e2d22470-62da-11ef-8fb1-614f68c71ea9_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lentinus_concavus_e2d22470-62da-11ef-8fb1-614f68c71ea9_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -84,5 +101,5 @@
    "src": "https://static.inaturalist.org/photos/14844624/thumb.jpg"
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

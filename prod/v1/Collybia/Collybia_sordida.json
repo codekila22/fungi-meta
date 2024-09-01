@@ -333,6 +333,7 @@
   "StalkBase": "equal",
   "StalkDiamRangeValuess": "3,11",
   "StalkLengthRangeValuess": "30,60",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "scattered,grouped",
@@ -342,11 +343,11 @@
   "Edible": "choice",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Lepista nuda,,",
+  "LookAlikes": "Lepista nuda,Tricholosporum porphyrophyllum,",
   "Note": "此物種群生在靠近人煙的路邊、草坪、林間等等。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "紫丁香蘑,,",
-  "la_zhcn": "紫丁香蘑,,"
+  "la_zhtw": "紫丁香蘑,紫褶孢口蘑,",
+  "la_zhcn": "紫丁香蘑,紫褶孢口蘑,"
  },
  "inaturalist": [
   {
@@ -356,5 +357,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174570686/thumb.jpg"
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

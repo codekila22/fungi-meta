@@ -2,6 +2,7 @@
  "genus": "Cantharellus",
  "name": "cibarius",
  "date": [
+  "08/26/2024,7921967791246916",
   "08/13/2023,6292708057506239",
   "08/06/2023,6272284972881881",
   "07/04/2023,6159472240829822",
@@ -169,6 +170,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Cantharellus_cibarius_4ebe6090-1abb-11ee-aa00-1df550cc4ec7_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius_016c52d0-665e-11ef-9cd5-5b42e1c893f3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius_016c52d0-665e-11ef-9cd5-5b42e1c893f3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius_016c52d0-665e-11ef-9cd5-5b42e1c893f3_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -235,5 +248,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/169080956/thumb.jpg"
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }

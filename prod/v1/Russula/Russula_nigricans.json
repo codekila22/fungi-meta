@@ -70,9 +70,11 @@
   "Edible": "not-edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Russula densifolia,,",
   "Note": "傷後先變紅再變黑。",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "密褶紅菇,,",
+  "la_zhcn": "密褶红菇,,"
  },
  "inaturalist": [
   {
@@ -94,5 +96,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108368043/thumb.jpeg"
   }
  ],
- "timestamp": "20240825-190245"
+ "timestamp": "20240901-193033"
 }
