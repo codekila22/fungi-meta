@@ -2,7 +2,7 @@
  "name": "Micropsalliota",
  "zhtw": "小蘑菇屬",
  "zhcn": "小蘑菇属",
- "timestamp": "20240901-143226",
+ "timestamp": "20240901-185749",
  "list": [
   {
    "name": "Micropsalliota pusillissima",
@@ -42,6 +42,12 @@
    "zhtw": "磚紅小蘑菇",
    "zhcn": "砖红小蘑菇",
    "img": "Micropsalliota_lateritia var. vinaceipes_6e4d6c30-1fc9-11ef-8c91-ddeeed510306_2.jpg"
+  },
+  {
+   "name": "Micropsalliota rufosquarrosa",
+   "zhtw": "紅鱗小蘑菇",
+   "zhcn": "红鳞小蘑菇",
+   "img": "Micropsalliota_rufosquarrosa_476d42f0-6850-11ef-9973-2362016a329e_1.jpg"
   }
  ]
 }
