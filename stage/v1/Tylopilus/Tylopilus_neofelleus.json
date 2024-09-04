@@ -78,5 +78,49 @@
  "names_zhcn": [
   "新苦粉孢牛肝菌"
  ],
- "timestamp": "20240904-210521"
+ "meta": {
+  "CapColors": "4286141768,4286578816",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "bitter",
+  "LookAlikes": "",
+  "Note": "菌孔面年輕時白色，然后隨個體發展逐漸變成紫色鑲邊。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Tylopilus neofelleus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1400548-Tylopilus-neofelleus",
+   "src": "https://static.inaturalist.org/photos/216714060/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20240904-212238"
 }
