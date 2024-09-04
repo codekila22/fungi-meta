@@ -2,6 +2,7 @@
  "genus": "Atheniella",
  "name": "flavoalba",
  "date": [
+  "09/15/2022,7961554390621589",
   "03/25/2022,4762216120555448"
  ],
  "names_zhtw": [
@@ -57,6 +58,86 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_aff. flavoalba_4b7ba0a0-ff94-11ee-84d1-c707d409f3d4_12.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_12.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_13.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_14.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_15.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_16.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_17.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_18.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_19.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Atheniella_flavoalba_bb9a9cc0-6910-11ef-b651-77ec563d9423_20.jpg"
   }
  ],
  "synonym": [
@@ -71,7 +152,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4286141768,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -89,11 +170,11 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "20,80",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "",
+  "Rareness": "common",
+  "Seasons": "spring,summer",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "meadow,ground",
   "Bruising": "",
@@ -113,5 +194,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/319753391/thumb.jpg"
   }
  ],
- "timestamp": "20240901-202845"
+ "timestamp": "20240904-153214"
 }

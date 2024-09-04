@@ -2,7 +2,7 @@
  "name": "Cordyceps",
  "zhtw": "蟲草屬",
  "zhcn": "虫草属",
- "timestamp": "20240901-202845",
+ "timestamp": "20240904-153214",
  "list": [
   {
    "name": "Cordyceps farinosa",
@@ -15,6 +15,12 @@
    "zhtw": "珊瑚蟲草",
    "zhcn": "珊瑚虫草",
    "img": "Cordyceps_martialis_1_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "name": "Cordyceps pseudorosea",
+   "zhtw": "偽粉色蟲草",
+   "zhcn": "伪粉色虫草",
+   "img": "Cordyceps_pseudorosea_d45c20d0-69fb-11ef-adfd-219b7f82a202_1.jpg"
   },
   {
    "name": "Cordyceps cylindrica",

@@ -2,7 +2,8 @@
  "genus": "Amanita",
  "name": "cf. griseofarinosa",
  "date": [
-  "05/26/2024,7412846382159062"
+  "05/26/2024,7412846382159062",
+  "07/04/2019,7961240587319636"
  ],
  "names_zhtw": [
   "貝鎖灰絨鵝膏"
@@ -33,6 +34,34 @@
   {
    "author": "何俊霖",
    "image_src": "Amanita_aff. griseofarinosa_dedbf6d0-1ff9-11ef-b597-553032c76d00_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -82,5 +111,5 @@
    "src": "https://static.inaturalist.org/photos/147215103/thumb.jpg"
   }
  ],
- "timestamp": "20240901-202845"
+ "timestamp": "20240904-153214"
 }

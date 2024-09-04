@@ -2,13 +2,15 @@
  "genus": "Russula",
  "name": "nigricans",
  "date": [
-  "01/01/0001"
+  "08/24/2024,7962350690541959",
+  "09/18/2022,5248449148598807",
+  "05/20/2018,1551080821669010"
  ],
  "names_zhtw": [
   "稀褶黑紅菇"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/6299",
+ "url": "7962350690541959",
  "images": [
   {
    "author": "蔡金旗",
@@ -33,6 +35,22 @@
   {
    "author": "蔡金旗",
    "image_src": "Russula_nigricans_6_CC BY-NC_蔡金旗.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_nigricans_ed352110-6910-11ef-b651-77ec563d9423_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_nigricans_ed352110-6910-11ef-b651-77ec563d9423_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_nigricans_ed352110-6910-11ef-b651-77ec563d9423_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_nigricans_ed352110-6910-11ef-b651-77ec563d9423_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -96,5 +114,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108368043/thumb.jpeg"
   }
  ],
- "timestamp": "20240901-202845"
+ "timestamp": "20240904-153214"
 }
