@@ -178,17 +178,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,debris",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於針葉木枯枝倒木上。",
+  "Note": "生長於針葉木的枯枝倒木或腐殖質上，台灣也有不少生長在針葉木製作的步道枕木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -211,5 +212,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240904-153214"
+ "timestamp": "20240904-154856"
 }

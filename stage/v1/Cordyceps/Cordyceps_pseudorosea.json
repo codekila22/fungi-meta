@@ -50,5 +50,40 @@
  "names_zhcn": [
   "伪粉色虫草"
  ],
- "timestamp": "20240904-153214"
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "目前記錄到的宿主為蛾類(成蟲或蛾蛹)。"
+ },
+ "timestamp": "20240904-154856"
 }
