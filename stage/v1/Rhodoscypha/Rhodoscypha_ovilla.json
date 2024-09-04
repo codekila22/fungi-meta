@@ -2,6 +2,7 @@
  "genus": "Rhodoscypha",
  "name": "ovilla",
  "date": [
+  "09/02/2024,7974196189357409",
   "08/23/2024,7901458249964537",
   "07/22/2023,7971567262953635",
   "07/01/2016,5164205950356461"
@@ -116,6 +117,22 @@
   {
    "author": "向高世",
    "image_src": "Rhodoscypha_ovilla_1e6fa9c0-6a7f-11ef-94a2-0729f7a7dd2a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhodoscypha_ovilla_6f4e5c20-6aa1-11ef-88f9-df52e4927887_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhodoscypha_ovilla_6f4e5c20-6aa1-11ef-88f9-df52e4927887_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhodoscypha_ovilla_6f4e5c20-6aa1-11ef-88f9-df52e4927887_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhodoscypha_ovilla_6f4e5c20-6aa1-11ef-88f9-df52e4927887_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -166,5 +183,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/149311844/thumb.jpeg"
   }
  ],
- "timestamp": "20240904-154856"
+ "timestamp": "20240904-210521"
 }
