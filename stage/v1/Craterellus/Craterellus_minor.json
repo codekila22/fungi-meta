@@ -1,13 +1,13 @@
 {
  "genus": "Craterellus",
- "name": "lutescens",
+ "name": "minor",
  "date": [
   "12/15/2023,6753615388082168",
   "08/22/2023,6322295584547486",
   "07/19/2020,2940277689415976"
  ],
  "names_zhtw": [
-  "金色喇叭菌"
+  "小喇叭菌"
  ],
  "names_en": [],
  "url": "2940277689415976",
@@ -85,15 +85,8 @@
    "image_src": "Cantharellus_luteocomus_99d0e880-9cdb-11ee-876a-7b66a20291da_4.jpg"
   }
  ],
- "synonym": [
-  {
-   "name": "Cantharellus luteocomus",
-   "zhtw": "金色雞油菌",
-   "zhcn": "金色鸡油菌"
-  }
- ],
  "names_zhcn": [
-  "金色喇叭菌"
+  "小喇叭菌"
  ],
- "timestamp": "20240906-150600"
+ "timestamp": "20240906-153637"
 }
