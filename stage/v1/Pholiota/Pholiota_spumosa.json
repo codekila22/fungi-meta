@@ -2,7 +2,6 @@
  "genus": "Pholiota",
  "name": "spumosa",
  "date": [
-  "06/04/2023,6051585121618535",
   "07/20/2022,5131058147004575",
   "09/25/2021,7961600203950341",
   "08/28/2021,7961600203950341",
@@ -73,6 +72,26 @@
   {
    "author": "蔡古媧",
    "image_src": "Pholiota_spumosa_db863550-6c1a-11ef-ac2d-9d55987c7550_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_spumosa_f35c7540-6c24-11ef-8ee3-0ffba5abca67_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_spumosa_f35c7540-6c24-11ef-8ee3-0ffba5abca67_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_spumosa_f35c7540-6c24-11ef-8ee3-0ffba5abca67_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_spumosa_f35c7540-6c24-11ef-8ee3-0ffba5abca67_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_spumosa_f35c7540-6c24-11ef-8ee3-0ffba5abca67_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -128,5 +147,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/77031977/thumb.jpeg"
   }
  ],
- "timestamp": "20240906-153637"
+ "timestamp": "20240906-155732"
 }
