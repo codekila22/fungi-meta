@@ -2,13 +2,19 @@
  "name": "Craterellus",
  "zhtw": "喇叭菌屬",
  "zhcn": "喇叭菌属",
- "timestamp": "20240906-062710",
+ "timestamp": "20240906-150600",
  "list": [
   {
    "name": "Craterellus undulatus",
    "zhtw": "波喇叭菌",
    "zhcn": "波喇叭菌",
    "img": "Craterellus_undulatus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Craterellus lutescens",
+   "zhtw": "金色喇叭菌",
+   "zhcn": "金色喇叭菌",
+   "img": "Cantharellus_luteocomus_1_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Craterellus tubaeformis",

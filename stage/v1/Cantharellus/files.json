@@ -2,7 +2,7 @@
  "name": "Cantharellus",
  "zhtw": "雞油菌屬",
  "zhcn": "鸡油菌属",
- "timestamp": "20240906-062710",
+ "timestamp": "20240906-150600",
  "list": [
   {
    "name": "Cantharellus pallens",
@@ -62,6 +62,9 @@
    "name": "Cantharellus luteocomus",
    "zhtw": "金色雞油菌",
    "zhcn": "金色鸡油菌",
+   "current": "Craterellus lutescens",
+   "current_zhtw": "金色喇叭菌",
+   "current_zhcn": "金色喇叭菌",
    "img": "Cantharellus_luteocomus_1_CC BY-NC_James Ho.jpg"
   },
   {
