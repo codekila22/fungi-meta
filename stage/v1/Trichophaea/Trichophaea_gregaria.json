@@ -236,6 +236,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -245,9 +246,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Trichophaea pseudogregaria,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "擬聚生長毛盤菌,,",
+  "la_zhcn": "拟聚生长毛盘菌,,"
  },
  "inaturalist": [
   {
@@ -257,5 +260,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/87740473/thumb.jpg"
   }
  ],
- "timestamp": "20240906-162137"
+ "timestamp": "20240907-130128"
 }

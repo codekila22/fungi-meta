@@ -101,6 +101,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -110,9 +111,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Panellus minimus,,",
+  "Note": "生長在山棕枯莖上。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "迷你扇菇,,",
+  "la_zhcn": "迷你扇菇,,"
  },
- "timestamp": "20240906-162137"
+ "timestamp": "20240907-130128"
 }

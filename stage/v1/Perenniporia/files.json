@@ -2,7 +2,7 @@
  "name": "Perenniporia",
  "zhtw": "多年臥孔菌屬",
  "zhcn": "多年卧孔菌属",
- "timestamp": "20240906-162137",
+ "timestamp": "20240907-130128",
  "list": [
   {
    "name": "Perenniporia formosana",
@@ -20,6 +20,9 @@
    "name": "Perenniporia ochroleuca",
    "zhtw": "蒼白赭孔多年臥孔菌",
    "zhcn": "苍白赭孔多年卧孔菌",
+   "current": "Truncospora ochroleuca",
+   "current_zhtw": "赭白畸孢孔菌",
+   "current_zhcn": "赭白畸孢孔菌",
    "img": "Perenniporia_ochroleuca_2_CC BY-NC_陳雅芬.jpg"
   }
  ]
