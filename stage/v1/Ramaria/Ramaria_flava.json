@@ -2,28 +2,28 @@
  "genus": "Ramaria",
  "name": "flava",
  "date": [
-  "01/01/0001"
+  "06/01/2014,788903541220079"
  ],
  "names_zhtw": [
   "黃枝瑚菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/992",
+ "url": "788903541220079",
  "images": [
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Ramaria_flava_2_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Ramaria_flava_1_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Ramaria_flava_3_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Ramaria_flava_4_CC BY-NC.jpg"
   }
  ],
@@ -73,5 +73,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/201088258/thumb.jpeg"
   }
  ],
- "timestamp": "20240907-130812"
+ "timestamp": "20240907-194024"
 }

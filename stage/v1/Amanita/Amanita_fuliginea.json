@@ -165,7 +165,7 @@
  ],
  "meta": {
   "CapColors": "4288244511,4286611584,4285098345",
-  "CapDiamRangeValues": "30,50",
+  "CapDiamRangeValues": "30,60",
   "CapShape": "convex,flat",
   "CapTexture": "fibrous",
   "CapMargin": "",
@@ -196,7 +196,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita cf. fuligineoides,,",
-  "Note": "",
+  "Note": "跟相似種比較，體型小上一號，但都有劇毒。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "疑似擬灰花紋鵝膏,,",
   "la_zhcn": "疑似拟灰花纹鹅膏,,"
@@ -209,5 +209,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40321093/thumb.jpeg"
   }
  ],
- "timestamp": "20240907-130812"
+ "timestamp": "20240907-194024"
 }

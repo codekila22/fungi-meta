@@ -2,6 +2,7 @@
  "genus": "Trametes",
  "name": "cinnabarinus",
  "date": [
+  "09/02/2024,7969759206467774",
   "09/15/2015,1264499800327115",
   "07/27/2015,760632844047149"
  ],
@@ -30,6 +31,22 @@
   {
    "author": "陳雅芬",
    "image_src": "Pycnoporus_cinnabarinus_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trametes_cinnabarinus_fe87ca60-6d09-11ef-8aec-47194484a1a7_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trametes_cinnabarinus_fe87ca60-6d09-11ef-8aec-47194484a1a7_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trametes_cinnabarinus_fe87ca60-6d09-11ef-8aec-47194484a1a7_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trametes_cinnabarinus_fe87ca60-6d09-11ef-8aec-47194484a1a7_4.jpg"
   }
  ],
  "synonym": [
@@ -74,11 +91,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Trametes sanguineus,,",
+  "LookAlikes": "Trametes sanguinea,,",
   "Note": "菌蓋較相似種厚，菌孔較相似種大。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": ",,",
-  "la_zhcn": ",,"
+  "la_zhtw": "血紅栓菌,,",
+  "la_zhcn": "血红栓菌,,"
  },
  "inaturalist": [
   {
@@ -88,5 +105,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/161138523/thumb.jpg"
   }
  ],
- "timestamp": "20240907-130812"
+ "timestamp": "20240907-194024"
 }

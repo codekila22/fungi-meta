@@ -234,9 +234,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Panellus sp.1,,",
   "Note": "生長在單子葉植物山棕枯桿上，有著極短的菌柄。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "山棕扇菇 (暫名),,",
+  "la_zhcn": "山棕扇菇 (暂名),,"
  },
  "inaturalist": [
   {
@@ -246,5 +248,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29122661/thumb.jpg"
   }
  ],
- "timestamp": "20240907-130812"
+ "timestamp": "20240907-194024"
 }
