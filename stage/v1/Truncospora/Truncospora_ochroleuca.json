@@ -2,6 +2,7 @@
  "genus": "Truncospora",
  "name": "ochroleuca",
  "date": [
+  "08/19/2024,7988899147887113",
   "08/21/2022,5171844429592613",
   "11/20/2021,4363150587128672",
   "06/27/2015,749051278538639"
@@ -31,6 +32,42 @@
   {
    "author": "陳雅芬",
    "image_src": "Perenniporia_ochroleuca_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Truncospora_ochroleuca_ac391d00-6cd6-11ef-b561-395c2dedcb8d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Truncospora_ochroleuca_ac391d00-6cd6-11ef-b561-395c2dedcb8d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Truncospora_ochroleuca_ac391d00-6cd6-11ef-b561-395c2dedcb8d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Truncospora_ochroleuca_ac391d00-6cd6-11ef-b561-395c2dedcb8d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Truncospora_ochroleuca_ac391d00-6cd6-11ef-b561-395c2dedcb8d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Truncospora_ochroleuca_ac391d00-6cd6-11ef-b561-395c2dedcb8d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Truncospora_ochroleuca_ac391d00-6cd6-11ef-b561-395c2dedcb8d_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Truncospora_ochroleuca_ac391d00-6cd6-11ef-b561-395c2dedcb8d_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Truncospora_ochroleuca_ac391d00-6cd6-11ef-b561-395c2dedcb8d_9.jpg"
   }
  ],
  "synonym": [
@@ -78,5 +115,25 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20240907-130128"
+ "inaturalist": [
+  {
+   "name": "Truncospora ochroleuca",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1442625-Truncospora-ochroleuca",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/260474044/thumb.jpg"
+  },
+  {
+   "name": "Truncospora ochroleuca var. brevispora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1442627-Truncospora-ochroleuca-brevispora",
+   "src": ""
+  },
+  {
+   "name": "Truncospora ochroleuca var. ochroleuca",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1442628-Truncospora-ochroleuca-ochroleuca",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240907-130812"
 }
