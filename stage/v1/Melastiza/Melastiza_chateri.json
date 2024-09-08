@@ -12,6 +12,10 @@
  "images": [
   {
    "author": "柯文俊",
+   "image_src": "Melastiza_chateri_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
    "image_src": "Melastiza_chateri_1_CC BY-NC_柯文俊.jpg"
   },
   {
@@ -32,10 +36,6 @@
   },
   {
    "author": "柯文俊",
-   "image_src": "Melastiza_chateri_6_CC BY-NC_柯文俊.jpg"
-  },
-  {
-   "author": "柯文俊",
    "image_src": "Melastiza_chateri_7_CC BY-NC_柯文俊.jpg"
   },
   {
@@ -47,7 +47,7 @@
   "橘红弯毛盘菌"
  ],
  "meta": {
-  "CapColors": "4294934352,4294931200,4294083840",
+  "CapColors": "4294083840,4294901760",
   "CapDiamRangeValues": "5,15",
   "CapShape": "",
   "CapTexture": "",
@@ -68,6 +68,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -78,7 +79,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "盤狀子實體外緣有極短的剛毛。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -89,5 +90,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29110885/thumb.jpg"
   }
  ],
- "timestamp": "20240908-165635"
+ "timestamp": "20240908-172837"
 }
