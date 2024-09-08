@@ -2,7 +2,7 @@
  "name": "Tyromyces",
  "zhtw": "乾酪菌屬",
  "zhcn": "干酪菌属",
- "timestamp": "20240907-194024",
+ "timestamp": "20240908-165635",
  "list": [
   {
    "name": "Tyromyces taxi",
@@ -18,6 +18,12 @@
    "zhtw": "肉紅乾酪菌",
    "zhcn": "肉红干酪菌",
    "img": "Tyromyces_incarnatus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Tyromyces pulcherrimus",
+   "zhtw": "美麗乾酪菌",
+   "zhcn": "美丽干酪菌",
+   "img": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_1.jpg"
   },
   {
    "name": "Tyromyces chioneus",
