@@ -181,5 +181,13 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20240901-193033"
+ "inaturalist": [
+  {
+   "name": "Leccinellum sinoaurantiacum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1407602-Leccinellum-sinoaurantiacum",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240908-180222"
 }

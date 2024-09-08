@@ -2,8 +2,14 @@
  "name": "Craterellus",
  "zhtw": "喇叭菌屬",
  "zhcn": "喇叭菌属",
- "timestamp": "20240901-193033",
+ "timestamp": "20240908-180222",
  "list": [
+  {
+   "name": "Craterellus minor",
+   "zhtw": "小喇叭菌",
+   "zhcn": "小喇叭菌",
+   "img": "Cantharellus_luteocomus_1_CC BY-NC_James Ho.jpg"
+  },
   {
    "name": "Craterellus undulatus",
    "zhtw": "波喇叭菌",
@@ -18,8 +24,8 @@
   },
   {
    "name": "Craterellus cornucopioides",
-   "zhtw": "灰喇叭菌",
-   "zhcn": "灰喇叭菌",
+   "zhtw": "灰黑喇叭菌",
+   "zhcn": "灰黑喇叭菌",
    "img": "Craterellus_cornucopioides_1_CC BY-NC_James Ho.jpg"
   },
   {

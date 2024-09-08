@@ -2,6 +2,7 @@
  "genus": "Cotylidia",
  "name": "diaphana",
  "date": [
+  "08/25/2024,7989746474469047",
   "08/15/2023,6324725234304521",
   "06/06/2021,3917934411650294"
  ],
@@ -66,6 +67,26 @@
   {
    "author": "James Ho",
    "image_src": "Cotylidia_diaphana_acc739f0-fefe-11ee-ab3e-7b1dc32de0ae_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cotylidia_diaphana_4b0e3410-6d09-11ef-8aec-47194484a1a7_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cotylidia_diaphana_4b0e3410-6d09-11ef-8aec-47194484a1a7_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cotylidia_diaphana_4b0e3410-6d09-11ef-8aec-47194484a1a7_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cotylidia_diaphana_4b0e3410-6d09-11ef-8aec-47194484a1a7_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cotylidia_diaphana_4b0e3410-6d09-11ef-8aec-47194484a1a7_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -114,5 +135,5 @@
    "src": "https://static.inaturalist.org/photos/2204748/thumb.jpg"
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

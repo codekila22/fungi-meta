@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "virosa",
  "date": [
+  "09/05/2024,7982925795151115",
   "07/06/2024,7631534413623590",
   "06/23/2024,7546699765440389",
   "06/17/2024,7516952868415079",
@@ -121,6 +122,18 @@
   {
    "author": "姜淋友",
    "image_src": "Amanita_virosa_32453a50-c9ea-1076-8f2a-038c3d9c1715_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Amanita_virosa_f5d8dd60-6c18-11ef-ac2d-9d55987c7550_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Amanita_virosa_f5d8dd60-6c18-11ef-ac2d-9d55987c7550_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Amanita_virosa_f5d8dd60-6c18-11ef-ac2d-9d55987c7550_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -173,5 +186,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110521312/thumb.jpg"
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

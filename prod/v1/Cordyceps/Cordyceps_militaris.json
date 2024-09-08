@@ -6,7 +6,6 @@
   "12/16/2023,6825922170851489",
   "12/06/2023,7002524939857877",
   "11/07/2023,6616657441777964",
-  "11/01/2023,6589051764538532",
   "08/14/2021,4050382051738862",
   "02/24/2019,4818511341592592",
   "05/10/2017,1195467117230384"
@@ -179,6 +178,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "20,50",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -188,8 +188,10 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": ""
+  "LookAlikes": "Cordyceps militaris var. sphaerocephala,,",
+  "Note": "",
+  "la_zhtw": "球形蛹蟲草,,",
+  "la_zhcn": "球形蛹虫草,,"
  },
  "inaturalist": [
   {
@@ -199,5 +201,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23680390/thumb.jpg"
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

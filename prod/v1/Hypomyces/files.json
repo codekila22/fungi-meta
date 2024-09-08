@@ -2,7 +2,7 @@
  "name": "Hypomyces",
  "zhtw": "菌寄生屬",
  "zhcn": "菌寄生属",
- "timestamp": "20240901-193033",
+ "timestamp": "20240908-180222",
  "list": [
   {
    "name": "Hypomyces subiculosus",
@@ -15,6 +15,12 @@
    "zhtw": "橘粉馬鞍寄生菌",
    "zhcn": "橘粉马鞍寄生菌",
    "img": "Hypomyces_cervinigenus_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Hypomyces luteovirens",
+   "zhtw": "黃綠菌寄生",
+   "zhcn": "黄绿菌寄生",
+   "img": "Hypomyces_luteovirens_228e19c0-685d-11ef-9212-e1c4a856af38_1.jpg"
   },
   {
    "name": "Hypomyces papulasporae",

@@ -1,13 +1,13 @@
 {
- "genus": "Cantharellus",
- "name": "luteocomus",
+ "genus": "Craterellus",
+ "name": "minor",
  "date": [
   "12/15/2023,6753615388082168",
   "08/22/2023,6322295584547486",
   "07/19/2020,2940277689415976"
  ],
  "names_zhtw": [
-  "金色雞油菌"
+  "小喇叭菌"
  ],
  "names_en": [],
  "url": "2940277689415976",
@@ -86,11 +86,11 @@
   }
  ],
  "names_zhcn": [
-  "金色鸡油菌"
+  "小喇叭菌"
  ],
  "meta": {
   "CapColors": "4290822336,4294956800",
-  "CapDiamRangeValues": "7,22",
+  "CapDiamRangeValues": "0,17",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -108,8 +108,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,3",
+  "StalkLengthRangeValuess": "0,26",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -123,5 +123,13 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20240901-193033"
+ "inaturalist": [
+  {
+   "name": "Craterellus minor",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1402052-Craterellus-minor",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240908-180222"
 }

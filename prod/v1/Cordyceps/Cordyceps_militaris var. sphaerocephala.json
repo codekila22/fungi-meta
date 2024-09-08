@@ -75,6 +75,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -84,8 +85,10 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": ""
+  "LookAlikes": "Cordyceps militaris,,",
+  "Note": "",
+  "la_zhtw": "蛹蟲草,,",
+  "la_zhcn": "蛹虫草,,"
  },
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

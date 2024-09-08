@@ -2,6 +2,8 @@
  "genus": "Lactifluus",
  "name": "volemus",
  "date": [
+  "09/02/2024,7968714443238917",
+  "08/30/2024,7998934896883538",
   "07/05/2024,7611402415636790",
   "08/29/2021,4081812041929196",
   "08/25/2021,7284503174993384"
@@ -119,6 +121,66 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_volemus_2d7a65f0-f5fe-106c-8fcc-7f8843d6654c_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactifluus_volemus_95264cf0-6a83-11ef-94a2-0729f7a7dd2a_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactifluus_volemus_95264cf0-6a83-11ef-94a2-0729f7a7dd2a_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactifluus_volemus_95264cf0-6a83-11ef-94a2-0729f7a7dd2a_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactifluus_volemus_95264cf0-6a83-11ef-94a2-0729f7a7dd2a_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_volemus_57e5c980-6db5-11ef-9b6a-9df91a34098c_11.jpg"
   }
  ],
  "synonym": [
@@ -132,7 +194,7 @@
   "多汁乳菇"
  ],
  "meta": {
-  "CapColors": "4288696877,4291648604,4291979550",
+  "CapColors": "4291648604,4291979550,4294967040",
   "CapDiamRangeValues": "50,120",
   "CapShape": "depressed,infundibuliform",
   "CapTexture": "",
@@ -153,6 +215,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "15,30",
   "StalkLengthRangeValuess": "60,100",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
@@ -163,7 +226,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "受傷時會分泌多量的白色乳汁，味道有些辛辣。",
+  "Note": "受傷時會分泌多量的白色乳汁，味道有些辛辣。偶爾有個體為黃色的變種(Lactarius volemus var. flavus)。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -186,5 +249,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13065706/thumb.jpeg"
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

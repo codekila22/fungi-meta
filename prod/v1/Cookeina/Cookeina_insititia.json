@@ -2,6 +2,7 @@
  "genus": "Cookeina",
  "name": "insititia",
  "date": [
+  "09/02/2024,7963818047061890",
   "08/27/2024,7925595254217503",
   "08/27/2024,7948051891971839",
   "08/06/2024,7796898047087225",
@@ -191,6 +192,34 @@
   {
    "author": "朱艷",
    "image_src": "Cookeina_insititia_85f1bce0-6733-11ef-8f95-4943a0fc7aee_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cookeina_insititia_f3028450-6985-11ef-a119-03a95e40b5a1_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cookeina_insititia_f3028450-6985-11ef-a119-03a95e40b5a1_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cookeina_insititia_f3028450-6985-11ef-a119-03a95e40b5a1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cookeina_insititia_f3028450-6985-11ef-a119-03a95e40b5a1_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cookeina_insititia_f3028450-6985-11ef-a119-03a95e40b5a1_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cookeina_insititia_f3028450-6985-11ef-a119-03a95e40b5a1_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cookeina_insititia_f3028450-6985-11ef-a119-03a95e40b5a1_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -240,5 +269,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23627424/thumb.jpg"
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

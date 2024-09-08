@@ -2,7 +2,10 @@
  "genus": "Pholiota",
  "name": "lubrica",
  "date": [
-  "08/22/2022"
+  "06/07/2023,6065668023543578",
+  "06/07/2023,6065871513523229",
+  "08/19/2022,5171298612980528",
+  "10/10/2017,1389172621193165"
  ],
  "names_zhtw": [
   "黏蓋環銹傘"
@@ -10,6 +13,14 @@
  "names_en": [],
  "url": "https://fungimap.biodiv.tw/pages/5662",
  "images": [
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_632343e0-6c25-11ef-8ee3-0ffba5abca67_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_632343e0-6c25-11ef-8ee3-0ffba5abca67_3.jpg"
+  },
   {
    "author": "向高世",
    "image_src": "Pholiota_lubrica_6_CC BY-NC_向高世.jpg"
@@ -69,6 +80,46 @@
   {
    "author": "陳麗紅",
    "image_src": "Pholiota_lubrica_9_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_278397e0-6c25-11ef-8ee3-0ffba5abca67_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_278397e0-6c25-11ef-8ee3-0ffba5abca67_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_278397e0-6c25-11ef-8ee3-0ffba5abca67_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_278397e0-6c25-11ef-8ee3-0ffba5abca67_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_632343e0-6c25-11ef-8ee3-0ffba5abca67_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_632343e0-6c25-11ef-8ee3-0ffba5abca67_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_632343e0-6c25-11ef-8ee3-0ffba5abca67_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_632343e0-6c25-11ef-8ee3-0ffba5abca67_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_632343e0-6c25-11ef-8ee3-0ffba5abca67_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_lubrica_632343e0-6c25-11ef-8ee3-0ffba5abca67_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -78,7 +129,7 @@
   "CapColors": "4283244288,4293302630,4291659071",
   "CapDiamRangeValues": "",
   "CapShape": "",
-  "CapTexture": "",
+  "CapTexture": "slimy",
   "CapMargin": "",
   "HymeniumType": "",
   "HymeniumColors": "",
@@ -96,17 +147,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,debris",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌柄有許多纖維狀的毛。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -123,5 +175,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/39855182/thumb.jpeg"
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

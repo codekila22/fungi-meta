@@ -2,7 +2,7 @@
  "name": "Tylopilus",
  "zhtw": "粉孢牛肝菌屬",
  "zhcn": "粉孢牛肝菌属",
- "timestamp": "20240901-193033",
+ "timestamp": "20240908-180222",
  "list": [
   {
    "name": "Tylopilus vinosobrunneus",
@@ -38,6 +38,12 @@
    "img": "Tylopilus_plumbeoviolaceus_1_CC BY-NC_姜淋友.jpg"
   },
   {
+   "name": "Tylopilus balloui",
+   "zhtw": "黃蓋粉孢牛肝菌",
+   "zhcn": "黄盖粉孢牛肝菌",
+   "img": "Gyroporus_ballouii_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
    "name": "Tylopilus virens",
    "zhtw": "綠蓋粉孢牛肝菌",
    "zhcn": "绿盖粉孢牛肝菌",
@@ -45,6 +51,12 @@
    "current_zhtw": "綠蓋裘氏牛肝菌",
    "current_zhcn": "绿盖裘氏牛肝菌",
    "img": "Tylopilus_virens_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Tylopilus neofelleus",
+   "zhtw": "新苦粉孢牛肝菌",
+   "zhcn": "新苦粉孢牛肝菌",
+   "img": "Tylopilus_neofelleus_7e491760-6a97-11ef-88f9-df52e4927887_1.jpg"
   }
  ]
 }

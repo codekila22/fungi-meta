@@ -2,13 +2,17 @@
  "genus": "Rhizocarpon",
  "name": "geographicum",
  "date": [
-  "07/11/2022"
+  "09/02/2024,7969777586465936",
+  "07/09/2022,5057822684328122",
+  "07/24/2019,2264524043658014",
+  "06/26/2015,863474940429605"
  ],
  "names_zhtw": [
-  "地理地圖衣"
+  "地理地圖衣",
+  "黃綠地圖衣"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/1274",
+ "url": "5057822684328122",
  "images": [
   {
    "author": "江志緯",
@@ -105,10 +109,27 @@
   {
    "author": "Hannah Wang",
    "image_src": "Rhizocarpon_geographicum_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizocarpon_geographicum_2ec1cab0-6b51-11ef-b702-a3107ba910c7_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizocarpon_geographicum_2ec1cab0-6b51-11ef-b702-a3107ba910c7_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizocarpon_geographicum_2ec1cab0-6b51-11ef-b702-a3107ba910c7_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizocarpon_geographicum_2ec1cab0-6b51-11ef-b702-a3107ba910c7_4.jpg"
   }
  ],
  "names_zhcn": [
-  "地理地图衣"
+  "地理地图衣",
+  "黄绿地图衣"
  ],
  "meta": {
   "CapColors": "4286611456,4291611725",
@@ -165,5 +186,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5199855/thumb.jpeg"
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

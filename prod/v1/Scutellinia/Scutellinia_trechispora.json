@@ -96,6 +96,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped",
@@ -105,9 +106,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Melastiza chateri,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "橘紅彎毛盤菌,,",
+  "la_zhcn": "橘红弯毛盘菌,,"
  },
  "inaturalist": [
   {
@@ -123,5 +126,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

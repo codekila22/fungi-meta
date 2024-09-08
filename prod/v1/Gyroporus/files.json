@@ -2,7 +2,7 @@
  "name": "Gyroporus",
  "zhtw": "圓孔牛肝菌屬",
  "zhcn": "圆孔牛肝菌属",
- "timestamp": "20240901-193033",
+ "timestamp": "20240908-180222",
  "list": [
   {
    "name": "Gyroporus castaneus",
@@ -14,6 +14,9 @@
    "name": "Gyroporus ballouii",
    "zhtw": "黃蓋圓孔牛肝菌",
    "zhcn": "黄盖圆孔牛肝菌",
+   "current": "Tylopilus balloui",
+   "current_zhtw": "黃蓋粉孢牛肝菌",
+   "current_zhcn": "黄盖粉孢牛肝菌",
    "img": "Gyroporus_ballouii_1_CC BY-NC_陳雅芬.jpg"
   },
   {

@@ -2,7 +2,7 @@
  "name": "Boletus",
  "zhtw": "牛肝菌屬",
  "zhcn": "牛肝菌属",
- "timestamp": "20240901-193033",
+ "timestamp": "20240908-180222",
  "list": [
   {
    "name": "Boletus reticulatus",
@@ -117,6 +117,15 @@
    "zhtw": "裂管牛肝菌",
    "zhcn": "裂管牛肝菌",
    "img": "Boletus_separans_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Boletus balloui",
+   "zhtw": "黃蓋牛肝菌",
+   "zhcn": "黄盖牛肝菌",
+   "current": "Tylopilus balloui",
+   "current_zhtw": "黃蓋粉孢牛肝菌",
+   "current_zhcn": "黄盖粉孢牛肝菌",
+   "img": "Gyroporus_ballouii_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Boletus rubellus",

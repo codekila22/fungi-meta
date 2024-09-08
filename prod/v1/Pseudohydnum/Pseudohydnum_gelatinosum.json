@@ -2,6 +2,7 @@
  "genus": "Pseudohydnum",
  "name": "gelatinosum",
  "date": [
+  "09/05/2024,7985203004923394",
   "08/26/2024,7919108358199526",
   "10/10/2023,6506365169473859",
   "09/12/2023,6425062820937428",
@@ -150,6 +151,50 @@
   {
    "author": "姜淋友",
    "image_src": "Pseudohydnum_gelatinosum_140d5c70-6525-11ef-a69a-398f85428e2c_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -178,17 +223,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,debris",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於針葉木枯枝倒木上。",
+  "Note": "生長於針葉木的枯枝倒木或腐殖質上，台灣也有不少生長在針葉木製作的步道枕木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -211,5 +257,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

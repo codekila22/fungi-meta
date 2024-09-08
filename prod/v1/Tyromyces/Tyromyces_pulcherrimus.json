@@ -1,0 +1,115 @@
+{
+ "genus": "Tyromyces",
+ "name": "pulcherrimus",
+ "synonym": [
+  {
+   "name": "Aurantiporus pulcherrimus",
+   "zhtw": "美麗深黃孔菌",
+   "zhcn": "美丽深黄孔菌"
+  }
+ ],
+ "date": [
+  "09/07/2024,8000723076704720"
+ ],
+ "names_zhtw": [
+  "美麗乾酪菌"
+ ],
+ "names_en": [
+  "Strawberry bracket"
+ ],
+ "url": "8000723076704720",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_11.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "美丽干酪菌"
+ ],
+ "meta": {
+  "CapColors": "4294901760,4294921472",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Aurantiporus pulcherrimus",
+   "cname": "Strawberry Bracket",
+   "url": "https://www.inaturalist.org/taxa/381346-Aurantiporus-pulcherrimus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/35454974/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20240908-180222"
+}

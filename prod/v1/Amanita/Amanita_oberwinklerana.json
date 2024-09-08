@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "oberwinklerana",
  "date": [
+  "09/08/2024,8001446393299055",
   "08/19/2024,7906767919433570",
   "06/19/2024,7556371507806548"
  ],
@@ -66,6 +67,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_oberwinklerana_7e1eadb0-6220-11ef-8f02-69e3d7fe61d6_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Amanita_oberwinklerana_10f55110-6db7-11ef-9b6a-9df91a34098c_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Amanita_oberwinklerana_10f55110-6db7-11ef-9b6a-9df91a34098c_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Amanita_oberwinklerana_10f55110-6db7-11ef-9b6a-9df91a34098c_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Amanita_oberwinklerana_10f55110-6db7-11ef-9b6a-9df91a34098c_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -117,5 +134,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/84772280/thumb.jpg"
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

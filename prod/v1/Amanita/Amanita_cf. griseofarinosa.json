@@ -2,9 +2,12 @@
  "genus": "Amanita",
  "name": "cf. griseofarinosa",
  "date": [
-  "05/26/2024,7412846382159062"
+  "05/26/2024,7412846382159062",
+  "07/04/2019,7961240587319636"
  ],
  "names_zhtw": [
+  "灰絮鱗鵝膏",
+  "灰絨鵝膏",
   "貝鎖灰絨鵝膏"
  ],
  "names_en": [],
@@ -33,14 +36,44 @@
   {
    "author": "何俊霖",
    "image_src": "Amanita_aff. griseofarinosa_dedbf6d0-1ff9-11ef-b597-553032c76d00_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_cf. griseofarinosa_f3fbedd0-68e8-11ef-8455-57da812c2135_7.jpg"
   }
  ],
  "names_zhcn": [
+  "灰絮鳞鹅膏",
+  "灰绒鹅膏",
   "贝锁灰绒鹅膏"
  ],
  "meta": {
   "CapColors": "4286141768,4286611584",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -58,8 +91,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,9",
+  "StalkLengthRangeValuess": "80,140",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -71,7 +104,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌蓋有粉狀或毛絮狀的灰褐色菌幕殘餘。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -82,5 +115,5 @@
    "src": "https://static.inaturalist.org/photos/147215103/thumb.jpg"
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

@@ -176,7 +176,7 @@
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
-  "Taste": "",
+  "Taste": "bitter",
   "LookAlikes": "Tylopilus vinosobrunneus,,",
   "Note": "菌柄上方靠近菌蓋處有不規則網紋。",
   "GrowthEco": "mycorrhizal",
@@ -191,5 +191,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159363069/thumb.jpg"
   }
  ],
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }

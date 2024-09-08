@@ -93,8 +93,8 @@
   "疑似拟灰花纹鹅膏"
  ],
  "meta": {
-  "CapColors": "4288768839,4278190080,4286141768",
-  "CapDiamRangeValues": "30,110",
+  "CapColors": "4278190080,4286141768,4284635991",
+  "CapDiamRangeValues": "100,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -112,8 +112,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,15",
+  "StalkLengthRangeValuess": "100,140",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -121,14 +121,14 @@
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "toxic",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita fuliginea,,",
-  "Note": "",
+  "Note": "跟相似種比較，此種個體較為大型。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "灰花紋鵝膏,,",
   "la_zhcn": "灰花纹鹅膏,,"
  },
- "timestamp": "20240901-193033"
+ "timestamp": "20240908-180222"
 }
