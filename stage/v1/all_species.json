@@ -1,5 +1,57 @@
 {
- "timestamp": "20240908-180222",
+ "timestamp": "20240914-123100",
+ "predefined": [
+  {
+   "description": "皮傘類",
+   "keyword": "皮傘+黏蓋傘",
+   "image": "Marasmius/Marasmius_haematocephalus/Marasmius_haematocephalus_300c2450-0ac2-11ef-ad17-731ac9971bc1_2.jpg"
+  },
+  {
+   "description": "小菇類",
+   "keyword": "小菇+雅薄傘",
+   "image": "Mycena/Mycena_jingyinga/Mycena_jingyinga_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "description": "濕傘/蠟傘類",
+   "keyword": "Hygrocybe+Gliophorus+Hygroaster+Hydropus+Chrysomphalina+Porpolomopsis+Cuphophyllus+Hygrophorus+Hygrophoropsis+Chromosera",
+   "image": "Hygrocybe/Hygrocybe_conica/Hygrocybe_conica_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "description": "鵝膏類",
+   "keyword": "鵝膏",
+   "image": "Amanita/Amanita_flavipes/Amanita_flavipes_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "description": "環柄菇類",
+   "keyword": "Lepiota+Leucoagaricus+Leucocoprinus+Coniolepiota+Macrolepiota+Chlorophyllum+Clarkeinda+Echinoderma",
+   "image": "Leucocoprinus/Leucocoprinus_ianthinus/Leucocoprinus_ianthinus_2_CC BY-NC_李薇佳.jpg"
+  },
+  {
+   "description": "鬼傘類",
+   "keyword": "鬼傘",
+   "image": "Coprinellus/Coprinellus_disseminatus/Coprinellus_disseminatus_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "description": "蘑菇類",
+   "keyword": "蘑菇+Melanophyllum",
+   "image": "Agaricus/Agaricus_campestris/Agaricus_campestris_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "description": "紅菇/乳菇",
+   "keyword": "紅菇+乳菇",
+   "image": "Russula/Russula_aeruginea/Russula_aeruginea_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "description": "側生柄的菇",
+   "keyword": "Crepidotus+Hohenbuehelia+帝爾斜蓋傘+荷伯生氏斜蓋傘+岩生斜蓋傘+Pleurotus+Pleurocybella+Panellus+Lentinellus+Pleuroflammula+Schizophyllum+Sarcomyxa+Pyrrhoglossum+脈褶菌屬+Cheimonophyllum+Chaetocalathus+Campanophyllum+Omphalotus",
+   "image": "Crepidotus/Crepidotus_roseoornatus/Crepidotus_roseoornatus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "description": "牛肝菌類",
+   "keyword": "牛肝",
+   "image": "Borofutus/Borofutus_dhakanus/Borofutus_dhakanus_1_CC BY-NC_姜淋友.jpg"
+  }
+ ],
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌",
   "Abortiporus,殘孔菌屬,残孔菌属",
@@ -2491,6 +2543,7 @@
   "Psathyrella delineata,凸紋小脆柄菇,凸纹小脆柄菇",
   "Psathyrella fibrillosa,纖絨小脆柄菇,纤绒小脆柄菇",
   "Psathyrella fuscifolia,褐葉色小脆柄菇,褐叶色小脆柄菇",
+  "Psathyrella gossypina,棉毛小脆柄菇,棉毛小脆柄菇",
   "Psathyrella hydrophiloides,類喜溼小脆柄菇,类喜湿小脆柄菇",
   "Psathyrella longistriata,條環小脆柄菇,条环小脆柄菇",
   "Psathyrella obtusata,鈍頂小脆柄菇,钝顶小脆柄菇",

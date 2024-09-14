@@ -2,6 +2,7 @@
  "genus": "Galiella",
  "name": "amurensis",
  "date": [
+  "07/13/2024,8003554416421586",
   "08/19/2023,7228084457301923",
   "06/05/2019,3397758830334524"
  ],
@@ -63,6 +64,26 @@
   {
    "author": "蔡古媧",
    "image_src": "Galiella_amurensis_b6105040-ff90-11ee-bea0-2d3b2906fda1_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Galiella_amurensis_01185e30-6ea8-11ef-86bd-67fcf52e30eb_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Galiella_amurensis_01185e30-6ea8-11ef-86bd-67fcf52e30eb_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Galiella_amurensis_01185e30-6ea8-11ef-86bd-67fcf52e30eb_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Galiella_amurensis_01185e30-6ea8-11ef-86bd-67fcf52e30eb_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Galiella_amurensis_01185e30-6ea8-11ef-86bd-67fcf52e30eb_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -91,6 +112,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -101,7 +123,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "在台灣是高山物種，目前只在南湖群峰山區有記錄。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -112,5 +134,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/92812855/thumb.jpg"
   }
  ],
- "timestamp": "20240908-180222"
+ "timestamp": "20240914-123100"
 }

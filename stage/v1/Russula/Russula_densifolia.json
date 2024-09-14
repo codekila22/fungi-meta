@@ -2,7 +2,8 @@
  "genus": "Russula",
  "name": "densifolia",
  "date": [
-  "08/30/2024,7949545281822500"
+  "08/30/2024,7949545281822500",
+  "06/27/2023,8003554416421586"
  ],
  "names_zhtw": [
   "密褶紅菇"
@@ -33,6 +34,50 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Russula_densifolia_4fc8fd10-6763-11ef-83b1-c16b9f587388_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Russula_densifolia_b0dc5170-6ea6-11ef-86bd-67fcf52e30eb_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -70,11 +115,11 @@
   "Edible": "not-edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Russula adusta,,",
+  "LookAlikes": "Russula adusta,Russula albonigra,",
   "Note": "幼菌白色，然后到老化變成黑色。傷後先變成紅色然后變成黑色。",
   "GrowthEco": "mycorrhizal",
-  "la_zhtw": "煙色紅菇,,",
-  "la_zhcn": "烟色红菇,,"
+  "la_zhtw": "煙色紅菇,白黑紅菇,",
+  "la_zhcn": "烟色红菇,白黑红菇,"
  },
  "inaturalist": [
   {
@@ -126,5 +171,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240908-180222"
+ "timestamp": "20240914-123100"
 }

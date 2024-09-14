@@ -2,7 +2,7 @@
  "name": "Psathyrella",
  "zhtw": "小脆柄菇屬",
  "zhcn": "小脆柄菇属",
- "timestamp": "20240908-180222",
+ "timestamp": "20240914-123100",
  "list": [
   {
    "name": "Psathyrella candolleana",
@@ -12,6 +12,15 @@
    "current_zhtw": "黃蓋坎多氏菌",
    "current_zhcn": "黄盖坎多氏菌",
    "img": "Candolleomyces_candolleanus_286b69c0-0ad3-11ef-89e4-073137a8e9b6_1.jpg"
+  },
+  {
+   "name": "Psathyrella gossypina",
+   "zhtw": "棉毛小脆柄菇",
+   "zhcn": "棉毛小脆柄菇",
+   "current": "Typhrasa gossypina",
+   "current_zhtw": "棉毛新脆柄菇",
+   "current_zhcn": "棉毛新脆柄菇",
+   "img": "Typhrasa_gossypina_3d89ff50-d5cd-11ee-a3ed-ab4c6dac2e70_1.jpg"
   },
   {
    "name": "Psathyrella obtusata",
