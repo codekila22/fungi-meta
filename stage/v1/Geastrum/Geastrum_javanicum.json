@@ -2,6 +2,7 @@
  "genus": "Geastrum",
  "name": "javanicum",
  "date": [
+  "09/15/2024,8052957651481262",
   "06/18/2023,7186433608133675"
  ],
  "names_zhtw": [
@@ -49,6 +50,34 @@
   {
    "author": "蔡古媧",
    "image_src": "Geastrum_javanicum_6c8e2f30-f407-11ee-a8ba-2f0da633d1b0_10.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_javanicum_3dc305d0-736f-11ef-8166-d1d1ce804201_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_javanicum_3dc305d0-736f-11ef-8166-d1d1ce804201_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_javanicum_3dc305d0-736f-11ef-8166-d1d1ce804201_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_javanicum_3dc305d0-736f-11ef-8166-d1d1ce804201_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_javanicum_3dc305d0-736f-11ef-8166-d1d1ce804201_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_javanicum_3dc305d0-736f-11ef-8166-d1d1ce804201_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_javanicum_3dc305d0-736f-11ef-8166-d1d1ce804201_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -98,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157078772/thumb.jpeg"
   }
  ],
- "timestamp": "20240915-182245"
+ "timestamp": "20240915-224635"
 }
