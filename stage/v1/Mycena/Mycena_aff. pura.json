@@ -58,5 +58,85 @@
  "names_zhcn": [
   "洁小菇相似种"
  ],
- "timestamp": "20240915-181010"
+ "meta": {
+  "CapColors": "4286578816,4283433144,4283105408",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena pura",
+   "cname": "Lilac Bonnet",
+   "url": "https://www.inaturalist.org/taxa/63473-Mycena-pura",
+   "src": "https://static.inaturalist.org/photos/26988956/thumb.jpg"
+  },
+  {
+   "name": "Mycena luteovariegata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1370906-Mycena-luteovariegata",
+   "src": "https://static.inaturalist.org/photos/173886430/thumb.jpeg"
+  },
+  {
+   "name": "Mycena pura alba",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63476-Mycena-pura-alba",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/235606692/thumb.jpg"
+  },
+  {
+   "name": "Mycena pura var. carnea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63475-Mycena-pura-carnea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/247858129/thumb.jpg"
+  },
+  {
+   "name": "Mycena pura pura",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63477-Mycena-pura-pura",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13085770/thumb.jpeg"
+  },
+  {
+   "name": "Mycena pura caesia",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1419428-Mycena-pura-caesia",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/247754173/thumb.jpg"
+  },
+  {
+   "name": "Mycena pura ssp. multicolor",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1414232-Mycena-pura-multicolor",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240915-182245"
 }

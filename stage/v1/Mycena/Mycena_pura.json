@@ -247,9 +247,11 @@
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Mycena aff. pura,,",
+  "Note": "此種應為一個複合群，有各種顏色差異。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "潔小菇相似種,,",
+  "la_zhcn": "洁小菇相似种,,"
  },
  "inaturalist": [
   {
@@ -295,5 +297,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240915-181010"
+ "timestamp": "20240915-182245"
 }

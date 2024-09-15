@@ -174,9 +174,11 @@
   "Edible": "medicinal",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "過去台灣所認為的樹舌靈芝，目前認為應該是南方靈芝。",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Ganoderma applanatum,,",
+  "Note": "過去台灣低海拔所認為的樹舌靈芝，目前認為應該是南方靈芝。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "樹舌靈芝,,",
+  "la_zhcn": "树舌灵芝,,"
  },
  "inaturalist": [
   {
@@ -186,5 +188,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/54211256/thumb.jpeg"
   }
  ],
- "timestamp": "20240915-181010"
+ "timestamp": "20240915-182245"
 }
