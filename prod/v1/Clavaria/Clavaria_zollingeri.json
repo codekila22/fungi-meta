@@ -2,6 +2,7 @@
  "genus": "Clavaria",
  "name": "zollingeri",
  "date": [
+  "09/14/2024,8048614765248884",
   "07/09/2024,7644080889035609",
   "06/25/2024,7556626664447699",
   "06/21/2024,7536649679778731",
@@ -281,6 +282,10 @@
   {
    "author": "江志緯",
    "image_src": "Clavaria_zollingeri_de54fed0-aa91-107f-8f76-27c3c5f26f6f_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clavaria_zollingeri_ccb5f830-7345-11ef-994a-e7876ae88565_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -330,5 +335,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13562101/thumb.jpg"
   }
  ],
- "timestamp": "20240908-180222"
+ "timestamp": "20240915-224635"
 }

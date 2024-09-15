@@ -1,0 +1,90 @@
+{
+ "genus": "Boletus",
+ "name": "aokii",
+ "date": [
+  "09/15/2024,8022316117878749"
+ ],
+ "names_zhtw": [
+  "青木氏牛肝菌"
+ ],
+ "names_en": [],
+ "url": "8022316117878749",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletus_aokii_836a7260-733f-11ef-994a-e7876ae88565_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletus_aokii_836a7260-733f-11ef-994a-e7876ae88565_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletus_aokii_836a7260-733f-11ef-994a-e7876ae88565_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletus_aokii_836a7260-733f-11ef-994a-e7876ae88565_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletus_aokii_836a7260-733f-11ef-994a-e7876ae88565_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletus_aokii_836a7260-733f-11ef-994a-e7876ae88565_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletus_aokii_836a7260-733f-11ef-994a-e7876ae88565_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "青木氏牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "10,30",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "blue",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Parvixerocomus aokii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/931579-Parvixerocomus-aokii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/19927162/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240915-224635"
+}

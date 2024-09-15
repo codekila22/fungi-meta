@@ -2,6 +2,7 @@
  "genus": "Helvella",
  "name": "crispa",
  "date": [
+  "09/03/2024,8023137587796602",
   "09/27/2023,6454242934686083",
   "08/20/2023,6351135418330169",
   "08/12/2023,6295194913924220",
@@ -32,22 +33,6 @@
   {
    "author": "向高世",
    "image_src": "Helvella_crispa_5_CC BY-NC_向高世.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Helvella_crispa_1_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Helvella_crispa_2_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Helvella_crispa_3_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Helvella_crispa_4_CC BY-NC.jpg"
   },
   {
    "author": "Sunny Wang",
@@ -148,6 +133,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Helvella_crispa_ced60ea0-604c-11ee-bb69-cfdf58ee3437_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helvella_crispa_cdd44670-7045-11ef-b730-39372c97bb4a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helvella_crispa_cdd44670-7045-11ef-b730-39372c97bb4a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helvella_crispa_cdd44670-7045-11ef-b730-39372c97bb4a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helvella_crispa_cdd44670-7045-11ef-b730-39372c97bb4a_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -196,5 +197,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89010780/thumb.jpg"
   }
  ],
- "timestamp": "20240908-180222"
+ "timestamp": "20240915-224635"
 }

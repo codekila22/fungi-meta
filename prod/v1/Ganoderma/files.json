@@ -2,8 +2,14 @@
  "name": "Ganoderma",
  "zhtw": "靈芝屬",
  "zhcn": "灵芝属",
- "timestamp": "20240908-180222",
+ "timestamp": "20240915-224635",
  "list": [
+  {
+   "name": "Ganoderma applanatum",
+   "zhtw": "樹舌靈芝",
+   "zhcn": "树舌灵芝",
+   "img": "Ganoderma_applanatum_380f4240-7340-11ef-994a-e7876ae88565_1.jpg"
+  },
   {
    "name": "Ganoderma formosanum",
    "zhtw": "福爾摩沙靈芝",

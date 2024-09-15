@@ -2,6 +2,7 @@
  "genus": "Geastrum",
  "name": "suae",
  "date": [
+  "09/07/2024,8033626350081059",
   "07/19/2024,7689781547798876",
   "07/09/2024,7632675880176110",
   "06/27/2024,7620996214677410"
@@ -143,6 +144,50 @@
   {
    "author": "陳麗紅",
    "image_src": "Geastrum_suae_ebee5c80-ca08-10c5-9feb-454e2763b4c9_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_10.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Geastrum_suae_2cf791c0-7343-11ef-994a-e7876ae88565_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -184,5 +229,5 @@
   "Note": "2023年由中國雲南省的樣本發表的新種地星，子實體具有較明顯的柄。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20240908-180222"
+ "timestamp": "20240915-224635"
 }

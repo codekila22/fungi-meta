@@ -2,6 +2,7 @@
  "genus": "Lentinus",
  "name": "squarrosulus",
  "date": [
+  "09/14/2024,8043012249142469",
   "08/12/2024,7828485143928515",
   "07/07/2024,7624692934307738",
   "05/16/2024,7369965069780527",
@@ -238,6 +239,22 @@
   {
    "author": "高玉玲",
    "image_src": "Lentinus_squarrosulus_435600a0-1588-11ef-8600-2d955040b1a3_11.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_squarrosulus_97bed410-7284-11ef-8666-dfcc89504b04_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_squarrosulus_97bed410-7284-11ef-8666-dfcc89504b04_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_squarrosulus_97bed410-7284-11ef-8666-dfcc89504b04_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_squarrosulus_97bed410-7284-11ef-8666-dfcc89504b04_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -288,5 +305,5 @@
    "src": "https://static.inaturalist.org/photos/102975356/thumb.jpeg"
   }
  ],
- "timestamp": "20240908-180222"
+ "timestamp": "20240915-224635"
 }
