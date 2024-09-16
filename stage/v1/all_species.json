@@ -1,9 +1,9 @@
 {
- "timestamp": "20240915-224635",
+ "timestamp": "20240916-222257",
  "predefined": [
   {
    "description": "Marasmiods,皮傘/金錢菇類,皮伞/金钱菇类",
-   "keyword": "皮傘+金錢菇+金錢菌+黏蓋傘",
+   "keyword": "皮傘+金錢菇+金錢菌+黏蓋傘+四角孢傘+干臍菇+絨蓋傘",
    "image": "Marasmius/Marasmius_haematocephalus/Marasmius_haematocephalus_300c2450-0ac2-11ef-ad17-731ac9971bc1_2.jpg"
   },
   {
@@ -13,7 +13,7 @@
   },
   {
    "description": "Waxcaps,濕傘/蠟傘類,湿伞/蜡伞类",
-   "keyword": "Hygrocybe+Gliophorus+Hygroaster+Hydropus+Chrysomphalina+Porpolomopsis+Cuphophyllus+Hygrophorus+Hygrophoropsis+Chromosera",
+   "keyword": "Hygrocybe+Gliophorus+Hygroaster+Hodophilus+Hydropus+Chrysomphalina+Porpolomopsis+Cuphophyllus+Hygrophorus+Hygrophoropsis+Chromosera",
    "image": "Hygrocybe/Hygrocybe_conica/Hygrocybe_conica_1_CC BY-NC_陳麗紅.jpg"
   },
   {
@@ -43,7 +43,7 @@
   },
   {
    "description": "Pleurotoids,側生柄的菇,侧生柄的菇",
-   "keyword": "Crepidotus+Hohenbuehelia+帝爾斜蓋傘+荷伯生氏斜蓋傘+岩生斜蓋傘+Pleurotus+Pleurocybella+Panellus+Lentinellus+Pleuroflammula+Schizophyllum+Sarcomyxa+Pyrrhoglossum+脈褶菌+Cheimonophyllum+Chaetocalathus+Campanophyllum+Omphalotus",
+   "keyword": "Crepidotus+Hohenbuehelia+帝爾斜蓋傘+荷伯生氏斜蓋傘+岩生斜蓋傘+Pleurotus+Phyllotopsis+Neonothopanus+Pleurocybella+Panellus+Lentinellus+Pleuroflammula+苦絨蓋傘+Schizophyllum+Sarcomyxa+Pyrrhoglossum+脈褶菌+Cheimonophyllum+Chaetocalathus+Campanophyllum+Omphalotus",
    "image": "Crepidotus/Crepidotus_roseoornatus/Crepidotus_roseoornatus_1_CC BY-NC_James Ho.jpg"
   },
   {
@@ -1406,6 +1406,7 @@
   "Hirsutella saussurei,索緒爾被毛孢黴,索绪尔被毛孢霉",
   "Hirsutella,被毛孢黴屬,被毛孢霉属",
   "Hodophilus glaberripes,光柄徑邊菇,光柄径边菇",
+  "Hodophilus glabripes,光柄徑邊菇,光柄径边菇",
   "Hodophilus,徑邊菇屬,径边菇属",
   "Hohenbuehelia auriscalpium,勺狀亞側耳,勺状亚侧耳",
   "Hohenbuehelia grisea,黑灰亞側耳,黑灰亚侧耳",

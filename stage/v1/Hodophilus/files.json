@@ -2,12 +2,21 @@
  "name": "Hodophilus",
  "zhtw": "徑邊菇屬",
  "zhcn": "径边菇属",
- "timestamp": "20240915-224635",
+ "timestamp": "20240916-222257",
  "list": [
+  {
+   "name": "Hodophilus glabripes",
+   "zhtw": "光柄徑邊菇",
+   "zhcn": "光柄径边菇",
+   "img": "Hodophilus_glaberripes_2_CC BY-NC_Hannah Wang.jpg"
+  },
   {
    "name": "Hodophilus glaberripes",
    "zhtw": "光柄徑邊菇",
    "zhcn": "光柄径边菇",
+   "current": "Hodophilus glabripes",
+   "current_zhtw": "光柄徑邊菇",
+   "current_zhcn": "光柄径边菇",
    "img": "Hodophilus_glaberripes_2_CC BY-NC_Hannah Wang.jpg"
   }
  ]
