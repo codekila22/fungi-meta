@@ -2,7 +2,7 @@
  "name": "Phallus",
  "zhtw": "鬼筆屬",
  "zhcn": "鬼笔属",
- "timestamp": "20240916-222257",
+ "timestamp": "20240916-224527",
  "list": [
   {
    "name": "Phallus formosanus",
@@ -51,6 +51,12 @@
    "zhtw": "多色裙鬼筆",
    "zhcn": "多色裙鬼笔",
    "img": "Phallus_multicolor_89788850-e375-11ed-a1b0-b3c1443e58ff_11.jpg"
+  },
+  {
+   "name": "Phallus echinovolvatus",
+   "zhtw": "棘托鬼筆",
+   "zhcn": "棘托鬼笔",
+   "img": "Phallus_echinovolvatus_03953510-743a-11ef-b4b8-3ff264541fac_1.jpg"
   },
   {
    "name": "Phallus aurantiacus",
