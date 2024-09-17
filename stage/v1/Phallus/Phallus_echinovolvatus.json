@@ -56,5 +56,51 @@
   "棘托鬼笔",
   "棘托竹荪"
  ],
- "timestamp": "20240916-224527"
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Phallus indusiatus,,",
+  "Note": "子囊果上有毛毛的長棘(可能是灰白色或暗褐色)。接近時可明顯聞到類似熟果或風信子的香味。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "長裙鬼筆,,",
+  "la_zhcn": "长裙鬼笔,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Phallus echinovolvatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/967291-Phallus-echinovolvatus",
+   "src": ""
+  }
+ ],
+ "timestamp": "20240917-181623"
 }

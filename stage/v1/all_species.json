@@ -1,57 +1,65 @@
 {
- "timestamp": "20240916-224527",
- "predefined": [
-  {
-   "description": "Marasmiods,皮傘/金錢菇類,皮伞/金钱菇类",
-   "keyword": "皮傘+金錢菇+金錢菌+黏蓋傘+四角孢傘+干臍菇+絨蓋傘",
-   "image": "Marasmius/Marasmius_haematocephalus/Marasmius_haematocephalus_300c2450-0ac2-11ef-ad17-731ac9971bc1_2.jpg"
+ "timestamp": "20240917-181623",
+ "config": {
+  "cover": {
+   "image": "cover-photo.jpg",
+   "description": "運氣真好，今天在老家後山看到了一堆葡萄呢😁\n#暗紅亞團毛黏菌 Metatrichia vesparium\n20250915 南投縣 國姓鄉 長於腐木上",
+   "author": "江志緯",
+   "url": "https://www.facebook.com/groups/429770557133381/posts/8052133534897007"
   },
-  {
-   "description": "Bonnets,小菇類,小菇类",
-   "keyword": "小菇+雅薄傘",
-   "image": "Mycena/Mycena_jingyinga/Mycena_jingyinga_1_CC BY-NC_陳雅芬.jpg"
-  },
-  {
-   "description": "Waxcaps,濕傘/蠟傘類,湿伞/蜡伞类",
-   "keyword": "Hygrocybe+Gliophorus+Hygroaster+Hodophilus+Hydropus+Chrysomphalina+Porpolomopsis+Cuphophyllus+Hygrophorus+Hygrophoropsis+Chromosera",
-   "image": "Hygrocybe/Hygrocybe_conica/Hygrocybe_conica_1_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "description": "Amanitas,鵝膏類,鹅膏类",
-   "keyword": "鵝膏",
-   "image": "Amanita/Amanita_flavipes/Amanita_flavipes_1_CC BY-NC_向高世.jpg"
-  },
-  {
-   "description": "Lepiotoids,環柄菇類,环柄菇类",
-   "keyword": "Lepiota+Leucoagaricus+Leucocoprinus+Coniolepiota+Macrolepiota+Chlorophyllum+Clarkeinda+Echinoderma",
-   "image": "Leucocoprinus/Leucocoprinus_ianthinus/Leucocoprinus_ianthinus_2_CC BY-NC_李薇佳.jpg"
-  },
-  {
-   "description": "Coprinoids,鬼傘類,鬼伞类",
-   "keyword": "鬼傘",
-   "image": "Coprinellus/Coprinellus_disseminatus/Coprinellus_disseminatus_2_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "description": "Agarics,蘑菇類,蘑菇类",
-   "keyword": "蘑菇+Melanophyllum",
-   "image": "Agaricus/Agaricus_campestris/Agaricus_campestris_3_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "description": "Russula/Lactarius,紅菇/乳菇,红菇/乳菇",
-   "keyword": "紅菇+乳菇",
-   "image": "Russula/Russula_aeruginea/Russula_aeruginea_2_CC BY-NC_向高世.jpg"
-  },
-  {
-   "description": "Pleurotoids,側生柄的菇,侧生柄的菇",
-   "keyword": "Crepidotus+Hohenbuehelia+帝爾斜蓋傘+荷伯生氏斜蓋傘+岩生斜蓋傘+Pleurotus+Phyllotopsis+Neonothopanus+Pleurocybella+Panellus+Lentinellus+Pleuroflammula+苦絨蓋傘+Schizophyllum+Sarcomyxa+Pyrrhoglossum+脈褶菌+Cheimonophyllum+Chaetocalathus+Campanophyllum+Omphalotus",
-   "image": "Crepidotus/Crepidotus_roseoornatus/Crepidotus_roseoornatus_1_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "description": "Boletes,牛肝菌類,牛肝菌类",
-   "keyword": "牛肝",
-   "image": "Borofutus/Borofutus_dhakanus/Borofutus_dhakanus_1_CC BY-NC_姜淋友.jpg"
-  }
- ],
+  "predefined": [
+   {
+    "description": "Marasmiods,皮傘/金錢菇類,皮伞/金钱菇类",
+    "keyword": "皮傘+金錢菇+金錢菌+黏蓋傘+四角孢傘+干臍菇+絨蓋傘",
+    "image": "Marasmius/Marasmius_haematocephalus/Marasmius_haematocephalus_300c2450-0ac2-11ef-ad17-731ac9971bc1_2.jpg"
+   },
+   {
+    "description": "Bonnets,小菇類,小菇类",
+    "keyword": "小菇+雅薄傘",
+    "image": "Mycena/Mycena_jingyinga/Mycena_jingyinga_1_CC BY-NC_陳雅芬.jpg"
+   },
+   {
+    "description": "Waxcaps,濕傘/蠟傘類,湿伞/蜡伞类",
+    "keyword": "Hygrocybe+Gliophorus+Hygroaster+Hodophilus+Hydropus+Chrysomphalina+Porpolomopsis+Cuphophyllus+Hygrophorus+Hygrophoropsis+Chromosera",
+    "image": "Hygrocybe/Hygrocybe_conica/Hygrocybe_conica_1_CC BY-NC_陳麗紅.jpg"
+   },
+   {
+    "description": "Amanitas,鵝膏類,鹅膏类",
+    "keyword": "鵝膏",
+    "image": "Amanita/Amanita_flavipes/Amanita_flavipes_1_CC BY-NC_向高世.jpg"
+   },
+   {
+    "description": "Lepiotoids,環柄菇類,环柄菇类",
+    "keyword": "Lepiota+Leucoagaricus+Leucocoprinus+Coniolepiota+Macrolepiota+Chlorophyllum+Clarkeinda+Echinoderma",
+    "image": "Leucocoprinus/Leucocoprinus_ianthinus/Leucocoprinus_ianthinus_2_CC BY-NC_李薇佳.jpg"
+   },
+   {
+    "description": "Coprinoids,鬼傘類,鬼伞类",
+    "keyword": "鬼傘",
+    "image": "Coprinellus/Coprinellus_disseminatus/Coprinellus_disseminatus_2_CC BY-NC_James Ho.jpg"
+   },
+   {
+    "description": "Agarics,蘑菇類,蘑菇类",
+    "keyword": "蘑菇+Melanophyllum",
+    "image": "Agaricus/Agaricus_campestris/Agaricus_campestris_3_CC BY-NC_James Ho.jpg"
+   },
+   {
+    "description": "Russula/Lactarius,紅菇/乳菇,红菇/乳菇",
+    "keyword": "紅菇+乳菇",
+    "image": "Russula/Russula_aeruginea/Russula_aeruginea_2_CC BY-NC_向高世.jpg"
+   },
+   {
+    "description": "Pleurotoids,側生柄的菇,侧生柄的菇",
+    "keyword": "Crepidotus+Hohenbuehelia+帝爾斜蓋傘+荷伯生氏斜蓋傘+岩生斜蓋傘+Pleurotus+Phyllotopsis+Neonothopanus+Pleurocybella+Panellus+Lentinellus+Pleuroflammula+苦絨蓋傘+Schizophyllum+Sarcomyxa+Pyrrhoglossum+脈褶菌+Cheimonophyllum+Chaetocalathus+Campanophyllum+Omphalotus",
+    "image": "Crepidotus/Crepidotus_roseoornatus/Crepidotus_roseoornatus_1_CC BY-NC_James Ho.jpg"
+   },
+   {
+    "description": "Boletes,牛肝菌類,牛肝菌类",
+    "keyword": "牛肝",
+    "image": "Borofutus/Borofutus_dhakanus/Borofutus_dhakanus_1_CC BY-NC_姜淋友.jpg"
+   }
+  ]
+ },
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌",
   "Abortiporus,殘孔菌屬,残孔菌属",

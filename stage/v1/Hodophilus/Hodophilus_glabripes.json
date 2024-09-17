@@ -196,5 +196,13 @@
   "Note": "傘面與菌褶年輕時偏白色，成熟後有棕色或橙色調。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20240916-224527"
+ "inaturalist": [
+  {
+   "name": "Hodophilus glabripes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1349260-Hodophilus-glabripes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157296548/thumb.jpg"
+  }
+ ],
+ "timestamp": "20240917-181623"
 }

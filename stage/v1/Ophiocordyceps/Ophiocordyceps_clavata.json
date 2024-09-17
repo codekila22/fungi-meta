@@ -3,6 +3,7 @@
  "name": "clavata",
  "date": [
   "09/07/2024,8061357780641249",
+  "09/07/2024,8058241827619511",
   "08/22/2021,4088370597940007"
  ],
  "names_zhtw": [
@@ -47,6 +48,38 @@
   {
    "author": "向高世",
    "image_src": "Ophiocordyceps_clavata_4d215810-7419-11ef-8aca-a155c309e022_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ophiocordyceps_clavata_278285c0-7491-11ef-b426-eb364af60ad6_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ophiocordyceps_clavata_278285c0-7491-11ef-b426-eb364af60ad6_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ophiocordyceps_clavata_278285c0-7491-11ef-b426-eb364af60ad6_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ophiocordyceps_clavata_278285c0-7491-11ef-b426-eb364af60ad6_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ophiocordyceps_clavata_278285c0-7491-11ef-b426-eb364af60ad6_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ophiocordyceps_clavata_278285c0-7491-11ef-b426-eb364af60ad6_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ophiocordyceps_clavata_278285c0-7491-11ef-b426-eb364af60ad6_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ophiocordyceps_clavata_278285c0-7491-11ef-b426-eb364af60ad6_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -75,6 +108,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -85,7 +119,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "寄主為擬步形蟲科(Tenebrionidae)的幼蟲。"
  },
  "inaturalist": [
   {
@@ -95,5 +129,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240916-224527"
+ "timestamp": "20240917-181623"
 }
