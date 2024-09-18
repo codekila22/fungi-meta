@@ -3,36 +3,14 @@
  "name": "clavata",
  "date": [
   "09/07/2024,8061357780641249",
-  "09/07/2024,8058241827619511",
-  "08/22/2021,4088370597940007"
+  "09/07/2024,8058241827619511"
  ],
  "names_zhtw": [
-  "棒狀蛇形蟲草",
   "黃棒蟲草"
  ],
  "names_en": [],
- "url": "4088370597940007",
+ "url": "8058241827619511",
  "images": [
-  {
-   "author": "陳麗紅",
-   "image_src": "Ophiocordyceps_clavata_1_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Ophiocordyceps_clavata_2_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Ophiocordyceps_clavata_3_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Ophiocordyceps_clavata_4_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Ophiocordyceps_clavata_5_CC BY-NC_陳麗紅.jpg"
-  },
   {
    "author": "向高世",
    "image_src": "Ophiocordyceps_clavata_4d215810-7419-11ef-8aca-a155c309e022_1.jpg"
@@ -83,7 +61,6 @@
   }
  ],
  "names_zhcn": [
-  "棒状蛇形虫草",
   "黄棒虫草"
  ],
  "meta": {
@@ -129,5 +106,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240917-204722"
+ "timestamp": "20240918-225207"
 }

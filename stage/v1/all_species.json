@@ -1,5 +1,5 @@
 {
- "timestamp": "20240917-204722",
+ "timestamp": "20240918-225207",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -57,6 +57,16 @@
     "description": "Boletes,牛肝菌類,牛肝菌类",
     "keyword": "牛肝",
     "image": "Borofutus/Borofutus_dhakanus/Borofutus_dhakanus_1_CC BY-NC_姜淋友.jpg"
+   },
+   {
+    "description": "Cordyceps,蟲草類,虫草类",
+    "keyword": "Cordyceps+Ophiocordyceps+Beauveria+Purpureocillium+Tolypocladium+Torrubiella+Polycephalomyces+Gibellula+Akanthomyces+Hirsutella+Isaria",
+    "image": "Cordyceps/Cordyceps_militaris/Cordyceps_militaris_c5c54350-ac4e-11ee-8a1d-732b1b90dbe6_1.jpg"
+   },
+   {
+    "description": "Xylaria,炭角菌類,炭角菌类",
+    "keyword": "Xylaria+Annulohypoxylon+Rosellinia+Lindquistia+Biscogniauxia+Kretzschmaria+Whalleya+Astrocystis+Stilbohypoxylon+Entonaema+",
+    "image": "Xylaria/Xylaria_hypoxylon/Xylaria_hypoxylon_1_CC BY-NC_陳雅芬.jpg"
    }
   ]
  },
@@ -2143,7 +2153,7 @@
   "Opegrapha physciae,蜈蚣衣生孔文衣,蜈蚣衣生孔文衣",
   "Opegrapha,孔文衣屬,孔文衣属",
   "Ophiocordyceps buquetii,捧束蛇形蟲草,捧束蛇形虫草",
-  "Ophiocordyceps clavata,棒狀蛇形蟲草,棒状蛇形虫草",
+  "Ophiocordyceps clavata,黃棒蟲草,黄棒虫草",
   "Ophiocordyceps dipterigena,雙翅蛇形蟲草,双翅蛇形虫草",
   "Ophiocordyceps entomorrhiza,蟲根線蟲草,虫根线虫草",
   "Ophiocordyceps geometridicola,尺蠖蛇形蟲草,尺蠖蛇形虫草",
@@ -2154,6 +2164,7 @@
   "Ophiocordyceps nutans,下垂蛇形蟲草,下垂蛇形虫草",
   "Ophiocordyceps odonatae,蜻蜓層束梗黴,蜻蜓层束梗霉",
   "Ophiocordyceps sp.1,蛇形蟲草屬的一種,蛇形虫草属的一种",
+  "Ophiocordyceps sp.2,棒狀蛇形蟲草的相似種,棒状蛇形虫草的相似种",
   "Ophiocordyceps sphecocephala,蜂頭蛇形蟲草,蜂头蛇形虫草",
   "Ophiocordyceps tricentri,沫蟬蛇形蟲草,沫蝉蛇形虫草",
   "Ophiocordyceps unilateralis,偏側蛇蟲草,偏侧蛇虫草",
