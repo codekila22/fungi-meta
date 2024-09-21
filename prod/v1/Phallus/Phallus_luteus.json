@@ -253,9 +253,11 @@
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Phallus indusiatus,,",
   "Note": "菌柄上會有短短的白色內裙。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "長裙鬼筆,,",
+  "la_zhcn": "长裙鬼笔,,"
  },
  "inaturalist": [
   {
@@ -265,5 +267,5 @@
    "src": "https://static.inaturalist.org/photos/13307620/thumb.jpeg"
   }
  ],
- "timestamp": "20240915-224635"
+ "timestamp": "20240921-083044"
 }

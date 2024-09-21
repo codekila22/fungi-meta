@@ -2,6 +2,7 @@
  "genus": "Macrocybe",
  "name": "gigantea",
  "date": [
+  "09/17/2024,8068660386577655",
   "06/21/2024,7536751543101878",
   "05/26/2024,7413379838772383",
   "04/27/2024,7276416135802088",
@@ -216,6 +217,30 @@
   {
    "author": "何俊霖",
    "image_src": "Macrocybe_gigantea_b822dc90-3064-11ef-b950-2dbef52faa3b_12.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Macrocybe_gigantea_537907e0-74b8-11ef-b9a6-ffbe708f9c39_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Macrocybe_gigantea_537907e0-74b8-11ef-b9a6-ffbe708f9c39_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Macrocybe_gigantea_537907e0-74b8-11ef-b9a6-ffbe708f9c39_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Macrocybe_gigantea_537907e0-74b8-11ef-b9a6-ffbe708f9c39_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Macrocybe_gigantea_537907e0-74b8-11ef-b9a6-ffbe708f9c39_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Macrocybe_gigantea_537907e0-74b8-11ef-b9a6-ffbe708f9c39_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -266,5 +291,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63228439/thumb.jpeg"
   }
  ],
- "timestamp": "20240915-224635"
+ "timestamp": "20240921-083044"
 }

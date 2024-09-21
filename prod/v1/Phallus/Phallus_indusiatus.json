@@ -184,11 +184,14 @@
   "StalkAttachment": "",
   "StalkColors": "4294967295",
   "StalkTexture": "",
+  "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "20,30",
   "StalkLengthRangeValuess": "120,170",
+  "HeightRangeValuess": "",
+  "Rareness": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -197,9 +200,11 @@
   "Edible": "edible,medicinal",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Phallus echinovolvatus,Phallus luteus,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "棘托鬼筆,淡黃裙鬼筆,",
+  "la_zhcn": "棘托鬼笔,淡黄裙鬼笔,"
  },
  "inaturalist": [
   {
@@ -215,5 +220,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/182012487/thumb.jpeg"
   }
  ],
- "timestamp": "20240915-224635"
+ "timestamp": "20240921-083044"
 }

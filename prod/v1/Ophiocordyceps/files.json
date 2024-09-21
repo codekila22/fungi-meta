@@ -2,7 +2,7 @@
  "name": "Ophiocordyceps",
  "zhtw": "蛇形蟲草屬",
  "zhcn": "蛇形虫草属",
- "timestamp": "20240915-224635",
+ "timestamp": "20240921-083044",
  "list": [
   {
    "name": "Ophiocordyceps unilateralis",
@@ -27,6 +27,12 @@
    "zhtw": "蟲根線蟲草",
    "zhcn": "虫根线虫草",
    "img": "Ophiocordyceps_entomorrhiza_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Ophiocordyceps sp.2",
+   "zhtw": "棒狀蛇形蟲草的相似種",
+   "zhcn": "棒状蛇形虫草的相似种",
+   "img": "Ophiocordyceps_clavata_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Ophiocordyceps tricentri",
@@ -78,9 +84,9 @@
   },
   {
    "name": "Ophiocordyceps clavata",
-   "zhtw": "棒狀蛇形蟲草",
-   "zhcn": "棒状蛇形虫草",
-   "img": "Ophiocordyceps_clavata_1_CC BY-NC_陳麗紅.jpg"
+   "zhtw": "黃棒蟲草",
+   "zhcn": "黄棒虫草",
+   "img": "Ophiocordyceps_clavata_4d215810-7419-11ef-8aca-a155c309e022_1.jpg"
   },
   {
    "name": "Ophiocordyceps macroacicularis",

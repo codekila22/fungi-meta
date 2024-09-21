@@ -1,57 +1,75 @@
 {
- "timestamp": "20240915-224635",
- "predefined": [
-  {
-   "description": "Marasmiods,皮傘/金錢菇類,皮伞/金钱菇类",
-   "keyword": "皮傘+金錢菇+金錢菌+黏蓋傘",
-   "image": "Marasmius/Marasmius_haematocephalus/Marasmius_haematocephalus_300c2450-0ac2-11ef-ad17-731ac9971bc1_2.jpg"
+ "timestamp": "20240921-083044",
+ "config": {
+  "cover": {
+   "image": "cover-photo.jpg",
+   "description": "運氣真好，今天在老家後山看到了一堆葡萄呢😁\n\n#暗紅亞團毛黏菌 Metatrichia vesparium\n\n20250915 南投縣 國姓鄉 長於腐木上",
+   "author": "江志緯",
+   "url": "https://www.facebook.com/groups/429770557133381/posts/8052133534897007"
   },
-  {
-   "description": "Bonnets,小菇類,小菇类",
-   "keyword": "小菇+雅薄傘",
-   "image": "Mycena/Mycena_jingyinga/Mycena_jingyinga_1_CC BY-NC_陳雅芬.jpg"
-  },
-  {
-   "description": "Waxcaps,濕傘/蠟傘類,湿伞/蜡伞类",
-   "keyword": "Hygrocybe+Gliophorus+Hygroaster+Hydropus+Chrysomphalina+Porpolomopsis+Cuphophyllus+Hygrophorus+Hygrophoropsis+Chromosera",
-   "image": "Hygrocybe/Hygrocybe_conica/Hygrocybe_conica_1_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "description": "Amanitas,鵝膏類,鹅膏类",
-   "keyword": "鵝膏",
-   "image": "Amanita/Amanita_flavipes/Amanita_flavipes_1_CC BY-NC_向高世.jpg"
-  },
-  {
-   "description": "Lepiotoids,環柄菇類,环柄菇类",
-   "keyword": "Lepiota+Leucoagaricus+Leucocoprinus+Coniolepiota+Macrolepiota+Chlorophyllum+Clarkeinda+Echinoderma",
-   "image": "Leucocoprinus/Leucocoprinus_ianthinus/Leucocoprinus_ianthinus_2_CC BY-NC_李薇佳.jpg"
-  },
-  {
-   "description": "Coprinoids,鬼傘類,鬼伞类",
-   "keyword": "鬼傘",
-   "image": "Coprinellus/Coprinellus_disseminatus/Coprinellus_disseminatus_2_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "description": "Agarics,蘑菇類,蘑菇类",
-   "keyword": "蘑菇+Melanophyllum",
-   "image": "Agaricus/Agaricus_campestris/Agaricus_campestris_3_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "description": "Russula/Lactarius,紅菇/乳菇,红菇/乳菇",
-   "keyword": "紅菇+乳菇",
-   "image": "Russula/Russula_aeruginea/Russula_aeruginea_2_CC BY-NC_向高世.jpg"
-  },
-  {
-   "description": "Pleurotoids,側生柄的菇,侧生柄的菇",
-   "keyword": "Crepidotus+Hohenbuehelia+帝爾斜蓋傘+荷伯生氏斜蓋傘+岩生斜蓋傘+Pleurotus+Pleurocybella+Panellus+Lentinellus+Pleuroflammula+Schizophyllum+Sarcomyxa+Pyrrhoglossum+脈褶菌+Cheimonophyllum+Chaetocalathus+Campanophyllum+Omphalotus",
-   "image": "Crepidotus/Crepidotus_roseoornatus/Crepidotus_roseoornatus_1_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "description": "Boletes,牛肝菌類,牛肝菌类",
-   "keyword": "牛肝",
-   "image": "Borofutus/Borofutus_dhakanus/Borofutus_dhakanus_1_CC BY-NC_姜淋友.jpg"
-  }
- ],
+  "predefined": [
+   {
+    "description": "Marasmiods,皮傘/金錢菇類,皮伞/金钱菇类",
+    "keyword": "皮傘+金錢菇+金錢菌+黏蓋傘+四角孢傘+干臍菇+絨蓋傘",
+    "image": "Marasmius/Marasmius_haematocephalus/Marasmius_haematocephalus_300c2450-0ac2-11ef-ad17-731ac9971bc1_2.jpg"
+   },
+   {
+    "description": "Bonnets,小菇類,小菇类",
+    "keyword": "小菇+雅薄傘",
+    "image": "Mycena/Mycena_jingyinga/Mycena_jingyinga_1_CC BY-NC_陳雅芬.jpg"
+   },
+   {
+    "description": "Waxcaps,濕傘/蠟傘類,湿伞/蜡伞类",
+    "keyword": "Hygrocybe+Gliophorus+Hygroaster+Hodophilus+Hydropus+Chrysomphalina+Porpolomopsis+Cuphophyllus+Hygrophorus+Hygrophoropsis+Chromosera",
+    "image": "Hygrocybe/Hygrocybe_conica/Hygrocybe_conica_1_CC BY-NC_陳麗紅.jpg"
+   },
+   {
+    "description": "Amanitas,鵝膏類,鹅膏类",
+    "keyword": "鵝膏",
+    "image": "Amanita/Amanita_flavipes/Amanita_flavipes_1_CC BY-NC_向高世.jpg"
+   },
+   {
+    "description": "Lepiotoids,環柄菇類,环柄菇类",
+    "keyword": "Lepiota+Leucoagaricus+Leucocoprinus+Coniolepiota+Macrolepiota+Chlorophyllum+Clarkeinda+Echinoderma",
+    "image": "Leucocoprinus/Leucocoprinus_ianthinus/Leucocoprinus_ianthinus_2_CC BY-NC_李薇佳.jpg"
+   },
+   {
+    "description": "Coprinoids,鬼傘類,鬼伞类",
+    "keyword": "鬼傘",
+    "image": "Coprinellus/Coprinellus_disseminatus/Coprinellus_disseminatus_2_CC BY-NC_James Ho.jpg"
+   },
+   {
+    "description": "Agarics,蘑菇類,蘑菇类",
+    "keyword": "蘑菇+Melanophyllum",
+    "image": "Agaricus/Agaricus_campestris/Agaricus_campestris_3_CC BY-NC_James Ho.jpg"
+   },
+   {
+    "description": "Russula/Lactarius,紅菇/乳菇,红菇/乳菇",
+    "keyword": "紅菇+乳菇",
+    "image": "Russula/Russula_aeruginea/Russula_aeruginea_2_CC BY-NC_向高世.jpg"
+   },
+   {
+    "description": "Pleurotoids,側生柄的菇,侧生柄的菇",
+    "keyword": "Crepidotus+Hohenbuehelia+帝爾斜蓋傘+荷伯生氏斜蓋傘+岩生斜蓋傘+Pleurotus+Phyllotopsis+Neonothopanus+Pleurocybella+Panellus+Lentinellus+Pleuroflammula+苦絨蓋傘+Schizophyllum+Sarcomyxa+Pyrrhoglossum+脈褶菌+Cheimonophyllum+Chaetocalathus+Campanophyllum+Omphalotus",
+    "image": "Crepidotus/Crepidotus_roseoornatus/Crepidotus_roseoornatus_1_CC BY-NC_James Ho.jpg"
+   },
+   {
+    "description": "Boletes,牛肝菌類,牛肝菌类",
+    "keyword": "牛肝",
+    "image": "Borofutus/Borofutus_dhakanus/Borofutus_dhakanus_1_CC BY-NC_姜淋友.jpg"
+   },
+   {
+    "description": "Cordyceps,蟲草類,虫草类",
+    "keyword": "Cordyceps+Ophiocordyceps+Beauveria+Purpureocillium+Tolypocladium+Torrubiella+Polycephalomyces+Gibellula+Akanthomyces+Hirsutella+Isaria",
+    "image": "Cordyceps/Cordyceps_militaris/Cordyceps_militaris_c5c54350-ac4e-11ee-8a1d-732b1b90dbe6_1.jpg"
+   },
+   {
+    "description": "Xylaria,炭角菌類,炭角菌类",
+    "keyword": "Xylaria+Annulohypoxylon+Rosellinia+Lindquistia+Biscogniauxia+Kretzschmaria+Whalleya+Astrocystis+Stilbohypoxylon+Entonaema+",
+    "image": "Xylaria/Xylaria_hypoxylon/Xylaria_hypoxylon_1_CC BY-NC_陳雅芬.jpg"
+   }
+  ]
+ },
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌",
   "Abortiporus,殘孔菌屬,残孔菌属",
@@ -1406,6 +1424,7 @@
   "Hirsutella saussurei,索緒爾被毛孢黴,索绪尔被毛孢霉",
   "Hirsutella,被毛孢黴屬,被毛孢霉属",
   "Hodophilus glaberripes,光柄徑邊菇,光柄径边菇",
+  "Hodophilus glabripes,光柄徑邊菇,光柄径边菇",
   "Hodophilus,徑邊菇屬,径边菇属",
   "Hohenbuehelia auriscalpium,勺狀亞側耳,勺状亚侧耳",
   "Hohenbuehelia grisea,黑灰亞側耳,黑灰亚侧耳",
@@ -2134,7 +2153,7 @@
   "Opegrapha physciae,蜈蚣衣生孔文衣,蜈蚣衣生孔文衣",
   "Opegrapha,孔文衣屬,孔文衣属",
   "Ophiocordyceps buquetii,捧束蛇形蟲草,捧束蛇形虫草",
-  "Ophiocordyceps clavata,棒狀蛇形蟲草,棒状蛇形虫草",
+  "Ophiocordyceps clavata,黃棒蟲草,黄棒虫草",
   "Ophiocordyceps dipterigena,雙翅蛇形蟲草,双翅蛇形虫草",
   "Ophiocordyceps entomorrhiza,蟲根線蟲草,虫根线虫草",
   "Ophiocordyceps geometridicola,尺蠖蛇形蟲草,尺蠖蛇形虫草",
@@ -2145,6 +2164,7 @@
   "Ophiocordyceps nutans,下垂蛇形蟲草,下垂蛇形虫草",
   "Ophiocordyceps odonatae,蜻蜓層束梗黴,蜻蜓层束梗霉",
   "Ophiocordyceps sp.1,蛇形蟲草屬的一種,蛇形虫草属的一种",
+  "Ophiocordyceps sp.2,棒狀蛇形蟲草的相似種,棒状蛇形虫草的相似种",
   "Ophiocordyceps sphecocephala,蜂頭蛇形蟲草,蜂头蛇形虫草",
   "Ophiocordyceps tricentri,沫蟬蛇形蟲草,沫蝉蛇形虫草",
   "Ophiocordyceps unilateralis,偏側蛇蟲草,偏侧蛇虫草",
@@ -2307,6 +2327,7 @@
   "Phakopsora,層銹菌屬,层锈菌属",
   "Phallus aurantiacus,黃橙鬼筆,黄橙鬼笔",
   "Phallus dongsun,冬蓀鬼筆,冬荪鬼笔",
+  "Phallus echinovolvatus,棘托鬼筆,棘托鬼笔",
   "Phallus flavocostatus,黃重脈鬼筆,黄重脉鬼笔",
   "Phallus formosanus,台灣鬼筆,台湾鬼笔",
   "Phallus indusiatus,長裙鬼筆,长裙鬼笔",
