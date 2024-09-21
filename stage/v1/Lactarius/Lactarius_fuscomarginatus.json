@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "fuscomarginatus",
  "date": [
+  "08/30/2022,8088905087886518",
   "07/10/2022,5058409337602790"
  ],
  "names_zhtw": [
@@ -25,6 +26,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Lactarius_fuscomarginatus_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -74,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27331118/thumb.jpeg"
   }
  ],
- "timestamp": "20240918-225207"
+ "timestamp": "20240921-083044"
 }
