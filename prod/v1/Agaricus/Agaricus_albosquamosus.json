@@ -2,7 +2,7 @@
  "genus": "Agaricus",
  "name": "albosquamosus",
  "date": [
-  "01/01/0001"
+  "09/16/2024,8116931235083903"
  ],
  "names_zhtw": [
   "白鱗柄蘑菇"
@@ -45,6 +45,22 @@
   {
    "author": "Hannah Wang",
    "image_src": "Agaricus_albosquamosus_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_b32f2b30-78a3-11ef-98b5-2142f343c264_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_b32f2b30-78a3-11ef-98b5-2142f343c264_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_b32f2b30-78a3-11ef-98b5-2142f343c264_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_b32f2b30-78a3-11ef-98b5-2142f343c264_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -96,5 +112,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157491384/thumb.jpg"
   }
  ],
- "timestamp": "20240921-083044"
+ "timestamp": "20240922-133821"
 }

@@ -1,5 +1,5 @@
 {
- "timestamp": "20240921-083044",
+ "timestamp": "20240922-133821",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -50,7 +50,7 @@
    },
    {
     "description": "Pleurotoids,側生柄的菇,侧生柄的菇",
-    "keyword": "Crepidotus+Hohenbuehelia+帝爾斜蓋傘+荷伯生氏斜蓋傘+岩生斜蓋傘+Pleurotus+Phyllotopsis+Neonothopanus+Pleurocybella+Panellus+Lentinellus+Pleuroflammula+苦絨蓋傘+Schizophyllum+Sarcomyxa+Pyrrhoglossum+脈褶菌+Cheimonophyllum+Chaetocalathus+Campanophyllum+Omphalotus",
+    "keyword": "Crepidotus+Hohenbuehelia+帝爾斜蓋傘+荷伯生氏斜蓋傘+岩生斜蓋傘+Pleurotus+Phyllotopsis+Neonothopanus+Pleurocybella+Panellus+Resinomycena+Lentinellus+Pleuroflammula+苦絨蓋傘+Schizophyllum+Sarcomyxa+Pyrrhoglossum+脈褶菌+Cheimonophyllum+Chaetocalathus+Campanophyllum+Omphalotus",
     "image": "Crepidotus/Crepidotus_roseoornatus/Crepidotus_roseoornatus_1_CC BY-NC_James Ho.jpg"
    },
    {
@@ -1506,6 +1506,8 @@
   "Hymenoscyphus vacini,瓦氏膜盤菌,瓦氏膜盘菌",
   "Hymenoscyphus varicosporoides,變色膜盤菌,变色膜盘菌",
   "Hymenoscyphus,膜盤菌屬,膜盘菌属",
+  "Hymenostilbe odonatae,蜻蜓層束梗黴,蜻蜓层束梗霉",
+  "Hymenostilbe,層束梗黴屬,层束梗霉属",
   "Hypholoma cinnabarinum,橙紅鱗垂幕菇,橙红鳞垂幕菇",
   "Hypholoma fasciculare,簇生垂幕菇,簇生垂幕菇",
   "Hypholoma lateritium,磚紅垂幕菇,砖红垂幕菇",
@@ -2162,7 +2164,7 @@
   "Ophiocordyceps macroacicularis,大針蛇形蟲草,大针蛇形虫草",
   "Ophiocordyceps myrmecophila,蟻蛇形蟲草,蚁蛇形虫草",
   "Ophiocordyceps nutans,下垂蛇形蟲草,下垂蛇形虫草",
-  "Ophiocordyceps odonatae,蜻蜓層束梗黴,蜻蜓层束梗霉",
+  "Ophiocordyceps odonatae,蜻蜓蛇形蟲草,蜻蜓蛇形虫草",
   "Ophiocordyceps sp.1,蛇形蟲草屬的一種,蛇形虫草属的一种",
   "Ophiocordyceps sp.2,棒狀蛇形蟲草的相似種,棒状蛇形虫草的相似种",
   "Ophiocordyceps sphecocephala,蜂頭蛇形蟲草,蜂头蛇形虫草",

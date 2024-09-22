@@ -72,7 +72,7 @@
   "CapColors": "4288768839,4290547599",
   "CapDiamRangeValues": "",
   "CapShape": "",
-  "CapTexture": "",
+  "CapTexture": "raised-scales",
   "CapMargin": "",
   "HymeniumType": "",
   "HymeniumColors": "",
@@ -101,7 +101,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌柄有類似傘面的明顯鱗毛。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -118,5 +118,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240921-083044"
+ "timestamp": "20240922-133821"
 }
