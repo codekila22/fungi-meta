@@ -2,13 +2,14 @@
  "genus": "Placopsis",
  "name": "lambii",
  "date": [
-  "01/01/0001"
+  "04/08/2023,8118608881582805",
+  "08/14/2016,1009736929136738"
  ],
  "names_zhtw": [
   "蘭布癭茶漬"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/2907",
+ "url": "8118608881582805",
  "images": [
   {
    "author": "柯文俊",
@@ -25,6 +26,34 @@
   {
    "author": "柯文俊",
    "image_src": "Placopsis_lambii_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Placopsis_lambii_d757b950-78bc-11ef-aacb-7f2071a6af28_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Placopsis_lambii_d757b950-78bc-11ef-aacb-7f2071a6af28_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Placopsis_lambii_d757b950-78bc-11ef-aacb-7f2071a6af28_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Placopsis_lambii_d757b950-78bc-11ef-aacb-7f2071a6af28_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Placopsis_lambii_d757b950-78bc-11ef-aacb-7f2071a6af28_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Placopsis_lambii_d757b950-78bc-11ef-aacb-7f2071a6af28_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Placopsis_lambii_d757b950-78bc-11ef-aacb-7f2071a6af28_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -73,5 +102,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6182767/thumb.jpg"
   }
  ],
- "timestamp": "20240922-133821"
+ "timestamp": "20240922-164049"
 }
