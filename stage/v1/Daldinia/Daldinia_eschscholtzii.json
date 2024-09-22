@@ -2,6 +2,7 @@
  "genus": "Daldinia",
  "name": "eschscholtzii",
  "date": [
+  "09/21/2024,8111157925661234",
   "11/25/2023,6677162115727496",
   "09/15/2023,6406125706164473",
   "08/29/2023,6344672678976443",
@@ -116,6 +117,22 @@
   {
    "author": "江志緯",
    "image_src": "Daldinia_eschscholtzii_84136600-644d-106e-bf3b-adba3bf7b190_14.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Daldinia_eschscholtzii_2b0ce610-78a4-11ef-98b5-2142f343c264_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Daldinia_eschscholtzii_2b0ce610-78a4-11ef-98b5-2142f343c264_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Daldinia_eschscholtzii_2b0ce610-78a4-11ef-98b5-2142f343c264_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Daldinia_eschscholtzii_2b0ce610-78a4-11ef-98b5-2142f343c264_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -173,5 +190,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/76125697/thumb.jpg"
   }
  ],
- "timestamp": "20240922-130923"
+ "timestamp": "20240922-133821"
 }
