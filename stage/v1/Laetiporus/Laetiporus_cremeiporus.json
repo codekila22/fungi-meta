@@ -1,6 +1,6 @@
 {
  "genus": "Laetiporus",
- "name": "cremeipores",
+ "name": "cremeiporus",
  "date": [
   "04/21/2024,7251293681647667",
   "11/21/2023,6665174653592909",
@@ -125,40 +125,5 @@
  "names_zhcn": [
   "奶油绚孔菌"
  ],
- "meta": {
-  "CapColors": "4294966736",
-  "CapDiamRangeValues": "",
-  "CapShape": "",
-  "CapTexture": "",
-  "CapMargin": "",
-  "HymeniumType": "pored",
-  "HymeniumColors": "",
-  "HymeniumSporePrints": "",
-  "HymeniumGillArrangement": "",
-  "HymeniumGillAttachment": "",
-  "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
-  "StalkAttachment": "",
-  "StalkColors": "",
-  "StalkTexture": "",
-  "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
-  "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "spring,summer,autumn,winter",
-  "GrowthType": "scattered,grouped",
-  "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "no",
-  "Edible": "edible",
-  "Smell": "",
-  "Taste": "",
-  "LookAlikes": "",
-  "Note": "菌蓋表面容易被雨水沖刷而褪色成乳白色。",
-  "GrowthEco": "saprotrophic"
- },
- "timestamp": "20240922-133821"
+ "timestamp": "20240922-164049"
 }
