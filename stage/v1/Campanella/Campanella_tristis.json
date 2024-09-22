@@ -2,6 +2,7 @@
  "genus": "Campanella",
  "name": "tristis",
  "date": [
+  "09/20/2024,8107614869348873",
   "07/30/2024,7965817346861960",
   "10/19/2023,6536220679821641",
   "03/31/2023,5840863329357383",
@@ -169,6 +170,30 @@
   {
    "author": "Sunny Wang",
    "image_src": "Campanella_tristis_074b54f0-69d6-11ef-bad6-f31ba3bd26f9_15.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanella_tristis_3c5ff1d0-77ed-11ef-8001-03b250c5b089_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanella_tristis_3c5ff1d0-77ed-11ef-8001-03b250c5b089_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanella_tristis_3c5ff1d0-77ed-11ef-8001-03b250c5b089_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanella_tristis_3c5ff1d0-77ed-11ef-8001-03b250c5b089_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanella_tristis_3c5ff1d0-77ed-11ef-8001-03b250c5b089_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanella_tristis_3c5ff1d0-77ed-11ef-8001-03b250c5b089_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -218,5 +243,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6401069/thumb.jpg"
   }
  ],
- "timestamp": "20240921-083044"
+ "timestamp": "20240922-130923"
 }

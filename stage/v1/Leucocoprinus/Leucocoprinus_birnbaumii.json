@@ -2,6 +2,7 @@
  "genus": "Leucocoprinus",
  "name": "birnbaumii",
  "date": [
+  "09/20/2024,8111218378988522",
   "08/21/2024,7904914056285623",
   "06/01/2024,7440404502736583",
   "06/01/2024,7568169366626762",
@@ -226,6 +227,14 @@
   {
    "author": "江志緯",
    "image_src": "Leucocoprinus_birnbaumii_ddce0440-621b-11ef-8f02-69e3d7fe61d6_9.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucocoprinus_birnbaumii_7f914ab0-7880-11ef-9935-9f7add3ac665_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucocoprinus_birnbaumii_7f914ab0-7880-11ef-9935-9f7add3ac665_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -287,5 +296,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240921-083044"
+ "timestamp": "20240922-130923"
 }

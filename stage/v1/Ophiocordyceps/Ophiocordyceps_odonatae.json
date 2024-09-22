@@ -1,21 +1,27 @@
 {
  "genus": "Ophiocordyceps",
  "name": "odonatae",
+ "synonym": [
+  {
+   "name": "Hymenostilbe odonatae",
+   "zhtw": "蜻蜓層束梗黴",
+   "zhcn": "蜻蜓层束梗霉"
+  }
+ ],
  "date": [
   "02/20/2024,7002524939857877",
   "02/20/2024,7029533447157026",
   "02/10/2024,6962899487153756",
   "03/20/2022,4751721654938228",
   "11/20/2021,4343764609067270",
+  "09/26/2020,3145782552198821",
   "10/27/2017,4343764609067270",
   "06/18/2017,1230836947026734"
  ],
  "names_zhtw": [
-  "蜻蜓層束梗黴"
+  "蜻蜓蛇形蟲草"
  ],
- "names_en": [
-  "Hymenostilbe odonatae"
- ],
+ "names_en": [],
  "url": "4751721654938228",
  "images": [
   {
@@ -201,10 +207,22 @@
   {
    "author": "江志緯",
    "image_src": "Ophiocordyceps_odonatae_280c0310-d5ca-11ee-882b-296905aea63c_12.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ophiocordyceps_odonatae_dc906f40-77d4-11ef-a5cf-cb496a29698c_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ophiocordyceps_odonatae_dc906f40-77d4-11ef-a5cf-cb496a29698c_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ophiocordyceps_odonatae_dc906f40-77d4-11ef-a5cf-cb496a29698c_3.jpg"
   }
  ],
  "names_zhcn": [
-  "蜻蜓层束梗霉"
+  "蜻蜓蛇形虫草"
  ],
  "meta": {
   "CapColors": "4293313475,4293302630,4292786311",
@@ -248,5 +266,5 @@
    "src": "https://static.inaturalist.org/photos/22932754/thumb.jpeg"
   }
  ],
- "timestamp": "20240921-083044"
+ "timestamp": "20240922-130923"
 }
