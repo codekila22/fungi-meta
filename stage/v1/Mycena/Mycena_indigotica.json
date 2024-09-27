@@ -14,6 +14,7 @@
   "05/28/2022,4956286407815084",
   "04/21/2022,4829698860473840",
   "02/26/2022,4686822184761509",
+  "01/23/2022,8125183517592008",
   "12/01/2021,4374696892640708",
   "10/23/2021,5885407531569629",
   "10/23/2021,4258616070915458",
@@ -212,6 +213,98 @@
   {
    "author": "向高世",
    "image_src": "Mycena_indigotica_f5d4e4c0-4a09-10eb-a1cd-478a0e3ce110_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_12.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_13.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_14.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_15.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_16.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_17.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_18.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_19.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_20.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_21.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_22.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_23.jpg"
   }
  ],
  "names_zhcn": [
@@ -239,6 +332,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
@@ -249,7 +343,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "好生長於潮濕的黃藤枯枝上。",
+  "Note": "好生長於潮濕的黃藤枯枝上，子實層大多為孔狀，但偶爾會出現較疏的褶狀個體。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -260,5 +354,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253146082/thumb.jpg"
   }
  ],
- "timestamp": "20240922-164049"
+ "timestamp": "20240927-223633"
 }
