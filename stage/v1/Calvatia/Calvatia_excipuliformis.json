@@ -2,6 +2,7 @@
  "genus": "Calvatia",
  "name": "excipuliformis",
  "date": [
+  "09/24/2024,8137608893016137",
   "08/30/2023,6348770521899992",
   "07/03/2021,3918007888309613",
   "07/31/2020,2977126515731093"
@@ -91,6 +92,22 @@
   {
    "author": "徐秀團",
    "image_src": "Calvatia_excipuliformis_f915aee0-478e-11ee-9576-5725ee9a9224_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Calvatia_excipuliformis_9d032ef0-7d72-11ef-8304-c377fe81eabe_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Calvatia_excipuliformis_9d032ef0-7d72-11ef-8304-c377fe81eabe_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Calvatia_excipuliformis_9d032ef0-7d72-11ef-8304-c377fe81eabe_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Calvatia_excipuliformis_9d032ef0-7d72-11ef-8304-c377fe81eabe_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -118,6 +135,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "70,250",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -127,9 +145,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Calvatia craniiformis,,",
+  "Note": "這種體型比一般馬勃大，不細看會以為是頭狀禿馬勃的幼菌，若細看會發現柄上、頭上都有毛、刺，頭上也不是龜裂紋，不難區分兩者。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "頭狀禿馬勃,,",
+  "la_zhcn": "头状秃马勃,,"
  },
  "inaturalist": [
   {
@@ -145,5 +165,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240927-223633"
+ "timestamp": "20240928-192342"
 }
