@@ -103,8 +103,10 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": ""
+  "LookAlikes": "Didymium squamulosum,,",
+  "Note": "這種黏菌相當小，外型類似鱗鈣皮黏菌 (Didymium squamulosum)，但柄又短又細，中柱也較小而不明顯。",
+  "la_zhtw": "鱗鈣皮黏菌,,",
+  "la_zhcn": "鳞钙皮黏菌,,"
  },
  "inaturalist": [
   {
@@ -114,5 +116,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12947066/thumb.jpeg"
   }
  ],
- "timestamp": "20240929-172853"
+ "timestamp": "20240929-173427"
 }

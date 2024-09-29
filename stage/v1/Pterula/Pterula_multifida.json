@@ -18,6 +18,14 @@
  "images": [
   {
    "author": "江志緯",
+   "image_src": "Pterula_multifida_1317c7b0-7e25-11ef-ba32-55415a5c40b5_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_multifida_1317c7b0-7e25-11ef-ba32-55415a5c40b5_4.jpg"
+  },
+  {
+   "author": "江志緯",
    "image_src": "Pterula_multifida_1_CC BY-NC_江志緯.jpg"
   },
   {
@@ -94,19 +102,11 @@
   },
   {
    "author": "江志緯",
-   "image_src": "Pterula_multifida_1317c7b0-7e25-11ef-ba32-55415a5c40b5_1.jpg"
-  },
-  {
-   "author": "江志緯",
    "image_src": "Pterula_multifida_1317c7b0-7e25-11ef-ba32-55415a5c40b5_2.jpg"
   },
   {
    "author": "江志緯",
    "image_src": "Pterula_multifida_1317c7b0-7e25-11ef-ba32-55415a5c40b5_3.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Pterula_multifida_1317c7b0-7e25-11ef-ba32-55415a5c40b5_4.jpg"
   },
   {
    "author": "江志緯",
@@ -190,5 +190,5 @@
    "src": "https://static.inaturalist.org/photos/102604357/thumb.jpg"
   }
  ],
- "timestamp": "20240929-172853"
+ "timestamp": "20240929-173427"
 }
