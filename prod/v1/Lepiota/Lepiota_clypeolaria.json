@@ -2,9 +2,9 @@
  "genus": "Lepiota",
  "name": "clypeolaria",
  "date": [
+  "09/27/2024,8169214026522290",
   "07/15/2024,7671909872919377",
-  "09/27/2023,6463342770442766",
-  "02/16/2022"
+  "09/27/2023,6463342770442766"
  ],
  "names_zhtw": [
   "細環柄菇"
@@ -107,6 +107,46 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Lepiota_clypeolaria_d2064d30-9a39-109e-b63b-3f0b64c93814_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_clypeolaria_539e4d00-7d25-11ef-b57c-6f3ef061cc1d_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_clypeolaria_539e4d00-7d25-11ef-b57c-6f3ef061cc1d_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_clypeolaria_539e4d00-7d25-11ef-b57c-6f3ef061cc1d_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_clypeolaria_539e4d00-7d25-11ef-b57c-6f3ef061cc1d_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_clypeolaria_539e4d00-7d25-11ef-b57c-6f3ef061cc1d_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_clypeolaria_539e4d00-7d25-11ef-b57c-6f3ef061cc1d_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_clypeolaria_539e4d00-7d25-11ef-b57c-6f3ef061cc1d_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_clypeolaria_539e4d00-7d25-11ef-b57c-6f3ef061cc1d_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_clypeolaria_539e4d00-7d25-11ef-b57c-6f3ef061cc1d_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_clypeolaria_539e4d00-7d25-11ef-b57c-6f3ef061cc1d_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -144,11 +184,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Lepiota atrosquamulosa,,",
+  "LookAlikes": "Lepiota atrosquamulosa,Lepiota magnispora,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": ",,",
-  "la_zhcn": ",,"
+  "la_zhtw": ",梭孢環柄菇,",
+  "la_zhcn": ",梭孢环柄菇,"
  },
  "inaturalist": [
   {
@@ -164,5 +204,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/235586506/thumb.jpeg"
   }
  ],
- "timestamp": "20240922-164049"
+ "timestamp": "20240929-204215"
 }

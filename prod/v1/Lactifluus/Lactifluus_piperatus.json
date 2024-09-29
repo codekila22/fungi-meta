@@ -2,6 +2,7 @@
  "genus": "Lactifluus",
  "name": "piperatus",
  "date": [
+  "09/07/2024,8147664472010579",
   "06/13/2020,2845762248867521",
   "07/30/2014,578365202273915"
  ],
@@ -46,6 +47,26 @@
   {
    "author": "James Ho",
    "image_src": "Lactifluus_piperatus_0ed54a90-5ece-106e-bf3b-adba3bf7b190_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactifluus_piperatus_36af5360-7d20-11ef-b57c-6f3ef061cc1d_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactifluus_piperatus_36af5360-7d20-11ef-b57c-6f3ef061cc1d_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactifluus_piperatus_36af5360-7d20-11ef-b57c-6f3ef061cc1d_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactifluus_piperatus_36af5360-7d20-11ef-b57c-6f3ef061cc1d_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactifluus_piperatus_36af5360-7d20-11ef-b57c-6f3ef061cc1d_5.jpg"
   }
  ],
  "synonym": [
@@ -102,5 +123,5 @@
    "src": "https://static.inaturalist.org/photos/32834443/thumb.jpg"
   }
  ],
- "timestamp": "20240922-164049"
+ "timestamp": "20240929-204215"
 }

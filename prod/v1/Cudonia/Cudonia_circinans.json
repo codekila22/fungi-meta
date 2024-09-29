@@ -2,7 +2,7 @@
  "genus": "Cudonia",
  "name": "circinans",
  "date": [
-  "01/01/0001"
+  "10/04/2020,3170289143081495"
  ],
  "names_zhtw": [
   "旋轉地錘菌"
@@ -33,6 +33,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Cudonia_circinans_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cudonia_circinans_373d9e80-78df-11ef-b569-ad35fb35168f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cudonia_circinans_373d9e80-78df-11ef-b569-ad35fb35168f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cudonia_circinans_373d9e80-78df-11ef-b569-ad35fb35168f_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -81,5 +93,5 @@
    "src": "https://static.inaturalist.org/photos/226337523/thumb.jpeg"
   }
  ],
- "timestamp": "20240922-164049"
+ "timestamp": "20240929-204215"
 }

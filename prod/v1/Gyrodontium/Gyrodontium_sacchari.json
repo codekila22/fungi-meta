@@ -2,6 +2,7 @@
  "genus": "Gyrodontium",
  "name": "sacchari",
  "date": [
+  "09/29/2024,8185716684872024",
   "06/11/2024,7488969304546769",
   "04/19/2024,7242904092486626",
   "09/11/2023,6390101257766918",
@@ -216,7 +217,7 @@
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,bamboo",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -236,5 +237,5 @@
    "src": "https://static.inaturalist.org/photos/171286160/thumb.jpeg"
   }
  ],
- "timestamp": "20240922-164049"
+ "timestamp": "20240929-204215"
 }

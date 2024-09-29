@@ -2,6 +2,7 @@
  "genus": "Cymatoderma",
  "name": "dendriticum",
  "date": [
+  "09/20/2024,8126863917423968",
   "10/15/2023,6524475464329496",
   "06/13/2023,6084917761618604",
   "11/26/2022,5447021335408253",
@@ -172,6 +173,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Cymatoderma_dendriticum_1256b520-6c06-11ee-ba5a-91c3b9f9a98e_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_dendriticum_559ec450-7bda-11ef-977d-f3fd821966c8_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_dendriticum_559ec450-7bda-11ef-977d-f3fd821966c8_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_dendriticum_559ec450-7bda-11ef-977d-f3fd821966c8_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_dendriticum_559ec450-7bda-11ef-977d-f3fd821966c8_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_dendriticum_559ec450-7bda-11ef-977d-f3fd821966c8_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -220,5 +241,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8974556/thumb.jpeg"
   }
  ],
- "timestamp": "20240922-164049"
+ "timestamp": "20240929-204215"
 }
