@@ -115,7 +115,7 @@
   "HymeniumType": "",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
-  "HymeniumGillArrangement": "",
+  "HymeniumGillArrangement": "subdistant",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
@@ -139,7 +139,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "低海拔林下常見。",
+  "Note": "低海拔林下常見。菌蓋橘黃，有槽狀溝紋，柄細線狀，上白黃，下紅棕，蕈褶近稀 (10-18)，與蕈柄以一個小接觸點連接 (gill adnexed)，近離生，褶緣有些略有鑲邊。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -150,5 +150,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63308987/thumb.jpg"
   }
  ],
- "timestamp": "20240928-192342"
+ "timestamp": "20240929-172853"
 }

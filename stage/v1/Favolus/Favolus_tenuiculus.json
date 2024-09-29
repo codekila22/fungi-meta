@@ -257,11 +257,11 @@
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Neofavolus suavissimus,,",
+  "LookAlikes": "Neofavolus suavissimus,Favolus yanomami,",
   "Note": "此為數種極為類似的物種的複合群(Favolus tenuiculus complex)，此類物種菌肉易被蚊蟲幼蟲寄生而變紅。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "紅柄新棱孔菌,,",
-  "la_zhcn": "红柄新棱孔菌,,"
+  "la_zhtw": "紅柄新棱孔菌,亞諾馬米菱孔菌,",
+  "la_zhcn": "红柄新棱孔菌,亚诺马米菱孔菌,"
  },
  "inaturalist": [
   {
@@ -271,5 +271,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/104262321/thumb.jpg"
   }
  ],
- "timestamp": "20240928-192342"
+ "timestamp": "20240929-172853"
 }

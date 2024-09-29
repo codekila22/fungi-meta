@@ -2,6 +2,7 @@
  "genus": "Chlorophyllum",
  "name": "molybdites",
  "date": [
+  "09/27/2024,8177825802327779",
   "09/26/2024,8165232730253753",
   "08/17/2024,7867168726726823",
   "06/06/2024,7467350126708687",
@@ -246,6 +247,22 @@
   {
    "author": "James Ho",
    "image_src": "Chlorophyllum_molybdites_2f5d6b70-db20-10f0-884d-7b2d90cf3f9f_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chlorophyllum_molybdites_fef22c20-7df8-11ef-861e-7b41a7e0e034_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chlorophyllum_molybdites_fef22c20-7df8-11ef-861e-7b41a7e0e034_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chlorophyllum_molybdites_fef22c20-7df8-11ef-861e-7b41a7e0e034_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chlorophyllum_molybdites_fef22c20-7df8-11ef-861e-7b41a7e0e034_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -286,7 +303,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Chlorophyllum hortense,,",
-  "Note": "菌褶年輕時候呈白色，但成熟後逐漸呈現出灰綠色，故名。\n\n綠褶菇有機會形成仙女環。",
+  "Note": "菌褶年輕時候呈白色，但成熟後逐漸呈現出灰綠色，故名。綠褶菇常有機會在草坪中形成仙女環。\n如要製做孢子印，要趁菌蓋還沒完全開展，較新鮮時就採集，然后菌褶面朝下靜置於白紙上數小時，此時樣態的個體孢子粉量會比較充足。而老熟個體孢子粉大多已散盡，所以較難成功。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "花園青褶傘,,",
   "la_zhcn": "花园青褶伞,,"
@@ -299,5 +316,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133009/thumb."
   }
  ],
- "timestamp": "20240928-192342"
+ "timestamp": "20240929-172853"
 }

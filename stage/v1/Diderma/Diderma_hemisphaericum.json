@@ -2,6 +2,7 @@
  "genus": "Diderma",
  "name": "hemisphaericum",
  "date": [
+  "09/28/2024,8183341091776250",
   "08/26/2024,7917502105026818",
   "05/26/2024,7413666008743766",
   "05/25/2024,7409811292462571",
@@ -123,6 +124,102 @@
   {
    "author": "陳中城",
    "image_src": "Diderma_hemisphaericum_ad542880-6608-11ef-83d8-bf991df02d0e_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_9.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_10.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_11.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_12.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_13.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_14.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_15.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_16.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_17.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_18.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_19.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_20.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_21.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_22.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_23.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_24.jpg"
   }
  ],
  "names_zhcn": [
@@ -150,17 +247,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "leaves",
+  "GrowthEnv": "wood,leaves,debris",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "此種黏菌能生長在各種基質上。"
  },
  "inaturalist": [
   {
@@ -170,5 +268,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/26140213/thumb.jpg"
   }
  ],
- "timestamp": "20240928-192342"
+ "timestamp": "20240929-172853"
 }
