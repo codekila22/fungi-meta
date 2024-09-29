@@ -2,6 +2,7 @@
  "genus": "Agaricus",
  "name": "duplocingulatus",
  "date": [
+  "09/29/2024,8187850307991995",
   "06/24/2024,7556630337780665",
   "04/28/2024,7280739522036416",
   "08/03/2021,4002275133216221"
@@ -123,6 +124,22 @@
   {
    "author": "徐秀團",
    "image_src": "Agaricus_duplocingulatus_5c2a17a0-32d5-11ef-a4e1-cfbf6bec5fdc_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_duplocingulatus_79f4c280-7e4d-11ef-9782-b9da8868c749_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_duplocingulatus_79f4c280-7e4d-11ef-9782-b9da8868c749_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_duplocingulatus_79f4c280-7e4d-11ef-9782-b9da8868c749_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_duplocingulatus_79f4c280-7e4d-11ef-9782-b9da8868c749_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -163,5 +180,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20240929-173427"
+ "timestamp": "20240929-183106"
 }

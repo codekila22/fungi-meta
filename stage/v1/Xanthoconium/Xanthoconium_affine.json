@@ -2,6 +2,7 @@
  "genus": "Xanthoconium",
  "name": "affine",
  "date": [
+  "09/29/2024,8187651684678524",
   "08/30/2024,7943720832404945",
   "08/07/2024,7802642999846063",
   "08/21/2020,3051413858302358"
@@ -76,6 +77,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Xanthoconium_affine_a0037ae0-66ae-11ef-b399-731216a2cb45_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Xanthoconium_affine_f58ef080-7e4a-11ef-9782-b9da8868c749_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Xanthoconium_affine_f58ef080-7e4a-11ef-9782-b9da8868c749_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Xanthoconium_affine_f58ef080-7e4a-11ef-9782-b9da8868c749_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Xanthoconium_affine_f58ef080-7e4a-11ef-9782-b9da8868c749_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Xanthoconium_affine_f58ef080-7e4a-11ef-9782-b9da8868c749_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Xanthoconium_affine_f58ef080-7e4a-11ef-9782-b9da8868c749_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -104,6 +129,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,20",
   "StalkLengthRangeValuess": "30,80",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -114,7 +140,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "有時傷後也可能會變成黃褐色。",
+  "Note": "傘面成熟後常變成凹凸不平的樣子，菌柄頂部與基部為白色，菌柄其他部分為褐色。有時傷後也可能會變成黃褐色。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -143,5 +169,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/80194436/thumb.jpg"
   }
  ],
- "timestamp": "20240929-173427"
+ "timestamp": "20240929-183106"
 }
