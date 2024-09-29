@@ -2,7 +2,7 @@
  "genus": "Physarum",
  "name": "decipiens",
  "date": [
-  "01/01/0001"
+  "09/28/2024,8188299217947104"
  ],
  "names_zhtw": [
   "鈣絲絨泡黏菌"
@@ -45,6 +45,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Physarum_decipiens_9_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Physarum_decipiens_1630f850-7e56-11ef-ba6a-37815c5bcc4a_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Physarum_decipiens_1630f850-7e56-11ef-ba6a-37815c5bcc4a_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Physarum_decipiens_1630f850-7e56-11ef-ba6a-37815c5bcc4a_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Physarum_decipiens_1630f850-7e56-11ef-ba6a-37815c5bcc4a_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Physarum_decipiens_1630f850-7e56-11ef-ba6a-37815c5bcc4a_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Physarum_decipiens_1630f850-7e56-11ef-ba6a-37815c5bcc4a_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -72,6 +96,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -82,7 +107,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "子實體表面為淡黃色。"
  },
  "inaturalist": [
   {
@@ -92,5 +117,5 @@
    "src": "https://static.inaturalist.org/photos/40848629/thumb.jpg"
   }
  ],
- "timestamp": "20240929-183106"
+ "timestamp": "20240929-204215"
 }
