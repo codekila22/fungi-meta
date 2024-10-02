@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "chlorophos",
  "date": [
+  "09/27/2024,8204569139653445",
   "07/24/2024,7722601657850198",
   "06/15/2024,7509251382518561",
   "06/09/2024,7496039247173108",
@@ -319,6 +320,22 @@
   {
    "author": "陳中城",
    "image_src": "Mycena_chlorophos_b9957900-2b7a-11ef-873e-8dd3b5130033_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_chlorophos_62692650-8097-11ef-85db-77790dc67f0d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_chlorophos_62692650-8097-11ef-85db-77790dc67f0d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_chlorophos_62692650-8097-11ef-85db-77790dc67f0d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_chlorophos_62692650-8097-11ef-85db-77790dc67f0d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -380,5 +397,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240929-204215"
+ "timestamp": "20241002-171858"
 }

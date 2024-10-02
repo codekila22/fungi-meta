@@ -2,6 +2,7 @@
  "genus": "Earliella",
  "name": "scabrosa",
  "date": [
+  "09/21/2024,8216453995131626",
   "06/10/2024,7596573097119722",
   "01/28/2024,6932476303529408",
   "08/22/2023,6322148401228871",
@@ -99,42 +100,6 @@
   {
    "author": "江志緯",
    "image_src": "Earliella_scabrosa_20_CC BY-NC_江志緯.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Earliella_scabrosa_3_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Earliella_scabrosa_2_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Earliella_scabrosa_1_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Earliella_scabrosa_4_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Earliella_scabrosa_5_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Earliella_scabrosa_6_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Earliella_scabrosa_7_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Earliella_scabrosa_8_CC BY-NC.jpg"
-  },
-  {
-   "author": "陳敬富",
-   "image_src": "Earliella_scabrosa_2_CC BY-NC_陳敬富.jpg"
   },
   {
    "author": "陳敬富",
@@ -315,6 +280,42 @@
   {
    "author": "江志緯",
    "image_src": "Earliella_scabrosa_03a8a920-e3cf-1063-b9f9-e98e6c3cc0f2_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Earliella_scabrosa_24ee1ce0-8092-11ef-85db-77790dc67f0d_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Earliella_scabrosa_24ee1ce0-8092-11ef-85db-77790dc67f0d_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Earliella_scabrosa_24ee1ce0-8092-11ef-85db-77790dc67f0d_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Earliella_scabrosa_24ee1ce0-8092-11ef-85db-77790dc67f0d_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Earliella_scabrosa_24ee1ce0-8092-11ef-85db-77790dc67f0d_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Earliella_scabrosa_24ee1ce0-8092-11ef-85db-77790dc67f0d_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Earliella_scabrosa_24ee1ce0-8092-11ef-85db-77790dc67f0d_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Earliella_scabrosa_24ee1ce0-8092-11ef-85db-77790dc67f0d_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Earliella_scabrosa_24ee1ce0-8092-11ef-85db-77790dc67f0d_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -363,5 +364,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27689893/thumb.jpg"
   }
  ],
- "timestamp": "20240929-204215"
+ "timestamp": "20241002-171858"
 }

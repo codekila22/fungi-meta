@@ -2,6 +2,7 @@
  "genus": "Gloeoporus",
  "name": "dichrous",
  "date": [
+  "09/29/2024,8216372121806480",
   "09/20/2024,8127011654075861",
   "06/03/2024,7458252517618448",
   "12/25/2023,6785700334873673",
@@ -266,6 +267,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Gloeoporus_dichrous_b84f5ab0-7bda-11ef-977d-f3fd821966c8_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloeoporus_dichrous_26c395a0-8091-11ef-85db-77790dc67f0d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloeoporus_dichrous_26c395a0-8091-11ef-85db-77790dc67f0d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloeoporus_dichrous_26c395a0-8091-11ef-85db-77790dc67f0d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloeoporus_dichrous_26c395a0-8091-11ef-85db-77790dc67f0d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -315,5 +332,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28037451/thumb.jpg"
   }
  ],
- "timestamp": "20240929-204215"
+ "timestamp": "20241002-171858"
 }
