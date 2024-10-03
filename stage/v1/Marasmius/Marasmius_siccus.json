@@ -78,5 +78,19 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20241003-154216"
+ "inaturalist": [
+  {
+   "name": "Marasmius siccus",
+   "cname": "Orange Pinwheel",
+   "url": "https://www.inaturalist.org/taxa/1366792-Marasmius-siccus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/189595078/thumb.jpeg"
+  },
+  {
+   "name": "Marasmius siccus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/136398-Marasmius-siccus",
+   "src": "https://static.inaturalist.org/photos/111955765/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241003-161427"
 }
