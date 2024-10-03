@@ -2,6 +2,7 @@
  "genus": "Neobulgaria",
  "name": "pura",
  "date": [
+  "09/30/2024,8223949137715445",
   "02/05/2024,6942230202554018",
   "11/11/2022,5413460202097700",
   "01/07/2022,4555470411230021",
@@ -98,6 +99,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Neobulgaria_pura_372180e0-c62b-11ee-b38e-5b05eed6a505_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_cc6b6140-8154-11ef-92d0-9b0b1561ec64_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_cc6b6140-8154-11ef-92d0-9b0b1561ec64_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_cc6b6140-8154-11ef-92d0-9b0b1561ec64_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_cc6b6140-8154-11ef-92d0-9b0b1561ec64_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -158,5 +175,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94273056/thumb.jpg"
   }
  ],
- "timestamp": "20241002-171858"
+ "timestamp": "20241003-151904"
 }

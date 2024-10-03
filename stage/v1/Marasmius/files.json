@@ -2,7 +2,7 @@
  "name": "Marasmius",
  "zhtw": "小皮傘屬",
  "zhcn": "小皮伞属",
- "timestamp": "20241002-171858",
+ "timestamp": "20241003-151904",
  "list": [
   {
    "name": "Marasmius aff.02 rotula",
@@ -51,6 +51,12 @@
    "zhtw": "橙紅褐小皮傘",
    "zhcn": "橙红褐小皮伞",
    "img": "Marasmius_aurantioferrugineus_3c57c6a0-aa38-11ee-9297-49e837cfa9ff_1.jpg"
+  },
+  {
+   "name": "Marasmius siccus",
+   "zhtw": "琥珀小皮傘",
+   "zhcn": "琥珀小皮伞",
+   "img": "Marasmius_siccus_fbd86190-8130-11ef-917b-dfe0c8884265_1.jpg"
   },
   {
    "name": "Marasmius crinis-equi",
