@@ -201,7 +201,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,90",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -220,7 +220,7 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "60,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -232,7 +232,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長在竹林環境，竹叢基部附近。",
+  "Note": "生長在竹林環境，竹叢基部附近。傘面中央有淺褐色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -243,5 +243,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241003-151904"
+ "timestamp": "20241003-154216"
 }
