@@ -2,40 +2,40 @@
  "genus": "Agaricus",
  "name": "bresadolanus",
  "date": [
-  "01/01/0001"
+  "09/29/2013,820896688020764"
  ],
  "names_zhtw": [
   "假根蘑菇"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/584",
+ "url": "820896688020764",
  "images": [
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Agaricus_bresadolanus_1_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Agaricus_bresadolanus_2_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Agaricus_bresadolanus_3_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Agaricus_bresadolanus_4_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Agaricus_bresadolanus_5_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Agaricus_bresadolanus_6_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Agaricus_bresadolanus_7_CC BY-NC.jpg"
   }
  ],
@@ -85,5 +85,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40321052/thumb.jpeg"
   }
  ],
- "timestamp": "20241003-161427"
+ "timestamp": "20241006-102457"
 }

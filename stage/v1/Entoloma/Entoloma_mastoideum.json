@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "mastoideum",
  "date": [
+  "06/15/2024,8214251622018530",
   "04/21/2024,7254283538015348",
   "04/17/2024,7232840203493015",
   "08/11/2023,6292638624179849",
@@ -105,6 +106,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Entoloma_mastoideum_893d5c60-0441-11ef-a61d-63139e6b9e2a_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Entoloma_mastoideum_def13c40-8190-11ef-b1ac-e3aedf4a8340_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Entoloma_mastoideum_def13c40-8190-11ef-b1ac-e3aedf4a8340_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Entoloma_mastoideum_def13c40-8190-11ef-b1ac-e3aedf4a8340_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Entoloma_mastoideum_def13c40-8190-11ef-b1ac-e3aedf4a8340_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -153,5 +170,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254532637/thumb.jpg"
   }
  ],
- "timestamp": "20241003-161427"
+ "timestamp": "20241006-102457"
 }

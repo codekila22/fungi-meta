@@ -3,6 +3,7 @@
  "name": "vinosus",
  "date": [
   "08/27/2024,7931343026976059",
+  "07/06/2024,8236108783166147",
   "09/30/2022,5295562743887447"
  ],
  "names_zhtw": [
@@ -134,6 +135,46 @@
   {
    "author": "陳中城",
    "image_src": "Nigroporus_vinosus_92101970-6537-11ef-9821-298f893192cb_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nigroporus_vinosus_ae4cb5a0-821d-11ef-a50c-8580692ab8c5_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nigroporus_vinosus_ae4cb5a0-821d-11ef-a50c-8580692ab8c5_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nigroporus_vinosus_ae4cb5a0-821d-11ef-a50c-8580692ab8c5_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nigroporus_vinosus_ae4cb5a0-821d-11ef-a50c-8580692ab8c5_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nigroporus_vinosus_ae4cb5a0-821d-11ef-a50c-8580692ab8c5_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nigroporus_vinosus_ae4cb5a0-821d-11ef-a50c-8580692ab8c5_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nigroporus_vinosus_ae4cb5a0-821d-11ef-a50c-8580692ab8c5_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nigroporus_vinosus_ae4cb5a0-821d-11ef-a50c-8580692ab8c5_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nigroporus_vinosus_ae4cb5a0-821d-11ef-a50c-8580692ab8c5_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nigroporus_vinosus_ae4cb5a0-821d-11ef-a50c-8580692ab8c5_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -161,6 +202,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -171,7 +213,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌蓋有環紋，菌孔為紫褐色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -182,5 +224,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4305620/thumb.jpg"
   }
  ],
- "timestamp": "20241003-161427"
+ "timestamp": "20241006-102457"
 }
