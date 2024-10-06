@@ -2,6 +2,7 @@
  "genus": "Micropsalliota",
  "name": "wuyishanensis",
  "date": [
+  "10/06/2024,8255875157856176",
   "08/06/2023,6297993143644397"
  ],
  "names_zhtw": [
@@ -25,6 +26,22 @@
   {
    "author": "James Ho",
    "image_src": "Micropsalliota_lateritia var. vinaceipes_082cddb0-3b4e-11ee-8368-d31f8f757e73_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Micropsalliota_wuyishanensis_32fac400-83bc-11ef-b334-99af5dbe0981_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Micropsalliota_wuyishanensis_32fac400-83bc-11ef-b334-99af5dbe0981_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Micropsalliota_wuyishanensis_32fac400-83bc-11ef-b334-99af5dbe0981_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Micropsalliota_wuyishanensis_32fac400-83bc-11ef-b334-99af5dbe0981_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -76,5 +93,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/267568809/thumb.jpeg"
   }
  ],
- "timestamp": "20241006-161251"
+ "timestamp": "20241006-162817"
 }
