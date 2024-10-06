@@ -1,5 +1,5 @@
 {
- "timestamp": "20241006-203735",
+ "timestamp": "20241006-211122",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -71,7 +71,7 @@
   ]
  },
  "groups": {
-  "Polypores": [
+  "polypores": [
    "Abortiporus,殘孔菌屬,残孔菌属",
    "Albatrellus,地花菌屬,地花菌属",
    "Neoalbatrellus,新地花菌,新地花菌",
@@ -175,7 +175,7 @@
    "Oligoporus,寡孔菌屬,寡孔菌属",
    "Truncospora,畸孢孔菌屬,畸孢孔菌属"
   ],
-  "Crust/Patch": [
+  "crust/patch": [
    "Acanthonitschkea,刺座菌屬,刺座菌属",
    "Aleurodiscus,盤革菌屬,盘革菌属",
    "Byssomerulius,細絲皺皮菌屬,细丝皱皮菌属",
@@ -257,7 +257,7 @@
    "Plicaturopsis,擬褶尾菌屬,拟褶尾菌属",
    "Apiospora,端隔孢殼菌屬,端隔孢壳菌属"
   ],
-  "Parasitic": [
+  "parasitic": [
    "Aecidium,銹孢銹菌屬,锈孢锈菌属",
    "Hemileia,駝孢銹菌屬,驼孢锈菌属",
    "Nyssopsora,花孢銹菌屬,花孢锈菌属",
@@ -327,7 +327,7 @@
    "Cerotelium,蠟銹菌屬,蜡锈菌属",
    "Helminthosphaeria,蠕孢球腔菌屬,蠕孢球腔菌属"
   ],
-  "Agarics": [
+  "agarics": [
    "Agaricus,蘑菇屬,蘑菇属",
    "Agrocybe,田頭菇屬,田头菇属",
    "Cyclocybe,環傘屬,环伞属",
@@ -506,7 +506,7 @@
    "Plicaturopsis,擬褶尾菌屬,拟褶尾菌属",
    "Zhuliangomyces,祝良傘屬,祝良伞属"
   ],
-  "Cups": [
+  "cups": [
    "Aleuria,網孢盤菌屬,网孢盘菌属",
    "Rhodoscypha,瑰麗盤菌屬,瑰丽盘菌属",
    "Aleurina,飾孢盤菌屬,饰孢盘菌属",
@@ -591,7 +591,7 @@
    "Caloscypha,麗杯菌屬,丽杯菌属",
    "Cistella,小毛盤菌屬,小毛盘菌属"
   ],
-  "Clubs/Coral": [
+  "clubs/coral": [
    "Antromycopsis,黑腔菌屬,黑腔菌属",
    "Artomyces,密瑚菌屬,密瑚菌属",
    "Coryne,棒孢菌屬,棒孢菌属",
@@ -654,7 +654,7 @@
    "Lachnocladium,茸瑚菌屬,茸瑚菌属",
    "Lindquistia,林奎氏菌屬,林奎氏菌属"
   ],
-  "Slime Molds": [
+  "slime molds": [
    "Arcyria,團網黏菌屬,团网黏菌属",
    "Badhamia,鈣絲黏菌屬,钙丝黏菌属",
    "Ceratiomyxa,鵝絨黏菌屬,鹅绒黏菌属",
@@ -690,7 +690,7 @@
    "Alwisia,炮彈黏菌屬,炮弹黏菌属",
    "Nannengaella,南氏黏菌屬,南氏黏菌属"
   ],
-  "Gasteroid": [
+  "gasteroid": [
    "Aseroe,頭鬼筆屬,头鬼笔属",
    "Astraeus,硬皮地星屬,硬皮地星属",
    "Bovista,灰球菌屬,灰球菌属",
@@ -720,7 +720,7 @@
    "Bryoperdon,蘚球菌屬,藓球菌属",
    "Langermannia,馬線菇屬,马线菇属"
   ],
-  "Molds": [
+  "molds": [
    "Athelia,阿太菌屬,阿太菌属",
    "Agroathelia,阿太菌屬,阿太菌属",
    "Monographella,雪黴專病菌屬,雪霉专病菌属",
@@ -753,7 +753,7 @@
    "Rhizopus,根黴屬,根霉属",
    "Synnematomyces,絲束菌屬,丝束菌属"
   ],
-  "Jelly": [
+  "jelly": [
    "Auricularia,木耳屬,木耳属",
    "Ovipoculum,卵碟菌屬,卵碟菌属",
    "Heterochaete,刺皮菌屬,刺皮菌属",
@@ -783,7 +783,7 @@
    "Myxarium,黏木耳屬,黏木耳属",
    "Ductifera,德克耳屬,德克耳属"
   ],
-  "Toothed": [
+  "toothed": [
    "Auriscalpium,耳匙菌屬,耳匙菌属",
    "Climacodon,小肉齒菌屬,小肉齿菌属",
    "Echinoporia,刺孔菌屬,刺孔菌属",
@@ -805,7 +805,7 @@
    "Hydnellum,小齒菌屬,小齿菌属",
    "Radulomyces,鈍齒殼菌屬,钝齿壳菌属"
   ],
-  "Boletes": [
+  "boletes": [
    "Austroboletus,南牛肝菌屬,南牛肝菌属",
    "Borofutus,大孔牛肝菌屬,大孔牛肝菌属",
    "Boletellus,條孢牛肝菌屬,条孢牛肝菌属",
@@ -843,7 +843,7 @@
    "Hortiboletus,園圃牛肝菌屬,园圃牛肝菌属",
    "Leccinellum,小疣柄牛肝菌屬,小疣柄牛肝菌属"
   ],
-  "Lichens": [
+  "lichens": [
    "Baeomyces,羊角衣屬,羊角衣属",
    "Lasallia,疱臍衣屬,疱脐衣属",
    "Ramboldia,果衣屬,果衣属",
@@ -932,7 +932,7 @@
    "Pyrrhospora,梨孢衣屬,梨孢衣属",
    "Dibaeis,假羊角衣屬,假羊角衣属"
   ],
-  "Chanterelles": [
+  "chanterelles": [
    "Cantharellus,雞油菌屬,鸡油菌属",
    "Gloeocantharellus,黏雞油菌屬,黏鸡油菌属",
    "Craterellus,喇叭菌屬,喇叭菌属",
