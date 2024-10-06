@@ -2,6 +2,7 @@
  "genus": "Collybia",
  "name": "sordida",
  "date": [
+  "10/04/2024,8235730976537261",
   "06/07/2024,7515557815221251",
   "05/20/2024,7388341807942853",
   "04/12/2024,7215745098535859",
@@ -299,6 +300,30 @@
   {
    "author": "James Ho",
    "image_src": "Collybia_sordida_ef78d510-2c3f-11ef-b108-b9235f80256d_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybia_sordida_1ee28630-83a1-11ef-afc1-ed71844e4d91_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybia_sordida_1ee28630-83a1-11ef-afc1-ed71844e4d91_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybia_sordida_1ee28630-83a1-11ef-afc1-ed71844e4d91_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybia_sordida_1ee28630-83a1-11ef-afc1-ed71844e4d91_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybia_sordida_1ee28630-83a1-11ef-afc1-ed71844e4d91_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybia_sordida_1ee28630-83a1-11ef-afc1-ed71844e4d91_6.jpg"
   }
  ],
  "synonym": [
@@ -357,5 +382,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174570686/thumb.jpg"
   }
  ],
- "timestamp": "20240929-204215"
+ "timestamp": "20241006-211122"
 }

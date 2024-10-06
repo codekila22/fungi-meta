@@ -2,6 +2,7 @@
  "genus": "Agaricus",
  "name": "sp.1",
  "date": [
+  "10/05/2024,8246861372090888",
   "05/07/2024,7331947106915657"
  ],
  "names_zhtw": [
@@ -53,6 +54,22 @@
   {
    "author": "陳雅芬",
    "image_src": "Agaricus_sp.1_e343dfb0-1583-11ef-9e23-1b438d350a76_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Agaricus_sp.1_85a75540-82f1-11ef-89ba-9585109555f2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Agaricus_sp.1_85a75540-82f1-11ef-89ba-9585109555f2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Agaricus_sp.1_85a75540-82f1-11ef-89ba-9585109555f2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Agaricus_sp.1_85a75540-82f1-11ef-89ba-9585109555f2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -94,5 +111,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20240929-204215"
+ "timestamp": "20241006-211122"
 }

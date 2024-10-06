@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "sullivantii",
  "date": [
+  "10/01/2024,8216837421759950",
   "08/22/2024,7910239245753104",
   "08/15/2023,6299104950199883",
   "07/02/2023,6168703306573382",
@@ -119,6 +120,22 @@
   {
    "author": "陳雅芬",
    "image_src": "Marasmius_sullivantii_aa332630-6296-11ef-bf9c-315d925272f0_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_sullivantii_227d0d10-8167-11ef-9862-6fe25b271d7f_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_sullivantii_227d0d10-8167-11ef-9862-6fe25b271d7f_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_sullivantii_227d0d10-8167-11ef-9862-6fe25b271d7f_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_sullivantii_227d0d10-8167-11ef-9862-6fe25b271d7f_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -157,7 +174,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Marasmius australotrichotus,Marasmius elegans,",
-  "Note": "",
+  "Note": "成熟的菌傘上有明顯褶痕，且傘緣有波浪狀。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "南方毛小皮傘,優雅小皮傘,",
   "la_zhcn": "南方毛小皮伞,优雅小皮伞,"
@@ -170,5 +187,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8964680/thumb.jpeg"
   }
  ],
- "timestamp": "20240929-204215"
+ "timestamp": "20241006-211122"
 }

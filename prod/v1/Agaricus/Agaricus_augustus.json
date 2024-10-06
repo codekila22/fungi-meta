@@ -2,13 +2,13 @@
  "genus": "Agaricus",
  "name": "augustus",
  "date": [
-  "01/01/0001"
+  "12/20/2017,1401064603337300"
  ],
  "names_zhtw": [
   "大紫蘑菇"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/5859",
+ "url": "1401064603337300",
  "images": [
   {
    "author": "Rachel Ding",
@@ -99,5 +99,5 @@
    "src": ""
   }
  ],
- "timestamp": "20240929-204215"
+ "timestamp": "20241006-211122"
 }

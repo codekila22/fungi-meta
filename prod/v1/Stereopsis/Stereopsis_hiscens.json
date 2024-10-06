@@ -2,6 +2,7 @@
  "genus": "Stereopsis",
  "name": "hiscens",
  "date": [
+  "09/30/2024,8224059984371027",
   "08/02/2020,3082085155235228"
  ],
  "names_zhtw": [
@@ -21,6 +22,22 @@
   {
    "author": "陳雅芬",
    "image_src": "Stereopsis_hiscens_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_hiscens_515574e0-814b-11ef-92d0-9b0b1561ec64_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_hiscens_515574e0-814b-11ef-92d0-9b0b1561ec64_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_hiscens_515574e0-814b-11ef-92d0-9b0b1561ec64_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_hiscens_515574e0-814b-11ef-92d0-9b0b1561ec64_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -70,5 +87,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/49559773/thumb.jpg"
   }
  ],
- "timestamp": "20240929-204215"
+ "timestamp": "20241006-211122"
 }

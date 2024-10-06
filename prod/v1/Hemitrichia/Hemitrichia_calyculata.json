@@ -2,6 +2,7 @@
  "genus": "Hemitrichia",
  "name": "calyculata",
  "date": [
+  "09/15/2024,8214475065329519",
   "08/18/2024,7867933839983645",
   "07/01/2024,7654959794614385",
   "05/10/2024,7347608355349532",
@@ -317,6 +318,26 @@
   {
    "author": "江志緯",
    "image_src": "Hemitrichia_calyculata_a1f36080-6555-10f1-aaea-3dcd9f8cede6_11.jpg"
+  },
+  {
+   "author": "Bill Hwang",
+   "image_src": "Hemitrichia_calyculata_1aa8f970-80a7-11ef-922e-8776c3817815_1.jpg"
+  },
+  {
+   "author": "Bill Hwang",
+   "image_src": "Hemitrichia_calyculata_91d1a2a0-814b-11ef-92d0-9b0b1561ec64_1.jpg"
+  },
+  {
+   "author": "Bill Hwang",
+   "image_src": "Hemitrichia_calyculata_91d1a2a0-814b-11ef-92d0-9b0b1561ec64_2.jpg"
+  },
+  {
+   "author": "Bill Hwang",
+   "image_src": "Hemitrichia_calyculata_91d1a2a0-814b-11ef-92d0-9b0b1561ec64_3.jpg"
+  },
+  {
+   "author": "Bill Hwang",
+   "image_src": "Hemitrichia_calyculata_91d1a2a0-814b-11ef-92d0-9b0b1561ec64_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -367,5 +388,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/48787749/thumb.jpg"
   }
  ],
- "timestamp": "20240929-204215"
+ "timestamp": "20241006-211122"
 }

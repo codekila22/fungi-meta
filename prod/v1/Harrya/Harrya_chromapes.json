@@ -2,6 +2,7 @@
  "genus": "Harrya",
  "name": "chromapes",
  "date": [
+  "10/06/2024,8255529551224070",
   "08/25/2024,7911097985667230"
  ],
  "names_zhtw": [
@@ -37,6 +38,18 @@
   {
    "author": "徐秀團",
    "image_src": "Harrya_chromapes_3109cb20-654c-11ef-9fc5-8b825582a282_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Harrya_chromapes_d0b52cd0-83ad-11ef-afc1-ed71844e4d91_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Harrya_chromapes_d0b52cd0-83ad-11ef-afc1-ed71844e4d91_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Harrya_chromapes_d0b52cd0-83ad-11ef-afc1-ed71844e4d91_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -87,5 +100,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159605/thumb."
   }
  ],
- "timestamp": "20240929-204215"
+ "timestamp": "20241006-211122"
 }

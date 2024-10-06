@@ -2,6 +2,7 @@
  "genus": "Cladonia",
  "name": "praetermissa",
  "date": [
+  "09/27/2024,8199071380203221",
   "01/20/2024,6879761675467538"
  ],
  "names_zhtw": [
@@ -33,6 +34,34 @@
   {
    "author": "陳雅芬",
    "image_src": "Cladonia_praetermissa_53a47a30-b7f6-11ee-a5f6-a57d939d2d06_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cladonia_praetermissa_6dc5d0d0-838e-11ef-ab76-b36c61a1995a_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cladonia_praetermissa_6dc5d0d0-838e-11ef-ab76-b36c61a1995a_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cladonia_praetermissa_6dc5d0d0-838e-11ef-ab76-b36c61a1995a_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cladonia_praetermissa_6dc5d0d0-838e-11ef-ab76-b36c61a1995a_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cladonia_praetermissa_6dc5d0d0-838e-11ef-ab76-b36c61a1995a_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cladonia_praetermissa_6dc5d0d0-838e-11ef-ab76-b36c61a1995a_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cladonia_praetermissa_6dc5d0d0-838e-11ef-ab76-b36c61a1995a_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -60,7 +89,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "70,180",
+  "HeightRangeValuess": "7,18",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -81,5 +110,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/218083924/thumb.jpeg"
   }
  ],
- "timestamp": "20240929-204215"
+ "timestamp": "20241006-211122"
 }
