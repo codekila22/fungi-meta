@@ -119,8 +119,10 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": ""
+  "LookAlikes": "Physarum bivalve,,",
+  "Note": "",
+  "la_zhtw": "雙瓣絨泡黏菌,,",
+  "la_zhcn": "双瓣绒泡黏菌,,"
  },
  "inaturalist": [
   {
@@ -130,5 +132,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/158086872/thumb.jpg"
   }
  ],
- "timestamp": "20241006-162817"
+ "timestamp": "20241006-164349"
 }
