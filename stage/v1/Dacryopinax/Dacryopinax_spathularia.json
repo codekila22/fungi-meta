@@ -2,6 +2,7 @@
  "genus": "Dacryopinax",
  "name": "spathularia",
  "date": [
+  "10/05/2024,8246556412121384",
   "08/17/2024,7884797184963977",
   "06/02/2024,7486281068148926",
   "05/01/2024,7294306580679710",
@@ -221,6 +222,22 @@
   {
    "author": "江志緯",
    "image_src": "Dacryopinax_spathularia_8872a9e0-613b-10fb-a952-033d43e2f9c1_10.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Dacryopinax_spathularia_14a21850-83a3-11ef-afc1-ed71844e4d91_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Dacryopinax_spathularia_14a21850-83a3-11ef-afc1-ed71844e4d91_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Dacryopinax_spathularia_14a21850-83a3-11ef-afc1-ed71844e4d91_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Dacryopinax_spathularia_14a21850-83a3-11ef-afc1-ed71844e4d91_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -270,5 +287,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11379334/thumb.jpg"
   }
  ],
- "timestamp": "20241006-102457"
+ "timestamp": "20241006-161251"
 }

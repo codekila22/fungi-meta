@@ -2,6 +2,7 @@
  "genus": "Leucoagaricus",
  "name": "lacrymans",
  "date": [
+  "10/02/2024,8208031282640564",
   "08/08/2024,7807866222657074",
   "06/02/2024,7445474378896262",
   "04/18/2024,7238626412914394",
@@ -296,6 +297,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Leucoagaricus_lacrymans_e5721360-a1b7-10d5-ba70-13ef1a043951_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Leucoagaricus_lacrymans_32b6c2b0-83a7-11ef-afc1-ed71844e4d91_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Leucoagaricus_lacrymans_32b6c2b0-83a7-11ef-afc1-ed71844e4d91_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Leucoagaricus_lacrymans_32b6c2b0-83a7-11ef-afc1-ed71844e4d91_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Leucoagaricus_lacrymans_32b6c2b0-83a7-11ef-afc1-ed71844e4d91_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Leucoagaricus_lacrymans_32b6c2b0-83a7-11ef-afc1-ed71844e4d91_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -345,5 +366,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245992823/thumb.jpg"
   }
  ],
- "timestamp": "20241006-102457"
+ "timestamp": "20241006-161251"
 }
