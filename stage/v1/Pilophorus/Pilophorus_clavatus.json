@@ -38,5 +38,54 @@
  "names_zhcn": [
   "棒柱衣"
  ],
- "timestamp": "20241012-181135"
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Pilophorus clavatus",
+   "cname": "Tapered Matchstick Lichen",
+   "url": "https://www.inaturalist.org/taxa/179856-Pilophorus-clavatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/208607237/thumb.jpg"
+  },
+  {
+   "name": "Pilophorus clavatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/781419-Pilophorus-clavatus",
+   "src": "https://static.inaturalist.org/photos/110652406/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241012-182506"
 }
