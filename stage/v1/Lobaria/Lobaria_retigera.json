@@ -2,6 +2,7 @@
  "genus": "Lobaria",
  "name": "retigera",
  "date": [
+  "10/07/2024,8307707909339567",
   "04/08/2023,5862884743821908",
   "08/27/2021,4073716389405428"
  ],
@@ -58,6 +59,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Lobaria_retigera_b6b7cbc0-e1a7-11ed-8d9e-b5c68c67da17_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lobaria_retigera_fc82a5f0-8870-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lobaria_retigera_fc82a5f0-8870-11ef-be38-335f10af7160_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lobaria_retigera_fc82a5f0-8870-11ef-be38-335f10af7160_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lobaria_retigera_fc82a5f0-8870-11ef-be38-335f10af7160_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -105,5 +122,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2551315/thumb.jpg"
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241012-181135"
 }

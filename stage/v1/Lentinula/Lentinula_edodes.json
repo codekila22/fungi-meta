@@ -321,8 +321,9 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
-  "Seasons": "winter,autumn",
+  "Seasons": "winter,summer",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "no",
@@ -331,7 +332,7 @@
   "Smell": "mushroomy",
   "Taste": "mild",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "根據觀察，北部中海拔的野生香菇，在每年6-7、12-2月，這冬夏各一次較常出現，其他月分則零星出現。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -342,5 +343,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/116230354/thumb.jpg"
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241012-181135"
 }

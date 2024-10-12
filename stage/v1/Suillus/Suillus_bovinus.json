@@ -2,6 +2,7 @@
  "genus": "Suillus",
  "name": "bovinus",
  "date": [
+  "10/06/2024,8307656586011366",
   "10/22/2023,6568349456608763",
   "06/28/2023,6139078042869242",
   "06/17/2023,6099709283472785",
@@ -186,6 +187,22 @@
   {
    "author": "江志緯",
    "image_src": "Suillus_bovinus_932e4e80-0124-11ee-9926-a366b8318321_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Suillus_bovinus_601ce060-886e-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Suillus_bovinus_601ce060-886e-11ef-be38-335f10af7160_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Suillus_bovinus_601ce060-886e-11ef-be38-335f10af7160_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Suillus_bovinus_601ce060-886e-11ef-be38-335f10af7160_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -235,5 +252,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1825888/thumb.jpg"
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241012-181135"
 }

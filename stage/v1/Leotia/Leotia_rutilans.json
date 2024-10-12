@@ -2,6 +2,7 @@
  "genus": "Leotia",
  "name": "rutilans",
  "date": [
+  "10/10/2024,8301764166600608",
   "06/16/2024,7543576382419394",
   "11/30/2022,5458516140925439"
  ],
@@ -114,6 +115,30 @@
   {
    "author": "Sunny Wang",
    "image_src": "Leotia_rutilans_93cffb20-30f0-11ef-8edf-5f46d55a7b5b_17.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leotia_rutilans_a7c3b4f0-87c6-11ef-9988-c30302327a25_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leotia_rutilans_a7c3b4f0-87c6-11ef-9988-c30302327a25_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leotia_rutilans_a7c3b4f0-87c6-11ef-9988-c30302327a25_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leotia_rutilans_a7c3b4f0-87c6-11ef-9988-c30302327a25_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leotia_rutilans_a7c3b4f0-87c6-11ef-9988-c30302327a25_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leotia_rutilans_a7c3b4f0-87c6-11ef-9988-c30302327a25_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -163,5 +188,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/346605262/thumb.jpg"
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241012-181135"
 }

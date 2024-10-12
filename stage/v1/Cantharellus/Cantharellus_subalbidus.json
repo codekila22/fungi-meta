@@ -2,6 +2,7 @@
  "genus": "Cantharellus",
  "name": "subalbidus",
  "date": [
+  "10/01/2024,8257575917686100",
   "08/26/2024,7922803251163370",
   "08/26/2024,7921967791246916",
   "08/25/2024,8000715826705445",
@@ -129,6 +130,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Cantharellus_subalbidus_052a8690-6da1-11ef-9b6a-9df91a34098c_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_subalbidus_6a9e1fc0-84a6-11ef-9254-2515bceb1f53_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_subalbidus_6a9e1fc0-84a6-11ef-9254-2515bceb1f53_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_subalbidus_6a9e1fc0-84a6-11ef-9254-2515bceb1f53_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_subalbidus_6a9e1fc0-84a6-11ef-9254-2515bceb1f53_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_subalbidus_6a9e1fc0-84a6-11ef-9254-2515bceb1f53_5.jpg"
   }
  ],
  "synonym": [
@@ -184,5 +205,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/52134229/thumb.jpeg"
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241012-181135"
 }

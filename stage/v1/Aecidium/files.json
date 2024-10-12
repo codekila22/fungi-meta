@@ -2,7 +2,7 @@
  "name": "Aecidium",
  "zhtw": "銹孢銹菌屬",
  "zhcn": "锈孢锈菌属",
- "timestamp": "20241006-211122",
+ "timestamp": "20241012-181135",
  "list": [
   {
    "name": "Aecidium strobilanthis",
@@ -33,6 +33,12 @@
    "zhtw": "扁銹孢銹菌",
    "zhcn": "扁锈孢锈菌",
    "img": "Aecidium_fatsiae_e3325b30-ccf7-11ed-ae25-eb3fc39a1744_1.jpg"
+  },
+  {
+   "name": "Aecidium paederiae",
+   "zhtw": "牛皮凍銹孢銹菌",
+   "zhcn": "牛皮冻锈孢锈菌",
+   "img": "Aecidium_paederiae_00acd660-886b-11ef-be38-335f10af7160_1.jpg"
   }
  ]
 }
