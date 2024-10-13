@@ -98,7 +98,7 @@
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
-  "StalkTexture": "",
+  "StalkTexture": "raised-scales",
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
@@ -110,13 +110,13 @@
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "red",
   "Bioluminescent": "",
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita perpasta,,",
-  "Note": "",
+  "Note": "子實體傘面有角錐狀物，傘面與菌柄顏色為乳白色至淡紅色，菌褶傷後會變紅棕色。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "飽腹球基鵝膏,,",
   "la_zhcn": "饱腹球基鹅膏,,"
@@ -129,5 +129,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241013-180133"
+ "timestamp": "20241013-181301"
 }
