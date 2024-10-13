@@ -3,6 +3,7 @@
  "name": "mirabilis",
  "date": [
   "02/10/2024,6962899487153756",
+  "04/03/2022,8308513469259011",
   "01/24/2022,4577883845655344"
  ],
  "names_zhtw": [
@@ -66,6 +67,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Aleurodiscus_mirabilis_523afaa0-c806-11ee-a723-ab6c0c0bf40f_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aleurodiscus_mirabilis_9b02a480-8869-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aleurodiscus_mirabilis_9b02a480-8869-11ef-be38-335f10af7160_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aleurodiscus_mirabilis_9b02a480-8869-11ef-be38-335f10af7160_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aleurodiscus_mirabilis_9b02a480-8869-11ef-be38-335f10af7160_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aleurodiscus_mirabilis_9b02a480-8869-11ef-be38-335f10af7160_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -117,5 +138,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8965155/thumb.jpeg"
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241013-181301"
 }

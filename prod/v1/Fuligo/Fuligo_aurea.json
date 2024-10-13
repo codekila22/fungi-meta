@@ -2,7 +2,15 @@
  "genus": "Fuligo",
  "name": "aurea",
  "date": [
-  "05/10/2022"
+  "10/13/2024,8314408685336156",
+  "07/15/2024,7667135690063462",
+  "09/14/2023,6402810706495973",
+  "04/28/2023,6211409888969390",
+  "08/06/2022,5176043605839362",
+  "07/27/2022,5103965703047153",
+  "05/06/2022,4880367408740318",
+  "07/10/2021,3932948276815574",
+  "08/19/2019,3379551192155288"
  ],
  "names_zhtw": [
   "金黃煤絨黏菌"
@@ -65,6 +73,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Fuligo_aurea_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fuligo_aurea_07d2acd0-8924-11ef-8f32-c3a08cecb73c_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fuligo_aurea_07d2acd0-8924-11ef-8f32-c3a08cecb73c_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fuligo_aurea_07d2acd0-8924-11ef-8f32-c3a08cecb73c_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fuligo_aurea_07d2acd0-8924-11ef-8f32-c3a08cecb73c_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fuligo_aurea_07d2acd0-8924-11ef-8f32-c3a08cecb73c_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fuligo_aurea_07d2acd0-8924-11ef-8f32-c3a08cecb73c_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fuligo_aurea_07d2acd0-8924-11ef-8f32-c3a08cecb73c_7.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fuligo_aurea_07d2acd0-8924-11ef-8f32-c3a08cecb73c_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -112,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/62991822/thumb.jpeg"
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241013-181301"
 }

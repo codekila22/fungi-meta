@@ -2,6 +2,7 @@
  "genus": "Stropharia",
  "name": "aeruginosa",
  "date": [
+  "10/07/2024,8273804612729897",
   "05/29/2024,7445068238936876",
   "05/28/2024,8038068246303536",
   "10/24/2023,6560266484083727",
@@ -107,6 +108,30 @@
   {
    "author": "向高世",
    "image_src": "Stropharia_aeruginosa_5d8cf9d0-728d-11ef-b553-458fb87eaacd_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stropharia_aeruginosa_4be70cd0-8871-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stropharia_aeruginosa_4be70cd0-8871-11ef-be38-335f10af7160_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stropharia_aeruginosa_4be70cd0-8871-11ef-be38-335f10af7160_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stropharia_aeruginosa_4be70cd0-8871-11ef-be38-335f10af7160_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stropharia_aeruginosa_4be70cd0-8871-11ef-be38-335f10af7160_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stropharia_aeruginosa_4be70cd0-8871-11ef-be38-335f10af7160_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -156,5 +181,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/171671477/thumb.jpg"
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241013-181301"
 }

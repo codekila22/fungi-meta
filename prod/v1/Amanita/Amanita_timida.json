@@ -2,13 +2,14 @@
  "genus": "Amanita",
  "name": "timida",
  "date": [
-  "07/13/2021,3941796185930783"
+  "07/13/2021,3941796185930783",
+  "09/21/2017,1323323627778065"
  ],
  "names_zhtw": [
   "泛紅鵝膏"
  ],
  "names_en": [],
- "url": "3941796185930783",
+ "url": "1323323627778065",
  "images": [
   {
    "author": "蘇慶成",
@@ -21,6 +22,62 @@
   {
    "author": "蘇慶成",
    "image_src": "Amanita_timida_3_CC BY-NC_蘇慶成.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_9.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_10.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_11.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_12.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_13.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_timida_c80d1a80-8947-11ef-8392-cb45ac3f56fe_14.jpg"
   }
  ],
  "names_zhcn": [
@@ -41,25 +98,28 @@
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
-  "StalkTexture": "",
+  "StalkTexture": "raised-scales",
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "red",
   "Bioluminescent": "",
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Amanita perpasta,,",
+  "Note": "子實體傘面有角錐狀物，傘面與菌柄顏色為乳白色至淡紅色，菌褶傷後會變紅棕色。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "飽腹球基鵝膏,,",
+  "la_zhcn": "饱腹球基鹅膏,,"
  },
  "inaturalist": [
   {
@@ -69,5 +129,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241013-181301"
 }

@@ -180,9 +180,11 @@
   "Edible": "not-edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Amanita timida,,",
   "Note": "菌柄膨大的基部容易裂開。",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "泛紅鵝膏,,",
+  "la_zhcn": "泛红鹅膏,,"
  },
  "inaturalist": [
   {
@@ -192,5 +194,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/137659379/thumb.jpg"
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241013-181301"
 }

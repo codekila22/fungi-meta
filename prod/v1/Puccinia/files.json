@@ -2,13 +2,19 @@
  "name": "Puccinia",
  "zhtw": "柄銹菌屬",
  "zhcn": "柄锈菌属",
- "timestamp": "20241006-211122",
+ "timestamp": "20241013-181301",
  "list": [
   {
    "name": "Puccinia allii",
    "zhtw": "葱柄銹菌",
    "zhcn": "葱柄锈菌",
    "img": "Puccinia_allii_af2dd2d0-1b0f-11ef-844e-5fcbe3c2951e_1.jpg"
+  },
+  {
+   "name": "Puccinia benokiyamensis",
+   "zhtw": "火炭母柄銹菌",
+   "zhcn": "火炭母柄锈菌",
+   "img": "Puccinia_benokiyamensis_20325470-87e3-11ef-9988-c30302327a25_1.jpg"
   },
   {
    "name": "Puccinia hemerocallichis",

@@ -2,6 +2,7 @@
  "genus": "Oudemansiella",
  "name": "mucida",
  "date": [
+  "10/12/2024,8308534165923608",
   "07/30/2024,7749770918466605",
   "01/07/2024,6866271033483269",
   "01/01/2024,6830578577052515",
@@ -228,6 +229,22 @@
   {
    "author": "江志緯",
    "image_src": "Oudemansiella_mucida_bc8bb590-b5fd-11ee-9607-1120679f8c0f_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Oudemansiella_mucida_0f669760-8869-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Oudemansiella_mucida_0f669760-8869-11ef-be38-335f10af7160_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Oudemansiella_mucida_0f669760-8869-11ef-be38-335f10af7160_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Oudemansiella_mucida_0f669760-8869-11ef-be38-335f10af7160_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -276,5 +293,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10062/thumb.jpg"
   }
  ],
- "timestamp": "20241006-211122"
+ "timestamp": "20241013-181301"
 }
