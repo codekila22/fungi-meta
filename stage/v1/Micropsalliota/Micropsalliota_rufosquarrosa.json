@@ -2,6 +2,7 @@
  "genus": "Micropsalliota",
  "name": "rufosquarrosa",
  "date": [
+  "10/05/2024,8295556993887992",
   "11/28/2022,7953849851392043"
  ],
  "names_zhtw": [
@@ -37,6 +38,26 @@
   {
    "author": "徐秀團",
    "image_src": "Micropsalliota_rufosquarrosa_476d42f0-6850-11ef-9973-2362016a329e_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_rufosquarrosa_02d5d9a0-88a7-11ef-90b3-5d8365bfda11_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_rufosquarrosa_02d5d9a0-88a7-11ef-90b3-5d8365bfda11_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_rufosquarrosa_02d5d9a0-88a7-11ef-90b3-5d8365bfda11_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_rufosquarrosa_02d5d9a0-88a7-11ef-90b3-5d8365bfda11_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_rufosquarrosa_02d5d9a0-88a7-11ef-90b3-5d8365bfda11_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -88,5 +109,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/252236625/thumb.jpg"
   }
  ],
- "timestamp": "20241012-182506"
+ "timestamp": "20241013-094458"
 }

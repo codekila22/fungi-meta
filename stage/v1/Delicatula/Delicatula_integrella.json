@@ -2,6 +2,7 @@
  "genus": "Delicatula",
  "name": "integrella",
  "date": [
+  "10/09/2024,8278012702309088",
   "07/27/2024,7735712803205750",
   "06/23/2024,7569806343129731",
   "05/17/2024,7366144576829243",
@@ -170,6 +171,22 @@
   {
    "author": "徐秀團",
    "image_src": "Delicatula_integrella_4179d390-d27a-10c5-9feb-454e2763b4c9_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Delicatula_integrella_fba49f90-8900-11ef-8161-d3139b82d614_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Delicatula_integrella_fba49f90-8900-11ef-8161-d3139b82d614_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Delicatula_integrella_fba49f90-8900-11ef-8161-d3139b82d614_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Delicatula_integrella_fba49f90-8900-11ef-8161-d3139b82d614_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -218,5 +235,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4606744/thumb.jpg"
   }
  ],
- "timestamp": "20241012-182506"
+ "timestamp": "20241013-094458"
 }

@@ -2,7 +2,7 @@
  "name": "Diderma",
  "zhtw": "雙皮黏菌屬",
  "zhcn": "双皮黏菌属",
- "timestamp": "20241012-182506",
+ "timestamp": "20241013-094458",
  "list": [
   {
    "name": "Diderma floriforme",
@@ -57,6 +57,12 @@
    "zhtw": "半圓雙皮黏菌",
    "zhcn": "半圆双皮黏菌",
    "img": "Diderma_hemisphaericum_459a1480-1a7b-11ef-adfb-efab86dbb1cf_1.jpg"
+  },
+  {
+   "name": "Diderma aurantiacum",
+   "zhtw": "橙黃雙皮黏菌",
+   "zhcn": "橙黄双皮黏菌",
+   "img": "Diderma_aurantiacum_e98ca7c0-88a7-11ef-90b3-5d8365bfda11_1.jpg"
   }
  ]
 }
