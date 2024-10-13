@@ -2,6 +2,7 @@
  "genus": "Lachnum",
  "name": "virgineum",
  "date": [
+  "10/13/2024,8314891225287902",
   "02/15/2023,5750433921733658",
   "02/11/2023,5689183631192021"
  ],
@@ -142,6 +143,30 @@
   {
    "author": "柯文俊",
    "image_src": "Lachnum_virgineum_15_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lachnum_virgineum_02f95c60-8945-11ef-8f32-c3a08cecb73c_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lachnum_virgineum_02f95c60-8945-11ef-8f32-c3a08cecb73c_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lachnum_virgineum_02f95c60-8945-11ef-8f32-c3a08cecb73c_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lachnum_virgineum_02f95c60-8945-11ef-8f32-c3a08cecb73c_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lachnum_virgineum_02f95c60-8945-11ef-8f32-c3a08cecb73c_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lachnum_virgineum_02f95c60-8945-11ef-8f32-c3a08cecb73c_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -190,5 +215,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1336843/thumb.jpg"
   }
  ],
- "timestamp": "20241013-095756"
+ "timestamp": "20241013-173627"
 }
