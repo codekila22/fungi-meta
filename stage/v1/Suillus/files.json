@@ -2,13 +2,19 @@
  "name": "Suillus",
  "zhtw": "乳牛肝菌屬",
  "zhcn": "乳牛肝菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241019-102605",
  "list": [
   {
    "name": "Suillus americanus",
    "zhtw": "美洲乳牛肝菌",
    "zhcn": "美洲乳牛肝菌",
    "img": "Suillus_americanus_4_CC BY-NC.jpg"
+  },
+  {
+   "name": "Suillus subluteus",
+   "zhtw": "褐黃乳牛肝菌",
+   "zhcn": "褐黄乳牛肝菌",
+   "img": "Suillus_subluteus_1adf61f0-8dbc-11ef-a76b-ffd6bb345c92_1.jpg"
   },
   {
    "name": "Suillus pictus",

@@ -2,6 +2,7 @@
  "genus": "Cordyceps",
  "name": "ninchukispora",
  "date": [
+  "10/16/2024,8333628896747468",
   "07/08/2023,6172496559527390",
   "09/30/2022,5286030264840695",
   "09/06/2021,4112410145536052",
@@ -136,6 +137,18 @@
   {
    "author": "陳雅芬",
    "image_src": "Cordyceps_ninchukispora_f98ed490-1d5f-11ee-881c-efe3918fa314_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Cordyceps_ninchukispora_c1fdc030-8c8b-11ef-9421-870555703809_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Cordyceps_ninchukispora_c1fdc030-8c8b-11ef-9421-870555703809_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Cordyceps_ninchukispora_c1fdc030-8c8b-11ef-9421-870555703809_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -183,5 +196,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/315967597/thumb.jpeg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241019-102605"
 }

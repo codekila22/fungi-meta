@@ -2,6 +2,7 @@
  "genus": "Tricholomopsis",
  "name": "humboldtii",
  "date": [
+  "10/13/2024,8340247496085608",
   "06/28/2023,6139225282854518",
   "11/14/2021,7425490424227991"
  ],
@@ -70,6 +71,22 @@
   {
    "author": "蔡古媧",
    "image_src": "Tricholomopsis_humboldtii_6e6bfea0-1ff3-11ef-b76b-93de14daee22_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_ee77c620-8da2-11ef-a76b-ffd6bb345c92_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_ee77c620-8da2-11ef-a76b-ffd6bb345c92_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_ee77c620-8da2-11ef-a76b-ffd6bb345c92_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_ee77c620-8da2-11ef-a76b-ffd6bb345c92_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,5 +136,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/129552134/thumb.jpeg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241019-102605"
 }

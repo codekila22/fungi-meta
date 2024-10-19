@@ -2,14 +2,17 @@
  "genus": "Physarum",
  "name": "stellatum",
  "date": [
-  "08/11/2022",
-  "04/30/2022"
+  "10/13/2024,8342612955849062",
+  "08/08/2022,5139581326152257",
+  "04/29/2022,4852854104824982",
+  "07/17/2021,3957496164360785",
+  "07/31/2020,2976330582477353"
  ],
  "names_zhtw": [
   "星狀絨泡黏菌"
  ],
  "names_en": [],
- "url": "3957496164360785",
+ "url": "5139581326152257",
  "images": [
   {
    "author": "向高世",
@@ -206,6 +209,42 @@
   {
    "author": "張鈺芳",
    "image_src": "Physarum_stellatum_15_CC BY-NC_張鈺芳.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_stellatum_bb26f270-8cf6-11ef-902e-31d8cc90d60d_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_stellatum_bb26f270-8cf6-11ef-902e-31d8cc90d60d_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_stellatum_bb26f270-8cf6-11ef-902e-31d8cc90d60d_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_stellatum_bb26f270-8cf6-11ef-902e-31d8cc90d60d_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_stellatum_bb26f270-8cf6-11ef-902e-31d8cc90d60d_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_stellatum_bb26f270-8cf6-11ef-902e-31d8cc90d60d_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_stellatum_bb26f270-8cf6-11ef-902e-31d8cc90d60d_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_stellatum_bb26f270-8cf6-11ef-902e-31d8cc90d60d_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_stellatum_bb26f270-8cf6-11ef-902e-31d8cc90d60d_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -244,7 +283,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Physarum nucleatum,,",
-  "Note": "星狀絨泡黏菌：頭上有糖霜般的白色圓片，菌柄會鈣化。\n\n鈣核絨泡黏菌：頭部打開後中央有會掉落的核。",
+  "Note": "星狀絨泡黏菌：孢子囊上有糖霜狀白色圓片，在巧克力色孢子粉中的白色假中柱仔細看是由數顆小顆粒聚集而成，菌柄會鈣化。\n\n鈣核絨泡黏菌：頭部打開後中央有會掉落的核。",
   "la_zhtw": "鈣核絨泡黏菌,,",
   "la_zhcn": "钙核绒泡黏菌,,"
  },
@@ -256,5 +295,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32304638/thumb.jpeg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241019-102605"
 }

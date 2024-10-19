@@ -2,6 +2,7 @@
  "genus": "Pterula",
  "name": "gracilis",
  "date": [
+  "10/13/2024,8348450895265268",
   "03/08/2024,7072453292865041",
   "02/15/2021,3523995174377555"
  ],
@@ -78,6 +79,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Pterula_gracilis_45a27a00-e8d8-11ee-ac56-131fa124af31_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_01881230-8db0-11ef-a76b-ffd6bb345c92_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_01881230-8db0-11ef-a76b-ffd6bb345c92_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_01881230-8db0-11ef-a76b-ffd6bb345c92_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_01881230-8db0-11ef-a76b-ffd6bb345c92_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_01881230-8db0-11ef-a76b-ffd6bb345c92_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_01881230-8db0-11ef-a76b-ffd6bb345c92_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pterula_gracilis_01881230-8db0-11ef-a76b-ffd6bb345c92_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,5 +156,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8298061/thumb.jpg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241019-102605"
 }

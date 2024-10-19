@@ -6,6 +6,7 @@
   "05/20/2023,6104619756315071",
   "12/26/2022,5543730539070665",
   "07/15/2021,4010714762372258",
+  "06/12/2021,8331239806986377",
   "07/24/2020,2953308624779549"
  ],
  "names_zhtw": [
@@ -13,7 +14,7 @@
   "黃乳牛肝菌"
  ],
  "names_en": [
-  "Slippery Jack",
+  "Purple-veiled Slippery Jack",
   "Sticky Bun"
  ],
  "url": "2953308624779549",
@@ -73,6 +74,34 @@
   {
    "author": "江志緯",
    "image_src": "Suillus_luteus_f47b3420-0e33-11ee-bcbd-6f6e86c9dd9c_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_luteus_f76ea4f0-8b9b-11ef-8d51-fbbb1d8dc390_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_luteus_f76ea4f0-8b9b-11ef-8d51-fbbb1d8dc390_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_luteus_f76ea4f0-8b9b-11ef-8d51-fbbb1d8dc390_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_luteus_f76ea4f0-8b9b-11ef-8d51-fbbb1d8dc390_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_luteus_f76ea4f0-8b9b-11ef-8d51-fbbb1d8dc390_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_luteus_f76ea4f0-8b9b-11ef-8d51-fbbb1d8dc390_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_luteus_f76ea4f0-8b9b-11ef-8d51-fbbb1d8dc390_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -81,7 +110,7 @@
  ],
  "meta": {
   "CapColors": "4293302630,4290547599,4288768839",
-  "CapDiamRangeValues": "50,80",
+  "CapDiamRangeValues": "50,130",
   "CapShape": "",
   "CapTexture": "slimy",
   "CapMargin": "entire",
@@ -99,12 +128,12 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "5,9",
-  "StalkLengthRangeValuess": "40,60",
+  "StalkDiamRangeValuess": "0,30",
+  "StalkLengthRangeValuess": "0,100",
   "HeightRangeValuess": "",
   "Rareness": "common",
   "Seasons": "spring,summer,autumn",
-  "GrowthType": "singly,scattered",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
   "Bruising": "no",
   "Bioluminescent": "no",
@@ -112,7 +141,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Suillus grevillei,,",
-  "Note": "生長於松科植物附近，有菌環但開傘後易脫落。菌柄黃色，有暗紅色腺點。具有黏性的表皮剝除後，充分煮熟方能食用。",
+  "Note": "生長於松科植物附近，有菌環但開傘後易脫落。菌柄黃色，有暗紅色腺點。具有黏性的表皮剝除後，充分煮熟方能食用。\n\n菌環的頂面呈白色，而底面則呈深棕色至紫色。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "厚環乳牛肝菌,,",
   "la_zhcn": "厚环乳牛肝菌,,"
@@ -125,5 +154,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12823339/thumb.jpeg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241019-102605"
 }

@@ -2,6 +2,7 @@
  "genus": "Favolaschia",
  "name": "calocera",
  "date": [
+  "10/13/2024,8321121467998211",
   "07/06/2024,7626736424103389",
   "04/22/2024,7255347211242314",
   "04/20/2024,7257725477671154",
@@ -296,6 +297,26 @@
   {
    "author": "姜淋友",
    "image_src": "Favolaschia_calocera_be061300-80f6-1074-b320-f79021564b99_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Favolaschia_calocera_0c857490-8b97-11ef-8d51-fbbb1d8dc390_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Favolaschia_calocera_0c857490-8b97-11ef-8d51-fbbb1d8dc390_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Favolaschia_calocera_0c857490-8b97-11ef-8d51-fbbb1d8dc390_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Favolaschia_calocera_0c857490-8b97-11ef-8d51-fbbb1d8dc390_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Favolaschia_calocera_0c857490-8b97-11ef-8d51-fbbb1d8dc390_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -357,5 +378,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89984/thumb.jpg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241019-102605"
 }

@@ -2,6 +2,7 @@
  "genus": "Dacrymyces",
  "name": "capitatus",
  "date": [
+  "10/15/2024,8333520370091654",
   "10/31/2023,6695354903908217"
  ],
  "names_zhtw": [
@@ -25,6 +26,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Dacrymyces_capitatus_cb1711f0-91bc-11ee-86a1-9f9cb626064d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dacrymyces_capitatus_48ce77b0-8c8e-11ef-9421-870555703809_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dacrymyces_capitatus_48ce77b0-8c8e-11ef-9421-870555703809_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dacrymyces_capitatus_48ce77b0-8c8e-11ef-9421-870555703809_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -74,5 +87,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11647779/thumb.jpg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241019-102605"
 }
