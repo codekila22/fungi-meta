@@ -2,13 +2,13 @@
  "name": "Dacryopinax",
  "zhtw": "假花耳屬",
  "zhcn": "假花耳属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
-   "name": "Dacryopinax spathularia",
-   "zhtw": "桂花耳",
-   "zhcn": "桂花耳",
-   "img": "Dacryopinax_spathularia_1_CC BY-NC_江志緯.jpg"
+   "name": "Dacryopinax lowyi",
+   "zhtw": "洛伊假花耳",
+   "zhcn": "洛伊假花耳",
+   "img": "Dacryopinax_lowyi_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Dacryopinax martinii",
@@ -17,10 +17,10 @@
    "img": "Dacryopinax_martinii_1_CC BY-NC_陳雅芬.jpg"
   },
   {
-   "name": "Dacryopinax lowyi",
-   "zhtw": "洛伊假花耳",
-   "zhcn": "洛伊假花耳",
-   "img": "Dacryopinax_lowyi_1_CC BY-NC_Hannah Wang.jpg"
+   "name": "Dacryopinax spathularia",
+   "zhtw": "桂花耳",
+   "zhcn": "桂花耳",
+   "img": "Dacryopinax_spathularia_1_CC BY-NC_江志緯.jpg"
   }
  ]
 }

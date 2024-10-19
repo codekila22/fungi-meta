@@ -2,14 +2,8 @@
  "name": "Rigidoporus",
  "zhtw": "硬孔菌屬",
  "zhcn": "硬孔菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Rigidoporus microporus",
-   "zhtw": "小孔硬孔菌",
-   "zhcn": "小孔硬孔菌",
-   "img": "Rigidoporus_microporus_4_CC BY-NC_柯文俊.jpg"
-  },
   {
    "name": "Rigidoporus lineatus",
    "zhtw": "線條硬孔菌",
@@ -18,6 +12,12 @@
    "current_zhtw": "平絲變色臥孔菌",
    "current_zhcn": "平丝变色卧孔菌",
    "img": "Rigidoporus_lineatus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Rigidoporus microporus",
+   "zhtw": "小孔硬孔菌",
+   "zhcn": "小孔硬孔菌",
+   "img": "Rigidoporus_microporus_4_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Rigidoporus ulmarius",

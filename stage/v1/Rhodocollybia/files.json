@@ -2,19 +2,19 @@
  "name": "Rhodocollybia",
  "zhtw": "紅金錢菇屬",
  "zhcn": "红金钱菇属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Rhodocollybia maculata",
-   "zhtw": "斑紅金錢菇",
-   "zhcn": "斑红金钱菇",
-   "img": "Rhodocollybia_maculata_2_CC BY-NC_柯文俊.jpg"
-  },
   {
    "name": "Rhodocollybia butyracea",
    "zhtw": "乳酪紅金錢菇",
    "zhcn": "乳酪红金钱菇",
    "img": "Rhodocollybia_butyracea_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Rhodocollybia maculata",
+   "zhtw": "斑紅金錢菇",
+   "zhcn": "斑红金钱菇",
+   "img": "Rhodocollybia_maculata_2_CC BY-NC_柯文俊.jpg"
   }
  ]
 }

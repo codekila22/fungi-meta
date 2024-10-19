@@ -2,13 +2,13 @@
  "name": "Cryptomarasmius",
  "zhtw": "隱皮傘屬",
  "zhcn": "隐皮伞属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
-   "name": "Cryptomarasmius thwaitesii",
-   "zhtw": "思韋茨隱皮傘",
-   "zhcn": "思韦茨隐皮伞",
-   "img": "Cryptomarasmius_thwaitesii_1_CC BY-NC_蔣珮瑩.jpg"
+   "name": "Cryptomarasmius corbariensis",
+   "zhtw": "科爾巴里隱皮傘",
+   "zhcn": "科尔巴里隐皮伞",
+   "img": "Cryptomarasmius_corbariensis_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Cryptomarasmius minutus",
@@ -17,10 +17,10 @@
    "img": "Marasmius_capillipes_1_CC BY-NC_柯文俊.jpg"
   },
   {
-   "name": "Cryptomarasmius corbariensis",
-   "zhtw": "科爾巴里隱皮傘",
-   "zhcn": "科尔巴里隐皮伞",
-   "img": "Cryptomarasmius_corbariensis_1_CC BY-NC_陳雅芬.jpg"
+   "name": "Cryptomarasmius thwaitesii",
+   "zhtw": "思韋茨隱皮傘",
+   "zhcn": "思韦茨隐皮伞",
+   "img": "Cryptomarasmius_thwaitesii_1_CC BY-NC_蔣珮瑩.jpg"
   }
  ]
 }

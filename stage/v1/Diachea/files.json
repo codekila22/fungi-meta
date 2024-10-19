@@ -2,19 +2,19 @@
  "name": "Diachea",
  "zhtw": "白柄黏菌屬",
  "zhcn": "白柄黏菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Diachea splendens",
-   "zhtw": "美白柄黏菌",
-   "zhcn": "美白柄黏菌",
-   "img": "Diachea_splendens_1_CC BY-NC_陳麗紅.jpg"
-  },
   {
    "name": "Diachea leucopodia",
    "zhtw": "白柄黏菌",
    "zhcn": "白柄黏菌",
    "img": "Diachea_leucopodia_9_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Diachea splendens",
+   "zhtw": "美白柄黏菌",
+   "zhcn": "美白柄黏菌",
+   "img": "Diachea_splendens_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Diachea subsessilis",

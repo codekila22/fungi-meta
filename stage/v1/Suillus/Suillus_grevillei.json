@@ -82,11 +82,11 @@
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Suillus luteus,,",
+  "LookAlikes": "Suillus luteus,Suillus subluteus,",
   "Note": "生長於松科植物旁，傘面一開始從紅橙色慢慢轉變為紅棕色。傘面潮濕時會黏滑，乾燥時不會。菌柄無腺點，菌環下方的菌柄與傘面同色。具有黏性的表皮剝除後，充分煮熟方能食用。",
   "GrowthEco": "mycorrhizal",
-  "la_zhtw": "褐環乳牛肝菌,,",
-  "la_zhcn": "褐环乳牛肝菌,,"
+  "la_zhtw": "褐環乳牛肝菌,褐黃乳牛肝菌,",
+  "la_zhcn": "褐环乳牛肝菌,褐黄乳牛肝菌,"
  },
  "inaturalist": [
   {
@@ -96,5 +96,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20305810/thumb.jpg"
   }
  ],
- "timestamp": "20241019-102605"
+ "timestamp": "20241019-142817"
 }

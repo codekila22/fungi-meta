@@ -2,14 +2,8 @@
  "name": "Gliophorus",
  "zhtw": "濕黏傘屬",
  "zhcn": "湿黏伞属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Gliophorus psittacinus",
-   "zhtw": "翠綠濕黏傘",
-   "zhcn": "翠绿湿黏伞",
-   "img": "Gliophorus_psittacinus_4_CC BY-NC_向高世.jpg"
-  },
   {
    "name": "Gliophorus irrigatus",
    "zhtw": "水漾濕黏傘",
@@ -21,6 +15,12 @@
    "zhtw": "小濕黏傘",
    "zhcn": "小湿黏伞",
    "img": "Gliophorus_minutulus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Gliophorus psittacinus",
+   "zhtw": "翠綠濕黏傘",
+   "zhcn": "翠绿湿黏伞",
+   "img": "Gliophorus_psittacinus_4_CC BY-NC_向高世.jpg"
   }
  ]
 }

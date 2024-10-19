@@ -2,25 +2,19 @@
  "name": "Panus",
  "zhtw": "革耳屬",
  "zhcn": "革耳属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
+  {
+   "name": "Panus conchatus",
+   "zhtw": "紫蠔貝革耳",
+   "zhcn": "紫蚝贝革耳",
+   "img": "Panus_conchatus_17_CC BY-NC_陳啟仁.jpg"
+  },
   {
    "name": "Panus fulvus",
    "zhtw": "褐絨革耳",
    "zhcn": "褐绒革耳",
    "img": "Panus_fulvus_4_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "name": "Panus similis",
-   "zhtw": "絨柄革耳",
-   "zhcn": "绒柄革耳",
-   "img": "Panus_similis_1_CC BY-NC_陳雅芬.jpg"
-  },
-  {
-   "name": "Panus neostrigosus",
-   "zhtw": "新粗毛革耳",
-   "zhcn": "新粗毛革耳",
-   "img": "Panus_neostrigosus_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Panus giganteus",
@@ -32,22 +26,28 @@
    "img": "Lentinus_giganteus_1_CC BY-NC_江志緯.jpg"
   },
   {
-   "name": "Panus strigellus",
-   "zhtw": "鱗毛革耳",
-   "zhcn": "鳞毛革耳",
-   "img": "Panus_strigellus_7623f950-e402-11ed-ac9f-b59992cc0ae7_1.jpg"
-  },
-  {
-   "name": "Panus conchatus",
-   "zhtw": "紫蠔貝革耳",
-   "zhcn": "紫蚝贝革耳",
-   "img": "Panus_conchatus_17_CC BY-NC_陳啟仁.jpg"
-  },
-  {
    "name": "Panus natarajanus",
    "zhtw": "環絨革耳",
    "zhcn": "环绒革耳",
    "img": "Panus_natarajanus_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Panus neostrigosus",
+   "zhtw": "新粗毛革耳",
+   "zhcn": "新粗毛革耳",
+   "img": "Panus_neostrigosus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Panus similis",
+   "zhtw": "絨柄革耳",
+   "zhcn": "绒柄革耳",
+   "img": "Panus_similis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Panus strigellus",
+   "zhtw": "鱗毛革耳",
+   "zhcn": "鳞毛革耳",
+   "img": "Panus_strigellus_7623f950-e402-11ed-ac9f-b59992cc0ae7_1.jpg"
   }
  ]
 }

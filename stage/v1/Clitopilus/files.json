@@ -2,20 +2,8 @@
  "name": "Clitopilus",
  "zhtw": "斜蓋傘屬",
  "zhcn": "斜盖伞属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Clitopilus hobsonii",
-   "zhtw": "荷伯生氏斜蓋傘",
-   "zhcn": "荷伯生氏斜盖伞",
-   "img": "Clitopilus_hobsonii_2_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "name": "Clitopilus prunulus",
-   "zhtw": "斜蓋傘",
-   "zhcn": "斜盖伞",
-   "img": "Clitopilus_prunulus_1_CC BY-NC_柯文俊.jpg"
-  },
   {
    "name": "Clitopilus cf. tillii",
    "zhtw": "疑似帝爾斜蓋傘",
@@ -29,22 +17,34 @@
    "img": "Clitopilus_crispus_1_CC BY-NC_WK Chan.jpg"
   },
   {
+   "name": "Clitopilus hobsonii",
+   "zhtw": "荷伯生氏斜蓋傘",
+   "zhcn": "荷伯生氏斜盖伞",
+   "img": "Clitopilus_hobsonii_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
    "name": "Clitopilus kamaka",
    "zhtw": "岩生斜蓋傘",
    "zhcn": "岩生斜盖伞",
    "img": "Clitopilus_kamaka_8_CC BY-NC_Hannah Wang.jpg"
   },
   {
-   "name": "Clitopilus subscyphoides",
-   "zhtw": "近杯狀斜蓋傘",
-   "zhcn": "近杯状斜盖伞",
-   "img": "Clitopilus_subscyphoides_1_CC BY-NC_陳雅芬.jpg"
+   "name": "Clitopilus prunulus",
+   "zhtw": "斜蓋傘",
+   "zhcn": "斜盖伞",
+   "img": "Clitopilus_prunulus_1_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Clitopilus scyphoides",
    "zhtw": "杯狀斜蓋傘",
    "zhcn": "杯状斜盖伞",
    "img": "Clitopilus_scyphoides_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Clitopilus subscyphoides",
+   "zhtw": "近杯狀斜蓋傘",
+   "zhcn": "近杯状斜盖伞",
+   "img": "Clitopilus_subscyphoides_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

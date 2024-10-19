@@ -2,13 +2,13 @@
  "name": "Macrolepiota",
  "zhtw": "大環柄菇屬",
  "zhcn": "大环柄菇属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
-   "name": "Macrolepiota procera",
-   "zhtw": "高大環柄菇",
-   "zhcn": "高大环柄菇",
-   "img": "Macrolepiota_procera_1_CC BY-NC_Hannah Wang.jpg"
+   "name": "Macrolepiota aff. venenata",
+   "zhtw": "毒大環柄菇之相似種",
+   "zhcn": "毒大环柄菇之相似种",
+   "img": "Macrolepiota_aff. venenata_3_CC BY-NC_Sunny Wang.jpg"
   },
   {
    "name": "Macrolepiota dolichaula",
@@ -17,10 +17,10 @@
    "img": "Macrolepiota_dolichaula_1_CC BY-NC_陳柏豪.jpg"
   },
   {
-   "name": "Macrolepiota aff. venenata",
-   "zhtw": "毒大環柄菇之相似種",
-   "zhcn": "毒大环柄菇之相似种",
-   "img": "Macrolepiota_aff. venenata_3_CC BY-NC_Sunny Wang.jpg"
+   "name": "Macrolepiota procera",
+   "zhtw": "高大環柄菇",
+   "zhcn": "高大环柄菇",
+   "img": "Macrolepiota_procera_1_CC BY-NC_Hannah Wang.jpg"
   }
  ]
 }

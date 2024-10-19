@@ -2,7 +2,7 @@
  "name": "Bondarzewia",
  "zhtw": "刺孢多孔菌屬",
  "zhcn": "刺孢多孔菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
    "name": "Bondarzewia berkeleyi",
@@ -11,18 +11,18 @@
    "img": "Bondarzewia_berkeleyi_1dc13320-7bb2-11ee-a939-7937b7a7c1d1_1.jpg"
   },
   {
+   "name": "Bondarzewia mesenterica",
+   "zhtw": "金黃刺孢多孔菌",
+   "zhcn": "金黄刺孢多孔菌",
+   "img": "Bondarzewia_mesenterica_c9593980-613a-11ef-be83-0d9da1f4363b_2.jpg"
+  },
+  {
    "name": "Bondarzewia montana",
    "zhtw": "蒙大拿刺孢多孔菌",
    "zhcn": "蒙大拿刺孢多孔菌",
    "current": "Bondarzewia mesenterica",
    "current_zhtw": "金黃刺孢多孔菌",
    "current_zhcn": "金黄刺孢多孔菌",
-   "img": "Bondarzewia_mesenterica_c9593980-613a-11ef-be83-0d9da1f4363b_2.jpg"
-  },
-  {
-   "name": "Bondarzewia mesenterica",
-   "zhtw": "金黃刺孢多孔菌",
-   "zhcn": "金黄刺孢多孔菌",
    "img": "Bondarzewia_mesenterica_c9593980-613a-11ef-be83-0d9da1f4363b_2.jpg"
   }
  ]

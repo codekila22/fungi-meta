@@ -2,14 +2,8 @@
  "name": "Favolus",
  "zhtw": "菱孔菌屬",
  "zhcn": "菱孔菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Favolus tenuiculus",
-   "zhtw": "略薄菱孔菌",
-   "zhcn": "略薄菱孔菌",
-   "img": "Favolus_tenuiculus_1_CC BY-NC_陳雅芬.jpg"
-  },
   {
    "name": "Favolus brasiliensis",
    "zhtw": "巴西菱孔菌",
@@ -17,6 +11,12 @@
    "current": "Favolus tenuiculus",
    "current_zhtw": "略薄菱孔菌",
    "current_zhcn": "略薄菱孔菌",
+   "img": "Favolus_tenuiculus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Favolus tenuiculus",
+   "zhtw": "略薄菱孔菌",
+   "zhcn": "略薄菱孔菌",
    "img": "Favolus_tenuiculus_1_CC BY-NC_陳雅芬.jpg"
   },
   {

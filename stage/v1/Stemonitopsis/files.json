@@ -2,19 +2,19 @@
  "name": "Stemonitopsis",
  "zhtw": "半髮網黏菌屬",
  "zhcn": "半发网黏菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Stemonitopsis amoena",
-   "zhtw": "怡人半髮網黏菌",
-   "zhcn": "怡人半发网黏菌",
-   "img": "Stemonitopsis_amoena_982c1e30-12db-11ee-868c-e5d902537db4_1.jpg"
-  },
   {
    "name": "Stemonitopsis aequalis",
    "zhtw": "均等半髮網黏菌",
    "zhcn": "均等半发网黏菌",
    "img": "Stemonitopsis_aequalis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Stemonitopsis amoena",
+   "zhtw": "怡人半髮網黏菌",
+   "zhcn": "怡人半发网黏菌",
+   "img": "Stemonitopsis_amoena_982c1e30-12db-11ee-868c-e5d902537db4_1.jpg"
   },
   {
    "name": "Stemonitopsis typhina",

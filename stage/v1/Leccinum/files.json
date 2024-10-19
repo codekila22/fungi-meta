@@ -2,20 +2,8 @@
  "name": "Leccinum",
  "zhtw": "疣柄牛肝菌屬",
  "zhcn": "疣柄牛肝菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Leccinum griseum",
-   "zhtw": "灰疣柄牛肝菌",
-   "zhcn": "灰疣柄牛肝菌",
-   "img": "Leccinum_griseum_1_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "name": "Leccinum scabrum",
-   "zhtw": "褐疣柄牛肝菌",
-   "zhcn": "褐疣柄牛肝菌",
-   "img": "Leccinum_scabrum_3af29d70-2720-11ef-ab2e-3d3d7be2fcbb_1.jpg"
-  },
   {
    "name": "Leccinum extremiorientale",
    "zhtw": "裂皮疣柄牛肝菌",
@@ -26,10 +14,10 @@
    "img": "Rugiboletus_extremiorientalis_1_CC BY-NC_陳乾政.jpg"
   },
   {
-   "name": "Leccinum scrabrum complex",
-   "zhtw": "疣柄牛肝菌複合群",
-   "zhcn": "疣柄牛肝菌复合群",
-   "img": "Leccinum_scrabrum complex_1_CC BY-NC_向高世.jpg"
+   "name": "Leccinum griseum",
+   "zhtw": "灰疣柄牛肝菌",
+   "zhcn": "灰疣柄牛肝菌",
+   "img": "Leccinum_griseum_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Leccinum holopus",
@@ -42,6 +30,18 @@
    "zhtw": "皺蓋疣柄牛肝菌",
    "zhcn": "皱盖疣柄牛肝菌",
    "img": "Leccinum_rugosiceps_2_CC BY-NC.jpg"
+  },
+  {
+   "name": "Leccinum scabrum",
+   "zhtw": "褐疣柄牛肝菌",
+   "zhcn": "褐疣柄牛肝菌",
+   "img": "Leccinum_scabrum_3af29d70-2720-11ef-ab2e-3d3d7be2fcbb_1.jpg"
+  },
+  {
+   "name": "Leccinum scrabrum complex",
+   "zhtw": "疣柄牛肝菌複合群",
+   "zhcn": "疣柄牛肝菌复合群",
+   "img": "Leccinum_scrabrum complex_1_CC BY-NC_向高世.jpg"
   }
  ]
 }

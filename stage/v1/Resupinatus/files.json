@@ -2,8 +2,20 @@
  "name": "Resupinatus",
  "zhtw": "伏褶菌屬",
  "zhcn": "伏褶菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
+  {
+   "name": "Resupinatus aff. trichotis",
+   "zhtw": "毛伏褶菌近似種",
+   "zhcn": "毛伏褶菌近似种",
+   "img": "Resupinatus_aff. trichotis_87e318e0-9ccd-11ee-8a12-03d0692c5ae2_1.jpg"
+  },
+  {
+   "name": "Resupinatus alboniger",
+   "zhtw": "白黑伏褶菌",
+   "zhcn": "白黑伏褶菌",
+   "img": "Resupinatus_alboniger_1_CC BY-NC_陳雅芬.jpg"
+  },
   {
    "name": "Resupinatus applicatus",
    "zhtw": "小伏褶菌",
@@ -11,16 +23,16 @@
    "img": "Resupinatus_applicatus_2_CC BY-NC_柯文俊.jpg"
   },
   {
-   "name": "Resupinatus sp.1",
-   "zhtw": "雅緻伏褶菌(暫名)",
-   "zhcn": "雅致伏褶菌(暂名)",
-   "img": "Resupinatus_sp.1_1_CC BY-NC_陳雅芬.jpg"
-  },
-  {
    "name": "Resupinatus poriaeformis",
    "zhtw": "多孔伏褶菌",
    "zhcn": "多孔伏褶菌",
    "img": "Resupinatus_poriaeformis_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Resupinatus sp.1",
+   "zhtw": "雅緻伏褶菌(暫名)",
+   "zhcn": "雅致伏褶菌(暂名)",
+   "img": "Resupinatus_sp.1_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Resupinatus trichotis",
@@ -33,18 +45,6 @@
    "zhtw": "酒紅伏褶菌",
    "zhcn": "酒红伏褶菌",
    "img": "Resupinatus_vinosolividus_b6db6790-a8a0-11ee-ab46-15e5a78cafe1_1.jpg"
-  },
-  {
-   "name": "Resupinatus aff. trichotis",
-   "zhtw": "毛伏褶菌近似種",
-   "zhcn": "毛伏褶菌近似种",
-   "img": "Resupinatus_aff. trichotis_87e318e0-9ccd-11ee-8a12-03d0692c5ae2_1.jpg"
-  },
-  {
-   "name": "Resupinatus alboniger",
-   "zhtw": "白黑伏褶菌",
-   "zhcn": "白黑伏褶菌",
-   "img": "Resupinatus_alboniger_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

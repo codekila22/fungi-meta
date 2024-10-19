@@ -2,8 +2,20 @@
  "name": "Cookeina",
  "zhtw": "毛杯菌屬",
  "zhcn": "毛杯菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
+  {
+   "name": "Cookeina insititia",
+   "zhtw": "大孢毛杯菌",
+   "zhcn": "大孢毛杯菌",
+   "img": "Cookeina_insititia_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Cookeina sinensis",
+   "zhtw": "中國毛杯菌",
+   "zhcn": "中国毛杯菌",
+   "img": "Cookeina_sinensis_10_CC BY-NC_Hannah Wang.jpg"
+  },
   {
    "name": "Cookeina speciosa",
    "zhtw": "橘黃毛杯菌",
@@ -15,18 +27,6 @@
    "zhtw": "毛緣毛杯菌",
    "zhcn": "毛缘毛杯菌",
    "img": "Cookeina_tricholoma_694dcc40-621b-11ef-8f02-69e3d7fe61d6_10.jpg"
-  },
-  {
-   "name": "Cookeina sinensis",
-   "zhtw": "中國毛杯菌",
-   "zhcn": "中国毛杯菌",
-   "img": "Cookeina_sinensis_10_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "name": "Cookeina insititia",
-   "zhtw": "大孢毛杯菌",
-   "zhcn": "大孢毛杯菌",
-   "img": "Cookeina_insititia_1_CC BY-NC_James Ho.jpg"
   }
  ]
 }

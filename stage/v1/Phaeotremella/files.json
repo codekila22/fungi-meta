@@ -2,7 +2,7 @@
  "name": "Phaeotremella",
  "zhtw": "暗銀耳屬",
  "zhcn": "暗银耳属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
    "name": "Phaeotremella eugeniae",
@@ -11,10 +11,10 @@
    "img": "Phaeotremella_eugeniae_1_CC BY-NC_向高世.jpg"
   },
   {
-   "name": "Phaeotremella roseotincta",
-   "zhtw": "玫瑰暗銀耳",
-   "zhcn": "玫瑰暗银耳",
-   "img": "Phaeotremella_roseotincta_3_CC BY-NC_向高世.jpg"
+   "name": "Phaeotremella foliacea",
+   "zhtw": "茶暗銀耳",
+   "zhcn": "茶暗银耳",
+   "img": "Phaeotremella_foliacea_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Phaeotremella frondosa",
@@ -23,10 +23,10 @@
    "img": "Phaeotremella_frondosa_4418d6d0-d900-11ee-91a0-27616dade082_1.jpg"
   },
   {
-   "name": "Phaeotremella foliacea",
-   "zhtw": "茶暗銀耳",
-   "zhcn": "茶暗银耳",
-   "img": "Phaeotremella_foliacea_1_CC BY-NC_Hannah Wang.jpg"
+   "name": "Phaeotremella roseotincta",
+   "zhtw": "玫瑰暗銀耳",
+   "zhcn": "玫瑰暗银耳",
+   "img": "Phaeotremella_roseotincta_3_CC BY-NC_向高世.jpg"
   }
  ]
 }

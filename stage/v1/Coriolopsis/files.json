@@ -2,13 +2,13 @@
  "name": "Coriolopsis",
  "zhtw": "革蓋菌屬",
  "zhcn": "革盖菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
-   "name": "Coriolopsis neaniscus",
-   "zhtw": "黃褐革蓋菌",
-   "zhcn": "黄褐革盖菌",
-   "img": "Coriolopsis_neaniscus_21dd9ca0-6a00-11ee-86fe-bfa5a7beb676_13.jpg"
+   "name": "Coriolopsis aspera",
+   "zhtw": "粗糙革蓋菌",
+   "zhcn": "粗糙革盖菌",
+   "img": "Coriolopsis_aspera_1_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Coriolopsis caperata",
@@ -17,10 +17,10 @@
    "img": "Coriolopsis_caperata_1_CC BY-NC_柯文俊.jpg"
   },
   {
-   "name": "Coriolopsis aspera",
-   "zhtw": "粗糙革蓋菌",
-   "zhcn": "粗糙革盖菌",
-   "img": "Coriolopsis_aspera_1_CC BY-NC_柯文俊.jpg"
+   "name": "Coriolopsis neaniscus",
+   "zhtw": "黃褐革蓋菌",
+   "zhcn": "黄褐革盖菌",
+   "img": "Coriolopsis_neaniscus_21dd9ca0-6a00-11ee-86fe-bfa5a7beb676_13.jpg"
   }
  ]
 }

@@ -2,14 +2,8 @@
  "name": "Daldinia",
  "zhtw": "炭球菌屬",
  "zhcn": "炭球菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Daldinia eschscholtzii",
-   "zhtw": "光輪層炭球菌",
-   "zhcn": "光轮层炭球菌",
-   "img": "Daldinia_eschscholtzii_1_CC BY-NC_Hannah Wang.jpg"
-  },
   {
    "name": "Daldinia childiae",
    "zhtw": "雀爾德氏炭球菌",
@@ -21,6 +15,12 @@
    "zhtw": "同心環紋炭球菌",
    "zhcn": "同心环纹炭球菌",
    "img": "Daldinia_concentrica_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Daldinia eschscholtzii",
+   "zhtw": "光輪層炭球菌",
+   "zhcn": "光轮层炭球菌",
+   "img": "Daldinia_eschscholtzii_1_CC BY-NC_Hannah Wang.jpg"
   }
  ]
 }

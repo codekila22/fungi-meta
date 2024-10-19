@@ -2,19 +2,19 @@
  "name": "Phycomyces",
  "zhtw": "鬚黴屬",
  "zhcn": "须霉属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Phycomyces nitens",
-   "zhtw": "閃光鬍鬚黴",
-   "zhcn": "闪光胡须霉",
-   "img": "Phycomyces_nitens_1_CC BY-NC_陳麗紅.jpg"
-  },
   {
    "name": "Phycomyces blakesleeanus",
    "zhtw": "布拉克鬍鬚黴",
    "zhcn": "布拉克胡须霉",
    "img": "Phycomyces_blakesleeanus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Phycomyces nitens",
+   "zhtw": "閃光鬍鬚黴",
+   "zhcn": "闪光胡须霉",
+   "img": "Phycomyces_nitens_1_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

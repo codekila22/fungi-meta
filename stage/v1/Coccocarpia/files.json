@@ -2,13 +2,13 @@
  "name": "Coccocarpia",
  "zhtw": "瓦衣屬",
  "zhcn": "瓦衣属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
-   "name": "Coccocarpia palmicola",
-   "zhtw": "粗瓦衣",
-   "zhcn": "粗瓦衣",
-   "img": "Coccocarpia_palmicola_1_CC BY-NC_陳雅芬.jpg"
+   "name": "Coccocarpia erythroxyli",
+   "zhtw": "環紋瓦衣",
+   "zhcn": "环纹瓦衣",
+   "img": "Coccocarpia_erythroxyli_4232b680-886c-11ef-be38-335f10af7160_1.jpg"
   },
   {
    "name": "Coccocarpia glaucina",
@@ -17,10 +17,10 @@
    "img": "Coccocarpia_glaucina_1_CC BY-NC_James Ho.jpg"
   },
   {
-   "name": "Coccocarpia erythroxyli",
-   "zhtw": "環紋瓦衣",
-   "zhcn": "环纹瓦衣",
-   "img": "Coccocarpia_erythroxyli_4232b680-886c-11ef-be38-335f10af7160_1.jpg"
+   "name": "Coccocarpia palmicola",
+   "zhtw": "粗瓦衣",
+   "zhcn": "粗瓦衣",
+   "img": "Coccocarpia_palmicola_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Coccocarpia pellita",

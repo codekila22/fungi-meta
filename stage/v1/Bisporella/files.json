@@ -2,7 +2,7 @@
  "name": "Bisporella",
  "zhtw": "雙孢盤菌屬",
  "zhcn": "双孢盘菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
    "name": "Bisporella citrina",
@@ -11,16 +11,16 @@
    "img": "Bisporella_citrina_3_CC BY-NC_Hannah Wang.jpg"
   },
   {
-   "name": "Bisporella subpallida",
-   "zhtw": "蒼黃小雙孢盤菌",
-   "zhcn": "苍黄小双孢盘菌",
-   "img": "Bisporella_subpallida_1_CC BY-NC_柯文俊.jpg"
-  },
-  {
    "name": "Bisporella pallescens",
    "zhtw": "白小雙孢盤菌",
    "zhcn": "白小双孢盘菌",
    "img": "Bisporella_pallescens_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Bisporella subpallida",
+   "zhtw": "蒼黃小雙孢盤菌",
+   "zhcn": "苍黄小双孢盘菌",
+   "img": "Bisporella_subpallida_1_CC BY-NC_柯文俊.jpg"
   }
  ]
 }

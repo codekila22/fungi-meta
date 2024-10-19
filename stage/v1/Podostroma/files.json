@@ -2,8 +2,14 @@
  "name": "Podostroma",
  "zhtw": "肉棒菌屬",
  "zhcn": "肉棒菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
+  {
+   "name": "Podostroma alutaceum",
+   "zhtw": "木棒肉棒菌",
+   "zhcn": "木棒肉棒菌",
+   "img": "Podostroma_alutaceum_7_CC BY-NC.jpg"
+  },
   {
    "name": "Podostroma cornu-damae",
    "zhtw": "火焰肉棒菌",
@@ -18,12 +24,6 @@
    "zhtw": "鬼筆肉棒菌",
    "zhcn": "鬼笔肉棒菌",
    "img": "Podostroma_solmsii_1_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "name": "Podostroma alutaceum",
-   "zhtw": "木棒肉棒菌",
-   "zhcn": "木棒肉棒菌",
-   "img": "Podostroma_alutaceum_7_CC BY-NC.jpg"
   }
  ]
 }

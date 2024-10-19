@@ -2,26 +2,8 @@
  "name": "Conocybe",
  "zhtw": "錐蓋傘屬",
  "zhcn": "锥盖伞属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Conocybe aurea",
-   "zhtw": "金黃錐蓋傘",
-   "zhcn": "金黄锥盖伞",
-   "img": "Conocybe_aurea_69165520-d5cc-11ee-96b2-5fa69d8ade2a_1.jpg"
-  },
-  {
-   "name": "Conocybe subpubescens",
-   "zhtw": "疏絨毛錐蓋傘",
-   "zhcn": "疏绒毛锥盖伞",
-   "img": "Conocybe_subpubescens_aa17cc00-d2a0-11ed-9387-b7fbade39e66_1.jpg"
-  },
-  {
-   "name": "Conocybe incarnata",
-   "zhtw": "粉紅褐錐蓋傘",
-   "zhcn": "粉红褐锥盖伞",
-   "img": "Conocybe_incarnata_1_CC BY-NC.jpg"
-  },
   {
    "name": "Conocybe apala",
    "zhtw": "阿帕錐蓋傘(複合群)",
@@ -29,10 +11,16 @@
    "img": "Conocybe_lactea_4_CC BY-NC_陳麗紅.jpg"
   },
   {
-   "name": "Conocybe tenera",
-   "zhtw": "柔錐蓋傘",
-   "zhcn": "柔锥盖伞",
-   "img": "Conocybe_tenera_1_CC BY-NC_陳麗紅.jpg"
+   "name": "Conocybe aurea",
+   "zhtw": "金黃錐蓋傘",
+   "zhcn": "金黄锥盖伞",
+   "img": "Conocybe_aurea_69165520-d5cc-11ee-96b2-5fa69d8ade2a_1.jpg"
+  },
+  {
+   "name": "Conocybe incarnata",
+   "zhtw": "粉紅褐錐蓋傘",
+   "zhcn": "粉红褐锥盖伞",
+   "img": "Conocybe_incarnata_1_CC BY-NC.jpg"
   },
   {
    "name": "Conocybe lactea",
@@ -42,6 +30,18 @@
    "current_zhtw": "阿帕錐蓋傘(複合群)",
    "current_zhcn": "阿帕锥盖伞(复合群)",
    "img": "Conocybe_lactea_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Conocybe subpubescens",
+   "zhtw": "疏絨毛錐蓋傘",
+   "zhcn": "疏绒毛锥盖伞",
+   "img": "Conocybe_subpubescens_aa17cc00-d2a0-11ed-9387-b7fbade39e66_1.jpg"
+  },
+  {
+   "name": "Conocybe tenera",
+   "zhtw": "柔錐蓋傘",
+   "zhcn": "柔锥盖伞",
+   "img": "Conocybe_tenera_1_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

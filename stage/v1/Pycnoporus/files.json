@@ -2,17 +2,8 @@
  "name": "Pycnoporus",
  "zhtw": "密孔菌屬",
  "zhcn": "密孔菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Pycnoporus sanguineus",
-   "zhtw": "血紅密孔菌",
-   "zhcn": "血红密孔菌",
-   "current": "Trametes sanguinea",
-   "current_zhtw": "血紅栓菌",
-   "current_zhcn": "血红栓菌",
-   "img": "Pycnoporus_sanguineus_6e7e99b0-80e9-11ee-8a0f-a125a45b174d_1.jpg"
-  },
   {
    "name": "Pycnoporus cinnabarinus",
    "zhtw": "朱紅密孔菌",
@@ -21,6 +12,15 @@
    "current_zhtw": "朱紅栓菌",
    "current_zhcn": "朱红栓菌",
    "img": "Pycnoporus_cinnabarinus_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Pycnoporus sanguineus",
+   "zhtw": "血紅密孔菌",
+   "zhcn": "血红密孔菌",
+   "current": "Trametes sanguinea",
+   "current_zhtw": "血紅栓菌",
+   "current_zhcn": "血红栓菌",
+   "img": "Pycnoporus_sanguineus_6e7e99b0-80e9-11ee-8a0f-a125a45b174d_1.jpg"
   }
  ]
 }

@@ -2,49 +2,22 @@
  "name": "Lepiota",
  "zhtw": "環柄菇屬",
  "zhcn": "环柄菇属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
-   "name": "Lepiota fusciceps",
-   "zhtw": "暗褐鱗環柄菇",
-   "zhcn": "暗褐鳞环柄菇",
-   "img": "Lepiota_fusciceps_4_CC BY-NC_陳雅芬.jpg"
+   "name": "Lepiota aspera",
+   "zhtw": "粗糙環柄菇",
+   "zhcn": "粗糙环柄菇",
+   "current": "Echinoderma asperum",
+   "current_zhtw": "粗糙棘皮菌",
+   "current_zhcn": "粗糙棘皮菌",
+   "img": "Echinoderma_asperum_2_CC BY-NC_陳雅芬.jpg"
   },
   {
-   "name": "Lepiota brunneoincarnata",
-   "zhtw": "肉褐鱗環柄菇",
-   "zhcn": "肉褐鳞环柄菇",
-   "img": "Lepiota_brunneoincarnata_4_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "name": "Lepiota echinacea",
-   "zhtw": "刺錐環柄菇",
-   "zhcn": "刺锥环柄菇",
-   "current": "Echinoderma echinaceum",
-   "current_zhtw": "刺錐棘皮菌",
-   "current_zhcn": "刺锥棘皮菌",
-   "img": "Lepiota_echinacea_86096bb0-194b-11ee-991b-edf287ca7b8d_1.jpg"
-  },
-  {
-   "name": "Lepiota castanea",
-   "zhtw": "栗色環柄菇",
-   "zhcn": "栗色环柄菇",
-   "img": "Lepiota_castanea_3_CC BY-NC.jpg"
-  },
-  {
-   "name": "Lepiota rubella",
-   "zhtw": "紅斑鱗環柄菇",
-   "zhcn": "红斑鳞环柄菇",
-   "current": "Echinoderma rubellum",
-   "current_zhtw": "紅斑棘皮菌",
-   "current_zhcn": "红斑棘皮菌",
-   "img": "Echinoderma_rubellum_1_CC BY-NC_陳雅芬.jpg"
-  },
-  {
-   "name": "Lepiota flavocarpa",
-   "zhtw": "金黃環柄菇",
-   "zhcn": "金黄环柄菇",
-   "img": "Lepiota_flavocarpa_099583e0-9e1e-109f-808e-274c0e263560_1.jpg"
+   "name": "Lepiota atrodisca",
+   "zhtw": "黑斑環柄菇",
+   "zhcn": "黑斑环柄菇",
+   "img": "Lepiota_atrodisca_204f2450-0d01-11ee-a694-697a48ce98b8_1.jpg"
   },
   {
    "name": "Lepiota atrosquamulosa",
@@ -56,31 +29,106 @@
    "img": "Lepiota_atrosquamulosa_1_CC BY-NC_James Ho.jpg"
   },
   {
+   "name": "Lepiota bengalensis",
+   "zhtw": "孟加拉環柄菇",
+   "zhcn": "孟加拉环柄菇",
+   "img": "Lepiota_bengalensis_1_CC BY-NC_黃雪茹.jpg"
+  },
+  {
+   "name": "Lepiota brunneoincarnata",
+   "zhtw": "肉褐鱗環柄菇",
+   "zhcn": "肉褐鳞环柄菇",
+   "img": "Lepiota_brunneoincarnata_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Lepiota castanea",
+   "zhtw": "栗色環柄菇",
+   "zhcn": "栗色环柄菇",
+   "img": "Lepiota_castanea_3_CC BY-NC.jpg"
+  },
+  {
    "name": "Lepiota clypeolaria",
    "zhtw": "細環柄菇",
    "zhcn": "细环柄菇",
    "img": "Lepiota_clypeolaria_1_CC BY-NC.jpg"
   },
   {
-   "name": "Lepiota aspera",
-   "zhtw": "粗糙環柄菇",
-   "zhcn": "粗糙环柄菇",
-   "current": "Echinoderma asperum",
-   "current_zhtw": "粗糙棘皮菌",
-   "current_zhcn": "粗糙棘皮菌",
-   "img": "Echinoderma_asperum_2_CC BY-NC_陳雅芬.jpg"
+   "name": "Lepiota cristata",
+   "zhtw": "冠環柄菇",
+   "zhcn": "冠环柄菇",
+   "img": "Lepiota_cristata_1_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "name": "Lepiota cygnea",
+   "zhtw": "天鵝色環柄菇",
+   "zhcn": "天鹅色环柄菇",
+   "img": "Lepiota_cygnea_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Lepiota echinacea",
+   "zhtw": "刺錐環柄菇",
+   "zhcn": "刺锥环柄菇",
+   "current": "Echinoderma echinaceum",
+   "current_zhtw": "刺錐棘皮菌",
+   "current_zhcn": "刺锥棘皮菌",
+   "img": "Lepiota_echinacea_86096bb0-194b-11ee-991b-edf287ca7b8d_1.jpg"
+  },
+  {
+   "name": "Lepiota flavocarpa",
+   "zhtw": "金黃環柄菇",
+   "zhcn": "金黄环柄菇",
+   "img": "Lepiota_flavocarpa_099583e0-9e1e-109f-808e-274c0e263560_1.jpg"
+  },
+  {
+   "name": "Lepiota fulvella",
+   "zhtw": "褐蓋環柄菇",
+   "zhcn": "褐盖环柄菇",
+   "img": "Lepiota_fulvella_1_CC BY-NC.jpg"
+  },
+  {
+   "name": "Lepiota fusciceps",
+   "zhtw": "暗褐鱗環柄菇",
+   "zhcn": "暗褐鳞环柄菇",
+   "img": "Lepiota_fusciceps_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Lepiota fuscovinacea",
+   "zhtw": "絨鱗環柄菇",
+   "zhcn": "绒鳞环柄菇",
+   "img": "Lepiota_fuscovinacea_a27c44b0-15bd-11ef-84e1-e3ccbcd5689e_1.jpg"
+  },
+  {
+   "name": "Lepiota griseovirens",
+   "zhtw": "灰綠環柄菇",
+   "zhcn": "灰绿环柄菇",
+   "img": "Lepiota_griseovirens_1_CC BY-NC_CN Chen.jpg"
+  },
+  {
+   "name": "Lepiota magnispora",
+   "zhtw": "梭孢環柄菇",
+   "zhcn": "梭孢环柄菇",
+   "img": "Lepiota_magnispora_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Lepiota praetervisa",
+   "zhtw": "保護色環柄菇",
+   "zhcn": "保护色环柄菇",
+   "img": "Lepiota_praetervisa_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Lepiota rubella",
+   "zhtw": "紅斑鱗環柄菇",
+   "zhcn": "红斑鳞环柄菇",
+   "current": "Echinoderma rubellum",
+   "current_zhtw": "紅斑棘皮菌",
+   "current_zhcn": "红斑棘皮菌",
+   "img": "Echinoderma_rubellum_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Lepiota subincarnata",
    "zhtw": "近肉紅環柄菇",
    "zhcn": "近肉红环柄菇",
    "img": "Lepiota_subincarnata_e5df40b0-01c6-11ee-b4ad-0b07457635a5_1.jpg"
-  },
-  {
-   "name": "Lepiota bengalensis",
-   "zhtw": "孟加拉環柄菇",
-   "zhcn": "孟加拉环柄菇",
-   "img": "Lepiota_bengalensis_1_CC BY-NC_黃雪茹.jpg"
   },
   {
    "name": "Lepiota ventriosospora",
@@ -96,54 +144,6 @@
    "zhtw": "褐黃環柄菇",
    "zhcn": "褐黄环柄菇",
    "img": "Lepiota_xanthophylla_7_CC BY-NC_柯文俊.jpg"
-  },
-  {
-   "name": "Lepiota fulvella",
-   "zhtw": "褐蓋環柄菇",
-   "zhcn": "褐盖环柄菇",
-   "img": "Lepiota_fulvella_1_CC BY-NC.jpg"
-  },
-  {
-   "name": "Lepiota fuscovinacea",
-   "zhtw": "絨鱗環柄菇",
-   "zhcn": "绒鳞环柄菇",
-   "img": "Lepiota_fuscovinacea_a27c44b0-15bd-11ef-84e1-e3ccbcd5689e_1.jpg"
-  },
-  {
-   "name": "Lepiota cygnea",
-   "zhtw": "天鵝色環柄菇",
-   "zhcn": "天鹅色环柄菇",
-   "img": "Lepiota_cygnea_3_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "name": "Lepiota cristata",
-   "zhtw": "冠環柄菇",
-   "zhcn": "冠环柄菇",
-   "img": "Lepiota_cristata_1_CC BY-NC_游永滄.jpg"
-  },
-  {
-   "name": "Lepiota magnispora",
-   "zhtw": "梭孢環柄菇",
-   "zhcn": "梭孢环柄菇",
-   "img": "Lepiota_magnispora_1_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "name": "Lepiota griseovirens",
-   "zhtw": "灰綠環柄菇",
-   "zhcn": "灰绿环柄菇",
-   "img": "Lepiota_griseovirens_1_CC BY-NC_CN Chen.jpg"
-  },
-  {
-   "name": "Lepiota atrodisca",
-   "zhtw": "黑斑環柄菇",
-   "zhcn": "黑斑环柄菇",
-   "img": "Lepiota_atrodisca_204f2450-0d01-11ee-a694-697a48ce98b8_1.jpg"
-  },
-  {
-   "name": "Lepiota praetervisa",
-   "zhtw": "保護色環柄菇",
-   "zhcn": "保护色环柄菇",
-   "img": "Lepiota_praetervisa_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

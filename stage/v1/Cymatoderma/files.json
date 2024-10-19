@@ -2,19 +2,19 @@
  "name": "Cymatoderma",
  "zhtw": "波邊革菌屬",
  "zhcn": "波边革菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Cymatoderma elegans",
-   "zhtw": "優雅波邊革菌",
-   "zhcn": "优雅波边革菌",
-   "img": "Cymatoderma_elegans_16_CC BY-NC_Hannah Wang.jpg"
-  },
   {
    "name": "Cymatoderma dendriticum",
    "zhtw": "樹枝狀波邊革菌",
    "zhcn": "树枝状波边革菌",
    "img": "Cymatoderma_dendriticum_5e4fc0d0-cfa2-11ed-833a-23161f97dfa7_1.jpg"
+  },
+  {
+   "name": "Cymatoderma elegans",
+   "zhtw": "優雅波邊革菌",
+   "zhcn": "优雅波边革菌",
+   "img": "Cymatoderma_elegans_16_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Cymatoderma lamellatum",

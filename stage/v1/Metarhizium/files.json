@@ -2,8 +2,14 @@
  "name": "Metarhizium",
  "zhtw": "黑僵菌屬",
  "zhcn": "黑僵菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
+  {
+   "name": "Metarhizium anisopliae",
+   "zhtw": "黑僵菌",
+   "zhcn": "黑僵菌",
+   "img": "Metarhizium_anisopliae_3_CC BY-NC_劉小橙.jpg"
+  },
   {
    "name": "Metarhizium cylindrosporum",
    "zhtw": "柱孢黑僵菌",
@@ -18,12 +24,6 @@
    "current_zhtw": "草薙小林蟲草",
    "current_zhcn": "草薙小林虫草",
    "img": "Yosiokobayasia_kusanaginensis_6_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "name": "Metarhizium anisopliae",
-   "zhtw": "黑僵菌",
-   "zhcn": "黑僵菌",
-   "img": "Metarhizium_anisopliae_3_CC BY-NC_劉小橙.jpg"
   }
  ]
 }

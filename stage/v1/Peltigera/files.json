@@ -2,14 +2,8 @@
  "name": "Peltigera",
  "zhtw": "地卷屬",
  "zhcn": "地卷属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Peltigera praetextata",
-   "zhtw": "裂芽地卷",
-   "zhcn": "裂芽地卷",
-   "img": "Peltigera_praetextata_8252e6e0-e557-11ed-8bcd-a11d18124801_1.jpg"
-  },
   {
    "name": "Peltigera aphthosa",
    "zhtw": "綠皮地卷",
@@ -23,10 +17,16 @@
    "img": "Peltigera_canina_52e010b0-b6a1-11ee-b1a5-c171ec55f155_1.jpg"
   },
   {
-   "name": "Peltigera neopolydactyla",
-   "zhtw": "長根地卷",
-   "zhcn": "长根地卷",
-   "img": "Peltigera_neopolydactyla_1_CC BY-NC_陳麗紅.jpg"
+   "name": "Peltigera didactyla",
+   "zhtw": "分指地卷",
+   "zhcn": "分指地卷",
+   "img": "Peltigera_didactyla_96443490-c8a7-11ee-a062-0d722d5e499b_1.jpg"
+  },
+  {
+   "name": "Peltigera dilacerata",
+   "zhtw": "裂邊地卷",
+   "zhcn": "裂边地卷",
+   "img": "Peltigera_dilacerata_0c5601a0-a25f-11ee-8fc8-25519bbf86a8_1.jpg"
   },
   {
    "name": "Peltigera hymenina",
@@ -35,22 +35,22 @@
    "img": "Peltigera_hymenina_1_CC BY-NC_陳麗紅.jpg"
   },
   {
-   "name": "Peltigera didactyla",
-   "zhtw": "分指地卷",
-   "zhcn": "分指地卷",
-   "img": "Peltigera_didactyla_96443490-c8a7-11ee-a062-0d722d5e499b_1.jpg"
-  },
-  {
    "name": "Peltigera membranacea",
    "zhtw": "膜地卷",
    "zhcn": "膜地卷",
    "img": "Peltigera_membranacea_7_CC BY-NC_柯文俊.jpg"
   },
   {
-   "name": "Peltigera dilacerata",
-   "zhtw": "裂邊地卷",
-   "zhcn": "裂边地卷",
-   "img": "Peltigera_dilacerata_0c5601a0-a25f-11ee-8fc8-25519bbf86a8_1.jpg"
+   "name": "Peltigera neopolydactyla",
+   "zhtw": "長根地卷",
+   "zhcn": "长根地卷",
+   "img": "Peltigera_neopolydactyla_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Peltigera praetextata",
+   "zhtw": "裂芽地卷",
+   "zhcn": "裂芽地卷",
+   "img": "Peltigera_praetextata_8252e6e0-e557-11ed-8bcd-a11d18124801_1.jpg"
   }
  ]
 }

@@ -2,19 +2,19 @@
  "name": "Diorygma",
  "zhtw": "霜盤衣屬",
  "zhcn": "霜盘衣属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Diorygma pruinosum",
-   "zhtw": "粉霜盤衣",
-   "zhcn": "粉霜盘衣",
-   "img": "Diorygma_pruinosum_69f6e7b0-c592-11ee-bf24-d54958ee838a_1.jpg"
-  },
   {
    "name": "Diorygma hieroglyphicum",
    "zhtw": "象形霜盤衣",
    "zhcn": "象形霜盘衣",
    "img": "Diorygma_hieroglyphicum_ec5a2d70-c97a-11ee-80e9-551a24c2403c_1.jpg"
+  },
+  {
+   "name": "Diorygma pruinosum",
+   "zhtw": "粉霜盤衣",
+   "zhcn": "粉霜盘衣",
+   "img": "Diorygma_pruinosum_69f6e7b0-c592-11ee-bf24-d54958ee838a_1.jpg"
   }
  ]
 }

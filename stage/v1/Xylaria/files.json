@@ -2,7 +2,7 @@
  "name": "Xylaria",
  "zhtw": "炭角菌屬",
  "zhcn": "炭角菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
    "name": "Xylaria aff. grammica",
@@ -11,10 +11,40 @@
    "img": "Xylaria_aff. grammica_1_CC BY-NC_陳麗紅.jpg"
   },
   {
+   "name": "Xylaria alboareolata",
+   "zhtw": "白網目炭角菌",
+   "zhcn": "白网目炭角菌",
+   "img": "Xylaria_alboareolata_583e2720-fc68-11ed-abc7-f9454b59ce26_3.jpg"
+  },
+  {
+   "name": "Xylaria apiculata",
+   "zhtw": "銳頂炭角菌",
+   "zhcn": "锐顶炭角菌",
+   "img": "Xylaria_apiculata_62ddbf80-b4ea-11ed-a294-0bdd313c72f4_1.jpg"
+  },
+  {
+   "name": "Xylaria bambusicola",
+   "zhtw": "竹生炭角菌",
+   "zhcn": "竹生炭角菌",
+   "img": "Xylaria_bambusicola_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Xylaria cf. badia",
+   "zhtw": "疑似暗棕炭角菌",
+   "zhcn": "疑似暗棕炭角菌",
+   "img": "Xylaria_cf. badia_61ce1f20-1ffd-11ef-b0e1-cf86e41e41e5_1.jpg"
+  },
+  {
    "name": "Xylaria chiuyuanii",
    "zhtw": "秋源炭角菌",
    "zhcn": "秋源炭角菌",
    "img": "Xylaria_chiuyuanii_d67341e0-271c-11ef-afc9-953797a50ffb_1.jpg"
+  },
+  {
+   "name": "Xylaria cinerea",
+   "zhtw": "灰炭角菌",
+   "zhcn": "灰炭角菌",
+   "img": "Xylaria_cinerea_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Xylaria cranioides",
@@ -23,10 +53,16 @@
    "img": "Xylaria_cranioides_1_CC BY-NC_陳麗紅.jpg"
   },
   {
-   "name": "Xylaria terricola",
-   "zhtw": "土生炭角菌",
-   "zhcn": "土生炭角菌",
-   "img": "Xylaria_terricola_1_CC BY-NC_柯文俊.jpg"
+   "name": "Xylaria crozonensis",
+   "zhtw": "克羅炭角菌",
+   "zhcn": "克罗炭角菌",
+   "img": "Xylaria_crozonensis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Xylaria cubensis",
+   "zhtw": "古巴炭角菌",
+   "zhcn": "古巴炭角菌",
+   "img": "Xylaria_cubensis_d4849140-d8fc-11ee-b3e4-81c0f0adf5c3_1.jpg"
   },
   {
    "name": "Xylaria curta",
@@ -35,10 +71,28 @@
    "img": "Xylaria_curta_1_CC BY-NC_陳雅芬.jpg"
   },
   {
-   "name": "Xylaria globosa",
-   "zhtw": "球狀炭角菌",
-   "zhcn": "球状炭角菌",
-   "img": "Xylaria_globosa_748bd430-d1da-11ed-8743-b1a71fdc3fb5_1.jpg"
+   "name": "Xylaria escharoidea",
+   "zhtw": "芽孔炭角菌",
+   "zhcn": "芽孔炭角菌",
+   "img": "Xylaria_melanaxis_1_CC BY-NC.jpg"
+  },
+  {
+   "name": "Xylaria filiformis",
+   "zhtw": "絨座炭角菌",
+   "zhcn": "绒座炭角菌",
+   "img": "Xylaria_filiformis_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Xylaria fissilis",
+   "zhtw": "劈裂炭角菌",
+   "zhcn": "劈裂炭角菌",
+   "img": "Xylaria_fissilis_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Xylaria flabelliformis",
+   "zhtw": "扇形炭角菌",
+   "zhcn": "扇形炭角菌",
+   "img": "Xylocoremium_flabelliforme_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Xylaria furcata",
@@ -53,10 +107,16 @@
    "img": "Xylaria_furcatula_1694c150-c358-11ee-b4e8-d94dacab0efb_1.jpg"
   },
   {
-   "name": "Xylaria escharoidea",
-   "zhtw": "芽孔炭角菌",
-   "zhcn": "芽孔炭角菌",
-   "img": "Xylaria_melanaxis_1_CC BY-NC.jpg"
+   "name": "Xylaria globosa",
+   "zhtw": "球狀炭角菌",
+   "zhcn": "球状炭角菌",
+   "img": "Xylaria_globosa_748bd430-d1da-11ed-8743-b1a71fdc3fb5_1.jpg"
+  },
+  {
+   "name": "Xylaria hypoxylon",
+   "zhtw": "鹿角炭角菌",
+   "zhcn": "鹿角炭角菌",
+   "img": "Xylaria_hypoxylon_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Xylaria intraflava",
@@ -71,36 +131,6 @@
    "img": "Xylaria_liquidambaris_5ff66f90-1b34-11ef-a4e3-3705c03140d8_2.jpg"
   },
   {
-   "name": "Xylaria tentaculata",
-   "zhtw": "觸手炭角菌",
-   "zhcn": "触手炭角菌",
-   "img": "Xylaria_tentaculata_2_CC BY-NC.jpg"
-  },
-  {
-   "name": "Xylaria hypoxylon",
-   "zhtw": "鹿角炭角菌",
-   "zhcn": "鹿角炭角菌",
-   "img": "Xylaria_hypoxylon_1_CC BY-NC_陳雅芬.jpg"
-  },
-  {
-   "name": "Xylaria sp.1",
-   "zhtw": "小葉欖仁炭角菌",
-   "zhcn": "小叶榄仁炭角菌",
-   "img": "Xylaria_carpophila_4_CC BY-NC_游永滄.jpg"
-  },
-  {
-   "name": "Xylaria fissilis",
-   "zhtw": "劈裂炭角菌",
-   "zhcn": "劈裂炭角菌",
-   "img": "Xylaria_fissilis_1_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "name": "Xylaria cf. badia",
-   "zhtw": "疑似暗棕炭角菌",
-   "zhcn": "疑似暗棕炭角菌",
-   "img": "Xylaria_cf. badia_61ce1f20-1ffd-11ef-b0e1-cf86e41e41e5_1.jpg"
-  },
-  {
    "name": "Xylaria melanaxis",
    "zhtw": "黑軸炭角菌",
    "zhcn": "黑轴炭角菌",
@@ -110,28 +140,10 @@
    "img": "Xylaria_melanaxis_1_CC BY-NC.jpg"
   },
   {
-   "name": "Xylaria telfairii",
-   "zhtw": "泰菲爾氏炭角菌",
-   "zhcn": "泰菲尔氏炭角菌",
-   "img": "Xylaria_telfairii_44a1d560-ee7e-11ed-a25d-cf74e0265cd7_3.jpg"
-  },
-  {
-   "name": "Xylaria cubensis",
-   "zhtw": "古巴炭角菌",
-   "zhcn": "古巴炭角菌",
-   "img": "Xylaria_cubensis_d4849140-d8fc-11ee-b3e4-81c0f0adf5c3_1.jpg"
-  },
-  {
-   "name": "Xylaria crozonensis",
-   "zhtw": "克羅炭角菌",
-   "zhcn": "克罗炭角菌",
-   "img": "Xylaria_crozonensis_1_CC BY-NC_陳雅芬.jpg"
-  },
-  {
-   "name": "Xylaria alboareolata",
-   "zhtw": "白網目炭角菌",
-   "zhcn": "白网目炭角菌",
-   "img": "Xylaria_alboareolata_583e2720-fc68-11ed-abc7-f9454b59ce26_3.jpg"
+   "name": "Xylaria nigripes",
+   "zhtw": "黑柄炭角菌",
+   "zhcn": "黑柄炭角菌",
+   "img": "Xylaria_nigripes_4_CC BY-NC_陳啟仁.jpg"
   },
   {
    "name": "Xylaria obovata",
@@ -146,40 +158,28 @@
    "img": "Xylaria_polymorpha_f2d71ff0-0120-11ee-ab4f-57eaa4cf1000_4.jpg"
   },
   {
-   "name": "Xylaria filiformis",
-   "zhtw": "絨座炭角菌",
-   "zhcn": "绒座炭角菌",
-   "img": "Xylaria_filiformis_3_CC BY-NC_Sunny Wang.jpg"
+   "name": "Xylaria sp.1",
+   "zhtw": "小葉欖仁炭角菌",
+   "zhcn": "小叶榄仁炭角菌",
+   "img": "Xylaria_carpophila_4_CC BY-NC_游永滄.jpg"
   },
   {
-   "name": "Xylaria flabelliformis",
-   "zhtw": "扇形炭角菌",
-   "zhcn": "扇形炭角菌",
-   "img": "Xylocoremium_flabelliforme_1_CC BY-NC_Hannah Wang.jpg"
+   "name": "Xylaria telfairii",
+   "zhtw": "泰菲爾氏炭角菌",
+   "zhcn": "泰菲尔氏炭角菌",
+   "img": "Xylaria_telfairii_44a1d560-ee7e-11ed-a25d-cf74e0265cd7_3.jpg"
   },
   {
-   "name": "Xylaria bambusicola",
-   "zhtw": "竹生炭角菌",
-   "zhcn": "竹生炭角菌",
-   "img": "Xylaria_bambusicola_1_CC BY-NC_陳雅芬.jpg"
+   "name": "Xylaria tentaculata",
+   "zhtw": "觸手炭角菌",
+   "zhcn": "触手炭角菌",
+   "img": "Xylaria_tentaculata_2_CC BY-NC.jpg"
   },
   {
-   "name": "Xylaria nigripes",
-   "zhtw": "黑柄炭角菌",
-   "zhcn": "黑柄炭角菌",
-   "img": "Xylaria_nigripes_4_CC BY-NC_陳啟仁.jpg"
-  },
-  {
-   "name": "Xylaria apiculata",
-   "zhtw": "銳頂炭角菌",
-   "zhcn": "锐顶炭角菌",
-   "img": "Xylaria_apiculata_62ddbf80-b4ea-11ed-a294-0bdd313c72f4_1.jpg"
-  },
-  {
-   "name": "Xylaria cinerea",
-   "zhtw": "灰炭角菌",
-   "zhcn": "灰炭角菌",
-   "img": "Xylaria_cinerea_1_CC BY-NC_陳麗紅.jpg"
+   "name": "Xylaria terricola",
+   "zhtw": "土生炭角菌",
+   "zhcn": "土生炭角菌",
+   "img": "Xylaria_terricola_1_CC BY-NC_柯文俊.jpg"
   }
  ]
 }

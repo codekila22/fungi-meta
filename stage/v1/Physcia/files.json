@@ -2,8 +2,14 @@
  "name": "Physcia",
  "zhtw": "蜈蚣衣屬",
  "zhcn": "蜈蚣衣属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
+  {
+   "name": "Physcia aff. aipolia",
+   "zhtw": "斑面蜈蚣衣的相似種",
+   "zhcn": "斑面蜈蚣衣的相似种",
+   "img": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_1.jpg"
+  },
   {
    "name": "Physcia atrostriata",
    "zhtw": "黑紋蜈蚣衣",
@@ -21,12 +27,6 @@
    "zhtw": "粉芽蜈蚣衣",
    "zhcn": "粉芽蜈蚣衣",
    "img": "Physcia_sorediosa_1_CC BY-NC_江志緯.jpg"
-  },
-  {
-   "name": "Physcia aff. aipolia",
-   "zhtw": "斑面蜈蚣衣的相似種",
-   "zhcn": "斑面蜈蚣衣的相似种",
-   "img": "Physcia_aff. aipolia_d25f9df0-b698-11ee-88d5-d9ca47f1139b_1.jpg"
   }
  ]
 }

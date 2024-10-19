@@ -2,14 +2,8 @@
  "name": "Gyroporus",
  "zhtw": "圓孔牛肝菌屬",
  "zhcn": "圆孔牛肝菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Gyroporus castaneus",
-   "zhtw": "栗樹圓孔牛肝菌",
-   "zhcn": "栗树圆孔牛肝菌",
-   "img": "Gyroporus_castaneus_1_CC BY-NC_Song Showlin.jpg"
-  },
   {
    "name": "Gyroporus ballouii",
    "zhtw": "黃蓋圓孔牛肝菌",
@@ -18,6 +12,12 @@
    "current_zhtw": "黃蓋粉孢牛肝菌",
    "current_zhcn": "黄盖粉孢牛肝菌",
    "img": "Gyroporus_ballouii_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Gyroporus castaneus",
+   "zhtw": "栗樹圓孔牛肝菌",
+   "zhcn": "栗树圆孔牛肝菌",
+   "img": "Gyroporus_castaneus_1_CC BY-NC_Song Showlin.jpg"
   },
   {
    "name": "Gyroporus longicystidiatus",

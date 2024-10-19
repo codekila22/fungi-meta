@@ -2,14 +2,8 @@
  "name": "Pyrenula",
  "zhtw": "小核衣屬",
  "zhcn": "小核衣属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Pyrenula cf. pseudobufonia",
-   "zhtw": "疑似黑突小核衣",
-   "zhcn": "疑似黑突小核衣",
-   "img": "Pyrenula_cf. pseudobufonia_1_CC BY-NC_陳雅芬.jpg"
-  },
   {
    "name": "Pyrenula  cf. neglecta",
    "zhtw": "疑似黑突小核衣",
@@ -17,6 +11,12 @@
    "current": "Pyrenula cf. pseudobufonia",
    "current_zhtw": "疑似黑突小核衣",
    "current_zhcn": "疑似黑突小核衣",
+   "img": "Pyrenula_cf. pseudobufonia_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Pyrenula cf. pseudobufonia",
+   "zhtw": "疑似黑突小核衣",
+   "zhcn": "疑似黑突小核衣",
    "img": "Pyrenula_cf. pseudobufonia_1_CC BY-NC_陳雅芬.jpg"
   },
   {

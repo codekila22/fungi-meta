@@ -2,19 +2,19 @@
  "name": "Collybiopsis",
  "zhtw": "擬金錢菇屬",
  "zhcn": "拟金钱菇属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Collybiopsis quercophila",
-   "zhtw": "櫟生擬金錢菇",
-   "zhcn": "栎生拟金钱菇",
-   "img": "Collybiopsis_quercophila_1_CC BY-NC_陳雅芬.jpg"
-  },
   {
    "name": "Collybiopsis luxurians",
    "zhtw": "華麗擬金錢菇",
    "zhcn": "华丽拟金钱菇",
    "img": "Collybiopsis_luxurians_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Collybiopsis quercophila",
+   "zhtw": "櫟生擬金錢菇",
+   "zhcn": "栎生拟金钱菇",
+   "img": "Collybiopsis_quercophila_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

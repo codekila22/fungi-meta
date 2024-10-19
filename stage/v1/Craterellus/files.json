@@ -2,31 +2,13 @@
  "name": "Craterellus",
  "zhtw": "喇叭菌屬",
  "zhcn": "喇叭菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
-   "name": "Craterellus minor",
-   "zhtw": "小喇叭菌",
-   "zhcn": "小喇叭菌",
-   "img": "Cantharellus_luteocomus_1_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "name": "Craterellus undulatus",
-   "zhtw": "波喇叭菌",
-   "zhcn": "波喇叭菌",
-   "img": "Craterellus_undulatus_1_CC BY-NC_陳雅芬.jpg"
-  },
-  {
-   "name": "Craterellus tubaeformis",
-   "zhtw": "管形喇叭菌",
-   "zhcn": "管形喇叭菌",
-   "img": "Cantharellus_tubaeformis_12_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "name": "Craterellus cornucopioides",
-   "zhtw": "灰黑喇叭菌",
-   "zhcn": "灰黑喇叭菌",
-   "img": "Craterellus_cornucopioides_1_CC BY-NC_James Ho.jpg"
+   "name": "Craterellus aureus",
+   "zhtw": "金黃喇叭菌",
+   "zhcn": "金黄喇叭菌",
+   "img": "Craterellus_aureus_1_CC BY-NC_Chia Te Lin.jpg"
   },
   {
    "name": "Craterellus cinereus",
@@ -38,10 +20,28 @@
    "img": "Cantharellus_cinereus_1_CC BY-NC_James Ho.jpg"
   },
   {
-   "name": "Craterellus aureus",
-   "zhtw": "金黃喇叭菌",
-   "zhcn": "金黄喇叭菌",
-   "img": "Craterellus_aureus_1_CC BY-NC_Chia Te Lin.jpg"
+   "name": "Craterellus cornucopioides",
+   "zhtw": "灰黑喇叭菌",
+   "zhcn": "灰黑喇叭菌",
+   "img": "Craterellus_cornucopioides_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Craterellus minor",
+   "zhtw": "小喇叭菌",
+   "zhcn": "小喇叭菌",
+   "img": "Cantharellus_luteocomus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Craterellus tubaeformis",
+   "zhtw": "管形喇叭菌",
+   "zhcn": "管形喇叭菌",
+   "img": "Cantharellus_tubaeformis_12_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Craterellus undulatus",
+   "zhtw": "波喇叭菌",
+   "zhcn": "波喇叭菌",
+   "img": "Craterellus_undulatus_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

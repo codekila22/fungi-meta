@@ -2,8 +2,14 @@
  "name": "Chaetocalathus",
  "zhtw": "毛筐菌屬",
  "zhcn": "毛筐菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
+  {
+   "name": "Chaetocalathus aff. craterellus",
+   "zhtw": "喇叭毛筐菌之相似種",
+   "zhcn": "喇叭毛筐菌之相似种",
+   "img": "Chaetocalathus_aff. craterellus_1_CC BY-NC_陳麗紅.jpg"
+  },
   {
    "name": "Chaetocalathus cocciformis",
    "zhtw": "種形毛筐菌",
@@ -15,12 +21,6 @@
    "zhtw": "喇叭毛筐菌",
    "zhcn": "喇叭毛筐菌",
    "img": "Chaetocalathus_craterellus_1_CC BY-NC_江志緯.jpg"
-  },
-  {
-   "name": "Chaetocalathus aff. craterellus",
-   "zhtw": "喇叭毛筐菌之相似種",
-   "zhcn": "喇叭毛筐菌之相似种",
-   "img": "Chaetocalathus_aff. craterellus_1_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

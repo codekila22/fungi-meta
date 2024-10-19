@@ -2,17 +2,8 @@
  "name": "Lepista",
  "zhtw": "香蘑屬",
  "zhcn": "香蘑属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Lepista sordida",
-   "zhtw": "花臉香蘑",
-   "zhcn": "花脸香蘑",
-   "current": "Collybia sordida",
-   "current_zhtw": "花臉金錢菇",
-   "current_zhcn": "花脸金钱菇",
-   "img": "Lepista_sordida_1_CC BY-NC_James Ho.jpg"
-  },
   {
    "name": "Lepista irina",
    "zhtw": "肉色香蘑",
@@ -24,6 +15,15 @@
    "zhtw": "紫丁香蘑",
    "zhcn": "紫丁香蘑",
    "img": "Lepista_nuda_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Lepista sordida",
+   "zhtw": "花臉香蘑",
+   "zhcn": "花脸香蘑",
+   "current": "Collybia sordida",
+   "current_zhtw": "花臉金錢菇",
+   "current_zhcn": "花脸金钱菇",
+   "img": "Lepista_sordida_1_CC BY-NC_James Ho.jpg"
   }
  ]
 }

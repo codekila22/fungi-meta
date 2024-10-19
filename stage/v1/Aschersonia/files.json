@@ -2,19 +2,19 @@
  "name": "Aschersonia",
  "zhtw": "座殼孢屬",
  "zhcn": "座壳孢属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
-  {
-   "name": "Aschersonia cf. aleyrodis",
-   "zhtw": "疑似粉虱座殼孢",
-   "zhcn": "疑似粉虱座壳孢",
-   "img": "Aschersonia_cf. aleyrodis_1_CC BY-NC_陳雅芬.jpg"
-  },
   {
    "name": "Aschersonia badia",
    "zhtw": "集座殼孢",
    "zhcn": "集座壳孢",
    "img": "Aschersonia_badia_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Aschersonia cf. aleyrodis",
+   "zhtw": "疑似粉虱座殼孢",
+   "zhcn": "疑似粉虱座壳孢",
+   "img": "Aschersonia_cf. aleyrodis_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Aschersonia samoensis",

@@ -2,7 +2,7 @@
  "name": "Rhytidhysteron",
  "zhtw": "裂菌屬",
  "zhcn": "裂菌属",
- "timestamp": "20241019-102605",
+ "timestamp": "20241019-142817",
  "list": [
   {
    "name": "Rhytidhysteron columbiense",
@@ -11,16 +11,16 @@
    "img": "Rhytidhysteron_columbiense_563866e0-c935-11ed-8bec-e174b43faf0c_1.jpg"
   },
   {
-   "name": "Rhytidhysteron neorufulum",
-   "zhtw": "新紅皺裂菌",
-   "zhcn": "新红皱裂菌",
-   "img": "Rhytidhysteron_neorufulum_1_CC BY-NC_陳雅芬.jpg"
-  },
-  {
    "name": "Rhytidhysteron hysterinum",
    "zhtw": "縱縫裂菌",
    "zhcn": "纵缝裂菌",
    "img": "Rhytidhysteron_hysterinum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Rhytidhysteron neorufulum",
+   "zhtw": "新紅皺裂菌",
+   "zhcn": "新红皱裂菌",
+   "img": "Rhytidhysteron_neorufulum_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Rhytidhysteron rufulum",

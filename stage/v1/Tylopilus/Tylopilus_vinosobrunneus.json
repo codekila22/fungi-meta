@@ -14,6 +14,10 @@
  "url": "2920663394710739",
  "images": [
   {
+   "author": "向高世",
+   "image_src": "Tylopilus_vinosobrunneus_ca9bfcf0-8c1f-11ef-bd72-f3b5de8463fd_8.jpg"
+  },
+  {
    "author": "徐秀團",
    "image_src": "Tylopilus_vinosobrunneus_07f620e0-6465-11ef-9759-178dd428cc82_4.jpg"
   },
@@ -108,10 +112,6 @@
   {
    "author": "向高世",
    "image_src": "Tylopilus_vinosobrunneus_ca9bfcf0-8c1f-11ef-bd72-f3b5de8463fd_7.jpg"
-  },
-  {
-   "author": "向高世",
-   "image_src": "Tylopilus_vinosobrunneus_ca9bfcf0-8c1f-11ef-bd72-f3b5de8463fd_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -163,5 +163,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155818269/thumb.jpg"
   }
  ],
- "timestamp": "20241019-102605"
+ "timestamp": "20241019-142817"
 }
