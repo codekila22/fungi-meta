@@ -2,25 +2,19 @@
  "name": "Physalacria",
  "zhtw": "膨瑚菌屬",
  "zhcn": "膨瑚菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Physalacria australiensis",
-   "zhtw": "澳洲膨瑚菌",
-   "zhcn": "澳洲膨瑚菌",
-   "img": "Physalacria_australiensis_3_CC BY-NC_蛾米.jpg"
-  },
-  {
-   "name": "Physalacria stilboidea",
-   "zhtw": "類束梗孢膨瑚菌",
-   "zhcn": "类束梗孢膨瑚菌",
-   "img": "Physalacria_stilboidea_5_CC BY-NC_陳麗紅.jpg"
-  },
   {
    "name": "Physalacria aff. lacrymispora",
    "zhtw": "淚孢膨瑚菌的相似種",
    "zhcn": "泪孢膨瑚菌的相似种",
    "img": "Physalacria_aff. lacrymispora_e3b6f3f0-1b01-11ef-a28e-8763fa9cd174_1.jpg"
+  },
+  {
+   "name": "Physalacria australiensis",
+   "zhtw": "澳洲膨瑚菌",
+   "zhcn": "澳洲膨瑚菌",
+   "img": "Physalacria_australiensis_3_CC BY-NC_蛾米.jpg"
   },
   {
    "name": "Physalacria inflata",
@@ -45,6 +39,12 @@
    "zhtw": "皺面膨瑚菌(暫名)",
    "zhcn": "皱面膨瑚菌(暂名)",
    "img": "Physalacria_sp.1_3472a080-2702-11ef-a4b0-73fe72ac4b51_1.jpg"
+  },
+  {
+   "name": "Physalacria stilboidea",
+   "zhtw": "類束梗孢膨瑚菌",
+   "zhcn": "类束梗孢膨瑚菌",
+   "img": "Physalacria_stilboidea_5_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

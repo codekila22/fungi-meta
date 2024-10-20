@@ -2,7 +2,7 @@
  "name": "Lysurus",
  "zhtw": "散尾鬼筆屬",
  "zhcn": "散尾鬼笔属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
    "name": "Lysurus gardneri",
@@ -11,16 +11,16 @@
    "img": "Lysurus_gardneri_1_CC BY-NC_Song Showlin.jpg"
   },
   {
-   "name": "Lysurus periphragmoides",
-   "zhtw": "圍籬散尾鬼筆",
-   "zhcn": "围篱散尾鬼笔",
-   "img": "Simblum_periphragmoides_4_CC BY-NC_黃春珠.jpg"
-  },
-  {
    "name": "Lysurus mokusin",
    "zhtw": "五稜散尾鬼筆",
    "zhcn": "五棱散尾鬼笔",
    "img": "Lysurus_mokusin_314538d0-2ca9-11ef-8d61-e75cb7fbbd54_4.jpg"
+  },
+  {
+   "name": "Lysurus periphragmoides",
+   "zhtw": "圍籬散尾鬼筆",
+   "zhcn": "围篱散尾鬼笔",
+   "img": "Simblum_periphragmoides_4_CC BY-NC_黃春珠.jpg"
   }
  ]
 }

@@ -2,14 +2,8 @@
  "name": "Akanthomyces",
  "zhtw": "亞肯士孢菌屬",
  "zhcn": "亚肯士孢菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Akanthomyces sp.1",
-   "zhtw": "圓點棍亞肯士孢菌",
-   "zhcn": "圆点棍亚肯士孢菌",
-   "img": "Akanthomyces_sp.1_3_CC BY-NC_陳金雪.jpg"
-  },
   {
    "name": "Akanthomyces aculeatus",
    "zhtw": "針突亞肯士孢菌",
@@ -21,6 +15,12 @@
    "zhtw": "蜘蛛亞肯士孢菌",
    "zhcn": "蜘蛛亚肯士孢菌",
    "img": "Akanthomyces_araneogenum_dfec2300-d0eb-11ed-8a7b-9f9536ea366f_1.jpg"
+  },
+  {
+   "name": "Akanthomyces sp.1",
+   "zhtw": "圓點棍亞肯士孢菌",
+   "zhcn": "圆点棍亚肯士孢菌",
+   "img": "Akanthomyces_sp.1_3_CC BY-NC_陳金雪.jpg"
   },
   {
    "name": "Akanthomyces sp.2",

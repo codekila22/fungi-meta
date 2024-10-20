@@ -2,19 +2,19 @@
  "name": "Cortinarius",
  "zhtw": "絲膜菌屬",
  "zhcn": "丝膜菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
-   "name": "Cortinarius elatior",
-   "zhtw": "高絲膜菌",
-   "zhcn": "高丝膜菌",
-   "img": "Cortinarius_elatior_2_CC BY-NC.jpg"
+   "name": "Cortinarius alboviolaceus",
+   "zhtw": "白紫絲膜菌",
+   "zhcn": "白紫丝膜菌",
+   "img": "Cortinarius_alboviolaceus_1_CC BY-NC_Sunny Wang.jpg"
   },
   {
-   "name": "Cortinarius traganus",
-   "zhtw": "山羊味絲膜菌",
-   "zhcn": "山羊味丝膜菌",
-   "img": "Cortinarius_traganus_4_CC BY-NC_柯文俊.jpg"
+   "name": "Cortinarius anomalus",
+   "zhtw": "煙灰褐絲膜菌",
+   "zhcn": "烟灰褐丝膜菌",
+   "img": "Cortinarius_anomalus_9_CC BY-NC_陳啟仁.jpg"
   },
   {
    "name": "Cortinarius bolaris",
@@ -23,10 +23,58 @@
    "img": "Cortinarius_bolaris_1_CC BY-NC_陳麗紅.jpg"
   },
   {
-   "name": "Cortinarius alboviolaceus",
-   "zhtw": "白紫絲膜菌",
-   "zhcn": "白紫丝膜菌",
-   "img": "Cortinarius_alboviolaceus_1_CC BY-NC_Sunny Wang.jpg"
+   "name": "Cortinarius caperatus",
+   "zhtw": "皺蓋絲膜菌",
+   "zhcn": "皱盖丝膜菌",
+   "img": "Rozites_caperatus_3_CC BY-NC.jpg"
+  },
+  {
+   "name": "Cortinarius cf. obtusus",
+   "zhtw": "疑似淺棕絲膜菌",
+   "zhcn": "疑似浅棕丝膜菌",
+   "img": "Cortinarius_cf. obtusus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Cortinarius cf. orellanus",
+   "zhtw": "疑似奧來絲膜菌",
+   "zhcn": "疑似奥来丝膜菌",
+   "img": "Cortinarius_cinnabarinus_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Cortinarius cinnabarinus",
+   "zhtw": "朱紅絲膜菌",
+   "zhcn": "朱红丝膜菌",
+   "img": "Cortinarius_cinnabarinus_1_CC BY-NC_吳湯姆.jpg"
+  },
+  {
+   "name": "Cortinarius collinitus",
+   "zhtw": "黏液絲膜菌",
+   "zhcn": "黏液丝膜菌",
+   "img": "Cortinarius_collinitus_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Cortinarius elatior",
+   "zhtw": "高絲膜菌",
+   "zhcn": "高丝膜菌",
+   "img": "Cortinarius_elatior_2_CC BY-NC.jpg"
+  },
+  {
+   "name": "Cortinarius iodes",
+   "zhtw": "紫光絲膜菌",
+   "zhcn": "紫光丝膜菌",
+   "img": "Cortinarius_iodes_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Cortinarius occidentalis",
+   "zhtw": "西方絲膜菌",
+   "zhcn": "西方丝膜菌",
+   "img": "Cortinarius_occidentalis_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Cortinarius purpurascens",
+   "zhtw": "紫絲膜菌",
+   "zhcn": "紫丝膜菌",
+   "img": "Cortinarius_purpurascens_a5d16e10-271f-11ef-a198-39d77cbbcca7_1.jpg"
   },
   {
    "name": "Cortinarius salor",
@@ -41,64 +89,16 @@
    "img": "Cortinarius_semisanguineus_86ee02f0-02dc-11ee-8fd6-cd1e70502e97_1.jpg"
   },
   {
-   "name": "Cortinarius iodes",
-   "zhtw": "紫光絲膜菌",
-   "zhcn": "紫光丝膜菌",
-   "img": "Cortinarius_iodes_1_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "name": "Cortinarius collinitus",
-   "zhtw": "黏液絲膜菌",
-   "zhcn": "黏液丝膜菌",
-   "img": "Cortinarius_collinitus_4_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "name": "Cortinarius cf. orellanus",
-   "zhtw": "疑似奧來絲膜菌",
-   "zhcn": "疑似奥来丝膜菌",
-   "img": "Cortinarius_cinnabarinus_3_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "name": "Cortinarius caperatus",
-   "zhtw": "皺蓋絲膜菌",
-   "zhcn": "皱盖丝膜菌",
-   "img": "Rozites_caperatus_3_CC BY-NC.jpg"
-  },
-  {
-   "name": "Cortinarius occidentalis",
-   "zhtw": "西方絲膜菌",
-   "zhcn": "西方丝膜菌",
-   "img": "Cortinarius_occidentalis_1_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "name": "Cortinarius anomalus",
-   "zhtw": "煙灰褐絲膜菌",
-   "zhcn": "烟灰褐丝膜菌",
-   "img": "Cortinarius_anomalus_9_CC BY-NC_陳啟仁.jpg"
+   "name": "Cortinarius traganus",
+   "zhtw": "山羊味絲膜菌",
+   "zhcn": "山羊味丝膜菌",
+   "img": "Cortinarius_traganus_4_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Cortinarius violaceus",
    "zhtw": "紫絨絲膜菌",
    "zhcn": "紫绒丝膜菌",
    "img": "Cortinarius_violaceus_1_CC BY-NC_向高世.jpg"
-  },
-  {
-   "name": "Cortinarius purpurascens",
-   "zhtw": "紫絲膜菌",
-   "zhcn": "紫丝膜菌",
-   "img": "Cortinarius_purpurascens_a5d16e10-271f-11ef-a198-39d77cbbcca7_1.jpg"
-  },
-  {
-   "name": "Cortinarius cinnabarinus",
-   "zhtw": "朱紅絲膜菌",
-   "zhcn": "朱红丝膜菌",
-   "img": "Cortinarius_cinnabarinus_1_CC BY-NC_吳湯姆.jpg"
-  },
-  {
-   "name": "Cortinarius cf. obtusus",
-   "zhtw": "疑似淺棕絲膜菌",
-   "zhcn": "疑似浅棕丝膜菌",
-   "img": "Cortinarius_cf. obtusus_1_CC BY-NC_向高世.jpg"
   }
  ]
 }

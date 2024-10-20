@@ -2,20 +2,8 @@
  "name": "Lenzites",
  "zhtw": "褶孔菌屬",
  "zhcn": "褶孔菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Lenzites elegans",
-   "zhtw": "優美褶孔菌",
-   "zhcn": "优美褶孔菌",
-   "img": "Lenzites_elegans_1_CC BY-NC_向高世.jpg"
-  },
-  {
-   "name": "Lenzites betulina",
-   "zhtw": "樺褶孔菌",
-   "zhcn": "桦褶孔菌",
-   "img": "Lenzites_betulina_8f92ff90-9cc5-11ee-a07b-590952de9c83_1.jpg"
-  },
   {
    "name": "Lenzites acuta",
    "zhtw": "灰蓋褶孔菌",
@@ -24,6 +12,18 @@
    "current_zhtw": "灰蓋革褶菌",
    "current_zhcn": "灰盖革褶菌",
    "img": "Lenzites_acuta_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Lenzites betulina",
+   "zhtw": "樺褶孔菌",
+   "zhcn": "桦褶孔菌",
+   "img": "Lenzites_betulina_8f92ff90-9cc5-11ee-a07b-590952de9c83_1.jpg"
+  },
+  {
+   "name": "Lenzites elegans",
+   "zhtw": "優美褶孔菌",
+   "zhcn": "优美褶孔菌",
+   "img": "Lenzites_elegans_1_CC BY-NC_向高世.jpg"
   }
  ]
 }

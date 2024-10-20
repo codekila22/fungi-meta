@@ -187,6 +187,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,10",
   "StalkLengthRangeValuess": "50,100",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
@@ -196,9 +197,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Entoloma conferendum,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "星孢粉褶菌,,",
+  "la_zhcn": "星孢粉褶菌,,"
  },
  "inaturalist": [
   {
@@ -214,5 +217,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/189639096/thumb.jpeg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241020-155949"
 }

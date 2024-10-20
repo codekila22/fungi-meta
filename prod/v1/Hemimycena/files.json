@@ -2,14 +2,8 @@
  "name": "Hemimycena",
  "zhtw": "半小菇屬",
  "zhcn": "半小菇属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Hemimycena reducta",
-   "zhtw": "減縮半小菇",
-   "zhcn": "减缩半小菇",
-   "img": "Hemimycena_reducta_1_CC BY-NC_陳雅芬.jpg"
-  },
   {
    "name": "Hemimycena hirsuta",
    "zhtw": "硬毛半小菇",
@@ -21,6 +15,12 @@
    "zhtw": "透白半小菇",
    "zhcn": "透白半小菇",
    "img": "Hemimycena_ignobilis_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Hemimycena reducta",
+   "zhtw": "減縮半小菇",
+   "zhcn": "减缩半小菇",
+   "img": "Hemimycena_reducta_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

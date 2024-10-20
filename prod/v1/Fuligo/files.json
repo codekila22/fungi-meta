@@ -2,13 +2,19 @@
  "name": "Fuligo",
  "zhtw": "煤絨黏菌屬",
  "zhcn": "煤绒黏菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
-   "name": "Fuligo septica",
-   "zhtw": "煤絨黏菌",
-   "zhcn": "煤绒黏菌",
-   "img": "Fuligo_septica_3_CC BY-NC_陳雅芬.jpg"
+   "name": "Fuligo aurea",
+   "zhtw": "金黃煤絨黏菌",
+   "zhcn": "金黄煤绒黏菌",
+   "img": "Fuligo_aurea_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Fuligo candida",
+   "zhtw": "白煤絨黏菌",
+   "zhcn": "白煤绒黏菌",
+   "img": "Fuligo_candida_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Fuligo gyrosa",
@@ -23,16 +29,10 @@
    "img": "Fuligo_muscorum_1_CC BY-NC_江志緯.jpg"
   },
   {
-   "name": "Fuligo aurea",
-   "zhtw": "金黃煤絨黏菌",
-   "zhcn": "金黄煤绒黏菌",
-   "img": "Fuligo_aurea_1_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "name": "Fuligo candida",
-   "zhtw": "白煤絨黏菌",
-   "zhcn": "白煤绒黏菌",
-   "img": "Fuligo_candida_1_CC BY-NC_陳雅芬.jpg"
+   "name": "Fuligo septica",
+   "zhtw": "煤絨黏菌",
+   "zhcn": "煤绒黏菌",
+   "img": "Fuligo_septica_3_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

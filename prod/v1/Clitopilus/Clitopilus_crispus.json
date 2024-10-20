@@ -2,7 +2,8 @@
  "genus": "Clitopilus",
  "name": "crispus",
  "date": [
-  "01/01/0001"
+  "06/06/2021,3840115752765494",
+  "05/29/2014,3653399648103773"
  ],
  "names_zhtw": [
   "皺波斜蓋傘"
@@ -33,6 +34,22 @@
   {
    "author": "Jasmine Tan",
    "image_src": "Clitopilus_crispus_3_CC BY-NC_Jasmine Tan.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Clitopilus_crispus_130994f0-8c1d-11ef-bd72-f3b5de8463fd_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Clitopilus_crispus_130994f0-8c1d-11ef-bd72-f3b5de8463fd_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Clitopilus_crispus_130994f0-8c1d-11ef-bd72-f3b5de8463fd_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Clitopilus_crispus_130994f0-8c1d-11ef-bd72-f3b5de8463fd_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -71,7 +88,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "香港與新加坡紀錄。",
+  "Note": "香港與新加坡與台灣皆有紀錄。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -82,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155811771/thumb.jpg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241020-155949"
 }

@@ -2,37 +2,13 @@
  "name": "Diderma",
  "zhtw": "雙皮黏菌屬",
  "zhcn": "双皮黏菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
-   "name": "Diderma floriforme",
-   "zhtw": "花狀雙皮黏菌",
-   "zhcn": "花状双皮黏菌",
-   "img": "Diderma_floriforme_1_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "name": "Diderma platycarpum",
-   "zhtw": "薄雙皮黏菌",
-   "zhcn": "薄双皮黏菌",
-   "img": "Diderma_platycarpum_1ca743e0-627e-11ef-8f99-bf08db8c4040_1.jpg"
-  },
-  {
-   "name": "Diderma spumarioides",
-   "zhtw": "聯壁雙皮黏菌",
-   "zhcn": "联壁双皮黏菌",
-   "img": "Diderma_spumarioides_16a87fe0-0f95-11ef-8c86-f1e177c34dd6_1.jpg"
-  },
-  {
-   "name": "Diderma montanum",
-   "zhtw": "山地雙皮黏菌",
-   "zhcn": "山地双皮黏菌",
-   "img": "Diderma_montanum_1_CC BY-NC_向高世.jpg"
-  },
-  {
-   "name": "Diderma niveum",
-   "zhtw": "雪白雙皮黏菌",
-   "zhcn": "雪白双皮黏菌",
-   "img": "Diderma_niveum_1_CC BY-NC_向高世.jpg"
+   "name": "Diderma aurantiacum",
+   "zhtw": "橙黃雙皮黏菌",
+   "zhcn": "橙黄双皮黏菌",
+   "img": "Diderma_aurantiacum_e98ca7c0-88a7-11ef-90b3-5d8365bfda11_1.jpg"
   },
   {
    "name": "Diderma chondrioderma",
@@ -47,10 +23,10 @@
    "img": "Diderma_effusum_5_CC BY-NC_陳雅芬.jpg"
   },
   {
-   "name": "Diderma sessile",
-   "zhtw": "無柄雙皮黏菌",
-   "zhcn": "无柄双皮黏菌",
-   "img": "Diderma_sessile_1_CC BY-NC_陳雅芬.jpg"
+   "name": "Diderma floriforme",
+   "zhtw": "花狀雙皮黏菌",
+   "zhcn": "花状双皮黏菌",
+   "img": "Diderma_floriforme_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Diderma hemisphaericum",
@@ -59,10 +35,43 @@
    "img": "Diderma_hemisphaericum_459a1480-1a7b-11ef-adfb-efab86dbb1cf_1.jpg"
   },
   {
-   "name": "Diderma aurantiacum",
-   "zhtw": "橙黃雙皮黏菌",
-   "zhcn": "橙黄双皮黏菌",
-   "img": "Diderma_aurantiacum_e98ca7c0-88a7-11ef-90b3-5d8365bfda11_1.jpg"
+   "name": "Diderma montanum",
+   "zhtw": "山地雙皮黏菌",
+   "zhcn": "山地双皮黏菌",
+   "img": "Diderma_montanum_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Diderma niveum",
+   "zhtw": "雪白雙皮黏菌",
+   "zhcn": "雪白双皮黏菌",
+   "img": "Diderma_niveum_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Diderma platycarpum",
+   "zhtw": "薄雙皮黏菌",
+   "zhcn": "薄双皮黏菌",
+   "current": "Diderma saundersii",
+   "current_zhtw": "桑氏雙皮黏菌",
+   "current_zhcn": "桑氏双皮黏菌",
+   "img": "Diderma_platycarpum_1ca743e0-627e-11ef-8f99-bf08db8c4040_1.jpg"
+  },
+  {
+   "name": "Diderma saundersii",
+   "zhtw": "桑氏雙皮黏菌",
+   "zhcn": "桑氏双皮黏菌",
+   "img": "Diderma_platycarpum_1ca743e0-627e-11ef-8f99-bf08db8c4040_1.jpg"
+  },
+  {
+   "name": "Diderma sessile",
+   "zhtw": "無柄雙皮黏菌",
+   "zhcn": "无柄双皮黏菌",
+   "img": "Diderma_sessile_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Diderma spumarioides",
+   "zhtw": "聯壁雙皮黏菌",
+   "zhcn": "联壁双皮黏菌",
+   "img": "Diderma_spumarioides_16a87fe0-0f95-11ef-8c86-f1e177c34dd6_1.jpg"
   }
  ]
 }

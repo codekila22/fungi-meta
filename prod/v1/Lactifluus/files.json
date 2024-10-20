@@ -2,19 +2,19 @@
  "name": "Lactifluus",
  "zhtw": "多汁乳菇屬",
  "zhcn": "多汁乳菇属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Lactifluus piperatus",
-   "zhtw": "白辣乳菇",
-   "zhcn": "白辣乳菇",
-   "img": "Lactarius_piperatus_2_CC BY-NC.jpg"
-  },
   {
    "name": "Lactifluus brunellus",
    "zhtw": "褐絨乳菇(暫名)",
    "zhcn": "褐绒乳菇(暂名)",
    "img": "Lactifluus_brunellus_a6b6fce0-af2f-106d-b1da-ed0d979e6f3b_1.jpg"
+  },
+  {
+   "name": "Lactifluus piperatus",
+   "zhtw": "白辣乳菇",
+   "zhcn": "白辣乳菇",
+   "img": "Lactarius_piperatus_2_CC BY-NC.jpg"
   },
   {
    "name": "Lactifluus volemus",

@@ -2,14 +2,8 @@
  "name": "Tricholomopsis",
  "zhtw": "擬口蘑屬",
  "zhcn": "拟口蘑属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Tricholomopsis decora",
-   "zhtw": "黃擬口蘑",
-   "zhcn": "黄拟口蘑",
-   "img": "Tricholomopsis_decora_10_CC BY-NC_陳啟仁.jpg"
-  },
   {
    "name": "Tricholomopsis aff. sasae",
    "zhtw": "土黃擬口蘑之相似種",
@@ -17,10 +11,16 @@
    "img": "Tricholomopsis_aff. sasae_2_CC BY-NC_邱嫊惠.jpg"
   },
   {
-   "name": "Tricholomopsis flava",
-   "zhtw": "黃色擬口蘑(暫名)",
-   "zhcn": "黄色拟口蘑(暂名)",
-   "img": "Tricholomopsis_flava_994940a0-2701-11ef-86e6-8f9b1ea9e683_1.jpg"
+   "name": "Tricholomopsis bambusina",
+   "zhtw": "竹擬口蘑",
+   "zhcn": "竹拟口蘑",
+   "img": "Tricholomopsis_bambusina_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Tricholomopsis decora",
+   "zhtw": "黃擬口蘑",
+   "zhcn": "黄拟口蘑",
+   "img": "Tricholomopsis_decora_10_CC BY-NC_陳啟仁.jpg"
   },
   {
    "name": "Tricholomopsis flammula",
@@ -29,10 +29,10 @@
    "img": "Tricholomopsis_flammula_5_CC BY-NC_陳雅芬.jpg"
   },
   {
-   "name": "Tricholomopsis rutilans",
-   "zhtw": "赭紅擬口蘑",
-   "zhcn": "赭红拟口蘑",
-   "img": "Tricholomopsis_rutilans_c56210f0-16ee-11ee-8026-311aecdffc31_2.jpg"
+   "name": "Tricholomopsis flava",
+   "zhtw": "黃色擬口蘑(暫名)",
+   "zhcn": "黄色拟口蘑(暂名)",
+   "img": "Tricholomopsis_flava_994940a0-2701-11ef-86e6-8f9b1ea9e683_1.jpg"
   },
   {
    "name": "Tricholomopsis humboldtii",
@@ -41,10 +41,10 @@
    "img": "Tricholomopsis_humboldtii_6e6bfea0-1ff3-11ef-b76b-93de14daee22_1.jpg"
   },
   {
-   "name": "Tricholomopsis bambusina",
-   "zhtw": "竹擬口蘑",
-   "zhcn": "竹拟口蘑",
-   "img": "Tricholomopsis_bambusina_1_CC BY-NC_James Ho.jpg"
+   "name": "Tricholomopsis rutilans",
+   "zhtw": "赭紅擬口蘑",
+   "zhcn": "赭红拟口蘑",
+   "img": "Tricholomopsis_rutilans_c56210f0-16ee-11ee-8026-311aecdffc31_2.jpg"
   }
  ]
 }

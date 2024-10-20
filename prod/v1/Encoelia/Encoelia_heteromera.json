@@ -2,6 +2,7 @@
  "genus": "Encoelia",
  "name": "heteromera",
  "date": [
+  "10/13/2024,8316506401793051",
   "01/09/2024,6844955208948185"
  ],
  "names_zhtw": [
@@ -41,6 +42,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Encoelia_heteromera_4d3cc640-b1f0-11ee-ad4f-ede934e3ff79_8.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Encoelia_heteromera_c39a9310-8b95-11ef-8d51-fbbb1d8dc390_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Encoelia_heteromera_c39a9310-8b95-11ef-8d51-fbbb1d8dc390_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Encoelia_heteromera_c39a9310-8b95-11ef-8d51-fbbb1d8dc390_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Encoelia_heteromera_c39a9310-8b95-11ef-8d51-fbbb1d8dc390_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -90,5 +107,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14407005/thumb.jpeg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241020-155949"
 }

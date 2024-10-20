@@ -2,19 +2,19 @@
  "name": "Colletotrichum",
  "zhtw": "炭疽刺盤孢菌屬",
  "zhcn": "炭疽刺盘孢菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Colletotrichum gloeosporioides",
-   "zhtw": "蘆薈炭疽病",
-   "zhcn": "芦荟炭疽病",
-   "img": "Colletotrichum_gloeosporioides_1_CC BY-NC_江志緯.jpg"
-  },
   {
    "name": "Colletotrichum cordylinicola",
    "zhtw": "朱蕉炭疽刺盤孢菌",
    "zhcn": "朱蕉炭疽刺盘孢菌",
    "img": "Colletotrichum_cordylinicola_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Colletotrichum gloeosporioides",
+   "zhtw": "蘆薈炭疽病",
+   "zhcn": "芦荟炭疽病",
+   "img": "Colletotrichum_gloeosporioides_1_CC BY-NC_江志緯.jpg"
   }
  ]
 }

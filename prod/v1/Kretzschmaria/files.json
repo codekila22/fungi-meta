@@ -2,19 +2,19 @@
  "name": "Kretzschmaria",
  "zhtw": "柄座菌屬",
  "zhcn": "柄座菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Kretzschmaria deusta",
-   "zhtw": "焦色柄座菌",
-   "zhcn": "焦色柄座菌",
-   "img": "Kretzschmaria_deusta_1_CC BY-NC_向高世.jpg"
-  },
   {
    "name": "Kretzschmaria clavus",
    "zhtw": "棍棒柄座菌",
    "zhcn": "棍棒柄座菌",
    "img": "Kretzschmaria_clavus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Kretzschmaria deusta",
+   "zhtw": "焦色柄座菌",
+   "zhcn": "焦色柄座菌",
+   "img": "Kretzschmaria_deusta_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Kretzschmaria neocaledonica",

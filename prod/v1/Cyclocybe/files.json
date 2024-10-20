@@ -2,7 +2,7 @@
  "name": "Cyclocybe",
  "zhtw": "環傘屬",
  "zhcn": "环伞属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
    "name": "Cyclocybe cylindracea",
@@ -11,16 +11,16 @@
    "img": "Cyclocybe_cylindracea_1_CC BY-NC_陳雅芬.jpg"
   },
   {
-   "name": "Cyclocybe parasitica",
-   "zhtw": "寄生環傘",
-   "zhcn": "寄生环伞",
-   "img": "Cyclocybe_parasitica_14_CC BY-NC_陳雅芬.jpg"
-  },
-  {
    "name": "Cyclocybe erebia",
    "zhtw": "深色環傘",
    "zhcn": "深色环伞",
    "img": "Cyclocybe_erebia_f839f4b0-4cb8-10eb-a1cd-478a0e3ce110_1.jpg"
+  },
+  {
+   "name": "Cyclocybe parasitica",
+   "zhtw": "寄生環傘",
+   "zhcn": "寄生环伞",
+   "img": "Cyclocybe_parasitica_14_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

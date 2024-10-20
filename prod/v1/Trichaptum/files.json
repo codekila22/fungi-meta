@@ -2,8 +2,14 @@
  "name": "Trichaptum",
  "zhtw": "附毛菌屬",
  "zhcn": "附毛菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
+  {
+   "name": "Trichaptum abietinum",
+   "zhtw": "冷杉附毛菌",
+   "zhcn": "冷杉附毛菌",
+   "img": "Trichaptum_abietinum_1_CC BY-NC_柯文俊.jpg"
+  },
   {
    "name": "Trichaptum biforme",
    "zhtw": "囊孔附毛菌",
@@ -11,10 +17,10 @@
    "img": "Trichaptum_biforme_1_CC BY-NC_江志緯.jpg"
   },
   {
-   "name": "Trichaptum elongatum",
-   "zhtw": "勾形附毛菌",
-   "zhcn": "勾形附毛菌",
-   "img": "Trichaptum_elongatum_9_CC BY-NC.jpg"
+   "name": "Trichaptum byssogenum",
+   "zhtw": "毛囊附毛菌",
+   "zhcn": "毛囊附毛菌",
+   "img": "Trichaptum_byssogenum_1_CC BY-NC_陳啟仁.jpg"
   },
   {
    "name": "Trichaptum durum",
@@ -26,16 +32,10 @@
    "img": "Trichaptum_durum_1_CC BY-NC_陳雅芬.jpg"
   },
   {
-   "name": "Trichaptum abietinum",
-   "zhtw": "冷杉附毛菌",
-   "zhcn": "冷杉附毛菌",
-   "img": "Trichaptum_abietinum_1_CC BY-NC_柯文俊.jpg"
-  },
-  {
-   "name": "Trichaptum perenne",
-   "zhtw": "多年生附毛菌",
-   "zhcn": "多年生附毛菌",
-   "img": "Trichaptum_perenne_e0459950-1702-109f-939f-edc52ea51b88_1.jpg"
+   "name": "Trichaptum elongatum",
+   "zhtw": "勾形附毛菌",
+   "zhcn": "勾形附毛菌",
+   "img": "Trichaptum_elongatum_9_CC BY-NC.jpg"
   },
   {
    "name": "Trichaptum fuscoviolaceum",
@@ -44,10 +44,10 @@
    "img": "Trichaptum_fuscoviolaceum_1_CC BY-NC.jpg"
   },
   {
-   "name": "Trichaptum byssogenum",
-   "zhtw": "毛囊附毛菌",
-   "zhcn": "毛囊附毛菌",
-   "img": "Trichaptum_byssogenum_1_CC BY-NC_陳啟仁.jpg"
+   "name": "Trichaptum perenne",
+   "zhtw": "多年生附毛菌",
+   "zhcn": "多年生附毛菌",
+   "img": "Trichaptum_perenne_e0459950-1702-109f-939f-edc52ea51b88_1.jpg"
   }
  ]
 }

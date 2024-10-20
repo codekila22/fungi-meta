@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "aff. quadratum",
  "date": [
+  "10/13/2024,8327051517405206",
   "08/27/2023,6339296802847364",
   "07/27/2020,2962372133873198",
   "07/27/2017,1267420336701728"
@@ -47,6 +48,22 @@
   {
    "author": "柯文俊",
    "image_src": "Entoloma_aff. quadratum_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_aff. quadratum_c6069490-8b96-11ef-8d51-fbbb1d8dc390_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_aff. quadratum_c6069490-8b96-11ef-8d51-fbbb1d8dc390_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_aff. quadratum_c6069490-8b96-11ef-8d51-fbbb1d8dc390_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_aff. quadratum_c6069490-8b96-11ef-8d51-fbbb1d8dc390_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -98,5 +115,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/90070251/thumb.jpeg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241020-155949"
 }

@@ -2,6 +2,7 @@
  "genus": "Schizophyllum",
  "name": "commune",
  "date": [
+  "10/02/2024,8345149142262110",
   "08/15/2024,7855115827932113",
   "08/11/2024,7833476640096032",
   "08/08/2024,7802996673144029",
@@ -354,6 +355,18 @@
   {
    "author": "江志緯",
    "image_src": "Schizophyllum_commune_a56b7840-4540-10f1-aaea-3dcd9f8cede6_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Schizophyllum_commune_2dd9e070-8de7-11ef-b6a3-47f360dfe559_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Schizophyllum_commune_2dd9e070-8de7-11ef-b6a3-47f360dfe559_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Schizophyllum_commune_2dd9e070-8de7-11ef-b6a3-47f360dfe559_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -393,7 +406,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "只有幼菌較嫩可食。",
+  "Note": "此物種全世界廣泛分佈，只有幼菌較嫩可食，成熟後過韌。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -404,5 +417,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/310771/thumb.JPG"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241020-155949"
 }

@@ -2,13 +2,15 @@
  "genus": "Entoloma",
  "name": "conferendum",
  "date": [
-  "01/01/0001"
+  "10/15/2024,8337617899681901",
+  "05/07/2024,7349048055205562",
+  "03/06/2017,1131979466912483"
  ],
  "names_zhtw": [
   "星孢粉褶菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/742",
+ "url": "8337617899681901",
  "images": [
   {
    "author": "柯文俊",
@@ -57,6 +59,22 @@
   {
    "author": "林靜苑",
    "image_src": "Entoloma_conferendum_12_CC BY-NC_林靜苑.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_conferendum_8a08cf50-8e91-11ef-bca1-a9f35da8a98a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_conferendum_8a08cf50-8e91-11ef-bca1-a9f35da8a98a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_conferendum_8a08cf50-8e91-11ef-bca1-a9f35da8a98a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_conferendum_8a08cf50-8e91-11ef-bca1-a9f35da8a98a_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -84,6 +102,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "40,90",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -93,9 +112,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Entoloma strictius,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "射紋粉褶菌,,",
+  "la_zhcn": "射纹粉褶菌,,"
  },
  "inaturalist": [
   {
@@ -105,5 +126,5 @@
    "src": "https://static.inaturalist.org/photos/160175562/thumb.jpeg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241020-155949"
 }

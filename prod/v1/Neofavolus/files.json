@@ -2,19 +2,19 @@
  "name": "Neofavolus",
  "zhtw": "新菱孔菌屬",
  "zhcn": "新菱孔菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Neofavolus suavissimus",
-   "zhtw": "紅柄新棱孔菌",
-   "zhcn": "红柄新棱孔菌",
-   "img": "Neofavolus_suavissimus_1_CC BY-NC_陳麗紅.jpg"
-  },
   {
    "name": "Neofavolus alveolaris",
    "zhtw": "大孔新菱孔菌",
    "zhcn": "大孔新菱孔菌",
    "img": "Polyporus_alveolaris_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Neofavolus suavissimus",
+   "zhtw": "紅柄新棱孔菌",
+   "zhcn": "红柄新棱孔菌",
+   "img": "Neofavolus_suavissimus_1_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

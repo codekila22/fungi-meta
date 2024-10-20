@@ -2,19 +2,13 @@
  "name": "Calvatia",
  "zhtw": "禿馬勃屬",
  "zhcn": "秃马勃属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
-   "name": "Calvatia lilacina",
-   "zhtw": "紫色禿馬勃",
-   "zhcn": "紫色秃马勃",
-   "img": "Calvatia_lilacina_1_CC BY-NC_江志緯.jpg"
-  },
-  {
-   "name": "Calvatia excipuliformis",
-   "zhtw": "長柄禿馬勃",
-   "zhcn": "长柄秃马勃",
-   "img": "Calvatia_excipuliformis_1_CC BY-NC_陳雅芬.jpg"
+   "name": "Calvatia bicolor",
+   "zhtw": "二色禿馬勃",
+   "zhcn": "二色秃马勃",
+   "img": "Calvatia_bicolor_c03a0e90-39dd-11ee-9df8-99861b817a35_1.jpg"
   },
   {
    "name": "Calvatia boninensis",
@@ -23,16 +17,22 @@
    "img": "Calvatia_boninensis_1_CC BY-NC_陳雅芬.jpg"
   },
   {
-   "name": "Calvatia bicolor",
-   "zhtw": "二色禿馬勃",
-   "zhcn": "二色秃马勃",
-   "img": "Calvatia_bicolor_c03a0e90-39dd-11ee-9df8-99861b817a35_1.jpg"
-  },
-  {
    "name": "Calvatia craniiformis",
    "zhtw": "頭狀禿馬勃",
    "zhcn": "头状秃马勃",
    "img": "Calvatia_craniiformis_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Calvatia excipuliformis",
+   "zhtw": "長柄禿馬勃",
+   "zhcn": "长柄秃马勃",
+   "img": "Calvatia_excipuliformis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Calvatia lilacina",
+   "zhtw": "紫色禿馬勃",
+   "zhcn": "紫色秃马勃",
+   "img": "Calvatia_lilacina_1_CC BY-NC_江志緯.jpg"
   }
  ]
 }

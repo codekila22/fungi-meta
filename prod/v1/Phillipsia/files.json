@@ -2,19 +2,19 @@
  "name": "Phillipsia",
  "zhtw": "歪盤菌屬",
  "zhcn": "歪盘菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Phillipsia domingensis",
-   "zhtw": "多地歪盤菌",
-   "zhcn": "多地歪盘菌",
-   "img": "Phillipsia_domingensis_8_CC BY-NC_柯文俊.jpg"
-  },
   {
    "name": "Phillipsia chinensis",
    "zhtw": "中華歪盤菌",
    "zhcn": "中华歪盘菌",
    "img": "Phillipsia_chinensis_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Phillipsia domingensis",
+   "zhtw": "多地歪盤菌",
+   "zhcn": "多地歪盘菌",
+   "img": "Phillipsia_domingensis_8_CC BY-NC_柯文俊.jpg"
   }
  ]
 }

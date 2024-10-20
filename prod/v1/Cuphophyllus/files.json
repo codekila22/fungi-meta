@@ -2,19 +2,19 @@
  "name": "Cuphophyllus",
  "zhtw": "拱頂菇屬",
  "zhcn": "拱顶菇属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Cuphophyllus pratensis",
-   "zhtw": "草地拱頂菇",
-   "zhcn": "草地拱顶菇",
-   "img": "Cuphophyllus_pratensis_43125770-ce38-11ee-bfba-6f7c0da040d1_1.jpg"
-  },
   {
    "name": "Cuphophyllus colemannianus",
    "zhtw": "紅褐拱頂菇",
    "zhcn": "红褐拱顶菇",
    "img": "Cuphophyllus_colemannianus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Cuphophyllus pratensis",
+   "zhtw": "草地拱頂菇",
+   "zhcn": "草地拱顶菇",
+   "img": "Cuphophyllus_pratensis_43125770-ce38-11ee-bfba-6f7c0da040d1_1.jpg"
   },
   {
    "name": "Cuphophyllus virgineus",

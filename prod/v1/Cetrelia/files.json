@@ -2,7 +2,7 @@
  "name": "Cetrelia",
  "zhtw": "斑葉衣屬",
  "zhcn": "斑叶衣属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
    "name": "Cetrelia cf. collat",
@@ -11,16 +11,16 @@
    "img": "Cetrelia_cf. collat_1_CC BY-NC_江志緯.jpg"
   },
   {
-   "name": "Cetrelia japonica",
-   "zhtw": "日本斑葉衣",
-   "zhcn": "日本斑叶衣",
-   "img": "Cetrelia_sanguinea_4_CC BY-NC_蔡古媧.jpg"
-  },
-  {
    "name": "Cetrelia cf. nuda",
    "zhtw": "疑似裸斑葉衣",
    "zhcn": "疑似裸斑叶衣",
    "img": "Cetrelia_cf. nuda_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Cetrelia japonica",
+   "zhtw": "日本斑葉衣",
+   "zhcn": "日本斑叶衣",
+   "img": "Cetrelia_sanguinea_4_CC BY-NC_蔡古媧.jpg"
   },
   {
    "name": "Cetrelia sanguinea",

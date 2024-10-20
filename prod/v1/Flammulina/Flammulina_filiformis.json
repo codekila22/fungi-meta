@@ -2,6 +2,7 @@
  "genus": "Flammulina",
  "name": "filiformis",
  "date": [
+  "10/12/2024,8330740520369639",
   "04/05/2024,7189619627815073",
   "02/28/2024,7036169256493445",
   "02/10/2024,6966930650083973",
@@ -244,6 +245,22 @@
   {
    "author": "朱艷",
    "image_src": "Flammulina_filiformis_067bd120-c8ce-11ee-8ddb-a3871e384d65_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Flammulina_filiformis_f4ba9280-8c8d-11ef-9421-870555703809_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Flammulina_filiformis_f4ba9280-8c8d-11ef-9421-870555703809_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Flammulina_filiformis_f4ba9280-8c8d-11ef-9421-870555703809_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Flammulina_filiformis_f4ba9280-8c8d-11ef-9421-870555703809_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -293,5 +310,5 @@
    "src": "https://static.inaturalist.org/photos/253431866/thumb.jpeg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241020-155949"
 }

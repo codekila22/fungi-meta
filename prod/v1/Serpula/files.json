@@ -2,19 +2,19 @@
  "name": "Serpula",
  "zhtw": "乾腐菌屬",
  "zhcn": "干腐菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Serpula similis",
-   "zhtw": "相似乾腐菌",
-   "zhcn": "相似干腐菌",
-   "img": "Serpula_similis_1_CC BY-NC_江志緯.jpg"
-  },
   {
    "name": "Serpula himantioides",
    "zhtw": "扇索狀乾腐菌",
    "zhcn": "扇索状干腐菌",
    "img": "Serpula_himantioides_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Serpula similis",
+   "zhtw": "相似乾腐菌",
+   "zhcn": "相似干腐菌",
+   "img": "Serpula_similis_1_CC BY-NC_江志緯.jpg"
   }
  ]
 }

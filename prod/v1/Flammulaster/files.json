@@ -2,19 +2,19 @@
  "name": "Flammulaster",
  "zhtw": "暗皮傘屬",
  "zhcn": "暗皮伞属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Flammulaster muricatus",
-   "zhtw": "刺鱗暗皮傘",
-   "zhcn": "刺鳞暗皮伞",
-   "img": "Flammulaster_muricatus_1_CC BY-NC_陳麗紅.jpg"
-  },
   {
    "name": "Flammulaster erinaceellus",
    "zhtw": "刺毛暗皮傘",
    "zhcn": "刺毛暗皮伞",
    "img": "Flammulaster_erinaceellus_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Flammulaster muricatus",
+   "zhtw": "刺鱗暗皮傘",
+   "zhcn": "刺鳞暗皮伞",
+   "img": "Flammulaster_muricatus_1_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

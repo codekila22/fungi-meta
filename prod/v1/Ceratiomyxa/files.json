@@ -2,13 +2,25 @@
  "name": "Ceratiomyxa",
  "zhtw": "鵝絨黏菌屬",
  "zhcn": "鹅绒黏菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
-   "name": "Ceratiomyxa sphaerosperma",
-   "zhtw": "球孢鵝絨黏菌",
-   "zhcn": "球孢鹅绒黏菌",
-   "img": "Ceratiomyxa_sphaerosperma_b30bb210-0435-11ee-b1b1-2bc4efa75ed2_9.jpg"
+   "name": "Ceratiomyxa fruticulosa ( f. flava)",
+   "zhtw": "分枝鵝絨黏菌 (黃色型)",
+   "zhcn": "分枝鹅绒黏菌 (黄色型)",
+   "img": "Ceratiomyxa_fruticulosa ( f. flava)_1_CC BY-NC_吳明勳.jpg"
+  },
+  {
+   "name": "Ceratiomyxa fruticulosa var. arbuscula",
+   "zhtw": "分枝鵝絨黏菌樹狀變種",
+   "zhcn": "分枝鹅绒黏菌树状变种",
+   "img": "Ceratiomyxa_fruticulosa var. arbuscula_c3079c10-bc1e-11ed-92ad-23952dec1400_9.jpg"
+  },
+  {
+   "name": "Ceratiomyxa fruticulosa var. descendens",
+   "zhtw": "分枝鵝絨黏菌之單枝變種",
+   "zhcn": "分枝鹅绒黏菌之单枝变种",
+   "img": "Ceratiomyxa_fruticulosa var. descendens_191f8090-dac9-11ed-b176-093bf02690d8_2.jpg"
   },
   {
    "name": "Ceratiomyxa fruticulosa var. flexuosa",
@@ -23,22 +35,10 @@
    "img": "Ceratiomyxa_fruticulosa var. fruticulosa_1_CC BY-NC_陳麗紅.jpg"
   },
   {
-   "name": "Ceratiomyxa fruticulosa var. arbuscula",
-   "zhtw": "分枝鵝絨黏菌樹狀變種",
-   "zhcn": "分枝鹅绒黏菌树状变种",
-   "img": "Ceratiomyxa_fruticulosa var. arbuscula_c3079c10-bc1e-11ed-92ad-23952dec1400_9.jpg"
-  },
-  {
-   "name": "Ceratiomyxa fruticulosa ( f. flava)",
-   "zhtw": "分枝鵝絨黏菌 (黃色型)",
-   "zhcn": "分枝鹅绒黏菌 (黄色型)",
-   "img": "Ceratiomyxa_fruticulosa ( f. flava)_1_CC BY-NC_吳明勳.jpg"
-  },
-  {
-   "name": "Ceratiomyxa fruticulosa var. descendens",
-   "zhtw": "分枝鵝絨黏菌之單枝變種",
-   "zhcn": "分枝鹅绒黏菌之单枝变种",
-   "img": "Ceratiomyxa_fruticulosa var. descendens_191f8090-dac9-11ed-b176-093bf02690d8_2.jpg"
+   "name": "Ceratiomyxa morchella",
+   "zhtw": "羊肚鵝絨黏菌",
+   "zhcn": "羊肚鹅绒黏菌",
+   "img": "Ceratiomyxa_morchella_e9f88900-6a97-11ef-88f9-df52e4927887_2.jpg"
   },
   {
    "name": "Ceratiomyxa porioides",
@@ -47,10 +47,10 @@
    "img": "Ceratiomyxa_porioides_9_CC BY-NC_Sunny Wang.jpg"
   },
   {
-   "name": "Ceratiomyxa morchella",
-   "zhtw": "羊肚鵝絨黏菌",
-   "zhcn": "羊肚鹅绒黏菌",
-   "img": "Ceratiomyxa_morchella_e9f88900-6a97-11ef-88f9-df52e4927887_2.jpg"
+   "name": "Ceratiomyxa sphaerosperma",
+   "zhtw": "球孢鵝絨黏菌",
+   "zhcn": "球孢鹅绒黏菌",
+   "img": "Ceratiomyxa_sphaerosperma_b30bb210-0435-11ee-b1b1-2bc4efa75ed2_9.jpg"
   }
  ]
 }

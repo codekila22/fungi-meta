@@ -2,13 +2,13 @@
  "name": "Bunodophoron",
  "zhtw": "球孢球粉衣屬",
  "zhcn": "球孢球粉衣属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
-   "name": "Bunodophoron melanocarpum",
-   "zhtw": "黑果球孢球粉衣",
-   "zhcn": "黑果球孢球粉衣",
-   "img": "Bunodophoron_melanocarpum_1_CC BY-NC_陳麗紅.jpg"
+   "name": "Bunodophoron diplotypum",
+   "zhtw": "二型球孢球粉衣",
+   "zhcn": "二型球孢球粉衣",
+   "img": "Bunodophoron_diplotypum_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Bunodophoron formosanum",
@@ -17,10 +17,10 @@
    "img": "Bunodophoron_formosanum_1_CC BY-NC_陳麗紅.jpg"
   },
   {
-   "name": "Bunodophoron diplotypum",
-   "zhtw": "二型球孢球粉衣",
-   "zhcn": "二型球孢球粉衣",
-   "img": "Bunodophoron_diplotypum_1_CC BY-NC_陳雅芬.jpg"
+   "name": "Bunodophoron melanocarpum",
+   "zhtw": "黑果球孢球粉衣",
+   "zhcn": "黑果球孢球粉衣",
+   "img": "Bunodophoron_melanocarpum_1_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

@@ -2,8 +2,14 @@
  "name": "Chlorociboria",
  "zhtw": "綠杯盤菌屬",
  "zhcn": "绿杯盘菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
+  {
+   "name": "Chlorociboria aeruginascens",
+   "zhtw": "小孢綠杯盤菌",
+   "zhcn": "小孢绿杯盘菌",
+   "img": "Chlorociboria_aeruginascens_1_CC BY-NC_江志緯.jpg"
+  },
   {
    "name": "Chlorociboria aeruginosa",
    "zhtw": "綠杯盤菌",
@@ -15,12 +21,6 @@
    "zhtw": "青綠杯盤菌",
    "zhcn": "青绿杯盘菌",
    "img": "Chlorociboria_aeruginosa_1_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "name": "Chlorociboria aeruginascens",
-   "zhtw": "小孢綠杯盤菌",
-   "zhcn": "小孢绿杯盘菌",
-   "img": "Chlorociboria_aeruginascens_1_CC BY-NC_江志緯.jpg"
   }
  ]
 }

@@ -2,8 +2,35 @@
  "name": "Lentinus",
  "zhtw": "斗菇屬",
  "zhcn": "斗菇属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
+  {
+   "name": "Lentinus badius",
+   "zhtw": "栗褐斗菇",
+   "zhcn": "栗褐斗菇",
+   "img": "Lentinus_badius_1_CC BY-NC_Angela Huang.jpg"
+  },
+  {
+   "name": "Lentinus concavus",
+   "zhtw": "凹蓋斗菇",
+   "zhcn": "凹盖斗菇",
+   "img": "Lentinus_concavus_1_CC BY-NC_Purple Cherry.jpg"
+  },
+  {
+   "name": "Lentinus connatus",
+   "zhtw": "合生斗菇",
+   "zhcn": "合生斗菇",
+   "img": "Lentinus_sajor-caju_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Lentinus giganteus",
+   "zhtw": "巨大斗菇",
+   "zhcn": "巨大斗菇",
+   "current": "Pleurotus giganteus",
+   "current_zhtw": "巨大側耳",
+   "current_zhcn": "巨大侧耳",
+   "img": "Lentinus_giganteus_1_CC BY-NC_江志緯.jpg"
+  },
   {
    "name": "Lentinus sajor-caju",
    "zhtw": "環柄斗菇",
@@ -18,15 +45,6 @@
    "zhtw": "赭褐環柄斗菇",
    "zhcn": "赭褐环柄斗菇",
    "img": "Lentinus_sajor-caju var. javanicus_3_CC BY-NC.jpg"
-  },
-  {
-   "name": "Lentinus giganteus",
-   "zhtw": "巨大斗菇",
-   "zhcn": "巨大斗菇",
-   "current": "Pleurotus giganteus",
-   "current_zhtw": "巨大側耳",
-   "current_zhcn": "巨大侧耳",
-   "img": "Lentinus_giganteus_1_CC BY-NC_江志緯.jpg"
   },
   {
    "name": "Lentinus similis",
@@ -53,28 +71,10 @@
    "img": "Panus_neostrigosus_1_CC BY-NC_向高世.jpg"
   },
   {
-   "name": "Lentinus badius",
-   "zhtw": "栗褐斗菇",
-   "zhcn": "栗褐斗菇",
-   "img": "Lentinus_badius_1_CC BY-NC_Angela Huang.jpg"
-  },
-  {
-   "name": "Lentinus connatus",
-   "zhtw": "合生斗菇",
-   "zhcn": "合生斗菇",
-   "img": "Lentinus_sajor-caju_1_CC BY-NC_向高世.jpg"
-  },
-  {
    "name": "Lentinus tigrinus",
    "zhtw": "虎皮斗菇",
    "zhcn": "虎皮斗菇",
    "img": "Lentinus_tigrinus_1_CC BY-NC.jpg"
-  },
-  {
-   "name": "Lentinus concavus",
-   "zhtw": "凹蓋斗菇",
-   "zhcn": "凹盖斗菇",
-   "img": "Lentinus_concavus_1_CC BY-NC_Purple Cherry.jpg"
   }
  ]
 }

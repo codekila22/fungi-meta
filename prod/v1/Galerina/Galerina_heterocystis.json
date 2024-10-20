@@ -2,13 +2,17 @@
  "genus": "Galerina",
  "name": "heterocystis",
  "date": [
-  "01/01/0001"
+  "12/18/2023,6766917576751949",
+  "11/30/2022,5468150153295371",
+  "02/03/2018,8355250444585313",
+  "01/25/2017,1117403121703451",
+  "02/28/2016,855927831184316"
  ],
  "names_zhtw": [
   "異囊盔孢傘"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/1227",
+ "url": "8355250444585313",
  "images": [
   {
    "author": "陳雅芬",
@@ -41,6 +45,62 @@
   {
    "author": "陳雅芬",
    "image_src": "Galerina_heterocystis_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Galerina_heterocystis_fb166910-8e81-11ef-97cc-a71947b79ef2_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Galerina_heterocystis_fb166910-8e81-11ef-97cc-a71947b79ef2_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Galerina_heterocystis_fb166910-8e81-11ef-97cc-a71947b79ef2_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Galerina_heterocystis_fb166910-8e81-11ef-97cc-a71947b79ef2_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Galerina_heterocystis_fb166910-8e81-11ef-97cc-a71947b79ef2_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Galerina_heterocystis_fb166910-8e81-11ef-97cc-a71947b79ef2_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_heterocystis_19753ad0-8e91-11ef-bca1-a9f35da8a98a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_heterocystis_19753ad0-8e91-11ef-bca1-a9f35da8a98a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_heterocystis_19753ad0-8e91-11ef-bca1-a9f35da8a98a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_heterocystis_19753ad0-8e91-11ef-bca1-a9f35da8a98a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_heterocystis_19753ad0-8e91-11ef-bca1-a9f35da8a98a_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_heterocystis_19753ad0-8e91-11ef-bca1-a9f35da8a98a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_heterocystis_19753ad0-8e91-11ef-bca1-a9f35da8a98a_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_heterocystis_19753ad0-8e91-11ef-bca1-a9f35da8a98a_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -89,5 +149,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/57359507/thumb.jpg"
   }
  ],
- "timestamp": "20241013-181301"
+ "timestamp": "20241020-155949"
 }

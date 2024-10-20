@@ -2,19 +2,19 @@
  "name": "Spathularia",
  "zhtw": "地匙菌屬",
  "zhcn": "地匙菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Spathularia velutipes",
-   "zhtw": "絨柄地匙菌",
-   "zhcn": "绒柄地匙菌",
-   "img": "Spathularia_velutipes_1_CC BY-NC_陳麗紅.jpg"
-  },
   {
    "name": "Spathularia flavida",
    "zhtw": "黃地匙菌",
    "zhcn": "黄地匙菌",
    "img": "Spathularia_flavida_13505f10-e994-11ee-9efb-1b93a06debb3_2.jpg"
+  },
+  {
+   "name": "Spathularia velutipes",
+   "zhtw": "絨柄地匙菌",
+   "zhcn": "绒柄地匙菌",
+   "img": "Spathularia_velutipes_1_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

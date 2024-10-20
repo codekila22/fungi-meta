@@ -2,13 +2,25 @@
  "name": "Sarcoscypha",
  "zhtw": "肉杯菌屬",
  "zhcn": "肉杯菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
-   "name": "Sarcoscypha ololosokwaniensis",
-   "zhtw": "坦尚尼亞肉杯菌",
-   "zhcn": "坦尚尼亚肉杯菌",
-   "img": "Sarcoscypha_ololosokwaniensis_1_CC BY-NC_陳麗紅.jpg"
+   "name": "Sarcoscypha austriaca",
+   "zhtw": "澳洲肉杯菌",
+   "zhcn": "澳洲肉杯菌",
+   "img": "Sarcoscypha_austriaca_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Sarcoscypha coccinea",
+   "zhtw": "緋紅肉杯菌",
+   "zhcn": "绯红肉杯菌",
+   "img": "Sarcoscypha_coccinea_3_CC BY-NC_陳享受.jpg"
+  },
+  {
+   "name": "Sarcoscypha humberiana",
+   "zhtw": "休氏肉杯菌",
+   "zhcn": "休氏肉杯菌",
+   "img": "Sarcoscypha_humberiana_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Sarcoscypha macaronesica",
@@ -23,22 +35,10 @@
    "img": "Sarcoscypha_occidentalis_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
-   "name": "Sarcoscypha humberiana",
-   "zhtw": "休氏肉杯菌",
-   "zhcn": "休氏肉杯菌",
-   "img": "Sarcoscypha_humberiana_1_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "name": "Sarcoscypha coccinea",
-   "zhtw": "緋紅肉杯菌",
-   "zhcn": "绯红肉杯菌",
-   "img": "Sarcoscypha_coccinea_3_CC BY-NC_陳享受.jpg"
-  },
-  {
-   "name": "Sarcoscypha austriaca",
-   "zhtw": "澳洲肉杯菌",
-   "zhcn": "澳洲肉杯菌",
-   "img": "Sarcoscypha_austriaca_1_CC BY-NC_陳雅芬.jpg"
+   "name": "Sarcoscypha ololosokwaniensis",
+   "zhtw": "坦尚尼亞肉杯菌",
+   "zhcn": "坦尚尼亚肉杯菌",
+   "img": "Sarcoscypha_ololosokwaniensis_1_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

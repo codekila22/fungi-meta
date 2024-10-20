@@ -2,13 +2,19 @@
  "name": "Plectania",
  "zhtw": "暗盤菌屬",
  "zhcn": "暗盘菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
    "name": "Plectania campylospora",
    "zhtw": "彎孢暗盤菌",
    "zhcn": "弯孢暗盘菌",
    "img": "Plectania_campylospora_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Plectania ericae",
+   "zhtw": "歐石楠暗盤菌",
+   "zhcn": "欧石楠暗盘菌",
+   "img": "Plectania_ericae_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Plectania melaena",
@@ -21,12 +27,6 @@
    "zhtw": "黑赭暗盤菌",
    "zhcn": "黑赭暗盘菌",
    "img": "Plectania_melastoma_5_CC BY-NC_RECKON.jpg"
-  },
-  {
-   "name": "Plectania ericae",
-   "zhtw": "歐石楠暗盤菌",
-   "zhcn": "欧石楠暗盘菌",
-   "img": "Plectania_ericae_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Plectania platensis",

@@ -2,8 +2,14 @@
  "name": "Stropharia",
  "zhtw": "球蓋菇屬",
  "zhcn": "球盖菇属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
+  {
+   "name": "Stropharia aeruginosa",
+   "zhtw": "黃銅綠球蓋菇",
+   "zhcn": "黄铜绿球盖菇",
+   "img": "Stropharia_aeruginosa_3_CC BY-NC_Sunny Wang.jpg"
+  },
   {
    "name": "Stropharia aff. riparia",
    "zhtw": "灰裂環球蓋菇之近似種",
@@ -15,12 +21,6 @@
    "zhtw": "冠狀球蓋菇",
    "zhcn": "冠状球盖菇",
    "img": "Stropharia_coronilla_a6b79420-0448-11ef-8744-dba4314d09e8_3.jpg"
-  },
-  {
-   "name": "Stropharia aeruginosa",
-   "zhtw": "黃銅綠球蓋菇",
-   "zhcn": "黄铜绿球盖菇",
-   "img": "Stropharia_aeruginosa_3_CC BY-NC_Sunny Wang.jpg"
   }
  ]
 }

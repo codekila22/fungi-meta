@@ -2,14 +2,8 @@
  "name": "Strigula",
  "zhtw": "葉上衣屬",
  "zhcn": "叶上衣属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Strigula oleistrata",
-   "zhtw": "黑橄欖葉上衣",
-   "zhcn": "黑橄榄叶上衣",
-   "img": "Strigula_oleistrata_1_CC BY-NC_陳雅芬.jpg"
-  },
   {
    "name": "Strigula cf. melanobapha",
    "zhtw": "疑似黑色素葉上衣",
@@ -21,6 +15,12 @@
    "zhtw": "雅緻葉上衣",
    "zhcn": "雅致叶上衣",
    "img": "Strigula_elegans_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Strigula oleistrata",
+   "zhtw": "黑橄欖葉上衣",
+   "zhcn": "黑橄榄叶上衣",
+   "img": "Strigula_oleistrata_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

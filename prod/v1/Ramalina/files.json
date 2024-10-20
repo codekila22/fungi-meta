@@ -2,7 +2,7 @@
  "name": "Ramalina",
  "zhtw": "樹花屬",
  "zhcn": "树花属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
    "name": "Ramalina conduplicans",
@@ -11,16 +11,16 @@
    "img": "Ramalina_conduplicans_cfe8b090-42d3-11ee-a1a9-a3992c7407f0_1.jpg"
   },
   {
-   "name": "Ramalina pertusa",
-   "zhtw": "穿孔樹花",
-   "zhcn": "穿孔树花",
-   "img": "Ramalina_pertusa_5ebfc440-b08c-11ee-a448-bb8fb8f34be5_1.jpg"
-  },
-  {
    "name": "Ramalina dilacerata",
    "zhtw": "撕裂樹花",
    "zhcn": "撕裂树花",
    "img": "Ramalina_dilacerata_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Ramalina pertusa",
+   "zhtw": "穿孔樹花",
+   "zhcn": "穿孔树花",
+   "img": "Ramalina_pertusa_5ebfc440-b08c-11ee-a448-bb8fb8f34be5_1.jpg"
   },
   {
    "name": "Ramalina roesleri",

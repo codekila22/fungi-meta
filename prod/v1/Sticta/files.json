@@ -2,13 +2,19 @@
  "name": "Sticta",
  "zhtw": "牛皮葉衣屬",
  "zhcn": "牛皮叶衣属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
   {
    "name": "Sticta duplolimbata",
    "zhtw": "雙緣牛皮葉衣",
    "zhcn": "双缘牛皮叶衣",
    "img": "Sticta_duplolimbata_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Sticta fuliginosa",
+   "zhtw": "黑牛皮葉衣",
+   "zhcn": "黑牛皮叶衣",
+   "img": "Sticta_fuliginosa_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Sticta gracilis",
@@ -24,12 +30,6 @@
    "current_zhtw": "平滑牛皮葉衣",
    "current_zhcn": "平滑牛皮叶衣",
    "img": "Dendriscosticta_platyphylla_1_CC BY-NC_江志緯.jpg"
-  },
-  {
-   "name": "Sticta fuliginosa",
-   "zhtw": "黑牛皮葉衣",
-   "zhcn": "黑牛皮叶衣",
-   "img": "Sticta_fuliginosa_1_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

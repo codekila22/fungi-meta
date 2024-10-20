@@ -2,8 +2,14 @@
  "name": "Lacrymaria",
  "zhtw": "垂齒菌屬",
  "zhcn": "垂齿菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
+  {
+   "name": "Lacrymaria lacrymabunda",
+   "zhtw": "毯毛垂齒菌",
+   "zhcn": "毯毛垂齿菌",
+   "img": "Psathyrella_velutina_6_CC BY-NC.jpg"
+  },
   {
    "name": "Lacrymaria velutina",
    "zhtw": "毯毛垂齒菌",
@@ -11,12 +17,6 @@
    "current": "Lacrymaria lacrymabunda",
    "current_zhtw": "毯毛垂齒菌",
    "current_zhcn": "毯毛垂齿菌",
-   "img": "Psathyrella_velutina_6_CC BY-NC.jpg"
-  },
-  {
-   "name": "Lacrymaria lacrymabunda",
-   "zhtw": "毯毛垂齒菌",
-   "zhcn": "毯毛垂齿菌",
    "img": "Psathyrella_velutina_6_CC BY-NC.jpg"
   }
  ]

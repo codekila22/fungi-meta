@@ -2,19 +2,19 @@
  "name": "Retiboletus",
  "zhtw": "網柄牛肝菌屬",
  "zhcn": "网柄牛肝菌属",
- "timestamp": "20241013-181301",
+ "timestamp": "20241020-155949",
  "list": [
-  {
-   "name": "Retiboletus ornatipes",
-   "zhtw": "金網柄牛肝菌",
-   "zhcn": "金网柄牛肝菌",
-   "img": "Retiboletus_ornatipes_1_CC BY-NC_James Ho.jpg"
-  },
   {
    "name": "Retiboletus griseus",
    "zhtw": "灰褐網柄牛肝菌",
    "zhcn": "灰褐网柄牛肝菌",
    "img": "Retiboletus_griseus_1_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "name": "Retiboletus ornatipes",
+   "zhtw": "金網柄牛肝菌",
+   "zhcn": "金网柄牛肝菌",
+   "img": "Retiboletus_ornatipes_1_CC BY-NC_James Ho.jpg"
   }
  ]
 }
