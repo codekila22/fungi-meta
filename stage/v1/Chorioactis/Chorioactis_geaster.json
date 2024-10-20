@@ -38,5 +38,41 @@
  "names_zhcn": [
   "地星状裂杯菌"
  ],
- "timestamp": "20241020-082154"
+ "meta": {
+  "CapColors": "4286141768,4294303411",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "50,70",
+  "Rareness": "rare",
+  "Seasons": "autumn",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "子實體外側密佈黑褐色毛狀物。",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20241020-105654"
 }

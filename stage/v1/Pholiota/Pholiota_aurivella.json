@@ -2,6 +2,7 @@
  "genus": "Pholiota",
  "name": "aurivella",
  "date": [
+  "10/15/2024,8328458133931211",
   "05/19/2024,7389319124511788",
   "03/08/2024,7076954385748265",
   "12/15/2023,6745416135568760",
@@ -329,6 +330,18 @@
   {
    "author": "朱艷",
    "image_src": "Pholiota_aurivella_45c01f60-1b05-11ef-b2dd-05a0d96c0e3d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_aurivella_92d01ca0-8e8d-11ef-9fb7-7d7ad9ad9d2e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_aurivella_92d01ca0-8e8d-11ef-9fb7-7d7ad9ad9d2e_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_aurivella_92d01ca0-8e8d-11ef-9fb7-7d7ad9ad9d2e_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -401,5 +414,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241020-082154"
+ "timestamp": "20241020-105654"
 }
