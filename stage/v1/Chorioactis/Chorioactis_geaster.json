@@ -7,7 +7,10 @@
  "names_zhtw": [
   "地星狀裂杯菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Devil's Cigar",
+  "Texas Star"
+ ],
  "url": "8351891404921217",
  "images": [
   {
@@ -71,8 +74,16 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體外側密佈黑褐色毛狀物。",
+  "Note": "子實體外側密佈黑褐色毛狀物。此物種極為少見，目前只在美國德州、日本與台灣的少數地點發現，台灣目前紀錄為北部中海拔低區的闊葉林枯木上。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20241020-105654"
+ "inaturalist": [
+  {
+   "name": "Chorioactis geaster",
+   "cname": "Texas Star",
+   "url": "https://www.inaturalist.org/taxa/355435-Chorioactis-geaster",
+   "src": "https://static.inaturalist.org/photos/220080198/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241020-115404"
 }
