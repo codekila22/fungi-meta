@@ -2,6 +2,7 @@
  "genus": "Fuligo",
  "name": "septica",
  "date": [
+  "10/19/2024,8354783547965336",
   "08/22/2024,7894713500639012",
   "07/07/2024,7620928504684181",
   "05/06/2024,7330362137074154",
@@ -376,7 +377,7 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood,ground,leaves",
@@ -386,7 +387,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Nectriopsis violacea,,",
-  "Note": "顏色多變化，從黃色、乳黃色到白色都有可能。",
+  "Note": "顏色多變化，從黃色、乳黃色、粉鮭色到白色都有可能。",
   "la_zhtw": "紫色擬叢赤殼菌,,",
   "la_zhcn": "紫色拟丛赤壳菌,,"
  },
@@ -428,5 +429,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/242462890/thumb.jpg"
   }
  ],
- "timestamp": "20241019-142817"
+ "timestamp": "20241020-082154"
 }

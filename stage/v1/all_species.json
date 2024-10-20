@@ -1,5 +1,5 @@
 {
- "timestamp": "20241019-142817",
+ "timestamp": "20241020-082154",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -226,7 +226,7 @@
    "Mycoleptodonoides,類齒菌屬,类齿菌属",
    "Nectria,叢赤殼菌屬,丛赤壳菌属",
    "Neonectria,新叢赤殼菌屬,新丛赤壳菌属",
-   "Neoscytalidium,,",
+   "Neoscytalidium,新柱頂孢霉屬,新柱顶孢霉属",
    "Nitschkia,凹球殼菌屬,凹球壳菌属",
    "Peniophora,隔孢伏革菌屬,隔孢伏革菌属",
    "Peniophorella,擬筍殼菌屬,拟笋壳菌属",
@@ -529,6 +529,7 @@
    "Chlorencoelia,腹盤菌屬,腹盘菌属",
    "Chlorociboria,綠杯盤菌屬,绿杯盘菌属",
    "Chloroscypha,綠膠杯菌屬,绿胶杯菌属",
+   "Chorioactis,裂杯菌屬,裂杯菌属",
    "Chromocyphella,有色掛鐘菌屬,有色挂钟菌属",
    "Ciboria,杯盤菌屬,杯盘菌属",
    "Ciborinia,葉杯菌屬,叶杯菌属",
@@ -1339,6 +1340,7 @@
   "Chloroscypha alutipes,長柄綠膠杯菌,长柄绿胶杯菌",
   "Choanephora cucurbitarum,瓜笄黴,瓜笄霉",
   "Chondrostereum purpureum,紫褐軟韌革菌,紫褐软韧革菌",
+  "Chorioactis geaster,地星狀裂杯菌,地星状裂杯菌",
   "Chromelosporium coerulescens,白藍孢菌,白蓝孢菌",
   "Chromelosporium fulvum,白黃孢菌,白黄孢菌",
   "Chromelosporium ochraceum,鉻黃孢菌,铬黄孢菌",

@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "orientifulva",
  "date": [
+  "10/11/2024,8332654110178280",
   "11/01/2023,6588936901216685",
   "08/17/2023,6305042456272799",
   "08/15/2021,7697862480324116"
@@ -103,6 +104,30 @@
   {
    "author": "蔡古媧",
    "image_src": "Amanita_orientifulva_5b1c46e0-234e-109f-939f-edc52ea51b88_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_orientifulva_f9ead210-8e18-11ef-a344-c1124aebf46c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_orientifulva_f9ead210-8e18-11ef-a344-c1124aebf46c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_orientifulva_f9ead210-8e18-11ef-a344-c1124aebf46c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_orientifulva_f9ead210-8e18-11ef-a344-c1124aebf46c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_orientifulva_f9ead210-8e18-11ef-a344-c1124aebf46c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_orientifulva_f9ead210-8e18-11ef-a344-c1124aebf46c_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -154,5 +179,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21764509/thumb.jpeg"
   }
  ],
- "timestamp": "20241019-142817"
+ "timestamp": "20241020-082154"
 }
