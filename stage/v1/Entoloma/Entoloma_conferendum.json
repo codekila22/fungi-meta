@@ -102,6 +102,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "40,90",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -111,9 +112,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Entoloma strictius,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "射紋粉褶菌,,",
+  "la_zhcn": "射纹粉褶菌,,"
  },
  "inaturalist": [
   {
@@ -123,5 +126,5 @@
    "src": "https://static.inaturalist.org/photos/160175562/thumb.jpeg"
   }
  ],
- "timestamp": "20241020-115404"
+ "timestamp": "20241020-120537"
 }
