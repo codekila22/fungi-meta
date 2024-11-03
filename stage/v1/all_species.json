@@ -1,5 +1,5 @@
 {
- "timestamp": "20241020-155949",
+ "timestamp": "20241103-200918",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -895,6 +895,8 @@
    "Micarea,亞網衣屬,亚网衣属",
    "Myelochroa,黃髓梅衣屬,黄髓梅衣属",
    "Neobrownliella,橙衣屬,橙衣属",
+   "Nephroma,地卷屬,地卷属",
+   "Nephromopsis,腎島衣屬,肾岛衣属",
    "Ochrolechia,肉疣衣屬,肉疣衣属",
    "Opegrapha,孔文衣屬,孔文衣属",
    "Pallidogramme,灰線衣屬,灰线衣属",
@@ -2514,6 +2516,8 @@
   "Neonectria coccinea,深紅新叢赤殼菌,深红新丛赤壳菌",
   "Neonothopanus nambi,南比新假革菌,南比新假革菌",
   "Neoscytalidium dimidiatum,火龍果潰瘍病,火龙果溃疡病",
+  "Nephroma rufum,紅棕腎盤衣(暫名),红棕肾盘衣(暂名)",
+  "Nephromopsis pallescens,皮革腎島衣,皮革肾岛衣",
   "Neurospora sitophila,喜粉脈孢菌,喜粉脉孢菌",
   "Nidula niveotomentosa,白絨紅蛋巢菌,白绒红蛋巢菌",
   "Nigrofomes melanoporus,黑孔黑木層菌,黑孔黑木层菌",
@@ -3101,6 +3105,7 @@
   "Stemonitis splendens,美髮網黏菌,美发网黏菌",
   "Stemonitopsis aequalis,均等半髮網黏菌,均等半发网黏菌",
   "Stemonitopsis amoena,怡人半髮網黏菌,怡人半发网黏菌",
+  "Stemonitopsis typhina var. similis,香蒲半髮網黏菌相似變種,香蒲半发网黏菌相似变种",
   "Stemonitopsis typhina,香蒲半髮網黏菌,香蒲半发网黏菌",
   "Stereocaulon intermedium,間型珊瑚枝,间型珊瑚枝",
   "Stereocaulon japonicum,日本珊瑚枝,日本珊瑚枝",

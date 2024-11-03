@@ -2,7 +2,7 @@
  "name": "Stemonitopsis",
  "zhtw": "半髮網黏菌屬",
  "zhcn": "半发网黏菌属",
- "timestamp": "20241020-155949",
+ "timestamp": "20241103-200918",
  "list": [
   {
    "name": "Stemonitopsis aequalis",
@@ -21,6 +21,12 @@
    "zhtw": "香蒲半髮網黏菌",
    "zhcn": "香蒲半发网黏菌",
    "img": "Stemonitopsis_typhina_b8307c70-79de-11ee-9cc2-5982a5a7a528_3.jpg"
+  },
+  {
+   "name": "Stemonitopsis typhina var. similis",
+   "zhtw": "香蒲半髮網黏菌相似變種",
+   "zhcn": "香蒲半发网黏菌相似变种",
+   "img": "Stemonitopsis_typhina var. similis_a5ea7bb0-99db-11ef-8392-0330dbfb2bc8_1.jpg"
   }
  ]
 }

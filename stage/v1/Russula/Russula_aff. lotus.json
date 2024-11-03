@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "aff. lotus",
  "date": [
+  "10/20/2024,8356296357814055",
   "08/26/2024,7923291511114544",
   "05/13/2023,7746949585415405"
  ],
@@ -78,6 +79,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Russula_aff. lotus_be07a9a0-6535-11ef-9821-298f893192cb_13.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Russula_aff. lotus_efe9ad80-8ed2-11ef-9625-6558704d0fe7_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Russula_aff. lotus_efe9ad80-8ed2-11ef-9625-6558704d0fe7_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Russula_aff. lotus_efe9ad80-8ed2-11ef-9625-6558704d0fe7_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Russula_aff. lotus_efe9ad80-8ed2-11ef-9625-6558704d0fe7_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Russula_aff. lotus_efe9ad80-8ed2-11ef-9625-6558704d0fe7_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Russula_aff. lotus_efe9ad80-8ed2-11ef-9625-6558704d0fe7_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253235552/thumb.jpg"
   }
  ],
- "timestamp": "20241020-155949"
+ "timestamp": "20241103-200918"
 }
