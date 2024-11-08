@@ -2,7 +2,8 @@
  "genus": "Suillus",
  "name": "subluteus",
  "date": [
-  "10/14/2024,8332880476822310"
+  "10/14/2024,8332880476822310",
+  "09/21/2021,8407843429326014"
  ],
  "names_zhtw": [
   "褐黃乳牛肝菌"
@@ -45,6 +46,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Suillus_subluteus_1adf61f0-8dbc-11ef-a76b-ffd6bb345c92_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_subluteus_0d475f20-9dd9-11ef-a8a3-297914b92d7b_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_subluteus_0d475f20-9dd9-11ef-a8a3-297914b92d7b_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_subluteus_0d475f20-9dd9-11ef-a8a3-297914b92d7b_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_subluteus_0d475f20-9dd9-11ef-a8a3-297914b92d7b_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_subluteus_0d475f20-9dd9-11ef-a8a3-297914b92d7b_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -83,7 +104,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Suillus luteus,Suillus grevillei,",
-  "Note": "此物種較褐環乳牛肝菌(Suillus luteus)小一號，菌環下方也是白色。",
+  "Note": "此物種較褐環乳牛肝菌(Suillus luteus)小一號，菌環下方也是白色，喜好與五葉松共生。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "褐環乳牛肝菌,厚環乳牛肝菌,",
   "la_zhcn": "褐环乳牛肝菌,厚环乳牛肝菌,"
@@ -96,5 +117,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241108-164358"
+ "timestamp": "20241108-221703"
 }

@@ -72,6 +72,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped",
@@ -81,11 +82,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Scutellinia scutellata,,",
+  "LookAlikes": "Scutellinia scutellata,Scutellinia vitreola,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "盾盤菌,,",
-  "la_zhcn": "盾盘菌,,"
+  "la_zhtw": "盾盤菌,玻璃盾盤菌,",
+  "la_zhcn": "盾盘菌,玻璃盾盘菌,"
  },
  "inaturalist": [
   {
@@ -95,5 +96,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/62797839/thumb.jpeg"
   }
  ],
- "timestamp": "20241108-164358"
+ "timestamp": "20241108-221703"
 }

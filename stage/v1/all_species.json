@@ -1,5 +1,5 @@
 {
- "timestamp": "20241108-164358",
+ "timestamp": "20241108-221703",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -120,6 +120,7 @@
    "Haddowia,雞冠孢芝屬,鸡冠孢芝属",
    "Hapalopilus,彩孔菌屬,彩孔菌属",
    "Hexagonia,蜂窩菌屬,蜂窝菌属",
+   "Hyphodontia,產絲齒菌屬,产丝齿菌属",
    "Inonotus,纖孔菌屬,纤孔菌属",
    "Irpex,耙菌屬,耙菌属",
    "Ischnoderma,皮菌屬,皮菌属",
@@ -992,6 +993,7 @@
   "Albatrellopsis flettii,藍黃擬地花菌,蓝黄拟地花菌",
   "Albatrellus cristatus,毛地花菌,毛地花菌",
   "Albatrellus dispansus,散放地花菌,散放地花菌",
+  "Albatrellus syringae,丁香地花菌,丁香地花菌",
   "Albonectria rigidiuscula,硬性白殼菌,硬性白壳菌",
   "Aleuria aurantia,橙黃網孢盤菌,橙黄网孢盘菌",
   "Aleurina imaii,伊邁飾孢盤菌,伊迈饰孢盘菌",
@@ -2036,6 +2038,7 @@
   "Hymenoscyphus vacini,瓦氏膜盤菌,瓦氏膜盘菌",
   "Hymenoscyphus varicosporoides,變色膜盤菌,变色膜盘菌",
   "Hymenostilbe odonatae,蜻蜓層束梗黴,蜻蜓层束梗霉",
+  "Hyphodontia arguta,尖產絲齒菌,尖产丝齿菌",
   "Hypholoma cinnabarinum,橙紅鱗垂幕菇,橙红鳞垂幕菇",
   "Hypholoma fasciculare,簇生垂幕菇,簇生垂幕菇",
   "Hypholoma lateritium,磚紅垂幕菇,砖红垂幕菇",

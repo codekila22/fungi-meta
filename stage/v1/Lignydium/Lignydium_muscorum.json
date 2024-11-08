@@ -351,5 +351,13 @@
  "names_zhcn": [
   "苔生煤绒黏菌"
  ],
- "timestamp": "20241108-164358"
+ "inaturalist": [
+  {
+   "name": "Lignydium muscorum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1504204-Lignydium-muscorum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249035765/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241108-221703"
 }
