@@ -2,7 +2,7 @@
  "name": "Scutellinia",
  "zhtw": "盾盤菌屬",
  "zhcn": "盾盘菌属",
- "timestamp": "20241103-200918",
+ "timestamp": "20241108-164358",
  "list": [
   {
    "name": "Scutellinia crucipila",
@@ -39,6 +39,12 @@
    "zhtw": "濘盾盤菌",
    "zhcn": "泞盾盘菌",
    "img": "Scutellinia_uliginosa_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Scutellinia vitreola",
+   "zhtw": "玻璃盾盤菌",
+   "zhcn": "玻璃盾盘菌",
+   "img": "Scutellinia_vitreola_8aff1ce0-9bdc-11ef-a6ca-fd12af9e91fc_1.jpg"
   }
  ]
 }

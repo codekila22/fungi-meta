@@ -2,8 +2,14 @@
  "name": "Marasmiellus",
  "zhtw": "微皮傘屬",
  "zhcn": "微皮伞属",
- "timestamp": "20241103-200918",
+ "timestamp": "20241108-164358",
  "list": [
+  {
+   "name": "Marasmiellus aff. pilosus",
+   "zhtw": "毛微皮傘的相似種",
+   "zhcn": "毛微皮伞的相似种",
+   "img": "Marasmiellus_aff. pilosus_cad44720-9bda-11ef-a6ca-fd12af9e91fc_1.jpg"
+  },
   {
    "name": "Marasmiellus affixus",
    "zhtw": "貼木微皮傘",

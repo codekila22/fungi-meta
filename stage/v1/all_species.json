@@ -1,5 +1,5 @@
 {
- "timestamp": "20241103-200918",
+ "timestamp": "20241108-164358",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -678,6 +678,7 @@
    "Hemitrichia,半網黏菌屬,半网黏菌属",
    "Lamproderma,亮皮黏菌屬,亮皮黏菌属",
    "Leocarpus,光果黏菌屬,光果黏菌属",
+   "Lignydium,煤絨黏菌屬,煤绒黏菌属",
    "Lycogala,粉瘤黏菌屬,粉瘤黏菌属",
    "Metatrichia,亞團毛黏菌屬,亚团毛黏菌属",
    "Mucilago,膠漿黏菌屬,胶浆黏菌属",
@@ -936,6 +937,7 @@
    "Trapelia,褐邊衣屬,褐边衣属",
    "Trypethelium,乳嘴衣屬,乳嘴衣属",
    "Tuckneraria,緣毛腎島衣屬,缘毛肾岛衣属",
+   "Umbilicaria,石耳屬,石耳属",
    "Usnea,松蘿屬,松萝属"
   ],
   "chanterelles": [
@@ -1445,6 +1447,7 @@
   "Collybia effusa,疏褶金錢菇,疏褶金钱菇",
   "Collybia kurara,庫拉拉金錢菇,库拉拉金钱菇",
   "Collybia sordida,花臉金錢菇,花脸金钱菇",
+  "Collybiopsis cf. gibbosa,疑似駝背擬金錢菌,疑似驼背拟金钱菌",
   "Collybiopsis luxurians,華麗擬金錢菇,华丽拟金钱菇",
   "Collybiopsis quercophila,櫟生擬金錢菇,栎生拟金钱菇",
   "Colpoma juniperi,柏生彎殼菌,柏生弯壳菌",
@@ -2257,6 +2260,7 @@
   "Lichenomphalia hudsoniana,哈德孫地衣臍菇,哈德孙地衣脐菇",
   "Lichenomphalia umbellifera,傘形地衣臍菇,伞形地衣脐菇",
   "Lignosus rhinocerus,虎乳芝,虎乳芝",
+  "Lignydium muscorum,苔生煤絨黏菌,苔生煤绒黏菌",
   "Limacella illinita,散布黏傘,散布黏伞",
   "Lindquistia sp.1,黃柄林奎氏菌(暫名),黄柄林奎氏菌(暂名)",
   "Lobaria cf. yunnanensis,疑似雲南肺衣,疑似云南肺衣",
@@ -2295,6 +2299,7 @@
   "Macrolepiota dolichaula,長柄大環柄菇,长柄大环柄菇",
   "Macrolepiota procera,高大環柄菇,高大环柄菇",
   "Magoderna subresinosum,樹脂大孢芝,树脂大孢芝",
+  "Marasmiellus aff. pilosus,毛微皮傘的相似種,毛微皮伞的相似种",
   "Marasmiellus affixus,貼木微皮傘,贴木微皮伞",
   "Marasmiellus atrostipitatus,小黑柄微皮傘,小黑柄微皮伞",
   "Marasmiellus candidus,純白微皮傘,纯白微皮伞",
@@ -2528,6 +2533,7 @@
   "Nyssopsora formosana,臺灣花孢銹菌,台湾花孢锈菌",
   "Nyssopsora thwaitesii,鵝掌藤花孢銹菌,鹅掌藤花孢锈菌",
   "Ochrolechia trochophora,幹生肉疣衣,干生肉疣衣",
+  "Ochrolechia yasuda,裂芽肉疣衣,裂芽肉疣衣",
   "Oidium murrayae,月橘白粉病,月橘白粉病",
   "Oligoporus stipticus,苦寡孔菌,苦寡孔菌",
   "Ombrophila violacea,堇紫雨盤菌,堇紫雨盘菌",
@@ -3057,6 +3063,7 @@
   "Scutellinia setosa,毛盾盤菌,毛盾盘菌",
   "Scutellinia trechispora,鈍刺盾盤菌,钝刺盾盘菌",
   "Scutellinia uliginosa,濘盾盤菌,泞盾盘菌",
+  "Scutellinia vitreola,玻璃盾盤菌,玻璃盾盘菌",
   "Scytinopogon cryptomerioides,柳杉扁枝瑚菌,柳杉扁枝瑚菌",
   "Sebacina incrustans,熔蠟殼菌,熔蜡壳菌",
   "Serpula himantioides,扇索狀乾腐菌,扇索状干腐菌",
@@ -3301,6 +3308,7 @@
   "Tyromyces incarnatus,肉紅乾酪菌,肉红干酪菌",
   "Tyromyces pulcherrimus,美麗乾酪菌,美丽干酪菌",
   "Tyromyces taxi,紫杉乾酪菌,紫杉干酪菌",
+  "Umbilicaria yunnana,雲南石耳,云南石耳",
   "Unguiculariopsis ravenelii,拉氏擬爪毛盤菌,拉氏拟爪毛盘菌",
   "Uredo rangelii,桃金孃銹菌,桃金娘锈菌",
   "Uromyces aconiticola,烏頭單胞銹菌,乌头单胞锈菌",

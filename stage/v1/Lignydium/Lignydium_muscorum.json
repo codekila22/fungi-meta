@@ -1,0 +1,355 @@
+{
+ "genus": "Lignydium",
+ "name": "muscorum",
+ "date": [
+  "10/12/2024,8315124648597893",
+  "09/10/2024,8017107605066267",
+  "06/24/2023,8146895708754122",
+  "10/02/2022,5288952107881844",
+  "09/27/2022,5586533581457027",
+  "09/25/2022,5269099793200409",
+  "07/18/2022,5080103495433374"
+ ],
+ "names_zhtw": [
+  "苔生煤絨黏菌"
+ ],
+ "names_en": [],
+ "url": "5586533581457027",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_9_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_10_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Fuligo_muscorum_11_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_10_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_11_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_12_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_13_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_14_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_15_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_16_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_17_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_20_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Fuligo_muscorum_24_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_6_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_7_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_8_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_9_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_10_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_muscorum_11_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_c21bd840-6f7b-11ef-b770-011936862034_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_c21bd840-6f7b-11ef-b770-011936862034_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_c21bd840-6f7b-11ef-b770-011936862034_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_c21bd840-6f7b-11ef-b770-011936862034_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_c21bd840-6f7b-11ef-b770-011936862034_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_c21bd840-6f7b-11ef-b770-011936862034_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_c21bd840-6f7b-11ef-b770-011936862034_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_c21bd840-6f7b-11ef-b770-011936862034_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_c21bd840-6f7b-11ef-b770-011936862034_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fuligo_muscorum_c21bd840-6f7b-11ef-b770-011936862034_10.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fuligo_muscorum_449e10d0-7bed-11ef-b865-a71ed80ead40_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fuligo_muscorum_449e10d0-7bed-11ef-b865-a71ed80ead40_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fuligo_muscorum_449e10d0-7bed-11ef-b865-a71ed80ead40_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fuligo_muscorum_449e10d0-7bed-11ef-b865-a71ed80ead40_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fuligo_muscorum_449e10d0-7bed-11ef-b865-a71ed80ead40_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fuligo_muscorum_449e10d0-7bed-11ef-b865-a71ed80ead40_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_12.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_13.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_14.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_15.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_16.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Fuligo_muscorum_31810d50-8943-11ef-8f32-c3a08cecb73c_17.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Fuligo muscorum",
+   "zhtw": "苔生煤絨黏菌",
+   "zhcn": "苔生煤绒黏菌"
+  }
+ ],
+ "names_zhcn": [
+  "苔生煤绒黏菌"
+ ],
+ "timestamp": "20241108-164358"
+}

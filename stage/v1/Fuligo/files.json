@@ -2,7 +2,7 @@
  "name": "Fuligo",
  "zhtw": "煤絨黏菌屬",
  "zhcn": "煤绒黏菌属",
- "timestamp": "20241103-200918",
+ "timestamp": "20241108-164358",
  "list": [
   {
    "name": "Fuligo aurea",
@@ -26,6 +26,9 @@
    "name": "Fuligo muscorum",
    "zhtw": "苔生煤絨黏菌",
    "zhcn": "苔生煤绒黏菌",
+   "current": "Lignydium muscorum",
+   "current_zhtw": "苔生煤絨黏菌",
+   "current_zhcn": "苔生煤绒黏菌",
    "img": "Fuligo_muscorum_1_CC BY-NC_江志緯.jpg"
   },
   {

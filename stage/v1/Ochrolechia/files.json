@@ -2,13 +2,19 @@
  "name": "Ochrolechia",
  "zhtw": "肉疣衣屬",
  "zhcn": "肉疣衣属",
- "timestamp": "20241103-200918",
+ "timestamp": "20241108-164358",
  "list": [
   {
    "name": "Ochrolechia trochophora",
    "zhtw": "幹生肉疣衣",
    "zhcn": "干生肉疣衣",
    "img": "Ochrolechia_trochophora_3c4435e0-d37d-11ee-a2a9-812f9c8874dd_5.jpg"
+  },
+  {
+   "name": "Ochrolechia yasuda",
+   "zhtw": "裂芽肉疣衣",
+   "zhcn": "裂芽肉疣衣",
+   "img": "Ochrolechia_yasuda_f03018a0-9b44-11ef-adb1-614cf2b66094_1.jpg"
   }
  ]
 }

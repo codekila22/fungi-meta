@@ -180,13 +180,14 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "edible",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -201,5 +202,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/196776/thumb.jpg"
   }
  ],
- "timestamp": "20241103-200918"
+ "timestamp": "20241108-164358"
 }

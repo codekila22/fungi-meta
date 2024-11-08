@@ -5,6 +5,7 @@
   "09/02/2024,7969777586465936",
   "07/09/2022,5057822684328122",
   "07/24/2019,2264524043658014",
+  "07/24/2019,2264524043658014",
   "06/26/2015,863474940429605"
  ],
  "names_zhtw": [
@@ -72,14 +73,6 @@
   },
   {
    "author": "柯文俊",
-   "image_src": "Rhizocarpon_geographicum_2_CC BY-NC_柯文俊.jpg"
-  },
-  {
-   "author": "柯文俊",
-   "image_src": "Rhizocarpon_geographicum_3_CC BY-NC_柯文俊.jpg"
-  },
-  {
-   "author": "柯文俊",
    "image_src": "Rhizocarpon_geographicum_4_CC BY-NC_柯文俊.jpg"
   },
   {
@@ -125,6 +118,10 @@
   {
    "author": "陳麗紅",
    "image_src": "Rhizocarpon_geographicum_2ec1cab0-6b51-11ef-b702-a3107ba910c7_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rhizocarpon_geographicum_94272080-9b17-11ef-ad64-b3d00db815c3_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -186,5 +183,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5199855/thumb.jpeg"
   }
  ],
- "timestamp": "20241103-200918"
+ "timestamp": "20241108-164358"
 }
