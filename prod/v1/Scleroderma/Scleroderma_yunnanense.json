@@ -1,0 +1,85 @@
+{
+ "genus": "Scleroderma",
+ "name": "yunnanense",
+ "date": [
+  "08/31/2023,6354705721306472"
+ ],
+ "names_zhtw": [
+  "雲南硬皮馬勃"
+ ],
+ "names_en": [],
+ "url": "6354705721306472",
+ "images": [
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_yunnanense_1_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_yunnanense_2_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_yunnanense_3_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_yunnanense_4_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "李俊佑",
+   "image_src": "Scleroderma_yunnanense_5_CC BY-NC_李俊佑.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Scleroderma_yunnanense_637204d0-4859-11ee-b58b-1d38a8a011bf_1.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "云南硬皮马勃"
+ ],
+ "meta": {
+  "CapColors": "4291605388,4289309097",
+  "CapDiamRangeValues": "25,70",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Scleroderma yunnanense",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1156532-Scleroderma-yunnanense",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

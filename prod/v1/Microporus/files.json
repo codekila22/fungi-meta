@@ -1,0 +1,29 @@
+{
+ "name": "Microporus",
+ "zhtw": "小孔菌屬",
+ "zhcn": "小孔菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Microporus affinis",
+   "zhtw": "相鄰小孔菌",
+   "zhcn": "相邻小孔菌",
+   "img": "Microporus_affinis_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Microporus vernicipes",
+   "zhtw": "漆柄小孔菌",
+   "zhcn": "漆柄小孔菌",
+   "current": "Trametes vernicipes",
+   "current_zhtw": "漆柄栓菌",
+   "current_zhcn": "漆柄栓菌",
+   "img": "Trametes_vernicipes_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Microporus xanthopus",
+   "zhtw": "黃柄小孔菌",
+   "zhcn": "黄柄小孔菌",
+   "img": "Microporus_xanthopus_1_CC BY-NC_陳雅芬.jpg"
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "genus": "Inocybe",
+ "name": "aureostipes",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "金柄絲蓋傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3593",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_8_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "金柄丝盖伞"
+ ],
+ "meta": {
+  "CapColors": "4283250944,4291605388,4290283019",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Inocybe aureostipes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1295669-Inocybe-aureostipes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/160651405/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

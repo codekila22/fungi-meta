@@ -1,0 +1,85 @@
+{
+ "genus": "Mitrula",
+ "name": "paludosa",
+ "date": [
+  "05/14/2022,4891948264248899"
+ ],
+ "names_zhtw": [
+  "濕生地杖菌"
+ ],
+ "names_en": [],
+ "url": "4891948264248899",
+ "images": [
+  {
+   "author": "Amy Fedun",
+   "image_src": "Mitrula_paludosa_1_CC BY-NC_Amy Fedun.jpg"
+  },
+  {
+   "author": "Amy Fedun",
+   "image_src": "Mitrula_paludosa_2_CC BY-NC_Amy Fedun.jpg"
+  },
+  {
+   "author": "Amy Fedun",
+   "image_src": "Mitrula_paludosa_3_CC BY-NC_Amy Fedun.jpg"
+  },
+  {
+   "author": "Amy Fedun",
+   "image_src": "Mitrula_paludosa_4_CC BY-NC_Amy Fedun.jpg"
+  },
+  {
+   "author": "Amy Fedun",
+   "image_src": "Mitrula_paludosa_5_CC BY-NC_Amy Fedun.jpg"
+  },
+  {
+   "author": "Amy Fedun",
+   "image_src": "Mitrula_paludosa_6_CC BY-NC_Amy Fedun.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "湿生地杖菌"
+ ],
+ "meta": {
+  "CapColors": "4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生活在溫帶地區的濕地上，此紀錄照片拍攝地點為美國東北部地區。"
+ },
+ "inaturalist": [
+  {
+   "name": "Mitrula paludosa",
+   "cname": "Swamp Beacon",
+   "url": "https://www.inaturalist.org/taxa/120551-Mitrula-paludosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63535/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

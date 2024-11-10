@@ -1,0 +1,125 @@
+{
+ "genus": "Puccinia",
+ "name": "oxalidis",
+ "date": [
+  "08/05/2023,6266270546816657",
+  "04/30/2023,5931481063628942",
+  "02/09/2023,5679620692148315",
+  "04/08/2022,4800138293429897",
+  "04/02/2021,3647852568658481",
+  "03/15/2021,3597494367027635"
+ ],
+ "names_zhtw": [
+  "酢漿草柄銹菌"
+ ],
+ "names_en": [],
+ "url": "5679620692148315",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Puccinia_oxalidis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Puccinia_oxalidis_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Puccinia_oxalidis_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Puccinia_oxalidis_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Puccinia_oxalidis_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Puccinia_oxalidis_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Puccinia_oxalidis_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Puccinia_oxalidis_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_oxalidis_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_oxalidis_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_oxalidis_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Puccinia_oxalidis_1_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Puccinia_oxalidis_21c7d9c0-e732-11ed-8bb9-c1fdd1c0d3bd_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Puccinia_oxalidis_21c7d9c0-e732-11ed-8bb9-c1fdd1c0d3bd_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Puccinia_oxalidis_21c7d9c0-e732-11ed-8bb9-c1fdd1c0d3bd_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "酢浆草柄锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294956800",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Puccinia oxalidis",
+   "cname": "Oxalis Rust",
+   "url": "https://www.inaturalist.org/taxa/84767-Puccinia-oxalidis",
+   "src": "https://static.inaturalist.org/photos/232111534/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

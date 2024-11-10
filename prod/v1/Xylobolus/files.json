@@ -1,0 +1,38 @@
+{
+ "name": "Xylobolus",
+ "zhtw": "木丸菌屬",
+ "zhcn": "木丸菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Xylobolus annosus",
+   "zhtw": "一年生木丸菌",
+   "zhcn": "一年生木丸菌",
+   "img": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_1.jpg"
+  },
+  {
+   "name": "Xylobolus frustulatus",
+   "zhtw": "龜背木丸菌",
+   "zhcn": "龟背木丸菌",
+   "img": "Xylobolus_frustulatus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Xylobolus princeps",
+   "zhtw": "領先木丸菌",
+   "zhcn": "领先木丸菌",
+   "img": "Xylobolus_princeps_2_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "name": "Xylobolus spectabilis",
+   "zhtw": "華麗木丸菌",
+   "zhcn": "华丽木丸菌",
+   "img": "Xylobolus_spectabilis_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Xylobolus subpileatus",
+   "zhtw": "亞蓋木丸菌",
+   "zhcn": "亚盖木丸菌",
+   "img": "Xylobolus_subpileatus_1_CC BY-NC_柯文俊.jpg"
+  }
+ ]
+}

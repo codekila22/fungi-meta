@@ -1,0 +1,32 @@
+{
+ "name": "Xanthagaricus",
+ "zhtw": "黃蘑菇屬",
+ "zhcn": "黄蘑菇属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Xanthagaricus epipastus",
+   "zhtw": "牧場黃蘑菇",
+   "zhcn": "牧场黄蘑菇",
+   "img": "Xanthagaricus_epipastus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Xanthagaricus ianthinus",
+   "zhtw": "藍紫黃蘑菇",
+   "zhcn": "蓝紫黄蘑菇",
+   "img": "Xanthagaricus_ianthinus_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Xanthagaricus necopinatus",
+   "zhtw": "驚奇黃蘑菇",
+   "zhcn": "惊奇黄蘑菇",
+   "img": "Xanthagaricus_necopinatus_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Xanthagaricus pakistanicus",
+   "zhtw": "巴基斯坦黃蘑菇",
+   "zhcn": "巴基斯坦黄蘑菇",
+   "img": "Xanthagaricus_pakistanicus_1_CC BY-NC_陳雅芬.jpg"
+  }
+ ]
+}

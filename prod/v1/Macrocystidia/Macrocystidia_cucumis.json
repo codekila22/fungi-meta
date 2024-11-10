@@ -1,0 +1,129 @@
+{
+ "genus": "Macrocystidia",
+ "name": "cucumis",
+ "date": [
+  "05/10/2023,5972441966199518",
+  "04/09/2023,6027151160728598",
+  "04/20/2014,544192509024518"
+ ],
+ "names_zhtw": [
+  "瓜形大囊傘"
+ ],
+ "names_en": [],
+ "url": "5972441966199518",
+ "images": [
+  {
+   "author": "柯宜宏",
+   "image_src": "Macrocystidia_cucumis_2_CC BY-NC_柯宜宏.jpg"
+  },
+  {
+   "author": "柯宜宏",
+   "image_src": "Macrocystidia_cucumis_1_CC BY-NC_柯宜宏.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Macrocystidia_cucumis_17887580-f175-11ed-ab70-d3840b82c21b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Macrocystidia_cucumis_17887580-f175-11ed-ab70-d3840b82c21b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Macrocystidia_cucumis_17887580-f175-11ed-ab70-d3840b82c21b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Macrocystidia_cucumis_17887580-f175-11ed-ab70-d3840b82c21b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Macrocystidia_cucumis_17887580-f175-11ed-ab70-d3840b82c21b_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Macrocystidia_cucumis_5d092d90-fd35-11ed-b919-fdcbab81faae_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Macrocystidia_cucumis_5d092d90-fd35-11ed-b919-fdcbab81faae_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Macrocystidia_cucumis_5d092d90-fd35-11ed-b919-fdcbab81faae_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Macrocystidia_cucumis_5d092d90-fd35-11ed-b919-fdcbab81faae_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Macrocystidia_cucumis_5d092d90-fd35-11ed-b919-fdcbab81faae_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "瓜形大囊伞"
+ ],
+ "meta": {
+  "CapColors": "4286578688,4288696877",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Macrocystidia cucumis",
+   "cname": "Cucumber Cap",
+   "url": "https://www.inaturalist.org/taxa/49544-Macrocystidia-cucumis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/175118583/thumb.jpg"
+  },
+  {
+   "name": "Macrocystidia cucumis var. latifolia",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/796053-Macrocystidia-cucumis-latifolia",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/244065105/thumb.jpg"
+  },
+  {
+   "name": "Macrocystidia cucumis ssp. leucospora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1400123-Macrocystidia-cucumis-leucospora",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/244393661/thumb.jpg"
+  },
+  {
+   "name": "Macrocystidia cucumis var. cucumis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1056892-Macrocystidia-cucumis-cucumis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155414069/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,97 @@
+{
+ "genus": "Macrolepiota",
+ "name": "dolichaula",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "長柄大環柄菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4365",
+ "images": [
+  {
+   "author": "陳柏豪",
+   "image_src": "Macrolepiota_dolichaula_1_CC BY-NC_陳柏豪.jpg"
+  },
+  {
+   "author": "陳柏豪",
+   "image_src": "Macrolepiota_dolichaula_2_CC BY-NC_陳柏豪.jpg"
+  },
+  {
+   "author": "陳柏豪",
+   "image_src": "Macrolepiota_dolichaula_3_CC BY-NC_陳柏豪.jpg"
+  },
+  {
+   "author": "陳柏豪",
+   "image_src": "Macrolepiota_dolichaula_4_CC BY-NC_陳柏豪.jpg"
+  },
+  {
+   "author": "陳柏豪",
+   "image_src": "Macrolepiota_dolichaula_5_CC BY-NC_陳柏豪.jpg"
+  },
+  {
+   "author": "陳柏豪",
+   "image_src": "Macrolepiota_dolichaula_6_CC BY-NC_陳柏豪.jpg"
+  },
+  {
+   "author": "陳柏豪",
+   "image_src": "Macrolepiota_dolichaula_7_CC BY-NC_陳柏豪.jpg"
+  },
+  {
+   "author": "陳柏豪",
+   "image_src": "Macrolepiota_dolichaula_8_CC BY-NC_陳柏豪.jpg"
+  },
+  {
+   "author": "陳柏豪",
+   "image_src": "Macrolepiota_dolichaula_9_CC BY-NC_陳柏豪.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "长柄大环柄菇"
+ ],
+ "meta": {
+  "CapColors": "4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground,meadow",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Macrolepiota dolichaula",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/354648-Macrolepiota-dolichaula",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5665509/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

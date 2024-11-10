@@ -1,0 +1,95 @@
+{
+ "genus": "Panus",
+ "name": "similis",
+ "synonym": [
+  {
+   "name": "Lentinus similis",
+   "zhtw": "絨柄斗菇",
+   "zhcn": "绒柄斗菇"
+  }
+ ],
+ "date": [
+  "09/24/2023,6440094219434288",
+  "06/02/2018,3474534649323608"
+ ],
+ "names_zhtw": [
+  "絨柄革耳",
+  "絨柄香菇"
+ ],
+ "names_en": [],
+ "url": "3474534649323608",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_similis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_similis_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_similis_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_similis_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_similis_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_similis_6_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "绒柄革耳",
+  "绒柄香菇"
+ ],
+ "meta": {
+  "CapColors": "4287317267,4288696877",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Panus similis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/499984-Panus-similis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159305/thumb."
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

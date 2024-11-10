@@ -1,0 +1,23 @@
+{
+ "name": "Filoboletus",
+ "zhtw": "絲牛肝菌屬",
+ "zhcn": "丝牛肝菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Filoboletus gracilis",
+   "zhtw": "纖細絲牛肝菌",
+   "zhcn": "纤细丝牛肝菌",
+   "img": "Filoboletus_gracilis_7cd98a00-100f-11ef-bff1-cfc5c367292a_1.jpg"
+  },
+  {
+   "name": "Filoboletus manipularis",
+   "zhtw": "叢傘絲牛肝菌",
+   "zhcn": "丛伞丝牛肝菌",
+   "current": "Mycena manipularis",
+   "current_zhtw": "叢傘小菇",
+   "current_zhcn": "丛伞小菇",
+   "img": "Favolaschia_manipularis_2_CC BY-NC_James Ho.jpg"
+  }
+ ]
+}

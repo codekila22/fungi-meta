@@ -1,0 +1,74 @@
+{
+ "genus": "Cosmospora",
+ "name": "ustulinae",
+ "date": [
+  "11/09/2024,8486769741433382"
+ ],
+ "names_zhtw": [
+  "炭焦菌飾孢殼"
+ ],
+ "names_en": [],
+ "url": "8486769741433382",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Cosmospora_ustulinae_fe642dc0-9f46-11ef-b02f-bb2efaa55a62_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cosmospora_ustulinae_fe642dc0-9f46-11ef-b02f-bb2efaa55a62_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cosmospora_ustulinae_fe642dc0-9f46-11ef-b02f-bb2efaa55a62_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "炭焦菌饰孢壳"
+ ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "寄生在柄座菌屬。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Cosmospora ustulinae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1472461-Cosmospora-ustulinae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/286815029/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

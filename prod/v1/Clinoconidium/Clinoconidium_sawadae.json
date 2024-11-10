@@ -1,0 +1,107 @@
+{
+ "genus": "Clinoconidium",
+ "name": "sawadae",
+ "synonym": [
+  {
+   "name": "Exobasidium sawadae",
+   "zhtw": "樟樹外擔菌",
+   "zhcn": "樟树外担菌"
+  }
+ ],
+ "date": [
+  "12/25/2020,3389765094467231",
+  "01/06/2018,1416092295167864"
+ ],
+ "names_zhtw": [
+  "澤田氏斜孢菌"
+ ],
+ "names_en": [],
+ "url": "1416092295167864",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Clinoconidium_sawadae_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clinoconidium_sawadae_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clinoconidium_sawadae_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clinoconidium_sawadae_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clinoconidium_sawadae_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clinoconidium_sawadae_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clinoconidium_sawadae_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clinoconidium_sawadae_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Clinoconidium_sawadae_9_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "泽田氏斜孢菌"
+ ],
+ "meta": {
+  "CapColors": "4291605388,4292786311",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Clinoconidium cinnamomi,,",
+  "Note": "寄生在樟樹的果實上。",
+  "la_zhtw": "肉桂斜孢菌,,",
+  "la_zhcn": "肉桂斜孢菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Clinoconidium sawadae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1159018-Clinoconidium-sawadae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58369641/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

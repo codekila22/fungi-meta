@@ -1,0 +1,101 @@
+{
+ "genus": "Peniophorella",
+ "name": "praetermissa",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "普擬筍殼菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5434",
+ "images": [
+  {
+   "author": "胡家銘",
+   "image_src": "Peniophorella_praetermissa_1_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Peniophorella_praetermissa_2_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Peniophorella_praetermissa_3_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Peniophorella_praetermissa_4_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Peniophorella_praetermissa_5_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Peniophorella_praetermissa_6_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Peniophorella_praetermissa_7_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Peniophorella_praetermissa_8_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Peniophorella_praetermissa_9_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Peniophorella_praetermissa_10_CC BY-NC_胡家銘.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "普拟笋壳菌"
+ ],
+ "meta": {
+  "CapColors": "4292072403,4288768839",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Peniophorella praetermissa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/328284-Peniophorella-praetermissa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1331071/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,41 @@
+{
+ "name": "Tyromyces",
+ "zhtw": "乾酪菌屬",
+ "zhcn": "干酪菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Tyromyces aurantilaetus",
+   "zhtw": "橙色乾酪菌",
+   "zhcn": "橙色干酪菌",
+   "img": "Tyromyces_aurantilaetus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Tyromyces chioneus",
+   "zhtw": "雪白乾酪菌",
+   "zhcn": "雪白干酪菌",
+   "img": "Tyromyces_chioneus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Tyromyces incarnatus",
+   "zhtw": "肉紅乾酪菌",
+   "zhcn": "肉红干酪菌",
+   "img": "Tyromyces_incarnatus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Tyromyces pulcherrimus",
+   "zhtw": "美麗乾酪菌",
+   "zhcn": "美丽干酪菌",
+   "img": "Tyromyces_pulcherrimus_1cb20940-6db6-11ef-9b6a-9df91a34098c_1.jpg"
+  },
+  {
+   "name": "Tyromyces taxi",
+   "zhtw": "紫杉乾酪菌",
+   "zhcn": "紫杉干酪菌",
+   "current": "Bondarcevomyces taxi",
+   "current_zhtw": "紫杉帕氏孔菌",
+   "current_zhcn": "紫杉帕氏孔菌",
+   "img": "Bondarcevomyces_taxi_1_CC BY-NC_向高世.jpg"
+  }
+ ]
+}

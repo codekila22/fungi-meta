@@ -1,0 +1,69 @@
+{
+ "genus": "Xylaria",
+ "name": "aff. grammica",
+ "date": [
+  "04/18/2021,3999786716798396"
+ ],
+ "names_zhtw": [
+  "條紋炭角菌的相似種"
+ ],
+ "names_en": [],
+ "url": "3999786716798396",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_aff. grammica_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_aff. grammica_2_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "条纹炭角菌的相似种"
+ ],
+ "meta": {
+  "CapColors": "4290822336,4291605388,4294309340",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "相較條紋炭角菌少了條紋上的黑條紋。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Xylaria grammica",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/352897-Xylaria-grammica",
+   "src": "https://static.inaturalist.org/photos/142698154/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

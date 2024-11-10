@@ -1,0 +1,114 @@
+{
+ "genus": "Hymenoscyphus",
+ "name": "fructigenus",
+ "date": [
+  "10/18/2024,8357983714311986",
+  "07/03/2023,6164359950341051"
+ ],
+ "names_zhtw": [
+  "果生膜盤菌"
+ ],
+ "names_en": [],
+ "url": "6164359950341051",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_fructigenus_ec98c500-1c8f-11ee-93f6-4714391c8963_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_fructigenus_ec98c500-1c8f-11ee-93f6-4714391c8963_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_fructigenus_ec98c500-1c8f-11ee-93f6-4714391c8963_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_fructigenus_ec98c500-1c8f-11ee-93f6-4714391c8963_4.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hymenoscyphus_fructigenus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hymenoscyphus_fructigenus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hymenoscyphus_fructigenus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hymenoscyphus_fructigenus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hymenoscyphus_fructigenus_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_fructigenus_1e420ce0-8ed8-11ef-9625-6558704d0fe7_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_fructigenus_1e420ce0-8ed8-11ef-9625-6558704d0fe7_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_fructigenus_1e420ce0-8ed8-11ef-9625-6558704d0fe7_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_fructigenus_1e420ce0-8ed8-11ef-9625-6558704d0fe7_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "果生膜盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294309340,4294967295",
+  "CapDiamRangeValues": "1,4",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "fruit",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "有細長柄。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Hymenoscyphus fructigenus",
+   "cname": "Nut Disco",
+   "url": "https://www.inaturalist.org/taxa/351066-Hymenoscyphus-fructigenus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/98452562/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

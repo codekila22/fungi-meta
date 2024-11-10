@@ -1,0 +1,99 @@
+{
+ "genus": "Leucoagaricus",
+ "name": "atrosquamulosus",
+ "date": [
+  "02/16/2022"
+ ],
+ "names_zhtw": [
+  "暗鱗白環蘑"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/847",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Lepiota_atrosquamulosa_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lepiota_atrosquamulosa_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lepiota_atrosquamulosa_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lepiota_atrosquamulosa_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_atrosquamulosa_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_atrosquamulosa_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_atrosquamulosa_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_atrosquamulosa_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_atrosquamulosa_5_CC BY-NC.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Lepiota atrosquamulosa",
+   "zhtw": "暗鱗環柄菇",
+   "zhcn": "暗鳞环柄菇"
+  }
+ ],
+ "names_zhcn": [
+  "暗鳞白环蘑"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4285098345",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Lepiota clypeolaria,Leucocoprinus brebissonii,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "細環柄菇,暗鱗白鬼傘,",
+  "la_zhcn": "细环柄菇,暗鳞白鬼伞,"
+ },
+ "timestamp": "20241110-215815"
+}

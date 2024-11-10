@@ -1,0 +1,79 @@
+{
+ "genus": "Cladonia",
+ "name": "chlorophaea",
+ "date": [
+  "11/01/2023,6605021036274938"
+ ],
+ "names_zhtw": [
+  "喇叭粉石蕊"
+ ],
+ "names_en": [],
+ "url": "6605021036274938",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_chlorophaea_a4dbac20-810a-11ee-b58d-ed8757b4ec19_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_chlorophaea_a4dbac20-810a-11ee-b58d-ed8757b4ec19_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_chlorophaea_a4dbac20-810a-11ee-b58d-ed8757b4ec19_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "喇叭粉石蕊"
+ ],
+ "meta": {
+  "CapColors": "4293313475,4293951616,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground,rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Cladonia chlorophaea",
+   "cname": "Cladonia Chlorophaea Aggregate",
+   "url": "https://www.inaturalist.org/taxa/1080564-Cladonia-chlorophaea",
+   "src": "https://static.inaturalist.org/photos/51092625/thumb.jpg"
+  },
+  {
+   "name": "Cladonia chlorophaea",
+   "cname": "Mealy Pixie Cup",
+   "url": "https://www.inaturalist.org/taxa/49488-Cladonia-chlorophaea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2339782/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,322 @@
+{
+ "genus": "Mycena",
+ "name": "haematopus",
+ "date": [
+  "06/09/2024,7478149495628750",
+  "05/30/2024,7429870593789974",
+  "04/16/2024,7230936710350031",
+  "03/23/2024,7147695902007446",
+  "03/21/2024,7132762566834113",
+  "03/08/2024,7073481906095513",
+  "12/26/2023,6788818034561903",
+  "11/20/2023,6657823334328041",
+  "10/31/2023,6580502418726800",
+  "05/27/2023,6036661163110931",
+  "05/16/2023,5986372851473096",
+  "04/22/2023,5908773422566373",
+  "03/28/2023,5829059247204458",
+  "03/08/2023,5787142784729438",
+  "02/22/2023,5720613878048996",
+  "02/15/2023,5697810863662631",
+  "01/06/2023,5579073882202997",
+  "10/21/2022,5363779750399079",
+  "10/12/2022,5321556144621440",
+  "05/18/2022,4915349971908728",
+  "02/12/2022,4644047682372293",
+  "01/19/2022,4560153750761687",
+  "01/01/2022,4492473334196396",
+  "11/30/2021,4372104799566584",
+  "11/26/2021,4369678489809215",
+  "10/26/2021,4261460307297701",
+  "06/03/2021,3860919250685144",
+  "01/19/2021,3452038394906567",
+  "01/09/2021,3428991407211266",
+  "01/09/2021,3430604023716671",
+  "01/05/2021,3415875748522832",
+  "10/25/2020,3229803930463349",
+  "08/30/2020,3074131476030596",
+  "02/02/2020,4613224168787978"
+ ],
+ "names_zhtw": [
+  "紅紫柄小菇",
+  "流血小菇",
+  "紅汁小菇"
+ ],
+ "names_en": [
+  "Bleeding Mycena"
+ ],
+ "url": "4372104799566584",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_9_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_10_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_11_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_12_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "蘇金泉",
+   "image_src": "Mycena_haematopus_9_CC BY-NC_蘇金泉.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_haematopus_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_haematopus_6_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_haematopus_7_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "蘇金泉",
+   "image_src": "Mycena_haematopus_8_CC BY-NC_蘇金泉.jpg"
+  },
+  {
+   "author": "蘇金泉",
+   "image_src": "Mycena_haematopus_10_CC BY-NC_蘇金泉.jpg"
+  },
+  {
+   "author": "蘇金泉",
+   "image_src": "Mycena_haematopus_11_CC BY-NC_蘇金泉.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_haematopus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_haematopus_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_haematopus_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_haematopus_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_13_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_14_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_15_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_16_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_17_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_95279310-d1e8-11ed-bdc1-a5b47981ac58_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_95279310-d1e8-11ed-bdc1-a5b47981ac58_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_95279310-d1e8-11ed-bdc1-a5b47981ac58_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_bbd9db20-88e1-11ee-9489-3b9bf82c150f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_bbd9db20-88e1-11ee-9489-3b9bf82c150f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_bbd9db20-88e1-11ee-9489-3b9bf82c150f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_07adfef0-dd5b-11ee-818c-33c637344459_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_07adfef0-dd5b-11ee-818c-33c637344459_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_07adfef0-dd5b-11ee-818c-33c637344459_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_2cd4e510-e9bb-11ee-bd4a-c144ab854c23_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_2cd4e510-e9bb-11ee-bd4a-c144ab854c23_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_2cd4e510-e9bb-11ee-bd4a-c144ab854c23_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_haematopus_2cd4e510-e9bb-11ee-bd4a-c144ab854c23_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_haematopus_0f3e1440-eefc-11ee-9a5e-976d0bef20f8_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_haematopus_0f3e1440-eefc-11ee-9a5e-976d0bef20f8_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_haematopus_0f3e1440-eefc-11ee-9a5e-976d0bef20f8_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_haematopus_0f3e1440-eefc-11ee-9a5e-976d0bef20f8_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_haematopus_0f3e1440-eefc-11ee-9a5e-976d0bef20f8_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_haematopus_0f3e1440-eefc-11ee-9a5e-976d0bef20f8_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_haematopus_0f3e1440-eefc-11ee-9a5e-976d0bef20f8_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "红紫柄小菇",
+  "流血小菇",
+  "红汁小菇"
+ ],
+ "meta": {
+  "CapColors": "4290278195,4294901760",
+  "CapDiamRangeValues": "10,25",
+  "CapShape": "campanulate",
+  "CapTexture": "smooth",
+  "CapMargin": "striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "subdistant,shortgills,crossconnected",
+  "HymeniumGillAttachment": "adnate",
+  "HymeniumGillMarginate": "smooth",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4288230092,4294921536",
+  "StalkTexture": "velvety",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "equal",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "60,90",
+  "Rareness": "",
+  "Seasons": "spring,summer,winter",
+  "GrowthType": "scattered,grouped,clustered",
+  "GrowthEnv": "wood",
+  "Bruising": "red",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "菌體受傷會流出紅色汁液。\n\n菌柄披著白色粉末狀顆粒，基部有白毛狀菌絲體。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena haematopus",
+   "cname": "Bleeding Fairy Helmet",
+   "url": "https://www.inaturalist.org/taxa/63460-Mycena-haematopus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/162166136/thumb.jpeg"
+  },
+  {
+   "name": "Mycena haematopus var. marginata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63463-Mycena-haematopus-marginata",
+   "src": "https://static.inaturalist.org/photos/8528848/thumb.jpg"
+  },
+  {
+   "name": "Mycena haematopus var. chilensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63462-Mycena-haematopus-chilensis",
+   "src": ""
+  },
+  {
+   "name": "Mycena haematopus var. cuspidata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63465-Mycena-haematopus-cuspidata",
+   "src": ""
+  },
+  {
+   "name": "Mycena haematopus var. haematopus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63461-Mycena-haematopus-haematopus",
+   "src": ""
+  },
+  {
+   "name": "Mycena haematopus var. umbilicata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63464-Mycena-haematopus-umbilicata",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

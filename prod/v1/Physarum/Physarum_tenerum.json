@@ -1,0 +1,84 @@
+{
+ "genus": "Physarum",
+ "name": "tenerum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "細弱絨泡黏菌"
+ ],
+ "names_en": [],
+ "url": "3789983977778672",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_tenerum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_tenerum_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_tenerum_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_tenerum_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_tenerum_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_tenerum_6_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "细弱绒泡黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4289309097",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Physarum tenerum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/510742-Physarum-tenerum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30502203/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

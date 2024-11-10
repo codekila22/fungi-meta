@@ -1,0 +1,73 @@
+{
+ "genus": "Cantharellus",
+ "name": "guyanensis",
+ "date": [
+  "08/18/2021,4065585120218555"
+ ],
+ "names_zhtw": [
+  "圭亞那雞油菌"
+ ],
+ "names_en": [],
+ "url": "4065585120218555",
+ "images": [
+  {
+   "author": "林杏蓉",
+   "image_src": "Cantharellus_guyanensis_1_CC BY-NC_林杏蓉.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Cantharellus_guyanensis_2_CC BY-NC_林杏蓉.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Cantharellus_guyanensis_3_CC BY-NC_林杏蓉.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "圭亚那鸡油菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "12,38",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "3,17",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Cantharellus guyanensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1076479-Cantharellus-guyanensis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/171364866/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

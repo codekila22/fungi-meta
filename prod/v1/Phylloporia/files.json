@@ -1,0 +1,20 @@
+{
+ "name": "Phylloporia",
+ "zhtw": "葉孔菌屬",
+ "zhcn": "叶孔菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Phylloporia homocarnica",
+   "zhtw": "同質葉孔菌",
+   "zhcn": "同质叶孔菌",
+   "img": "Phylloporia_homocarnica_1_CC BY-NC_Candy Lu.jpg"
+  },
+  {
+   "name": "Phylloporia pectinata",
+   "zhtw": "梳狀葉層孔菌",
+   "zhcn": "梳状叶层孔菌",
+   "img": "Phylloporia_pectinata_1_CC BY-NC_呂順泉.jpg"
+  }
+ ]
+}

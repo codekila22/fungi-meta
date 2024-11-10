@@ -1,0 +1,114 @@
+{
+ "genus": "Xerocomus",
+ "name": "subtomentosus",
+ "synonym": [
+  {
+   "name": "Boletus subtomentosus",
+   "zhtw": "亞絨蓋牛肝菌",
+   "zhcn": "亚绒盖牛肝菌"
+  }
+ ],
+ "date": [
+  "06/19/2023,6145986905511689",
+  "05/29/2023,6031339073643140",
+  "07/02/2022,5215527725224283",
+  "09/27/2021,4199178480192551",
+  "06/01/2013,791576664286100"
+ ],
+ "names_zhtw": [
+  "亞絨蓋牛肝菌"
+ ],
+ "names_en": [],
+ "url": "791576664286100",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Xerocomus_subtomentosus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Xerocomus_subtomentosus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Xerocomus_subtomentosus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Xerocomus_subtomentosus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xerocomus_subtomentosus_927d66d0-1856-11ee-9413-01db4c390189_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xerocomus_subtomentosus_927d66d0-1856-11ee-9413-01db4c390189_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xerocomus_subtomentosus_927d66d0-1856-11ee-9413-01db4c390189_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xerocomus_subtomentosus_927d66d0-1856-11ee-9413-01db4c390189_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xerocomus_subtomentosus_927d66d0-1856-11ee-9413-01db4c390189_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "亚绒盖牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4285547028,4290278195",
+  "CapDiamRangeValues": "30,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "blue",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "傷後輕微變藍。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Xerocomus subtomentosus",
+   "cname": "Suede Bolete",
+   "url": "https://www.inaturalist.org/taxa/485374-Xerocomus-subtomentosus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7018628/thumb.jpg"
+  },
+  {
+   "name": "Xerocomus ferrugineus",
+   "cname": "Rusty Bolete",
+   "url": "https://www.inaturalist.org/taxa/928737-Xerocomus-ferrugineus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10893112/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

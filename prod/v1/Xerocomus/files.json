@@ -1,0 +1,38 @@
+{
+ "name": "Xerocomus",
+ "zhtw": "絨蓋牛肝菌屬",
+ "zhcn": "绒盖牛肝菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Xerocomus chrysenteron",
+   "zhtw": "紅絨蓋牛肝菌",
+   "zhcn": "红绒盖牛肝菌",
+   "current": "Xerocomellus chrysenteron",
+   "current_zhtw": "紅小絨蓋牛肝菌",
+   "current_zhcn": "红小绒盖牛肝菌",
+   "img": "Xerocomellus_chrysenteron_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Xerocomus nigromaculatus",
+   "zhtw": "黑斑絨蓋牛肝菌",
+   "zhcn": "黑斑绒盖牛肝菌",
+   "current": "Boletus nigromaculatus",
+   "current_zhtw": "黑斑牛肝菌",
+   "current_zhcn": "黑斑牛肝菌",
+   "img": "Xerocomus_nigromaculatus_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Xerocomus parvulus",
+   "zhtw": "細絨蓋牛肝菌",
+   "zhcn": "细绒盖牛肝菌",
+   "img": "Xerocomus_parvulus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Xerocomus subtomentosus",
+   "zhtw": "亞絨蓋牛肝菌",
+   "zhcn": "亚绒盖牛肝菌",
+   "img": "Xerocomus_subtomentosus_1_CC BY-NC.jpg"
+  }
+ ]
+}

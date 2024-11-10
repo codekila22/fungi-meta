@@ -1,0 +1,89 @@
+{
+ "genus": "Trichaptum",
+ "name": "fuscoviolaceum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "紫褐附毛菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1062",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Trichaptum_fuscoviolaceum_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Trichaptum_fuscoviolaceum_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Trichaptum_fuscoviolaceum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Trichaptum_fuscoviolaceum_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Trichaptum_fuscoviolaceum_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Trichaptum_fuscoviolaceum_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Trichaptum_fuscoviolaceum_7_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫褐附毛菌"
+ ],
+ "meta": {
+  "CapColors": "4294966000",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Trichaptum fuscoviolaceum",
+   "cname": "Brown Purplepore Bracket",
+   "url": "https://www.inaturalist.org/taxa/335960-Trichaptum-fuscoviolaceum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28202699/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

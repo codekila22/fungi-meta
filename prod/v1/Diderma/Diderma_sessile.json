@@ -1,0 +1,76 @@
+{
+ "genus": "Diderma",
+ "name": "sessile",
+ "date": [
+  "10/25/2020,3280943002016108"
+ ],
+ "names_zhtw": [
+  "無柄雙皮黏菌"
+ ],
+ "names_en": [],
+ "url": "3280943002016108",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Diderma_sessile_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Diderma_sessile_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Diderma_sessile_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Diderma_sessile_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "无柄双皮黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Diderma sessile",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/703881-Diderma-sessile",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

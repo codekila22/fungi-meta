@@ -1,0 +1,20 @@
+{
+ "name": "Graphis",
+ "zhtw": "文字衣屬",
+ "zhcn": "文字衣属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Graphis caesiella",
+   "zhtw": "淡藍文字衣",
+   "zhcn": "淡蓝文字衣",
+   "img": "Graphis_caesiella_da583650-bb86-11ee-9b45-fffbdc5c38b8_1.jpg"
+  },
+  {
+   "name": "Graphis scripta",
+   "zhtw": "稿繪文字衣",
+   "zhcn": "稿绘文字衣",
+   "img": "Graphis_scripta_1_CC BY-NC.jpg"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "genus": "Oudemansiella",
+ "name": "australis",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "澳洲小奧德蘑"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5054",
+ "images": [
+  {
+   "author": "Piano Hope",
+   "image_src": "Oudemansiella_australis_7_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Oudemansiella_australis_2_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Oudemansiella_australis_3_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Oudemansiella_australis_4_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Oudemansiella_australis_5_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Oudemansiella_australis_6_CC BY-NC_Piano Hope.jpg"
+  },
+  {
+   "author": "Piano Hope",
+   "image_src": "Oudemansiella_australis_1_CC BY-NC_Piano Hope.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "澳洲小奥德蘑"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4292664540",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Oudemansiella australis",
+   "cname": "Porcelain Slimecap",
+   "url": "https://www.inaturalist.org/taxa/383373-Oudemansiella-australis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29364302/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

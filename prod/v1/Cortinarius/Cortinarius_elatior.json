@@ -1,0 +1,81 @@
+{
+ "genus": "Cortinarius",
+ "name": "elatior",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "高絲膜菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/711",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Cortinarius_elatior_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cortinarius_elatior_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cortinarius_elatior_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cortinarius_elatior_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Cortinarius_elatior_1_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "高丝膜菌"
+ ],
+ "meta": {
+  "CapColors": "4288244511",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Cortinarius livido-ochraceus",
+   "cname": "Wrinkled Webcap",
+   "url": "https://www.inaturalist.org/taxa/500057-Cortinarius-livido-ochraceus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/87622799/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

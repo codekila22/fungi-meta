@@ -1,0 +1,32 @@
+{
+ "name": "Leotia",
+ "zhtw": "錘舌菌屬",
+ "zhcn": "锤舌菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Leotia chlorocephala",
+   "zhtw": "綠頭錘舌菌",
+   "zhcn": "绿头锤舌菌",
+   "img": "Leotia_chlorocephala_1_CC BY-NC_黃淑恩.jpg"
+  },
+  {
+   "name": "Leotia lubrica",
+   "zhtw": "潤滑錘舌菌",
+   "zhcn": "润滑锤舌菌",
+   "img": "Leotia_lubrica_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Leotia rutilans",
+   "zhtw": "赭紅錘舌菌",
+   "zhcn": "赭红锤舌菌",
+   "img": "Leotia_rutilans_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Leotia viscosa",
+   "zhtw": "綠頭潤滑錘舌菌",
+   "zhcn": "绿头润滑锤舌菌",
+   "img": "Leotia_viscosa_1_CC BY-NC_James Ho.jpg"
+  }
+ ]
+}

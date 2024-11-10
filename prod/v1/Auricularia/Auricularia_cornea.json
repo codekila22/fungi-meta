@@ -1,0 +1,571 @@
+{
+ "genus": "Auricularia",
+ "name": "cornea",
+ "date": [
+  "09/26/2024,8150580738385619",
+  "09/17/2024,8071205542989806",
+  "06/20/2024,7536920576418308",
+  "03/08/2024,7075949292515441",
+  "03/02/2024,7047886771988360",
+  "01/06/2024,6832306756879697",
+  "12/27/2023,6792855564158150",
+  "10/25/2023,6563709327072776",
+  "10/16/2023,6537094286400947",
+  "09/17/2023,6413489445428099",
+  "08/20/2023,6316967815080263",
+  "07/11/2023,6182640351846344",
+  "05/28/2023,6027433477367033",
+  "05/21/2023,6002659929844388",
+  "03/14/2023,5786521968124853",
+  "02/28/2023,5740560996054284",
+  "01/26/2023,5634637236646661",
+  "01/20/2023,5614382328672152",
+  "12/31/2022,5556769077766811",
+  "12/12/2022,5500521620058224",
+  "10/20/2022,5313933522050369",
+  "07/09/2022,5201738359936553",
+  "01/01/2022,4497235837053479",
+  "07/24/2021,3973832146060520",
+  "01/30/2021,3480700472040359",
+  "12/06/2020,3342121079231633"
+ ],
+ "names_zhtw": [
+  "毛木耳",
+  "角質木耳"
+ ],
+ "names_en": [],
+ "url": "6002659929844388",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Auricularia_cornea_1fa318f0-0aa8-11ee-9f21-c50a0a0a5a88_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Auricularia_cornea_1fa318f0-0aa8-11ee-9f21-c50a0a0a5a88_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Auricularia_cornea_1fa318f0-0aa8-11ee-9f21-c50a0a0a5a88_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Auricularia_cornea_1fa318f0-0aa8-11ee-9f21-c50a0a0a5a88_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Auricularia_cornea_1fa318f0-0aa8-11ee-9f21-c50a0a0a5a88_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_4873bf40-0aa9-11ee-bc9e-8714053a9477_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_4873bf40-0aa9-11ee-bc9e-8714053a9477_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_4873bf40-0aa9-11ee-bc9e-8714053a9477_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_4873bf40-0aa9-11ee-bc9e-8714053a9477_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_15.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_16.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_17.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_18.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_19.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_f7522290-0aa9-11ee-a7e4-a9b06d1bd56d_20.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_9cc2f620-745c-11ee-b1c5-972bfaed3138_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_cd0cae10-ad60-11ee-bb0f-11a088b2999b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_cd0cae10-ad60-11ee-bb0f-11a088b2999b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_cd0cae10-ad60-11ee-bb0f-11a088b2999b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_cd0cae10-ad60-11ee-bb0f-11a088b2999b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_cd0cae10-ad60-11ee-bb0f-11a088b2999b_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_cd0cae10-ad60-11ee-bb0f-11a088b2999b_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_nigricans_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_nigricans_21_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_polytricha_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_polytricha_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_polytricha_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_polytricha_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_polytricha_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_polytricha_6_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_polytricha_12_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_polytricha_13_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_polytricha_14_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Auricularia_polytricha_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_nigricans_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_nigricans_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_nigricans_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_nigricans_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_nigricans_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_nigricans_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_nigricans_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_nigricans_15_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_nigricans_16_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_nigricans_17_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_nigricans_18_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_nigricans_19_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_nigricans_20_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_nigricans_22_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_nigricans_23_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Auricularia_nigricans_24_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_nigricans_01aa83e0-6e82-11ee-841f-4129d8343d06_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_nigricans_01aa83e0-6e82-11ee-841f-4129d8343d06_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_nigricans_01aa83e0-6e82-11ee-841f-4129d8343d06_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_2d6f3660-d8fe-11ee-b4d2-67ff02a653fd_13.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_ff4e4d00-de22-11ee-accc-5f44dea114c9_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_ff4e4d00-de22-11ee-accc-5f44dea114c9_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_ff4e4d00-de22-11ee-accc-5f44dea114c9_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_ff4e4d00-de22-11ee-accc-5f44dea114c9_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_ff4e4d00-de22-11ee-accc-5f44dea114c9_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_ff4e4d00-de22-11ee-accc-5f44dea114c9_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_ff4e4d00-de22-11ee-accc-5f44dea114c9_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_ff4e4d00-de22-11ee-accc-5f44dea114c9_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Auricularia_cornea_ff4e4d00-de22-11ee-accc-5f44dea114c9_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_74aba1f0-314e-11ef-b8b5-735b44d49ae2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_74aba1f0-314e-11ef-b8b5-735b44d49ae2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_74aba1f0-314e-11ef-b8b5-735b44d49ae2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_74aba1f0-314e-11ef-b8b5-735b44d49ae2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_74aba1f0-314e-11ef-b8b5-735b44d49ae2_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_74aba1f0-314e-11ef-b8b5-735b44d49ae2_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_74aba1f0-314e-11ef-b8b5-735b44d49ae2_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_cornea_9793e060-74dd-11ef-a81d-3f5f991fce64_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_cornea_9793e060-74dd-11ef-a81d-3f5f991fce64_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_cornea_9793e060-74dd-11ef-a81d-3f5f991fce64_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_cornea_9793e060-74dd-11ef-a81d-3f5f991fce64_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_cornea_9793e060-74dd-11ef-a81d-3f5f991fce64_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_cornea_9793e060-74dd-11ef-a81d-3f5f991fce64_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_cornea_9793e060-74dd-11ef-a81d-3f5f991fce64_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Auricularia_cornea_f7871e00-7dfd-11ef-861e-7b41a7e0e034_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Auricularia_cornea_f7871e00-7dfd-11ef-861e-7b41a7e0e034_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Auricularia_cornea_f7871e00-7dfd-11ef-861e-7b41a7e0e034_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Auricularia_cornea_f7871e00-7dfd-11ef-861e-7b41a7e0e034_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Auricularia_cornea_f7871e00-7dfd-11ef-861e-7b41a7e0e034_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Auricularia_cornea_f7871e00-7dfd-11ef-861e-7b41a7e0e034_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "毛木耳",
+  "角质木耳"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4283244288,4286578816",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Auricularia heimuer,Auricularia villosula,",
+  "Note": "台灣的毛木耳經研究後應為此物種，而非之前描述的 A. nigricans。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "黑木耳,短毛木耳,",
+  "la_zhcn": "黑木耳,短毛木耳,"
+ },
+ "inaturalist": [
+  {
+   "name": "Auricularia cornea",
+   "cname": "Ear Fungus",
+   "url": "https://www.inaturalist.org/taxa/179230-Auricularia-cornea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28895640/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

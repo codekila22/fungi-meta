@@ -1,0 +1,38 @@
+{
+ "name": "Laccaria",
+ "zhtw": "蠟蘑屬",
+ "zhcn": "蜡蘑属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Laccaria amethystina",
+   "zhtw": "紫蠟蘑",
+   "zhcn": "紫蜡蘑",
+   "img": "Laccaria_amethystina_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Laccaria laccata",
+   "zhtw": "紅蠟蘑",
+   "zhcn": "红蜡蘑",
+   "img": "Laccaria_laccata_8cee1640-e990-11ee-8fcd-99aaf23f7495_2.jpg"
+  },
+  {
+   "name": "Laccaria longipes",
+   "zhtw": "長柄蠟蘑",
+   "zhcn": "长柄蜡蘑",
+   "img": "Laccaria_longipes_1_CC BY-NC_Rigo Chang.jpg"
+  },
+  {
+   "name": "Laccaria ohiensis",
+   "zhtw": "俄亥俄蠟蘑",
+   "zhcn": "俄亥俄蜡蘑",
+   "img": "Laccaria_ohiensis_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Laccaria vinaceoavellanea",
+   "zhtw": "灰酒紅蠟蘑",
+   "zhcn": "灰酒红蜡蘑",
+   "img": "Laccaria_vinaceoavellanea_a8b9cc80-ddd7-11ee-bd91-b37d899a1a23_5.jpg"
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "genus": "Micarea",
+ "name": "lignaria",
+ "date": [
+  "12/08/2023,6755130511263989",
+  "02/19/2023,5710651119045272"
+ ],
+ "names_zhtw": [
+  "木亞網衣"
+ ],
+ "names_en": [],
+ "url": "5710651119045272",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Micarea_lignaria_d48867a0-baf0-11ed-b96e-2309eb6e55d6_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Micarea_lignaria_d48867a0-baf0-11ed-b96e-2309eb6e55d6_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Micarea_lignaria_d48867a0-baf0-11ed-b96e-2309eb6e55d6_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Micarea_lignaria_d48867a0-baf0-11ed-b96e-2309eb6e55d6_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Micarea_lignaria_d48867a0-baf0-11ed-b96e-2309eb6e55d6_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "木亚网衣"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Micarea lignaria",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/225031-Micarea-lignaria",
+   "src": "https://static.inaturalist.org/photos/111699786/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

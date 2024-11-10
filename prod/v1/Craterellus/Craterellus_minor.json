@@ -1,0 +1,135 @@
+{
+ "genus": "Craterellus",
+ "name": "minor",
+ "date": [
+  "12/15/2023,6753615388082168",
+  "08/22/2023,6322295584547486",
+  "07/19/2020,2940277689415976"
+ ],
+ "names_zhtw": [
+  "小喇叭菌"
+ ],
+ "names_en": [],
+ "url": "2940277689415976",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Cantharellus_luteocomus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cantharellus_luteocomus_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cantharellus_luteocomus_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cantharellus_luteocomus_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cantharellus_luteocomus_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cantharellus_luteocomus_6_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_be9fdb00-413a-11ee-88a8-191c719c71ae_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_be9fdb00-413a-11ee-88a8-191c719c71ae_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_be9fdb00-413a-11ee-88a8-191c719c71ae_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_be9fdb00-413a-11ee-88a8-191c719c71ae_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_be9fdb00-413a-11ee-88a8-191c719c71ae_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_be9fdb00-413a-11ee-88a8-191c719c71ae_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_be9fdb00-413a-11ee-88a8-191c719c71ae_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_be9fdb00-413a-11ee-88a8-191c719c71ae_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_99d0e880-9cdb-11ee-876a-7b66a20291da_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_99d0e880-9cdb-11ee-876a-7b66a20291da_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_99d0e880-9cdb-11ee-876a-7b66a20291da_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_luteocomus_99d0e880-9cdb-11ee-876a-7b66a20291da_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "小喇叭菌"
+ ],
+ "meta": {
+  "CapColors": "4290822336,4294956800",
+  "CapDiamRangeValues": "0,17",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "1,3",
+  "StalkLengthRangeValuess": "0,26",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Craterellus minor",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1402052-Craterellus-minor",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

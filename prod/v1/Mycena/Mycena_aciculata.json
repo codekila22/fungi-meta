@@ -1,0 +1,109 @@
+{
+ "genus": "Mycena",
+ "name": "aciculata",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "針毛小菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4214",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_12_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_11_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Mycena_aciculata_1_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "针毛小菇"
+ ],
+ "meta": {
+  "CapColors": "4294634455",
+  "CapDiamRangeValues": "3,8",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "10,60",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena aciculata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63424-Mycena-aciculata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18399414/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

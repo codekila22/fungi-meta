@@ -1,0 +1,89 @@
+{
+ "genus": "Psilachnum",
+ "name": "inquilinum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "淡鵝黃短毛盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/983",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Psilachnum_inquilinum_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Psilachnum_inquilinum_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Psilachnum_inquilinum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Psilachnum_inquilinum_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Psilachnum_inquilinum_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Psilachnum_inquilinum_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Psilachnum_inquilinum_7_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "淡鹅黄短毛盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294967280",
+  "CapDiamRangeValues": "0,2",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Psilachnum inquilinum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1006626-Psilachnum-inquilinum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/123876134/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,86 @@
+{
+ "genus": "Eocronartium",
+ "name": "muscicola",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "蘚生柱锈耳"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/6544",
+ "images": [
+  {
+   "author": "李宗宸",
+   "image_src": "Eocronartium_muscicola_5_CC BY-NC_李宗宸.jpg"
+  },
+  {
+   "author": "李宗宸",
+   "image_src": "Eocronartium_muscicola_2_CC BY-NC_李宗宸.jpg"
+  },
+  {
+   "author": "李宗宸",
+   "image_src": "Eocronartium_muscicola_3_CC BY-NC_李宗宸.jpg"
+  },
+  {
+   "author": "李宗宸",
+   "image_src": "Eocronartium_muscicola_4_CC BY-NC_李宗宸.jpg"
+  },
+  {
+   "author": "李宗宸",
+   "image_src": "Eocronartium_muscicola_1_CC BY-NC_李宗宸.jpg"
+  },
+  {
+   "author": "李宗宸",
+   "image_src": "Eocronartium_muscicola_11_CC BY-NC_李宗宸.jpg"
+  },
+  {
+   "author": "李宗宸",
+   "image_src": "Eocronartium_muscicola_12_CC BY-NC_李宗宸.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "藓生柱锈耳"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "jelly",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "moss",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Eocronartium muscicola",
+   "cname": "Moss Rust",
+   "url": "https://www.inaturalist.org/taxa/629268-Eocronartium-muscicola",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13378707/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

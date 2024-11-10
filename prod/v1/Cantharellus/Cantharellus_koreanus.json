@@ -1,0 +1,82 @@
+{
+ "genus": "Cantharellus",
+ "name": "koreanus",
+ "date": [
+  "08/19/2024,7874978199279209"
+ ],
+ "names_zhtw": [
+  "韓國雞油菌"
+ ],
+ "names_en": [],
+ "url": "7874978199279209",
+ "images": [
+  {
+   "author": "徐秀團",
+   "image_src": "Cantharellus_koreanus_cc1cfc00-90d6-10f8-9e63-2fd2d82380ae_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cantharellus_koreanus_cc1cfc00-90d6-10f8-9e63-2fd2d82380ae_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cantharellus_koreanus_cc1cfc00-90d6-10f8-9e63-2fd2d82380ae_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cantharellus_koreanus_cc1cfc00-90d6-10f8-9e63-2fd2d82380ae_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cantharellus_koreanus_cc1cfc00-90d6-10f8-9e63-2fd2d82380ae_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "韩国鸡油菌"
+ ],
+ "meta": {
+  "CapColors": "4294967040,4294956800",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Cantharellus koreanus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1374643-Cantharellus-koreanus",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

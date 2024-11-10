@@ -1,0 +1,173 @@
+{
+ "name": "Boletus",
+ "zhtw": "牛肝菌屬",
+ "zhcn": "牛肝菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Boletus aokii",
+   "zhtw": "青木氏牛肝菌",
+   "zhcn": "青木氏牛肝菌",
+   "img": "Boletus_aokii_836a7260-733f-11ef-994a-e7876ae88565_1.jpg"
+  },
+  {
+   "name": "Boletus aurantiosplendens",
+   "zhtw": "亮金牛肝菌",
+   "zhcn": "亮金牛肝菌",
+   "img": "Boletus_aurantiosplendens_2_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "name": "Boletus balloui",
+   "zhtw": "黃蓋牛肝菌",
+   "zhcn": "黄盖牛肝菌",
+   "current": "Tylopilus balloui",
+   "current_zhtw": "黃蓋粉孢牛肝菌",
+   "current_zhcn": "黄盖粉孢牛肝菌",
+   "img": "Gyroporus_ballouii_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Boletus calopus",
+   "zhtw": "美柄牛肝菌",
+   "zhcn": "美柄牛肝菌",
+   "img": "Boletus_calopus_4cd9cc60-1679-11ee-a4b2-2f6e997751c5_3.jpg"
+  },
+  {
+   "name": "Boletus edulis",
+   "zhtw": "美味牛肝菌",
+   "zhcn": "美味牛肝菌",
+   "img": "Boletus_edulis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Boletus erythropus",
+   "zhtw": "紅柄牛肝菌",
+   "zhcn": "红柄牛肝菌",
+   "img": "Boletus_erythropus_4_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "name": "Boletus flammans",
+   "zhtw": "血紅絨牛肝菌",
+   "zhcn": "血红绒牛肝菌",
+   "img": "Boletus_flammans_d02b4010-5f28-11ee-b759-b399c06faeb2_1.jpg"
+  },
+  {
+   "name": "Boletus fraternus",
+   "zhtw": "兄弟牛肝菌",
+   "zhcn": "兄弟牛肝菌",
+   "img": "Boletus_fraternus_1_CC BY-NC.jpg"
+  },
+  {
+   "name": "Boletus laetissimus",
+   "zhtw": "橙色牛肝菌",
+   "zhcn": "橙色牛肝菌",
+   "current": "Crocinoboletus laetissimus",
+   "current_zhtw": "橙色牛肝菌",
+   "current_zhcn": "橙色牛肝菌",
+   "img": "Boletus_laetissimus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Boletus nigromaculatus",
+   "zhtw": "黑斑牛肝菌",
+   "zhcn": "黑斑牛肝菌",
+   "img": "Xerocomus_nigromaculatus_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Boletus nigropurpureus",
+   "zhtw": "黑紫牛肝菌",
+   "zhcn": "黑紫牛肝菌",
+   "current": "Anthracoporus nigropurpureus",
+   "current_zhtw": "黑紫變黑牛肝菌",
+   "current_zhcn": "黑紫变黑牛肝菌",
+   "img": "Anthracoporus_nigropurpureus_739f7a30-c543-107f-a9f3-eb415a41f67f_1.jpg"
+  },
+  {
+   "name": "Boletus orientialbus",
+   "zhtw": "東方白牛肝菌",
+   "zhcn": "东方白牛肝菌",
+   "img": "Boletus_orientialbus_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Boletus parvulus",
+   "zhtw": "細牛肝菌",
+   "zhcn": "细牛肝菌",
+   "current": "Xerocomus parvulus",
+   "current_zhtw": "細絨蓋牛肝菌",
+   "current_zhcn": "细绒盖牛肝菌",
+   "img": "Xerocomus_parvulus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Boletus reticulatus",
+   "zhtw": "網柄牛肝菌",
+   "zhcn": "网柄牛肝菌",
+   "img": "Boletus_reticulatus_3cebd620-02bc-11ee-88d5-13b4c69de657_3.jpg"
+  },
+  {
+   "name": "Boletus reticuloceps",
+   "zhtw": "網蓋牛肝菌",
+   "zhcn": "网盖牛肝菌",
+   "img": "Boletus_reticuloceps_1_CC BY-NC_Erin Peng.jpg"
+  },
+  {
+   "name": "Boletus rubellus",
+   "zhtw": "朱紅牛肝菌",
+   "zhcn": "朱红牛肝菌",
+   "current": "Hortiboletus rubellus",
+   "current_zhtw": "血色牛肝菌",
+   "current_zhcn": "血色牛肝菌",
+   "img": "Boletus_rubellus_2ffa1860-0ac1-11ef-a0b4-33ebd64440d8_1.jpg"
+  },
+  {
+   "name": "Boletus sensibilis",
+   "zhtw": "敏感牛肝菌",
+   "zhcn": "敏感牛肝菌",
+   "img": "Boletus_sensibilis_416aba60-3041-109f-939f-edc52ea51b88_1.jpg"
+  },
+  {
+   "name": "Boletus separans",
+   "zhtw": "裂管牛肝菌",
+   "zhcn": "裂管牛肝菌",
+   "img": "Boletus_separans_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Boletus sinoaurantiacus",
+   "zhtw": "華金黃牛肝菌",
+   "zhcn": "华金黄牛肝菌",
+   "current": "Leccinellum sinoaurantiacum",
+   "current_zhtw": "華金黃小疣柄牛肝菌",
+   "current_zhcn": "华金黄小疣柄牛肝菌",
+   "img": "Boletus_sinoaurantiacus_4b68b410-1082-11ee-9b0c-1383b78effa7_1.jpg"
+  },
+  {
+   "name": "Boletus speciosus",
+   "zhtw": "小美牛肝菌",
+   "zhcn": "小美牛肝菌",
+   "img": "Boletus_speciosus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Boletus subtomentosus",
+   "zhtw": "亞絨蓋牛肝菌",
+   "zhcn": "亚绒盖牛肝菌",
+   "current": "Xerocomus subtomentosus",
+   "current_zhtw": "亞絨蓋牛肝菌",
+   "current_zhcn": "亚绒盖牛肝菌",
+   "img": "Xerocomus_subtomentosus_1_CC BY-NC.jpg"
+  },
+  {
+   "name": "Boletus subvelutipes",
+   "zhtw": "褐絨柄牛肝菌",
+   "zhcn": "褐绒柄牛肝菌",
+   "img": "Boletus_subvelutipes_c97d9c60-7af6-11ee-b319-2144852a6bad_7.jpg"
+  },
+  {
+   "name": "Boletus umbriniporus",
+   "zhtw": "褐孔牛肝菌",
+   "zhcn": "褐孔牛肝菌",
+   "img": "Boletus_umbriniporus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Boletus violaceofuscus",
+   "zhtw": "紫褐牛肝菌",
+   "zhcn": "紫褐牛肝菌",
+   "img": "Boletus_violaceofuscus_d953ad60-0aa7-11ee-b1ee-95817a9c2590_2.jpg"
+  }
+ ]
+}

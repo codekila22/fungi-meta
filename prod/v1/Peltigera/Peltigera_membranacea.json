@@ -1,0 +1,96 @@
+{
+ "genus": "Peltigera",
+ "name": "membranacea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "膜地卷"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1590",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_membranacea_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_membranacea_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_membranacea_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_membranacea_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_membranacea_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_membranacea_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_membranacea_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_membranacea_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peltigera_membranacea_9_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "膜地卷"
+ ],
+ "meta": {
+  "CapColors": "4294944000,4286611456",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Peltigera membranacea",
+   "cname": "Membranous Pelt Lichen",
+   "url": "https://www.inaturalist.org/taxa/117858-Peltigera-membranacea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/80724/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,86 @@
+{
+ "genus": "Inocybe",
+ "name": "nodulosospora",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "瘤孢絲蓋傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3522",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_nodulosospora_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_nodulosospora_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_nodulosospora_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_nodulosospora_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_nodulosospora_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_nodulosospora_6_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "瘤孢丝盖伞"
+ ],
+ "meta": {
+  "CapColors": "4288244511,4292786311",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Inocybe nodulosospora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1473651-Inocybe-nodulosospora",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

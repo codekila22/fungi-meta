@@ -1,0 +1,90 @@
+{
+ "genus": "Calvatia",
+ "name": "bicolor",
+ "date": [
+  "08/13/2023,6292529830857395"
+ ],
+ "names_zhtw": [
+  "二色禿馬勃"
+ ],
+ "names_en": [],
+ "url": "6292529830857395",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Calvatia_bicolor_c03a0e90-39dd-11ee-9df8-99861b817a35_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calvatia_bicolor_c03a0e90-39dd-11ee-9df8-99861b817a35_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calvatia_bicolor_c03a0e90-39dd-11ee-9df8-99861b817a35_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calvatia_bicolor_c03a0e90-39dd-11ee-9df8-99861b817a35_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calvatia_bicolor_c03a0e90-39dd-11ee-9df8-99861b817a35_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calvatia_bicolor_c03a0e90-39dd-11ee-9df8-99861b817a35_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calvatia_bicolor_c03a0e90-39dd-11ee-9df8-99861b817a35_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "二色秃马勃"
+ ],
+ "meta": {
+  "CapColors": "4289864226,4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Calvatia bicolor",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/350254-Calvatia-bicolor",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/96696628/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Tylopilus",
+ "zhtw": "粉孢牛肝菌屬",
+ "zhcn": "粉孢牛肝菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Tylopilus balloui",
+   "zhtw": "黃蓋粉孢牛肝菌",
+   "zhcn": "黄盖粉孢牛肝菌",
+   "img": "Gyroporus_ballouii_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Tylopilus griseocarneus",
+   "zhtw": "灰肉色粉孢牛肝菌",
+   "zhcn": "灰肉色粉孢牛肝菌",
+   "img": "Tylopilus_griseocarneus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Tylopilus neofelleus",
+   "zhtw": "新苦粉孢牛肝菌",
+   "zhcn": "新苦粉孢牛肝菌",
+   "img": "Tylopilus_neofelleus_7e491760-6a97-11ef-88f9-df52e4927887_1.jpg"
+  },
+  {
+   "name": "Tylopilus nigropurpureus",
+   "zhtw": "黑紫粉孢牛肝菌",
+   "zhcn": "黑紫粉孢牛肝菌",
+   "current": "Anthracoporus nigropurpureus",
+   "current_zhtw": "黑紫變黑牛肝菌",
+   "current_zhcn": "黑紫变黑牛肝菌",
+   "img": "Anthracoporus_nigropurpureus_739f7a30-c543-107f-a9f3-eb415a41f67f_1.jpg"
+  },
+  {
+   "name": "Tylopilus obscureviolaceus",
+   "zhtw": "堇紫粉孢牛肝菌",
+   "zhcn": "堇紫粉孢牛肝菌",
+   "img": "Tylopilus_obscureviolaceus_1_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "name": "Tylopilus plumbeoviolaceus",
+   "zhtw": "灰紫粉孢牛肝菌",
+   "zhcn": "灰紫粉孢牛肝菌",
+   "img": "Tylopilus_plumbeoviolaceus_1_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "name": "Tylopilus vinosobrunneus",
+   "zhtw": "紫褐粉孢牛肝菌",
+   "zhcn": "紫褐粉孢牛肝菌",
+   "img": "Tylopilus_vinosobrunneus_ca9bfcf0-8c1f-11ef-bd72-f3b5de8463fd_8.jpg"
+  },
+  {
+   "name": "Tylopilus virens",
+   "zhtw": "綠蓋粉孢牛肝菌",
+   "zhcn": "绿盖粉孢牛肝菌",
+   "current": "Chiua virens",
+   "current_zhtw": "綠蓋裘氏牛肝菌",
+   "current_zhcn": "绿盖裘氏牛肝菌",
+   "img": "Tylopilus_virens_1_CC BY-NC_Sunny Wang.jpg"
+  }
+ ]
+}

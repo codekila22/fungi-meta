@@ -1,0 +1,77 @@
+{
+ "genus": "Lachnellula",
+ "name": "arida",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "乾燥小毛盤菌"
+ ],
+ "names_en": [],
+ "url": "3529521073824965",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Lachnellula_arida_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lachnellula_arida_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lachnellula_arida_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lachnellula_arida_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "干燥小毛盘菌"
+ ],
+ "meta": {
+  "CapColors": "4292519200,4294956800,4294967040",
+  "CapDiamRangeValues": "3,8",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Lachnellula arida",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/499637-Lachnellula-arida",
+   "src": "https://static.inaturalist.org/photos/76057468/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

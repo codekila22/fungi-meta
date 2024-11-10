@@ -1,0 +1,96 @@
+{
+ "genus": "Mucilago",
+ "name": "crustacea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "薄殼膠漿黏菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/2152",
+ "images": [
+  {
+   "author": "胡家銘",
+   "image_src": "Mucilago_crustacea_1_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mucilago_crustacea_2_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mucilago_crustacea_3_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mucilago_crustacea_4_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mucilago_crustacea_5_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mucilago_crustacea_6_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mucilago_crustacea_7_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mucilago_crustacea_8_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Mucilago_crustacea_9_CC BY-NC_胡家銘.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "薄壳胶浆黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294303411,4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "debris,leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Didymium mucilago",
+   "cname": "Dog Sick Slime Mould",
+   "url": "https://www.inaturalist.org/taxa/1443207-Didymium-mucilago",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10276159/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,135 @@
+{
+ "genus": "Gymnopus",
+ "name": "foetidus",
+ "date": [
+  "09/28/2024,8184339698343056",
+  "12/11/2022,5494705423973177",
+  "03/24/2021,7501713129939053"
+ ],
+ "names_zhtw": [
+  "臭金錢菌"
+ ],
+ "names_en": [],
+ "url": "5494705423973177",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Micromphale_foetidum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Micromphale_foetidum_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Micromphale_foetidum_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Micromphale_foetidum_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Micromphale_foetidum_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_10.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Gymnopus_foetidus_7c0790d0-2ae6-11ef-97a7-474b303333b2_11.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Micromphale foetidum",
+   "zhtw": "臭小臍菇",
+   "zhcn": "臭小脐菇"
+  }
+ ],
+ "names_zhcn": [
+  "臭金钱菌"
+ ],
+ "meta": {
+  "CapColors": "4290547599,4291998860,4283244288",
+  "CapDiamRangeValues": "10,36",
+  "CapShape": "flat",
+  "CapTexture": "smooth",
+  "CapMargin": "wavy,striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294962944,4286141768",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "close,shortgills,crossconnected",
+  "HymeniumGillAttachment": "adnate",
+  "HymeniumGillMarginate": "smooth",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294921536,4286141768",
+  "StalkTexture": "smooth",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "equal",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "10,25",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "not-edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "基部有黃白色棉花狀非常短的毛狀菌絲體。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Gymnopus foetidus",
+   "cname": "Foetid Parachute",
+   "url": "https://www.inaturalist.org/taxa/120858-Gymnopus-foetidus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24423842/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,154 @@
+{
+ "genus": "Amanita",
+ "name": "muscaria",
+ "date": [
+  "10/07/2023,6490501334393576",
+  "12/27/2022,5545824685527917",
+  "10/28/2022,5365792670197787",
+  "04/07/2015,708161819294252",
+  "08/13/2014,584664604977308"
+ ],
+ "names_zhtw": [
+  "毒蠅傘"
+ ],
+ "names_en": [],
+ "url": "708161819294252",
+ "images": [
+  {
+   "author": "Mongrong Chiang",
+   "image_src": "Amanita_muscaria_1_CC BY-NC_Mongrong Chiang.jpg"
+  },
+  {
+   "author": "Mongrong Chiang",
+   "image_src": "Amanita_muscaria_2_CC BY-NC_Mongrong Chiang.jpg"
+  },
+  {
+   "author": "Mongrong Chiang",
+   "image_src": "Amanita_muscaria_3_CC BY-NC_Mongrong Chiang.jpg"
+  },
+  {
+   "author": "Mongrong Chiang",
+   "image_src": "Amanita_muscaria_4_CC BY-NC_Mongrong Chiang.jpg"
+  },
+  {
+   "author": "Mongrong Chiang",
+   "image_src": "Amanita_muscaria_5_CC BY-NC_Mongrong Chiang.jpg"
+  },
+  {
+   "author": "Mongrong Chiang",
+   "image_src": "Amanita_muscaria_6_CC BY-NC_Mongrong Chiang.jpg"
+  },
+  {
+   "author": "顏瑞和",
+   "image_src": "Amanita_muscaria_1_CC BY-NC_顏瑞和.jpg"
+  },
+  {
+   "author": "顏瑞和",
+   "image_src": "Amanita_muscaria_2_CC BY-NC_顏瑞和.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "毒蝇伞"
+ ],
+ "meta": {
+  "CapColors": "4293076534,4288217142",
+  "CapDiamRangeValues": "80,200",
+  "CapShape": "convex,flat",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "10,20",
+  "StalkLengthRangeValuess": "50,200",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Amanita parcivolvata,,",
+  "Note": "紐西蘭與歐美物種，非台港拍攝。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "紅鵝膏,,",
+  "la_zhcn": "红鹅膏,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita muscaria",
+   "cname": "Fly Agaric",
+   "url": "https://www.inaturalist.org/taxa/48715-Amanita-muscaria",
+   "src": "https://static.inaturalist.org/photos/26555709/thumb.jpg"
+  },
+  {
+   "name": "Amanita muscaria var. guessowii",
+   "cname": "American Yellow Fly Agaric",
+   "url": "https://www.inaturalist.org/taxa/321524-Amanita-muscaria-guessowii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7073368/thumb.jpeg"
+  },
+  {
+   "name": "Amanita muscaria ssp. flavivolvata",
+   "cname": "American Fly Agaric",
+   "url": "https://www.inaturalist.org/taxa/335932-Amanita-muscaria-flavivolvata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5582261/thumb.jpeg"
+  },
+  {
+   "name": "Amanita pantherina",
+   "cname": "Panthercap",
+   "url": "https://www.inaturalist.org/taxa/48418-Amanita-pantherina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112768591/thumb.jpg"
+  },
+  {
+   "name": "Amanita persicina",
+   "cname": "Peach-Colored Fly Agaric",
+   "url": "https://www.inaturalist.org/taxa/504587-Amanita-persicina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/98976348/thumb.jpg"
+  },
+  {
+   "name": "Amanita muscaria ssp. muscaria",
+   "cname": "Eurasian Fly Agaric",
+   "url": "https://www.inaturalist.org/taxa/48706-Amanita-muscaria-muscaria",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18784/thumb.jpg"
+  },
+  {
+   "name": "Amanita muscaria var. formosa",
+   "cname": "Yellow-orange Fly Agaric",
+   "url": "https://www.inaturalist.org/taxa/1099136-Amanita-muscaria-formosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/51771902/thumb.jpeg"
+  },
+  {
+   "name": "Amanita muscaria var. aureola",
+   "cname": "Inzenga's Fly Agaric",
+   "url": "https://www.inaturalist.org/taxa/244732-Amanita-muscaria-aureola",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94682502/thumb.jpeg"
+  },
+  {
+   "name": "Amanita inzengae",
+   "cname": "White Fly Agaric",
+   "url": "https://www.inaturalist.org/taxa/1149199-Amanita-inzengae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12719555/thumb.jpg"
+  },
+  {
+   "name": "Amanita muscaria var. alba",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1298249-Amanita-muscaria-alba",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/182600647/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

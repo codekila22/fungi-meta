@@ -1,0 +1,82 @@
+{
+ "genus": "Lepiota",
+ "name": "subincarnata",
+ "date": [
+  "06/02/2023,6045687718874942"
+ ],
+ "names_zhtw": [
+  "近肉紅環柄菇"
+ ],
+ "names_en": [],
+ "url": "6045687718874942",
+ "images": [
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_subincarnata_e5df40b0-01c6-11ee-b4ad-0b07457635a5_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_subincarnata_e5df40b0-01c6-11ee-b4ad-0b07457635a5_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_subincarnata_e5df40b0-01c6-11ee-b4ad-0b07457635a5_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_subincarnata_e5df40b0-01c6-11ee-b4ad-0b07457635a5_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_subincarnata_e5df40b0-01c6-11ee-b4ad-0b07457635a5_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "近肉红环柄菇"
+ ],
+ "meta": {
+  "CapColors": "4294901760,4294931200",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Lepiota subincarnata",
+   "cname": "Fatal Dapperling",
+   "url": "https://www.inaturalist.org/taxa/382931-Lepiota-subincarnata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29816474/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,91 @@
+{
+ "genus": "Pleurotus",
+ "name": "australis",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "南方側耳"
+ ],
+ "names_en": [
+  "Brown Oyster Mushroom"
+ ],
+ "url": "3495180383925701",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Pleurotus_australis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pleurotus_australis_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pleurotus_australis_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pleurotus_australis_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pleurotus_australis_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pleurotus_australis_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pleurotus_australis_7_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "南方侧耳"
+ ],
+ "meta": {
+  "CapColors": "4290278195,4288244511,4288768839",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Pleurotus australis",
+   "cname": "Brown Oyster Mushroom",
+   "url": "https://www.inaturalist.org/taxa/383719-Pleurotus-australis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2328007/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

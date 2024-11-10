@@ -1,0 +1,83 @@
+{
+ "genus": "Pandora",
+ "name": "neoaphidis",
+ "date": [
+  "01/13/2024,6855799591197080"
+ ],
+ "names_zhtw": [
+  "新蚜蟲蟲癘黴",
+  "新蚜蟲癘黴"
+ ],
+ "names_en": [],
+ "url": "6855799591197080",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Pandora_neoaphidis_c4581410-b2b7-11ee-9cc2-13378e72b40a_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pandora_neoaphidis_c4581410-b2b7-11ee-9cc2-13378e72b40a_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pandora_neoaphidis_c4581410-b2b7-11ee-9cc2-13378e72b40a_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pandora_neoaphidis_c4581410-b2b7-11ee-9cc2-13378e72b40a_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pandora_neoaphidis_c4581410-b2b7-11ee-9cc2-13378e72b40a_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "新蚜虫虫疠霉",
+  "新蚜虫疠霉"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Pandora neoaphidis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/379862-Pandora-neoaphidis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/143524903/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

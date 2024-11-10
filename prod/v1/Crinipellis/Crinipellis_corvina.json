@@ -1,0 +1,77 @@
+{
+ "genus": "Crinipellis",
+ "name": "corvina",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "科維納皮傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/5442",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Crinipellis_corvina_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Crinipellis_corvina_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Crinipellis_corvina_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Crinipellis_corvina_4_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "科维纳皮伞"
+ ],
+ "meta": {
+  "CapColors": "4290278195,4283244288",
+  "CapDiamRangeValues": "10,16",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "18,30",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Crinipellis corvina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1397993-Crinipellis-corvina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/207672744/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,128 @@
+{
+ "genus": "Badhamia",
+ "name": "gracilis",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "細鈣絲黏菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1337",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Badhamia_gracilis_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Badhamia_gracilis_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Badhamia_gracilis_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Badhamia_gracilis_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Badhamia_gracilis_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Badhamia_gracilis_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Badhamia_gracilis_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Badhamia_gracilis_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Badhamia_gracilis_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Badhamia_gracilis_10_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Badhamia_gracilis_11_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Badhamia_gracilis_12_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Badhamia_gracilis_13_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Badhamia_gracilis_14_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Badhamia_gracilis_15_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Badhamia_gracilis_16_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Badhamia_gracilis_17_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "细钙丝黏菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4284635991,4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Badhamia melanospora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/327930-Badhamia-melanospora",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43930732/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

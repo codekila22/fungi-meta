@@ -1,0 +1,47 @@
+{
+ "name": "Heterodermia",
+ "zhtw": "鈴孢衣屬",
+ "zhcn": "铃孢衣属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Heterodermia angustiloba",
+   "zhtw": "狹葉亞鈴孢衣",
+   "zhcn": "狭叶亚铃孢衣",
+   "img": "Heterodermia_angustiloba_3_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "name": "Heterodermia casarettiana",
+   "zhtw": "卡氏多芽胞衣",
+   "zhcn": "卡氏多芽胞衣",
+   "current": "Polyblastidium casarettianum",
+   "current_zhtw": "卡氏多芽胞衣",
+   "current_zhcn": "卡氏多芽胞衣",
+   "img": "Polyblastidium_casarettianum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Heterodermia comosa",
+   "zhtw": "叢毛亞鈴孢衣",
+   "zhcn": "丛毛亚铃孢衣",
+   "img": "Heterodermia_comosa_11f38230-dde3-11ee-8c81-9deeaf131106_1.jpg"
+  },
+  {
+   "name": "Heterodermia echinata",
+   "zhtw": "棘刺鈴孢衣",
+   "zhcn": "棘刺铃孢衣",
+   "img": "Heterodermia_echinata_4_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "name": "Heterodermia flabellata",
+   "zhtw": "扇亞鈴孢衣",
+   "zhcn": "扇亚铃孢衣",
+   "img": "Heterodermia_flabellata_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Heterodermia hypochraea",
+   "zhtw": "黃腹鈴孢衣",
+   "zhcn": "黄腹铃孢衣",
+   "img": "Heterodermia_hypochraea_1_CC BY-NC_陳麗紅.jpg"
+  }
+ ]
+}

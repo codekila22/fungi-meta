@@ -1,0 +1,117 @@
+{
+ "genus": "Inocybe",
+ "name": "geophylla",
+ "date": [
+  "05/06/2023,5955631884547193",
+  "09/30/2022,6677323292378045"
+ ],
+ "names_zhtw": [
+  "土味絲蓋傘"
+ ],
+ "names_en": [],
+ "url": "5955631884547193",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_geophylla_78d04c20-eceb-11ed-8122-7b6a4b1090f4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_geophylla_78d04c20-eceb-11ed-8122-7b6a4b1090f4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_geophylla_78d04c20-eceb-11ed-8122-7b6a4b1090f4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_geophylla_78d04c20-eceb-11ed-8122-7b6a4b1090f4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_geophylla_78d04c20-eceb-11ed-8122-7b6a4b1090f4_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_geophylla_9c4787d0-8c06-11ee-8905-75e524788f9d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_geophylla_9c4787d0-8c06-11ee-8905-75e524788f9d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_geophylla_9c4787d0-8c06-11ee-8905-75e524788f9d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_geophylla_9c4787d0-8c06-11ee-8905-75e524788f9d_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "土味丝盖伞"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Inocybe geophylla",
+   "cname": "White Fibrecap",
+   "url": "https://www.inaturalist.org/taxa/1366601-Inocybe-geophylla",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29218884/thumb.jpg"
+  },
+  {
+   "name": "Inocybe geophylla",
+   "cname": "Lilac Fibrecap",
+   "url": "https://www.inaturalist.org/taxa/118336-Inocybe-geophylla",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13970162/thumb.jpg"
+  },
+  {
+   "name": "Inocybe lilacina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1288764-Inocybe-lilacina",
+   "src": "https://static.inaturalist.org/photos/101448116/thumb.jpeg"
+  },
+  {
+   "name": "Inocybe euviolacea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1370908-Inocybe-euviolacea",
+   "src": "https://static.inaturalist.org/photos/236048640/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

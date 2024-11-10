@@ -1,0 +1,110 @@
+{
+ "genus": "Pholiota",
+ "name": "squarrosoides",
+ "date": [
+  "01/26/2023,5654374938006224"
+ ],
+ "names_zhtw": [
+  "尖鱗環銹傘"
+ ],
+ "names_en": [],
+ "url": "5654374938006224",
+ "images": [
+  {
+   "author": "陳渼茹",
+   "image_src": "Pholiota_squarrosoides_1_CC BY-NC_陳渼茹.jpg"
+  },
+  {
+   "author": "陳渼茹",
+   "image_src": "Pholiota_squarrosoides_2_CC BY-NC_陳渼茹.jpg"
+  },
+  {
+   "author": "陳渼茹",
+   "image_src": "Pholiota_squarrosoides_3_CC BY-NC_陳渼茹.jpg"
+  },
+  {
+   "author": "陳渼茹",
+   "image_src": "Pholiota_squarrosoides_4_CC BY-NC_陳渼茹.jpg"
+  },
+  {
+   "author": "陳渼茹",
+   "image_src": "Pholiota_squarrosoides_5_CC BY-NC_陳渼茹.jpg"
+  },
+  {
+   "author": "陳渼茹",
+   "image_src": "Pholiota_squarrosoides_6_CC BY-NC_陳渼茹.jpg"
+  },
+  {
+   "author": "Mindy Huang",
+   "image_src": "Pholiota_squarrosoides_1_CC BY-NC_Mindy Huang.jpg"
+  },
+  {
+   "author": "Mindy Huang",
+   "image_src": "Pholiota_squarrosoides_2_CC BY-NC_Mindy Huang.jpg"
+  },
+  {
+   "author": "Mindy Huang",
+   "image_src": "Pholiota_squarrosoides_3_CC BY-NC_Mindy Huang.jpg"
+  },
+  {
+   "author": "Mindy Huang",
+   "image_src": "Pholiota_squarrosoides_4_CC BY-NC_Mindy Huang.jpg"
+  },
+  {
+   "author": "Mindy Huang",
+   "image_src": "Pholiota_squarrosoides_5_CC BY-NC_Mindy Huang.jpg"
+  },
+  {
+   "author": "Mindy Huang",
+   "image_src": "Pholiota_squarrosoides_6_CC BY-NC_Mindy Huang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "尖鳞环锈伞"
+ ],
+ "meta": {
+  "CapColors": "4294303411,4292786311",
+  "CapDiamRangeValues": "30,110",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "0,15",
+  "StalkLengthRangeValuess": "40,100",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "clustered",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Pholiota squarrosoides",
+   "cname": "Sharp-scaly Pholiota",
+   "url": "https://www.inaturalist.org/taxa/157728-Pholiota-squarrosoides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/61424/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,147 @@
+{
+ "genus": "Inocybe",
+ "name": "lilacina",
+ "synonym": [
+  {
+   "name": "Inocybe geophylla var. lilacina",
+   "zhtw": "土味絲蓋傘淡紫色變種",
+   "zhcn": "土味丝盖伞淡紫色变种"
+  }
+ ],
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "淡紫絲蓋傘"
+ ],
+ "names_en": [],
+ "url": "4215091908601208",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Inocybe_lilacina_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Inocybe_lilacina_1_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Inocybe_lilacina_2_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Inocybe_lilacina_3_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Inocybe_lilacina_4_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Inocybe_lilacina_5_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Inocybe_lilacina_6_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Inocybe_lilacina_7_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Inocybe_lilacina_8_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Inocybe_lilacina_9_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Inocybe_lilacina_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Inocybe_lilacina_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Inocybe_lilacina_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Inocybe_lilacina_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Inocybe_lilacina_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Inocybe_lilacina_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Inocybe_lilacina_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Inocybe_lilacina_9_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "淡紫丝盖伞"
+ ],
+ "meta": {
+  "CapColors": "4291601356,4287001761",
+  "CapDiamRangeValues": "15,35",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Inocybe lilacina",
+   "cname": "Lilac Fibrecap",
+   "url": "https://www.inaturalist.org/taxa/1366614-Inocybe-lilacina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155519270/thumb.jpg"
+  },
+  {
+   "name": "Inocybe lilacina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1288764-Inocybe-lilacina",
+   "src": "https://static.inaturalist.org/photos/101448116/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

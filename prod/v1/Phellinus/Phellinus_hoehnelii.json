@@ -1,0 +1,77 @@
+{
+ "genus": "Phellinus",
+ "name": "hoehnelii",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "賀尼木層孔菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3735",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Phellinus_hoehnelii_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Phellinus_hoehnelii_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Phellinus_hoehnelii_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Phellinus_hoehnelii_4_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "贺尼木层孔菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4292072403",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Phellinus hoehnelii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/895611-Phellinus-hoehnelii",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

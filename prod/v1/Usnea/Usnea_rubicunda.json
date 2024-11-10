@@ -1,0 +1,85 @@
+{
+ "genus": "Usnea",
+ "name": "rubicunda",
+ "date": [
+  "07/23/2023,6245760635534315"
+ ],
+ "names_zhtw": [
+  "深紅松蘿"
+ ],
+ "names_en": [],
+ "url": "6245760635534315",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Usnea_rubicunda_3d947cc0-3120-11ee-8c47-e73c7fbd26b0_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Usnea_rubicunda_3d947cc0-3120-11ee-8c47-e73c7fbd26b0_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Usnea_rubicunda_3d947cc0-3120-11ee-8c47-e73c7fbd26b0_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Usnea_rubicunda_3d947cc0-3120-11ee-8c47-e73c7fbd26b0_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Usnea_rubicunda_3d947cc0-3120-11ee-8c47-e73c7fbd26b0_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Usnea_rubicunda_3d947cc0-3120-11ee-8c47-e73c7fbd26b0_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "深红松萝"
+ ],
+ "meta": {
+  "CapColors": "4294901760,4294931200",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Usnea rubicunda",
+   "cname": "Red Beard Lichen",
+   "url": "https://www.inaturalist.org/taxa/117900-Usnea-rubicunda",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/818914/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

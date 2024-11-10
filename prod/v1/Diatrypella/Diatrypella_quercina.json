@@ -1,0 +1,90 @@
+{
+ "genus": "Diatrypella",
+ "name": "quercina",
+ "date": [
+  "04/17/2023,5893894114054304"
+ ],
+ "names_zhtw": [
+  "櫟小蕉孢殼"
+ ],
+ "names_en": [],
+ "url": "5893894114054304",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Diatrypella_quercina_f383cca0-dddf-11ed-aa79-2b4689058a63_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Diatrypella_quercina_f383cca0-dddf-11ed-aa79-2b4689058a63_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Diatrypella_quercina_f383cca0-dddf-11ed-aa79-2b4689058a63_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Diatrypella_quercina_f383cca0-dddf-11ed-aa79-2b4689058a63_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "栎小蕉孢壳"
+ ],
+ "meta": {
+  "CapColors": "4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Diatrypella quercina",
+   "cname": "Oak Blackhead",
+   "url": "https://www.inaturalist.org/taxa/350666-Diatrypella-quercina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2610589/thumb.jpg"
+  },
+  {
+   "name": "Diatrypella quercina var. microspora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/350667-Diatrypella-quercina-microspora",
+   "src": ""
+  },
+  {
+   "name": "Diatrypella quercina var. quercina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1057074-Diatrypella-quercina-quercina",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

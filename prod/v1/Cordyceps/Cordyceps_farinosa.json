@@ -1,0 +1,137 @@
+{
+ "genus": "Cordyceps",
+ "name": "farinosa",
+ "date": [
+  "12/31/2023,6805625269547846",
+  "09/01/2023,6360255310751513",
+  "07/04/2023,6159273497516363",
+  "07/10/2022,5054650877978636",
+  "07/07/2022,5048093738634350",
+  "07/10/2020,2915588068551605",
+  "05/31/2016,907768206000278"
+ ],
+ "names_zhtw": [
+  "粉粒擬青黴"
+ ],
+ "names_en": [],
+ "url": "6159273497516363",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Paecilomyces_farinosus_11_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cordyceps_farinosa_d91c1220-499e-11ee-a03f-25dab2c35745_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cordyceps_farinosa_d91c1220-499e-11ee-a03f-25dab2c35745_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cordyceps_farinosa_d91c1220-499e-11ee-a03f-25dab2c35745_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cordyceps_farinosa_d91c1220-499e-11ee-a03f-25dab2c35745_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cordyceps_farinosa_d91c1220-499e-11ee-a03f-25dab2c35745_5.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Paecilomyces farinosus",
+   "zhtw": "粉粒擬青黴",
+   "zhcn": "粉粒拟青霉"
+  }
+ ],
+ "names_zhcn": [
+  "粉粒拟青霉"
+ ],
+ "meta": {
+  "CapColors": "4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Cordyceps farinosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/960392-Cordyceps-farinosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/411136/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

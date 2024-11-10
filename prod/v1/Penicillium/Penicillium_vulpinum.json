@@ -1,0 +1,130 @@
+{
+ "genus": "Penicillium",
+ "name": "vulpinum",
+ "date": [
+  "02/24/2024,7019264058183965",
+  "04/02/2023,5843888582388191",
+  "03/28/2023,5833944593382590",
+  "02/02/2022,4614211612022567",
+  "01/16/2022,4566359900141072",
+  "12/13/2020,3359286677515073"
+ ],
+ "names_zhtw": [
+  "牲糞青黴"
+ ],
+ "names_en": [],
+ "url": "4614211612022567",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_vulpinum_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_vulpinum_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_vulpinum_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_vulpinum_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_vulpinum_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_vulpinum_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_vulpinum_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Penicillium_vulpinum_11_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Penicillium_vulpinum_1_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Penicillium_vulpinum_2_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Penicillium_vulpinum_3_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Penicillium_vulpinum_4_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Penicillium_vulpinum_5_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Penicillium_vulpinum_9adfff40-cf5e-11ed-972f-d174e320fce5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Penicillium_vulpinum_9adfff40-cf5e-11ed-972f-d174e320fce5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Penicillium_vulpinum_9adfff40-cf5e-11ed-972f-d174e320fce5_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "牲粪青霉"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4278225803,4284927402",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "stool",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Penicillium vulpinum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/383413-Penicillium-vulpinum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28988184/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

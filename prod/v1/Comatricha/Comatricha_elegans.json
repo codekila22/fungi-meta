@@ -1,0 +1,76 @@
+{
+ "genus": "Comatricha",
+ "name": "elegans",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "圓頭髮黏菌"
+ ],
+ "names_en": [],
+ "url": "3367298406713900",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Comatricha_elegans_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Comatricha_elegans_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Comatricha_elegans_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Comatricha_elegans_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "圆头发黏菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4288768839",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Comatricha elegans",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/327940-Comatricha-elegans",
+   "src": "https://static.inaturalist.org/photos/50289663/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

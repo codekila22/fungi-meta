@@ -1,0 +1,252 @@
+{
+ "genus": "Panellus",
+ "name": "minimus",
+ "synonym": [
+  {
+   "name": "Favolaschia minima",
+   "zhtw": "迷你膠孔菌",
+   "zhcn": "迷你胶孔菌"
+  }
+ ],
+ "date": [
+  "09/05/2024,7988713077905720",
+  "05/25/2024,7440356439408056",
+  "04/14/2024,7246820482094987",
+  "04/26/2023,5962155100561538",
+  "05/03/2022,4866184893491903",
+  "09/18/2021,4147858741991192"
+ ],
+ "names_zhtw": [
+  "迷你扇菇"
+ ],
+ "names_en": [],
+ "url": "4147858741991192",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Panellus_minima_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Panellus_minima_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Panellus_minima_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Panellus_minima_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Panellus_minima_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Panellus_minima_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Panellus_minima_10_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Panellus_minima_11_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Panellus_minima_12_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_992b2160-ee6d-11ed-a938-0f1130c0d400_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_992b2160-ee6d-11ed-a938-0f1130c0d400_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_992b2160-ee6d-11ed-a938-0f1130c0d400_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_992b2160-ee6d-11ed-a938-0f1130c0d400_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_992b2160-ee6d-11ed-a938-0f1130c0d400_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_992b2160-ee6d-11ed-a938-0f1130c0d400_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Panellus_minimus_1f014d50-ff11-11ee-a98b-9f52dc273b9c_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Panellus_minimus_1f014d50-ff11-11ee-a98b-9f52dc273b9c_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Panellus_minimus_1f014d50-ff11-11ee-a98b-9f52dc273b9c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_630f3ec0-200a-11ef-b9e3-4f4e1d9b7b4a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_630f3ec0-200a-11ef-b9e3-4f4e1d9b7b4a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_630f3ec0-200a-11ef-b9e3-4f4e1d9b7b4a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_630f3ec0-200a-11ef-b9e3-4f4e1d9b7b4a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_minimus_630f3ec0-200a-11ef-b9e3-4f4e1d9b7b4a_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_12.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_13.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_14.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_15.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Panellus_minimus_8a651f80-6cb8-11ef-ae9a-53e3fd112411_16.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "迷你扇菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "1,3",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "leaves,bamboo",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Panellus sp.1,,",
+  "Note": "生長在單子葉植物如枯竹或山棕枯桿上，有著極短的菌柄。山棕扇菇的柄側生，迷你扇菇的柄在背面偏生。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "山棕扇菇 (暫名),,",
+  "la_zhcn": "山棕扇菇 (暂名),,"
+ },
+ "inaturalist": [
+  {
+   "name": "Panellus minimus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/383387-Panellus-minimus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29122661/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

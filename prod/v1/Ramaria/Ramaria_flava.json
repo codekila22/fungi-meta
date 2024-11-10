@@ -1,0 +1,77 @@
+{
+ "genus": "Ramaria",
+ "name": "flava",
+ "date": [
+  "06/01/2014,788903541220079"
+ ],
+ "names_zhtw": [
+  "黃枝瑚菌"
+ ],
+ "names_en": [],
+ "url": "788903541220079",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Ramaria_flava_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ramaria_flava_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ramaria_flava_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ramaria_flava_4_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黄枝瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4294962944",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Ramaria flava",
+   "cname": "Goat's Beard",
+   "url": "https://www.inaturalist.org/taxa/352185-Ramaria-flava",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/201088258/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

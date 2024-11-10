@@ -1,0 +1,59 @@
+{
+ "name": "Pholiota",
+ "zhtw": "環銹傘屬",
+ "zhcn": "环锈伞属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Pholiota aurivella",
+   "zhtw": "金毛鱗傘",
+   "zhcn": "金毛鳞伞",
+   "img": "Pholiota_aurivella_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Pholiota flammans",
+   "zhtw": "黃鱗傘",
+   "zhcn": "黄鳞伞",
+   "img": "Pholiota_flammans_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Pholiota lubrica",
+   "zhtw": "黏蓋環銹傘",
+   "zhcn": "黏盖环锈伞",
+   "img": "Pholiota_lubrica_632343e0-6c25-11ef-8ee3-0ffba5abca67_4.jpg"
+  },
+  {
+   "name": "Pholiota microspora",
+   "zhtw": "小孢環銹傘",
+   "zhcn": "小孢环锈伞",
+   "img": "Pholiota_microspora_909939a0-b81c-11ee-9b84-099d74592957_6.jpg"
+  },
+  {
+   "name": "Pholiota nameko",
+   "zhtw": "光滑環銹傘",
+   "zhcn": "光滑环锈伞",
+   "current": "Pholiota microspora",
+   "current_zhtw": "小孢環銹傘",
+   "current_zhcn": "小孢环锈伞",
+   "img": "Pholiota_microspora_909939a0-b81c-11ee-9b84-099d74592957_6.jpg"
+  },
+  {
+   "name": "Pholiota spumosa",
+   "zhtw": "黃褐環銹傘",
+   "zhcn": "黄褐环锈伞",
+   "img": "Pholiota_spumosa_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Pholiota squarrosa",
+   "zhtw": "翹鱗傘",
+   "zhcn": "翘鳞伞",
+   "img": "Pholiota_squarrosa_1_CC BY-NC_許藕清.jpg"
+  },
+  {
+   "name": "Pholiota squarrosoides",
+   "zhtw": "尖鱗環銹傘",
+   "zhcn": "尖鳞环锈伞",
+   "img": "Pholiota_squarrosoides_1_CC BY-NC_陳渼茹.jpg"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "name": "Geoglossum",
+ "zhtw": "地舌菌屬",
+ "zhcn": "地舌菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Geoglossum cookeanum",
+   "zhtw": "庫克地舌菌",
+   "zhcn": "库克地舌菌",
+   "img": "Geoglossum_cookeanum_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Geoglossum fallax",
+   "zhtw": "假地舌菌",
+   "zhcn": "假地舌菌",
+   "img": "Geoglossum_fallax_1_CC BY-NC_劉禎.jpg"
+  }
+ ]
+}

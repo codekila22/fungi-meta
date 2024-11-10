@@ -1,0 +1,92 @@
+{
+ "genus": "Arcyria",
+ "name": "oerstedii",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "奧氏團網黏菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3036",
+ "images": [
+  {
+   "author": "胡家銘",
+   "image_src": "Arcyria_oerstedii_1_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Arcyria_oerstedii_2_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Arcyria_oerstedii_3_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Arcyria_oerstedii_4_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Arcyria_oerstedii_5_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Arcyria_oerstedii_6_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Arcyria_oerstedii_7_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Arcyria_oerstedii_8_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "奥氏团网黏菌"
+ ],
+ "meta": {
+  "CapColors": "4293313475,4294606962,4293263360",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Arcyria oerstedii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/126280-Arcyria-oerstedii",
+   "src": "https://static.inaturalist.org/photos/1254823/thumb."
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

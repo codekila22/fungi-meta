@@ -1,0 +1,26 @@
+{
+ "name": "Calostoma",
+ "zhtw": "麗口包屬",
+ "zhcn": "丽口包属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Calostoma cinnabarinum",
+   "zhtw": "紅皮麗口包",
+   "zhcn": "红皮丽口包",
+   "img": "Calostoma_cinnabarinum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Calostoma japonicum",
+   "zhtw": "日本麗口包",
+   "zhcn": "日本丽口包",
+   "img": "Calostoma_japonicum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Calostoma junghuhnii",
+   "zhtw": "黃皮麗口包",
+   "zhcn": "黄皮丽口包",
+   "img": "Calostoma_junghuhnii_1_CC BY-NC_James Ho.jpg"
+  }
+ ]
+}

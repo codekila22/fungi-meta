@@ -1,0 +1,82 @@
+{
+ "genus": "Tremellochaete",
+ "name": "japonica",
+ "date": [
+  "02/21/2019,3302542413189500",
+  "02/17/2019,1922145054562583"
+ ],
+ "names_zhtw": [
+  "白膠刺耳"
+ ],
+ "names_en": [],
+ "url": "3302542413189500",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Tremellochaete_japonica_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Tremellochaete_japonica_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Tremellochaete_japonica_3_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Tremellochaete_japonica_4_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Tremellochaete_japonica_5_CC BY-NC_陳啟仁.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "白胶刺耳"
+ ],
+ "meta": {
+  "CapColors": "4290822336,4292664540",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Tremellochaete japonica",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/989781-Tremellochaete-japonica",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/177023804/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

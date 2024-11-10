@@ -1,0 +1,79 @@
+{
+ "genus": "Zoophthora",
+ "name": "radicans",
+ "date": [
+  "06/27/2019,8456274867816203"
+ ],
+ "names_zhtw": [
+  "根蟲瘟霉",
+  "放射蟲瘟霉"
+ ],
+ "names_en": [],
+ "url": "8456274867816203",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Zoophthora_radicans_c33f1c20-9e9a-11ef-9f59-db7df2d9998d_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Zoophthora_radicans_c33f1c20-9e9a-11ef-9f59-db7df2d9998d_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Zoophthora_radicans_c33f1c20-9e9a-11ef-9f59-db7df2d9998d_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Zoophthora_radicans_c33f1c20-9e9a-11ef-9f59-db7df2d9998d_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "根虫瘟霉",
+  "放射虫瘟霉"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "寄生在威氏尖頭脊唇蠟蟬(綠瓢蠟蟬)(Tonga westwoodi (Signoret ,1862))若蟲上的蟲霉。"
+ },
+ "inaturalist": [
+  {
+   "name": "Zoophthora radicans",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1478694-Zoophthora-radicans",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

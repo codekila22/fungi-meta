@@ -1,0 +1,71 @@
+{
+ "genus": "Trichoderma",
+ "name": "epimyces",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "延伸木黴菌"
+ ],
+ "names_en": [],
+ "url": "3482731138503959",
+ "images": [
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hypocrea_epimyces_1_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hypocrea_epimyces_2_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hypocrea_epimyces_3_CC BY-NC_蔣珮瑩.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Hypocrea epimyces",
+   "zhtw": "延伸肉座菌",
+   "zhcn": "延伸肉座菌"
+  }
+ ],
+ "names_zhcn": [
+  "延伸木霉菌"
+ ],
+ "meta": {
+  "CapColors": "4293313475,4292664540",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "timestamp": "20241110-215815"
+}

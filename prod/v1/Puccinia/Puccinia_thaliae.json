@@ -1,0 +1,102 @@
+{
+ "genus": "Puccinia",
+ "name": "thaliae",
+ "date": [
+  "01/20/2024,6879170868859952",
+  "07/28/2023,6265333456910366"
+ ],
+ "names_zhtw": [
+  "美人蕉柄銹菌"
+ ],
+ "names_en": [],
+ "url": "6265333456910366",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_thaliae_024eac90-b793-11ee-97e7-6d47107ef2b8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_thaliae_605b21d0-3366-11ee-bd63-3ba681f6f5f6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_thaliae_605b21d0-3366-11ee-bd63-3ba681f6f5f6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_thaliae_605b21d0-3366-11ee-bd63-3ba681f6f5f6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_thaliae_605b21d0-3366-11ee-bd63-3ba681f6f5f6_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_thaliae_605b21d0-3366-11ee-bd63-3ba681f6f5f6_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_thaliae_024eac90-b793-11ee-97e7-6d47107ef2b8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_thaliae_024eac90-b793-11ee-97e7-6d47107ef2b8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_thaliae_024eac90-b793-11ee-97e7-6d47107ef2b8_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Puccinia_thaliae_024eac90-b793-11ee-97e7-6d47107ef2b8_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "美人蕉柄锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4294967040,4294944000",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Puccinia thaliae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/541137-Puccinia-thaliae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14212225/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,107 @@
+{
+ "genus": "Xylaria",
+ "name": "tentaculata",
+ "date": [
+  "10/05/2022",
+  "05/19/2022",
+  "11/19/2020"
+ ],
+ "names_zhtw": [
+  "觸手炭角菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1088",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Xylaria_tentaculata_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Xylaria_tentaculata_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Xylaria_tentaculata_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Xylaria_tentaculata_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_tentaculata_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_tentaculata_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_tentaculata_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_tentaculata_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Xylaria_tentaculata_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Xylaria_tentaculata_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Xylaria_tentaculata_3_CC BY-NC_向高世.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "触手炭角菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "solid",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground,debris",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Xylaria tentaculata",
+   "cname": "Fairy Sparklers",
+   "url": "https://www.inaturalist.org/taxa/352953-Xylaria-tentaculata",
+   "src": "https://static.inaturalist.org/photos/2306404/thumb.JPG"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

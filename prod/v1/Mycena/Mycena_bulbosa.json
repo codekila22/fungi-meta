@@ -1,0 +1,78 @@
+{
+ "genus": "Mycena",
+ "name": "bulbosa",
+ "date": [
+  "06/30/2023,6148313851945661"
+ ],
+ "names_zhtw": [
+  "球根小菇"
+ ],
+ "names_en": [],
+ "url": "6148313851945661",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_bulbosa_44c47960-17cf-11ee-ac38-8d2c22bd5c44_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_bulbosa_44c47960-17cf-11ee-ac38-8d2c22bd5c44_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_bulbosa_44c47960-17cf-11ee-ac38-8d2c22bd5c44_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_bulbosa_44c47960-17cf-11ee-ac38-8d2c22bd5c44_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "球根小菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena bulbosa",
+   "cname": "Rush Bonnet",
+   "url": "https://www.inaturalist.org/taxa/462017-Mycena-bulbosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1804684/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

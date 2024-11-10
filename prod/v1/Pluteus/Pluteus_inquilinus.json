@@ -1,0 +1,98 @@
+{
+ "genus": "Pluteus",
+ "name": "inquilinus",
+ "date": [
+  "04/15/2023,5887751684668547"
+ ],
+ "names_zhtw": [
+  "寄居光柄菇"
+ ],
+ "names_en": [],
+ "url": "5887751684668547",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Pluteus_inquilinus_15f5ded0-dc51-11ed-837d-9bb30e028b66_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pluteus_inquilinus_15f5ded0-dc51-11ed-837d-9bb30e028b66_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pluteus_inquilinus_15f5ded0-dc51-11ed-837d-9bb30e028b66_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pluteus_inquilinus_15f5ded0-dc51-11ed-837d-9bb30e028b66_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pluteus_inquilinus_15f5ded0-dc51-11ed-837d-9bb30e028b66_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pluteus_inquilinus_15f5ded0-dc51-11ed-837d-9bb30e028b66_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pluteus_inquilinus_15f5ded0-dc51-11ed-837d-9bb30e028b66_7.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pluteus_inquilinus_15f5ded0-dc51-11ed-837d-9bb30e028b66_8.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pluteus_inquilinus_15f5ded0-dc51-11ed-837d-9bb30e028b66_9.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "寄居光柄菇"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Pluteus inquilinus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/118279-Pluteus-inquilinus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28753574/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,77 @@
+{
+ "genus": "Russula",
+ "name": "foetens",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "臭紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1005",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Russula_foetens_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_foetens_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_foetens_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_foetens_4_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "臭红菇"
+ ],
+ "meta": {
+  "CapColors": "4288244511,4294962944,4293310464",
+  "CapDiamRangeValues": "60,150",
+  "CapShape": "",
+  "CapTexture": "slimy",
+  "CapMargin": "striated",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "hollow",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "60,120",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "spicy",
+  "LookAlikes": "",
+  "Note": "傘面濕時具黏性。菇體有種令人不快的臭味。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula foetens",
+   "cname": "Stinking Brittlegill",
+   "url": "https://www.inaturalist.org/taxa/352283-Russula-foetens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/218769961/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

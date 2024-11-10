@@ -1,0 +1,415 @@
+{
+ "genus": "Physarum",
+ "name": "bivalve",
+ "date": [
+  "06/21/2024,7615832835193748",
+  "06/09/2024,7479356452174721",
+  "06/02/2024,7576446052465760",
+  "04/29/2024,7290853607691674",
+  "04/14/2024,7220056854771350",
+  "05/14/2023,5978023082308073",
+  "10/24/2022,5354704194639968",
+  "07/10/2021,4056915984418802",
+  "10/01/2010,5255453937898328"
+ ],
+ "names_zhtw": [
+  "雙瓣絨泡黏菌"
+ ],
+ "names_en": [],
+ "url": "5255453937898328",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Physarum_bivalve_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_bivalve_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_bivalve_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_bivalve_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_bivalve_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_bivalve_6_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Physarum_bivalve_1_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Physarum_bivalve_2_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Physarum_bivalve_3_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Physarum_bivalve_4_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Physarum_bivalve_5_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_6_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_8_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_9_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_10_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_11_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_12_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_13_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_14_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_15_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_16_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_17_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_18_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_19_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physarum_bivalve_20_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_12.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_13.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_b6f2e720-f249-11ed-b060-d78ea2dfebeb_14.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bivalve_0800a280-fa49-11ee-884a-575c2c84654b_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bivalve_0800a280-fa49-11ee-884a-575c2c84654b_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bivalve_0800a280-fa49-11ee-884a-575c2c84654b_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bivalve_0800a280-fa49-11ee-884a-575c2c84654b_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bivalve_0800a280-fa49-11ee-884a-575c2c84654b_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_bivalve_0800a280-fa49-11ee-884a-575c2c84654b_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_12.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physarum_bivalve_c3506a20-0750-11ef-88bf-0f342bd9195f_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_bivalve_7a853f80-2665-11ef-bbff-f3e6a6518ec1_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_bivalve_e5a13f20-35d9-11ef-89fc-3d64a5f1d86c_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_bivalve_e5a13f20-35d9-11ef-89fc-3d64a5f1d86c_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_bivalve_e5a13f20-35d9-11ef-89fc-3d64a5f1d86c_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_bivalve_e5a13f20-35d9-11ef-89fc-3d64a5f1d86c_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_bivalve_e5a13f20-35d9-11ef-89fc-3d64a5f1d86c_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_bivalve_e5a13f20-35d9-11ef-89fc-3d64a5f1d86c_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_bivalve_e5a13f20-35d9-11ef-89fc-3d64a5f1d86c_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarum_bivalve_e5a13f20-35d9-11ef-89fc-3d64a5f1d86c_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "双瓣绒泡黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Physarum echinosporum,,",
+  "Note": "",
+  "la_zhtw": "棘孢絨泡黏菌,,",
+  "la_zhcn": "棘孢绒泡黏菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Physarum bivalve",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/327935-Physarum-bivalve",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4574763/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

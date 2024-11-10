@@ -1,0 +1,77 @@
+{
+ "genus": "Cordierites",
+ "name": "coralloides",
+ "date": [
+  "11/09/2024,8486769741433382"
+ ],
+ "names_zhtw": [
+  "珊瑚狀復柄盤菌"
+ ],
+ "names_en": [],
+ "url": "8486769741433382",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Cordierites_coralloides_2e6ffbc0-9f47-11ef-b02f-bb2efaa55a62_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cordierites_coralloides_2e6ffbc0-9f47-11ef-b02f-bb2efaa55a62_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cordierites_coralloides_2e6ffbc0-9f47-11ef-b02f-bb2efaa55a62_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cordierites_coralloides_2e6ffbc0-9f47-11ef-b02f-bb2efaa55a62_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "珊瑚状复柄盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4292786311,4294960324",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "有束梗孢外型的真菌是一種寄生在柄座菌屬的 Cordierites coralloides (珊瑚狀復柄盤菌)的無性世代。"
+ },
+ "inaturalist": [
+  {
+   "name": "Cordierites coralloides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/972147-Cordierites-coralloides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8975478/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

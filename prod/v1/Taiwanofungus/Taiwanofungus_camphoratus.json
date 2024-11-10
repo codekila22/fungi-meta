@@ -1,0 +1,100 @@
+{
+ "genus": "Taiwanofungus",
+ "name": "camphoratus",
+ "date": [
+  "01/08/2023,5623916684385383",
+  "10/24/2021,4255578117885920",
+  "03/31/2019,1978445658932522",
+  "10/01/2018,1730559863721104",
+  "06/05/2016,910438952399870",
+  "05/30/2016,907109076066191"
+ ],
+ "names_zhtw": [
+  "樟台芝",
+  "牛樟芝"
+ ],
+ "names_en": [],
+ "url": "907109076066191",
+ "images": [
+  {
+   "author": "林進福",
+   "image_src": "Taiwanofungus_camphoratus_4_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Taiwanofungus_camphoratus_2_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Taiwanofungus_camphoratus_3_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Taiwanofungus_camphoratus_1_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Taiwanofungus_camphoratus_5_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Taiwanofungus_camphoratus_6_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Taiwanofungus_camphoratus_7_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
+   "image_src": "Taiwanofungus_camphoratus_8_CC BY-NC_林進福.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "樟台芝",
+  "牛樟芝"
+ ],
+ "meta": {
+  "CapColors": "4294934352,4294606962,4287299584",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Taiwanofungus camphoratus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/895445-Taiwanofungus-camphoratus",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

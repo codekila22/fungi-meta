@@ -1,0 +1,113 @@
+{
+ "genus": "Lachnum",
+ "name": "brevipilosum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "短毛粒毛盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3836",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_11_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_12_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Lachnum_brevipilosum_13_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "短毛粒毛盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294966000,4294965468",
+  "CapDiamRangeValues": "1,2",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Lachnum brevipilosum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382859-Lachnum-brevipilosum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/101526803/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,81 @@
+{
+ "genus": "Cortinarius",
+ "name": "traganus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "山羊味絲膜菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/2336",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Cortinarius_traganus_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cortinarius_traganus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cortinarius_traganus_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cortinarius_traganus_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Cortinarius_traganus_5_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "山羊味丝膜菌"
+ ],
+ "meta": {
+  "CapColors": "4290547599,4290290127",
+  "CapDiamRangeValues": "30,100",
+  "CapShape": "",
+  "CapTexture": "fibrous",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "10,30",
+  "StalkLengthRangeValuess": "60,100",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Cortinarius traganus",
+   "cname": "Gassy Webcap",
+   "url": "https://www.inaturalist.org/taxa/58676-Cortinarius-traganus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159185/thumb."
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

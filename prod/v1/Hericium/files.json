@@ -1,0 +1,20 @@
+{
+ "name": "Hericium",
+ "zhtw": "猴頭菇屬",
+ "zhcn": "猴头菇属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Hericium coralloides",
+   "zhtw": "珊瑚狀猴頭菇",
+   "zhcn": "珊瑚状猴头菇",
+   "img": "Hericium_coralloides_1_CC BY-NC_羅美玲.jpg"
+  },
+  {
+   "name": "Hericium erinaceum",
+   "zhtw": "猴頭菇",
+   "zhcn": "猴头菇",
+   "img": "Hericium_erinaceum_4_CC BY-NC.jpg"
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "genus": "Hymenoscyphus",
+ "name": "caudatus",
+ "date": [
+  "02/12/2023,5686334031476981",
+  "02/08/2023,5676791659097885",
+  "02/01/2021,3748290388614698",
+  "04/01/2020,3748290388614698"
+ ],
+ "names_zhtw": [
+  "尾膜盤菌"
+ ],
+ "names_en": [],
+ "url": "3748290388614698",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_6_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_8_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_9_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_10_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hymenoscyphus_caudatus_11_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Hymenoscyphus_caudatus_1_CC BY-NC_Eric Cho.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Hymenoscyphus_caudatus_2_CC BY-NC_Eric Cho.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Hymenoscyphus_caudatus_3_CC BY-NC_Eric Cho.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Hymenoscyphus_caudatus_4_CC BY-NC_Eric Cho.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hymenoscyphus_caudatus_f7afde20-cfbd-11ed-a030-5b7d74ca4921_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hymenoscyphus_caudatus_f7afde20-cfbd-11ed-a030-5b7d74ca4921_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hymenoscyphus_caudatus_f7afde20-cfbd-11ed-a030-5b7d74ca4921_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hymenoscyphus_caudatus_f7afde20-cfbd-11ed-a030-5b7d74ca4921_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hymenoscyphus_caudatus_f7afde20-cfbd-11ed-a030-5b7d74ca4921_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hymenoscyphus_caudatus_f7afde20-cfbd-11ed-a030-5b7d74ca4921_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hymenoscyphus_caudatus_f7afde20-cfbd-11ed-a030-5b7d74ca4921_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "尾膜盘菌"
+ ],
+ "meta": {
+  "CapColors": "4293318963,4293310464,4293847210",
+  "CapDiamRangeValues": "1,2",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Hymenoscyphus caudatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382658-Hymenoscyphus-caudatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/54195017/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

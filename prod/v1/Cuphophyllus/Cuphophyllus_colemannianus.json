@@ -1,0 +1,82 @@
+{
+ "genus": "Cuphophyllus",
+ "name": "colemannianus",
+ "date": [
+  "12/11/2022,5476747815768938"
+ ],
+ "names_zhtw": [
+  "紅褐拱頂菇"
+ ],
+ "names_en": [],
+ "url": "5476747815768938",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Cuphophyllus_colemannianus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cuphophyllus_colemannianus_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cuphophyllus_colemannianus_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cuphophyllus_colemannianus_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cuphophyllus_colemannianus_5_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "红褐拱顶菇"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4287299584",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "subdistant,crossconnected",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "rooting",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Cuphophyllus colemannianus",
+   "cname": "Toasted Waxcap",
+   "url": "https://www.inaturalist.org/taxa/485984-Cuphophyllus-colemannianus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4161676/thumb."
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

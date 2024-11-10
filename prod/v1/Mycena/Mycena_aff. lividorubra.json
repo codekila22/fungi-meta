@@ -1,0 +1,90 @@
+{
+ "genus": "Mycena",
+ "name": "aff. lividorubra",
+ "date": [
+  "04/20/2024,7251599441617091"
+ ],
+ "names_zhtw": [
+  "紫紅小菇近似種"
+ ],
+ "names_en": [],
+ "url": "7251599441617091",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_aff. lividorubra_fc525cc0-05cf-11ef-9d54-d5be4cd0c781_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_aff. lividorubra_fc525cc0-05cf-11ef-9d54-d5be4cd0c781_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_aff. lividorubra_fc525cc0-05cf-11ef-9d54-d5be4cd0c781_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_aff. lividorubra_fc525cc0-05cf-11ef-9d54-d5be4cd0c781_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_aff. lividorubra_fc525cc0-05cf-11ef-9d54-d5be4cd0c781_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_aff. lividorubra_fc525cc0-05cf-11ef-9d54-d5be4cd0c781_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_aff. lividorubra_fc525cc0-05cf-11ef-9d54-d5be4cd0c781_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫红小菇近似种"
+ ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "decurrent",
+  "HymeniumGillMarginate": "colored",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena lividorubra",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/383191-Mycena-lividorubra",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/104884430/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

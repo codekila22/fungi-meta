@@ -1,0 +1,341 @@
+{
+ "genus": "Agaricus",
+ "name": "trisulphuratus",
+ "synonym": [
+  {
+   "name": "Hypholoma cinnabarinum",
+   "zhtw": "橙紅鱗垂幕菇",
+   "zhcn": "橙红鳞垂幕菇"
+  }
+ ],
+ "date": [
+  "09/26/2024,8164221743688185",
+  "06/09/2024,7478054345638265",
+  "06/07/2024,7468342176609482",
+  "05/25/2024,7409104539199913",
+  "05/04/2024,7443682649075435",
+  "05/02/2024,7302148219895546",
+  "10/18/2023,6531203020323407",
+  "09/08/2023,6379925858784458",
+  "08/10/2023,6280555162054862",
+  "07/30/2023,6245625162214529",
+  "06/18/2023,6101974319912948",
+  "06/11/2023,6076601369116910",
+  "05/26/2023,6019077334869314",
+  "04/26/2023,5918969748213407",
+  "05/30/2022,4943990855711306",
+  "05/22/2022,5709983569112027",
+  "05/20/2022,4911510322292693",
+  "04/25/2022,4840867182690341",
+  "04/06/2022,4792227910887602",
+  "08/10/2021,4023766327733768",
+  "08/06/2021,4013264245450643",
+  "08/05/2021,4047340685376332",
+  "08/02/2021,4000734260036975",
+  "07/13/2021,3941105999333135",
+  "06/02/2020,2814850461958700",
+  "05/28/2020,2802800756497004"
+ ],
+ "names_zhtw": [
+  "三硫色蘑菇"
+ ],
+ "names_en": [],
+ "url": "4047340685376332",
+ "images": [
+  {
+   "author": "徐秀團",
+   "image_src": "Agaricus_trisulphuratus_1_CC BY-NC_徐秀團.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Agaricus_trisulphuratus_2_CC BY-NC_徐秀團.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Agaricus_trisulphuratus_3_CC BY-NC_徐秀團.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Agaricus_trisulphuratus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Agaricus_trisulphuratus_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Agaricus_trisulphuratus_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Agaricus_trisulphuratus_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Agaricus_trisulphuratus_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Agaricus_trisulphuratus_6_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Agaricus_trisulphuratus_7_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Agaricus_trisulphuratus_8_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Agaricus_trisulphuratus_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Agaricus_trisulphuratus_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Agaricus_trisulphuratus_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_1_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_2_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_5_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Agaricus_trisulphuratus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Agaricus_trisulphuratus_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Agaricus_trisulphuratus_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Agaricus_trisulphuratus_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Agaricus_trisulphuratus_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Agaricus_trisulphuratus_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Agaricus_trisulphuratus_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Agaricus_trisulphuratus_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Agaricus_trisulphuratus_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "史劉鴻興",
+   "image_src": "Agaricus_trisulphuratus_10_CC BY-NC_史劉鴻興.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Agaricus_trisulphuratus_db1a2770-0834-11ee-a51f-95442a153a3d_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Agaricus_trisulphuratus_db1a2770-0834-11ee-a51f-95442a153a3d_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Agaricus_trisulphuratus_db1a2770-0834-11ee-a51f-95442a153a3d_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_c7596d20-08ee-11ef-897b-5d6cae162919_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_c7596d20-08ee-11ef-897b-5d6cae162919_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_c7596d20-08ee-11ef-897b-5d6cae162919_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_c7596d20-08ee-11ef-897b-5d6cae162919_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_c7596d20-08ee-11ef-897b-5d6cae162919_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Agaricus_trisulphuratus_96cddca0-1a59-11ef-b2a0-23b611e83c14_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Agaricus_trisulphuratus_26399110-2089-11ef-a599-97967ffbdbc9_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Agaricus_trisulphuratus_26399110-2089-11ef-a599-97967ffbdbc9_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Agaricus_trisulphuratus_26399110-2089-11ef-a599-97967ffbdbc9_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Agaricus_trisulphuratus_26399110-2089-11ef-a599-97967ffbdbc9_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Agaricus_trisulphuratus_26399110-2089-11ef-a599-97967ffbdbc9_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Agaricus_trisulphuratus_26399110-2089-11ef-a599-97967ffbdbc9_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Agaricus_trisulphuratus_26399110-2089-11ef-a599-97967ffbdbc9_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Agaricus_trisulphuratus_26399110-2089-11ef-a599-97967ffbdbc9_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Agaricus_trisulphuratus_26399110-2089-11ef-a599-97967ffbdbc9_9.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_13854d20-24ad-11ef-87b6-7fedb81ee18e_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_13854d20-24ad-11ef-87b6-7fedb81ee18e_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_13854d20-24ad-11ef-87b6-7fedb81ee18e_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_13854d20-24ad-11ef-87b6-7fedb81ee18e_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_c16a9530-2633-11ef-a863-4365802c0e9c_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_c16a9530-2633-11ef-a863-4365802c0e9c_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_c16a9530-2633-11ef-a863-4365802c0e9c_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_c16a9530-2633-11ef-a863-4365802c0e9c_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_c16a9530-2633-11ef-a863-4365802c0e9c_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_c16a9530-2633-11ef-a863-4365802c0e9c_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_c16a9530-2633-11ef-a863-4365802c0e9c_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_c16a9530-2633-11ef-a863-4365802c0e9c_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_c16a9530-2633-11ef-a863-4365802c0e9c_9.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Agaricus_trisulphuratus_c16a9530-2633-11ef-a863-4365802c0e9c_10.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_e76c9090-7d67-11ef-8304-c377fe81eabe_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_e76c9090-7d67-11ef-8304-c377fe81eabe_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agaricus_trisulphuratus_e76c9090-7d67-11ef-8304-c377fe81eabe_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "三硫色蘑菇"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "50,90",
+  "CapShape": "convex,flat",
+  "CapTexture": "raised-scales",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4286141768,4289309097",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "4,10",
+  "StalkLengthRangeValuess": "80,120",
+  "Rareness": "common",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Agaricus trisulphuratus",
+   "cname": "Scaly Tangerine Mushroom",
+   "url": "https://www.inaturalist.org/taxa/244783-Agaricus-trisulphuratus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112135801/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

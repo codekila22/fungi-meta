@@ -1,0 +1,383 @@
+{
+ "genus": "Aureoboletus",
+ "name": "longicollis",
+ "synonym": [
+  {
+   "name": "Boletellus longicollis",
+   "zhtw": "長柄條孢牛肝菌",
+   "zhcn": "长柄条孢牛肝菌"
+  }
+ ],
+ "date": [
+  "08/29/2024,7937531926357169",
+  "08/24/2024,7933228610120834",
+  "07/14/2024,7660993054011059",
+  "09/15/2023,6406527849457592",
+  "05/02/2023,5937550119688703",
+  "08/30/2022,5196654550444934",
+  "08/30/2022,5196601213783601",
+  "08/25/2022,5545065135603872",
+  "06/06/2021,3842380965872306"
+ ],
+ "names_zhtw": [
+  "長柄金牛肝菌"
+ ],
+ "names_en": [],
+ "url": "5545065135603872",
+ "images": [
+  {
+   "author": "Becca Fong",
+   "image_src": "Aureoboletus_longicollis_1_CC BY-NC_Becca Fong.jpg"
+  },
+  {
+   "author": "Becca Fong",
+   "image_src": "Aureoboletus_longicollis_2_CC BY-NC_Becca Fong.jpg"
+  },
+  {
+   "author": "Becca Fong",
+   "image_src": "Aureoboletus_longicollis_3_CC BY-NC_Becca Fong.jpg"
+  },
+  {
+   "author": "Becca Fong",
+   "image_src": "Aureoboletus_longicollis_4_CC BY-NC_Becca Fong.jpg"
+  },
+  {
+   "author": "Becca Fong",
+   "image_src": "Aureoboletus_longicollis_5_CC BY-NC_Becca Fong.jpg"
+  },
+  {
+   "author": "Becca Fong",
+   "image_src": "Aureoboletus_longicollis_6_CC BY-NC_Becca Fong.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_1_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_2_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_3_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4_CC BY-NC_WK Chan.jpg"
+  },
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Aureoboletus_longicollis_1_CC BY-NC_Kai-Chi Lin.jpg"
+  },
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Aureoboletus_longicollis_2_CC BY-NC_Kai-Chi Lin.jpg"
+  },
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Aureoboletus_longicollis_3_CC BY-NC_Kai-Chi Lin.jpg"
+  },
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Aureoboletus_longicollis_4_CC BY-NC_Kai-Chi Lin.jpg"
+  },
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Aureoboletus_longicollis_5_CC BY-NC_Kai-Chi Lin.jpg"
+  },
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Aureoboletus_longicollis_6_CC BY-NC_Kai-Chi Lin.jpg"
+  },
+  {
+   "author": "Kai-Chi Lin",
+   "image_src": "Aureoboletus_longicollis_7_CC BY-NC_Kai-Chi Lin.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aureoboletus_longicollis_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aureoboletus_longicollis_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aureoboletus_longicollis_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aureoboletus_longicollis_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aureoboletus_longicollis_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aureoboletus_longicollis_6_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aureoboletus_longicollis_7_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aureoboletus_longicollis_8_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aureoboletus_longicollis_9_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Aureoboletus_longicollis_10_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_1.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_2.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_3.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_4.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_5.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_6.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_7.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_8.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_9.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_10.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_11.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_12.jpg"
+  },
+  {
+   "author": "WK Chan",
+   "image_src": "Aureoboletus_longicollis_4e3cf1b0-e8cd-11ed-9e81-8d602044c7e7_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_94b7e740-53cf-11ee-a926-33bdc20c0069_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_94b7e740-53cf-11ee-a926-33bdc20c0069_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_94b7e740-53cf-11ee-a926-33bdc20c0069_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_94b7e740-53cf-11ee-a926-33bdc20c0069_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_94b7e740-53cf-11ee-a926-33bdc20c0069_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_c6038d80-91f1-1086-a31c-59ee924855d4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_c6038d80-91f1-1086-a31c-59ee924855d4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_c6038d80-91f1-1086-a31c-59ee924855d4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_c6038d80-91f1-1086-a31c-59ee924855d4_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_12.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_13.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_14.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_15.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_16.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_17.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_18.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_19.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_20.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_21.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_22.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Aureoboletus_longicollis_465da480-65db-11ef-bf2f-7d0777277c7f_23.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_701fe9e0-65f4-11ef-83d8-bf991df02d0e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_701fe9e0-65f4-11ef-83d8-bf991df02d0e_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_701fe9e0-65f4-11ef-83d8-bf991df02d0e_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_longicollis_701fe9e0-65f4-11ef-83d8-bf991df02d0e_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "长柄金牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4287317267,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Boletellus elatus,,",
+  "Note": "台灣與香港皆有紀錄。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "高腳條孢牛肝菌,,",
+  "la_zhcn": "高脚条孢牛肝菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Aureoboletus longicollis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1077775-Aureoboletus-longicollis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/257961587/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

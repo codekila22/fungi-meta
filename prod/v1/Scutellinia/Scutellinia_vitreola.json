@@ -1,0 +1,89 @@
+{
+ "genus": "Scutellinia",
+ "name": "vitreola",
+ "date": [
+  "10/27/2024,8402951663148524",
+  "10/27/2024,8403359759774381"
+ ],
+ "names_zhtw": [
+  "玻璃盾盤菌"
+ ],
+ "names_en": [],
+ "url": "8402951663148524",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_vitreola_8aff1ce0-9bdc-11ef-a6ca-fd12af9e91fc_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_vitreola_8aff1ce0-9bdc-11ef-a6ca-fd12af9e91fc_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_vitreola_8aff1ce0-9bdc-11ef-a6ca-fd12af9e91fc_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_vitreola_8aff1ce0-9bdc-11ef-a6ca-fd12af9e91fc_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_vitreola_8aff1ce0-9bdc-11ef-a6ca-fd12af9e91fc_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scutellinia_vitreola_8aff1ce0-9bdc-11ef-a6ca-fd12af9e91fc_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "玻璃盾盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Scutellinia erinaceus,,",
+  "Note": "盤面較為光亮，毛比相似種稍短。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "刺盾盤菌,,",
+  "la_zhcn": "刺盾盘菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Scutellinia vitreola",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/946907-Scutellinia-vitreola",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/67087785/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

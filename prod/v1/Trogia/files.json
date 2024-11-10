@@ -1,0 +1,26 @@
+{
+ "name": "Trogia",
+ "zhtw": "溝褶菌屬",
+ "zhcn": "沟褶菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Trogia buccinalis",
+   "zhtw": "貝狀溝褶菌",
+   "zhcn": "贝状沟褶菌",
+   "img": "Trogia_buccinalis_4dadd9b0-27f3-11ef-a33a-87d2350a05fc_1.jpg"
+  },
+  {
+   "name": "Trogia cantharelloides",
+   "zhtw": "紫雞油溝褶菌",
+   "zhcn": "紫鸡油沟褶菌",
+   "img": "Trogia_cantharelloides_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Trogia venenata",
+   "zhtw": "毒溝褶菌",
+   "zhcn": "毒沟褶菌",
+   "img": "Trogia_venenata_1_CC BY-NC_向高世.jpg"
+  }
+ ]
+}

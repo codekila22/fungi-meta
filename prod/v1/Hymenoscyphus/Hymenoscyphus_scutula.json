@@ -1,0 +1,101 @@
+{
+ "genus": "Hymenoscyphus",
+ "name": "scutula",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "盾膜盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4995",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Hymenoscyphus_scutula_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hymenoscyphus_scutula_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hymenoscyphus_scutula_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hymenoscyphus_scutula_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hymenoscyphus_scutula_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hymenoscyphus_scutula_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hymenoscyphus_scutula_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hymenoscyphus_scutula_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hymenoscyphus_scutula_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Hymenoscyphus_scutula_10_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "盾膜盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294967295,4294967280",
+  "CapDiamRangeValues": "1,4",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Hymenoscyphus scutula",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382662-Hymenoscyphus-scutula",
+   "src": "https://static.inaturalist.org/photos/17852429/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

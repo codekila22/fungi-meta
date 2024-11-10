@@ -1,0 +1,126 @@
+{
+ "genus": "Ramaria",
+ "name": "botrytis",
+ "date": [
+  "08/13/2023,7139466289497074"
+ ],
+ "names_zhtw": [
+  "叢枝瑚菌"
+ ],
+ "names_en": [],
+ "url": "7139466289497074",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_botrytis_f7977e90-eeeb-11ee-a2c2-59f2e5db6f1e_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_botrytis_f7977e90-eeeb-11ee-a2c2-59f2e5db6f1e_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_botrytis_f7977e90-eeeb-11ee-a2c2-59f2e5db6f1e_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_botrytis_f7977e90-eeeb-11ee-a2c2-59f2e5db6f1e_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_botrytis_f7977e90-eeeb-11ee-a2c2-59f2e5db6f1e_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_botrytis_f7977e90-eeeb-11ee-a2c2-59f2e5db6f1e_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_botrytis_f7977e90-eeeb-11ee-a2c2-59f2e5db6f1e_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_botrytis_f7977e90-eeeb-11ee-a2c2-59f2e5db6f1e_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_botrytis_f7977e90-eeeb-11ee-a2c2-59f2e5db6f1e_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_botrytis_f7977e90-eeeb-11ee-a2c2-59f2e5db6f1e_10.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "丛枝瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4290547599,4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Ramaria botrytis",
+   "cname": "Rosso Coral",
+   "url": "https://www.inaturalist.org/taxa/48800-Ramaria-botrytis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/183302941/thumb.jpg"
+  },
+  {
+   "name": "Ramaria botrytis var. aurantiiramosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/242525-Ramaria-botrytis-aurantiiramosa",
+   "src": ""
+  },
+  {
+   "name": "Ramaria botrytis var. botrytis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1051911-Ramaria-botrytis-botrytis",
+   "src": ""
+  },
+  {
+   "name": "Ramaria botrytis var. compactospora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1497352-Ramaria-botrytis-compactospora",
+   "src": ""
+  },
+  {
+   "name": "Ramaria botrytis var. inquinata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1497353-Ramaria-botrytis-inquinata",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Leptogium",
+ "zhtw": "貓耳衣屬",
+ "zhcn": "猫耳衣属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Leptogium azureum",
+   "zhtw": "藍天貓耳衣",
+   "zhcn": "蓝天猫耳衣",
+   "img": "Leptogium_azureum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Leptogium corticola",
+   "zhtw": "樹皮貓耳衣",
+   "zhcn": "树皮猫耳衣",
+   "img": "Leptogium_corticola_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Leptogium cyanescens",
+   "zhtw": "變藍貓耳衣",
+   "zhcn": "变蓝猫耳衣",
+   "img": "Leptogium_cyanescens_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Leptogium menziesii",
+   "zhtw": "貓耳衣",
+   "zhcn": "猫耳衣",
+   "img": "Leptogium_menziesii_10_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Leptogium moluccanum var. myriophyllinum",
+   "zhtw": "薄刃貓耳衣多葉變種",
+   "zhcn": "薄刃猫耳衣多叶变种",
+   "img": "Leptogium_moluccanum var. myriophyllinum_8e834870-b26a-11ee-ad69-d182c2b0bb2c_1.jpg"
+  },
+  {
+   "name": "Leptogium saturninum",
+   "zhtw": "土星貓耳衣",
+   "zhcn": "土星猫耳衣",
+   "img": "Leptogium_saturninum_0b9d8480-dc45-11ed-ad54-41d483b7e98f_1.jpg"
+  }
+ ]
+}

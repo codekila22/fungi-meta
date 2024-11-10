@@ -1,0 +1,90 @@
+{
+ "genus": "Otidea",
+ "name": "onotica",
+ "date": [
+  "09/16/2023,6409024242541286"
+ ],
+ "names_zhtw": [
+  "驢耳側盤菌"
+ ],
+ "names_en": [],
+ "url": "6409024242541286",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Otidea_onotica_e2ee8a00-5473-11ee-870d-477d6ecd7147_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Otidea_onotica_e2ee8a00-5473-11ee-870d-477d6ecd7147_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Otidea_onotica_e2ee8a00-5473-11ee-870d-477d6ecd7147_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Otidea_onotica_e2ee8a00-5473-11ee-870d-477d6ecd7147_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Otidea_onotica_e2ee8a00-5473-11ee-870d-477d6ecd7147_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Otidea_onotica_e2ee8a00-5473-11ee-870d-477d6ecd7147_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Otidea_onotica_e2ee8a00-5473-11ee-870d-477d6ecd7147_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "驴耳侧盘菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4288768839",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Otidea onotica",
+   "cname": "Hare's Ear",
+   "url": "https://www.inaturalist.org/taxa/351658-Otidea-onotica",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9864863/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

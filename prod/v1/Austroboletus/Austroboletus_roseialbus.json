@@ -1,0 +1,88 @@
+{
+ "genus": "Austroboletus",
+ "name": "roseialbus",
+ "date": [
+  "08/25/2024,7911842762259419"
+ ],
+ "names_zhtw": [
+  "粉白南牛肝菌"
+ ],
+ "names_en": [],
+ "url": "7911842762259419",
+ "images": [
+  {
+   "author": "吳湯姆",
+   "image_src": "Austroboletus_roseialbus_d1bbaa40-66b7-11ef-bc6e-1fdee5e89099_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Austroboletus_roseialbus_d1bbaa40-66b7-11ef-bc6e-1fdee5e89099_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Austroboletus_roseialbus_d1bbaa40-66b7-11ef-bc6e-1fdee5e89099_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Austroboletus_roseialbus_d1bbaa40-66b7-11ef-bc6e-1fdee5e89099_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Austroboletus_roseialbus_d1bbaa40-66b7-11ef-bc6e-1fdee5e89099_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Austroboletus_roseialbus_d1bbaa40-66b7-11ef-bc6e-1fdee5e89099_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粉白南牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4293313475,4290547599,4291648604",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Austroboletus fusisporus,,",
+  "Note": "菌蓋帶有淡粉紅色。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "紡錘孢南牛肝菌,,",
+  "la_zhcn": "纺锤孢南牛肝菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Austroboletus roseialbus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1458047-Austroboletus-roseialbus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/317201284/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

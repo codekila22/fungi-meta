@@ -1,0 +1,330 @@
+{
+ "genus": "Tetrapyrgos",
+ "name": "nigripes",
+ "synonym": [
+  {
+   "name": "Marasmiellus nigripes",
+   "zhtw": "黑柄微皮傘",
+   "zhcn": "黑柄微皮伞"
+  }
+ ],
+ "date": [
+  "09/24/2024,8185475238229502",
+  "05/25/2024,7409891259121241",
+  "05/24/2024,7414045062039194",
+  "05/06/2024,7439581009485599",
+  "04/06/2024,7186701978106838",
+  "07/13/2023,6189651987811847",
+  "06/05/2023,6054844824625898",
+  "05/29/2023,6029952590448455",
+  "04/27/2023,5946775272099521",
+  "09/18/2022,5222733837837005",
+  "07/19/2022,5082425718534485",
+  "05/25/2022,5279188688858186",
+  "05/03/2022,4862744387169287",
+  "11/13/2021,4338573226253075",
+  "07/25/2021,3976610389116029",
+  "07/17/2021,3959062214204180"
+ ],
+ "names_zhtw": [
+  "黑柄四角孢傘"
+ ],
+ "names_en": [],
+ "url": "3959062214204180",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Tetrapyrgos_nigripes_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_9_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_10_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_11_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Marasmiellus_nigripes_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_12_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_13_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_14_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_15_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_a39cba70-ead3-11ed-a326-df405def24dc_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_a39cba70-ead3-11ed-a326-df405def24dc_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_a39cba70-ead3-11ed-a326-df405def24dc_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_a39cba70-ead3-11ed-a326-df405def24dc_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_a39cba70-ead3-11ed-a326-df405def24dc_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_a39cba70-ead3-11ed-a326-df405def24dc_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_a39cba70-ead3-11ed-a326-df405def24dc_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_728fb050-f404-11ee-baa2-fff08baa37d9_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_728fb050-f404-11ee-baa2-fff08baa37d9_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_728fb050-f404-11ee-baa2-fff08baa37d9_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_728fb050-f404-11ee-baa2-fff08baa37d9_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_728fb050-f404-11ee-baa2-fff08baa37d9_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_728fb050-f404-11ee-baa2-fff08baa37d9_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_728fb050-f404-11ee-baa2-fff08baa37d9_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_728fb050-f404-11ee-baa2-fff08baa37d9_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tetrapyrgos_nigripes_728fb050-f404-11ee-baa2-fff08baa37d9_9.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tetrapyrgos_nigripes_9180abc0-1b2a-11ef-b4d8-e90ff9cffe71_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tetrapyrgos_nigripes_9180abc0-1b2a-11ef-b4d8-e90ff9cffe71_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tetrapyrgos_nigripes_9180abc0-1b2a-11ef-b4d8-e90ff9cffe71_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tetrapyrgos_nigripes_9180abc0-1b2a-11ef-b4d8-e90ff9cffe71_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tetrapyrgos_nigripes_9180abc0-1b2a-11ef-b4d8-e90ff9cffe71_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tetrapyrgos_nigripes_9180abc0-1b2a-11ef-b4d8-e90ff9cffe71_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tetrapyrgos_nigripes_dfe9c0b0-1b40-11ef-8256-8d3165f94960_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tetrapyrgos_nigripes_dfe9c0b0-1b40-11ef-8256-8d3165f94960_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tetrapyrgos_nigripes_dfe9c0b0-1b40-11ef-8256-8d3165f94960_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tetrapyrgos_nigripes_dfe9c0b0-1b40-11ef-8256-8d3165f94960_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tetrapyrgos_nigripes_dfe9c0b0-1b40-11ef-8256-8d3165f94960_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_10e2a810-1fc6-11ef-aedc-27278143e7d6_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_10e2a810-1fc6-11ef-aedc-27278143e7d6_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_10e2a810-1fc6-11ef-aedc-27278143e7d6_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_10e2a810-1fc6-11ef-aedc-27278143e7d6_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_10e2a810-1fc6-11ef-aedc-27278143e7d6_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tetrapyrgos_nigripes_10e2a810-1fc6-11ef-aedc-27278143e7d6_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Tetrapyrgos_nigripes_61d6c6d0-7e25-11ef-ba32-55415a5c40b5_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Tetrapyrgos_nigripes_61d6c6d0-7e25-11ef-ba32-55415a5c40b5_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Tetrapyrgos_nigripes_61d6c6d0-7e25-11ef-ba32-55415a5c40b5_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黑柄四角孢伞"
+ ],
+ "meta": {
+  "CapColors": "4294309365",
+  "CapDiamRangeValues": "5,20",
+  "CapShape": "convex",
+  "CapTexture": "smooth",
+  "CapMargin": "entire,wavy",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "distant,shortgills",
+  "HymeniumGillAttachment": "adnate",
+  "HymeniumGillMarginate": "smooth",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4278190080",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "equal",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "20,50",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "wood,leaves",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "not-edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Marasmiellus candidus,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "純白微皮傘,,",
+  "la_zhcn": "纯白微皮伞,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Tetrapyrgos nigripes",
+   "cname": "Black-stalked Marasmius",
+   "url": "https://www.inaturalist.org/taxa/179063-Tetrapyrgos-nigripes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4943945/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

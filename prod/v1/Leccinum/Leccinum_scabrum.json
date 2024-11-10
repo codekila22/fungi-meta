@@ -1,0 +1,128 @@
+{
+ "genus": "Leccinum",
+ "name": "scabrum",
+ "date": [
+  "06/27/2021,7463343633776003"
+ ],
+ "names_zhtw": [
+  "褐疣柄牛肝菌"
+ ],
+ "names_en": [],
+ "url": "7463343633776003",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Leccinum_scabrum_3af29d70-2720-11ef-ab2e-3d3d7be2fcbb_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leccinum_scabrum_3af29d70-2720-11ef-ab2e-3d3d7be2fcbb_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leccinum_scabrum_3af29d70-2720-11ef-ab2e-3d3d7be2fcbb_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leccinum_scabrum_3af29d70-2720-11ef-ab2e-3d3d7be2fcbb_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leccinum_scabrum_3af29d70-2720-11ef-ab2e-3d3d7be2fcbb_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leccinum_scabrum_3af29d70-2720-11ef-ab2e-3d3d7be2fcbb_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "褐疣柄牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "granules",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Leccinum scabrum",
+   "cname": "Brown Birch-Bolete",
+   "url": "https://www.inaturalist.org/taxa/63232-Leccinum-scabrum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239679/thumb.jpg"
+  },
+  {
+   "name": "Leccinum versipelle",
+   "cname": "Orange Birch Bolete",
+   "url": "https://www.inaturalist.org/taxa/343661-Leccinum-versipelle",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340535/thumb.jpg"
+  },
+  {
+   "name": "Leccinum melaneum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1521478-Leccinum-melaneum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28212496/thumb.jpg"
+  },
+  {
+   "name": "Leccinum scabrum ssp. niveum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63228-Leccinum-scabrum-niveum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/95846350/thumb.jpg"
+  },
+  {
+   "name": "Leccinum chalybaeum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1339760-Leccinum-chalybaeum",
+   "src": ""
+  },
+  {
+   "name": "Leccinum scabrum ssp. scabrum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63226-Leccinum-scabrum-scabrum",
+   "src": ""
+  },
+  {
+   "name": "Leccinum scabrum ssp. tundrae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63227-Leccinum-scabrum-tundrae",
+   "src": ""
+  },
+  {
+   "name": "Leccinum scabrum var. cinnamomeum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1521477-Leccinum-scabrum-cinnamomeum",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

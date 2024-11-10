@@ -1,0 +1,82 @@
+{
+ "genus": "Stilbella",
+ "name": "byssiseda",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "棉絮束梗孢菌"
+ ],
+ "names_en": [],
+ "url": "4663389663771428",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_byssiseda_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_byssiseda_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_byssiseda_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_byssiseda_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_byssiseda_5_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "棉絮束梗孢菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "fruit,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "發現於血藤果莢上。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Stilbella byssiseda",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/332686-Stilbella-byssiseda",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5704985/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

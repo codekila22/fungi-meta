@@ -1,0 +1,81 @@
+{
+ "genus": "Clitocybe",
+ "name": "fragrans",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "芳香杯傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/685",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Clitocybe_fragrans_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Clitocybe_fragrans_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Clitocybe_fragrans_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Clitocybe_fragrans_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Clitocybe_fragrans_2_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "芳香杯伞"
+ ],
+ "meta": {
+  "CapColors": "4294309340",
+  "CapDiamRangeValues": "15,40",
+  "CapShape": "",
+  "CapTexture": "smooth",
+  "CapMargin": "striated",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "4,8",
+  "StalkLengthRangeValuess": "40,80",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Clitocybe fragrans",
+   "cname": "Fragrant Funnel",
+   "url": "https://www.inaturalist.org/taxa/118370-Clitocybe-fragrans",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4132600/thumb."
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

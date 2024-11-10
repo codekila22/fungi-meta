@@ -1,0 +1,103 @@
+{
+ "genus": "Stilbella",
+ "name": "fimetaria",
+ "date": [
+  "04/08/2024,7194823147294721",
+  "02/17/2023,5709541979156186"
+ ],
+ "names_zhtw": [
+  "糞生束梗孢菌"
+ ],
+ "names_en": [],
+ "url": "5709541979156186",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_fimetaria_2d158710-fa4f-11ee-9899-83a89efcaf9c_2.jpg"
+  },
+  {
+   "author": "古訓銘",
+   "image_src": "Stilbella_fimetaria_5516ddc0-baf1-11ed-a651-2df176cff800_1.jpg"
+  },
+  {
+   "author": "古訓銘",
+   "image_src": "Stilbella_fimetaria_5516ddc0-baf1-11ed-a651-2df176cff800_2.jpg"
+  },
+  {
+   "author": "古訓銘",
+   "image_src": "Stilbella_fimetaria_5516ddc0-baf1-11ed-a651-2df176cff800_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_fimetaria_2d158710-fa4f-11ee-9899-83a89efcaf9c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_fimetaria_2d158710-fa4f-11ee-9899-83a89efcaf9c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_fimetaria_2d158710-fa4f-11ee-9899-83a89efcaf9c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_fimetaria_2d158710-fa4f-11ee-9899-83a89efcaf9c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_fimetaria_2d158710-fa4f-11ee-9899-83a89efcaf9c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stilbella_fimetaria_2d158710-fa4f-11ee-9899-83a89efcaf9c_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粪生束梗孢菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,2",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "stool",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Emericellopsis fimetaria",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1478426-Emericellopsis-fimetaria",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1333341/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

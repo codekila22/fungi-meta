@@ -1,0 +1,118 @@
+{
+ "genus": "Lepiota",
+ "name": "castanea",
+ "date": [
+  "08/22/2024,7893390480771314",
+  "06/11/2024,7488599824583717"
+ ],
+ "names_zhtw": [
+  "栗色環柄菇"
+ ],
+ "names_en": [],
+ "url": "7488599824583717",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Lepiota_castanea_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_castanea_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_castanea_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_castanea_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_castanea_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lepiota_castanea_bb54fca0-27f3-11ef-bc7e-3faa35eb0064_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lepiota_castanea_bb54fca0-27f3-11ef-bc7e-3faa35eb0064_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lepiota_castanea_bb54fca0-27f3-11ef-bc7e-3faa35eb0064_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lepiota_castanea_96e0ef90-620f-11ef-8f02-69e3d7fe61d6_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "栗色环柄菇"
+ ],
+ "meta": {
+  "CapColors": "4289864226,4293498490",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Lepiota castanea",
+   "cname": "Chestnut Dapperling",
+   "url": "https://www.inaturalist.org/taxa/379844-Lepiota-castanea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16179821/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

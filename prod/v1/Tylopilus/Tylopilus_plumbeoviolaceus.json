@@ -1,0 +1,73 @@
+{
+ "genus": "Tylopilus",
+ "name": "plumbeoviolaceus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "灰紫粉孢牛肝菌",
+  "紫粉孢牛肝菌",
+  "紫色粉孢牛肝菌"
+ ],
+ "names_en": [],
+ "url": "2953381508105594",
+ "images": [
+  {
+   "author": "姜淋友",
+   "image_src": "Tylopilus_plumbeoviolaceus_1_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Tylopilus_plumbeoviolaceus_2_CC BY-NC_姜淋友.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "灰紫粉孢牛肝菌",
+  "紫粉孢牛肝菌",
+  "紫色粉孢牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4286611584,4290623339",
+  "CapDiamRangeValues": "40,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "40,70",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Tylopilus plumbeoviolaceus",
+   "cname": "Violet Gray Bolete",
+   "url": "https://www.inaturalist.org/taxa/146681-Tylopilus-plumbeoviolaceus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23515086/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

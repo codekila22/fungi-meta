@@ -1,0 +1,77 @@
+{
+ "genus": "Russula",
+ "name": "pectinatoides",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "擬米黃紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1009",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Russula_pectinatoides_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_pectinatoides_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_pectinatoides_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Russula_pectinatoides_4_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "拟米黄红菇"
+ ],
+ "meta": {
+  "CapColors": "4288244511,4292786311,4294956800",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula pectinatoides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/202373-Russula-pectinatoides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340572/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

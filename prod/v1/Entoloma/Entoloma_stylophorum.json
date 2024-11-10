@@ -1,0 +1,123 @@
+{
+ "genus": "Entoloma",
+ "name": "stylophorum",
+ "date": [
+  "05/24/2024,7413915515385482",
+  "04/26/2023,5918467414930307",
+  "10/15/2020,3204934029617006"
+ ],
+ "names_zhtw": [
+  "尖頂絹白粉褶菌"
+ ],
+ "names_en": [],
+ "url": "3204934029617006",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Entoloma_stylophorum_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Entoloma_stylophorum_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Entoloma_stylophorum_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Entoloma_stylophorum_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_stylophorum_1b5bed60-e41c-11ed-ab9d-1b9ebec6413d_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_stylophorum_1b5bed60-e41c-11ed-ab9d-1b9ebec6413d_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_stylophorum_36ec30c0-1b35-11ef-9592-a7874be367d9_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_stylophorum_36ec30c0-1b35-11ef-9592-a7874be367d9_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_stylophorum_36ec30c0-1b35-11ef-9592-a7874be367d9_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_stylophorum_36ec30c0-1b35-11ef-9592-a7874be367d9_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_stylophorum_36ec30c0-1b35-11ef-9592-a7874be367d9_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_stylophorum_36ec30c0-1b35-11ef-9592-a7874be367d9_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_stylophorum_36ec30c0-1b35-11ef-9592-a7874be367d9_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_stylophorum_36ec30c0-1b35-11ef-9592-a7874be367d9_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_stylophorum_36ec30c0-1b35-11ef-9592-a7874be367d9_9.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "尖顶绢白粉褶菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "18,25",
+  "CapShape": "conical,umbontae",
+  "CapTexture": "fibrous",
+  "CapMargin": "striated",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294951115",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "occacional",
+  "Seasons": "summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma stylophorum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/179179-Entoloma-stylophorum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/259922770/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

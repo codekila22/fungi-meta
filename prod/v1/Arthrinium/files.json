@@ -1,0 +1,26 @@
+{
+ "name": "Arthrinium",
+ "zhtw": "色孢子節菱孢菌屬",
+ "zhcn": "色孢子节菱孢菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Arthrinium arundinis",
+   "zhtw": "蘆葦色孢子節菱孢菌",
+   "zhcn": "芦苇色孢子节菱孢菌",
+   "current": "Apiospora arundinis",
+   "current_zhtw": "蘆葦端隔孢殼菌",
+   "current_zhcn": "芦苇端隔孢壳菌",
+   "img": "Apiospora_arundinis_8f605150-bb86-11ee-983e-7fe808777991_1.jpg"
+  },
+  {
+   "name": "Arthrinium bambusae",
+   "zhtw": "竹色孢子節菱孢菌",
+   "zhcn": "竹色孢子节菱孢菌",
+   "current": "Apiospora neobambusae",
+   "current_zhtw": "新竹端隔孢殼菌",
+   "current_zhcn": "新竹端隔孢壳菌",
+   "img": "Arthrinium_bambusae_b892e020-b9fa-11ee-8492-07c412f204b6_1.jpg"
+  }
+ ]
+}

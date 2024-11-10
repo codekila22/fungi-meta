@@ -1,0 +1,142 @@
+{
+ "genus": "Gyromitra",
+ "name": "esculenta",
+ "date": [
+  "05/08/2024,7324189641024737",
+  "04/09/2022,4823139984463061"
+ ],
+ "names_zhtw": [
+  "鹿花菌"
+ ],
+ "names_en": [],
+ "url": "4823139984463061",
+ "images": [
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_1_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_2_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_3_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_4_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_5_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_6_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_7_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_8_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_9_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_10_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_11_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "Chia Te Lin",
+   "image_src": "Gyromitra_esculenta_12_CC BY-NC_Chia Te Lin.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Gyromitra_esculenta_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Gyromitra_esculenta_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_esculenta_e2f9f2c0-100f-11ef-ac29-21009552b4eb_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_esculenta_e2f9f2c0-100f-11ef-ac29-21009552b4eb_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_esculenta_e2f9f2c0-100f-11ef-ac29-21009552b4eb_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_esculenta_e2f9f2c0-100f-11ef-ac29-21009552b4eb_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_esculenta_e2f9f2c0-100f-11ef-ac29-21009552b4eb_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_esculenta_e2f9f2c0-100f-11ef-ac29-21009552b4eb_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "鹿花菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gasteroid",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "60,100",
+  "Rareness": "",
+  "Seasons": "spring,summer",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Gyromitra esculenta",
+   "cname": "False Morel",
+   "url": "https://www.inaturalist.org/taxa/85120-Gyromitra-esculenta",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865611/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

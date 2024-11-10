@@ -1,0 +1,102 @@
+{
+ "genus": "Amanita",
+ "name": "caesarea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "橙蓋鵝膏",
+  "凱撒鵝膏"
+ ],
+ "names_en": [
+  "Caesar's Mushroom"
+ ],
+ "url": "",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Amanita_caesarea_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_caesarea_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_caesarea_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_caesarea_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_caesarea_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_caesarea_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Amanita_caesarea_7_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "橙盖鹅膏",
+  "凯撒鹅膏"
+ ],
+ "meta": {
+  "CapColors": "4291581184,4294931200,4294083840",
+  "CapDiamRangeValues": "50,150",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "yes,sheathing",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Amanita hemibapha,Amanita rubroflava,",
+  "Note": "",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "花柄橙紅鵝膏,凸頂紅黃鵝膏,",
+  "la_zhcn": "花柄橙红鹅膏,凸顶红黄鹅膏,"
+ },
+ "inaturalist": [
+  {
+   "name": "Amanita caesarea",
+   "cname": "Caesar's Mushroom",
+   "url": "https://www.inaturalist.org/taxa/204588-Amanita-caesarea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7018635/thumb.jpg"
+  },
+  {
+   "name": "Caesareae",
+   "cname": "Amanita Sect. Caesareae",
+   "url": "https://www.inaturalist.org/taxa/906595-Caesareae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4137681/thumb."
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

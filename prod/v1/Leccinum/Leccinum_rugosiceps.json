@@ -1,0 +1,94 @@
+{
+ "genus": "Leccinum",
+ "name": "rugosiceps",
+ "date": [
+  "07/11/2023,6195132003930512",
+  "07/25/2015,811930082250758"
+ ],
+ "names_zhtw": [
+  "皺蓋疣柄牛肝菌"
+ ],
+ "names_en": [],
+ "url": "6195132003930512",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Leccinum_rugosiceps_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Leccinum_rugosiceps_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Leccinum_rugosiceps_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Leccinum_rugosiceps_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinum_rugosiceps_d31add20-22a7-11ee-a0c6-f1d76a63e953_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinum_rugosiceps_d31add20-22a7-11ee-a0c6-f1d76a63e953_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinum_rugosiceps_d31add20-22a7-11ee-a0c6-f1d76a63e953_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinum_rugosiceps_d31add20-22a7-11ee-a0c6-f1d76a63e953_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "皱盖疣柄牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4283244288,4285547028",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Leccinellum rugosiceps",
+   "cname": "Wrinkled Bolete",
+   "url": "https://www.inaturalist.org/taxa/1199034-Leccinellum-rugosiceps",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13078694/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,103 @@
+{
+ "genus": "Lactarius",
+ "name": "fuscomarginatus",
+ "date": [
+  "08/30/2022,8088905087886518",
+  "07/10/2022,5058409337602790"
+ ],
+ "names_zhtw": [
+  "褐緣乳菇"
+ ],
+ "names_en": [],
+ "url": "5058409337602790",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_fuscomarginatus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_fuscomarginatus_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_fuscomarginatus_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_fuscomarginatus_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "褐缘乳菇"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "colored",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Lactifluus fuscomarginatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1105804-Lactifluus-fuscomarginatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27331118/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

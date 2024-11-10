@@ -1,0 +1,346 @@
+{
+ "genus": "Coprinellus",
+ "name": "disseminatus",
+ "date": [
+  "10/02/2024,8216338985143127",
+  "08/04/2024,7785268991583464",
+  "05/25/2024,7413703695406664",
+  "02/29/2024,7043343635776007",
+  "02/04/2024,7007569776020060",
+  "01/20/2024,6921775837932788",
+  "10/20/2023,6537568293020213",
+  "09/23/2023,6436452946465082",
+  "08/13/2023,6294242850686093",
+  "08/06/2023,6268548246588887",
+  "07/29/2023,6255178124592566",
+  "07/06/2023,6171936422916737",
+  "06/11/2023,6075922329184814",
+  "05/27/2023,6024151431028571",
+  "05/02/2023,5937052336405148",
+  "04/11/2023,5892602740850108",
+  "02/10/2023,5684244818352569",
+  "05/07/2022,4876970005746725",
+  "04/16/2022,4818098818300511",
+  "03/22/2022,4750804051696655",
+  "10/31/2021,4279203272190071",
+  "10/28/2021,4268413176602414",
+  "10/10/2021,4211038872339845",
+  "09/23/2021,4159037554206644",
+  "07/25/2021,3976509082459493",
+  "05/09/2021,3757484457695291",
+  "02/17/2021,3524805960963143",
+  "11/25/2020,3313512452092496",
+  "09/05/2020,3098519383591805",
+  "08/26/2020,3050631061713971",
+  "06/11/2020,2838298986280514",
+  "05/12/2020,2759581400818940",
+  "04/29/2020,2742236089220138",
+  "12/21/2019,2458642687579481",
+  "11/25/2019,2401454143298336"
+ ],
+ "names_zhtw": [
+  "簇生小鬼傘",
+  "簇生類鬼傘",
+  "簇生鬼傘"
+ ],
+ "names_en": [
+  "Fairy Inkcap"
+ ],
+ "url": "4279203272190071",
+ "images": [
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_13_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_10_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_11_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_12_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_14_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_15_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_16_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_10_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_11_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_12_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_13_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_14_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_15_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_disseminatus_16_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_12_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinellus_disseminatus_13_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coprinellus_disseminatus_5f1ee920-f1fb-11ed-b6ed-9316fc38c967_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_96375f50-f1fb-11ed-aac8-112598debc7d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_96375f50-f1fb-11ed-aac8-112598debc7d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_96375f50-f1fb-11ed-aac8-112598debc7d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_96375f50-f1fb-11ed-aac8-112598debc7d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_96375f50-f1fb-11ed-aac8-112598debc7d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_96375f50-f1fb-11ed-aac8-112598debc7d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_50f9bae0-3112-11ee-8cbf-fbf80a23b565_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_50f9bae0-3112-11ee-8cbf-fbf80a23b565_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_50f9bae0-3112-11ee-8cbf-fbf80a23b565_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_disseminatus_c094e0e0-c326-11ee-93cc-17fceab00325_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_disseminatus_c094e0e0-c326-11ee-93cc-17fceab00325_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_disseminatus_c094e0e0-c326-11ee-93cc-17fceab00325_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_disseminatus_c094e0e0-c326-11ee-93cc-17fceab00325_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_disseminatus_c094e0e0-c326-11ee-93cc-17fceab00325_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_disseminatus_c094e0e0-c326-11ee-93cc-17fceab00325_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_disseminatus_c094e0e0-c326-11ee-93cc-17fceab00325_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_disseminatus_c094e0e0-c326-11ee-93cc-17fceab00325_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coprinellus_disseminatus_29782520-d378-11ee-a06f-19ad885cc2ce_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coprinellus_disseminatus_29782520-d378-11ee-a06f-19ad885cc2ce_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coprinellus_disseminatus_29782520-d378-11ee-a06f-19ad885cc2ce_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coprinellus_disseminatus_29782520-d378-11ee-a06f-19ad885cc2ce_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coprinellus_disseminatus_29782520-d378-11ee-a06f-19ad885cc2ce_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coprinellus_disseminatus_29782520-d378-11ee-a06f-19ad885cc2ce_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coprinellus_disseminatus_29782520-d378-11ee-a06f-19ad885cc2ce_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coprinellus_disseminatus_29782520-d378-11ee-a06f-19ad885cc2ce_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_100dcf90-e8d6-11ee-a014-11f4179e2829_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_100dcf90-e8d6-11ee-a014-11f4179e2829_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_d618ade0-1b2b-11ef-ad2e-7d2861002b0e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_d618ade0-1b2b-11ef-ad2e-7d2861002b0e_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_d618ade0-1b2b-11ef-ad2e-7d2861002b0e_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_disseminatus_d618ade0-1b2b-11ef-ad2e-7d2861002b0e_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "簇生小鬼伞",
+  "簇生类鬼伞",
+  "簇生鬼伞"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4290822336,4286141768",
+  "CapDiamRangeValues": "5,12",
+  "CapShape": "convex",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4286141768",
+  "HymeniumSporePrints": "4278190080",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "clustered",
+  "GrowthEnv": "wood,ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Coprinellus disseminatus",
+   "cname": "Trooping Crumble Cap",
+   "url": "https://www.inaturalist.org/taxa/56314-Coprinellus-disseminatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/162946776/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

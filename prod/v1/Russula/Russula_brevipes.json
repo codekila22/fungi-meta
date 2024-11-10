@@ -1,0 +1,114 @@
+{
+ "genus": "Russula",
+ "name": "brevipes",
+ "date": [
+  "06/29/2024,7576834815760217",
+  "06/13/2023,6084909791619401",
+  "11/23/2022,5439080602868993"
+ ],
+ "names_zhtw": [
+  "短柄紅菇"
+ ],
+ "names_en": [],
+ "url": "5439080602868993",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_brevipes_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_brevipes_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_brevipes_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_brevipes_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_brevipes_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_brevipes_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_brevipes_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_brevipes_8_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "短柄红菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula brevipes",
+   "cname": "Short-stemmed Russula",
+   "url": "https://www.inaturalist.org/taxa/118179-Russula-brevipes",
+   "src": "https://static.inaturalist.org/photos/23537342/thumb.jpg"
+  },
+  {
+   "name": "Russula brevipes var. acrior",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/118178-Russula-brevipes-acrior",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/233404709/thumb.jpg"
+  },
+  {
+   "name": "Russula brevipes var. brevipes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/118177-Russula-brevipes-brevipes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55199455/thumb.jpg"
+  },
+  {
+   "name": "Russula brevipes var. megaspora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/118180-Russula-brevipes-megaspora",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/165241861/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

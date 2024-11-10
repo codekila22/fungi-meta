@@ -1,0 +1,151 @@
+{
+ "genus": "Cryptoporus",
+ "name": "volvatus",
+ "date": [
+  "07/18/2024,7686427144800983",
+  "07/16/2024,7670414256402272",
+  "04/26/2022,4844574432319616",
+  "03/13/2022,4729761290467598",
+  "08/14/2017,1284650098312085",
+  "05/28/2017,1210680525709043"
+ ],
+ "names_zhtw": [
+  "隱孔菌"
+ ],
+ "names_en": [],
+ "url": "7686427144800983",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_15.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cryptoporus_volvatus_40f0bf60-0f87-109f-939f-edc52ea51b88_16.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Cryptoporus_volvatus_3_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Cryptoporus_volvatus_2_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Cryptoporus_volvatus_1_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Cryptoporus_volvatus_4_CC BY-NC_連振豐.jpg"
+  },
+  {
+   "author": "連振豐",
+   "image_src": "Cryptoporus_volvatus_5_CC BY-NC_連振豐.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "隐孔菌"
+ ],
+ "meta": {
+  "CapColors": "4291979550,4291581184",
+  "CapDiamRangeValues": "20,40",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "absent",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長於松樹枯幹上，菌蓋邊緣覆蓋到菌孔面，質感似軟木塞。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Cryptoporus volvatus",
+   "cname": "Veiled Polypore",
+   "url": "https://www.inaturalist.org/taxa/118051-Cryptoporus-volvatus",
+   "src": "https://static.inaturalist.org/photos/70465768/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

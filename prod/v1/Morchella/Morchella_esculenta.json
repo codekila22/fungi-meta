@@ -1,0 +1,176 @@
+{
+ "genus": "Morchella",
+ "name": "esculenta",
+ "date": [
+  "03/31/2024,7162195913890778",
+  "03/15/2024,7099737776803259",
+  "04/27/2023,5922475447862837",
+  "04/03/2022",
+  "03/22/2015,839804636129969"
+ ],
+ "names_zhtw": [
+  "美味羊肚菌"
+ ],
+ "names_en": [],
+ "url": "5922475447862837",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Morchella_esculenta_8b4395e0-efb7-11ee-a1b1-c3d5fe680a46_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Morchella_esculenta_8b4395e0-efb7-11ee-a1b1-c3d5fe680a46_5.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Morchella_esculenta_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Morchella_esculenta_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Morchella_esculenta_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Morchella_esculenta_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Morchella_esculenta_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Morchella_esculenta_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_10_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_11_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_13_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Morchella_esculenta_15_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Morchella_esculenta_8b4395e0-efb7-11ee-a1b1-c3d5fe680a46_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Morchella_esculenta_8b4395e0-efb7-11ee-a1b1-c3d5fe680a46_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Morchella_esculenta_8b4395e0-efb7-11ee-a1b1-c3d5fe680a46_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "美味羊肚菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "30,80",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gasteroid",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "80,240",
+  "Rareness": "",
+  "Seasons": "spring",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Morchella esculenta",
+   "cname": "Yellow Morel",
+   "url": "https://www.inaturalist.org/taxa/58682-Morchella-esculenta",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/194781537/thumb.jpg"
+  },
+  {
+   "name": "Morchella dunensis",
+   "cname": "Mes-17",
+   "url": "https://www.inaturalist.org/taxa/1063069-Morchella-dunensis",
+   "src": "https://static.inaturalist.org/photos/187038212/thumb.jpeg"
+  },
+  {
+   "name": "Morchella esculenta var. umbrina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/206086-Morchella-esculenta-umbrina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/62797205/thumb.jpeg"
+  },
+  {
+   "name": "Morchella esculenta var. esculenta",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1053651-Morchella-esculenta-esculenta",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/124380836/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,81 @@
+{
+ "genus": "Russula",
+ "name": "grisea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "灰紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4321",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_grisea_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_grisea_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_grisea_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_grisea_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_grisea_1_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "灰红菇"
+ ],
+ "meta": {
+  "CapColors": "4289309097",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula grisea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/118182-Russula-grisea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/78702107/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

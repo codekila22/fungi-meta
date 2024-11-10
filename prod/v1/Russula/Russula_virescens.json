@@ -1,0 +1,88 @@
+{
+ "genus": "Russula",
+ "name": "virescens",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "綠紅菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1012",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_virescens_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_virescens_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_virescens_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_virescens_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_virescens_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Russula_virescens_1_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "绿红菇"
+ ],
+ "meta": {
+  "CapColors": "4283788079",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Russula aeruginea,Russula parvovirescens,",
+  "Note": "",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "銅綠紅菇,塊斑綠紅菇,",
+  "la_zhcn": "铜绿红菇,块斑绿红菇,"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula virescens",
+   "cname": "Green Russula",
+   "url": "https://www.inaturalist.org/taxa/125720-Russula-virescens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9476621/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

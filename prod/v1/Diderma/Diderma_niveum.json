@@ -1,0 +1,72 @@
+{
+ "genus": "Diderma",
+ "name": "niveum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "雪白雙皮黏菌"
+ ],
+ "names_en": [],
+ "url": "3646684382108633",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Diderma_niveum_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Diderma_niveum_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Diderma_niveum_3_CC BY-NC_向高世.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "雪白双皮黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Diderma niveum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382124-Diderma-niveum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/179160275/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,113 @@
+{
+ "genus": "Hygrocybe",
+ "name": "coccinea",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "緋紅濕傘"
+ ],
+ "names_en": [],
+ "url": "3594755193968219",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Hygrocybe_coccinea_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Hygrocybe_coccinea_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Hygrocybe_coccinea_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Hygrocybe_coccinea_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_coccinea_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_coccinea_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_coccinea_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_coccinea_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_coccinea_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_coccinea_1_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "绯红湿伞"
+ ],
+ "meta": {
+  "CapColors": "4292751715,4292613180",
+  "CapDiamRangeValues": "20,50",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Hygrocybe coccinea",
+   "cname": "Scarlet Waxy Cap",
+   "url": "https://www.inaturalist.org/taxa/55245-Hygrocybe-coccinea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5736398/thumb.jpeg"
+  },
+  {
+   "name": "Coccineae",
+   "cname": "Hygrocybe Sect. Coccineae",
+   "url": "https://www.inaturalist.org/taxa/1135487-Coccineae",
+   "src": "https://static.inaturalist.org/photos/101619628/thumb.jpg"
+  },
+  {
+   "name": "Coccineae",
+   "cname": "Hygrocybe Subsect. Coccineae",
+   "url": "https://www.inaturalist.org/taxa/1135488-Coccineae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24392890/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

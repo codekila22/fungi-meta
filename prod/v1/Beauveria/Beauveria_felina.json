@@ -1,0 +1,123 @@
+{
+ "genus": "Beauveria",
+ "name": "felina",
+ "date": [
+  "01/01/2024,6810556892388017",
+  "02/12/2023,5689444901165894",
+  "03/14/2021,3591704080939997"
+ ],
+ "names_zhtw": [
+  "貓棒束孢白僵菌"
+ ],
+ "names_en": [],
+ "url": "5689444901165894",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_10.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Beauveria_felina_7e8f2d70-a97e-11ee-a07c-9bd44fc5d9f7_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Beauveria_felina_7e8f2d70-a97e-11ee-a07c-9bd44fc5d9f7_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Beauveria_felina_7e8f2d70-a97e-11ee-a07c-9bd44fc5d9f7_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Beauveria_felina_7e8f2d70-a97e-11ee-a07c-9bd44fc5d9f7_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Beauveria_felina_7e8f2d70-a97e-11ee-a07c-9bd44fc5d9f7_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "猫棒束孢白僵菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "stool",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Amphichorda felina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1377940-Amphichorda-felina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/189797179/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

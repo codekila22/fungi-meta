@@ -1,0 +1,82 @@
+{
+ "genus": "Sphaerosporium",
+ "name": "lignatile",
+ "date": [
+  "10/28/2024,8408531539257203"
+ ],
+ "names_zhtw": [
+  "木質球孢菌"
+ ],
+ "names_en": [],
+ "url": "8408531539257203",
+ "images": [
+  {
+   "author": "陳中城",
+   "image_src": "Sphaerosporium_lignatile_bc04a4a0-9e83-11ef-9f59-db7df2d9998d_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Sphaerosporium_lignatile_bc04a4a0-9e83-11ef-9f59-db7df2d9998d_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Sphaerosporium_lignatile_bc04a4a0-9e83-11ef-9f59-db7df2d9998d_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Sphaerosporium_lignatile_bc04a4a0-9e83-11ef-9f59-db7df2d9998d_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Sphaerosporium_lignatile_bc04a4a0-9e83-11ef-9f59-db7df2d9998d_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "木质球孢菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Sphaerosporium lignatile",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/552563-Sphaerosporium-lignatile",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159968919/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

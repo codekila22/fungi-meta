@@ -1,0 +1,99 @@
+{
+ "genus": "Hygrocybe",
+ "name": "flavescens",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "淺黃褐濕傘"
+ ],
+ "names_en": [],
+ "url": "3436044106505996",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Hygrocybe_flavescens_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Hygrocybe_flavescens_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_flavescens_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_flavescens_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_flavescens_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_flavescens_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_flavescens_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hygrocybe_flavescens_6_CC BY-NC.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "浅黄褐湿伞"
+ ],
+ "meta": {
+  "CapColors": "4294950656,4294956800",
+  "CapDiamRangeValues": "20,45",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Hygrocybe flavescens",
+   "cname": "Golden Waxy Cap",
+   "url": "https://www.inaturalist.org/taxa/1134097-Hygrocybe-flavescens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108132202/thumb.jpg"
+  },
+  {
+   "name": "Hygrocybe flavescens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/53475-Hygrocybe-flavescens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1451471/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

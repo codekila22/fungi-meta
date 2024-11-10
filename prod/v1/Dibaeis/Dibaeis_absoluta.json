@@ -1,0 +1,114 @@
+{
+ "genus": "Dibaeis",
+ "name": "absoluta",
+ "date": [
+  "11/06/2024,8460039957439694",
+  "05/26/2023,6017020838408297",
+  "02/04/2023,5691059724337745",
+  "01/18/2023,5607649539345431",
+  "04/12/2022,4811924308917962",
+  "01/22/2021,3466057046838035",
+  "10/15/2020,3207630976013978",
+  "09/25/2020,3175981115845631",
+  "07/14/2020,2946914138752331"
+ ],
+ "names_zhtw": [
+  "小羊角衣"
+ ],
+ "names_en": [],
+ "url": "3175981115845631",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Baeomyces_absolutus_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Baeomyces_absolutus_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Baeomyces_absolutus_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Baeomyces_absolutus_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Baeomyces_absolutus_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Baeomyces_absolutus_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Baeomyces_absolutus_0184eb40-d868-11ed-ac3a-a79e915f4312_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Baeomyces_absolutus_0184eb40-d868-11ed-ac3a-a79e915f4312_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Baeomyces_absolutus_0184eb40-d868-11ed-ac3a-a79e915f4312_3.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Baeomyces absolutus",
+   "zhtw": "小羊角衣",
+   "zhcn": "小羊角衣"
+  }
+ ],
+ "names_zhcn": [
+  "小羊角衣"
+ ],
+ "meta": {
+  "CapColors": "4278222848,4290547599,4293313475",
+  "CapDiamRangeValues": "0,1",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground,rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Baeomyces fungoides,,",
+  "Note": "",
+  "la_zhtw": "羊角衣,,",
+  "la_zhcn": "羊角衣,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Dibaeis absoluta",
+   "cname": "Pink Dot Lichen",
+   "url": "https://www.inaturalist.org/taxa/218332-Dibaeis-absoluta",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/64528105/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

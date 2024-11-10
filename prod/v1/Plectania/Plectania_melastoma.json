@@ -1,0 +1,93 @@
+{
+ "genus": "Plectania",
+ "name": "melastoma",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "黑赭暗盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/4084",
+ "images": [
+  {
+   "author": "RECKON",
+   "image_src": "Plectania_melastoma_5_CC BY-NC_RECKON.jpg"
+  },
+  {
+   "author": "RECKON",
+   "image_src": "Plectania_melastoma_2_CC BY-NC_RECKON.jpg"
+  },
+  {
+   "author": "RECKON",
+   "image_src": "Plectania_melastoma_3_CC BY-NC_RECKON.jpg"
+  },
+  {
+   "author": "RECKON",
+   "image_src": "Plectania_melastoma_4_CC BY-NC_RECKON.jpg"
+  },
+  {
+   "author": "RECKON",
+   "image_src": "Plectania_melastoma_1_CC BY-NC_RECKON.jpg"
+  },
+  {
+   "author": "RECKON",
+   "image_src": "Plectania_melastoma_6_CC BY-NC_RECKON.jpg"
+  },
+  {
+   "author": "謝美玲",
+   "image_src": "Plectania_melastoma_7_CC BY-NC_謝美玲.jpg"
+  },
+  {
+   "author": "謝美玲",
+   "image_src": "Plectania_melastoma_8_CC BY-NC_謝美玲.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黑赭暗盘菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4284635991,4288768839",
+  "CapDiamRangeValues": "5,10",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Plectania melastoma",
+   "cname": "Corona Cup",
+   "url": "https://www.inaturalist.org/taxa/344501-Plectania-melastoma",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4161773/thumb."
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

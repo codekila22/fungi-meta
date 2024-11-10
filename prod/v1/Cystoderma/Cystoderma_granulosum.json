@@ -1,0 +1,92 @@
+{
+ "genus": "Cystoderma",
+ "name": "granulosum",
+ "date": [
+  "03/21/2021,3618373671606371"
+ ],
+ "names_zhtw": [
+  "疣蓋囊皮傘"
+ ],
+ "names_en": [],
+ "url": "3618373671606371",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_7_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疣盖囊皮伞"
+ ],
+ "meta": {
+  "CapColors": "4283244288,4294083840",
+  "CapDiamRangeValues": "10,50",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "3,10",
+  "StalkLengthRangeValuess": "20,60",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Leucopholiota lignicola,Leucopholiota decorosa,Echinoderma calcicola",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "木生白鱗傘,華美白麟傘,灰岩棘皮菌",
+  "la_zhcn": "木生白鳞伞,华美白麟伞,灰岩棘皮菌"
+ },
+ "inaturalist": [
+  {
+   "name": "Cystodermella granulosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/338133-Cystodermella-granulosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/54886998/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

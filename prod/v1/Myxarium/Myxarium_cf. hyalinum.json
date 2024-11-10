@@ -1,0 +1,102 @@
+{
+ "genus": "Myxarium",
+ "name": "cf. hyalinum",
+ "date": [
+  "05/16/2023,5997981220312259",
+  "02/07/2021,3500220573421682"
+ ],
+ "names_zhtw": [
+  "疑似透明黏木耳"
+ ],
+ "names_en": [],
+ "url": "3500220573421682",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_cf. hyalinum_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_cf. hyalinum_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_cf. hyalinum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_cf. hyalinum_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_cf. hyalinum_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_cf. hyalinum_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_cf. hyalinum_5a6d8c80-f6d1-11ed-9f25-f754ac24aadc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_cf. hyalinum_5a6d8c80-f6d1-11ed-9f25-f754ac24aadc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_cf. hyalinum_5a6d8c80-f6d1-11ed-9f25-f754ac24aadc_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myxarium_cf. hyalinum_5a6d8c80-f6d1-11ed-9f25-f754ac24aadc_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似透明黏木耳"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4292072403",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Myxarium hyalinum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/994312-Myxarium-hyalinum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/160480514/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

@@ -1,0 +1,20 @@
+{
+ "name": "Microstoma",
+ "zhtw": "小口盤菌屬",
+ "zhcn": "小口盘菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Microstoma floccosum",
+   "zhtw": "卷毛小口盤菌",
+   "zhcn": "卷毛小口盘菌",
+   "img": "Microstoma_floccosum_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Microstoma macrosporum",
+   "zhtw": "大孢小口盤菌",
+   "zhcn": "大孢小口盘菌",
+   "img": "Microstoma_macrosporum_1_CC BY-NC_Jen Chiang.jpg"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "genus": "Polyporus",
+ "name": "melanopus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "黑柄多孔菌"
+ ],
+ "names_en": [],
+ "url": "5102607043183019",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Polyporus_melanopus_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Polyporus_melanopus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Polyporus_melanopus_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Polyporus_melanopus_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Polyporus_melanopus_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_melanopus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_melanopus_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_melanopus_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_melanopus_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_melanopus_5_CC BY-NC_陳麗紅.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黑柄多孔菌"
+ ],
+ "meta": {
+  "CapColors": "4294963157,4292786311",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Polyporus varius,,",
+  "Note": "多生長於埋在土中的枯木上。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "多變多孔菌,,",
+  "la_zhcn": "多变多孔菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Picipes melanopus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/510856-Picipes-melanopus",
+   "src": "https://static.inaturalist.org/photos/207912/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

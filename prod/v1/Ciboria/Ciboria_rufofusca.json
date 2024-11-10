@@ -1,0 +1,73 @@
+{
+ "genus": "Ciboria",
+ "name": "rufofusca",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "赤褐杯盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1581",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Ciboria_rufofusca_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ciboria_rufofusca_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Ciboria_rufofusca_3_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "赤褐杯盘菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4288696877,4290278195",
+  "CapDiamRangeValues": "1,5",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "fruit",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Ciboria rufofusca",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/326843-Ciboria-rufofusca",
+   "src": "https://static.inaturalist.org/photos/485218/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

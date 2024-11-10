@@ -1,0 +1,82 @@
+{
+ "genus": "Cantharellus",
+ "name": "citrinus",
+ "date": [
+  "08/26/2023,7872521876191508"
+ ],
+ "names_zhtw": [
+  "檸檬黃雞油菌"
+ ],
+ "names_en": [],
+ "url": "7872521876191508",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Cantharellus_citrinus_e3f5cf10-5fc8-11ef-805c-0b3a89feee7a_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Cantharellus_citrinus_e3f5cf10-5fc8-11ef-805c-0b3a89feee7a_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Cantharellus_citrinus_e3f5cf10-5fc8-11ef-805c-0b3a89feee7a_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Cantharellus_citrinus_e3f5cf10-5fc8-11ef-805c-0b3a89feee7a_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Cantharellus_citrinus_e3f5cf10-5fc8-11ef-805c-0b3a89feee7a_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "柠檬黄鸡油菌"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Cantharellus citrinus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1374652-Cantharellus-citrinus",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

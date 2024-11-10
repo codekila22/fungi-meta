@@ -1,0 +1,95 @@
+{
+ "genus": "Paraxerula",
+ "name": "americana",
+ "date": [
+  "12/13/2023,6741328552644185",
+  "03/03/2023,5754427848000932"
+ ],
+ "names_zhtw": [
+  "美國擬干蘑"
+ ],
+ "names_en": [],
+ "url": "5754427848000932",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Paraxerula_americana_39d9fc40-cfb9-11ed-9d02-613f9d80815d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Paraxerula_americana_39d9fc40-cfb9-11ed-9d02-613f9d80815d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Paraxerula_americana_39d9fc40-cfb9-11ed-9d02-613f9d80815d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Paraxerula_americana_39d9fc40-cfb9-11ed-9d02-613f9d80815d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Paraxerula_americana_44a671e0-9d99-11ee-9006-9506dff443eb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Paraxerula_americana_44a671e0-9d99-11ee-9006-9506dff443eb_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Paraxerula_americana_44a671e0-9d99-11ee-9006-9506dff443eb_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Paraxerula_americana_44a671e0-9d99-11ee-9006-9506dff443eb_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "美国拟干蘑"
+ ],
+ "meta": {
+  "CapColors": "4283105408,4286578816,4278190285",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Paraxerula americana",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1098358-Paraxerula-americana",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5185259/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

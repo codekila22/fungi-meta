@@ -1,0 +1,120 @@
+{
+ "genus": "Hericium",
+ "name": "erinaceum",
+ "date": [
+  "12/14/2023,6743579205752453",
+  "11/15/2023,6639397569503951",
+  "11/08/2022,5394893433954377",
+  "10/20/2022,5347485845361803",
+  "11/12/2021,4317071868403211",
+  "12/06/2020,3342495482527526",
+  "11/25/2020,3311912012252540",
+  "11/30/2019,2420406414736442",
+  "11/20/2017,1372437326200028",
+  "12/05/2015,2237670829676669"
+ ],
+ "names_zhtw": [
+  "猴頭菇"
+ ],
+ "names_en": [
+  "Lion's mane mushroom",
+  "Monkey head mushroom",
+  "Bearded tooth mushroom",
+  "Satyr's beard",
+  "Bearded hedgehog mushroom",
+  "Pom pom mushroom",
+  "Bearded tooth fungus"
+ ],
+ "url": "3342495482527526",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Hericium_erinaceum_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hericium_erinaceum_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hericium_erinaceum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hericium_erinaceum_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_da96bd90-85de-11ee-807e-9da273b24227_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_da96bd90-85de-11ee-807e-9da273b24227_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_da96bd90-85de-11ee-807e-9da273b24227_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_da96bd90-85de-11ee-807e-9da273b24227_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "猴头菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "no",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "toothed",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "singly",
+  "GrowthEnv": "wood",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "medicinal,choice",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Hericium erinaceus",
+   "cname": "Lion's-mane Mushroom",
+   "url": "https://www.inaturalist.org/taxa/49158-Hericium-erinaceus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13419525/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

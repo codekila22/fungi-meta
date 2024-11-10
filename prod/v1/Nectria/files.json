@@ -1,0 +1,41 @@
+{
+ "name": "Nectria",
+ "zhtw": "叢赤殼菌屬",
+ "zhcn": "丛赤壳菌属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Nectria balansae",
+   "zhtw": "巴氏叢赤殼",
+   "zhcn": "巴氏丛赤壳",
+   "img": "Nectria_balansae_01f44f20-fa50-11ee-935d-fb62c48d3eeb_1.jpg"
+  },
+  {
+   "name": "Nectria cinnabarina",
+   "zhtw": "朱紅叢赤殼菌",
+   "zhcn": "朱红丛赤壳菌",
+   "img": "Nectria_cinnabarina_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Nectria gracilipes",
+   "zhtw": "薄叢赤殼菌",
+   "zhcn": "薄丛赤壳菌",
+   "current": "Gracilistilbella clavulata",
+   "current_zhtw": "棒狀細束梗孢菌",
+   "current_zhcn": "棒状细束梗孢菌",
+   "img": "Gracilistilbella_clavulata_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Nectria pseudopeziza",
+   "zhtw": "擬盤菌叢赤殼菌",
+   "zhcn": "拟盘菌丛赤壳菌",
+   "img": "Nectria_pseudopeziza_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Nectria pseudotrichia",
+   "zhtw": "擬團毛叢赤殼菌",
+   "zhcn": "拟团毛丛赤壳菌",
+   "img": "Nectria_pseudotrichia_1_CC BY-NC_James Ho.jpg"
+  }
+ ]
+}

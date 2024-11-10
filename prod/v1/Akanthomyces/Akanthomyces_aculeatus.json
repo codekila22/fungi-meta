@@ -1,0 +1,88 @@
+{
+ "genus": "Akanthomyces",
+ "name": "aculeatus",
+ "date": [
+  "07/31/2023,6248913601885685",
+  "10/24/2020,3227550074022068"
+ ],
+ "names_zhtw": [
+  "針突亞肯士孢菌",
+  "針突刺束梗孢"
+ ],
+ "names_en": [],
+ "url": "3227550074022068",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Akanthomyces_aculeatus_88f8cc00-d024-11ed-837e-ad5509d1b87f_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Akanthomyces_aculeatus_88f8cc00-d024-11ed-837e-ad5509d1b87f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Akanthomyces_aculeatus_98b0cbe0-2f95-11ee-a19f-336d33fddb28_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Akanthomyces_aculeatus_98b0cbe0-2f95-11ee-a19f-336d33fddb28_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Akanthomyces_aculeatus_98b0cbe0-2f95-11ee-a19f-336d33fddb28_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Akanthomyces_aculeatus_98b0cbe0-2f95-11ee-a19f-336d33fddb28_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "针突亚肯士孢菌",
+  "针突刺束梗孢"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4294966736,4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Akanthomyces aculeatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/179745-Akanthomyces-aculeatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6852562/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

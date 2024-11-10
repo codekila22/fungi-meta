@@ -1,0 +1,56 @@
+{
+ "name": "Agrocybe",
+ "zhtw": "田頭菇屬",
+ "zhcn": "田头菇属",
+ "timestamp": "20241110-215815",
+ "list": [
+  {
+   "name": "Agrocybe arvalis",
+   "zhtw": "野田頭菇",
+   "zhcn": "野田头菇",
+   "img": "Agrocybe_arvalis_1_CC BY-NC_黃思嘉.jpg"
+  },
+  {
+   "name": "Agrocybe cylindracea",
+   "zhtw": "柱狀田頭菇",
+   "zhcn": "柱状田头菇",
+   "current": "Cyclocybe cylindracea",
+   "current_zhtw": "柱狀環傘",
+   "current_zhcn": "柱状环伞",
+   "img": "Cyclocybe_cylindracea_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Agrocybe parasitica",
+   "zhtw": "寄生田頭菇",
+   "zhcn": "寄生田头菇",
+   "current": "Cyclocybe parasitica",
+   "current_zhtw": "寄生環傘",
+   "current_zhcn": "寄生环伞",
+   "img": "Cyclocybe_parasitica_14_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Agrocybe pediades",
+   "zhtw": "平田頭菇",
+   "zhcn": "平田头菇",
+   "img": "Agrocybe_pediades_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Agrocybe praecox",
+   "zhtw": "田頭菇",
+   "zhcn": "田头菇",
+   "img": "Agrocybe_praecox_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Agrocybe putaminum",
+   "zhtw": "堅殼田頭菇(暫名)",
+   "zhcn": "坚壳田头菇(暂名)",
+   "img": "Agrocybe_putaminum_ceb3fa40-eeef-11ee-8b05-bf33e94ca3c2_1.jpg"
+  },
+  {
+   "name": "Agrocybe retigera",
+   "zhtw": "皺蓋田頭菇",
+   "zhcn": "皱盖田头菇",
+   "img": "Agrocybe_retigera_1_CC BY-NC_James Ho.jpg"
+  }
+ ]
+}

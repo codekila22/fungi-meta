@@ -1,0 +1,104 @@
+{
+ "genus": "Microstoma",
+ "name": "macrosporum",
+ "date": [
+  "03/11/2022"
+ ],
+ "names_zhtw": [
+  "大孢小口盤菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/6066",
+ "images": [
+  {
+   "author": "Jen Chiang",
+   "image_src": "Microstoma_macrosporum_1_CC BY-NC_Jen Chiang.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Microstoma_macrosporum_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Microstoma_floccosum_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "Jen Chiang",
+   "image_src": "Microstoma_macrosporum_2_CC BY-NC_Jen Chiang.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Microstoma_macrosporum_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Microstoma_macrosporum_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Microstoma_macrosporum_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Microstoma_macrosporum_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Microstoma_macrosporum_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Microstoma_macrosporum_7_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "大孢小口盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294919424,4294901760",
+  "CapDiamRangeValues": "5,10",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "20,50",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Microstoma floccosum,,",
+  "Note": "相較於相似種卷毛，大孢的盤口內側、毛的下方，有一圈白色唇肉，成熟會呈裂片狀，或是外緣的毛會呈現裂片狀，但幼菌不易區分。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "卷毛小口盤菌,,",
+  "la_zhcn": "卷毛小口盘菌,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Microstoma macrosporum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1371034-Microstoma-macrosporum",
+   "src": "https://static.inaturalist.org/photos/265209866/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
+}

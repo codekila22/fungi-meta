@@ -1,0 +1,131 @@
+{
+ "genus": "Agaricus",
+ "name": "placomyces",
+ "date": [
+  "10/31/2021,4300602120050186"
+ ],
+ "names_zhtw": [
+  "雙環林地蘑菇"
+ ],
+ "names_en": [
+  "Flat-Cap Mushroom"
+ ],
+ "url": "4300602120050186",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_10_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Agaricus_placomyces_11_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "双环林地蘑菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4286141768",
+  "CapDiamRangeValues": "50,120",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "free",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "smooth",
+  "StalkHollow": "hollow",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "",
+  "StalkBase": "bulbous",
+  "StalkDiamRangeValuess": "7,21",
+  "StalkLengthRangeValuess": "40,150",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "yellow",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "有雙層菌環。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Agaricus placomyces",
+   "cname": "Inky Mushroom",
+   "url": "https://www.inaturalist.org/taxa/194251-Agaricus-placomyces",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18562953/thumb.jpeg"
+  },
+  {
+   "name": "Agaricus moelleri",
+   "cname": "Inky Agaricus",
+   "url": "https://www.inaturalist.org/taxa/118382-Agaricus-moelleri",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245302422/thumb.jpeg"
+  },
+  {
+   "name": "Agaricus placomyces var. microsporus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194252-Agaricus-placomyces-microsporus",
+   "src": ""
+  },
+  {
+   "name": "Agaricus placomyces var. flavescens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194253-Agaricus-placomyces-flavescens",
+   "src": ""
+  },
+  {
+   "name": "Agaricus placomyces var. placomyces",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194254-Agaricus-placomyces-placomyces",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241110-215815"
+}
