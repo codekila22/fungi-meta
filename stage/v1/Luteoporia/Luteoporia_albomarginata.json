@@ -2,6 +2,7 @@
  "genus": "Luteoporia",
  "name": "albomarginata",
  "date": [
+  "10/28/2024,8477193355724354",
   "09/12/2024,8045175325592828",
   "08/16/2024,7859238647519831",
   "03/12/2024,7098706840239686",
@@ -145,6 +146,22 @@
   {
    "author": "江志緯",
    "image_src": "Luteoporia_albomarginata_160ce410-e8f1-11ee-89a3-f1a7e344dc33_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Luteoporia_albomarginata_d397bb70-9f19-11ef-9208-83602f1eade0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Luteoporia_albomarginata_d397bb70-9f19-11ef-9208-83602f1eade0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Luteoporia_albomarginata_d397bb70-9f19-11ef-9208-83602f1eade0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Luteoporia_albomarginata_d397bb70-9f19-11ef-9208-83602f1eade0_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -193,5 +210,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157470605/thumb.jpg"
   }
  ],
- "timestamp": "20241110-104108"
+ "timestamp": "20241110-214611"
 }

@@ -34,5 +34,13 @@
  "names_zhcn": [
   "黑曲霉"
  ],
- "timestamp": "20241110-104108"
+ "inaturalist": [
+  {
+   "name": "Aspergillus niger",
+   "cname": "Black Mold",
+   "url": "https://www.inaturalist.org/taxa/350138-Aspergillus-niger",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/49708573/thumb.png"
+  }
+ ],
+ "timestamp": "20241110-214611"
 }

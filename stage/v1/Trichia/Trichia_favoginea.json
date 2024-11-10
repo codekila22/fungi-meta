@@ -2,6 +2,7 @@
  "genus": "Trichia",
  "name": "favoginea",
  "date": [
+  "11/09/2024,8485980674845622",
   "02/01/2024,6930505877059784",
   "07/04/2023,6159053557538357",
   "05/10/2022,4896963350414057",
@@ -130,6 +131,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Trichia_favoginea_2e810110-c2f0-11ee-a262-5937b3432bfc_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_favoginea_d36e3b70-9f0e-11ef-8038-699559dbcb29_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_favoginea_d36e3b70-9f0e-11ef-8038-699559dbcb29_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_favoginea_d36e3b70-9f0e-11ef-8038-699559dbcb29_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_favoginea_d36e3b70-9f0e-11ef-8038-699559dbcb29_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_favoginea_d36e3b70-9f0e-11ef-8038-699559dbcb29_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_favoginea_d36e3b70-9f0e-11ef-8038-699559dbcb29_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -177,5 +202,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/34453886/thumb.jpg"
   }
  ],
- "timestamp": "20241110-104108"
+ "timestamp": "20241110-214611"
 }

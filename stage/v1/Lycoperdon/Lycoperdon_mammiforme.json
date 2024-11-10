@@ -50,5 +50,13 @@
  "names_zhcn": [
   "白鳞马勃"
  ],
- "timestamp": "20241110-104108"
+ "inaturalist": [
+  {
+   "name": "Lycoperdon mammiforme",
+   "cname": "Flaky Puffball",
+   "url": "https://www.inaturalist.org/taxa/856498-Lycoperdon-mammiforme",
+   "src": "https://static.inaturalist.org/photos/32682062/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241110-214611"
 }

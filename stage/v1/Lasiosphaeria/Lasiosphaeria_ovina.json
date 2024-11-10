@@ -2,6 +2,7 @@
  "genus": "Lasiosphaeria",
  "name": "ovina",
  "date": [
+  "10/15/2024,8458712980905725",
   "11/27/2023,6733692743407766",
   "07/04/2022,6454493301327713",
   "04/28/2020,2730088610434886"
@@ -91,6 +92,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Lasiosphaeria_ovina_5b71bb00-5de8-11ee-a579-6d7c188ae1b0_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lasiosphaeria_ovina_941fe8e0-9f1a-11ef-9208-83602f1eade0_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lasiosphaeria_ovina_941fe8e0-9f1a-11ef-9208-83602f1eade0_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lasiosphaeria_ovina_941fe8e0-9f1a-11ef-9208-83602f1eade0_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -139,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/19847016/thumb.jpeg"
   }
  ],
- "timestamp": "20241110-104108"
+ "timestamp": "20241110-214611"
 }

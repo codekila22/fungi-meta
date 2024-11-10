@@ -2,6 +2,7 @@
  "genus": "Spinellus",
  "name": "fusiger",
  "date": [
+  "10/28/2024,8487511621359194",
   "05/01/2023,5934877086622673",
   "02/28/2023,5745882618855455",
   "12/15/2022,5512013538909032",
@@ -59,6 +60,22 @@
   {
    "author": "陳金雪",
    "image_src": "Spinellus_fusiger_10_CC BY-NC_陳金雪.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_26057ad0-9f53-11ef-b81a-452f52a19771_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_26057ad0-9f53-11ef-b81a-452f52a19771_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_26057ad0-9f53-11ef-b81a-452f52a19771_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Spinellus_fusiger_26057ad0-9f53-11ef-b81a-452f52a19771_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -106,5 +123,5 @@
    "src": "https://static.inaturalist.org/photos/12604298/thumb.jpg"
   }
  ],
- "timestamp": "20241110-104108"
+ "timestamp": "20241110-214611"
 }

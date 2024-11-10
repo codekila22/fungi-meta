@@ -46,5 +46,13 @@
  "names_zhcn": [
   "棒柄瓶杯伞"
  ],
- "timestamp": "20241110-104108"
+ "inaturalist": [
+  {
+   "name": "Ampulloclitocybe clavipes",
+   "cname": "Club Foot",
+   "url": "https://www.inaturalist.org/taxa/194737-Ampulloclitocybe-clavipes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4134275/thumb."
+  }
+ ],
+ "timestamp": "20241110-214611"
 }

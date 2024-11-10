@@ -2,6 +2,7 @@
  "genus": "Xylaria",
  "name": "telfairii",
  "date": [
+  "11/09/2024,8486282404815449",
   "09/12/2024,8029836883793339",
   "07/21/2024,7706699879440376",
   "06/10/2024,7484009241709442",
@@ -165,6 +166,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Xylaria_telfairii_d0c71d40-728d-11ef-b553-458fb87eaacd_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Xylaria_telfairii_72605790-9f19-11ef-9208-83602f1eade0_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Xylaria_telfairii_72605790-9f19-11ef-9208-83602f1eade0_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Xylaria_telfairii_72605790-9f19-11ef-9208-83602f1eade0_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Xylaria_telfairii_72605790-9f19-11ef-9208-83602f1eade0_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -213,5 +230,5 @@
    "src": "https://static.inaturalist.org/photos/108271478/thumb.jpeg"
   }
  ],
- "timestamp": "20241110-104108"
+ "timestamp": "20241110-214611"
 }

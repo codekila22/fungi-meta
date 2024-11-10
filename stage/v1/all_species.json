@@ -1,5 +1,5 @@
 {
- "timestamp": "20241110-104108",
+ "timestamp": "20241110-214611",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -200,6 +200,7 @@
    "Chondrostereum,軟韌革菌屬,软韧革菌属",
    "Chrysonectria,金赤殼菌屬,金赤壳菌属",
    "Colpoma,彎殼菌屬,弯壳菌属",
+   "Cosmospora,赤殼屬,赤壳属",
    "Cotylidia,杯革菌屬,杯革菌属",
    "Crustodontia,殼齒菌屬,壳齿菌属",
    "Cymatoderma,波邊革菌屬,波边革菌属",
@@ -271,6 +272,7 @@
    "Clinoconidium,斜孢菌屬,斜孢菌属",
    "Coleosporium,鞘銹菌屬,鞘锈菌属",
    "Colletotrichum,炭疽刺盤孢菌屬,炭疽刺盘孢菌属",
+   "Cordierites,復柄盤菌屬,复柄盘菌属",
    "Cordyceps,蟲草屬,虫草属",
    "Corynespora,棒狀桿孢菌屬,棒状杆孢菌属",
    "Cumminsiella,康明氏菌屬,康明氏菌属",
@@ -1504,6 +1506,7 @@
   "Coprinus comatus,毛頭鬼傘,毛头鬼伞",
   "Coprinus leucostictus,白斑鬼傘,白斑鬼伞",
   "Coprinus patouillardii,帕氏鬼傘,帕氏鬼伞",
+  "Cordierites coralloides,珊瑚狀復柄盤菌,珊瑚状复柄盘菌",
   "Cordyceps cylindrica,柱形蟲草,柱形虫草",
   "Cordyceps farinosa,粉粒擬青黴,粉粒拟青霉",
   "Cordyceps formosana,台灣蟲草,台湾虫草",
@@ -1538,6 +1541,7 @@
   "Cortinarius violaceus,紫絨絲膜菌,紫绒丝膜菌",
   "Coryne trichophora,菌柄棒孢菌,菌柄棒孢菌",
   "Corynespora cassiicola,鐵刀木棒狀桿孢菌,铁刀木棒状杆孢菌",
+  "Cosmospora ustulinae,炭焦菌飾孢殼,炭焦菌饰孢壳",
   "Cotylidia diaphana,明亮杯革菌,明亮杯革菌",
   "Craterellus aureus,金黃喇叭菌,金黄喇叭菌",
   "Craterellus cinereus,灰色喇叭菌,灰色喇叭菌",

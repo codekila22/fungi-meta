@@ -2,6 +2,7 @@
  "genus": "Metatrichia",
  "name": "floriformis",
  "date": [
+  "11/09/2024,8487052581405098",
   "06/27/2024,7637887566321608",
   "12/31/2022,5556729917770727",
   "07/22/2022,5101110466666010",
@@ -157,6 +158,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Metatrichia_floriformis_589a05b0-8c96-107f-8f76-27c3c5f26f6f_8.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Metatrichia_floriformis_435f3ed0-9f45-11ef-b02f-bb2efaa55a62_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Metatrichia_floriformis_435f3ed0-9f45-11ef-b02f-bb2efaa55a62_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Metatrichia_floriformis_435f3ed0-9f45-11ef-b02f-bb2efaa55a62_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Metatrichia_floriformis_435f3ed0-9f45-11ef-b02f-bb2efaa55a62_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -204,5 +221,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/274796/thumb.jpg"
   }
  ],
- "timestamp": "20241110-104108"
+ "timestamp": "20241110-214611"
 }
