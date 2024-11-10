@@ -150,11 +150,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Stromatographium stromaticum,Stilbella aleuriata,",
+  "LookAlikes": "Stromatographium stromaticum,Stilbella aleuriata,Gracilistilbella sp.1",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "基座狀黴,白毛束梗孢菌,",
-  "la_zhcn": "基座状霉,白毛束梗孢菌,"
+  "la_zhtw": "基座狀黴,白毛束梗孢菌,竹生細束梗孢菌(暫名)",
+  "la_zhcn": "基座状霉,白毛束梗孢菌,竹生细束梗孢菌(暂名)"
  },
  "inaturalist": [
   {
@@ -164,5 +164,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156355602/thumb.jpg"
   }
  ],
- "timestamp": "20241110-214611"
+ "timestamp": "20241110-215815"
 }

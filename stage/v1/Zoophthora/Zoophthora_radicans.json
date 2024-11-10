@@ -32,6 +32,41 @@
   "根虫瘟霉",
   "放射虫瘟霉"
  ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "寄生在威氏尖頭脊唇蠟蟬(綠瓢蠟蟬)(Tonga westwoodi (Signoret ,1862))若蟲上的蟲霉。"
+ },
  "inaturalist": [
   {
    "name": "Zoophthora radicans",
@@ -40,5 +75,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241110-214611"
+ "timestamp": "20241110-215815"
 }

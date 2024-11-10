@@ -30,5 +30,48 @@
  "names_zhcn": [
   "珊瑚状复柄盘菌"
  ],
- "timestamp": "20241110-214611"
+ "meta": {
+  "CapColors": "4294967295,4292786311,4294960324",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "有束梗孢外型的真菌是一種寄生在柄座菌屬的 Cordierites coralloides (珊瑚狀復柄盤菌)的無性世代。"
+ },
+ "inaturalist": [
+  {
+   "name": "Cordierites coralloides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/972147-Cordierites-coralloides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8975478/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241110-215815"
 }
