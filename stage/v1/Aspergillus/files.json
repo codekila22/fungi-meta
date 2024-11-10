@@ -2,7 +2,7 @@
  "name": "Aspergillus",
  "zhtw": "麴黴屬",
  "zhcn": "曲霉属",
- "timestamp": "20241108-221703",
+ "timestamp": "20241110-104108",
  "list": [
   {
    "name": "Aspergillus cf. ochraceus",
@@ -15,6 +15,12 @@
    "zhtw": "黃麴黴菌",
    "zhcn": "黄曲霉菌",
    "img": "Aspergillus_flavus_90a1bc50-9b58-11ee-a137-1d1873c03a9e_1.jpg"
+  },
+  {
+   "name": "Aspergillus niger",
+   "zhtw": "黑麴黴",
+   "zhcn": "黑曲霉",
+   "img": "Aspergillus_niger_15a8e280-9e95-11ef-9f59-db7df2d9998d_1.jpg"
   },
   {
    "name": "Aspergillus nomiae",

@@ -3,7 +3,8 @@
  "name": "orientialbus",
  "date": [
   "09/15/2023,6430988497011527",
-  "08/25/2022,5564382717005447"
+  "08/25/2022,5564382717005447",
+  "08/30/2020,8415432058567151"
  ],
  "names_zhtw": [
   "東方白牛肝菌"
@@ -62,6 +63,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Boletus_orientialbus_ab30d410-5a0e-11ee-bc36-4505d6906677_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Boletus_orientialbus_ab871af0-9e82-11ef-9f59-db7df2d9998d_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Boletus_orientialbus_ab871af0-9e82-11ef-9f59-db7df2d9998d_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Boletus_orientialbus_ab871af0-9e82-11ef-9f59-db7df2d9998d_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Boletus_orientialbus_ab871af0-9e82-11ef-9f59-db7df2d9998d_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Boletus_orientialbus_ab871af0-9e82-11ef-9f59-db7df2d9998d_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Boletus_orientialbus_ab871af0-9e82-11ef-9f59-db7df2d9998d_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -100,8 +125,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "子實層菌孔細密, 蕈蓋較老會變黃。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20241108-221703"
+ "timestamp": "20241110-104108"
 }

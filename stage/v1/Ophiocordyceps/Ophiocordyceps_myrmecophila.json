@@ -2,6 +2,7 @@
  "genus": "Ophiocordyceps",
  "name": "myrmecophila",
  "date": [
+  "11/09/2024,8483003031810053",
   "08/21/2024,7887453318031697",
   "05/31/2024,7435799113197122",
   "06/24/2023,6125340397576340",
@@ -213,6 +214,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Ophiocordyceps_myrmecophila_c8fa72b0-5ae0-10fb-a952-033d43e2f9c1_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Ophiocordyceps_myrmecophila_0814d3d0-9efa-11ef-b645-db7ca7a54785_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Ophiocordyceps_myrmecophila_0814d3d0-9efa-11ef-b645-db7ca7a54785_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Ophiocordyceps_myrmecophila_0814d3d0-9efa-11ef-b645-db7ca7a54785_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Ophiocordyceps_myrmecophila_0814d3d0-9efa-11ef-b645-db7ca7a54785_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -266,5 +283,5 @@
    "src": "https://static.inaturalist.org/photos/189310415/thumb.jpeg"
   }
  ],
- "timestamp": "20241108-221703"
+ "timestamp": "20241110-104108"
 }

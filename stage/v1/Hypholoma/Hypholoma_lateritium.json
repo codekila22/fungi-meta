@@ -2,7 +2,7 @@
  "genus": "Hypholoma",
  "name": "lateritium",
  "date": [
-  "01/01/0001"
+  "08/05/2024,8407934632650227"
  ],
  "names_zhtw": [
   "磚紅垂幕菇"
@@ -11,8 +11,40 @@
   "Brick Cap",
   "Cinnamon Cap"
  ],
- "url": "https://fungimap.biodiv.tw/pages/812",
+ "url": "8407934632650227",
  "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypholoma_lateritium_e02b76c0-9e28-11ef-8e41-112e8aa3293f_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypholoma_lateritium_e02b76c0-9e28-11ef-8e41-112e8aa3293f_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypholoma_lateritium_e02b76c0-9e28-11ef-8e41-112e8aa3293f_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypholoma_lateritium_e02b76c0-9e28-11ef-8e41-112e8aa3293f_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypholoma_lateritium_e02b76c0-9e28-11ef-8e41-112e8aa3293f_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypholoma_lateritium_e02b76c0-9e28-11ef-8e41-112e8aa3293f_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypholoma_lateritium_e02b76c0-9e28-11ef-8e41-112e8aa3293f_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypholoma_lateritium_e02b76c0-9e28-11ef-8e41-112e8aa3293f_8.jpg"
+  },
   {
    "author": "",
    "image_src": "Hypholoma_lateritium_1_CC BY-NC.jpg"
@@ -77,5 +109,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13072342/thumb.jpeg"
   }
  ],
- "timestamp": "20241108-221703"
+ "timestamp": "20241110-104108"
 }

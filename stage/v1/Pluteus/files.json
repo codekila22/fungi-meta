@@ -2,7 +2,7 @@
  "name": "Pluteus",
  "zhtw": "光柄菇屬",
  "zhcn": "光柄菇属",
- "timestamp": "20241108-221703",
+ "timestamp": "20241110-104108",
  "list": [
   {
    "name": "Pluteus aff. umbrosus",
@@ -108,6 +108,12 @@
    "zhtw": "波扎里光柄菇",
    "zhcn": "波扎里光柄菇",
    "img": "Pluteus_pouzarianus_318efe40-0434-11ef-815b-a7acc696677f_1.jpg"
+  },
+  {
+   "name": "Pluteus squarrosus",
+   "zhtw": "糙鱗光柄菇",
+   "zhcn": "糙鳞光柄菇",
+   "img": "Pluteus_squarrosus_0f03dc20-9e9d-11ef-9f59-db7df2d9998d_1.jpg"
   },
   {
    "name": "Pluteus subroseus",

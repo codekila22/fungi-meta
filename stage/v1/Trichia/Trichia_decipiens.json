@@ -2,6 +2,7 @@
  "genus": "Trichia",
  "name": "decipiens",
  "date": [
+  "11/09/2024,8482936768483346",
   "01/07/2024,6848093751967664",
   "11/11/2023,6626599054117136",
   "10/22/2023,6561680957275613",
@@ -220,6 +221,30 @@
   {
    "author": "江志緯",
    "image_src": "Trichia_decipiens_fc1e0410-b111-11ee-bd1d-6b77bd4002e2_9.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_decipiens_16fa8ba0-9e9c-11ef-9f59-db7df2d9998d_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_decipiens_16fa8ba0-9e9c-11ef-9f59-db7df2d9998d_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_decipiens_16fa8ba0-9e9c-11ef-9f59-db7df2d9998d_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_decipiens_16fa8ba0-9e9c-11ef-9f59-db7df2d9998d_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_decipiens_16fa8ba0-9e9c-11ef-9f59-db7df2d9998d_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Trichia_decipiens_16fa8ba0-9e9c-11ef-9f59-db7df2d9998d_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -270,5 +295,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245693936/thumb.jpg"
   }
  ],
- "timestamp": "20241108-221703"
+ "timestamp": "20241110-104108"
 }

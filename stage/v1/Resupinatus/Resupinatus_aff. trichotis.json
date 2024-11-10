@@ -2,6 +2,7 @@
  "genus": "Resupinatus",
  "name": "aff. trichotis",
  "date": [
+  "11/02/2024,8441128332664190",
   "12/08/2023,6732355116874862"
  ],
  "names_zhtw": [
@@ -33,6 +34,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Resupinatus_aff. trichotis_87e318e0-9ccd-11ee-8a12-03d0692c5ae2_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Resupinatus_aff. trichotis_39be5540-9e97-11ef-9f59-db7df2d9998d_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Resupinatus_aff. trichotis_39be5540-9e97-11ef-9f59-db7df2d9998d_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Resupinatus_aff. trichotis_39be5540-9e97-11ef-9f59-db7df2d9998d_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Resupinatus_aff. trichotis_39be5540-9e97-11ef-9f59-db7df2d9998d_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Resupinatus_aff. trichotis_39be5540-9e97-11ef-9f59-db7df2d9998d_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Resupinatus_aff. trichotis_39be5540-9e97-11ef-9f59-db7df2d9998d_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -82,5 +107,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/72349864/thumb.jpg"
   }
  ],
- "timestamp": "20241108-221703"
+ "timestamp": "20241110-104108"
 }

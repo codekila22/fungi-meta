@@ -2,7 +2,7 @@
  "name": "Lycoperdon",
  "zhtw": "馬勃屬",
  "zhcn": "马勃属",
- "timestamp": "20241108-221703",
+ "timestamp": "20241110-104108",
  "list": [
   {
    "name": "Lycoperdon bispinosum",
@@ -21,6 +21,12 @@
    "zhtw": "冬季馬勃",
    "zhcn": "冬季马勃",
    "img": "Lycoperdon_hiemale_1_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "name": "Lycoperdon mammiforme",
+   "zhtw": "白鱗馬勃",
+   "zhcn": "白鳞马勃",
+   "img": "Lycoperdon_mammiforme_39b30540-9e84-11ef-9f59-db7df2d9998d_1.jpg"
   },
   {
    "name": "Lycoperdon perlatum",

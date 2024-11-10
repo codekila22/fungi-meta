@@ -1,5 +1,5 @@
 {
- "timestamp": "20241108-221703",
+ "timestamp": "20241110-104108",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -327,12 +327,14 @@
    "Uredo,夏孢銹菌屬,夏孢锈菌属",
    "Uromyces,單胞銹菌屬,单胞锈菌属",
    "Ustilago,黑穗菌屬,黑穗菌属",
-   "Yosiokobayasia,小林蟲草屬,小林虫草属"
+   "Yosiokobayasia,小林蟲草屬,小林虫草属",
+   "Zoophthora,蟲瘟霉屬,虫瘟霉属"
   ],
   "agarics": [
    "Agaricus,蘑菇屬,蘑菇属",
    "Agrocybe,田頭菇屬,田头菇属",
    "Amanita,鵝膏屬,鹅膏属",
+   "Ampulloclitocybe,棒柄杯傘屬,棒柄杯伞属",
    "Armillaria,蜜環菌屬,蜜环菌属",
    "Arrhenia,蘚臍菇屬,藓脐菇属",
    "Asterophora,寄生菇屬,寄生菇属",
@@ -589,6 +591,7 @@
    "Sarcoscypha,肉杯菌屬,肉杯菌属",
    "Scutellinia,盾盤菌屬,盾盘菌属",
    "Sphaerosporella,小球孢盤菌屬,小球孢盘菌属",
+   "Sphaerosporium,球孢菌屬,球孢菌属",
    "Stictis,點盤菌屬,点盘菌属",
    "Torrendiella,小托雷盤菌屬,小托雷盘菌属",
    "Trichaleurina,長毛飾孢盤菌屬,长毛饰孢盘菌属",
@@ -1090,6 +1093,7 @@
   "Amaropostia stiptica,苦味波斯特孔菌,苦味波斯特孔菌",
   "Amauroderma rugosum,假芝,假芝",
   "Ambarignomonia petiolorum,小柄楓香日規殼菌,小柄枫香日规壳菌",
+  "Ampulloclitocybe clavipes,棒柄瓶杯傘,棒柄瓶杯伞",
   "Amyloporia xantha,黃粉孔菌,黄粉孔菌",
   "Amylosporus campbellii,坎氏澱粉孢菌,坎氏淀粉孢菌",
   "Annulohypoxylon annulatum,環孔環紋炭團菌,环孔环纹炭团菌",
@@ -1142,6 +1146,7 @@
   "Aseroe rubra,紅星頭鬼筆,红星头鬼笔",
   "Aspergillus cf. ochraceus,褐麴黴,褐曲霉",
   "Aspergillus flavus,黃麴黴菌,黄曲霉菌",
+  "Aspergillus niger,黑麴黴,黑曲霉",
   "Aspergillus nomiae,紅綬麴菌,红绶曲菌",
   "Aspicilia cinerea,灰平茶漬衣,灰平茶渍衣",
   "Asterocalycella mirabilis,奇異星杯盤菌,奇异星杯盘菌",
@@ -1884,6 +1889,7 @@
   "Gomphidius sp.1,鉚釘菇屬的一種,铆钉菇属的一种",
   "Gomphidius subroseus,亞紅鉚釘菇,亚红铆钉菇",
   "Gracilistilbella clavulata,棒狀細束梗孢菌,棒状细束梗孢菌",
+  "Gracilistilbella sp.1,竹生細束梗孢菌(暫名),竹生细束梗孢菌(暂名)",
   "Graphina cleistoblephara,網毛擬文衣,网毛拟文衣",
   "Graphina plagiocarpa,短盤文字衣,短盘文字衣",
   "Graphina ruiziana,魯伊斯安納擬文衣,鲁伊斯安纳拟文衣",
@@ -2283,10 +2289,12 @@
   "Lycogala epidendrum,粉瘤黏菌,粉瘤黏菌",
   "Lycogala exiguum,小粉瘤黏菌,小粉瘤黏菌",
   "Lycogala flavofuscum,大粉瘤黏菌,大粉瘤黏菌",
+  "Lycogala palianytsia,圓麵包粉瘤黏菌,圆面包粉瘤黏菌",
   "Lycogalopsis solmsii,索氏擬粉瘤菌,索氏拟粉瘤菌",
   "Lycoperdon bispinosum,雙棘馬勃,双棘马勃",
   "Lycoperdon curtisii,柯氏馬勃,柯氏马勃",
   "Lycoperdon hiemale,冬季馬勃,冬季马勃",
+  "Lycoperdon mammiforme,白鱗馬勃,白鳞马勃",
   "Lycoperdon perlatum,網紋馬勃,网纹马勃",
   "Lycoperdon pyriforme,梨形馬勃,梨形马勃",
   "Lycoperdon spadiceum,棗紅馬勃,枣红马勃",
@@ -2813,6 +2821,7 @@
   "Pluteus plautus,裂紋光柄菇,裂纹光柄菇",
   "Pluteus podospileus,球蓋光柄菇,球盖光柄菇",
   "Pluteus pouzarianus,波扎里光柄菇,波扎里光柄菇",
+  "Pluteus squarrosus,糙鱗光柄菇,糙鳞光柄菇",
   "Pluteus subroseus,近粉紅光柄菇,近粉红光柄菇",
   "Pluteus thomsonii,湯姆斯光柄菇,汤姆斯光柄菇",
   "Pluteus umbrosus,皺蓋光柄菇,皱盖光柄菇",
@@ -3091,6 +3100,7 @@
   "Spathularia velutipes,絨柄地匙菌,绒柄地匙菌",
   "Sphaerobolus stellatus,星狀彈球菌,星状弹球菌",
   "Sphaerosporella brunnea,褐小球孢盤菌,褐小球孢盘菌",
+  "Sphaerosporium lignatile,木質球孢菌,木质球孢菌",
   "Spinellus fusiger,紡錘孢傘菌黴,纺锤孢伞菌霉",
   "Sporodiniella umbellata,繖形小孢黴,繖形小孢霉",
   "Sporophagomyces chrysostomus,金口嗜孢菌,金口嗜孢菌",
@@ -3392,6 +3402,7 @@
   "Xylobolus spectabilis,華麗木丸菌,华丽木丸菌",
   "Xylobolus subpileatus,亞蓋木丸菌,亚盖木丸菌",
   "Yosiokobayasia kusanaginensis,草薙小林蟲草,草薙小林虫草",
-  "Zhuliangomyces illinitus,散布祝良傘,散布祝良伞"
+  "Zhuliangomyces illinitus,散布祝良傘,散布祝良伞",
+  "Zoophthora radicans,根蟲瘟霉,根虫瘟霉"
  ]
 }

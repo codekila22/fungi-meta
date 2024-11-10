@@ -2,13 +2,14 @@
  "genus": "Mycena",
  "name": "aff. roseoflava",
  "date": [
-  "01/01/0001"
+  "08/03/2024,7778541882256175",
+  "09/08/2022,5221899414587114"
  ],
  "names_zhtw": [
   "玫瑰黃小菇之相似種"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/4293",
+ "url": "7778541882256175",
  "images": [
   {
    "author": "柯文俊",
@@ -65,6 +66,26 @@
   {
    "author": "柯文俊",
    "image_src": "Mycena_aff. roseoflava_14_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_aff. roseoflava_4e9100e0-9e9b-11ef-9f59-db7df2d9998d_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_aff. roseoflava_4e9100e0-9e9b-11ef-9f59-db7df2d9998d_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_aff. roseoflava_4e9100e0-9e9b-11ef-9f59-db7df2d9998d_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_aff. roseoflava_4e9100e0-9e9b-11ef-9f59-db7df2d9998d_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_aff. roseoflava_4e9100e0-9e9b-11ef-9f59-db7df2d9998d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -113,5 +134,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1675982/thumb.jpg"
   }
  ],
- "timestamp": "20241108-221703"
+ "timestamp": "20241110-104108"
 }

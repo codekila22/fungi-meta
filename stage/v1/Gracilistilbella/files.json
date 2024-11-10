@@ -2,13 +2,19 @@
  "name": "Gracilistilbella",
  "zhtw": "細束梗孢菌屬",
  "zhcn": "细束梗孢菌属",
- "timestamp": "20241108-221703",
+ "timestamp": "20241110-104108",
  "list": [
   {
    "name": "Gracilistilbella clavulata",
    "zhtw": "棒狀細束梗孢菌",
    "zhcn": "棒状细束梗孢菌",
    "img": "Gracilistilbella_clavulata_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Gracilistilbella sp.1",
+   "zhtw": "竹生細束梗孢菌(暫名)",
+   "zhcn": "竹生细束梗孢菌(暂名)",
+   "img": "Gracilistilbella_sp.1_a4803290-9e97-11ef-9f59-db7df2d9998d_1.jpg"
   }
  ]
 }
