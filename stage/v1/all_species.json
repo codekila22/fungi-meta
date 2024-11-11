@@ -1,5 +1,5 @@
 {
- "timestamp": "20241110-215815",
+ "timestamp": "20241111-212639",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -1274,6 +1274,7 @@
   "Calocera cornea,角狀膠角耳,角状胶角耳",
   "Calocera furcata,叉狀膠角耳,叉状胶角耳",
   "Calocera fusca,暗褐膠角耳,暗褐胶角耳",
+  "Calocera multiramosa,多分枝膠角耳,多分枝胶角耳",
   "Calocera pallidospathulata,淡白匙狀膠角耳,淡白匙状胶角耳",
   "Calocera viscosa,黏膠角耳,黏胶角耳",
   "Calonectria colhounii,柯氏麗赤殼菌(有性世代),柯氏丽赤壳菌(有性世代)",
@@ -2818,6 +2819,7 @@
   "Pluteus chrysophlebius,金黃光柄菇,金黄光柄菇",
   "Pluteus inquilinus,寄居光柄菇,寄居光柄菇",
   "Pluteus leoninus,獅黃光柄菇,狮黄光柄菇",
+  "Pluteus longistriatus,長條紋光柄菇,长条纹光柄菇",
   "Pluteus mammillatus,乳突光柄菇,乳突光柄菇",
   "Pluteus pauxillus,點褶光柄菇,点褶光柄菇",
   "Pluteus petasatus,寬蓋光柄菇,宽盖光柄菇",
@@ -3015,6 +3017,7 @@
   "Russula betularum,樺林紅菇,桦林红菇",
   "Russula brevipes,短柄紅菇,短柄红菇",
   "Russula castanopsidis,栗色紅菇,栗色红菇",
+  "Russula cf. parazurea,疑似似天藍紅菇,疑似似天蓝红菇",
   "Russula cf. vesca,疑似菱紅菇,疑似菱红菇",
   "Russula compacta,緻密紅菇,致密红菇",
   "Russula cyanoxantha,藍黃紅菇,蓝黄红菇",
@@ -3251,6 +3254,7 @@
   "Trichaptum elongatum,勾形附毛菌,勾形附毛菌",
   "Trichaptum fuscoviolaceum,紫褐附毛菌,紫褐附毛菌",
   "Trichaptum perenne,多年生附毛菌,多年生附毛菌",
+  "Trichia affinis,光絲團毛黏菌,光丝团毛黏菌",
   "Trichia contorta var. attenuata,曲狀團毛黏菌尖端變種,曲状团毛黏菌尖端变种",
   "Trichia contorta var. iowensis,曲狀團毛黏菌愛荷華變種,曲状团毛黏菌爱荷华变种",
   "Trichia crateriformis,杯形團毛黏菌,杯形团毛黏菌",

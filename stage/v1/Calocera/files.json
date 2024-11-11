@@ -2,7 +2,7 @@
  "name": "Calocera",
  "zhtw": "膠角耳屬",
  "zhcn": "胶角耳属",
- "timestamp": "20241110-215815",
+ "timestamp": "20241111-212639",
  "list": [
   {
    "name": "Calocera cornea",
@@ -21,6 +21,12 @@
    "zhtw": "暗褐膠角耳",
    "zhcn": "暗褐胶角耳",
    "img": "Calocera_fusca_f254ae50-f700-11ed-8b4a-7d9762163113_1.jpg"
+  },
+  {
+   "name": "Calocera multiramosa",
+   "zhtw": "多分枝膠角耳",
+   "zhcn": "多分枝胶角耳",
+   "img": "Calocera_multiramosa_fa3ce740-9fbf-11ef-b91b-eb97e51d5aba_1.jpg"
   },
   {
    "name": "Calocera pallidospathulata",

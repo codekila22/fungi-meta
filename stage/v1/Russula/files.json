@@ -2,7 +2,7 @@
  "name": "Russula",
  "zhtw": "紅菇屬",
  "zhcn": "红菇属",
- "timestamp": "20241110-215815",
+ "timestamp": "20241111-212639",
  "list": [
   {
    "name": "Russula adusta",
@@ -75,6 +75,12 @@
    "zhtw": "栗色紅菇",
    "zhcn": "栗色红菇",
    "img": "Russula_castanopsidis_3615f480-432a-11ee-8261-fd256df643d3_1.jpg"
+  },
+  {
+   "name": "Russula cf. parazurea",
+   "zhtw": "疑似似天藍紅菇",
+   "zhcn": "疑似似天蓝红菇",
+   "img": "Russula_cf. parazurea_7c050cb0-9ffe-11ef-93c4-a34608802ffa_1.jpg"
   },
   {
    "name": "Russula cf. vesca",
