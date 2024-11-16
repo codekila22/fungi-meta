@@ -30,5 +30,13 @@
  "names_zhcn": [
   "毒红菇"
  ],
- "timestamp": "20241116-194825"
+ "inaturalist": [
+  {
+   "name": "Russula emetica",
+   "cname": "The Sickener",
+   "url": "https://www.inaturalist.org/taxa/49449-Russula-emetica",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109349419/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241116-203916"
 }

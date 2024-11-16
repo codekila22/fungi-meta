@@ -2,8 +2,14 @@
  "name": "Hymenagaricus",
  "zhtw": "層蘑菇屬",
  "zhcn": "层蘑菇属",
- "timestamp": "20241116-194825",
+ "timestamp": "20241116-203916",
  "list": [
+  {
+   "name": "Hymenagaricus aff. olivaceus",
+   "zhtw": "橄欖色層蘑菇相似種",
+   "zhcn": "橄榄色层蘑菇相似种",
+   "img": "Hymenagaricus_aff. olivaceus_fc2534e0-a415-11ef-8e11-3767f52e32e4_1.jpg"
+  },
   {
    "name": "Hymenagaricus olivaceus",
    "zhtw": "橄欖色層蘑菇",
