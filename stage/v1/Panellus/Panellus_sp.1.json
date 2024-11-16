@@ -2,6 +2,7 @@
  "genus": "Panellus",
  "name": "sp.1",
  "date": [
+  "11/02/2024,8491780604265629",
   "05/13/2023,5975169582593423",
   "01/03/2021,3421183437992063"
  ],
@@ -74,6 +75,22 @@
   {
    "author": "陳雅芬",
    "image_src": "Panellus_sp.1_3d857ce0-3105-11ee-9366-d389a16e72e3_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_sp.1_e315c710-a039-11ef-ba11-5bbcb125cb41_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_sp.1_e315c710-a039-11ef-ba11-5bbcb125cb41_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_sp.1_e315c710-a039-11ef-ba11-5bbcb125cb41_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_sp.1_e315c710-a039-11ef-ba11-5bbcb125cb41_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -117,5 +134,5 @@
   "la_zhtw": "迷你扇菇,,",
   "la_zhcn": "迷你扇菇,,"
  },
- "timestamp": "20241111-212639"
+ "timestamp": "20241116-194825"
 }

@@ -2,7 +2,8 @@
  "genus": "Mycena",
  "name": "purpureofusca",
  "date": [
-  "05/15/2024,7398059106971123"
+  "05/15/2024,7398059106971123",
+  "05/14/2024,8374244046019286"
  ],
  "names_zhtw": [
   "紫褐小菇"
@@ -61,6 +62,34 @@
   {
    "author": "Sunny Wang",
    "image_src": "Mycena_purpureofusca_230edb40-1b29-11ef-bf8c-3d212a9fa59c_13.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_purpureofusca_4bf406b0-a3b0-11ef-90e1-eb9cf7f0cc18_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_purpureofusca_4bf406b0-a3b0-11ef-90e1-eb9cf7f0cc18_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_purpureofusca_4bf406b0-a3b0-11ef-90e1-eb9cf7f0cc18_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_purpureofusca_4bf406b0-a3b0-11ef-90e1-eb9cf7f0cc18_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_purpureofusca_4bf406b0-a3b0-11ef-90e1-eb9cf7f0cc18_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_purpureofusca_4bf406b0-a3b0-11ef-90e1-eb9cf7f0cc18_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_purpureofusca_4bf406b0-a3b0-11ef-90e1-eb9cf7f0cc18_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -110,5 +139,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/331117932/thumb.jpg"
   }
  ],
- "timestamp": "20241111-212639"
+ "timestamp": "20241116-194825"
 }

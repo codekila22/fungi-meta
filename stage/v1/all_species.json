@@ -1,5 +1,5 @@
 {
- "timestamp": "20241111-212639",
+ "timestamp": "20241116-194825",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -883,6 +883,7 @@
    "Emmanuelia,伊曼紐爾衣屬,伊曼纽尔衣属",
    "Everniastrum,梅衣屬,梅衣属",
    "Fellhanera,肉盤衣屬,肉盘衣属",
+   "Fuscopannaria,褐鱗衣屬,褐鳞衣属",
    "Glyphis,刻痕衣屬,刻痕衣属",
    "Graphina,擬文衣屬,拟文衣属",
    "Graphis,文字衣屬,文字衣属",
@@ -1784,6 +1785,7 @@
   "Exobasidium gracile,細麗外擔菌,细丽外担菌",
   "Exobasidium hemisphaericum,半球狀外擔子菌,半球状外担子菌",
   "Exobasidium japonicum,日本外擔菌,日本外担菌",
+  "Exobasidium pieridis,南燭餅病,南烛饼病",
   "Exobasidium sawadae,樟樹外擔菌,樟树外担菌",
   "Favolaschia calocera,橘黃膠孔菌,橘黄胶孔菌",
   "Favolaschia fujisanensis,富士山膠孔菌,富士山胶孔菌",
@@ -1820,6 +1822,7 @@
   "Fuligo gyrosa,圈煤絨黏菌,圈煤绒黏菌",
   "Fuligo muscorum,苔生煤絨黏菌,苔生煤绒黏菌",
   "Fuligo septica,煤絨黏菌,煤绒黏菌",
+  "Fuscopannaria dispersa,分散褐鱗衣(暫名),分散褐鳞衣(暂名)",
   "Fuscoporia formosana,福爾摩沙褐孔菌,福尔摩沙褐孔菌",
   "Fuscoporia torulosa,寬棱褐孔菌,宽棱褐孔菌",
   "Fusicolla merismoides,節狀鐮孢,节状镰孢",
@@ -3024,6 +3027,7 @@
   "Russula delica,美味紅菇,美味红菇",
   "Russula densifolia,密褶紅菇,密褶红菇",
   "Russula elegans,優雅紅菇,优雅红菇",
+  "Russula emetica,毒紅菇,毒红菇",
   "Russula flavida,淡黃紅菇,淡黄红菇",
   "Russula foetens,臭紅菇,臭红菇",
   "Russula fragilis,脆紅菇,脆红菇",
