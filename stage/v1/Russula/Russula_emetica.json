@@ -30,6 +30,42 @@
  "names_zhcn": [
   "毒红菇"
  ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "傘緣有小顆粒。",
+  "GrowthEco": "mycorrhizal"
+ },
  "inaturalist": [
   {
    "name": "Russula emetica",
@@ -38,5 +74,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109349419/thumb.jpg"
   }
  ],
- "timestamp": "20241116-203916"
+ "timestamp": "20241117-182938"
 }
