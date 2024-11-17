@@ -18,11 +18,15 @@
  "images": [
   {
    "author": "陳麗紅",
-   "image_src": "Kretzschmaria_neocaledonica_11_CC BY-NC_陳麗紅.jpg"
+   "image_src": "Kretzschmaria_neocaledonica_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Kretzschmaria_neocaledonica_82fb2810-a40e-11ef-bf73-678b9b9016ca_1.jpg"
   },
   {
    "author": "陳麗紅",
-   "image_src": "Kretzschmaria_neocaledonica_7_CC BY-NC_陳麗紅.jpg"
+   "image_src": "Kretzschmaria_neocaledonica_11_CC BY-NC_陳麗紅.jpg"
   },
   {
    "author": "陳麗紅",
@@ -134,10 +138,6 @@
   },
   {
    "author": "江志緯",
-   "image_src": "Kretzschmaria_neocaledonica_82fb2810-a40e-11ef-bf73-678b9b9016ca_1.jpg"
-  },
-  {
-   "author": "江志緯",
    "image_src": "Kretzschmaria_neocaledonica_82fb2810-a40e-11ef-bf73-678b9b9016ca_2.jpg"
   },
   {
@@ -215,5 +215,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241117-182938"
+ "timestamp": "20241117-183757"
 }
