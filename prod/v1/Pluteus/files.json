@@ -2,7 +2,7 @@
  "name": "Pluteus",
  "zhtw": "光柄菇屬",
  "zhcn": "光柄菇属",
- "timestamp": "20241110-215815",
+ "timestamp": "20241117-183757",
  "list": [
   {
    "name": "Pluteus aff. umbrosus",
@@ -66,6 +66,12 @@
    "zhtw": "獅黃光柄菇",
    "zhcn": "狮黄光柄菇",
    "img": "Pluteus_leoninus_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Pluteus longistriatus",
+   "zhtw": "長條紋光柄菇",
+   "zhcn": "长条纹光柄菇",
+   "img": "Pluteus_longistriatus_b42a8540-a02e-11ef-ada2-7528d83fa5c1_1.jpg"
   },
   {
    "name": "Pluteus mammillatus",

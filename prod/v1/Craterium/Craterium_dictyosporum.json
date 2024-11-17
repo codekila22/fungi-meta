@@ -1,0 +1,77 @@
+{
+ "genus": "Craterium",
+ "name": "dictyosporum",
+ "date": [
+  "06/10/2022,8199856403458052"
+ ],
+ "names_zhtw": [
+  "網孢高杯黏菌"
+ ],
+ "names_en": [],
+ "url": "8199856403458052",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Craterium_dictyosporum_a3a2ee80-a414-11ef-8e11-3767f52e32e4_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Craterium_dictyosporum_a3a2ee80-a414-11ef-8e11-3767f52e32e4_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Craterium_dictyosporum_a3a2ee80-a414-11ef-8e11-3767f52e32e4_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Craterium_dictyosporum_a3a2ee80-a414-11ef-8e11-3767f52e32e4_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "网孢高杯黏菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Diachea dictyospora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1504200-Diachea-dictyospora",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/349957392/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241117-183757"
+}

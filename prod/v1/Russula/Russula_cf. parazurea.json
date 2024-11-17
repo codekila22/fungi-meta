@@ -1,0 +1,92 @@
+{
+ "genus": "Russula",
+ "name": "cf. parazurea",
+ "date": [
+  "11/09/2024,8488331547943868"
+ ],
+ "names_zhtw": [
+  "疑似似天藍紅菇"
+ ],
+ "names_en": [],
+ "url": "8488331547943868",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_cf. parazurea_7c050cb0-9ffe-11ef-93c4-a34608802ffa_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_cf. parazurea_7c050cb0-9ffe-11ef-93c4-a34608802ffa_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_cf. parazurea_7c050cb0-9ffe-11ef-93c4-a34608802ffa_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_cf. parazurea_7c050cb0-9ffe-11ef-93c4-a34608802ffa_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_cf. parazurea_7c050cb0-9ffe-11ef-93c4-a34608802ffa_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_cf. parazurea_7c050cb0-9ffe-11ef-93c4-a34608802ffa_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_cf. parazurea_7c050cb0-9ffe-11ef-93c4-a34608802ffa_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似似天蓝红菇"
+ ],
+ "meta": {
+  "CapColors": "4278190219,4283105408,4286578688",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Russula cyanoxantha,,",
+  "Note": "嚐起來有堅果口感，褶略延生，很像藍黃紅菇 (Russula cyanoxantha)，但是褶有分叉，褶邊有點鏽紅色，傘正面中央淡黃，幼菌表面覆蓋白色粉末。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "藍黃紅菇,,",
+  "la_zhcn": "蓝黄红菇,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula parazurea",
+   "cname": "Powdery Brittlegill",
+   "url": "https://www.inaturalist.org/taxa/122332-Russula-parazurea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/359473881/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241117-183757"
+}

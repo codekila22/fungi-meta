@@ -1,0 +1,78 @@
+{
+ "genus": "Russula",
+ "name": "emetica",
+ "date": [
+  "11/03/2024,8493303220780034"
+ ],
+ "names_zhtw": [
+  "毒紅菇"
+ ],
+ "names_en": [
+  "the sickener",
+  "emetic russula",
+  "vomiting russula"
+ ],
+ "url": "8493303220780034",
+ "images": [
+  {
+   "author": "許芝綺",
+   "image_src": "Russula_emetica_8ccbf920-a3e9-11ef-850c-bbd3c2b29359_1.jpg"
+  },
+  {
+   "author": "許芝綺",
+   "image_src": "Russula_emetica_8ccbf920-a3e9-11ef-850c-bbd3c2b29359_2.jpg"
+  },
+  {
+   "author": "許芝綺",
+   "image_src": "Russula_emetica_8ccbf920-a3e9-11ef-850c-bbd3c2b29359_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "毒红菇"
+ ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "傘緣有小顆粒。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Russula emetica",
+   "cname": "The Sickener",
+   "url": "https://www.inaturalist.org/taxa/49449-Russula-emetica",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109349419/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241117-183757"
+}

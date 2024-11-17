@@ -2,7 +2,7 @@
  "name": "Craterium",
  "zhtw": "高杯黏菌屬",
  "zhcn": "高杯黏菌属",
- "timestamp": "20241110-215815",
+ "timestamp": "20241117-183757",
  "list": [
   {
    "name": "Craterium aureum",
@@ -15,6 +15,12 @@
    "zhtw": "淨潔高杯黏菌",
    "zhcn": "净洁高杯黏菌",
    "img": "Craterium_concinnum_3c742e80-0aa6-11ee-8240-bb0ff8d90188_1.jpg"
+  },
+  {
+   "name": "Craterium dictyosporum",
+   "zhtw": "網孢高杯黏菌",
+   "zhcn": "网孢高杯黏菌",
+   "img": "Craterium_dictyosporum_a3a2ee80-a414-11ef-8e11-3767f52e32e4_1.jpg"
   },
   {
    "name": "Craterium leucocephalum",

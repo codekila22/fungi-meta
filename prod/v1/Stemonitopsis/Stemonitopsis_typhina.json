@@ -2,6 +2,7 @@
  "genus": "Stemonitopsis",
  "name": "typhina",
  "date": [
+  "11/09/2024,8487938607983162",
   "08/18/2024,7890968577680171",
   "10/22/2023,6592163094227399",
   "04/14/2023,5882150528561996",
@@ -140,6 +141,22 @@
   {
    "author": "江志緯",
    "image_src": "Stemonitopsis_typhina_308b7ce0-613a-11ef-be83-0d9da1f4363b_8.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_typhina_9980b1f0-a02f-11ef-ada2-7528d83fa5c1_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_typhina_9980b1f0-a02f-11ef-ada2-7528d83fa5c1_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_typhina_9980b1f0-a02f-11ef-ada2-7528d83fa5c1_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_typhina_9980b1f0-a02f-11ef-ada2-7528d83fa5c1_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -188,5 +205,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/64908009/thumb.jpeg"
   }
  ],
- "timestamp": "20241110-215815"
+ "timestamp": "20241117-183757"
 }

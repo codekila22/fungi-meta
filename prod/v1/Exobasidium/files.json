@@ -2,7 +2,7 @@
  "name": "Exobasidium",
  "zhtw": "外擔菌屬",
  "zhcn": "外担菌属",
- "timestamp": "20241110-215815",
+ "timestamp": "20241117-183757",
  "list": [
   {
    "name": "Exobasidium cf. hemisphaericum",
@@ -27,6 +27,12 @@
    "zhtw": "日本外擔菌",
    "zhcn": "日本外担菌",
    "img": "Exobasidium_japonicum_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Exobasidium pieridis",
+   "zhtw": "南燭餅病",
+   "zhcn": "南烛饼病",
+   "img": "Exobasidium_pieridis_640f4310-a3b3-11ef-90e1-eb9cf7f0cc18_1.jpg"
   },
   {
    "name": "Exobasidium sawadae",
