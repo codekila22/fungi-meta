@@ -42,5 +42,61 @@
  "names_zhcn": [
   "苍白枝瑚菌"
  ],
- "timestamp": "20241122-171109"
+ "meta": {
+  "CapColors": "4294967295,4292072403",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Ramaria pallida",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/847830-Ramaria-pallida",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/114844438/thumb.jpg"
+  },
+  {
+   "name": "Ramaria rubricarnata var. pallida",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/204728-Ramaria-rubricarnata-pallida",
+   "src": ""
+  },
+  {
+   "name": "Ramaria pallida lactea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1497370-Ramaria-pallida-lactea",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241122-174428"
 }

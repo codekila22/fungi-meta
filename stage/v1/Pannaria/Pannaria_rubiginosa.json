@@ -34,5 +34,108 @@
  "names_zhcn": [
   "锈红鳞叶衣"
  ],
- "timestamp": "20241122-171109"
+ "meta": {
+  "CapColors": "4278222848,4286141768,4286578688",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長在活樹皮上。"
+ },
+ "inaturalist": [
+  {
+   "name": "Pannaria rubiginosa",
+   "cname": "Big Brown-eyed Shingle",
+   "url": "https://www.inaturalist.org/taxa/194723-Pannaria-rubiginosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/425684082/thumb.jpg"
+  },
+  {
+   "name": "Pannaria conoplea",
+   "cname": "Mealy-rimmed Shingle Lichen",
+   "url": "https://www.inaturalist.org/taxa/226890-Pannaria-conoplea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999617/thumb.jpg"
+  },
+  {
+   "name": "Lepraria membranacea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/345365-Lepraria-membranacea",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/42620308/thumb.jpeg"
+  },
+  {
+   "name": "Pannaria araneosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/509534-Pannaria-araneosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/87335788/thumb.jpeg"
+  },
+  {
+   "name": "Pannaria rubiginosa isidiophora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194726-Pannaria-rubiginosa-isidiophora",
+   "src": ""
+  },
+  {
+   "name": "Pannaria rubiginosa rubiginosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194727-Pannaria-rubiginosa-rubiginosa",
+   "src": ""
+  },
+  {
+   "name": "Pannaria rubiginosa isidiosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/194729-Pannaria-rubiginosa-isidiosa",
+   "src": ""
+  },
+  {
+   "name": "Pannaria rubiginosa var. phloeodes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/600556-Pannaria-rubiginosa-phloeodes",
+   "src": ""
+  },
+  {
+   "name": "Pannaria rubiginosa ssp. prolifera",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/412957-Pannaria-rubiginosa-prolifera",
+   "src": ""
+  },
+  {
+   "name": "Pannaria caesiocinerea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1038351-Pannaria-caesiocinerea",
+   "src": ""
+  },
+  {
+   "name": "Pannaria cinerascens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1038352-Pannaria-cinerascens",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241122-174428"
 }

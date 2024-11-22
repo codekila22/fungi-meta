@@ -7,7 +7,9 @@
  "names_zhtw": [
   "木生腐生牛肝菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Wood Bolete"
+ ],
  "url": "8549496578494031",
  "images": [
   {
@@ -38,5 +40,49 @@
  "names_zhcn": [
   "木生腐生牛肝菌"
  ],
- "timestamp": "20241122-171109"
+ "meta": {
+  "CapColors": "4286141768,4283244288",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "blue",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "極少數生長在腐木上的一種牛肝菌。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Buchwaldoboletus lignicola",
+   "cname": "Wood Bolete",
+   "url": "https://www.inaturalist.org/taxa/363580-Buchwaldoboletus-lignicola",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/325756691/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241122-174428"
 }
