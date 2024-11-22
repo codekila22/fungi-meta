@@ -158,8 +158,8 @@
   "LookAlikes": "Panus neostrigosus,Panus fulvus,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "新粗毛革耳,褐絨革耳,",
-  "la_zhcn": "新粗毛革耳,褐绒革耳,"
+  "la_zhtw": "新粗毛革耳,,",
+  "la_zhcn": "新粗毛革耳,,"
  },
  "inaturalist": [
   {
@@ -169,5 +169,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89517534/thumb.jpg"
   }
  ],
- "timestamp": "20241117-183757"
+ "timestamp": "20241122-155619"
 }
