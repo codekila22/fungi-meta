@@ -14,6 +14,7 @@
   "12/05/2021,4388595781250819",
   "11/09/2021,4210971639013235",
   "05/09/2021,3756996614410742",
+  "04/14/2021,8553951211381901",
   "02/27/2021,3557284904381915",
   "01/24/2021,3466949186748821",
   "09/13/2020,3104890449621365",
@@ -133,6 +134,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Panus_fulvus_1cc36040-d398-11ee-9c61-6f80c2d8ccbf_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Panus_velutinus_7cd674e0-a8ae-11ef-bbc3-213681e63ad2_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Panus_velutinus_7cd674e0-a8ae-11ef-bbc3-213681e63ad2_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Panus_velutinus_7cd674e0-a8ae-11ef-bbc3-213681e63ad2_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Panus_velutinus_7cd674e0-a8ae-11ef-bbc3-213681e63ad2_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Panus_velutinus_7cd674e0-a8ae-11ef-bbc3-213681e63ad2_5.jpg"
   }
  ],
  "synonym": [
@@ -145,5 +166,43 @@
  "names_zhcn": [
   "绒毛革耳"
  ],
- "timestamp": "20241122-155619"
+ "meta": {
+  "CapColors": "4290278195,4286141768",
+  "CapDiamRangeValues": "40,90",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "striated",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "35,50",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Panus neostrigosus,Panus strigellus,",
+  "Note": "此種傘面比較深杯且有條紋。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "新粗毛革耳,鱗毛革耳,",
+  "la_zhcn": "新粗毛革耳,鳞毛革耳,"
+ },
+ "timestamp": "20241122-171109"
 }

@@ -2,6 +2,7 @@
  "genus": "Lecanora",
  "name": "chlarotera",
  "date": [
+  "09/30/2024,8515145011929188",
   "01/11/2023,https://www.facebook.com/groups/1731119217207714/permalink/3387017994951153",
   "02/26/2022,https://www.facebook.com/groups/1731119217207714/permalink/3135374420115513"
  ],
@@ -30,6 +31,18 @@
   {
    "author": "Sunny Wang",
    "image_src": "Lecanora_chlarotera_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lecanora_chlarotera_5caa7150-a8ac-11ef-b9b0-799307c8ca4f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lecanora_chlarotera_5caa7150-a8ac-11ef-b9b0-799307c8ca4f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lecanora_chlarotera_5caa7150-a8ac-11ef-b9b0-799307c8ca4f_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -78,5 +91,5 @@
    "src": "https://static.inaturalist.org/photos/178209927/thumb.jpg"
   }
  ],
- "timestamp": "20241122-155619"
+ "timestamp": "20241122-171109"
 }
