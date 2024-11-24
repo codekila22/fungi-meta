@@ -2,7 +2,7 @@
  "name": "Ramaria",
  "zhtw": "枝瑚菌屬",
  "zhcn": "枝瑚菌属",
- "timestamp": "20241117-183757",
+ "timestamp": "20241124-200428",
  "list": [
   {
    "name": "Ramaria abietina",
@@ -51,6 +51,12 @@
    "zhtw": "新粉紅枝瑚菌",
    "zhcn": "新粉红枝瑚菌",
    "img": "Ramaria_neoformosa_1_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "name": "Ramaria pallida",
+   "zhtw": "蒼白枝瑚菌",
+   "zhcn": "苍白枝瑚菌",
+   "img": "Ramaria_pallida_18ed1060-a8ae-11ef-8441-0de7e35c8beb_1.jpg"
   },
   {
    "name": "Ramaria pinicola",

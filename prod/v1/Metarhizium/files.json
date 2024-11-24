@@ -2,8 +2,14 @@
  "name": "Metarhizium",
  "zhtw": "黑僵菌屬",
  "zhcn": "黑僵菌属",
- "timestamp": "20241117-183757",
+ "timestamp": "20241124-200428",
  "list": [
+  {
+   "name": "Metarhizium acridum",
+   "zhtw": "蝗綠殭菌",
+   "zhcn": "蝗绿僵菌",
+   "img": "Metarhizium_acridum_d444da20-aa37-11ef-adfd-19a48e66af15_1.jpg"
+  },
   {
    "name": "Metarhizium anisopliae",
    "zhtw": "黑僵菌",

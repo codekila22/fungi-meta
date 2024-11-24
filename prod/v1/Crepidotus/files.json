@@ -2,7 +2,7 @@
  "name": "Crepidotus",
  "zhtw": "靴耳屬",
  "zhcn": "靴耳属",
- "timestamp": "20241117-183757",
+ "timestamp": "20241124-200428",
  "list": [
   {
    "name": "Crepidotus applanatus",
@@ -69,6 +69,12 @@
    "zhtw": "玫瑰靴耳",
    "zhcn": "玫瑰靴耳",
    "img": "Crepidotus_roseoornatus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Crepidotus sp.1",
+   "zhtw": "裂褶玫瑰靴耳",
+   "zhcn": "裂褶玫瑰靴耳",
+   "img": "Crepidotus_sp.1_cf175470-a982-11ef-b4b2-696e4eddd38c_1.jpg"
   },
   {
    "name": "Crepidotus stipitatus",

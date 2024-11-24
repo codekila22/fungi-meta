@@ -1,0 +1,81 @@
+{
+ "genus": "Stemonitis",
+ "name": "nigrescens",
+ "date": [
+  "10/20/2024,8546893115421044"
+ ],
+ "names_zhtw": [
+  "黑柄髮網菌"
+ ],
+ "names_en": [],
+ "url": "8546893115421044",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitis_nigrescens_8abdff50-a88c-11ef-bdd8-cf4ce03db38d_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitis_nigrescens_8abdff50-a88c-11ef-bdd8-cf4ce03db38d_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitis_nigrescens_8abdff50-a88c-11ef-bdd8-cf4ce03db38d_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitis_nigrescens_8abdff50-a88c-11ef-bdd8-cf4ce03db38d_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitis_nigrescens_8abdff50-a88c-11ef-bdd8-cf4ce03db38d_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黑柄发网菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4284635991,4294606962",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "柄較同屬相似種短。"
+ },
+ "inaturalist": [
+  {
+   "name": "Stemonitis fusca",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/126279-Stemonitis-fusca",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21375138/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241124-200428"
+}

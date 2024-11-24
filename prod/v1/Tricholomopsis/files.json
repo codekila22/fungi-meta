@@ -2,7 +2,7 @@
  "name": "Tricholomopsis",
  "zhtw": "擬口蘑屬",
  "zhcn": "拟口蘑属",
- "timestamp": "20241117-183757",
+ "timestamp": "20241124-200428",
  "list": [
   {
    "name": "Tricholomopsis aff. sasae",
@@ -39,6 +39,12 @@
    "zhtw": "洪堡擬口蘑",
    "zhcn": "洪堡拟口蘑",
    "img": "Tricholomopsis_humboldtii_6e6bfea0-1ff3-11ef-b76b-93de14daee22_1.jpg"
+  },
+  {
+   "name": "Tricholomopsis rubroaurantiaca",
+   "zhtw": "橙紅擬口蘑",
+   "zhcn": "橙红拟口蘑",
+   "img": "Tricholomopsis_rubroaurantiaca_30cb6f00-a8aa-11ef-9377-9b33d0d615f2_1.jpg"
   },
   {
    "name": "Tricholomopsis rutilans",

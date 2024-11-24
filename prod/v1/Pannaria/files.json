@@ -2,7 +2,7 @@
  "name": "Pannaria",
  "zhtw": "鱗葉衣屬",
  "zhcn": "鳞叶衣属",
- "timestamp": "20241117-183757",
+ "timestamp": "20241124-200428",
  "list": [
   {
    "name": "Pannaria conoplea",
@@ -21,6 +21,12 @@
    "zhtw": "鐵色鱗葉衣",
    "zhcn": "铁色鳞叶衣",
    "img": "Pannaria_lurida_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Pannaria rubiginosa",
+   "zhtw": "銹紅鱗葉衣",
+   "zhcn": "锈红鳞叶衣",
+   "img": "Pannaria_rubiginosa_aac18d20-a8ab-11ef-b1c9-99864b150736_1.jpg"
   }
  ]
 }

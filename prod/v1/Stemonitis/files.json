@@ -2,7 +2,7 @@
  "name": "Stemonitis",
  "zhtw": "髮網黏菌屬",
  "zhcn": "发网黏菌属",
- "timestamp": "20241117-183757",
+ "timestamp": "20241124-200428",
  "list": [
   {
    "name": "Stemonitis axifera",
@@ -45,6 +45,12 @@
    "zhtw": "木生髮網黏菌",
    "zhcn": "木生发网黏菌",
    "img": "Stemonitis_lignicola_1690d550-613b-11ef-be83-0d9da1f4363b_1.jpg"
+  },
+  {
+   "name": "Stemonitis nigrescens",
+   "zhtw": "黑柄髮網菌",
+   "zhcn": "黑柄发网菌",
+   "img": "Stemonitis_nigrescens_8abdff50-a88c-11ef-bdd8-cf4ce03db38d_1.jpg"
   },
   {
    "name": "Stemonitis pallida",

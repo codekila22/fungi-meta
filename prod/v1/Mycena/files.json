@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20241117-183757",
+ "timestamp": "20241124-200428",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -285,6 +285,12 @@
    "zhtw": "利氏小菇澳洲變種",
    "zhcn": "利氏小菇澳洲变种",
    "img": "Mycena_leaiana var. australis_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Mycena leptocephala",
+   "zhtw": "狹頭小菇",
+   "zhcn": "狭头小菇",
+   "img": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_1.jpg"
   },
   {
    "name": "Mycena lux-coeli",

@@ -1,0 +1,114 @@
+{
+ "genus": "Mycena",
+ "name": "leptocephala",
+ "date": [
+  "12/29/2023,8544028652374157"
+ ],
+ "names_zhtw": [
+  "狹頭小菇"
+ ],
+ "names_en": [],
+ "url": "8544028652374157",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_10.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "狭头小菇"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena leptocephala",
+   "cname": "Nitrous Bonnet",
+   "url": "https://www.inaturalist.org/taxa/63470-Mycena-leptocephala",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/31199121/thumb.jpg"
+  },
+  {
+   "name": "Mycena leptocephala var. leptocephala",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63469-Mycena-leptocephala-leptocephala",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/302813887/thumb.jpg"
+  },
+  {
+   "name": "Mycena leptocephala var. minuta",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63471-Mycena-leptocephala-minuta",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241124-200428"
+}

@@ -1,0 +1,102 @@
+{
+ "genus": "Ramaria",
+ "name": "pallida",
+ "date": [
+  "09/14/2024,8548275425282813"
+ ],
+ "names_zhtw": [
+  "蒼白枝瑚菌"
+ ],
+ "names_en": [],
+ "url": "8548275425282813",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_pallida_18ed1060-a8ae-11ef-8441-0de7e35c8beb_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_pallida_18ed1060-a8ae-11ef-8441-0de7e35c8beb_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_pallida_18ed1060-a8ae-11ef-8441-0de7e35c8beb_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_pallida_18ed1060-a8ae-11ef-8441-0de7e35c8beb_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_pallida_18ed1060-a8ae-11ef-8441-0de7e35c8beb_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_pallida_18ed1060-a8ae-11ef-8441-0de7e35c8beb_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Ramaria_pallida_18ed1060-a8ae-11ef-8441-0de7e35c8beb_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "苍白枝瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4292072403",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Ramaria pallida",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/847830-Ramaria-pallida",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/114844438/thumb.jpg"
+  },
+  {
+   "name": "Ramaria rubricarnata var. pallida",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/204728-Ramaria-rubricarnata-pallida",
+   "src": ""
+  },
+  {
+   "name": "Ramaria pallida lactea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1497370-Ramaria-pallida-lactea",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241124-200428"
+}

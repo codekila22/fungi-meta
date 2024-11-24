@@ -2,13 +2,19 @@
  "name": "Candolleomyces",
  "zhtw": "坎多氏菌屬",
  "zhcn": "坎多氏菌属",
- "timestamp": "20241117-183757",
+ "timestamp": "20241124-200428",
  "list": [
   {
    "name": "Candolleomyces albipes",
    "zhtw": "白足坎多氏菌",
    "zhcn": "白足坎多氏菌",
    "img": "Psathyrella_albipes_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Candolleomyces brevisporus",
+   "zhtw": "短孢坎多氏菌",
+   "zhcn": "短孢坎多氏菌",
+   "img": "Candolleomyces_brevisporus_bbee7100-a8a9-11ef-9ad0-538ed3185f33_1.jpg"
   },
   {
    "name": "Candolleomyces candolleanus",

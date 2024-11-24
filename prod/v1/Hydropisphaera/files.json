@@ -2,13 +2,19 @@
  "name": "Hydropisphaera",
  "zhtw": "水球殼屬",
  "zhcn": "水球壳属",
- "timestamp": "20241117-183757",
+ "timestamp": "20241124-200428",
  "list": [
   {
    "name": "Hydropisphaera angelicae",
    "zhtw": "當歸水球殼",
    "zhcn": "当归水球壳",
    "img": "Hydropisphaera_angelicae_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Hydropisphaera cf. ciliata",
+   "zhtw": "疑似纖毛水球殼",
+   "zhcn": "疑似纤毛水球壳",
+   "img": "Hydropisphaera_cf. ciliata_b3786a40-a8a8-11ef-ae88-6f988cc141c1_1.jpg"
   }
  ]
 }

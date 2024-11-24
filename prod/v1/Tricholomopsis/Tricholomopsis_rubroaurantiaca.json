@@ -1,0 +1,94 @@
+{
+ "genus": "Tricholomopsis",
+ "name": "rubroaurantiaca",
+ "date": [
+  "11/14/2024,8509882362455453"
+ ],
+ "names_zhtw": [
+  "橙紅擬口蘑"
+ ],
+ "names_en": [],
+ "url": "8509882362455453",
+ "images": [
+  {
+   "author": "林雪",
+   "image_src": "Tricholomopsis_rubroaurantiaca_30cb6f00-a8aa-11ef-9377-9b33d0d615f2_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Tricholomopsis_rubroaurantiaca_30cb6f00-a8aa-11ef-9377-9b33d0d615f2_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Tricholomopsis_rubroaurantiaca_30cb6f00-a8aa-11ef-9377-9b33d0d615f2_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Tricholomopsis_rubroaurantiaca_30cb6f00-a8aa-11ef-9377-9b33d0d615f2_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Tricholomopsis_rubroaurantiaca_30cb6f00-a8aa-11ef-9377-9b33d0d615f2_5.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Tricholomopsis_rubroaurantiaca_30cb6f00-a8aa-11ef-9377-9b33d0d615f2_6.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Tricholomopsis_rubroaurantiaca_30cb6f00-a8aa-11ef-9377-9b33d0d615f2_7.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Tricholomopsis_rubroaurantiaca_30cb6f00-a8aa-11ef-9377-9b33d0d615f2_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "橙红拟口蘑"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped,scattered",
+  "GrowthEnv": "ground,debris",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長在竹林環境中。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Tricholomopsis rubroaurantiaca",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1417605-Tricholomopsis-rubroaurantiaca",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/259121694/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241124-200428"
+}
