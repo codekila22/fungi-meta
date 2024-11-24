@@ -2,6 +2,7 @@
  "genus": "Sphaerosporium",
  "name": "lignatile",
  "date": [
+  "11/23/2024,8560907160686306",
   "10/28/2024,8408531539257203"
  ],
  "names_zhtw": [
@@ -29,6 +30,26 @@
   {
    "author": "陳中城",
    "image_src": "Sphaerosporium_lignatile_bc04a4a0-9e83-11ef-9f59-db7df2d9998d_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Sphaerosporium_lignatile_7b533590-a985-11ef-9014-315c9d692ac4_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Sphaerosporium_lignatile_7b533590-a985-11ef-9014-315c9d692ac4_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Sphaerosporium_lignatile_7b533590-a985-11ef-9014-315c9d692ac4_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Sphaerosporium_lignatile_7b533590-a985-11ef-9014-315c9d692ac4_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Sphaerosporium_lignatile_7b533590-a985-11ef-9014-315c9d692ac4_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -78,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159968919/thumb.jpeg"
   }
  ],
- "timestamp": "20241122-174428"
+ "timestamp": "20241124-195628"
 }

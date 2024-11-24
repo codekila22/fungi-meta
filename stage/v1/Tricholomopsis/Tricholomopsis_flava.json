@@ -2,6 +2,7 @@
  "genus": "Tricholomopsis",
  "name": "flava",
  "date": [
+  "11/24/2024,8566086420168380",
   "10/01/2024,8226102214166804",
   "08/11/2024,7827309304046099",
   "06/08/2024,7473853136058386",
@@ -247,6 +248,18 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Tricholomopsis_flava_3666c800-815a-11ef-aa36-352bf2a90388_13.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tricholomopsis_flava_caa88560-aa42-11ef-8b48-017e30eb37fa_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tricholomopsis_flava_caa88560-aa42-11ef-8b48-017e30eb37fa_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tricholomopsis_flava_caa88560-aa42-11ef-8b48-017e30eb37fa_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -296,5 +309,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241122-174428"
+ "timestamp": "20241124-195628"
 }

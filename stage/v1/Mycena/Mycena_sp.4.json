@@ -2,6 +2,8 @@
  "genus": "Mycena",
  "name": "sp.4",
  "date": [
+  "11/24/2024,8566138396829849",
+  "11/23/2024,8560860417357647",
   "05/26/2024,7414460571997643",
   "05/24/2024,7409595312484169",
   "11/19/2020,3372529546190786",
@@ -146,6 +148,50 @@
   {
    "author": "Sunny Wang",
    "image_src": "Mycena_sp.4_d6af6490-7d21-10cc-af1f-7fb581ed4843_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_sp.4_09695550-a984-11ef-9f97-0bb3bbfe2133_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_sp.4_09695550-a984-11ef-9f97-0bb3bbfe2133_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_sp.4_09695550-a984-11ef-9f97-0bb3bbfe2133_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_sp.4_09695550-a984-11ef-9f97-0bb3bbfe2133_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_sp.4_d17428c0-aa49-11ef-a3b5-934042a03be5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_sp.4_d17428c0-aa49-11ef-a3b5-934042a03be5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_sp.4_d17428c0-aa49-11ef-a3b5-934042a03be5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_sp.4_d17428c0-aa49-11ef-a3b5-934042a03be5_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_sp.4_d17428c0-aa49-11ef-a3b5-934042a03be5_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_sp.4_d17428c0-aa49-11ef-a3b5-934042a03be5_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_sp.4_d17428c0-aa49-11ef-a3b5-934042a03be5_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -187,5 +233,5 @@
   "Note": "一種生長在低海拔血桐枯葉上的微小真菌。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20241122-174428"
+ "timestamp": "20241124-195628"
 }
