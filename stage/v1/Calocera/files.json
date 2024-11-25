@@ -2,8 +2,14 @@
  "name": "Calocera",
  "zhtw": "膠角耳屬",
  "zhcn": "胶角耳属",
- "timestamp": "20241124-200428",
+ "timestamp": "20241125-203313",
  "list": [
+  {
+   "name": "Calocera bambusicola",
+   "zhtw": "竹生膠角耳",
+   "zhcn": "竹生胶角耳",
+   "img": "Calocera_bambusicola_af6c5f40-ab16-11ef-b870-cb7d1eb094a8_1.jpg"
+  },
   {
    "name": "Calocera cornea",
    "zhtw": "角狀膠角耳",
