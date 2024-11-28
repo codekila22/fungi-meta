@@ -1,11 +1,11 @@
 {
  "genus": "Metarhizium",
- "name": "acridum",
+ "name": "cf. gryllidicola",
  "date": [
   "11/23/2024,8560596310717391"
  ],
  "names_zhtw": [
-  "蝗綠殭菌"
+  "疑似蟋蟀黑殭菌"
  ],
  "names_en": [],
  "url": "8560596310717391",
@@ -24,7 +24,7 @@
   }
  ],
  "names_zhcn": [
-  "蝗绿僵菌"
+  "疑似蟋蟀黑僵菌"
  ],
  "meta": {
   "CapColors": "4294967295,4278222848",
@@ -59,15 +59,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "寄生在蝗蟲上。"
+  "Note": "寄生在蟋蟀上。"
  },
- "inaturalist": [
-  {
-   "name": "Metarhizium anisopliae",
-   "cname": "",
-   "url": "https://www.inaturalist.org/taxa/328135-Metarhizium-anisopliae",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/33754413/thumb.jpeg"
-  }
- ],
- "timestamp": "20241128-155651"
+ "timestamp": "20241128-162702"
 }
