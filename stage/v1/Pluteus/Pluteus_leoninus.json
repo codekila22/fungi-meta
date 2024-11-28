@@ -224,6 +224,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "50,90",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -233,9 +234,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Pluteus chrysophlebius,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "金黃光柄菇,,",
+  "la_zhcn": "金黄光柄菇,,"
  },
  "inaturalist": [
   {
@@ -257,5 +260,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241125-210439"
+ "timestamp": "20241128-155651"
 }

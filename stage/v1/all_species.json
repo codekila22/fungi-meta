@@ -1,5 +1,5 @@
 {
- "timestamp": "20241125-210439",
+ "timestamp": "20241128-155651",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -598,6 +598,7 @@
    "Torrendiella,小托雷盤菌屬,小托雷盘菌属",
    "Trichaleurina,長毛飾孢盤菌屬,长毛饰孢盘菌属",
    "Trichophaea,長毛盤菌屬,长毛盘菌属",
+   "Vamsapriya,星狀炭豆菌屬,星状炭豆菌属",
    "Vladracula,槭環形盤菌屬,槭环形盘菌属"
   ],
   "clubs/coral": [
@@ -1452,6 +1453,7 @@
   "Coenogonium luteum,金黃絨衣,金黄绒衣",
   "Coleosporium asterum,紫菀鞘銹菌,紫菀鞘锈菌",
   "Coleosporium eupaederiae,雞屎藤鞘銹菌,鸡屎藤鞘锈菌",
+  "Coleosporium paederiae,牛皮凍鞘銹菌,牛皮冻鞘锈菌",
   "Coleosporium perillae,紫蘇鏽病,紫苏锈病",
   "Coleosporium plumeriae,緬梔鞘銹菌,缅栀鞘锈菌",
   "Collaria arcyrionema,光孢項圈黏菌,光孢项圈黏菌",
@@ -1757,6 +1759,7 @@
   "Entoloma eugenei,尤金粉褶菌,尤金粉褶菌",
   "Entoloma farlowii,法洛粉褶菌,法洛粉褶菌",
   "Entoloma flabellatum,扇形粉褶菌,扇形粉褶菌",
+  "Entoloma hebes,寡味粉褶菌(暫名),寡味粉褶菌(暂名)",
   "Entoloma kujyuense,九重粉褶菌,九重粉褶菌",
   "Entoloma longistriatum,長射紋粉褶菌,长射纹粉褶菌",
   "Entoloma mastoideum,乳突粉褶菌,乳突粉褶菌",
@@ -2011,6 +2014,7 @@
   "Hydnellum cf. concrescens,疑似環紋小齒菌,疑似环纹小齿菌",
   "Hydnophlebia chrysorhiza,金根刺射脈菌,金根刺射脉菌",
   "Hydnum repandum var. album,卷緣齒菌白色變種,卷缘齿菌白色变种",
+  "Hydnum repandum,卷緣齒菌,卷缘齿菌",
   "Hydropisphaera angelicae,當歸水球殼,当归水球壳",
   "Hydropisphaera cf. ciliata,疑似纖毛水球殼,疑似纤毛水球壳",
   "Hydropus atramentosus,暗灰濕柄傘,暗灰湿柄伞",
@@ -3368,6 +3372,7 @@
   "Usnea wirthii,長松蘿,长松萝",
   "Ustilago esculenta,筊白黑穗菌,筊白黑穗菌",
   "Ustilago maydis,玉蜀黍黑穗菌,玉蜀黍黑穗菌",
+  "Vamsapriya uniseptata,單隔竹生愛孢,单隔竹生爱孢",
   "Vararia investiens,硬叉絲革菌,硬叉丝革菌",
   "Vladracula annuliformis,樟葉槭環形盤菌,樟叶槭环形盘菌",
   "Volvariella bombycina,絲蓋小包腳菇,丝盖小包脚菇",
