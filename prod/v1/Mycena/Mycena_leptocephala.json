@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "leptocephala",
  "date": [
+  "11/25/2024,8588085857968436",
   "12/29/2023,8544028652374157"
  ],
  "names_zhtw": [
@@ -49,6 +50,30 @@
   {
    "author": "Sunny Wang",
    "image_src": "Mycena_leptocephala_fcc472f0-a977-11ef-83ba-19693acc6d02_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_948d5280-ad85-11ef-98b7-9329b2833feb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_948d5280-ad85-11ef-98b7-9329b2833feb_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_948d5280-ad85-11ef-98b7-9329b2833feb_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_948d5280-ad85-11ef-98b7-9329b2833feb_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_948d5280-ad85-11ef-98b7-9329b2833feb_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_948d5280-ad85-11ef-98b7-9329b2833feb_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -110,5 +135,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }

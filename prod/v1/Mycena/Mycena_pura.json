@@ -15,7 +15,9 @@
   "11/07/2021,5393382940772093",
   "04/25/2021,3725289330914804",
   "01/23/2021,3464906520286421",
-  "05/24/2020,2802365529873860"
+  "05/24/2020,2802365529873860",
+  "12/14/2017,8581400598636962",
+  "06/10/2017,8581400598636962"
  ],
  "names_zhtw": [
   "潔小菇"
@@ -210,6 +212,46 @@
   {
    "author": "江志緯",
    "image_src": "Mycena_pura_6ebd4120-f27b-11ee-b295-319c36da04c1_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_9.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -243,12 +285,12 @@
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "no",
-  "Bioluminescent": "no",
+  "Bioluminescent": "weak",
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Mycena aff. pura,,",
-  "Note": "此種應為一個複合群，有各種顏色差異。",
+  "Note": "此種應為一個複合群，有各種顏色差異。依照文獻資料，此物種菌絲體會發光。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "潔小菇相似種,,",
   "la_zhcn": "洁小菇相似种,,"
@@ -297,5 +339,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }

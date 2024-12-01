@@ -1,0 +1,108 @@
+{
+ "genus": "Hydnum",
+ "name": "repandum",
+ "date": [
+  "10/07/2024,8400556863388004"
+ ],
+ "names_zhtw": [
+  "卷緣齒菌"
+ ],
+ "names_en": [],
+ "url": "8400556863388004",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Hydnum_repandum_012a03c0-ad59-11ef-b1af-b1afcf0881af_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hydnum_repandum_012a03c0-ad59-11ef-b1af-b1afcf0881af_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hydnum_repandum_012a03c0-ad59-11ef-b1af-b1afcf0881af_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hydnum_repandum_012a03c0-ad59-11ef-b1af-b1afcf0881af_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hydnum_repandum_012a03c0-ad59-11ef-b1af-b1afcf0881af_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "卷缘齿菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Hydnum repandum var. album,,",
+  "Note": "",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "卷緣齒菌白色變種,,",
+  "la_zhcn": "卷缘齿菌白色变种,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Hydnum repandum",
+   "cname": "Wood Hedgehog",
+   "url": "https://www.inaturalist.org/taxa/48641-Hydnum-repandum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/102523946/thumb.jpg"
+  },
+  {
+   "name": "Hydnum rufescens",
+   "cname": "Terracotta Hedgehog",
+   "url": "https://www.inaturalist.org/taxa/340866-Hydnum-rufescens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/644433/thumb.jpg"
+  },
+  {
+   "name": "Hydnum albidum",
+   "cname": "White Hedgehog",
+   "url": "https://www.inaturalist.org/taxa/351036-Hydnum-albidum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9219200/thumb.jpg"
+  },
+  {
+   "name": "Hydnum repandum var. repandum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/122170-Hydnum-repandum-repandum",
+   "src": ""
+  },
+  {
+   "name": "Hydnum repandum var. album",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/340867-Hydnum-repandum-album",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241201-194505"
+}

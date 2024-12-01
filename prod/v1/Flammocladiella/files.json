@@ -2,8 +2,14 @@
  "name": "Flammocladiella",
  "zhtw": "金毛殼菌屬",
  "zhcn": "金毛壳菌属",
- "timestamp": "20241124-200428",
+ "timestamp": "20241201-194505",
  "list": [
+  {
+   "name": "Flammocladiella aff. anomiae",
+   "zhtw": "迷亂金毛殼菌的相似種",
+   "zhcn": "迷乱金毛壳菌的相似种",
+   "img": "Flammocladiella_aff. anomiae_65c79b50-aa5f-11ef-af27-f7d7b5956006_1.jpg"
+  },
   {
    "name": "Flammocladiella anomiae",
    "zhtw": "迷亂金毛殼菌",

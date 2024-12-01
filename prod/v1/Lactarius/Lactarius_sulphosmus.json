@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "sulphosmus",
  "date": [
+  "11/25/2024,8583335105110178",
   "05/14/2024,7396371850473182",
   "10/10/2023,6514192148691161",
   "06/05/2022,4959153720861686",
@@ -77,6 +78,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Lactarius_sulphosmus_98fb1110-1b02-11ef-9d43-2b7ff50f111d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_sulphosmus_932e70c0-acbf-11ef-b8a1-d1856895d0ca_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_sulphosmus_932e70c0-acbf-11ef-b8a1-d1856895d0ca_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_sulphosmus_932e70c0-acbf-11ef-b8a1-d1856895d0ca_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_sulphosmus_932e70c0-acbf-11ef-b8a1-d1856895d0ca_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -104,6 +121,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -114,7 +132,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "據說聞起來有類似硫磺味。",
+  "Note": "聞起來有類似硫磺味。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -125,5 +143,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/388612952/thumb.jpg"
   }
  ],
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }

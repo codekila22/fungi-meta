@@ -1,0 +1,86 @@
+{
+ "genus": "Flammocladiella",
+ "name": "aff. anomiae",
+ "date": [
+  "11/24/2024,8566620903448265"
+ ],
+ "names_zhtw": [
+  "迷亂金毛殼菌的相似種"
+ ],
+ "names_en": [],
+ "url": "8566620903448265",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Flammocladiella_aff. anomiae_65c79b50-aa5f-11ef-af27-f7d7b5956006_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Flammocladiella_aff. anomiae_65c79b50-aa5f-11ef-af27-f7d7b5956006_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Flammocladiella_aff. anomiae_65c79b50-aa5f-11ef-af27-f7d7b5956006_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Flammocladiella_aff. anomiae_65c79b50-aa5f-11ef-af27-f7d7b5956006_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Flammocladiella_aff. anomiae_65c79b50-aa5f-11ef-af27-f7d7b5956006_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Flammocladiella_aff. anomiae_65c79b50-aa5f-11ef-af27-f7d7b5956006_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "迷乱金毛壳菌的相似种"
+ ],
+ "meta": {
+  "CapColors": "4294901760",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Flammocladiella anomiae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1205646-Flammocladiella-anomiae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/117681434/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241201-194505"
+}

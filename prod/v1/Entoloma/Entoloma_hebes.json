@@ -1,0 +1,74 @@
+{
+ "genus": "Entoloma",
+ "name": "hebes",
+ "date": [
+  "10/07/2024,8500169926760030"
+ ],
+ "names_zhtw": [
+  "寡味粉褶菌(暫名)"
+ ],
+ "names_en": [],
+ "url": "8500169926760030",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_hebes_4a9ee6c0-ac9f-11ef-8d25-4fba1369a7c7_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_hebes_4a9ee6c0-ac9f-11ef-8d25-4fba1369a7c7_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_hebes_4a9ee6c0-ac9f-11ef-8d25-4fba1369a7c7_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "寡味粉褶菌(暂名)"
+ ],
+ "meta": {
+  "CapColors": "4294942842,4293302630",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "菌褶未達傘緣。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma hebes",
+   "cname": "Pimple Pinkgill",
+   "url": "https://www.inaturalist.org/taxa/332484-Entoloma-hebes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58334787/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241201-194505"
+}

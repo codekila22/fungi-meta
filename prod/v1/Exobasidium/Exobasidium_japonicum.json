@@ -2,6 +2,7 @@
  "genus": "Exobasidium",
  "name": "japonicum",
  "date": [
+  "05/26/2024,8577193175724371",
   "07/10/2023,6198603486916697",
   "02/28/2021,3563884837055255"
  ],
@@ -43,6 +44,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Exobasidium_japonicum_540fde60-2386-11ee-96bb-4794de9223e3_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Exobasidium_japonicum_691c5840-ad57-11ef-97fc-0b1a6b197176_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Exobasidium_japonicum_691c5840-ad57-11ef-97fc-0b1a6b197176_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Exobasidium_japonicum_691c5840-ad57-11ef-97fc-0b1a6b197176_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Exobasidium_japonicum_691c5840-ad57-11ef-97fc-0b1a6b197176_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Exobasidium_japonicum_691c5840-ad57-11ef-97fc-0b1a6b197176_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Exobasidium_japonicum_691c5840-ad57-11ef-97fc-0b1a6b197176_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Exobasidium_japonicum_691c5840-ad57-11ef-97fc-0b1a6b197176_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Exobasidium_japonicum_691c5840-ad57-11ef-97fc-0b1a6b197176_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Exobasidium_japonicum_691c5840-ad57-11ef-97fc-0b1a6b197176_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -91,5 +128,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1326248/thumb.jpg"
   }
  ],
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }

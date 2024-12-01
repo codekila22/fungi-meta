@@ -1,7 +1,15 @@
 {
  "genus": "Coleosporium",
  "name": "eupaederiae",
+ "synonym": [
+  {
+   "name": "Coleosporium paederiae",
+   "zhtw": "牛皮凍鞘銹菌",
+   "zhcn": "牛皮冻鞘锈菌"
+  }
+ ],
  "date": [
+  "11/27/2024,8582179005225788",
   "06/19/2023,6114058562037857"
  ],
  "names_zhtw": [
@@ -33,6 +41,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Coleosporium_eupaederiae_243098a0-1040-11ee-af06-91c21f49a1a6_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coleosporium_eupaederiae_82b82c10-ad58-11ef-9e96-49a4c56270cb_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coleosporium_eupaederiae_82b82c10-ad58-11ef-9e96-49a4c56270cb_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coleosporium_eupaederiae_82b82c10-ad58-11ef-9e96-49a4c56270cb_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coleosporium_eupaederiae_82b82c10-ad58-11ef-9e96-49a4c56270cb_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coleosporium_eupaederiae_82b82c10-ad58-11ef-9e96-49a4c56270cb_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coleosporium_eupaederiae_82b82c10-ad58-11ef-9e96-49a4c56270cb_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -70,8 +102,10 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": ""
+  "LookAlikes": "Aecidium paederiae,,",
+  "Note": "",
+  "la_zhtw": "牛皮凍銹孢銹菌,,",
+  "la_zhcn": "牛皮冻锈孢锈菌,,"
  },
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }

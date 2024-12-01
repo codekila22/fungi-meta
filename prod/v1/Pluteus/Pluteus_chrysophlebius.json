@@ -2,6 +2,7 @@
  "genus": "Pluteus",
  "name": "chrysophlebius",
  "date": [
+  "11/25/2024,8572448122865543",
   "10/26/2022,5351474798296241"
  ],
  "names_zhtw": [
@@ -33,6 +34,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Pluteus_chrysophlebius_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_chrysophlebius_4ffed520-abf6-11ef-a6ec-f58df2f1aa58_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_chrysophlebius_4ffed520-abf6-11ef-a6ec-f58df2f1aa58_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_chrysophlebius_4ffed520-abf6-11ef-a6ec-f58df2f1aa58_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_chrysophlebius_4ffed520-abf6-11ef-a6ec-f58df2f1aa58_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_chrysophlebius_4ffed520-abf6-11ef-a6ec-f58df2f1aa58_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_chrysophlebius_4ffed520-abf6-11ef-a6ec-f58df2f1aa58_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -70,9 +95,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Pluteus leoninus,,",
+  "Note": "金黃與獅黃菌蓋邊緣都有條紋，但金黃的菌蓋中央除了突起外是光滑的，獅黃常凹凸不平。\n另金黃的菌褶在幼菌時是常透著黃色的，成熟時才變粉色；獅黃幼菌時是白色或淡粉色。尺寸上金黃較小型。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "獅黃光柄菇,,",
+  "la_zhcn": "狮黄光柄菇,,"
  },
  "inaturalist": [
   {
@@ -82,5 +109,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5442189/thumb.jpeg"
   }
  ],
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }

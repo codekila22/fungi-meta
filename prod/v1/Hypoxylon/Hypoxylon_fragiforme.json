@@ -2,7 +2,8 @@
  "genus": "Hypoxylon",
  "name": "fragiforme",
  "date": [
-  "01/01/0001"
+  "09/18/2024,8137064099737283",
+  "12/06/2020,3354851627958578"
  ],
  "names_zhtw": [
   "莓型炭團菌"
@@ -21,6 +22,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Hypoxylon_fragiforme_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypoxylon_fragiforme_30b34540-ac9e-11ef-9fdc-253ae2a3f6b9_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypoxylon_fragiforme_30b34540-ac9e-11ef-9fdc-253ae2a3f6b9_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypoxylon_fragiforme_30b34540-ac9e-11ef-9fdc-253ae2a3f6b9_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypoxylon_fragiforme_30b34540-ac9e-11ef-9fdc-253ae2a3f6b9_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -69,5 +86,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1334549/thumb.jpg"
   }
  ],
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }

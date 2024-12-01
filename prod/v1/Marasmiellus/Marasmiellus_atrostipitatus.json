@@ -2,6 +2,7 @@
  "genus": "Marasmiellus",
  "name": "atrostipitatus",
  "date": [
+  "11/21/2024,8556313231145699",
   "11/09/2024,8548322921944730",
   "08/01/2024,7766084143501949",
   "07/27/2024,",
@@ -185,6 +186,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Marasmiellus_atrostipitatus_14902640-a8ab-11ef-9747-d9b79c3cb6c7_14.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_3d468150-aa6e-11ef-9953-a3a32a121679_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_3d468150-aa6e-11ef-9953-a3a32a121679_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_3d468150-aa6e-11ef-9953-a3a32a121679_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_3d468150-aa6e-11ef-9953-a3a32a121679_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -234,5 +251,5 @@
    "src": ""
   }
  ],
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }

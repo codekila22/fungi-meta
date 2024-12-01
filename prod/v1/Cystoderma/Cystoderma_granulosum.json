@@ -77,8 +77,8 @@
   "LookAlikes": "Leucopholiota lignicola,Leucopholiota decorosa,Echinoderma calcicola",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "木生白鱗傘,華美白麟傘,灰岩棘皮菌",
-  "la_zhcn": "木生白鳞伞,华美白麟伞,灰岩棘皮菌"
+  "la_zhtw": "木生白鱗傘,華美白鱗傘,灰岩棘皮菌",
+  "la_zhcn": "木生白鳞伞,华美白鳞伞,灰岩棘皮菌"
  },
  "inaturalist": [
   {
@@ -88,5 +88,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/54886998/thumb.jpg"
   }
  ],
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }

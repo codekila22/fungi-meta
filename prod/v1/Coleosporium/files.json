@@ -2,7 +2,7 @@
  "name": "Coleosporium",
  "zhtw": "鞘銹菌屬",
  "zhcn": "鞘锈菌属",
- "timestamp": "20241124-200428",
+ "timestamp": "20241201-194505",
  "list": [
   {
    "name": "Coleosporium asterum",
@@ -14,6 +14,15 @@
    "name": "Coleosporium eupaederiae",
    "zhtw": "雞屎藤鞘銹菌",
    "zhcn": "鸡屎藤鞘锈菌",
+   "img": "Coleosporium_eupaederiae_243098a0-1040-11ee-af06-91c21f49a1a6_1.jpg"
+  },
+  {
+   "name": "Coleosporium paederiae",
+   "zhtw": "牛皮凍鞘銹菌",
+   "zhcn": "牛皮冻鞘锈菌",
+   "current": "Coleosporium eupaederiae",
+   "current_zhtw": "雞屎藤鞘銹菌",
+   "current_zhcn": "鸡屎藤鞘锈菌",
    "img": "Coleosporium_eupaederiae_243098a0-1040-11ee-af06-91c21f49a1a6_1.jpg"
   },
   {

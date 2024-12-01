@@ -2,6 +2,7 @@
  "genus": "Stemonitis",
  "name": "splendens",
  "date": [
+  "11/30/2024,8598887060221649",
   "04/20/2024,7258598004250568",
   "05/04/2023,5944765648967150"
  ],
@@ -130,6 +131,22 @@
   {
    "author": "蔡古媧",
    "image_src": "Stemonitis_splendens_63a1f430-0242-11ef-b7a5-472b4757eb12_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitis_splendens_dcb7f740-afb5-11ef-87d8-51b8323b978f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitis_splendens_dcb7f740-afb5-11ef-87d8-51b8323b978f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitis_splendens_dcb7f740-afb5-11ef-87d8-51b8323b978f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitis_splendens_dcb7f740-afb5-11ef-87d8-51b8323b978f_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -177,5 +194,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23595573/thumb.jpg"
   }
  ],
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }

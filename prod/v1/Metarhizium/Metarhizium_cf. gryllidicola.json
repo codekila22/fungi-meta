@@ -1,0 +1,65 @@
+{
+ "genus": "Metarhizium",
+ "name": "cf. gryllidicola",
+ "date": [
+  "11/23/2024,8560596310717391"
+ ],
+ "names_zhtw": [
+  "疑似蟋蟀黑殭菌"
+ ],
+ "names_en": [],
+ "url": "8560596310717391",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Metarhizium_acridum_d444da20-aa37-11ef-adfd-19a48e66af15_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Metarhizium_acridum_d444da20-aa37-11ef-adfd-19a48e66af15_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Metarhizium_acridum_d444da20-aa37-11ef-adfd-19a48e66af15_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似蟋蟀黑僵菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "寄生在蟋蟀上。"
+ },
+ "timestamp": "20241201-194505"
+}

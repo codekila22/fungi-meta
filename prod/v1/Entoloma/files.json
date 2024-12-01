@@ -2,7 +2,7 @@
  "name": "Entoloma",
  "zhtw": "粉褶菌屬",
  "zhcn": "粉褶菌属",
- "timestamp": "20241124-200428",
+ "timestamp": "20241201-194505",
  "list": [
   {
    "name": "Entoloma aff. quadratum",
@@ -90,6 +90,12 @@
    "zhtw": "扇形粉褶菌",
    "zhcn": "扇形粉褶菌",
    "img": "Entoloma_flabellatum_54dd75b0-3063-11ef-9625-bfe9f1a9afb5_1.jpg"
+  },
+  {
+   "name": "Entoloma hebes",
+   "zhtw": "寡味粉褶菌(暫名)",
+   "zhcn": "寡味粉褶菌(暂名)",
+   "img": "Entoloma_hebes_4a9ee6c0-ac9f-11ef-8d25-4fba1369a7c7_1.jpg"
   },
   {
    "name": "Entoloma kujyuense",

@@ -2,11 +2,12 @@
  "genus": "Leucopholiota",
  "name": "decorosa",
  "date": [
+  "11/22/2024,8556389927804696",
   "10/21/2023,6569685306475178",
   "09/02/2022,5253567888086933"
  ],
  "names_zhtw": [
-  "華美白麟傘"
+  "華美白鱗傘"
  ],
  "names_en": [],
  "url": "5253567888086933",
@@ -126,10 +127,34 @@
   {
    "author": "Sunny Wang",
    "image_src": "Leucopholiota_decorosa_4c5b6880-754b-11ee-88dd-09924cc90aa8_18.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_decorosa_5ca8e450-ab15-11ef-b296-7195fc3ca3ae_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_decorosa_5ca8e450-ab15-11ef-b296-7195fc3ca3ae_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_decorosa_5ca8e450-ab15-11ef-b296-7195fc3ca3ae_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_decorosa_5ca8e450-ab15-11ef-b296-7195fc3ca3ae_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_decorosa_5ca8e450-ab15-11ef-b296-7195fc3ca3ae_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_decorosa_5ca8e450-ab15-11ef-b296-7195fc3ca3ae_6.jpg"
   }
  ],
  "names_zhcn": [
-  "华美白麟伞"
+  "华美白鳞伞"
  ],
  "meta": {
   "CapColors": "4286141768,4294083840",
@@ -177,5 +202,5 @@
    "src": "https://static.inaturalist.org/photos/11982202/thumb.jpg"
   }
  ],
- "timestamp": "20241124-200428"
+ "timestamp": "20241201-194505"
 }
