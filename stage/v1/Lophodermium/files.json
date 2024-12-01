@@ -2,7 +2,7 @@
  "name": "Lophodermium",
  "zhtw": "散斑殼屬",
  "zhcn": "散斑壳属",
- "timestamp": "20241128-202817",
+ "timestamp": "20241201-193133",
  "list": [
   {
    "name": "Lophodermium cf. arundinaceum",
@@ -27,6 +27,12 @@
    "zhtw": "刺柏散斑殼",
    "zhcn": "刺柏散斑壳",
    "img": "Lophodermium_juniperinum_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Lophodermium petrakii",
+   "zhtw": "佩氏散斑殼",
+   "zhcn": "佩氏散斑壳",
+   "img": "Lophodermium_petrakii_9c3cb3e0-afb5-11ef-b315-4569468e1785_1.jpg"
   }
  ]
 }
