@@ -42,5 +42,48 @@
  "names_zhcn": [
   "瘤孢钙皮黏菌"
  ],
- "timestamp": "20241201-193133"
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "此物種和鈣皮黏菌(Didymium iridis)十分相似，中柱都是白色、近圓球狀。但瘤孢個體較小，孢子囊直徑通常小於 0.4 mm。"
+ },
+ "inaturalist": [
+  {
+   "name": "Didymium verrucisporum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/331134-Didymium-verrucisporum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/118303969/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20241201-194505"
 }
