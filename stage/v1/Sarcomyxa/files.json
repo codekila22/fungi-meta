@@ -2,13 +2,19 @@
  "name": "Sarcomyxa",
  "zhtw": "蠔菇属",
  "zhcn": "蚝菇属",
- "timestamp": "20241201-194505",
+ "timestamp": "20241215-103851",
  "list": [
   {
    "name": "Sarcomyxa edulis",
    "zhtw": "美味蠔菇",
    "zhcn": "美味蚝菇",
    "img": "Sarcomyxa_edulis_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Sarcomyxa serotina",
+   "zhtw": "冬蘑",
+   "zhcn": "冬蘑",
+   "img": "Sarcomyxa_serotina_2658e380-b995-11ef-9160-05ac66d8fe7a_1.jpg"
   }
  ]
 }

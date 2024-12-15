@@ -5,6 +5,7 @@
   "02/16/2024,7002524939857877",
   "12/16/2023,6825922170851489",
   "12/06/2023,7002524939857877",
+  "11/11/2023,8647353242041697",
   "11/07/2023,6616657441777964",
   "08/14/2021,4050382051738862",
   "02/24/2019,4818511341592592",
@@ -151,6 +152,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Cordyceps_militaris_f551f340-d37f-11ee-b8fa-d32f36e75219_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Cordyceps_militaris_ecacaed0-b9af-11ef-960a-0913550f26b3_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Cordyceps_militaris_ecacaed0-b9af-11ef-960a-0913550f26b3_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Cordyceps_militaris_ecacaed0-b9af-11ef-960a-0913550f26b3_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Cordyceps_militaris_ecacaed0-b9af-11ef-960a-0913550f26b3_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Cordyceps_militaris_ecacaed0-b9af-11ef-960a-0913550f26b3_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -201,5 +222,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23680390/thumb.jpg"
   }
  ],
- "timestamp": "20241201-194505"
+ "timestamp": "20241215-103851"
 }

@@ -2,8 +2,14 @@
  "name": "Glyphis",
  "zhtw": "刻痕衣屬",
  "zhcn": "刻痕衣属",
- "timestamp": "20241201-194505",
+ "timestamp": "20241215-103851",
  "list": [
+  {
+   "name": "Glyphis cicatricose",
+   "zhtw": "刻痕衣",
+   "zhcn": "刻痕衣",
+   "img": "Glyphis_cicatricose_1b400710-b983-11ef-a8c7-f9433d16df1f_1.jpg"
+  },
   {
    "name": "Glyphis scyphulifera",
    "zhtw": "圓片衣",
