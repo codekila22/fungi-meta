@@ -2,13 +2,19 @@
  "name": "Apiospora",
  "zhtw": "端隔孢殼菌屬",
  "zhcn": "端隔孢壳菌属",
- "timestamp": "20241201-194505",
+ "timestamp": "20241215-164545",
  "list": [
   {
    "name": "Apiospora arundinis",
    "zhtw": "蘆葦端隔孢殼菌",
    "zhcn": "芦苇端隔孢壳菌",
    "img": "Apiospora_arundinis_8f605150-bb86-11ee-983e-7fe808777991_1.jpg"
+  },
+  {
+   "name": "Apiospora lophatheri",
+   "zhtw": "淡竹葉端隔孢殼菌",
+   "zhcn": "淡竹叶端隔孢壳菌",
+   "img": "Apiospora_lophatheri_18d139e0-b997-11ef-992f-3f1c1fb5de2a_1.jpg"
   },
   {
    "name": "Apiospora neobambusae",

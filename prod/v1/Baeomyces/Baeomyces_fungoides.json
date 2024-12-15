@@ -15,7 +15,8 @@
   "07/17/2021,3965757343534667",
   "05/29/2021,3817169781726758",
   "10/24/2020,3247837888659953",
-  "07/28/2020,2964252303685181"
+  "07/28/2020,2964252303685181",
+  "06/11/2016,8611470558963299"
  ],
  "names_zhtw": [
   "羊角衣"
@@ -118,6 +119,26 @@
   {
    "author": "朱艷",
    "image_src": "Baeomyces_fungoides_632b4830-9884-11ee-b5e2-4b545a8f2544_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeomyces_fungoides_70c98730-b981-11ef-bcf0-b9fe48f2aaf2_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeomyces_fungoides_70c98730-b981-11ef-bcf0-b9fe48f2aaf2_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeomyces_fungoides_70c98730-b981-11ef-bcf0-b9fe48f2aaf2_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeomyces_fungoides_70c98730-b981-11ef-bcf0-b9fe48f2aaf2_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeomyces_fungoides_70c98730-b981-11ef-bcf0-b9fe48f2aaf2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -168,5 +189,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/34001839/thumb.jpeg"
   }
  ],
- "timestamp": "20241201-194505"
+ "timestamp": "20241215-164545"
 }

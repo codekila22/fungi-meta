@@ -2,6 +2,7 @@
  "genus": "Didymium",
  "name": "squamulosum",
  "date": [
+  "12/01/2024,8604613612982327",
   "03/12/2024,7134983753278661",
   "01/02/2024,6820457658064607",
   "06/02/2023,6045663392210708",
@@ -264,6 +265,38 @@
   {
    "author": "江志緯",
    "image_src": "Didymium_squamulosum_cf4c2db0-ea30-11ee-8991-f10fced37c5f_15.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_squamulosum_766eb280-aff1-11ef-8630-cfe39208bbaa_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_squamulosum_766eb280-aff1-11ef-8630-cfe39208bbaa_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_squamulosum_766eb280-aff1-11ef-8630-cfe39208bbaa_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_squamulosum_766eb280-aff1-11ef-8630-cfe39208bbaa_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_squamulosum_766eb280-aff1-11ef-8630-cfe39208bbaa_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_squamulosum_766eb280-aff1-11ef-8630-cfe39208bbaa_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_squamulosum_766eb280-aff1-11ef-8630-cfe39208bbaa_7.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_squamulosum_766eb280-aff1-11ef-8630-cfe39208bbaa_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -302,7 +335,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Didymium cf. karstensii,,",
-  "Note": "生長在枯枝敗葉上。",
+  "Note": "生長在枯枝敗葉上。此物種和卡氏鈣皮黏菌(Didymium karstensii) 很難區分。卡氏的中柱墊狀 (pulvinate)，且常刺刺的 (often spiny)，孢子也比較大。",
   "la_zhtw": "疑似卡氏鈣皮黏菌,,",
   "la_zhcn": "疑似卡氏钙皮黏菌,,"
  },
@@ -314,5 +347,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5770753/thumb.jpeg"
   }
  ],
- "timestamp": "20241201-194505"
+ "timestamp": "20241215-164545"
 }

@@ -2,13 +2,19 @@
  "name": "Datronia",
  "zhtw": "薄孔菌屬",
  "zhcn": "薄孔菌属",
- "timestamp": "20241201-194505",
+ "timestamp": "20241215-164545",
  "list": [
   {
    "name": "Datronia mollis",
    "zhtw": "軟異薄孔菌",
    "zhcn": "软异薄孔菌",
    "img": "Datronia_mollis_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Datronia scutellata",
+   "zhtw": "盤異薄孔菌",
+   "zhcn": "盘异薄孔菌",
+   "img": "Datronia_scutellata_c3572c70-b97f-11ef-ab80-0bd697e298ae_1.jpg"
   }
  ]
 }

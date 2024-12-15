@@ -2,7 +2,7 @@
  "name": "Heterodermia",
  "zhtw": "鈴孢衣屬",
  "zhcn": "铃孢衣属",
- "timestamp": "20241201-194505",
+ "timestamp": "20241215-164545",
  "list": [
   {
    "name": "Heterodermia angustiloba",
@@ -42,6 +42,12 @@
    "zhtw": "黃腹鈴孢衣",
    "zhcn": "黄腹铃孢衣",
    "img": "Heterodermia_hypochraea_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Heterodermia japonica",
+   "zhtw": "阿里山亞鈴孢衣",
+   "zhcn": "阿里山亚铃孢衣",
+   "img": "Heterodermia_japonica_dba59150-b983-11ef-9864-4b3898dd430a_1.jpg"
   }
  ]
 }

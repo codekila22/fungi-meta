@@ -2,7 +2,9 @@
  "genus": "Myelochroa",
  "name": "xantholepis",
  "date": [
-  "01/01/0001"
+  "11/22/2024,8636604686449886",
+  "01/24/2021,3487900981320308",
+  "10/30/2020,3487900981320308"
  ],
  "names_zhtw": [
   "細裂片黃髓梅衣"
@@ -33,6 +35,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Myelochroa_xantholepis_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myelochroa_xantholepis_b28251a0-b997-11ef-81d6-7f9354036e76_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myelochroa_xantholepis_b28251a0-b997-11ef-81d6-7f9354036e76_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myelochroa_xantholepis_b28251a0-b997-11ef-81d6-7f9354036e76_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myelochroa_xantholepis_b28251a0-b997-11ef-81d6-7f9354036e76_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myelochroa_xantholepis_b28251a0-b997-11ef-81d6-7f9354036e76_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myelochroa_xantholepis_b28251a0-b997-11ef-81d6-7f9354036e76_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Myelochroa_xantholepis_b28251a0-b997-11ef-81d6-7f9354036e76_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -72,5 +102,5 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20241201-194505"
+ "timestamp": "20241215-164545"
 }

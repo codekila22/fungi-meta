@@ -2,7 +2,8 @@
  "genus": "Pluteus",
  "name": "umbrosus",
  "date": [
-  "04/28/2023,5924851110958604"
+  "04/28/2023,5924851110958604",
+  "06/26/2022,8663461107097577"
  ],
  "names_zhtw": [
   "皺蓋光柄菇"
@@ -41,6 +42,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Pluteus_umbrosus_1d16cd10-e6eb-11ed-bc05-cd7eb9e99839_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_umbrosus_b5e47420-b9b2-11ef-a056-3d84f507cae3_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_umbrosus_b5e47420-b9b2-11ef-a056-3d84f507cae3_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_umbrosus_b5e47420-b9b2-11ef-a056-3d84f507cae3_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_umbrosus_b5e47420-b9b2-11ef-a056-3d84f507cae3_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_umbrosus_b5e47420-b9b2-11ef-a056-3d84f507cae3_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -92,5 +113,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5731435/thumb.jpeg"
   }
  ],
- "timestamp": "20241201-194505"
+ "timestamp": "20241215-164545"
 }
