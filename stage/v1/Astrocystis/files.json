@@ -2,13 +2,19 @@
  "name": "Astrocystis",
  "zhtw": "星狀炭豆菌屬",
  "zhcn": "星状炭豆菌属",
- "timestamp": "20241215-164545",
+ "timestamp": "20241221-205302",
  "list": [
   {
    "name": "Astrocystis bambusae",
    "zhtw": "竹星囊炭角菌",
    "zhcn": "竹星囊炭角菌",
    "img": "Astrocystis_bambusae_06e9c1f0-b980-11ef-b5b4-7f2ffa4a0d2d_1.jpg"
+  },
+  {
+   "name": "Astrocystis mirabilis",
+   "zhtw": "非凡星裂球腔菌",
+   "zhcn": "非凡星裂球腔菌",
+   "img": "Astrocystis_bambusae_1_CC BY-NC_向高世.jpg"
   }
  ]
 }

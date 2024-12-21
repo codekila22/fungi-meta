@@ -2,6 +2,7 @@
  "genus": "Bactridium",
  "name": "cf. flavum",
  "date": [
+  "12/10/2024,8712719932171694",
   "03/30/2024,7227528870690815",
   "12/09/2023,6736253189818388",
   "04/25/2023,5915924565184592",
@@ -138,6 +139,18 @@
   {
    "author": "江志緯",
    "image_src": "Bactridium_cf. flavum_bbfde760-fee1-11ee-a05d-2f0ade829bae_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bactridium_cf. flavum_88d15ff0-bf95-11ef-b15e-c557d6902a90_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bactridium_cf. flavum_88d15ff0-bf95-11ef-b15e-c557d6902a90_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bactridium_cf. flavum_88d15ff0-bf95-11ef-b15e-c557d6902a90_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -186,5 +199,5 @@
    "src": "https://static.inaturalist.org/photos/111956272/thumb.jpg"
   }
  ],
- "timestamp": "20241215-164545"
+ "timestamp": "20241221-205302"
 }

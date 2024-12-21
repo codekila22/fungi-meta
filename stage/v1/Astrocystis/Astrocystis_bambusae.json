@@ -2,7 +2,8 @@
  "genus": "Astrocystis",
  "name": "bambusae",
  "date": [
-  "12/13/2024,8609382652505423"
+  "12/13/2024,8609382652505423",
+  "12/12/2024,8694282384015449"
  ],
  "names_zhtw": [
   "竹星囊炭角菌"
@@ -25,6 +26,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Astrocystis_bambusae_06e9c1f0-b980-11ef-b5b4-7f2ffa4a0d2d_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Astrocystis_bambusae_5cb7bae0-bf6d-11ef-9922-23616b87453b_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Astrocystis_bambusae_5cb7bae0-bf6d-11ef-9922-23616b87453b_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Astrocystis_bambusae_5cb7bae0-bf6d-11ef-9922-23616b87453b_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Astrocystis_bambusae_5cb7bae0-bf6d-11ef-9922-23616b87453b_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Astrocystis_bambusae_5cb7bae0-bf6d-11ef-9922-23616b87453b_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Astrocystis_bambusae_5cb7bae0-bf6d-11ef-9922-23616b87453b_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -66,5 +91,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20241215-164545"
+ "timestamp": "20241221-205302"
 }

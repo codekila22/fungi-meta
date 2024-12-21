@@ -1,6 +1,6 @@
 {
- "genus": "Astrosphaeriella",
- "name": "stellata",
+ "genus": "Astrocystis",
+ "name": "mirabilis",
  "date": [
   "02/04/2024,6941582052618833",
   "01/03/2024,6933219143455124",
@@ -11,7 +11,7 @@
   "07/14/2017,3116874551756288"
  ],
  "names_zhtw": [
-  "放射星裂球腔菌"
+  "非凡星裂球腔菌"
  ],
  "names_en": [],
  "url": "3116874551756288",
@@ -102,7 +102,7 @@
   }
  ],
  "names_zhcn": [
-  "放射星裂球腔菌"
+  "非凡星裂球腔菌"
  ],
  "meta": {
   "CapColors": "4278190080,4284635991",
@@ -140,25 +140,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "inaturalist": [
-  {
-   "name": "Astrosphaeriella stellata",
-   "cname": "",
-   "url": "https://www.inaturalist.org/taxa/350147-Astrosphaeriella-stellata",
-   "src": ""
-  },
-  {
-   "name": "Astrosphaeriella stellata var. palmicola",
-   "cname": "",
-   "url": "https://www.inaturalist.org/taxa/350148-Astrosphaeriella-stellata-palmicola",
-   "src": ""
-  },
-  {
-   "name": "Astrosphaeriella stellata var. stellata",
-   "cname": "",
-   "url": "https://www.inaturalist.org/taxa/1058935-Astrosphaeriella-stellata-stellata",
-   "src": ""
-  }
- ],
- "timestamp": "20241215-164545"
+ "timestamp": "20241221-205302"
 }
