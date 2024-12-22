@@ -1,0 +1,91 @@
+{
+ "genus": "Coleosporium",
+ "name": "clematidis",
+ "date": [
+  "12/10/2024,8654097041367317"
+ ],
+ "names_zhtw": [
+  "鐵線蓮鞘銹菌"
+ ],
+ "names_en": [],
+ "url": "8654097041367317",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Coleosporium_clematidis_21f42190-bf6e-11ef-b105-179c54d4b548_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coleosporium_clematidis_21f42190-bf6e-11ef-b105-179c54d4b548_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coleosporium_clematidis_21f42190-bf6e-11ef-b105-179c54d4b548_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coleosporium_clematidis_21f42190-bf6e-11ef-b105-179c54d4b548_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coleosporium_clematidis_21f42190-bf6e-11ef-b105-179c54d4b548_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coleosporium_clematidis_21f42190-bf6e-11ef-b105-179c54d4b548_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "铁线莲鞘锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Coleosporium clematidis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1252501-Coleosporium-clematidis",
+   "src": "https://static.inaturalist.org/photos/337643133/thumb.jpg"
+  },
+  {
+   "name": "Coleosporium clematidis-apiifoliae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1252502-Coleosporium-clematidis-apiifoliae",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241222-174021"
+}

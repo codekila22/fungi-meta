@@ -2,7 +2,8 @@
  "genus": "Lachnum",
  "name": "lushanense",
  "date": [
-  "08/28/2021,4077807448996322"
+  "08/28/2021,4077807448996322",
+  "08/28/2021,8703632183080469"
  ],
  "names_zhtw": [
   "廬山粒毛盤菌"
@@ -53,6 +54,34 @@
   {
    "author": "Sunny Wang",
    "image_src": "Lachnum_lushanense_12_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lachnum_lushanense_9efd9a30-bf6f-11ef-978e-15694a938450_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lachnum_lushanense_9efd9a30-bf6f-11ef-978e-15694a938450_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lachnum_lushanense_9efd9a30-bf6f-11ef-978e-15694a938450_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lachnum_lushanense_9efd9a30-bf6f-11ef-978e-15694a938450_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lachnum_lushanense_9efd9a30-bf6f-11ef-978e-15694a938450_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lachnum_lushanense_9efd9a30-bf6f-11ef-978e-15694a938450_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lachnum_lushanense_9efd9a30-bf6f-11ef-978e-15694a938450_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -93,5 +122,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20241215-164545"
+ "timestamp": "20241222-174021"
 }

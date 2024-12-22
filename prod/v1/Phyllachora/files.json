@@ -2,13 +2,19 @@
  "name": "Phyllachora",
  "zhtw": "黑痣菌屬",
  "zhcn": "黑痣菌属",
- "timestamp": "20241215-164545",
+ "timestamp": "20241222-174021",
  "list": [
   {
    "name": "Phyllachora repens",
    "zhtw": "菩提樹黑痣菌",
    "zhcn": "菩提树黑痣菌",
    "img": "Phyllachora_repens_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Phyllachora shiraiana",
+   "zhtw": "白井氏黑痣菌",
+   "zhcn": "白井氏黑痣菌",
+   "img": "Phyllachora_shiraiana_41fbd470-bf95-11ef-a632-916d6016324c_1.jpg"
   }
  ]
 }

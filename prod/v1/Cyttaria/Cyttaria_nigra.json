@@ -1,0 +1,73 @@
+{
+ "genus": "Cyttaria",
+ "name": "nigra",
+ "date": [
+  "12/18/2024,8698919870218367"
+ ],
+ "names_zhtw": [
+  "黑癭果盤菌"
+ ],
+ "names_en": [],
+ "url": "8698919870218367",
+ "images": [
+  {
+   "author": "Otto Lee",
+   "image_src": "Cyttaria_nigra_d9027df0-bd2a-11ef-8654-3919f79dc172_1.jpg"
+  },
+  {
+   "author": "Otto Lee",
+   "image_src": "Cyttaria_nigra_d9027df0-bd2a-11ef-8654-3919f79dc172_2.jpg"
+  },
+  {
+   "author": "Otto Lee",
+   "image_src": "Cyttaria_nigra_d9027df0-bd2a-11ef-8654-3919f79dc172_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黑瘿果盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "本屬真菌寄生於南半球(紐西蘭、澳洲、南美洲)的南方山毛櫸(Nothofagus sp.)上。紐西蘭拍攝記錄。"
+ },
+ "inaturalist": [
+  {
+   "name": "Cyttaria nigra",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382096-Cyttaria-nigra",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1469102/thumb.JPG"
+  }
+ ],
+ "timestamp": "20241222-174021"
+}
