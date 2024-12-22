@@ -2,6 +2,7 @@
  "genus": "Astrocystis",
  "name": "mirabilis",
  "date": [
+  "12/17/2024,8693723160738038",
   "02/04/2024,6941582052618833",
   "01/03/2024,6933219143455124",
   "09/20/2023,6425267344250309",
@@ -99,6 +100,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Astrosphaeriella_stellata_7afd1780-c4d1-11ee-98f7-f5fd410058d5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Astrocystis_mirabilis_74c75840-c051-11ef-a017-bb893c0f4875_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Astrocystis_mirabilis_74c75840-c051-11ef-a017-bb893c0f4875_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Astrocystis_mirabilis_74c75840-c051-11ef-a017-bb893c0f4875_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Astrocystis_mirabilis_74c75840-c051-11ef-a017-bb893c0f4875_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -140,5 +157,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20241222-174021"
+ "timestamp": "20241222-194342"
 }
