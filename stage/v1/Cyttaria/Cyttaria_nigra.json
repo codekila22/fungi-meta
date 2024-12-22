@@ -52,14 +52,22 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,parasitic",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "紐西蘭拍攝記錄。"
+  "Note": "本屬真菌寄生於南半球(紐西蘭、澳洲、南美洲)的南方山毛櫸(Nothofagus sp.)上。紐西蘭拍攝記錄。"
  },
- "timestamp": "20241221-210142"
+ "inaturalist": [
+  {
+   "name": "Cyttaria nigra",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382096-Cyttaria-nigra",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1469102/thumb.JPG"
+  }
+ ],
+ "timestamp": "20241222-112023"
 }

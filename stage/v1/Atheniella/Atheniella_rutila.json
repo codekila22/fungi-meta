@@ -74,7 +74,7 @@
  ],
  "meta": {
   "CapColors": "4293263360,4293263452",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,10",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -93,7 +93,7 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "5,16",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -104,9 +104,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Atheniella adonis,,",
+  "Note": "跟相似種美男艷小菇(Atheniella adonis)比較，此物種傘徑與柄長都比較小型。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "美男艷小菇,,",
+  "la_zhcn": "美男艳小菇,,"
  },
- "timestamp": "20241221-210142"
+ "timestamp": "20241222-112023"
 }

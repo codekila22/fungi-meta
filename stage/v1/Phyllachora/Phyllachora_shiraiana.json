@@ -77,5 +77,13 @@
   "LookAlikes": "",
   "Note": "生長在箭竹葉上。"
  },
- "timestamp": "20241221-210142"
+ "inaturalist": [
+  {
+   "name": "Phyllachora shiraiana",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1341084-Phyllachora-shiraiana",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/173730599/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241222-112023"
 }
