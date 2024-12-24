@@ -2,6 +2,7 @@
  "genus": "Galerina",
  "name": "marginata",
  "date": [
+  "12/23/2024,8733650946745259",
   "02/10/2024,6977086975735007",
   "02/05/2024,6970901189686919",
   "12/14/2023,6789651664478540",
@@ -181,6 +182,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Galerina_marginata_a35c13f0-caeb-11ee-b143-7dae5e02eee3_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_marginata_02a24140-c1a4-11ef-9915-6110c3abe712_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_marginata_02a24140-c1a4-11ef-9915-6110c3abe712_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_marginata_02a24140-c1a4-11ef-9915-6110c3abe712_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Galerina_marginata_02a24140-c1a4-11ef-9915-6110c3abe712_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -230,5 +247,5 @@
    "src": "https://static.inaturalist.org/photos/188934/thumb.jpg"
   }
  ],
- "timestamp": "20241222-194342"
+ "timestamp": "20241224-113544"
 }

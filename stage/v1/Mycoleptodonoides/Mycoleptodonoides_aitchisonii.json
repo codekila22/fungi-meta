@@ -2,6 +2,7 @@
  "genus": "Mycoleptodonoides",
  "name": "aitchisonii",
  "date": [
+  "12/23/2024,8729468273830193",
   "11/20/2023,6657783857665322",
   "11/15/2022,5416233035153750",
   "12/01/2021,4375811392529258"
@@ -87,6 +88,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycoleptodonoides_aitchisonii_320c08e0-88e2-11ee-b9fc-fd96c01aab8a_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycoleptodonoides_aitchisonii_f79c5660-c12a-11ef-8b2d-b9aed93ae36a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycoleptodonoides_aitchisonii_f79c5660-c12a-11ef-8b2d-b9aed93ae36a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycoleptodonoides_aitchisonii_f79c5660-c12a-11ef-8b2d-b9aed93ae36a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycoleptodonoides_aitchisonii_f79c5660-c12a-11ef-8b2d-b9aed93ae36a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycoleptodonoides_aitchisonii_f79c5660-c12a-11ef-8b2d-b9aed93ae36a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -114,8 +135,9 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
-  "Seasons": "",
+  "Seasons": "winter",
   "GrowthType": "",
   "GrowthEnv": "wood",
   "Bruising": "",
@@ -135,5 +157,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/104331175/thumb.jpg"
   }
  ],
- "timestamp": "20241222-194342"
+ "timestamp": "20241224-113544"
 }

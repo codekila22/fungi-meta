@@ -2,6 +2,7 @@
  "genus": "Sarcomyxa",
  "name": "serotina",
  "date": [
+  "12/21/2024,8728138533963167",
   "12/11/2024,8676226412487713",
   "12/18/2022,8629366330507055"
  ],
@@ -66,6 +67,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Sarcomyxa_serotina_da1d6260-bb3e-11ef-bfbd-9bdfdf70113a_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Sarcomyxa_serotina_76a3ddc0-c180-11ef-9572-55778fae274a_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Sarcomyxa_serotina_76a3ddc0-c180-11ef-9572-55778fae274a_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Sarcomyxa_serotina_76a3ddc0-c180-11ef-9572-55778fae274a_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Sarcomyxa_serotina_76a3ddc0-c180-11ef-9572-55778fae274a_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Sarcomyxa_serotina_76a3ddc0-c180-11ef-9572-55778fae274a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -117,5 +138,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249504353/thumb.jpg"
   }
  ],
- "timestamp": "20241222-194342"
+ "timestamp": "20241224-113544"
 }
