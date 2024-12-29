@@ -50,5 +50,78 @@
  "names_zhcn": [
   "石生珊瑚枝"
  ],
- "timestamp": "20241224-113544"
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Stereocaulon saxatile",
+   "cname": "Rock Foam",
+   "url": "https://www.inaturalist.org/taxa/182534-Stereocaulon-saxatile",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2241374/thumb.JPG"
+  },
+  {
+   "name": "Stereocaulon saxatile var. evolutoides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182530-Stereocaulon-saxatile-evolutoides",
+   "src": ""
+  },
+  {
+   "name": "Stereocaulon saxatile var. serpens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182531-Stereocaulon-saxatile-serpens",
+   "src": ""
+  },
+  {
+   "name": "Stereocaulon saxatile sorediatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182532-Stereocaulon-saxatile-sorediatum",
+   "src": ""
+  },
+  {
+   "name": "Stereocaulon saxatile paschaleoides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182533-Stereocaulon-saxatile-paschaleoides",
+   "src": ""
+  },
+  {
+   "name": "Stereocaulon saxatile var. saxatile",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182535-Stereocaulon-saxatile-saxatile",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241229-173803"
 }

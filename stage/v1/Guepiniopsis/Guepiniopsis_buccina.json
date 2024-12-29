@@ -2,6 +2,7 @@
  "genus": "Guepiniopsis",
  "name": "buccina",
  "date": [
+  "12/25/2024,8750992941677726",
   "11/09/2024,8488198601290496",
   "05/04/2024,7317309425046092",
   "04/19/2024,7242607719182930",
@@ -240,6 +241,26 @@
   {
    "author": "陳雅芬",
    "image_src": "Guepiniopsis_buccina_7efc7030-9ffd-11ef-93c4-a34608802ffa_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Guepiniopsis_buccina_27ee3660-c452-11ef-8751-03c453594f27_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Guepiniopsis_buccina_27ee3660-c452-11ef-8751-03c453594f27_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Guepiniopsis_buccina_27ee3660-c452-11ef-8751-03c453594f27_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Guepiniopsis_buccina_27ee3660-c452-11ef-8751-03c453594f27_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Guepiniopsis_buccina_27ee3660-c452-11ef-8751-03c453594f27_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -291,5 +312,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28659774/thumb.jpeg"
   }
  ],
- "timestamp": "20241224-113544"
+ "timestamp": "20241229-173803"
 }
