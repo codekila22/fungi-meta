@@ -70,5 +70,48 @@
  "names_zhcn": [
   "黄鹌菜柄锈菌"
  ],
- "timestamp": "20241229-173803"
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長在黃鵪菜上。"
+ },
+ "inaturalist": [
+  {
+   "name": "Puccinia crepidis-japonicae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1519175-Puccinia-crepidis-japonicae",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241229-175541"
 }
