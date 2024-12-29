@@ -50,5 +50,49 @@
  "names_zhcn": [
   "斑点粉瘤黏菌"
  ],
- "timestamp": "20241229-175541"
+ "meta": {
+  "CapColors": "4294083840,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "2,7",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "孢子囊中等大小((1.5–)2.5– \n5.5(–7) mm diam)，成熟後近黑色，周皮表面密布大而明顯的深褐色囊泡，成熟後孢子粉灰色。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Lycogala maculatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1470568-Lycogala-maculatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/319671950/thumb.jpg"
+  }
+ ],
+ "timestamp": "20241229-180955"
 }
