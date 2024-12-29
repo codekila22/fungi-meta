@@ -2,11 +2,12 @@
  "genus": "Colletotrichum",
  "name": "gloeosporioides",
  "date": [
+  "12/28/2024,8756874857756201",
   "12/20/2022,5524619074315145"
  ],
  "names_zhtw": [
-  "蘆薈炭疽病",
-  "膠孢炭疽菌"
+  "膠孢炭疽菌",
+  "似膠黏孢炭疽刺盤孢菌"
  ],
  "names_en": [],
  "url": "5524619074315145",
@@ -86,11 +87,55 @@
   {
    "author": "江志緯",
    "image_src": "Colletotrichum_gloeosporioides_19_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Colletotrichum_gloeosporioides_bf5a9720-c577-11ef-8faf-675b01bfdac6_11.jpg"
   }
  ],
  "names_zhcn": [
-  "芦荟炭疽病",
-  "胶孢炭疽菌"
+  "胶孢炭疽菌",
+  "似胶黏孢炭疽刺盘孢菌"
  ],
  "meta": {
   "CapColors": "4278190080,4283244288",
@@ -125,7 +170,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "芒果炭疽病與蘆薈炭疽病的病原菌。"
  },
  "inaturalist": [
   {
@@ -147,5 +192,5 @@
    "src": "https://static.inaturalist.org/photos/31553709/thumb.jpeg"
   }
  ],
- "timestamp": "20241222-194342"
+ "timestamp": "20241229-180955"
 }

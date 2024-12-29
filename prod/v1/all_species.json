@@ -1,5 +1,5 @@
 {
- "timestamp": "20241222-194342",
+ "timestamp": "20241229-180955",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -1469,7 +1469,7 @@
   "Collaria rubens,紅褐項圈黏菌,红褐项圈黏菌",
   "Collema fasciculare,束孢膠衣,束孢胶衣",
   "Colletotrichum cordylinicola,朱蕉炭疽刺盤孢菌,朱蕉炭疽刺盘孢菌",
-  "Colletotrichum gloeosporioides,蘆薈炭疽病,芦荟炭疽病",
+  "Colletotrichum gloeosporioides,膠孢炭疽菌,胶孢炭疽菌",
   "Colloderma oculatum,眼球膠膜黏菌,眼球胶膜黏菌",
   "Collybia aurea,金黃金錢菇,金黄金钱菇",
   "Collybia effusa,疏褶金錢菇,疏褶金钱菇",
@@ -2330,6 +2330,7 @@
   "Lycogala epidendrum,粉瘤黏菌,粉瘤黏菌",
   "Lycogala exiguum,小粉瘤黏菌,小粉瘤黏菌",
   "Lycogala flavofuscum,大粉瘤黏菌,大粉瘤黏菌",
+  "Lycogala maculatum,斑點粉瘤黏菌,斑点粉瘤黏菌",
   "Lycogala palianytsia,圓麵包粉瘤黏菌,圆面包粉瘤黏菌",
   "Lycogalopsis solmsii,索氏擬粉瘤菌,索氏拟粉瘤菌",
   "Lycoperdon bispinosum,雙棘馬勃,双棘马勃",
@@ -2762,6 +2763,7 @@
   "Pholiotina rugosa,皺蓋小鱗傘,皱盖小鳞伞",
   "Phycomyces blakesleeanus,布拉克鬍鬚黴,布拉克胡须霉",
   "Phycomyces nitens,閃光鬍鬚黴,闪光胡须霉",
+  "Phyllachora miscanthi,芒黑痣菌,芒黑痣菌",
   "Phyllachora repens,菩提樹黑痣菌,菩提树黑痣菌",
   "Phyllachora shiraiana,白井氏黑痣菌,白井氏黑痣菌",
   "Phylloporia homocarnica,同質葉孔菌,同质叶孔菌",
@@ -2955,6 +2957,7 @@
   "Pterulicium fasciculare,簇生羽囊菌,簇生羽囊菌",
   "Puccinia allii,葱柄銹菌,葱柄锈菌",
   "Puccinia benokiyamensis,火炭母柄銹菌,火炭母柄锈菌",
+  "Puccinia crepidis-japonicae,黃鵪菜柄銹菌,黄鹌菜柄锈菌",
   "Puccinia exhausta,鐵線蓮柄銹菌,铁线莲柄锈菌",
   "Puccinia fusispora,蕁麻柄銹菌,荨麻柄锈菌",
   "Puccinia hemerocallichis,金針柄銹菌,金针柄锈菌",
@@ -3185,6 +3188,7 @@
   "Stereocaulon intermedium,間型珊瑚枝,间型珊瑚枝",
   "Stereocaulon japonicum,日本珊瑚枝,日本珊瑚枝",
   "Stereocaulon massartianum,側頂果珊瑚枝,侧顶果珊瑚枝",
+  "Stereocaulon saxatile,石生珊瑚枝,石生珊瑚枝",
   "Stereocaulon sorediiferum,大珊瑚枝,大珊瑚枝",
   "Stereopsis hiscens,瓣裂柄革菌,瓣裂柄革菌",
   "Stereopsis radicans,生根柄革菌,生根柄革菌",

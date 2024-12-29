@@ -2,6 +2,7 @@
  "genus": "Merismodes",
  "name": "anomala",
  "date": [
+  "11/24/2024,8744619125648441",
   "05/22/2024,7436235803153453",
   "03/19/2024,7117489548361415",
   "08/29/2020,3061676150609462"
@@ -115,6 +116,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Merismodes_anomala_95280290-1f40-11ef-bba6-47480bb15f6f_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_4695e9f0-c34e-11ef-8aaa-e766e9f605cd_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_4695e9f0-c34e-11ef-8aaa-e766e9f605cd_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_4695e9f0-c34e-11ef-8aaa-e766e9f605cd_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_4695e9f0-c34e-11ef-8aaa-e766e9f605cd_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_4695e9f0-c34e-11ef-8aaa-e766e9f605cd_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -163,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/91718461/thumb.jpg"
   }
  ],
- "timestamp": "20241222-194342"
+ "timestamp": "20241229-180955"
 }

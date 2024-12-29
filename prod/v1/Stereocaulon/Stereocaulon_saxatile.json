@@ -1,0 +1,127 @@
+{
+ "genus": "Stereocaulon",
+ "name": "saxatile",
+ "date": [
+  "12/21/2024,8728535083923512"
+ ],
+ "names_zhtw": [
+  "石生珊瑚枝"
+ ],
+ "names_en": [],
+ "url": "8728535083923512",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Stereocaulon_saxatile_dc3fae60-c19a-11ef-8d27-4dda6bee8bf6_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Stereocaulon_saxatile_dc3fae60-c19a-11ef-8d27-4dda6bee8bf6_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Stereocaulon_saxatile_dc3fae60-c19a-11ef-8d27-4dda6bee8bf6_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Stereocaulon_saxatile_dc3fae60-c19a-11ef-8d27-4dda6bee8bf6_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Stereocaulon_saxatile_dc3fae60-c19a-11ef-8d27-4dda6bee8bf6_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Stereocaulon_saxatile_dc3fae60-c19a-11ef-8d27-4dda6bee8bf6_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Stereocaulon_saxatile_dc3fae60-c19a-11ef-8d27-4dda6bee8bf6_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Stereocaulon_saxatile_dc3fae60-c19a-11ef-8d27-4dda6bee8bf6_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Stereocaulon_saxatile_dc3fae60-c19a-11ef-8d27-4dda6bee8bf6_9.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "石生珊瑚枝"
+ ],
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Stereocaulon saxatile",
+   "cname": "Rock Foam",
+   "url": "https://www.inaturalist.org/taxa/182534-Stereocaulon-saxatile",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2241374/thumb.JPG"
+  },
+  {
+   "name": "Stereocaulon saxatile var. evolutoides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182530-Stereocaulon-saxatile-evolutoides",
+   "src": ""
+  },
+  {
+   "name": "Stereocaulon saxatile var. serpens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182531-Stereocaulon-saxatile-serpens",
+   "src": ""
+  },
+  {
+   "name": "Stereocaulon saxatile sorediatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182532-Stereocaulon-saxatile-sorediatum",
+   "src": ""
+  },
+  {
+   "name": "Stereocaulon saxatile paschaleoides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182533-Stereocaulon-saxatile-paschaleoides",
+   "src": ""
+  },
+  {
+   "name": "Stereocaulon saxatile var. saxatile",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/182535-Stereocaulon-saxatile-saxatile",
+   "src": ""
+  }
+ ],
+ "timestamp": "20241229-180955"
+}

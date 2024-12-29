@@ -2,6 +2,8 @@
  "genus": "Tectella",
  "name": "patellaris",
  "date": [
+  "12/23/2024,8733461356764218",
+  "12/21/2024,8733025653474455",
   "01/26/2024,6902525839857788",
   "12/05/2023,6715046278605746",
   "12/18/2022,7770756113034752",
@@ -137,6 +139,62 @@
   {
    "author": "蔡古媧",
    "image_src": "Tectella_patellaris_1858e7f0-3240-10c6-a254-93fc4ec39761_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tectella_patellaris_3620a5f0-c192-11ef-a328-2790bfab6260_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tectella_patellaris_3620a5f0-c192-11ef-a328-2790bfab6260_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tectella_patellaris_3620a5f0-c192-11ef-a328-2790bfab6260_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tectella_patellaris_3620a5f0-c192-11ef-a328-2790bfab6260_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tectella_patellaris_3620a5f0-c192-11ef-a328-2790bfab6260_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tectella_patellaris_3620a5f0-c192-11ef-a328-2790bfab6260_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tectella_patellaris_3620a5f0-c192-11ef-a328-2790bfab6260_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tectella_patellaris_3620a5f0-c192-11ef-a328-2790bfab6260_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tectella_patellaris_3be40ed0-c19e-11ef-90b9-23862215c37b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tectella_patellaris_3be40ed0-c19e-11ef-90b9-23862215c37b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tectella_patellaris_3be40ed0-c19e-11ef-90b9-23862215c37b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tectella_patellaris_3be40ed0-c19e-11ef-90b9-23862215c37b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tectella_patellaris_3be40ed0-c19e-11ef-90b9-23862215c37b_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tectella_patellaris_3be40ed0-c19e-11ef-90b9-23862215c37b_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -166,7 +224,7 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
-  "Seasons": "",
+  "Seasons": "autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
@@ -186,5 +244,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58965702/thumb.jpg"
   }
  ],
- "timestamp": "20241222-194342"
+ "timestamp": "20241229-180955"
 }
