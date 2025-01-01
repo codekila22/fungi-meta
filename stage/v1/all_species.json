@@ -1,5 +1,5 @@
 {
- "timestamp": "20241229-180955",
+ "timestamp": "20250101-164614",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -323,6 +323,7 @@
    "Spinellus,傘菌黴屬,伞菌霉属",
    "Sporodiniella,小孢黴屬,小孢霉属",
    "Sporophagomyces,嗜孢菌屬,嗜孢菌属",
+   "Squamanita,菌癭傘屬,菌瘿伞属",
    "Stagonospora,殼多孢菌屬,壳多孢菌属",
    "Synchytrium,集壺菌屬,集壶菌属",
    "Syzygites,聯軛菌屬,联轭菌属",
@@ -2149,6 +2150,7 @@
   "Isaria cicadae,蟬棒束孢黴,蝉棒束孢霉",
   "Ischnoderma resinosum,樹脂皺皮菌,树脂皱皮菌",
   "Junghuhnia nitida,明亮松氏孔菌,明亮松氏孔菌",
+  "Karstenia idaei,伊犁卡斯登盤菌,伊犁卡斯登盘菌",
   "Karstenia rhopaloides,花狀卡斯登盤菌,花状卡斯登盘菌",
   "Kobayasia nipponica,日本小林氏菌,日本小林氏菌",
   "Korfiella karnika,耳形科爾夫盤菌,耳形科尔夫盘菌",
@@ -3161,6 +3163,7 @@
   "Spinellus fusiger,紡錘孢傘菌黴,纺锤孢伞菌霉",
   "Sporodiniella umbellata,繖形小孢黴,繖形小孢霉",
   "Sporophagomyces chrysostomus,金口嗜孢菌,金口嗜孢菌",
+  "Squamanita umbonata,臍凸菌癭傘(複合群),脐凸菌瘿伞(复合群)",
   "Stagonospora sacchari,甘蔗葉燒病,甘蔗叶烧病",
   "Steccherinum ciliolatum,闊纖毛齒耳菌,阔纤毛齿耳菌",
   "Steccherinum fimbriatum,毛緣齒耳菌,毛缘齿耳菌",

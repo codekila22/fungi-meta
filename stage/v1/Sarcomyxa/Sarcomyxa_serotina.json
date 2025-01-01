@@ -17,6 +17,14 @@
  "url": "8629366330507055",
  "images": [
   {
+   "author": "陳麗紅",
+   "image_src": "Sarcomyxa_serotina_da1d6260-bb3e-11ef-bfbd-9bdfdf70113a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcomyxa_serotina_da1d6260-bb3e-11ef-bfbd-9bdfdf70113a_1.jpg"
+  },
+  {
    "author": "蔡古媧",
    "image_src": "Sarcomyxa_serotina_2658e380-b995-11ef-9160-05ac66d8fe7a_1.jpg"
   },
@@ -54,14 +62,6 @@
   },
   {
    "author": "陳麗紅",
-   "image_src": "Sarcomyxa_serotina_da1d6260-bb3e-11ef-bfbd-9bdfdf70113a_1.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Sarcomyxa_serotina_da1d6260-bb3e-11ef-bfbd-9bdfdf70113a_2.jpg"
-  },
-  {
-   "author": "陳麗紅",
    "image_src": "Sarcomyxa_serotina_da1d6260-bb3e-11ef-bfbd-9bdfdf70113a_3.jpg"
   },
   {
@@ -95,27 +95,27 @@
   "冬季扇菇"
  ],
  "meta": {
-  "CapColors": "4286141768,4286578816,4294967295",
-  "CapDiamRangeValues": "",
+  "CapColors": "4286141768,4283788079,4286578816",
+  "CapDiamRangeValues": "20,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
   "HymeniumType": "",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
-  "HymeniumGillArrangement": "",
-  "HymeniumGillAttachment": "",
+  "HymeniumGillArrangement": "close",
+  "HymeniumGillAttachment": "adnate",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
-  "StalkAttachment": "",
-  "StalkColors": "",
+  "StalkAttachment": "lateral",
+  "StalkColors": "4294944000,4294956800",
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,10",
+  "StalkLengthRangeValuess": "5,20",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "winter",
@@ -127,7 +127,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "晚秋之後才會出現的物種，可生長在針葉或闊葉木上。\n牡蠣形或扇形的菌蓋顏色變化多端，一般為橄欖綠色、帶有紫羅蘭與橙棕色調，側生的短菌柄(如果有的話)相對肥碩，為亮眼的橙黃色。老熟個體菌蓋與菌柄會轉成棕色。\n雖然許多地方記錄為可食用，但一般不推薦。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -138,5 +138,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249504353/thumb.jpg"
   }
  ],
- "timestamp": "20241229-180955"
+ "timestamp": "20250101-164614"
 }

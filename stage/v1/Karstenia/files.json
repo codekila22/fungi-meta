@@ -2,8 +2,14 @@
  "name": "Karstenia",
  "zhtw": "卡斯登盤菌屬",
  "zhcn": "卡斯登盘菌属",
- "timestamp": "20241229-180955",
+ "timestamp": "20250101-164614",
  "list": [
+  {
+   "name": "Karstenia idaei",
+   "zhtw": "伊犁卡斯登盤菌",
+   "zhcn": "伊犁卡斯登盘菌",
+   "img": "Karstenia_idaei_3fd8bcf0-c812-11ef-b5bd-d5afcde592a5_1.jpg"
+  },
   {
    "name": "Karstenia rhopaloides",
    "zhtw": "花狀卡斯登盤菌",
