@@ -2,7 +2,8 @@
  "genus": "Gloiocephala",
  "name": "epiphylla",
  "date": [
-  "02/29/2024,7043343635776007"
+  "02/29/2024,7043343635776007",
+  "01/03/2024,8782889375154749"
  ],
  "names_zhtw": [
   "葉生黏蓋傘"
@@ -53,6 +54,58 @@
   {
    "author": "陳麗紅",
    "image_src": "Gloiocephala_epiphylla_ebdde510-e8d5-11ee-8bad-93219a0c846f_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_12.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloiocephala_epiphylla_c3d55080-c8fe-11ef-91d6-0d15714cad9a_13.jpg"
   }
  ],
  "names_zhcn": [
@@ -101,5 +154,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110875253/thumb.jpeg"
   }
  ],
- "timestamp": "20250102-155622"
+ "timestamp": "20250104-182635"
 }

@@ -2,6 +2,7 @@
  "genus": "Chondrostereum",
  "name": "purpureum",
  "date": [
+  "01/03/2025,8789424674501219",
   "08/19/2024,7881914808585548",
   "01/28/2024,6909978012445904",
   "09/26/2023,6447500435360333",
@@ -126,6 +127,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Chondrostereum_purpureum_ea290bf0-62a1-11ef-a1a5-6d2fc1be8327_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chondrostereum_purpureum_aa328be0-c9ce-11ef-a85f-dd2d8893d43d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chondrostereum_purpureum_aa328be0-c9ce-11ef-a85f-dd2d8893d43d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chondrostereum_purpureum_aa328be0-c9ce-11ef-a85f-dd2d8893d43d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chondrostereum_purpureum_aa328be0-c9ce-11ef-a85f-dd2d8893d43d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chondrostereum_purpureum_aa328be0-c9ce-11ef-a85f-dd2d8893d43d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chondrostereum_purpureum_aa328be0-c9ce-11ef-a85f-dd2d8893d43d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chondrostereum_purpureum_aa328be0-c9ce-11ef-a85f-dd2d8893d43d_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chondrostereum_purpureum_aa328be0-c9ce-11ef-a85f-dd2d8893d43d_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chondrostereum_purpureum_aa328be0-c9ce-11ef-a85f-dd2d8893d43d_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -174,5 +211,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/388071/thumb.jpg"
   }
  ],
- "timestamp": "20250102-155622"
+ "timestamp": "20250104-182635"
 }
