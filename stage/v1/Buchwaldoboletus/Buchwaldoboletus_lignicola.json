@@ -2,7 +2,8 @@
  "genus": "Buchwaldoboletus",
  "name": "lignicola",
  "date": [
-  "11/18/2024,8549496578494031"
+  "11/18/2024,8549496578494031",
+  "07/02/2024,7604867919623573"
  ],
  "names_zhtw": [
   "木生腐生牛肝菌"
@@ -35,6 +36,62 @@
   {
    "author": "陳麗紅",
    "image_src": "Buchwaldoboletus_lignicola_f80a98a0-a8ac-11ef-9695-4155109e457e_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Buchwaldoboletus_lignicola_3dfa98f0-cb45-11ef-abee-cd2091362276_14.jpg"
   }
  ],
  "names_zhcn": [
@@ -73,7 +130,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "極少數生長在腐木上的一種牛肝菌。",
+  "Note": "極少數生長在腐木上的一種牛肝菌，，根據文獻，這種牛肝其實是寄生於栗褐暗孔菌(Phaeolus schweinitzii)之上。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -84,5 +141,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/325756691/thumb.jpg"
   }
  ],
- "timestamp": "20250104-182635"
+ "timestamp": "20250105-202705"
 }

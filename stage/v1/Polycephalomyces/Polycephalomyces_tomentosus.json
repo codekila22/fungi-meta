@@ -2,6 +2,7 @@
  "genus": "Polycephalomyces",
  "name": "tomentosus",
  "date": [
+  "01/04/2025,8794952283948458",
   "04/28/2024,7282527358524299",
   "11/30/2022,5474940872616299",
   "06/13/2022,4981905145253210",
@@ -106,6 +107,26 @@
   {
    "author": "姜淋友",
    "image_src": "Polycephalomyces_tomentosus_b101f450-05cb-11ef-aa7e-4dc5b278dff6_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Polycephalomyces_tomentosus_c3fce3e0-cafa-11ef-8c79-2173759b33b6_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Polycephalomyces_tomentosus_c3fce3e0-cafa-11ef-8c79-2173759b33b6_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Polycephalomyces_tomentosus_c3fce3e0-cafa-11ef-8c79-2173759b33b6_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Polycephalomyces_tomentosus_c3fce3e0-cafa-11ef-8c79-2173759b33b6_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Polycephalomyces_tomentosus_c3fce3e0-cafa-11ef-8c79-2173759b33b6_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -153,5 +174,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/116918264/thumb.jpg"
   }
  ],
- "timestamp": "20250104-182635"
+ "timestamp": "20250105-202705"
 }

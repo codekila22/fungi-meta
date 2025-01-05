@@ -2,7 +2,7 @@
  "name": "Resupinatus",
  "zhtw": "伏褶菌屬",
  "zhcn": "伏褶菌属",
- "timestamp": "20250104-182635",
+ "timestamp": "20250105-202705",
  "list": [
   {
    "name": "Resupinatus aff. trichotis",
@@ -33,6 +33,12 @@
    "zhtw": "雅緻伏褶菌(暫名)",
    "zhcn": "雅致伏褶菌(暂名)",
    "img": "Resupinatus_sp.1_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Resupinatus striatulus",
+   "zhtw": "條紋伏褶菌",
+   "zhcn": "条纹伏褶菌",
+   "img": "Resupinatus_striatulus_3ba2ccb0-ca89-11ef-97c4-9ff99f823483_1.jpg"
   },
   {
    "name": "Resupinatus trichotis",
