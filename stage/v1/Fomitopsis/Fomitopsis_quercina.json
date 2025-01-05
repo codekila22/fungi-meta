@@ -139,5 +139,19 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250105-204010"
+ "inaturalist": [
+  {
+   "name": "Fomitopsis quercina",
+   "cname": "Oak Mazegill",
+   "url": "https://www.inaturalist.org/taxa/1537095-Fomitopsis-quercina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7068452/thumb.jpeg"
+  },
+  {
+   "name": "Fomitopsis quercina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1536892-Fomitopsis-quercina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10084/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250105-205003"
 }
