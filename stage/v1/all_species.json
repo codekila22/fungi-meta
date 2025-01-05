@@ -1,5 +1,5 @@
 {
- "timestamp": "20250105-202705",
+ "timestamp": "20250105-204010",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -185,7 +185,7 @@
    "Annulohypoxylon,環紋炭團菌屬,环纹炭团菌属",
    "Apiospora,端隔孢殼菌屬,端隔孢壳菌属",
    "Arthrinium,色孢子節菱孢菌屬,色孢子节菱孢菌属",
-   "Astrocystis,星狀炭豆菌屬,星状炭豆菌属",
+   "Astrocystis,星囊炭角菌屬,星囊炭角菌属",
    "Astrosphaeriella,星裂球腔菌屬,星裂球腔菌属",
    "Bertia,葚座菌屬,葚座菌属",
    "Bionectria,生赤殼屬,生赤壳属",
@@ -1167,7 +1167,7 @@
   "Asterophora lycoperdoides,星孢寄生菇,星孢寄生菇",
   "Astraeus hygrometricus,溼度計硬皮地星,湿度计硬皮地星",
   "Astrocystis bambusae,竹星囊炭角菌,竹星囊炭角菌",
-  "Astrocystis mirabilis,非凡星裂球腔菌,非凡星裂球腔菌",
+  "Astrocystis mirabilis,非凡星囊炭角菌,非凡星囊炭角菌",
   "Astrosphaeriella stellata,放射星裂球腔菌,放射星裂球腔菌",
   "Astrothelium puiggarii,普氏果衣,普氏果衣",
   "Astrothelium variolosum,瘤星果衣,瘤星果衣",
@@ -1843,6 +1843,7 @@
   "Fomitiporia punctata,斑孔嗜藍孢孔菌,斑孔嗜蓝孢孔菌",
   "Fomitopsis officinalis,藥用擬層孔菌,药用拟层孔菌",
   "Fomitopsis pinicola,松生擬層孔菌,松生拟层孔菌",
+  "Fomitopsis quercina,櫟擬層孔菌,栎拟层孔菌",
   "Fomitopsis rhodophaea,紅褐擬層孔菌,红褐拟层孔菌",
   "Fomitopsis vinosa,葡酒色擬層孔菌,葡酒色拟层孔菌",
   "Fuligo aurea,金黃煤絨黏菌,金黄煤绒黏菌",
