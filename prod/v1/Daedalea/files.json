@@ -2,7 +2,7 @@
  "name": "Daedalea",
  "zhtw": "迷孔菌屬",
  "zhcn": "迷孔菌属",
- "timestamp": "20241229-180955",
+ "timestamp": "20250105-205003",
  "list": [
   {
    "name": "Daedalea dickinsii",
@@ -23,6 +23,9 @@
    "name": "Daedalea quercina",
    "zhtw": "櫟迷孔菌",
    "zhcn": "栎迷孔菌",
+   "current": "Fomitopsis quercina",
+   "current_zhtw": "櫟擬層孔菌",
+   "current_zhcn": "栎拟层孔菌",
    "img": "Daedalea_quercina_c7dd8850-d9d1-11ed-9dd6-2fab0bc16d81_1.jpg"
   }
  ]

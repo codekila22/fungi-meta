@@ -2,7 +2,7 @@
  "name": "Fomitopsis",
  "zhtw": "擬層孔菌屬",
  "zhcn": "拟层孔菌属",
- "timestamp": "20241229-180955",
+ "timestamp": "20250105-205003",
  "list": [
   {
    "name": "Fomitopsis officinalis",
@@ -15,6 +15,12 @@
    "zhtw": "松生擬層孔菌",
    "zhcn": "松生拟层孔菌",
    "img": "Fomitopsis_pinicola_6c300e70-f834-11ed-afcf-09a81d7cf435_1.jpg"
+  },
+  {
+   "name": "Fomitopsis quercina",
+   "zhtw": "櫟擬層孔菌",
+   "zhcn": "栎拟层孔菌",
+   "img": "Daedalea_quercina_c7dd8850-d9d1-11ed-9dd6-2fab0bc16d81_1.jpg"
   },
   {
    "name": "Fomitopsis rhodophaea",

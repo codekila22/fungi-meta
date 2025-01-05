@@ -2,6 +2,7 @@
  "genus": "Stereum",
  "name": "gausapatum",
  "date": [
+  "01/05/2025,8799284760181877",
   "06/25/2024,7558134877630211",
   "02/11/2024,6967326503377721",
   "01/26/2024,6925372484239790",
@@ -15,6 +16,14 @@
  "names_en": [],
  "url": "3480722745371465",
  "images": [
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_cb28dbe0-3344-11ef-a9e1-2d5e1411ddd0_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_cb28dbe0-3344-11ef-a9e1-2d5e1411ddd0_3.jpg"
+  },
   {
    "author": "",
    "image_src": "Stereum_hirsutum_1_CC BY-NC.jpg"
@@ -89,15 +98,7 @@
   },
   {
    "author": "吳湯姆",
-   "image_src": "Stereum_gausapatum_cb28dbe0-3344-11ef-a9e1-2d5e1411ddd0_1.jpg"
-  },
-  {
-   "author": "吳湯姆",
    "image_src": "Stereum_gausapatum_cb28dbe0-3344-11ef-a9e1-2d5e1411ddd0_2.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Stereum_gausapatum_cb28dbe0-3344-11ef-a9e1-2d5e1411ddd0_3.jpg"
   },
   {
    "author": "吳湯姆",
@@ -110,6 +111,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Stereum_gausapatum_cb28dbe0-3344-11ef-a9e1-2d5e1411ddd0_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Stereum_gausapatum_f1c80480-cb59-11ef-abee-cd2091362276_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Stereum_gausapatum_f1c80480-cb59-11ef-abee-cd2091362276_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Stereum_gausapatum_f1c80480-cb59-11ef-abee-cd2091362276_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Stereum_gausapatum_f1c80480-cb59-11ef-abee-cd2091362276_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Stereum_gausapatum_f1c80480-cb59-11ef-abee-cd2091362276_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,7 +140,7 @@
   "CapColors": "4291581184,4294940928",
   "CapDiamRangeValues": "20,60",
   "CapShape": "",
-  "CapTexture": "",
+  "CapTexture": "velvety",
   "CapMargin": "",
   "HymeniumType": "",
   "HymeniumColors": "",
@@ -137,6 +158,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -147,7 +169,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "有紅色泌液。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -158,5 +180,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5489411/thumb.jpg"
   }
  ],
- "timestamp": "20241229-180955"
+ "timestamp": "20250105-205003"
 }

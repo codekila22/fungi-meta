@@ -235,7 +235,7 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,parasitic",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -253,5 +253,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8909871/thumb.jpg"
   }
  ],
- "timestamp": "20241229-180955"
+ "timestamp": "20250105-205003"
 }

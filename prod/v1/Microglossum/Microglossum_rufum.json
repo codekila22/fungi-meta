@@ -2,8 +2,6 @@
  "genus": "Microglossum",
  "name": "rufum",
  "date": [
-  "09/02/2024,7982607078516320",
-  "07/06/2024,7625494397560925",
   "09/13/2023,6399255546851489",
   "07/07/2021,4036895663087501"
  ],
@@ -100,42 +98,6 @@
   {
    "author": "Sunny Wang",
    "image_src": "Microglossum_rufum_d74e7720-52eb-11ee-b71a-6b6dea47e576_15.jpg"
-  },
-  {
-   "author": "姜淋友",
-   "image_src": "Microglossum_rufum_3f20b3a0-e4a3-1073-9808-2f2a482983af_1.jpg"
-  },
-  {
-   "author": "姜淋友",
-   "image_src": "Microglossum_rufum_3f20b3a0-e4a3-1073-9808-2f2a482983af_2.jpg"
-  },
-  {
-   "author": "姜淋友",
-   "image_src": "Microglossum_rufum_3f20b3a0-e4a3-1073-9808-2f2a482983af_3.jpg"
-  },
-  {
-   "author": "姜淋友",
-   "image_src": "Microglossum_rufum_3f20b3a0-e4a3-1073-9808-2f2a482983af_4.jpg"
-  },
-  {
-   "author": "姜淋友",
-   "image_src": "Microglossum_rufum_3f20b3a0-e4a3-1073-9808-2f2a482983af_5.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Microglossum_rufum_954cd4b0-6c18-11ef-ac2d-9d55987c7550_1.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Microglossum_rufum_954cd4b0-6c18-11ef-ac2d-9d55987c7550_2.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Microglossum_rufum_954cd4b0-6c18-11ef-ac2d-9d55987c7550_3.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Microglossum_rufum_954cd4b0-6c18-11ef-ac2d-9d55987c7550_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -184,5 +146,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/408148/thumb.jpg"
   }
  ],
- "timestamp": "20241229-180955"
+ "timestamp": "20250105-205003"
 }

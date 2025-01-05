@@ -2,7 +2,8 @@
  "genus": "Hypoxylon",
  "name": "petriniae",
  "date": [
-  "01/01/2023"
+  "01/04/2025,8794506153993071",
+  "04/10/2021,3678819462228458"
  ],
  "names_zhtw": [
   "佩特里尼炭團菌"
@@ -57,6 +58,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Hypoxylon_petriniae_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypoxylon_petriniae_7f5d4b30-cafa-11ef-8c79-2173759b33b6_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypoxylon_petriniae_7f5d4b30-cafa-11ef-8c79-2173759b33b6_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypoxylon_petriniae_7f5d4b30-cafa-11ef-8c79-2173759b33b6_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypoxylon_petriniae_7f5d4b30-cafa-11ef-8c79-2173759b33b6_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypoxylon_petriniae_7f5d4b30-cafa-11ef-8c79-2173759b33b6_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Hypoxylon_petriniae_7f5d4b30-cafa-11ef-8c79-2173759b33b6_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -105,5 +130,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/54093652/thumb.jpeg"
   }
  ],
- "timestamp": "20241229-180955"
+ "timestamp": "20250105-205003"
 }

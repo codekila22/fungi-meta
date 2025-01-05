@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "01/02/2025,8781916665252020",
   "05/07/2024,7393003797476654",
   "03/25/2024,7136957486414621",
   "01/22/2024,6900089406768098",
@@ -146,7 +147,7 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "0,40",
   "Rareness": "",
-  "Seasons": "",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "ground",
   "Bruising": "",
@@ -165,5 +166,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157486265/thumb.jpg"
   }
  ],
- "timestamp": "20241229-180955"
+ "timestamp": "20250105-205003"
 }

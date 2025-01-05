@@ -2,13 +2,19 @@
  "name": "Fuscoporia",
  "zhtw": "褐孔菌屬",
  "zhcn": "褐孔菌属",
- "timestamp": "20241229-180955",
+ "timestamp": "20250105-205003",
  "list": [
   {
    "name": "Fuscoporia formosana",
    "zhtw": "福爾摩沙褐孔菌",
    "zhcn": "福尔摩沙褐孔菌",
    "img": "Fuscoporia_formosana_1_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "name": "Fuscoporia subferrea",
+   "zhtw": "近鐵色褐孔菌",
+   "zhcn": "近铁色褐孔菌",
+   "img": "Fuscoporia_subferrea_317d1c40-cb5b-11ef-abee-cd2091362276_1.jpg"
   },
   {
    "name": "Fuscoporia torulosa",

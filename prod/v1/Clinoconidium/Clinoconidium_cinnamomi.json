@@ -2,6 +2,7 @@
  "genus": "Clinoconidium",
  "name": "cinnamomi",
  "date": [
+  "01/02/2025,8782246508552369",
   "12/15/2024,8682350511875303",
   "12/01/2024,8602980956478926",
   "01/05/2024,6827506267359746",
@@ -14,6 +15,10 @@
  "names_en": [],
  "url": "6781831258593914",
  "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Clinoconidium_cinnamomi_f6b0e8e0-a8ff-11ee-9a8e-b9d0dae10a27_10.jpg"
+  },
   {
    "author": "陳麗紅",
    "image_src": "Clinoconidium_cinnamomi_87c3f100-a384-11ee-acc9-e5e285078021_1.jpg"
@@ -89,10 +94,6 @@
   {
    "author": "江志緯",
    "image_src": "Clinoconidium_cinnamomi_f6b0e8e0-a8ff-11ee-9a8e-b9d0dae10a27_9.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Clinoconidium_cinnamomi_f6b0e8e0-a8ff-11ee-9a8e-b9d0dae10a27_10.jpg"
   },
   {
    "author": "江志緯",
@@ -225,6 +226,18 @@
   {
    "author": "陳雅芬",
    "image_src": "Clinoconidium_cinnamomi_b2a0bd50-bacf-11ef-919f-3384609d3fc0_3.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Clinoconidium_cinnamomi_55c3e820-c900-11ef-91d6-0d15714cad9a_1.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Clinoconidium_cinnamomi_55c3e820-c900-11ef-91d6-0d15714cad9a_2.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Clinoconidium_cinnamomi_55c3e820-c900-11ef-91d6-0d15714cad9a_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -267,5 +280,5 @@
   "la_zhtw": "澤田氏斜孢菌,,",
   "la_zhcn": "泽田氏斜孢菌,,"
  },
- "timestamp": "20241229-180955"
+ "timestamp": "20250105-205003"
 }

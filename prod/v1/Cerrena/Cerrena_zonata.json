@@ -214,8 +214,8 @@
   "CapColors": "4291581184,4294944000",
   "CapDiamRangeValues": "",
   "CapShape": "patch",
-  "CapTexture": "",
-  "CapMargin": "",
+  "CapTexture": "smooth",
+  "CapMargin": "entire,crenate",
   "HymeniumType": "toothed",
   "HymeniumColors": "4294962944",
   "HymeniumSporePrints": "",
@@ -232,6 +232,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
@@ -242,7 +243,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌蓋有環紋。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -253,5 +254,5 @@
    "src": "https://static.inaturalist.org/photos/2341604/thumb.JPG"
   }
  ],
- "timestamp": "20241229-180955"
+ "timestamp": "20250105-205003"
 }
