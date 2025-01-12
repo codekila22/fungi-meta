@@ -87,5 +87,49 @@
  "names_zhcn": [
   "德氏拟射脉菌"
  ],
- "timestamp": "20250112-170754"
+ "meta": {
+  "CapColors": "4291648604,4294901760,4290547599",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "高雄柴山與印尼爪哇島拍攝。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Phlebiopsis dregeana",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1255707-Phlebiopsis-dregeana",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/138514598/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20250112-172313"
 }
