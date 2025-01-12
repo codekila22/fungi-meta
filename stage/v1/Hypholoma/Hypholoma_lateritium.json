@@ -2,6 +2,7 @@
  "genus": "Hypholoma",
  "name": "lateritium",
  "date": [
+  "01/12/2025,8835843366526016",
   "08/05/2024,8407934632650227"
  ],
  "names_zhtw": [
@@ -60,6 +61,34 @@
   {
    "author": "",
    "image_src": "Hypholoma_lateritium_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypholoma_lateritium_e7fe26f0-d0d1-11ef-93cf-efa8f292f366_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypholoma_lateritium_e7fe26f0-d0d1-11ef-93cf-efa8f292f366_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypholoma_lateritium_e7fe26f0-d0d1-11ef-93cf-efa8f292f366_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypholoma_lateritium_e7fe26f0-d0d1-11ef-93cf-efa8f292f366_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypholoma_lateritium_e7fe26f0-d0d1-11ef-93cf-efa8f292f366_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypholoma_lateritium_e7fe26f0-d0d1-11ef-93cf-efa8f292f366_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypholoma_lateritium_e7fe26f0-d0d1-11ef-93cf-efa8f292f366_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -109,5 +138,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13072342/thumb.jpeg"
   }
  ],
- "timestamp": "20250112-174255"
+ "timestamp": "20250112-224414"
 }
