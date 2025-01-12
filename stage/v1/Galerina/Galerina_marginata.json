@@ -2,6 +2,7 @@
  "genus": "Galerina",
  "name": "marginata",
  "date": [
+  "01/09/2025,8825010844275935",
   "12/23/2024,8733650946745259",
   "02/10/2024,6977086975735007",
   "02/05/2024,6970901189686919",
@@ -198,6 +199,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Galerina_marginata_02a24140-c1a4-11ef-9915-6110c3abe712_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_marginata_df77aaa0-d0be-11ef-94dc-61cf3cd0aee9_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_marginata_df77aaa0-d0be-11ef-94dc-61cf3cd0aee9_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_marginata_df77aaa0-d0be-11ef-94dc-61cf3cd0aee9_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_marginata_df77aaa0-d0be-11ef-94dc-61cf3cd0aee9_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_marginata_df77aaa0-d0be-11ef-94dc-61cf3cd0aee9_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_marginata_df77aaa0-d0be-11ef-94dc-61cf3cd0aee9_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_marginata_df77aaa0-d0be-11ef-94dc-61cf3cd0aee9_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_marginata_df77aaa0-d0be-11ef-94dc-61cf3cd0aee9_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_marginata_df77aaa0-d0be-11ef-94dc-61cf3cd0aee9_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -236,7 +273,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "此物種有致命劇毒。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -247,5 +284,5 @@
    "src": "https://static.inaturalist.org/photos/188934/thumb.jpg"
   }
  ],
- "timestamp": "20250112-133511"
+ "timestamp": "20250112-170754"
 }

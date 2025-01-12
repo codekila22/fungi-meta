@@ -2,13 +2,19 @@
  "name": "Phlebiopsis",
  "zhtw": "擬射脈菌屬",
  "zhcn": "拟射脉菌属",
- "timestamp": "20250112-133511",
+ "timestamp": "20250112-170754",
  "list": [
   {
    "name": "Phlebiopsis castanea",
    "zhtw": "栗褐擬射脈菌",
    "zhcn": "栗褐拟射脉菌",
    "img": "Cystidiophorus_castaneus_2_CC BY-NC.jpg"
+  },
+  {
+   "name": "Phlebiopsis dregeana",
+   "zhtw": "德氏擬射脈菌",
+   "zhcn": "德氏拟射脉菌",
+   "img": "Phlebiopsis_dregeana_a92bd670-d0c2-11ef-94dc-61cf3cd0aee9_1.jpg"
   }
  ]
 }

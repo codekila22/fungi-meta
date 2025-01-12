@@ -2,6 +2,7 @@
  "genus": "Stereum",
  "name": "gausapatum",
  "date": [
+  "01/12/2025,8835066536603699",
   "01/05/2025,8799284760181877",
   "06/25/2024,7558134877630211",
   "02/11/2024,6967326503377721",
@@ -131,6 +132,26 @@
   {
    "author": "徐秀團",
    "image_src": "Stereum_gausapatum_f1c80480-cb59-11ef-abee-cd2091362276_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Stereum_gausapatum_db60a980-d0c3-11ef-94dc-61cf3cd0aee9_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Stereum_gausapatum_db60a980-d0c3-11ef-94dc-61cf3cd0aee9_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Stereum_gausapatum_db60a980-d0c3-11ef-94dc-61cf3cd0aee9_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Stereum_gausapatum_db60a980-d0c3-11ef-94dc-61cf3cd0aee9_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Stereum_gausapatum_db60a980-d0c3-11ef-94dc-61cf3cd0aee9_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -180,5 +201,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5489411/thumb.jpg"
   }
  ],
- "timestamp": "20250112-133511"
+ "timestamp": "20250112-170754"
 }
