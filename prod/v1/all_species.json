@@ -1,5 +1,5 @@
 {
- "timestamp": "20250105-205003",
+ "timestamp": "20250112-224414",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -255,6 +255,7 @@
    "Taiwanofungus,台芝屬,台芝属",
    "Terana,伏革菌屬,伏革菌属",
    "Thelephora,革菌屬,革菌属",
+   "Togninia,帶形殼菌屬,带形壳菌属",
    "Vamsapriya,竹生愛孢屬,竹生爱孢属",
    "Vararia,絲革菌屬,丝革菌属",
    "Vladracula,槭環形盤菌屬,槭环形盘菌属",
@@ -2755,6 +2756,7 @@
   "Phlebia tremellosus,膠質射脈菌,胶质射脉菌",
   "Phlebiella vaga,迷走擬射脈菌,迷走拟射脉菌",
   "Phlebiopsis castanea,栗褐擬射脈菌,栗褐拟射脉菌",
+  "Phlebiopsis dregeana,德氏擬射脈菌,德氏拟射脉菌",
   "Phlebopus marginatus,黑脈柄牛肝菌,黑脉柄牛肝菌",
   "Phleogena faginea,仙錘耳,仙锤耳",
   "Pholiota aurivella,金毛鱗傘,金毛鳞伞",
@@ -2769,6 +2771,7 @@
   "Phycomyces blakesleeanus,布拉克鬍鬚黴,布拉克胡须霉",
   "Phycomyces nitens,閃光鬍鬚黴,闪光胡须霉",
   "Phyllachora miscanthi,芒黑痣菌,芒黑痣菌",
+  "Phyllachora pazschkeana,棕葉狗尾草黑痣菌,棕叶狗尾草黑痣菌",
   "Phyllachora repens,菩提樹黑痣菌,菩提树黑痣菌",
   "Phyllachora shiraiana,白井氏黑痣菌,白井氏黑痣菌",
   "Phylloporia homocarnica,同質葉孔菌,同质叶孔菌",
@@ -3268,6 +3271,7 @@
   "Thelephora terrestris,陸地革菌,陆地革菌",
   "Thelephora vialis,蓮座革菌,莲座革菌",
   "Tilachlidium brachiatum,分枝多頭束黴,分枝多头束霉",
+  "Togninia aff. minima,微小帶形殼菌的相似種,微小带形壳菌的相似种",
   "Tolypocladium longisegmentum,長節彎頸黴,长节弯颈霉",
   "Tolypocladium ophioglossoides,蛇舌彎頸黴,蛇舌弯颈霉",
   "Tomophagus colossus,鬆芝,松芝",

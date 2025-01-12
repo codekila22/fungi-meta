@@ -2,13 +2,19 @@
  "name": "Phyllachora",
  "zhtw": "黑痣菌屬",
  "zhcn": "黑痣菌属",
- "timestamp": "20250105-205003",
+ "timestamp": "20250112-224414",
  "list": [
   {
    "name": "Phyllachora miscanthi",
    "zhtw": "芒黑痣菌",
    "zhcn": "芒黑痣菌",
    "img": "Phyllachora_miscanthi_d1f45740-c29d-11ef-a9c1-6f89ab6b51f7_1.jpg"
+  },
+  {
+   "name": "Phyllachora pazschkeana",
+   "zhtw": "棕葉狗尾草黑痣菌",
+   "zhcn": "棕叶狗尾草黑痣菌",
+   "img": "Phyllachora_pazschkeana_9494e960-d0c0-11ef-94dc-61cf3cd0aee9_1.jpg"
   },
   {
    "name": "Phyllachora repens",
