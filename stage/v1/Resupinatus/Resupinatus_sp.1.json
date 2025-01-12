@@ -2,6 +2,7 @@
  "genus": "Resupinatus",
  "name": "sp.1",
  "date": [
+  "01/12/2025,8835162679927418",
   "03/07/2024,7068400013270369",
   "12/24/2023,7101845693259134",
   "01/10/2021,3428615440582196",
@@ -96,6 +97,22 @@
   {
    "author": "江志緯",
    "image_src": "Resupinatus_sp.1_b1538ff0-e8f1-11ee-98cc-31617b2c001b_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Resupinatus_sp.1_4d42afa0-d0c7-11ef-86bc-29b7446fb32a_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Resupinatus_sp.1_4d42afa0-d0c7-11ef-86bc-29b7446fb32a_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Resupinatus_sp.1_4d42afa0-d0c7-11ef-86bc-29b7446fb32a_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Resupinatus_sp.1_4d42afa0-d0c7-11ef-86bc-29b7446fb32a_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -137,5 +154,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250112-172313"
+ "timestamp": "20250112-174255"
 }
