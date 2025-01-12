@@ -2,6 +2,7 @@
  "genus": "Pholiota",
  "name": "aurivella",
  "date": [
+  "12/24/2024,8813821538728199",
   "12/21/2024,8716525495124471",
   "10/15/2024,8328458133931211",
   "05/19/2024,7389319124511788",
@@ -343,6 +344,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Pholiota_aurivella_92d01ca0-8e8d-11ef-9fb7-7d7ad9ad9d2e_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pholiota_aurivella_70212e40-cd82-11ef-9afc-398209d0d0bd_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pholiota_aurivella_70212e40-cd82-11ef-9afc-398209d0d0bd_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pholiota_aurivella_70212e40-cd82-11ef-9afc-398209d0d0bd_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pholiota_aurivella_70212e40-cd82-11ef-9afc-398209d0d0bd_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pholiota_aurivella_70212e40-cd82-11ef-9afc-398209d0d0bd_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pholiota_aurivella_70212e40-cd82-11ef-9afc-398209d0d0bd_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pholiota_aurivella_70212e40-cd82-11ef-9afc-398209d0d0bd_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pholiota_aurivella_70212e40-cd82-11ef-9afc-398209d0d0bd_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pholiota_aurivella_70212e40-cd82-11ef-9afc-398209d0d0bd_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -370,6 +407,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "autumn,winter",
   "GrowthType": "scattered,grouped",
@@ -380,7 +418,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "大多資料顯示此物種可以食用，但有些資料提到可能會引起腸胃不適，請謹慎考慮。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -415,5 +453,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250105-205003"
+ "timestamp": "20250112-133511"
 }

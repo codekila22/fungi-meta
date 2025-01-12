@@ -2,6 +2,7 @@
  "genus": "Calostoma",
  "name": "cinnabarinum",
  "date": [
+  "01/09/2025,8821152521328434",
   "06/21/2024,7537233909720308",
   "11/15/2023,6639453156165059",
   "10/26/2023,6563784433731932",
@@ -220,6 +221,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Calostoma_cinnabarinum_0d1ab510-a414-11ef-8e11-3767f52e32e4_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_cinnabarinum_54171ef0-d005-11ef-8d8d-f9938bb2f13f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_cinnabarinum_54171ef0-d005-11ef-8d8d-f9938bb2f13f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_cinnabarinum_54171ef0-d005-11ef-8d8d-f9938bb2f13f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_cinnabarinum_54171ef0-d005-11ef-8d8d-f9938bb2f13f_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -268,5 +285,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22150950/thumb.jpg"
   }
  ],
- "timestamp": "20250105-205003"
+ "timestamp": "20250112-133511"
 }
