@@ -2,7 +2,7 @@
  "name": "Baeomyces",
  "zhtw": "羊角衣屬",
  "zhcn": "羊角衣属",
- "timestamp": "20250112-224414",
+ "timestamp": "20250121-184424",
  "list": [
   {
    "name": "Baeomyces absolutus",
@@ -42,6 +42,12 @@
    "zhtw": "肉紅羊角衣",
    "zhcn": "肉红羊角衣",
    "img": "Baeomyces_rufus_8e957b80-0450-11ee-b625-712427f41898_1.jpg"
+  },
+  {
+   "name": "Baeomyces sanguineus",
+   "zhtw": "血紅羊角衣",
+   "zhcn": "血红羊角衣",
+   "img": "Baeomyces_sanguineus_fb2c44d0-d72c-11ef-9839-fb1f83d2c836_1.jpg"
   }
  ]
 }

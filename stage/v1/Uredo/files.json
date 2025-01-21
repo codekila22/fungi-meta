@@ -2,8 +2,14 @@
  "name": "Uredo",
  "zhtw": "夏孢銹菌屬",
  "zhcn": "夏孢锈菌属",
- "timestamp": "20250112-224414",
+ "timestamp": "20250121-184424",
  "list": [
+  {
+   "name": "Uredo leucaenae-glaucae",
+   "zhtw": "銀合歡夏孢銹菌",
+   "zhcn": "银合欢夏孢锈菌",
+   "img": "Uredo_leucaenae-glaucae_e25e88b0-d726-11ef-9839-fb1f83d2c836_1.jpg"
+  },
   {
    "name": "Uredo rangelii",
    "zhtw": "桃金孃銹菌",

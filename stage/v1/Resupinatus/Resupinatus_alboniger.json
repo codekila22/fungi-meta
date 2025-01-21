@@ -2,6 +2,7 @@
  "genus": "Resupinatus",
  "name": "alboniger",
  "date": [
+  "01/13/2025,8846810412095978",
   "01/20/2024,6942434582533580",
   "01/02/2023,5562112787232440"
  ],
@@ -98,6 +99,18 @@
   {
    "author": "Sunny Wang",
    "image_src": "Resupinatus_alboniger_280a5e90-c475-11ee-a41f-174f8a33a124_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Resupinatus_alboniger_72c2e130-d704-11ef-8095-91da9e70533d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Resupinatus_alboniger_72c2e130-d704-11ef-8095-91da9e70533d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Resupinatus_alboniger_72c2e130-d704-11ef-8095-91da9e70533d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -147,5 +160,5 @@
    "src": "https://static.inaturalist.org/photos/42654162/thumb.jpeg"
   }
  ],
- "timestamp": "20250112-224414"
+ "timestamp": "20250121-184424"
 }
