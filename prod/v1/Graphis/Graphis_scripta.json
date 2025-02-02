@@ -2,14 +2,38 @@
  "genus": "Graphis",
  "name": "scripta",
  "date": [
-  "01/01/0001"
+  "01/23/2025,8898233863620299"
  ],
  "names_zhtw": [
   "稿繪文字衣"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/774",
+ "url": "8898233863620299",
  "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphis_scripta_769f69e0-dafb-11ef-b1c1-5b65a6323fae_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphis_scripta_769f69e0-dafb-11ef-b1c1-5b65a6323fae_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphis_scripta_769f69e0-dafb-11ef-b1c1-5b65a6323fae_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphis_scripta_769f69e0-dafb-11ef-b1c1-5b65a6323fae_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphis_scripta_769f69e0-dafb-11ef-b1c1-5b65a6323fae_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphis_scripta_769f69e0-dafb-11ef-b1c1-5b65a6323fae_6.jpg"
+  },
   {
    "author": "",
    "image_src": "Graphis_scripta_1_CC BY-NC.jpg"
@@ -118,5 +142,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250121-185439"
+ "timestamp": "20250202-170640"
 }

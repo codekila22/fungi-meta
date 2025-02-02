@@ -2,7 +2,7 @@
  "name": "Arcyria",
  "zhtw": "團網黏菌屬",
  "zhcn": "团网黏菌属",
- "timestamp": "20250121-185439",
+ "timestamp": "20250202-170640",
  "list": [
   {
    "name": "Arcyria cf. globosa",
@@ -26,6 +26,9 @@
    "name": "Arcyria ferruginea",
    "zhtw": "鏽色團網黏菌",
    "zhcn": "锈色团网黏菌",
+   "current": "Heterotrichia ferruginea",
+   "current_zhtw": "鏽色異毛黏菌",
+   "current_zhcn": "锈色异毛黏菌",
    "img": "Arcyria_ferruginea_1_CC BY-NC_向高世.jpg"
   },
   {
@@ -44,6 +47,9 @@
    "name": "Arcyria insignis",
    "zhtw": "鮮紅團網黏菌",
    "zhcn": "鲜红团网黏菌",
+   "current": "Heterotrichia insignis",
+   "current_zhtw": "鮮紅異毛黏菌",
+   "current_zhcn": "鲜红异毛黏菌",
    "img": "Arcyria_insignis_015aea40-1b4a-11ef-9336-850d424cc1e8_1.jpg"
   },
   {
@@ -62,18 +68,27 @@
    "name": "Arcyria obvelata",
    "zhtw": "黃垂團網黏菌",
    "zhcn": "黄垂团网黏菌",
+   "current": "Heterotrichia obvelata",
+   "current_zhtw": "黃垂異毛黏菌",
+   "current_zhcn": "黄垂异毛黏菌",
    "img": "Arcyria_obvelata_97d8ec30-08b6-11ee-8a17-b34f0ffcb80e_4.jpg"
   },
   {
    "name": "Arcyria oerstedii",
    "zhtw": "奧氏團網黏菌",
    "zhcn": "奥氏团网黏菌",
+   "current": "Heterotrichia oerstedii",
+   "current_zhtw": "奧氏異毛黏菌",
+   "current_zhcn": "奥氏异毛黏菌",
    "img": "Arcyria_oerstedii_1_CC BY-NC_胡家銘.jpg"
   },
   {
    "name": "Arcyria pomiformis",
    "zhtw": "果形團網黏菌",
    "zhcn": "果形团网黏菌",
+   "current": "Heterotrichia pomiformis",
+   "current_zhtw": "果形異毛黏菌",
+   "current_zhcn": "果形异毛黏菌",
    "img": "Arcyria_pomiformis_1_CC BY-NC_陳雅芬.jpg"
   }
  ]

@@ -2,6 +2,7 @@
  "genus": "Dictyonema",
  "name": "sericeum",
  "date": [
+  "01/25/2025,8917295495047469",
   "10/15/2023,6831379270305779",
   "07/29/2023,6255265561250489",
   "01/31/2022,4611184115658650"
@@ -71,6 +72,22 @@
   {
    "author": "姚碧玲",
    "image_src": "Dictyonema_sericeum_7ba17cd0-ae33-11ee-8f8a-35a435e225f6_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dictyonema_sericeum_ecc577d0-dcaa-11ef-afb9-f93921bc6952_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dictyonema_sericeum_ecc577d0-dcaa-11ef-afb9-f93921bc6952_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dictyonema_sericeum_ecc577d0-dcaa-11ef-afb9-f93921bc6952_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dictyonema_sericeum_ecc577d0-dcaa-11ef-afb9-f93921bc6952_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,5 +136,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/150791810/thumb.jpg"
   }
  ],
- "timestamp": "20250121-185439"
+ "timestamp": "20250202-170640"
 }

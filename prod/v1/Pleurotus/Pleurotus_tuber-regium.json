@@ -2,6 +2,7 @@
  "genus": "Pleurotus",
  "name": "tuber-regium",
  "date": [
+  "01/23/2025,8898419990268353",
   "11/11/2023,6649257145184660",
   "11/06/2023,6604316956345346",
   "11/23/2022,5439047472872306",
@@ -102,6 +103,26 @@
   {
    "author": "江志緯",
    "image_src": "Pleurotus_tuber-regium_c59539c0-85da-11ee-b359-d3ec6f1067f9_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_tuber-regium_169ea330-e13b-11ef-ab36-2b133d3d3ca2_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_tuber-regium_169ea330-e13b-11ef-ab36-2b133d3d3ca2_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_tuber-regium_169ea330-e13b-11ef-ab36-2b133d3d3ca2_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_tuber-regium_169ea330-e13b-11ef-ab36-2b133d3d3ca2_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_tuber-regium_169ea330-e13b-11ef-ab36-2b133d3d3ca2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -151,5 +172,5 @@
    "src": "https://static.inaturalist.org/photos/15398536/thumb.jpg"
   }
  ],
- "timestamp": "20250121-185439"
+ "timestamp": "20250202-170640"
 }
