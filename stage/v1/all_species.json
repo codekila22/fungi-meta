@@ -1,5 +1,5 @@
 {
- "timestamp": "20250121-185439",
+ "timestamp": "20250202-120715",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -763,6 +763,7 @@
    "Pilobolus,水玉黴屬,水玉霉属",
    "Polycephalomyces,多頭黴屬,多头霉属",
    "Rhizopus,根黴屬,根霉属",
+   "Sordaria,糞殼菌屬,粪壳菌属",
    "Spinellus,傘菌黴屬,伞菌霉属",
    "Sporodiniella,小孢黴屬,小孢霉属",
    "Stromatographium,狀黴屬,状霉属",
@@ -955,7 +956,8 @@
    "Trypethelium,乳嘴衣屬,乳嘴衣属",
    "Tuckneraria,緣毛腎島衣屬,缘毛肾岛衣属",
    "Umbilicaria,石耳屬,石耳属",
-   "Usnea,松蘿屬,松萝属"
+   "Usnea,松蘿屬,松萝属",
+   "Xanthoria,石黃衣屬,石黄衣属"
   ],
   "chanterelles": [
    "Cantharellus,雞油菌屬,鸡油菌属",
@@ -3158,6 +3160,7 @@
   "Skeletocutis carneogrisea,肉灰色骨皮菌,肉灰色骨皮菌",
   "Solorina saccata,凹散盤衣,凹散盘衣",
   "Solorina simensis,散盤衣,散盘衣",
+  "Sordaria fimicola,糞殼菌,粪壳菌",
   "Sparassis brevipes,短柄繡球菌,短柄绣球菌",
   "Sparassis crispa,繡球菌,绣球菌",
   "Sparassis cystidiosa,囊狀體繡球菌,囊状体绣球菌",
@@ -3436,6 +3439,7 @@
   "Xanthagaricus pakistanicus,巴基斯坦黃蘑菇,巴基斯坦黄蘑菇",
   "Xanthoconium affine,褐金孢牛肝菌,褐金孢牛肝菌",
   "Xanthoconium separans,裂管孢牛肝菌,裂管孢牛肝菌",
+  "Xanthoria ulophyllodes,漫粉黃衣(暫名),漫粉黄衣(暂名)",
   "Xerocomellus chrysenteron,紅小絨蓋牛肝菌,红小绒盖牛肝菌",
   "Xerocomus chrysenteron,紅絨蓋牛肝菌,红绒盖牛肝菌",
   "Xerocomus nigromaculatus,黑斑絨蓋牛肝菌,黑斑绒盖牛肝菌",

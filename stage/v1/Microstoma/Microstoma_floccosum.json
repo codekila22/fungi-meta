@@ -2,6 +2,7 @@
  "genus": "Microstoma",
  "name": "floccosum",
  "date": [
+  "01/25/2025,8928479090595776",
   "04/21/2024,7272619642848404",
   "03/24/2024,7143336925776677",
   "12/08/2023,6722877267822647",
@@ -313,6 +314,22 @@
   {
    "author": "蔡古媧",
    "image_src": "Microstoma_floccosum_144fd2a0-ef03-11ee-b5c5-c35b9b9d9393_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Microstoma_floccosum_6c91cd90-ddf7-11ef-a278-8b7cc8eca2e9_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Microstoma_floccosum_6c91cd90-ddf7-11ef-a278-8b7cc8eca2e9_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Microstoma_floccosum_6c91cd90-ddf7-11ef-a278-8b7cc8eca2e9_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Microstoma_floccosum_6c91cd90-ddf7-11ef-a278-8b7cc8eca2e9_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -364,5 +381,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340189/thumb.jpg"
   }
  ],
- "timestamp": "20250121-185439"
+ "timestamp": "20250202-120715"
 }

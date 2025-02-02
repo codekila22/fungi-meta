@@ -2,7 +2,8 @@
  "genus": "Amanita",
  "name": "zangii",
  "date": [
-  "01/01/0001"
+  "06/20/2021,8943845789059106",
+  "06/20/2021,3877208719056197"
  ],
  "names_zhtw": [
   "臧氏鵝膏"
@@ -89,6 +90,38 @@
   {
    "author": "",
    "image_src": "Amanita_zangii_8_CC BY-NC.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_zangii_dddd21e0-e07f-11ef-b325-41e03a46d3cb_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_zangii_dddd21e0-e07f-11ef-b325-41e03a46d3cb_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_zangii_dddd21e0-e07f-11ef-b325-41e03a46d3cb_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_zangii_dddd21e0-e07f-11ef-b325-41e03a46d3cb_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_zangii_dddd21e0-e07f-11ef-b325-41e03a46d3cb_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_zangii_dddd21e0-e07f-11ef-b325-41e03a46d3cb_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_zangii_dddd21e0-e07f-11ef-b325-41e03a46d3cb_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Amanita_zangii_dddd21e0-e07f-11ef-b325-41e03a46d3cb_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -137,5 +170,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250121-185439"
+ "timestamp": "20250202-120715"
 }
