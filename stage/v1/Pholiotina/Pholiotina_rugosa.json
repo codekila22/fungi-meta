@@ -2,6 +2,7 @@
  "genus": "Pholiotina",
  "name": "rugosa",
  "date": [
+  "01/23/2025,8896884763755209",
   "12/21/2024,8716645431779144",
   "03/08/2024,7073079316135772",
   "02/25/2020,3768003533310050"
@@ -71,6 +72,26 @@
   {
    "author": "徐秀團",
    "image_src": "Pholiotina_rugosa_63ad6de0-c058-11ef-9ac4-8540bb32fdeb_6.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Pholiotina_rugosa_be6aae70-e13a-11ef-ab36-2b133d3d3ca2_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Pholiotina_rugosa_be6aae70-e13a-11ef-ab36-2b133d3d3ca2_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Pholiotina_rugosa_be6aae70-e13a-11ef-ab36-2b133d3d3ca2_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Pholiotina_rugosa_be6aae70-e13a-11ef-ab36-2b133d3d3ca2_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Pholiotina_rugosa_be6aae70-e13a-11ef-ab36-2b133d3d3ca2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -120,5 +141,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/57024202/thumb.jpeg"
   }
  ],
- "timestamp": "20250202-120715"
+ "timestamp": "20250202-163046"
 }

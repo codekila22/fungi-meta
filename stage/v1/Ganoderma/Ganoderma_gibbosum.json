@@ -2,24 +2,66 @@
  "genus": "Ganoderma",
  "name": "gibbosum",
  "date": [
-  "01/01/0001"
+  "01/27/2025,8920336001410085",
+  "07/12/2020,4295812287195836",
+  "11/07/2013,840640782713021"
  ],
  "names_zhtw": [
   "有柄樹舌靈芝"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/764",
+ "url": "8920336001410085",
  "images": [
   {
-   "author": "",
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_382faa70-e13c-11ef-ab36-2b133d3d3ca2_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_382faa70-e13c-11ef-ab36-2b133d3d3ca2_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_382faa70-e13c-11ef-ab36-2b133d3d3ca2_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_382faa70-e13c-11ef-ab36-2b133d3d3ca2_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_382faa70-e13c-11ef-ab36-2b133d3d3ca2_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_382faa70-e13c-11ef-ab36-2b133d3d3ca2_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_382faa70-e13c-11ef-ab36-2b133d3d3ca2_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_382faa70-e13c-11ef-ab36-2b133d3d3ca2_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_382faa70-e13c-11ef-ab36-2b133d3d3ca2_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_382faa70-e13c-11ef-ab36-2b133d3d3ca2_10.jpg"
+  },
+  {
+   "author": "柯文俊",
    "image_src": "Ganoderma_gibbosum_2_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Ganoderma_gibbosum_1_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Ganoderma_gibbosum_3_CC BY-NC.jpg"
   }
  ],
@@ -69,5 +111,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/122245501/thumb.jpg"
   }
  ],
- "timestamp": "20250202-120715"
+ "timestamp": "20250202-163046"
 }

@@ -2,7 +2,7 @@
  "name": "Aleurodiscus",
  "zhtw": "盤革菌屬",
  "zhcn": "盘革菌属",
- "timestamp": "20250202-120715",
+ "timestamp": "20250202-163046",
  "list": [
   {
    "name": "Aleurodiscus amorphus",
@@ -15,6 +15,12 @@
    "zhtw": "疑似葛蘭氏盤革菌",
    "zhcn": "疑似葛兰氏盘革菌",
    "img": "Aleurodiscus_cf. grantii_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Aleurodiscus isabellinus",
+   "zhtw": "淺黃盤革菌",
+   "zhcn": "浅黄盘革菌",
+   "img": "Aleurodiscus_isabellinus_cdd33090-e139-11ef-ab36-2b133d3d3ca2_1.jpg"
   },
   {
    "name": "Aleurodiscus mirabilis",

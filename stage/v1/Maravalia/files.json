@@ -2,8 +2,14 @@
  "name": "Maravalia",
  "zhtw": "單胞銹菌屬",
  "zhcn": "单胞锈菌属",
- "timestamp": "20250202-120715",
+ "timestamp": "20250202-163046",
  "list": [
+  {
+   "name": "Maravalia crotalariae",
+   "zhtw": "猪屎豆不眠單胞銹菌",
+   "zhcn": "猪屎豆不眠单胞锈菌",
+   "img": "Maravalia_crotalariae_ee8af630-e137-11ef-ab36-2b133d3d3ca2_1.jpg"
+  },
   {
    "name": "Maravalia pterocarpi",
    "zhtw": "紫檀無眠單胞銹菌",
