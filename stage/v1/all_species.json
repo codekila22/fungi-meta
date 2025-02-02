@@ -1,5 +1,5 @@
 {
- "timestamp": "20250202-163046",
+ "timestamp": "20250202-165859",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -690,6 +690,7 @@
    "Enteridium,孔膜黏菌屬,孔膜黏菌属",
    "Fuligo,煤絨黏菌屬,煤绒黏菌属",
    "Hemitrichia,半網黏菌屬,半网黏菌属",
+   "Heterotrichia,異毛黏菌屬,异毛黏菌属",
    "Lamproderma,亮皮黏菌屬,亮皮黏菌属",
    "Leocarpus,光果黏菌屬,光果黏菌属",
    "Lignydium,煤絨黏菌屬,煤绒黏菌属",
@@ -2023,6 +2024,9 @@
   "Heterodermia flabellata,扇亞鈴孢衣,扇亚铃孢衣",
   "Heterodermia hypochraea,黃腹鈴孢衣,黄腹铃孢衣",
   "Heterodermia japonica,阿里山亞鈴孢衣,阿里山亚铃孢衣",
+  "Heterotrichia insignis,鮮紅異毛黏菌,鲜红异毛黏菌",
+  "Heterotrichia obvelata,黃垂異毛黏菌,黄垂异毛黏菌",
+  "Heterotrichia oerstedii,奧氏異毛黏菌,奥氏异毛黏菌",
   "Hexagonia apiaria,毛蜂窩菌,毛蜂窝菌",
   "Hexagonia hirta,多毛蜂窩菌,多毛蜂窝菌",
   "Hexagonia tenuis,薄邊蜂窩菌,薄边蜂窝菌",

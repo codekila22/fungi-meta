@@ -38,5 +38,55 @@
  "names_zhcn": [
   "紫棕炭团菌"
  ],
- "timestamp": "20250202-163046"
+ "meta": {
+  "CapColors": "4286141768,4294901760,4286578816",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Hypoxylon fuscum",
+   "cname": "Hazel Woodwart",
+   "url": "https://www.inaturalist.org/taxa/1540489-Hypoxylon-fuscum",
+   "src": "https://static.inaturalist.org/photos/364546933/thumb.jpg"
+  },
+  {
+   "name": "Hypoxylon fuscum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/351128-Hypoxylon-fuscum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/67916137/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250202-165859"
 }

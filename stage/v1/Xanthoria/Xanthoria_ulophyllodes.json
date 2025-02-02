@@ -85,5 +85,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20250202-163046"
+ "inaturalist": [
+  {
+   "name": "Xanthomendoza ulophyllodes",
+   "cname": "Powdery Sunburst Lichen",
+   "url": "https://www.inaturalist.org/taxa/372229-Xanthomendoza-ulophyllodes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4223353/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250202-165859"
 }

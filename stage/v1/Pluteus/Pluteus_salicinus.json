@@ -22,5 +22,49 @@
  "names_zhcn": [
   "柳生光柄菇"
  ],
- "timestamp": "20250202-163046"
+ "meta": {
+  "CapColors": "4294967295,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "umbontae",
+  "CapTexture": "",
+  "CapMargin": "striated",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "菌蓋中央深褐色。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Pluteus salicinus",
+   "cname": "Willow Shield",
+   "url": "https://www.inaturalist.org/taxa/118281-Pluteus-salicinus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1091274/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250202-165859"
 }
