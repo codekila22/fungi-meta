@@ -2,8 +2,14 @@
  "name": "Heterotrichia",
  "zhtw": "異毛黏菌屬",
  "zhcn": "异毛黏菌属",
- "timestamp": "20250202-165859",
+ "timestamp": "20250202-170640",
  "list": [
+  {
+   "name": "Heterotrichia ferruginea",
+   "zhtw": "鏽色異毛黏菌",
+   "zhcn": "锈色异毛黏菌",
+   "img": "Arcyria_ferruginea_1_CC BY-NC_向高世.jpg"
+  },
   {
    "name": "Heterotrichia insignis",
    "zhtw": "鮮紅異毛黏菌",
@@ -21,6 +27,12 @@
    "zhtw": "奧氏異毛黏菌",
    "zhcn": "奥氏异毛黏菌",
    "img": "Arcyria_oerstedii_1_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "name": "Heterotrichia pomiformis",
+   "zhtw": "果形異毛黏菌",
+   "zhcn": "果形异毛黏菌",
+   "img": "Arcyria_pomiformis_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }
