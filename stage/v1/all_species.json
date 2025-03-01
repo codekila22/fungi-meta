@@ -1,5 +1,5 @@
 {
- "timestamp": "20250202-170640",
+ "timestamp": "20250302-073144",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -877,6 +877,7 @@
    "Calicium,粉衣屬,粉衣属",
    "Caloplaca,橙衣屬,橙衣属",
    "Cetrelia,斑葉衣屬,斑叶衣属",
+   "Chrysothrix,金絮衣屬,金絮衣属",
    "Cladia,篩蕊屬,筛蕊属",
    "Cladonia,石蕊屬,石蕊属",
    "Coccocarpia,瓦衣屬,瓦衣属",
@@ -974,6 +975,7 @@
   "Acanthonitschkea argentinensis,阿根庭刺座菌,阿根庭刺座菌",
   "Acervus epispartius,小孢盤菌,小孢盘菌",
   "Aecidium araliae,楤木銹孢銹菌,楤木锈孢锈菌",
+  "Aecidium cf. elaeagni,疑似胡頹子銹孢銹菌,疑似胡颓子锈孢锈菌",
   "Aecidium fatsiae,扁銹孢銹菌,扁锈孢锈菌",
   "Aecidium mori,桑銹孢銹菌,桑锈孢锈菌",
   "Aecidium osmanthi,木犀銹孢銹菌,木犀锈孢锈菌",
@@ -1392,6 +1394,7 @@
   "Chrysomphalina grossula,黃綠金亞臍菇,黄绿金亚脐菇",
   "Chrysomyxa rhododendir,杜鵑銹病,杜鹃锈病",
   "Chrysonectria finisterrensis,菲尼斯特拉金赤殼,菲尼斯特拉金赤壳",
+  "Chrysothrix xanthina,黄金絮衣,黄金絮衣",
   "Ciboria rufofusca,赤褐杯盤菌,赤褐杯盘菌",
   "Ciboria shiraiana,桑實杯盤菌,桑实杯盘菌",
   "Ciborinia camelliae,山茶花葉杯菌,山茶花叶杯菌",

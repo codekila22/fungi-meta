@@ -84,5 +84,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250202-170640"
+ "inaturalist": [
+  {
+   "name": "Heterotrichia pomiformis",
+   "cname": "Golden Apple Slime Mold",
+   "url": "https://www.inaturalist.org/taxa/1581563-Heterotrichia-pomiformis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/91584830/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-073144"
 }

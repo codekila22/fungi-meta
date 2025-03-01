@@ -2,7 +2,8 @@
  "genus": "Cladia",
  "name": "aggregata",
  "date": [
-  "01/01/0001"
+  "02/28/2025,9103241419786208",
+  "08/14/2017,3438822702894803"
  ],
  "names_zhtw": [
   "聚篩蕊"
@@ -33,6 +34,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Cladia_aggregata_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cladia_aggregata_3b42b2f0-f5d9-11ef-bc69-9d34b1445a30_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cladia_aggregata_3b42b2f0-f5d9-11ef-bc69-9d34b1445a30_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cladia_aggregata_3b42b2f0-f5d9-11ef-bc69-9d34b1445a30_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cladia_aggregata_3b42b2f0-f5d9-11ef-bc69-9d34b1445a30_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cladia_aggregata_3b42b2f0-f5d9-11ef-bc69-9d34b1445a30_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -92,5 +113,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250202-170640"
+ "timestamp": "20250302-073144"
 }

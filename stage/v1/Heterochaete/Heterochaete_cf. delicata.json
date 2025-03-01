@@ -2,6 +2,7 @@
  "genus": "Heterochaete",
  "name": "cf. delicata",
  "date": [
+  "02/25/2025,9102379556539061",
   "12/13/2023,6745499042227136",
   "04/16/2023,6013345608775820"
  ],
@@ -62,6 +63,14 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Heterochaete_cf. delicata_240c7e90-9b58-11ee-a3b5-553e2298189e_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Heterochaete_cf. delicata_090c63d0-f5d9-11ef-b247-83a431d4bb48_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Heterochaete_cf. delicata_090c63d0-f5d9-11ef-b247-83a431d4bb48_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -111,5 +120,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/222843684/thumb.jpg"
   }
  ],
- "timestamp": "20250202-170640"
+ "timestamp": "20250302-073144"
 }
