@@ -42,5 +42,49 @@
  "names_zhcn": [
   "疑似堇紫紫褶菇"
  ],
- "timestamp": "20250302-200555"
+ "meta": {
+  "CapColors": "4290547599,4287245282,4286578816",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Chromosera viola",
+   "cname": "Amethyst Waxcap",
+   "url": "https://www.inaturalist.org/taxa/1045292-Chromosera-viola",
+   "src": "https://static.inaturalist.org/photos/60585150/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-213905"
 }

@@ -30,5 +30,67 @@
  "names_zhcn": [
   "疑似桔色凹小菇"
  ],
- "timestamp": "20250302-200555"
+ "meta": {
+  "CapColors": "4294956800,4293313372,4294944000",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena citrinomarginata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63436-Mycena-citrinomarginata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/243665469/thumb.jpg"
+  },
+  {
+   "name": "Mycena citrinomarginata var. vestita",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63438-Mycena-citrinomarginata-vestita",
+   "src": ""
+  },
+  {
+   "name": "Mycena citrinomarginata var. citrinomarginata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63440-Mycena-citrinomarginata-citrinomarginata",
+   "src": ""
+  },
+  {
+   "name": "Mycena citrinomarginata var. truncigena",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/63442-Mycena-citrinomarginata-truncigena",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250302-213905"
 }

@@ -42,5 +42,48 @@
  "names_zhcn": [
   "黄金絮衣"
  ],
- "timestamp": "20250302-200555"
+ "meta": {
+  "CapColors": "4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Chrysothrix xanthina",
+   "cname": "Common Gold-Dust",
+   "url": "https://www.inaturalist.org/taxa/345245-Chrysothrix-xanthina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27561843/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-213905"
 }

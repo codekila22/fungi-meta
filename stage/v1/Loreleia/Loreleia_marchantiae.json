@@ -63,5 +63,49 @@
  "names_zhcn": [
   "地钱罗勒菇"
  ],
- "timestamp": "20250302-200555"
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground,moss",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "此屬真菌和地錢屬Marchantia苔蘚生長在一起。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Loreleia marchantiae",
+   "cname": "Liverwort Navel",
+   "url": "https://www.inaturalist.org/taxa/850982-Loreleia-marchantiae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/406835973/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-213905"
 }

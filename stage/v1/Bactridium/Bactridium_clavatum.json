@@ -38,5 +38,48 @@
  "names_zhcn": [
   "棒形杆孢霉"
  ],
- "timestamp": "20250302-200555"
+ "meta": {
+  "CapColors": "4294956800,4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Bactridium clavatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/381363-Bactridium-clavatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8556908/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-213905"
 }
