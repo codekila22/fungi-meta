@@ -2,7 +2,8 @@
  "genus": "Mycena",
  "name": "sp.6",
  "date": [
-  "08/23/2024,7903768276400201"
+  "08/23/2024,7903768276400201",
+  "09/05/2022,5213852658725123"
  ],
  "names_zhtw": [
   "霜紋小菇(暫名)"
@@ -29,6 +30,34 @@
   {
    "author": "黃金興",
    "image_src": "Mycena_sp.6_e1a3cef0-621c-11ef-8f02-69e3d7fe61d6_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_7dce8bb0-f72a-11ef-af52-15dccc192f02_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_7dce8bb0-f72a-11ef-af52-15dccc192f02_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_7dce8bb0-f72a-11ef-af52-15dccc192f02_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_7dce8bb0-f72a-11ef-af52-15dccc192f02_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_7dce8bb0-f72a-11ef-af52-15dccc192f02_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_7dce8bb0-f72a-11ef-af52-15dccc192f02_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_7dce8bb0-f72a-11ef-af52-15dccc192f02_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -70,5 +99,5 @@
   "Note": "傘面線條凹處有糖霜粉狀物的一種未知名小菇。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250302-073144"
+ "timestamp": "20250302-200555"
 }

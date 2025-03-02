@@ -2,13 +2,19 @@
  "name": "Bactridium",
  "zhtw": "桿孢黴屬",
  "zhcn": "杆孢霉属",
- "timestamp": "20250302-073144",
+ "timestamp": "20250302-200555",
  "list": [
   {
    "name": "Bactridium cf. flavum",
    "zhtw": "疑似黃色桿孢黴",
    "zhcn": "疑似黄色杆孢霉",
    "img": "Bactridium_cf. flavum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Bactridium clavatum",
+   "zhtw": "棒形桿孢黴",
+   "zhcn": "棒形杆孢霉",
+   "img": "Bactridium_clavatum_67a04480-f722-11ef-a158-45aa4d3c2567_1.jpg"
   }
  ]
 }

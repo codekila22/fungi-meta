@@ -2,13 +2,19 @@
  "name": "Collema",
  "zhtw": "膠衣屬",
  "zhcn": "胶衣属",
- "timestamp": "20250302-073144",
+ "timestamp": "20250302-200555",
  "list": [
   {
    "name": "Collema fasciculare",
    "zhtw": "束孢膠衣",
    "zhcn": "束孢胶衣",
    "img": "Collema_fasciculare_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Collema furfuraceum",
+   "zhtw": "粉屑膠衣",
+   "zhcn": "粉屑胶衣",
+   "img": "Collema_furfuraceum_b98d7e80-f735-11ef-8536-7be98cfe5bf4_1.jpg"
   }
  ]
 }

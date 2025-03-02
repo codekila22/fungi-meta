@@ -2,6 +2,7 @@
  "genus": "Pholiota",
  "name": "flammans",
  "date": [
+  "02/21/2025,9065704060206611",
   "08/20/2024,7881170791993283",
   "09/15/2023,6837362053040834",
   "08/27/2021,4230425150401217",
@@ -86,6 +87,18 @@
   {
    "author": "蔡古媧",
    "image_src": "Pholiota_flammans_6d949e60-b13a-11ee-848b-65ebee141217_8.jpg"
+  },
+  {
+   "author": "Erin Peng",
+   "image_src": "Pholiota_flammans_e99d9cd0-f736-11ef-8442-a7ef0dd99fac_1.jpg"
+  },
+  {
+   "author": "Erin Peng",
+   "image_src": "Pholiota_flammans_e99d9cd0-f736-11ef-8442-a7ef0dd99fac_2.jpg"
+  },
+  {
+   "author": "Erin Peng",
+   "image_src": "Pholiota_flammans_e99d9cd0-f736-11ef-8442-a7ef0dd99fac_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -142,5 +155,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/104623894/thumb.jpg"
   }
  ],
- "timestamp": "20250302-073144"
+ "timestamp": "20250302-200555"
 }

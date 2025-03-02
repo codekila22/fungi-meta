@@ -3,7 +3,8 @@
  "name": "iduensis",
  "date": [
   "10/22/2022,7000220390088332",
-  "03/07/2022,4704323023011425"
+  "03/07/2022,4704323023011425",
+  "07/04/2019,9006485386128479"
  ],
  "names_zhtw": [
   "角狀銀耳"
@@ -42,6 +43,18 @@
   {
    "author": "蔡古媧",
    "image_src": "Tremella_iduensis_04d03230-d37d-11ee-a09c-459ec2423595_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Tremella_iduensis_4af37870-f727-11ef-85b1-1df730de526c_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Tremella_iduensis_4af37870-f727-11ef-85b1-1df730de526c_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Tremella_iduensis_4af37870-f727-11ef-85b1-1df730de526c_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -91,5 +104,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/320769436/thumb.jpg"
   }
  ],
- "timestamp": "20250302-073144"
+ "timestamp": "20250302-200555"
 }

@@ -2,7 +2,7 @@
  "name": "Ascocoryne",
  "zhtw": "膠盤菌屬",
  "zhcn": "胶盘菌属",
- "timestamp": "20250302-073144",
+ "timestamp": "20250302-200555",
  "list": [
   {
    "name": "Ascocoryne albida",
@@ -15,6 +15,12 @@
    "zhtw": "杯紫膠盤菌",
    "zhcn": "杯紫胶盘菌",
    "img": "Ascocoryne_cylichnium_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Ascocoryne inflata",
+   "zhtw": "膨脹紫膠盤菌",
+   "zhcn": "膨胀紫胶盘菌",
+   "img": "Ascocoryne_inflata_55d5ef80-f721-11ef-8153-d11f69066cf7_1.jpg"
   },
   {
    "name": "Ascocoryne sarcoides",

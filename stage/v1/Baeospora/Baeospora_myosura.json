@@ -2,14 +2,42 @@
  "genus": "Baeospora",
  "name": "myosura",
  "date": [
-  "01/01/0001"
+  "11/11/2017,8960117517431933"
  ],
  "names_zhtw": [
   "小孢菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/641",
+ "url": "8960117517431933",
  "images": [
+  {
+   "author": "向高世",
+   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_7.jpg"
+  },
   {
    "author": "",
    "image_src": "Baeospora_myosura_2_CC BY-NC.jpg"
@@ -92,5 +120,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133865/thumb."
   }
  ],
- "timestamp": "20250302-073144"
+ "timestamp": "20250302-200555"
 }

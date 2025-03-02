@@ -2,8 +2,10 @@
  "genus": "Aschersonia",
  "name": "samoensis",
  "date": [
+  "01/01/2025,9042267669216917",
   "04/19/2024,7272332239543811",
   "02/10/2024,6962899487153756",
+  "02/05/2024,9027730027337348",
   "01/12/2024,6862859170491122",
   "04/19/2020,3768894933220910"
  ],
@@ -80,6 +82,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Aschersonia_samoensis_cf4a8110-043c-11ef-84a7-373ae1434b31_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Aschersonia_samoensis_2e73c4f0-f72e-11ef-b276-cb4a1b57bcdd_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Aschersonia_samoensis_2e73c4f0-f72e-11ef-b276-cb4a1b57bcdd_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Aschersonia_samoensis_2e73c4f0-f72e-11ef-b276-cb4a1b57bcdd_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aschersonia_samoensis_62686910-f732-11ef-beb7-d58227cefc0a_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aschersonia_samoensis_62686910-f732-11ef-beb7-d58227cefc0a_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aschersonia_samoensis_62686910-f732-11ef-beb7-d58227cefc0a_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aschersonia_samoensis_62686910-f732-11ef-beb7-d58227cefc0a_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,5 +157,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250302-073144"
+ "timestamp": "20250302-200555"
 }
