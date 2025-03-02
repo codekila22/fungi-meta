@@ -2,13 +2,13 @@
  "genus": "Marasmius",
  "name": "capillaris",
  "date": [
-  "01/01/0001"
+  "09/28/2020,9012631295513888"
  ],
  "names_zhtw": [
   "毛狀小皮傘"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/4383",
+ "url": "9012631295513888",
  "images": [
   {
    "author": "柯文俊",
@@ -29,6 +29,18 @@
   {
    "author": "柯文俊",
    "image_src": "Marasmius_capillaris_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Marasmius_capillaris_b0e43e50-f72a-11ef-bfe5-2399fcdc7cbb_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Marasmius_capillaris_b0e43e50-f72a-11ef-bfe5-2399fcdc7cbb_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Marasmius_capillaris_b0e43e50-f72a-11ef-bfe5-2399fcdc7cbb_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -77,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/65317708/thumb.jpg"
   }
  ],
- "timestamp": "20250202-170640"
+ "timestamp": "20250302-213905"
 }

@@ -141,5 +141,13 @@
   "Note": "柄近叢生。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250202-170640"
+ "inaturalist": [
+  {
+   "name": "Heterotrichia insignis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1581558-Heterotrichia-insignis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10818674/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-213905"
 }

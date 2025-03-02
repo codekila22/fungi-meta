@@ -2,8 +2,14 @@
  "name": "Trechispora",
  "zhtw": "糙孢菌屬",
  "zhcn": "糙孢菌属",
- "timestamp": "20250202-170640",
+ "timestamp": "20250302-213905",
  "list": [
+  {
+   "name": "Trechispora cryptomerioides",
+   "zhtw": "柳杉糙孢孔菌",
+   "zhcn": "柳杉糙孢孔菌",
+   "img": "Trechispora_cryptomerioides_dde393a0-f6fe-11ef-a560-3f752d3d79b5_1.jpg"
+  },
   {
    "name": "Trechispora khokpasiensis",
    "zhtw": "加拉信糙孢菌(暫名)",

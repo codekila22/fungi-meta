@@ -1,0 +1,90 @@
+{
+ "genus": "Chromosera",
+ "name": "cf. viola",
+ "date": [
+  "02/18/2025,9085454124898271"
+ ],
+ "names_zhtw": [
+  "疑似堇紫紫褶菇"
+ ],
+ "names_en": [],
+ "url": "9085454124898271",
+ "images": [
+  {
+   "author": "吳湯姆",
+   "image_src": "Chromosera_cf. viola_fbc128d0-f74c-11ef-b5fe-ab1d5aaa6f17_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chromosera_cf. viola_fbc128d0-f74c-11ef-b5fe-ab1d5aaa6f17_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chromosera_cf. viola_fbc128d0-f74c-11ef-b5fe-ab1d5aaa6f17_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chromosera_cf. viola_fbc128d0-f74c-11ef-b5fe-ab1d5aaa6f17_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chromosera_cf. viola_fbc128d0-f74c-11ef-b5fe-ab1d5aaa6f17_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chromosera_cf. viola_fbc128d0-f74c-11ef-b5fe-ab1d5aaa6f17_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chromosera_cf. viola_fbc128d0-f74c-11ef-b5fe-ab1d5aaa6f17_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似堇紫紫褶菇"
+ ],
+ "meta": {
+  "CapColors": "4290547599,4287245282,4286578816",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Chromosera viola",
+   "cname": "Amethyst Waxcap",
+   "url": "https://www.inaturalist.org/taxa/1045292-Chromosera-viola",
+   "src": "https://static.inaturalist.org/photos/60585150/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-213905"
+}

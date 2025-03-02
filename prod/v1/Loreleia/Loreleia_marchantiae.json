@@ -1,0 +1,111 @@
+{
+ "genus": "Loreleia",
+ "name": "marchantiae",
+ "date": [
+  "02/17/2025,9048405371936480",
+  "01/16/2025,8972513286192356"
+ ],
+ "names_zhtw": [
+  "地錢羅勒菇"
+ ],
+ "names_en": [],
+ "url": "8972513286192356",
+ "images": [
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Loreleia_marchantiae_3a8cd220-f726-11ef-b9dd-ad16e0e2f772_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Loreleia_marchantiae_3a8cd220-f726-11ef-b9dd-ad16e0e2f772_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Loreleia_marchantiae_3a8cd220-f726-11ef-b9dd-ad16e0e2f772_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Loreleia_marchantiae_3a8cd220-f726-11ef-b9dd-ad16e0e2f772_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Loreleia_marchantiae_3a8cd220-f726-11ef-b9dd-ad16e0e2f772_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Loreleia_marchantiae_3a8cd220-f726-11ef-b9dd-ad16e0e2f772_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Loreleia_marchantiae_3a8cd220-f726-11ef-b9dd-ad16e0e2f772_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Loreleia_marchantiae_3bc7fe50-f733-11ef-90ff-5b3cbb51b72d_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Loreleia_marchantiae_3bc7fe50-f733-11ef-90ff-5b3cbb51b72d_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Loreleia_marchantiae_3bc7fe50-f733-11ef-90ff-5b3cbb51b72d_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Loreleia_marchantiae_3bc7fe50-f733-11ef-90ff-5b3cbb51b72d_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Loreleia_marchantiae_3bc7fe50-f733-11ef-90ff-5b3cbb51b72d_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "地钱罗勒菇"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground,moss",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "此屬真菌和地錢屬Marchantia苔蘚生長在一起。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Loreleia marchantiae",
+   "cname": "Liverwort Navel",
+   "url": "https://www.inaturalist.org/taxa/850982-Loreleia-marchantiae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/406835973/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-213905"
+}

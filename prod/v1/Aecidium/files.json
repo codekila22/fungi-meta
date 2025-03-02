@@ -2,13 +2,19 @@
  "name": "Aecidium",
  "zhtw": "銹孢銹菌屬",
  "zhcn": "锈孢锈菌属",
- "timestamp": "20250202-170640",
+ "timestamp": "20250302-213905",
  "list": [
   {
    "name": "Aecidium araliae",
    "zhtw": "楤木銹孢銹菌",
    "zhcn": "楤木锈孢锈菌",
    "img": "Aecidium_araliae_10_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Aecidium cf. elaeagni",
+   "zhtw": "疑似胡頹子銹孢銹菌",
+   "zhcn": "疑似胡颓子锈孢锈菌",
+   "img": "Aecidium_cf. elaeagni_82834b60-f5d0-11ef-9dba-9b6546e63e5b_1.jpg"
   },
   {
    "name": "Aecidium fatsiae",

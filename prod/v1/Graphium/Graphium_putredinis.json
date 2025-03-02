@@ -1,0 +1,81 @@
+{
+ "genus": "Graphium",
+ "name": "putredinis",
+ "date": [
+  "02/18/2025,5415959478514439"
+ ],
+ "names_zhtw": [
+  "腐生黏束孢黴"
+ ],
+ "names_en": [],
+ "url": "5415959478514439",
+ "images": [
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Graphium_putredinis_f4673f40-f731-11ef-abb1-23cbe2f066e9_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Graphium_putredinis_f4673f40-f731-11ef-abb1-23cbe2f066e9_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Graphium_putredinis_f4673f40-f731-11ef-abb1-23cbe2f066e9_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Graphium_putredinis_f4673f40-f731-11ef-abb1-23cbe2f066e9_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Graphium_putredinis_f4673f40-f731-11ef-abb1-23cbe2f066e9_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "腐生黏束孢霉"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Parascedosporium putredinis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1005014-Parascedosporium-putredinis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/67425895/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20250302-213905"
+}

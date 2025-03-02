@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20250202-170640",
+ "timestamp": "20250302-213905",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -120,6 +120,12 @@
    "zhtw": "疑似毛狀小菇",
    "zhcn": "疑似毛状小菇",
    "img": "Mycena_cf. capillaris_391ca330-019f-11ee-869a-99b7c5f38e02_1.jpg"
+  },
+  {
+   "name": "Mycena cf. citrinomarginata",
+   "zhtw": "疑似桔色凹小菇",
+   "zhcn": "疑似桔色凹小菇",
+   "img": "Mycena_cf. citrinomarginata_228ccfd0-f72c-11ef-9fc2-d902ffbdb40d_1.jpg"
   },
   {
    "name": "Mycena cf. corynephora",

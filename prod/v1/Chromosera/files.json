@@ -2,13 +2,19 @@
  "name": "Chromosera",
  "zhtw": "紫褶菇屬",
  "zhcn": "紫褶菇属",
- "timestamp": "20250202-170640",
+ "timestamp": "20250302-213905",
  "list": [
   {
    "name": "Chromosera ambigua",
    "zhtw": "混淆紫褶菇(暫名)",
    "zhcn": "混淆紫褶菇(暂名)",
    "img": "Chromosera_ambigua_79edbf50-1d99-11ee-b116-850590837b1c_1.jpg"
+  },
+  {
+   "name": "Chromosera cf. viola",
+   "zhtw": "疑似堇紫紫褶菇",
+   "zhcn": "疑似堇紫紫褶菇",
+   "img": "Chromosera_cf. viola_fbc128d0-f74c-11ef-b5fe-ab1d5aaa6f17_1.jpg"
   }
  ]
 }

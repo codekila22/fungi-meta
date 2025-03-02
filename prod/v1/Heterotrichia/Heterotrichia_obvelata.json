@@ -339,5 +339,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250202-170640"
+ "inaturalist": [
+  {
+   "name": "Heterotrichia obvelata",
+   "cname": "Yellow Carnival Candy Slime",
+   "url": "https://www.inaturalist.org/taxa/1581559-Heterotrichia-obvelata",
+   "src": "https://static.inaturalist.org/photos/241894193/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-213905"
 }

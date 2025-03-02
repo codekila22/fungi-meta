@@ -88,5 +88,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250202-170640"
+ "inaturalist": [
+  {
+   "name": "Heterotrichia oerstedii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1581560-Heterotrichia-oerstedii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10632552/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-213905"
 }

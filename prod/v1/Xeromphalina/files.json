@@ -2,13 +2,19 @@
  "name": "Xeromphalina",
  "zhtw": "干臍菇屬",
  "zhcn": "干脐菇属",
- "timestamp": "20250202-170640",
+ "timestamp": "20250302-213905",
  "list": [
   {
    "name": "Xeromphalina campanella",
    "zhtw": "鐘形干臍菇",
    "zhcn": "钟形干脐菇",
    "img": "Xeromphalina_campanella_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Xeromphalina cauticinalis",
+   "zhtw": "黃褐乾臍菇",
+   "zhcn": "黄褐干脐菇",
+   "img": "Xeromphalina_cauticinalis_00104200-f729-11ef-a2b4-fd1a1dc8de3a_1.jpg"
   },
   {
    "name": "Xeromphalina tenuipes",

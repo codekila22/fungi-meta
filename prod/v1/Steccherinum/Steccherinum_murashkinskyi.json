@@ -2,7 +2,6 @@
  "genus": "Steccherinum",
  "name": "murashkinskyi",
  "date": [
-  "01/21/2025,8902356386541380",
   "10/19/2024,8426489737461383",
   "11/02/2022,5575906332519752",
   "11/13/2021,4261480327295699",
@@ -126,42 +125,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Steccherinum_murashkinskyi_15_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Steccherinum_murashkinskyi_29cd3f40-dafe-11ef-b041-bdb3c0f6ed20_1.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Steccherinum_murashkinskyi_29cd3f40-dafe-11ef-b041-bdb3c0f6ed20_2.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Steccherinum_murashkinskyi_29cd3f40-dafe-11ef-b041-bdb3c0f6ed20_3.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Steccherinum_murashkinskyi_29cd3f40-dafe-11ef-b041-bdb3c0f6ed20_4.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Steccherinum_murashkinskyi_29cd3f40-dafe-11ef-b041-bdb3c0f6ed20_5.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Steccherinum_murashkinskyi_29cd3f40-dafe-11ef-b041-bdb3c0f6ed20_6.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Steccherinum_murashkinskyi_29cd3f40-dafe-11ef-b041-bdb3c0f6ed20_7.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Steccherinum_murashkinskyi_29cd3f40-dafe-11ef-b041-bdb3c0f6ed20_8.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Steccherinum_murashkinskyi_29cd3f40-dafe-11ef-b041-bdb3c0f6ed20_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -210,5 +173,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58538530/thumb.jpeg"
   }
  ],
- "timestamp": "20250202-170640"
+ "timestamp": "20250302-213905"
 }

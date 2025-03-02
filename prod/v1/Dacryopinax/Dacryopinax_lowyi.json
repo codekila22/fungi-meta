@@ -2,8 +2,9 @@
  "genus": "Dacryopinax",
  "name": "lowyi",
  "date": [
-  "08/24/2022",
-  "05/02/2021"
+  "02/08/2025,8985601148216903",
+  "08/23/2022,5176993775744345",
+  "05/01/2021,3735221149921622"
  ],
  "names_zhtw": [
   "洛伊假花耳"
@@ -54,6 +55,42 @@
   {
    "author": "CN Chen",
    "image_src": "Dacryopinax_lowyi_7_CC BY-NC_CN Chen.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacryopinax_lowyi_f3399d10-f723-11ef-a734-c1ed32db2aa4_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacryopinax_lowyi_f3399d10-f723-11ef-a734-c1ed32db2aa4_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacryopinax_lowyi_f3399d10-f723-11ef-a734-c1ed32db2aa4_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacryopinax_lowyi_f3399d10-f723-11ef-a734-c1ed32db2aa4_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacryopinax_lowyi_f3399d10-f723-11ef-a734-c1ed32db2aa4_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacryopinax_lowyi_f3399d10-f723-11ef-a734-c1ed32db2aa4_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacryopinax_lowyi_f3399d10-f723-11ef-a734-c1ed32db2aa4_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacryopinax_lowyi_f3399d10-f723-11ef-a734-c1ed32db2aa4_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacryopinax_lowyi_f3399d10-f723-11ef-a734-c1ed32db2aa4_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -102,5 +139,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157436627/thumb.jpg"
   }
  ],
- "timestamp": "20250202-170640"
+ "timestamp": "20250302-213905"
 }

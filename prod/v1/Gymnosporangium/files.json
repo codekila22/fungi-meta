@@ -2,7 +2,7 @@
  "name": "Gymnosporangium",
  "zhtw": "膠銹菌屬",
  "zhcn": "胶锈菌属",
- "timestamp": "20250202-170640",
+ "timestamp": "20250302-213905",
  "list": [
   {
    "name": "Gymnosporangium asiaticum",
@@ -30,6 +30,12 @@
    "zhtw": "新高山膠銹菌",
    "zhcn": "新高山胶锈菌",
    "img": "Gymnosporangium_niitakayamense_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Gymnosporangium raphiolepidis",
+   "zhtw": "石斑木膠銹菌",
+   "zhcn": "石斑木胶锈菌",
+   "img": "Gymnosporangium_raphiolepidis_9da809d0-f729-11ef-8a0e-c72542f3587d_1.jpg"
   }
  ]
 }

@@ -1,0 +1,85 @@
+{
+ "genus": "Bactridium",
+ "name": "clavatum",
+ "date": [
+  "02/06/2025,8979523788824639"
+ ],
+ "names_zhtw": [
+  "棒形桿孢黴"
+ ],
+ "names_en": [],
+ "url": "8979523788824639",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Bactridium_clavatum_67a04480-f722-11ef-a158-45aa4d3c2567_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Bactridium_clavatum_67a04480-f722-11ef-a158-45aa4d3c2567_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Bactridium_clavatum_67a04480-f722-11ef-a158-45aa4d3c2567_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Bactridium_clavatum_67a04480-f722-11ef-a158-45aa4d3c2567_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Bactridium_clavatum_67a04480-f722-11ef-a158-45aa4d3c2567_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Bactridium_clavatum_67a04480-f722-11ef-a158-45aa4d3c2567_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "棒形杆孢霉"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Bactridium clavatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/381363-Bactridium-clavatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8556908/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250302-213905"
+}
