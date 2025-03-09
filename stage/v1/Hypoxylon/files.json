@@ -2,7 +2,7 @@
  "name": "Hypoxylon",
  "zhtw": "炭團菌屬",
  "zhcn": "炭团菌属",
- "timestamp": "20250309-160151",
+ "timestamp": "20250309-175120",
  "list": [
   {
    "name": "Hypoxylon annulatum",
@@ -30,6 +30,12 @@
    "zhtw": "血座炭團菌",
    "zhcn": "血座炭团菌",
    "img": "Hypoxylon_haematostroma_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Hypoxylon howeanum",
+   "zhtw": "豪伊炭團菌",
+   "zhcn": "豪伊炭团菌",
+   "img": "Hypoxylon_hweianum_8ff13ad0-fcc6-11ef-b95b-6d02a83dd675_1.jpg"
   },
   {
    "name": "Hypoxylon moriforme",

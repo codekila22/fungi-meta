@@ -2,8 +2,14 @@
  "name": "Ascobolus",
  "zhtw": "糞盤菌屬",
  "zhcn": "粪盘菌属",
- "timestamp": "20250309-160151",
+ "timestamp": "20250309-175120",
  "list": [
+  {
+   "name": "Ascobolus carbonarius",
+   "zhtw": "炭色糞盤菌",
+   "zhcn": "炭色粪盘菌",
+   "img": "Ascobolus_carbonarius_d13015f0-fcbe-11ef-bad7-a7b9ab30c639_1.jpg"
+  },
   {
    "name": "Ascobolus fushanus",
    "zhtw": "福山糞盤菌",
