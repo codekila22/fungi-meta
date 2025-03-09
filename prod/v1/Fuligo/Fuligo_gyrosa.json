@@ -2,6 +2,7 @@
  "genus": "Fuligo",
  "name": "gyrosa",
  "date": [
+  "03/03/2025,9129109137199436",
   "10/18/2024,8382474605196230",
   "04/30/2024,7290501974393504",
   "06/18/2023,6102969313146782",
@@ -101,6 +102,42 @@
   {
    "author": "朱艷",
    "image_src": "Fuligo_gyrosa_89f240d0-9b18-11ef-ad64-b3d00db815c3_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_gyrosa_d78bd6f0-fcb9-11ef-a63c-7335ca094d32_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_gyrosa_d78bd6f0-fcb9-11ef-a63c-7335ca094d32_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_gyrosa_d78bd6f0-fcb9-11ef-a63c-7335ca094d32_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_gyrosa_d78bd6f0-fcb9-11ef-a63c-7335ca094d32_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_gyrosa_d78bd6f0-fcb9-11ef-a63c-7335ca094d32_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_gyrosa_d78bd6f0-fcb9-11ef-a63c-7335ca094d32_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_gyrosa_d78bd6f0-fcb9-11ef-a63c-7335ca094d32_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_gyrosa_d78bd6f0-fcb9-11ef-a63c-7335ca094d32_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Fuligo_gyrosa_d78bd6f0-fcb9-11ef-a63c-7335ca094d32_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -140,5 +177,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20250302-213905"
+ "inaturalist": [
+  {
+   "name": "Fuligo gyrosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1598946-Fuligo-gyrosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/33590493/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20250309-203923"
 }

@@ -1,7 +1,8 @@
 {
  "genus": "Scorias",
- "name": "spongiosa",
+ "name": "pseudoaphidis",
  "date": [
+  "03/09/2025,9163831190393897",
   "04/29/2024,7285994914844210",
   "03/28/2024,7152978441479192",
   "10/06/2023,6488464567930586",
@@ -10,12 +11,36 @@
   "08/28/2023,6341353505975027"
  ],
  "names_zhtw": [
-  "海綿膠殼煤菌",
+  "偽蚜膠殼煤菌",
   "竹燕窩"
  ],
  "names_en": [],
- "url": "4065186883591712",
+ "url": "9163831190393897",
  "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Scorias_pseudoaphidis_dd8849d0-fcc8-11ef-bebd-5f0e70902bf9_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scorias_pseudoaphidis_dd8849d0-fcc8-11ef-bebd-5f0e70902bf9_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scorias_pseudoaphidis_dd8849d0-fcc8-11ef-bebd-5f0e70902bf9_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scorias_pseudoaphidis_dd8849d0-fcc8-11ef-bebd-5f0e70902bf9_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scorias_pseudoaphidis_dd8849d0-fcc8-11ef-bebd-5f0e70902bf9_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Scorias_pseudoaphidis_dd8849d0-fcc8-11ef-bebd-5f0e70902bf9_6.jpg"
+  },
   {
    "author": "朱艷",
    "image_src": "Scorias_spongiosa_d090bd70-48d3-11ee-82ff-37569f930e01_5.jpg"
@@ -170,7 +195,7 @@
   }
  ],
  "names_zhcn": [
-  "海绵胶壳煤菌",
+  "伪蚜胶壳煤菌",
   "竹燕窝"
  ],
  "meta": {
@@ -208,13 +233,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "inaturalist": [
-  {
-   "name": "Scorias spongiosa",
-   "cname": "Honeydew Eater",
-   "url": "https://www.inaturalist.org/taxa/144013-Scorias-spongiosa",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/25853731/thumb.jpg"
-  }
- ],
- "timestamp": "20250302-213905"
+ "timestamp": "20250309-203923"
 }

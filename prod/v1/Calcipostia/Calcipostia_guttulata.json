@@ -2,37 +2,66 @@
  "genus": "Calcipostia",
  "name": "guttulata",
  "date": [
-  "01/01/0001"
+  "07/04/2023,6169798623130517",
+  "12/29/2012,801260463317720"
  ],
  "names_zhtw": [
   "含油白肉迷孔菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/916",
+ "url": "6169798623130517",
  "images": [
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Postia_guttulatus_1_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Postia_guttulatus_2_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Postia_guttulatus_3_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Postia_guttulatus_4_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Postia_guttulatus_5_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Postia_guttulatus_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calcipostia_guttulata_070adf30-fcc3-11ef-96f9-21f3eb408b4d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calcipostia_guttulata_070adf30-fcc3-11ef-96f9-21f3eb408b4d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calcipostia_guttulata_070adf30-fcc3-11ef-96f9-21f3eb408b4d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calcipostia_guttulata_070adf30-fcc3-11ef-96f9-21f3eb408b4d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calcipostia_guttulata_070adf30-fcc3-11ef-96f9-21f3eb408b4d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calcipostia_guttulata_070adf30-fcc3-11ef-96f9-21f3eb408b4d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calcipostia_guttulata_070adf30-fcc3-11ef-96f9-21f3eb408b4d_7.jpg"
   }
  ],
  "synonym": [
@@ -88,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/326998807/thumb.jpeg"
   }
  ],
- "timestamp": "20250302-213905"
+ "timestamp": "20250309-203923"
 }

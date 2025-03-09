@@ -2,6 +2,7 @@
  "genus": "Roseodiscus",
  "name": "rhodoleucus",
  "date": [
+  "03/07/2025,9152802801496736",
   "04/10/2023,7073122839464753"
  ],
  "names_zhtw": [
@@ -53,6 +54,22 @@
   {
    "author": "柯文俊",
    "image_src": "Roseodiscus_rhodoleucus_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roseodiscus_rhodoleucus_6fb57fd0-fcc4-11ef-83ea-79be9e5cae00_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roseodiscus_rhodoleucus_6fb57fd0-fcc4-11ef-83ea-79be9e5cae00_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roseodiscus_rhodoleucus_6fb57fd0-fcc4-11ef-83ea-79be9e5cae00_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Roseodiscus_rhodoleucus_6fb57fd0-fcc4-11ef-83ea-79be9e5cae00_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -101,5 +118,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249480340/thumb.jpg"
   }
  ],
- "timestamp": "20250302-213905"
+ "timestamp": "20250309-203923"
 }

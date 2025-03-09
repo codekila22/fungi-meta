@@ -3,6 +3,7 @@
  "name": "flavoannulata",
  "date": [
   "02/21/2025,9072965819480435",
+  "02/21/2025,9065704060206611",
   "09/26/2023,6451790758264634",
   "08/09/2023,6325829454194099",
   "11/22/2019,3379597255484015",
@@ -149,6 +150,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Descolea_flavoannulata_88be5800-f178-11ef-92b9-29f4d9b9a16c_10.jpg"
+  },
+  {
+   "author": "Erin Peng",
+   "image_src": "Descolea_flavoannulata_98526e90-f778-11ef-809e-cf0970dd79fe_1.jpg"
+  },
+  {
+   "author": "Erin Peng",
+   "image_src": "Descolea_flavoannulata_98526e90-f778-11ef-809e-cf0970dd79fe_2.jpg"
+  },
+  {
+   "author": "Erin Peng",
+   "image_src": "Descolea_flavoannulata_98526e90-f778-11ef-809e-cf0970dd79fe_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -197,5 +210,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4631116/thumb.jpeg"
   }
  ],
- "timestamp": "20250302-213905"
+ "timestamp": "20250309-203923"
 }
