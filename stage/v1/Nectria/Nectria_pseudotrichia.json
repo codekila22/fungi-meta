@@ -2,6 +2,7 @@
  "genus": "Nectria",
  "name": "pseudotrichia",
  "date": [
+  "03/08/2025,9158960874214262",
   "05/02/2024,7375093179267716",
   "01/21/2024,6882840361826336",
   "10/28/2023,6572001512910224",
@@ -98,6 +99,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Nectria_pseudotrichia_c80a38a0-14f9-11ef-8717-078e8175f5d8_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Nectria_pseudotrichia_9bbfd9b0-fc8b-11ef-8fbe-0b05679a9168_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Nectria_pseudotrichia_9bbfd9b0-fc8b-11ef-8fbe-0b05679a9168_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Nectria_pseudotrichia_9bbfd9b0-fc8b-11ef-8fbe-0b05679a9168_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Nectria_pseudotrichia_9bbfd9b0-fc8b-11ef-8fbe-0b05679a9168_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -149,5 +166,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/26049602/thumb.jpg"
   }
  ],
- "timestamp": "20250302-213905"
+ "timestamp": "20250309-160151"
 }

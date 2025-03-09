@@ -2,6 +2,7 @@
  "genus": "Coprinellus",
  "name": "aureogranulatus",
  "date": [
+  "03/07/2025,9152460528197630",
   "03/27/2024,7145396035570766",
   "10/09/2023,6538818102895232",
   "04/09/2023,5865613126882403",
@@ -166,6 +167,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Coprinellus_aureogranulatus_a0921760-eeee-11ee-adbe-47816c37d373_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_aureogranulatus_e4cb5800-fc8b-11ef-9f75-adb360094a15_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_aureogranulatus_e4cb5800-fc8b-11ef-9f75-adb360094a15_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_aureogranulatus_e4cb5800-fc8b-11ef-9f75-adb360094a15_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_aureogranulatus_e4cb5800-fc8b-11ef-9f75-adb360094a15_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_aureogranulatus_e4cb5800-fc8b-11ef-9f75-adb360094a15_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_aureogranulatus_e4cb5800-fc8b-11ef-9f75-adb360094a15_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_aureogranulatus_e4cb5800-fc8b-11ef-9f75-adb360094a15_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_aureogranulatus_e4cb5800-fc8b-11ef-9f75-adb360094a15_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_aureogranulatus_e4cb5800-fc8b-11ef-9f75-adb360094a15_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -216,5 +253,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/133185758/thumb.jpg"
   }
  ],
- "timestamp": "20250302-213905"
+ "timestamp": "20250309-160151"
 }

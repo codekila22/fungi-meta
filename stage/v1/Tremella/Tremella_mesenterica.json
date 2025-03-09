@@ -181,6 +181,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -191,7 +192,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "兩種很像的金耳但寄主真菌不同，Naematelia aurantia 體型一般比較大，寄生在毛韌革菌上，而Tremella mesenterica一般比較小，寄生在隔孢伏革菌屬(Peniophora sp.)上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -202,5 +203,5 @@
    "src": "https://static.inaturalist.org/photos/56108682/thumb.jpeg"
   }
  ],
- "timestamp": "20250302-213905"
+ "timestamp": "20250309-160151"
 }

@@ -1,5 +1,5 @@
 {
- "timestamp": "20250302-213905",
+ "timestamp": "20250309-160151",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -73,6 +73,7 @@
  "groups": {
   "polypores": [
    "Abortiporus,殘孔菌屬,残孔菌属",
+   "Aegerita,球菌屬,球菌属",
    "Albatrellopsis,擬地花菌屬,拟地花菌属",
    "Albatrellus,地花菌屬,地花菌属",
    "Amaropostia,苦味波斯特孔菌屬,苦味波斯特孔菌属",
@@ -86,6 +87,7 @@
    "Bondarcevomyces,帕氏孔菌屬,帕氏孔菌属",
    "Bondarzewia,刺孢多孔菌屬,刺孢多孔菌属",
    "Bresadolia,布氏多孔菌屬,布氏多孔菌属",
+   "Bulbillomyces,球菌屬,球菌属",
    "Byssomerulius,細絲皺皮菌屬,细丝皱皮菌属",
    "Calcipostia,白肉迷孔菌屬,白肉迷孔菌属",
    "Cellulariella,革褶菌屬,革褶菌属",
@@ -983,6 +985,7 @@
   "Aecidium osmanthi,木犀銹孢銹菌,木犀锈孢锈菌",
   "Aecidium paederiae,牛皮凍銹孢銹菌,牛皮冻锈孢锈菌",
   "Aecidium strobilanthis,馬藍銹孢銹菌,马蓝锈孢锈菌",
+  "Aegerita candida,粉球菌,粉球菌",
   "Agaricus abruptibulbus,球基蘑菇,球基蘑菇",
   "Agaricus albosquamosus,白鱗柄蘑菇,白鳞柄蘑菇",
   "Agaricus augustus,大紫蘑菇,大紫蘑菇",
@@ -1286,6 +1289,7 @@
   "Bryoperdon acuminatum,尖頂蘚球菌,尖顶藓球菌",
   "Buchwaldoboletus lignicola,木生腐生牛肝菌,木生腐生牛肝菌",
   "Buellia subdisciformi,亞盤黑瘤衣,亚盘黑瘤衣",
+  "Bulbillomyces farinosus,粉球菌,粉球菌",
   "Bulgaria inquinans,污膠陀螺菌,污胶陀螺菌",
   "Bunodophoron diplotypum,二型球孢球粉衣,二型球孢球粉衣",
   "Bunodophoron formosanum,台灣球孢球粉衣,台湾球孢球粉衣",
@@ -3067,6 +3071,7 @@
   "Rhytidhysteron hysterinum,縱縫裂菌,纵缝裂菌",
   "Rhytidhysteron neorufulum,新紅皺裂菌,新红皱裂菌",
   "Rhytidhysteron rufulum,紅皺裂菌,红皱裂菌",
+  "Rhytidhysteron tectonae,柚木皺裂菌,柚木皱裂菌",
   "Rhytisma acerinum,楓樹斑痣盤菌,枫树斑痣盘菌",
   "Rickenella fibula,絲狀里肯菇,丝状里肯菇",
   "Rigidoporus lineatus,線條硬孔菌,线条硬孔菌",
