@@ -2,6 +2,7 @@
  "genus": "Polyporus",
  "name": "hapalopus",
  "date": [
+  "03/09/2025,9171370979639918",
   "08/20/2015,771655006278266"
  ],
  "names_zhtw": [
@@ -25,6 +26,46 @@
   {
    "author": "陳雅芬",
    "image_src": "Bresadolia_hapalopus_268c0340-d112-11ed-96a5-f9c09493618b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_hapalopus_c7f052f0-0215-11f0-93ac-99568cbfcbeb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_hapalopus_c7f052f0-0215-11f0-93ac-99568cbfcbeb_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_hapalopus_c7f052f0-0215-11f0-93ac-99568cbfcbeb_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_hapalopus_c7f052f0-0215-11f0-93ac-99568cbfcbeb_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_hapalopus_c7f052f0-0215-11f0-93ac-99568cbfcbeb_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_hapalopus_c7f052f0-0215-11f0-93ac-99568cbfcbeb_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_hapalopus_c7f052f0-0215-11f0-93ac-99568cbfcbeb_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_hapalopus_c7f052f0-0215-11f0-93ac-99568cbfcbeb_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_hapalopus_c7f052f0-0215-11f0-93ac-99568cbfcbeb_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_hapalopus_c7f052f0-0215-11f0-93ac-99568cbfcbeb_10.jpg"
   }
  ],
  "synonym": [
@@ -38,8 +79,8 @@
   "软肉多孔菌"
  ],
  "meta": {
-  "CapColors": "4294967295",
-  "CapDiamRangeValues": "0,100",
+  "CapColors": "4294967295,4286141768",
+  "CapDiamRangeValues": "0,400",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -49,7 +90,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -70,10 +111,18 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Bresadolia uda,Picipes admirabilis,",
-  "Note": "",
+  "Note": "菌蓋有放射狀條紋。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "潮潤布氏多孔菌,多斑黑柄多孔菌,",
   "la_zhcn": "潮润布氏多孔菌,多斑黑柄多孔菌,"
  },
- "timestamp": "20250316-111051"
+ "inaturalist": [
+  {
+   "name": "Polyporus hapalopus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1586174-Polyporus-hapalopus",
+   "src": "https://static.inaturalist.org/photos/172530456/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250316-120948"
 }

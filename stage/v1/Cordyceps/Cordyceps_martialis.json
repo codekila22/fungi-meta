@@ -2,6 +2,7 @@
  "genus": "Cordyceps",
  "name": "martialis",
  "date": [
+  "03/09/2025,9198932793550403",
   "03/29/2024,7185674974876205",
   "03/12/2024,7107019652741738",
   "10/12/2023,6524737587636617",
@@ -255,6 +256,26 @@
   {
    "author": "江志緯",
    "image_src": "Cordyceps_martialis_1f4831b0-f49a-11ee-b8cc-ef869552b6dd_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cordyceps_martialis_548dfc20-0217-11f0-8141-f59f8dfc37e4_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cordyceps_martialis_548dfc20-0217-11f0-8141-f59f8dfc37e4_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cordyceps_martialis_548dfc20-0217-11f0-8141-f59f8dfc37e4_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cordyceps_martialis_548dfc20-0217-11f0-8141-f59f8dfc37e4_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cordyceps_martialis_548dfc20-0217-11f0-8141-f59f8dfc37e4_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -302,5 +323,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/36156557/thumb.jpg"
   }
  ],
- "timestamp": "20250316-111051"
+ "timestamp": "20250316-120948"
 }

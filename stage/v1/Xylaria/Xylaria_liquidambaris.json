@@ -2,6 +2,7 @@
  "genus": "Xylaria",
  "name": "liquidambaris",
  "date": [
+  "03/15/2025,9202186383225044",
   "05/25/2024,7410023359108031",
   "05/07/2024,7324064747703893",
   "05/01/2023,5934220350021680",
@@ -159,6 +160,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Xylaria_liquidambaris_5ff66f90-1b34-11ef-a4e3-3705c03140d8_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Xylaria_liquidambaris_b0928b70-0218-11f0-ad63-0515cd2c2a99_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Xylaria_liquidambaris_b0928b70-0218-11f0-ad63-0515cd2c2a99_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Xylaria_liquidambaris_b0928b70-0218-11f0-ad63-0515cd2c2a99_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Xylaria_liquidambaris_b0928b70-0218-11f0-ad63-0515cd2c2a99_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Xylaria_liquidambaris_b0928b70-0218-11f0-ad63-0515cd2c2a99_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -207,5 +228,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2339698/thumb.jpg"
   }
  ],
- "timestamp": "20250316-111051"
+ "timestamp": "20250316-120948"
 }
