@@ -2,12 +2,15 @@
  "name": "Bresadolia",
  "zhtw": "布氏多孔菌屬",
  "zhcn": "布氏多孔菌属",
- "timestamp": "20250309-203923",
+ "timestamp": "20250316-170739",
  "list": [
   {
    "name": "Bresadolia hapalopus",
    "zhtw": "軟肉布氏孔菌",
    "zhcn": "软肉布氏孔菌",
+   "current": "Polyporus hapalopus",
+   "current_zhtw": "軟肉多孔菌",
+   "current_zhcn": "软肉多孔菌",
    "img": "Bresadolia_hapalopus_268c0340-d112-11ed-96a5-f9c09493618b_1.jpg"
   },
   {

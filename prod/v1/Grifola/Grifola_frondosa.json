@@ -2,6 +2,8 @@
  "genus": "Grifola",
  "name": "frondosa",
  "date": [
+  "03/09/2025,9199663956810620",
+  "03/07/2025,9152644654845884",
   "08/22/2023,6321176834659361",
   "03/23/2020,2669233973187017"
  ],
@@ -14,12 +16,96 @@
  "url": "2669233973187017",
  "images": [
   {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_4.jpg"
+  },
+  {
    "author": "王亞瑟",
    "image_src": "Grifola_frondosa_1_CC BY-NC_王亞瑟.jpg"
   },
   {
    "author": "王亞瑟",
    "image_src": "Grifola_frondosa_2_CC BY-NC_王亞瑟.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Grifola_frondosa_58c4c3a0-01f9-11f0-b865-4340b8563da9_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Grifola_frondosa_58c4c3a0-01f9-11f0-b865-4340b8563da9_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Grifola_frondosa_58c4c3a0-01f9-11f0-b865-4340b8563da9_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Grifola_frondosa_58c4c3a0-01f9-11f0-b865-4340b8563da9_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Grifola_frondosa_58c4c3a0-01f9-11f0-b865-4340b8563da9_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_15.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_16.jpg"
   }
  ],
  "names_zhcn": [
@@ -28,7 +114,7 @@
  "meta": {
   "CapColors": "4286611584,4291605388",
   "CapDiamRangeValues": "",
-  "CapShape": "100,1000",
+  "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
   "HymeniumType": "pored",
@@ -70,5 +156,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027079/thumb.jpg"
   }
  ],
- "timestamp": "20250309-203923"
+ "timestamp": "20250316-170739"
 }

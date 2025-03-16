@@ -7,7 +7,8 @@
   "01/05/2024,6834942493282790",
   "06/02/2023,6045156035594777",
   "05/26/2023,6020151128095268",
-  "05/25/2023,6018576758252705"
+  "05/25/2023,6018576758252705",
+  "08/01/2021,9186763644767318"
  ],
  "names_zhtw": [
   "變色糞傘之相似種"
@@ -174,6 +175,22 @@
   {
    "author": "徐秀團",
    "image_src": "Bolbitius_cf. variicolor_004cc060-1f41-11ef-bcd3-0d41571a6d21_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Bolbitius_cf. variicolor_5b8a3eb0-0219-11f0-9360-f379ff61978e_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Bolbitius_cf. variicolor_5b8a3eb0-0219-11f0-9360-f379ff61978e_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Bolbitius_cf. variicolor_5b8a3eb0-0219-11f0-9360-f379ff61978e_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Bolbitius_cf. variicolor_5b8a3eb0-0219-11f0-9360-f379ff61978e_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -223,5 +240,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/56764251/thumb.jpg"
   }
  ],
- "timestamp": "20250309-203923"
+ "timestamp": "20250316-170739"
 }

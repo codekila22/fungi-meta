@@ -1,0 +1,85 @@
+{
+ "genus": "Colletotrichum",
+ "name": "sansevieriae",
+ "date": [
+  "03/03/2025,9139708732806143"
+ ],
+ "names_zhtw": [
+  "虎尾蘭炭疽病菌"
+ ],
+ "names_en": [],
+ "url": "9139708732806143",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_sansevieriae_56110160-0211-11f0-a1b2-1b887cca5ed1_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_sansevieriae_56110160-0211-11f0-a1b2-1b887cca5ed1_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_sansevieriae_56110160-0211-11f0-a1b2-1b887cca5ed1_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_sansevieriae_56110160-0211-11f0-a1b2-1b887cca5ed1_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_sansevieriae_56110160-0211-11f0-a1b2-1b887cca5ed1_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_sansevieriae_56110160-0211-11f0-a1b2-1b887cca5ed1_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "虎尾兰炭疽病菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Colletotrichum sansevieriae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1452896-Colletotrichum-sansevieriae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/472341939/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20250316-170739"
+}

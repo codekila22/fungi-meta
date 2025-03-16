@@ -2,8 +2,14 @@
  "name": "Flammulina",
  "zhtw": "小火菇屬",
  "zhcn": "小火菇属",
- "timestamp": "20250309-203923",
+ "timestamp": "20250316-170739",
  "list": [
+  {
+   "name": "Flammulina fennae",
+   "zhtw": "芬娜冬菇",
+   "zhcn": "芬娜冬菇",
+   "img": "Flammulina_fennae_956844e0-0216-11f0-a805-6d5979eaf668_1.jpg"
+  },
   {
    "name": "Flammulina filiformis",
    "zhtw": "金針菇",

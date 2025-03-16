@@ -2,6 +2,7 @@
  "genus": "Polyporus",
  "name": "grammocephalus",
  "date": [
+  "03/10/2025,9186463561463993",
   "04/29/2024,7285288268248208",
   "07/08/2023,6171999572910422",
   "06/04/2023,6126726604104386",
@@ -116,6 +117,26 @@
   {
    "author": "徐秀團",
    "image_src": "Polyporus_grammocephalus_21472a50-09b4-11ef-ba7b-3fa64a265d78_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_grammocephalus_a489a7e0-0241-11f0-9afe-392fdabe9367_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_grammocephalus_a489a7e0-0241-11f0-9afe-392fdabe9367_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_grammocephalus_a489a7e0-0241-11f0-9afe-392fdabe9367_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_grammocephalus_a489a7e0-0241-11f0-9afe-392fdabe9367_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_grammocephalus_a489a7e0-0241-11f0-9afe-392fdabe9367_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -153,9 +174,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Polyporus hapalopus,,",
   "Note": "無菌柄或短柄，菌蓋放射條紋狀，表面會從乳白色慢慢變化成褐色。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "軟肉多孔菌,,",
+  "la_zhcn": "软肉多孔菌,,"
  },
  "inaturalist": [
   {
@@ -165,5 +188,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/183805033/thumb.jpg"
   }
  ],
- "timestamp": "20250309-203923"
+ "timestamp": "20250316-170739"
 }
