@@ -13,6 +13,10 @@
  "url": "6126715810772132",
  "images": [
   {
+   "author": "蔣珮瑩",
+   "image_src": "Whalleya_microplaca_143af630-f71f-11ef-b526-fdef67d410bb_2.jpg"
+  },
+  {
    "author": "柯文俊",
    "image_src": "Whalleya_microplaca_1_CC BY-NC_柯文俊.jpg"
   },
@@ -83,10 +87,6 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Whalleya_microplaca_143af630-f71f-11ef-b526-fdef67d410bb_1.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Whalleya_microplaca_143af630-f71f-11ef-b526-fdef67d410bb_2.jpg"
   },
   {
    "author": "蔣珮瑩",
@@ -183,5 +183,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176603650/thumb.jpg"
   }
  ],
- "timestamp": "20250316-100816"
+ "timestamp": "20250316-111051"
 }

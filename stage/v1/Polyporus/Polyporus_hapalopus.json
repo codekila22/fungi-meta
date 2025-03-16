@@ -1,0 +1,79 @@
+{
+ "genus": "Polyporus",
+ "name": "hapalopus",
+ "date": [
+  "08/20/2015,771655006278266"
+ ],
+ "names_zhtw": [
+  "軟肉多孔菌"
+ ],
+ "names_en": [],
+ "url": "771655006278266",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Bresadolia_hapalopus_268c0340-d112-11ed-96a5-f9c09493618b_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Bresadolia_hapalopus_268c0340-d112-11ed-96a5-f9c09493618b_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Bresadolia_hapalopus_268c0340-d112-11ed-96a5-f9c09493618b_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Bresadolia_hapalopus_268c0340-d112-11ed-96a5-f9c09493618b_4.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Bresadolia hapalopus",
+   "zhtw": "軟肉布氏孔菌",
+   "zhcn": "软肉布氏孔菌"
+  }
+ ],
+ "names_zhcn": [
+  "软肉多孔菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "0,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Bresadolia uda,Picipes admirabilis,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "潮潤布氏多孔菌,多斑黑柄多孔菌,",
+  "la_zhcn": "潮润布氏多孔菌,多斑黑柄多孔菌,"
+ },
+ "timestamp": "20250316-111051"
+}

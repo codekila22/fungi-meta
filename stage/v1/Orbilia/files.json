@@ -2,7 +2,7 @@
  "name": "Orbilia",
  "zhtw": "圓盤菌屬",
  "zhcn": "圆盘菌属",
- "timestamp": "20250316-100816",
+ "timestamp": "20250316-111051",
  "list": [
   {
    "name": "Orbilia aurantiorubra",
@@ -15,6 +15,12 @@
    "zhtw": "金色圓盤菌",
    "zhcn": "金色圆盘菌",
    "img": "Orbilia_auricolor_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Orbilia cf. pilifera",
+   "zhtw": "疑似毛圓盤菌",
+   "zhcn": "疑似毛圆盘菌",
+   "img": "Orbilia_cf. pilifera_b73af490-020d-11f0-8989-5540f9a2a68a_1.jpg"
   },
   {
    "name": "Orbilia delicatula",

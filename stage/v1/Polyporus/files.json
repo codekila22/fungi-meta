@@ -2,7 +2,7 @@
  "name": "Polyporus",
  "zhtw": "多孔菌屬",
  "zhcn": "多孔菌属",
- "timestamp": "20250316-100816",
+ "timestamp": "20250316-111051",
  "list": [
   {
    "name": "Polyporus admirabilis",
@@ -54,6 +54,12 @@
    "zhtw": "條蓋多孔菌",
    "zhcn": "条盖多孔菌",
    "img": "Polyporus_grammocephalus_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Polyporus hapalopus",
+   "zhtw": "軟肉多孔菌",
+   "zhcn": "软肉多孔菌",
+   "img": "Bresadolia_hapalopus_268c0340-d112-11ed-96a5-f9c09493618b_1.jpg"
   },
   {
    "name": "Polyporus melanopus",
