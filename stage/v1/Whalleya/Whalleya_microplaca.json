@@ -2,6 +2,7 @@
  "genus": "Whalleya",
  "name": "microplaca",
  "date": [
+  "03/09/2025,9165236513586698",
   "02/04/2025,8972756186168066",
   "06/30/2023,6126715810772132"
  ],
@@ -114,6 +115,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Whalleya_microplaca_143af630-f71f-11ef-b526-fdef67d410bb_9.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Whalleya_microplaca_e36ec210-fd37-11ef-9721-ef5bf249640c_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Whalleya_microplaca_e36ec210-fd37-11ef-9721-ef5bf249640c_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Whalleya_microplaca_e36ec210-fd37-11ef-9721-ef5bf249640c_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Whalleya_microplaca_e36ec210-fd37-11ef-9721-ef5bf249640c_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Whalleya_microplaca_e36ec210-fd37-11ef-9721-ef5bf249640c_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -162,5 +183,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176603650/thumb.jpg"
   }
  ],
- "timestamp": "20250309-203923"
+ "timestamp": "20250316-100816"
 }
