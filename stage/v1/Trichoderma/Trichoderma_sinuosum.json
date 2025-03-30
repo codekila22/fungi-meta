@@ -52,5 +52,13 @@
  "names_zhcn": [
   "曲折木霉菌"
  ],
- "timestamp": "20250330-190919"
+ "inaturalist": [
+  {
+   "name": "Trichoderma sinuosum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/882099-Trichoderma-sinuosum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24790310/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250330-200931"
 }

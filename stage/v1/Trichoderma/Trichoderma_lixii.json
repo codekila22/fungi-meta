@@ -1,15 +1,14 @@
 {
  "genus": "Trichoderma",
  "name": "lixii",
+ "synonym": [],
  "date": [
   "03/22/2025,9243480882428927"
  ],
  "names_zhtw": [
   "綠西木黴菌"
  ],
- "names_en": [
-  "Hypocrea lixii"
- ],
+ "names_en": [],
  "url": "9243480882428927",
  "images": [
   {
@@ -40,5 +39,13 @@
  "names_zhcn": [
   "绿西木霉菌"
  ],
- "timestamp": "20250330-190919"
+ "inaturalist": [
+  {
+   "name": "Trichoderma lixii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/959892-Trichoderma-lixii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28219888/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250330-200931"
 }
