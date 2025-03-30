@@ -2,13 +2,19 @@
  "name": "Mycosphaerella",
  "zhtw": "球腔菌屬",
  "zhcn": "球腔菌属",
- "timestamp": "20250316-170739",
+ "timestamp": "20250330-203112",
  "list": [
   {
    "name": "Mycosphaerella caricae",
    "zhtw": "番木瓜球腔菌",
    "zhcn": "番木瓜球腔菌",
    "img": "Mycosphaerella_caricae_10d35e80-0212-11f0-b39f-b93a9de5a46e_1.jpg"
+  },
+  {
+   "name": "Mycosphaerella fijiensis",
+   "zhtw": "香蕉葉斑病",
+   "zhcn": "香蕉叶斑病",
+   "img": "Mycosphaerella_fijiensis_1270c640-0872-11f0-b5c3-9bc44451502b_1.jpg"
   }
  ]
 }

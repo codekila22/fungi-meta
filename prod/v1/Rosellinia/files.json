@@ -2,13 +2,19 @@
  "name": "Rosellinia",
  "zhtw": "炭豆菌屬",
  "zhcn": "炭豆菌属",
- "timestamp": "20250316-170739",
+ "timestamp": "20250330-203112",
  "list": [
   {
    "name": "Rosellinia aquila",
    "zhtw": "附孢炭豆菌",
    "zhcn": "附孢炭豆菌",
    "img": "Rosellinia_aquila_0d836a80-a643-11ee-9015-fb4d07a4b43c_1.jpg"
+  },
+  {
+   "name": "Rosellinia corticium",
+   "zhtw": "類附胞炭豆菌",
+   "zhcn": "类附胞炭豆菌",
+   "img": "Rosellinia_corticium_ccbf2150-0871-11f0-8598-517000192122_1.jpg"
   },
   {
    "name": "Rosellinia longispora",

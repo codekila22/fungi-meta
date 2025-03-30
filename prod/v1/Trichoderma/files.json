@@ -2,7 +2,7 @@
  "name": "Trichoderma",
  "zhtw": "木黴菌屬",
  "zhcn": "木霉菌属",
- "timestamp": "20250316-170739",
+ "timestamp": "20250330-203112",
  "list": [
   {
    "name": "Trichoderma citrinoviride",
@@ -26,16 +26,28 @@
    "name": "Trichoderma harzianum",
    "zhtw": "哈茨木黴菌",
    "zhcn": "哈茨木霉菌",
-   "current": "Hypocrea lixii",
-   "current_zhtw": "綠西肉座菌",
-   "current_zhcn": "绿西肉座菌",
-   "img": "Hypocrea_lixii_3e9b77a0-fd3a-11ed-86e6-ef11a8b92695_1.jpg"
+   "current": "Trichoderma lixii",
+   "current_zhtw": "綠西木黴菌",
+   "current_zhcn": "绿西木霉菌",
+   "img": "Trichoderma_lixii_592ec790-0871-11f0-9a70-2746f022c7c6_1.jpg"
   },
   {
    "name": "Trichoderma jecorina",
    "zhtw": "紅褐木黴菌",
    "zhcn": "红褐木霉菌",
    "img": "Hypocrea_jecorina_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Trichoderma lixii",
+   "zhtw": "綠西木黴菌",
+   "zhcn": "绿西木霉菌",
+   "img": "Trichoderma_lixii_592ec790-0871-11f0-9a70-2746f022c7c6_1.jpg"
+  },
+  {
+   "name": "Trichoderma sinuosum",
+   "zhtw": "曲折木黴菌",
+   "zhcn": "曲折木霉菌",
+   "img": "Trichoderma_sinuosum_0de26ef0-078a-11f0-a2b8-93360e0bc43d_1.jpg"
   },
   {
    "name": "Trichoderma sulphureum",
