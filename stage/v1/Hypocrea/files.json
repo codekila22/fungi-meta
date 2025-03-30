@@ -2,7 +2,7 @@
  "name": "Hypocrea",
  "zhtw": "肉座菌屬",
  "zhcn": "肉座菌属",
- "timestamp": "20250330-200931",
+ "timestamp": "20250330-202117",
  "list": [
   {
    "name": "Hypocrea cf. rogersonii",
@@ -44,7 +44,10 @@
    "name": "Hypocrea lixii",
    "zhtw": "綠西肉座菌",
    "zhcn": "绿西肉座菌",
-   "img": "Hypocrea_lixii_3e9b77a0-fd3a-11ed-86e6-ef11a8b92695_1.jpg"
+   "current": "Trichoderma lixii",
+   "current_zhtw": "綠西木黴菌",
+   "current_zhcn": "绿西木霉菌",
+   "img": "Trichoderma_lixii_592ec790-0871-11f0-9a70-2746f022c7c6_1.jpg"
   },
   {
    "name": "Hypocrea peltata",
