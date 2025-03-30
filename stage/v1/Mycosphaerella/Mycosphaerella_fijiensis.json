@@ -34,6 +34,42 @@
  "names_zhcn": [
   "香蕉叶斑病"
  ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "香蕉常見病害。",
+  "GrowthEco": "saprotrophic"
+ },
  "inaturalist": [
   {
    "name": "Pseudocercospora fijiensis",
@@ -42,5 +78,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4193858/thumb.jpg"
   }
  ],
- "timestamp": "20250330-202117"
+ "timestamp": "20250330-203112"
 }
