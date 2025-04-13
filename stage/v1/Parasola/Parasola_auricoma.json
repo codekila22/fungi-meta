@@ -2,6 +2,7 @@
  "genus": "Parasola",
  "name": "auricoma",
  "date": [
+  "04/11/2025,9376268999150114",
   "10/08/2022,5308507322592989"
  ],
  "names_zhtw": [
@@ -53,6 +54,30 @@
   {
    "author": "Joseph Yeh",
    "image_src": "Parasola_auricoma_11_CC BY-NC_Joseph Yeh.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Parasola_auricoma_4fdd0620-182f-11f0-9143-dd108cefd3fe_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Parasola_auricoma_4fdd0620-182f-11f0-9143-dd108cefd3fe_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Parasola_auricoma_4fdd0620-182f-11f0-9143-dd108cefd3fe_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Parasola_auricoma_4fdd0620-182f-11f0-9143-dd108cefd3fe_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Parasola_auricoma_4fdd0620-182f-11f0-9143-dd108cefd3fe_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Parasola_auricoma_4fdd0620-182f-11f0-9143-dd108cefd3fe_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -102,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1627306/thumb.jpg"
   }
  ],
- "timestamp": "20250330-203112"
+ "timestamp": "20250413-145357"
 }

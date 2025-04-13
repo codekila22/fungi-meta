@@ -2,7 +2,7 @@
  "name": "Bovista",
  "zhtw": "灰球菌屬",
  "zhcn": "灰球菌属",
- "timestamp": "20250330-203112",
+ "timestamp": "20250413-145357",
  "list": [
   {
    "name": "Bovista acuminate",
@@ -24,6 +24,12 @@
    "zhtw": "鉛色灰球菌",
    "zhcn": "铅色灰球菌",
    "img": "Bovista_plumbea_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Bovista pusilla",
+   "zhtw": "小灰球菌",
+   "zhcn": "小灰球菌",
+   "img": "Bovista_pusilla_bcda90b0-1831-11f0-ab76-8f76edd7a31a_1.jpg"
   }
  ]
 }

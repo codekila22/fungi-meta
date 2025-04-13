@@ -2,7 +2,7 @@
  "name": "Cladonia",
  "zhtw": "石蕊屬",
  "zhcn": "石蕊属",
- "timestamp": "20250330-203112",
+ "timestamp": "20250413-145357",
  "list": [
   {
    "name": "Cladonia bellidiflora",
@@ -93,6 +93,12 @@
    "zhtw": "粗皮石蕊",
    "zhcn": "粗皮石蕊",
    "img": "Cladonia_scabriuscula_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Cladonia subconistea",
+   "zhtw": "擬小杯石蕊",
+   "zhcn": "拟小杯石蕊",
+   "img": "Cladonia_subconistea_ced4a3e0-1814-11f0-beca-0d5e4279832b_1.jpg"
   }
  ]
 }
