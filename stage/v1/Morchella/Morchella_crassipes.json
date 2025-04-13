@@ -58,5 +58,13 @@
   "Note": "此種菌柄較為粗壯。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250413-150407"
+ "inaturalist": [
+  {
+   "name": "Morchella semilibera",
+   "cname": "Semifree Morel",
+   "url": "https://www.inaturalist.org/taxa/1062775-Morchella-semilibera",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/185479950/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250413-191744"
 }

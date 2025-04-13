@@ -16,10 +16,6 @@
  "images": [
   {
    "author": "蔣珮瑩",
-   "image_src": "Heterochaete_cf. delicata_240c7e90-9b58-11ee-a3b5-553e2298189e_1.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
    "image_src": "Heterochaete_cf. delicata_240c7e90-9b58-11ee-a3b5-553e2298189e_2.jpg"
   },
   {
@@ -45,10 +41,6 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Heterochaete_cf. delicata_240c7e90-9b58-11ee-a3b5-553e2298189e_4.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Heterochaete_cf. delicata_240c7e90-9b58-11ee-a3b5-553e2298189e_5.jpg"
   },
   {
    "author": "蔣珮瑩",
@@ -194,5 +186,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/222843684/thumb.jpg"
   }
  ],
- "timestamp": "20250413-150407"
+ "timestamp": "20250413-191744"
 }

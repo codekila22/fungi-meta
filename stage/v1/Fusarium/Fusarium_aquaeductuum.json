@@ -82,5 +82,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250413-150407"
+ "inaturalist": [
+  {
+   "name": "Fusicolla aquaeductuum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1107251-Fusicolla-aquaeductuum",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250413-191744"
 }

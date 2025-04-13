@@ -2,6 +2,7 @@
  "genus": "Ciboria",
  "name": "shiraiana",
  "date": [
+  "02/25/2025,9342943335816014",
   "04/07/2024,7306078512835850",
   "03/08/2024,7073299372780433",
   "02/18/2024,7003832849727086",
@@ -418,6 +419,18 @@
   {
    "author": "江志緯",
    "image_src": "Ciboria_shiraiana_47fb3a90-09a7-11ef-ac69-d784a06db673_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Ciboria_shiraiana_5d950960-183f-11f0-b09e-1fdf1d1eeb5a_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Ciboria_shiraiana_5d950960-183f-11f0-b09e-1fdf1d1eeb5a_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Ciboria_shiraiana_5d950960-183f-11f0-b09e-1fdf1d1eeb5a_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -467,5 +480,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/262976676/thumb.jpeg"
   }
  ],
- "timestamp": "20250413-150407"
+ "timestamp": "20250413-191744"
 }
