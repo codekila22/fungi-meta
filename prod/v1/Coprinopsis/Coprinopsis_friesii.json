@@ -2,6 +2,7 @@
  "genus": "Coprinopsis",
  "name": "friesii",
  "date": [
+  "04/02/2025,9320979764679038",
   "08/17/2024,7947966031980425",
   "06/03/2024,7448471181929915",
   "10/12/2023,6509843162459393",
@@ -221,6 +222,34 @@
   {
    "author": "江志緯",
    "image_src": "Coprinopsis_friesii_f38a87f0-6733-11ef-8f95-4943a0fc7aee_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Coprinopsis_friesii_3417ddf0-1813-11f0-b302-a7a0849bcd44_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Coprinopsis_friesii_3417ddf0-1813-11f0-b302-a7a0849bcd44_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Coprinopsis_friesii_3417ddf0-1813-11f0-b302-a7a0849bcd44_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Coprinopsis_friesii_3417ddf0-1813-11f0-b302-a7a0849bcd44_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Coprinopsis_friesii_3417ddf0-1813-11f0-b302-a7a0849bcd44_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Coprinopsis_friesii_3417ddf0-1813-11f0-b302-a7a0849bcd44_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Coprinopsis_friesii_3417ddf0-1813-11f0-b302-a7a0849bcd44_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -271,5 +300,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108282291/thumb.jpeg"
   }
  ],
- "timestamp": "20250330-203112"
+ "timestamp": "20250413-191744"
 }

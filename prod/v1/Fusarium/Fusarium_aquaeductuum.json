@@ -1,0 +1,94 @@
+{
+ "genus": "Fusarium",
+ "name": "aquaeductuum",
+ "date": [
+  "04/03/2025,9359927174117630"
+ ],
+ "names_zhtw": [
+  "銳形鐮孢菌"
+ ],
+ "names_en": [],
+ "url": "9359927174117630",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Fusarium_aquaeductuum_f9615aa0-182c-11f0-b48e-0fe1c4c9438e_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fusarium_aquaeductuum_f9615aa0-182c-11f0-b48e-0fe1c4c9438e_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fusarium_aquaeductuum_f9615aa0-182c-11f0-b48e-0fe1c4c9438e_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fusarium_aquaeductuum_f9615aa0-182c-11f0-b48e-0fe1c4c9438e_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fusarium_aquaeductuum_f9615aa0-182c-11f0-b48e-0fe1c4c9438e_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fusarium_aquaeductuum_f9615aa0-182c-11f0-b48e-0fe1c4c9438e_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fusarium_aquaeductuum_f9615aa0-182c-11f0-b48e-0fe1c4c9438e_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fusarium_aquaeductuum_f9615aa0-182c-11f0-b48e-0fe1c4c9438e_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "锐形镰孢菌"
+ ],
+ "meta": {
+  "CapColors": "4294944000,4294956800",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "bamboo",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Fusicolla aquaeductuum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1107251-Fusicolla-aquaeductuum",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250413-191744"
+}

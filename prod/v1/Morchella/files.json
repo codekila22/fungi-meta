@@ -2,8 +2,14 @@
  "name": "Morchella",
  "zhtw": "羊肚菌屬",
  "zhcn": "羊肚菌属",
- "timestamp": "20250330-203112",
+ "timestamp": "20250413-191744",
  "list": [
+  {
+   "name": "Morchella crassipes",
+   "zhtw": "粗柄羊肚菌",
+   "zhcn": "粗柄羊肚菌",
+   "img": "Morchella_crassipes_f07cd870-181c-11f0-b62c-839806bc6843_1.jpg"
+  },
   {
    "name": "Morchella elata",
    "zhtw": "高羊肚菌",
