@@ -2,13 +2,14 @@
  "genus": "Fuscoporia",
  "name": "formosana",
  "date": [
-  "01/01/0001"
+  "04/12/2025,9389788571131490",
+  "10/25/2015,801621989948234"
  ],
  "names_zhtw": [
   "福爾摩沙褐孔菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/758",
+ "url": "9389788571131490",
  "images": [
   {
    "author": "陳啟仁",
@@ -33,6 +34,22 @@
   {
    "author": "陳啟仁",
    "image_src": "Fuscoporia_formosana_6_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "張道弘",
+   "image_src": "Fuscoporia_formosana_351f05f0-18dd-11f0-a5e8-d9178aedaffb_1.jpg"
+  },
+  {
+   "author": "張道弘",
+   "image_src": "Fuscoporia_formosana_351f05f0-18dd-11f0-a5e8-d9178aedaffb_2.jpg"
+  },
+  {
+   "author": "張道弘",
+   "image_src": "Fuscoporia_formosana_351f05f0-18dd-11f0-a5e8-d9178aedaffb_3.jpg"
+  },
+  {
+   "author": "張道弘",
+   "image_src": "Fuscoporia_formosana_351f05f0-18dd-11f0-a5e8-d9178aedaffb_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -81,5 +98,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250413-191744"
+ "timestamp": "20250420-162827"
 }

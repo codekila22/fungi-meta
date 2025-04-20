@@ -2,13 +2,19 @@
  "name": "Lentinula",
  "zhtw": "香菇屬",
  "zhcn": "香菇属",
- "timestamp": "20250413-191744",
+ "timestamp": "20250420-162827",
  "list": [
   {
    "name": "Lentinula edodes",
    "zhtw": "香菇",
    "zhcn": "香菇",
    "img": "Lentinula_edodes_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Lentinula ixodes",
+   "zhtw": "深棕色香菇",
+   "zhcn": "深棕色香菇",
+   "img": "Lentinula_ixodes_1d668c30-1d7e-11f0-9148-1d91d61c2421_1.jpg"
   }
  ]
 }

@@ -2,6 +2,7 @@
  "genus": "Xylaria",
  "name": "flabelliformis",
  "date": [
+  "03/17/2025,9395470140563333",
   "02/19/2025,9055220964588254",
   "04/20/2024,7247607908682911",
   "02/28/2024,7040372059406498",
@@ -199,6 +200,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Xylaria_flabelliformis_d85d1e40-d901-11ee-9eb0-eb880c664c94_10.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Xylaria_flabelliformis_99233b00-19c5-11f0-ad32-09b3c038a239_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Xylaria_flabelliformis_99233b00-19c5-11f0-ad32-09b3c038a239_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Xylaria_flabelliformis_99233b00-19c5-11f0-ad32-09b3c038a239_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -249,5 +262,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156815725/thumb.jpg"
   }
  ],
- "timestamp": "20250413-191744"
+ "timestamp": "20250420-162827"
 }

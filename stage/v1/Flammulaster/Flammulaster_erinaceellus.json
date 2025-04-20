@@ -2,6 +2,7 @@
  "genus": "Flammulaster",
  "name": "erinaceellus",
  "date": [
+  "04/12/2025,9416058311837849",
   "03/21/2024,7301667146610320",
   "11/02/2022,5384392725004448",
   "07/14/2004,5526543924122660"
@@ -111,6 +112,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Flammulaster_erinaceellus_9c386bd0-100c-11ef-b416-85853545e175_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flammulaster_erinaceellus_b3840a90-1b89-11f0-992f-9b2ad86cc011_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flammulaster_erinaceellus_b3840a90-1b89-11f0-992f-9b2ad86cc011_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flammulaster_erinaceellus_b3840a90-1b89-11f0-992f-9b2ad86cc011_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flammulaster_erinaceellus_b3840a90-1b89-11f0-992f-9b2ad86cc011_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -160,5 +177,5 @@
    "src": "https://static.inaturalist.org/photos/5807674/thumb.jpg"
   }
  ],
- "timestamp": "20250413-191744"
+ "timestamp": "20250420-162827"
 }

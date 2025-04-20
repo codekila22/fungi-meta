@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "australe",
  "date": [
+  "04/12/2025,9430092397101107",
   "10/27/2024,8446168302160193",
   "10/13/2024,8315480335228991",
   "02/02/2024,6929580157152356",
@@ -179,6 +180,42 @@
   {
    "author": "江志緯",
    "image_src": "Ganoderma_australe_c12fd610-9e98-11ef-9f59-db7df2d9998d_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_23ec2940-1dae-11f0-ac79-4dc7128e2f38_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_23ec2940-1dae-11f0-ac79-4dc7128e2f38_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_23ec2940-1dae-11f0-ac79-4dc7128e2f38_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_23ec2940-1dae-11f0-ac79-4dc7128e2f38_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_23ec2940-1dae-11f0-ac79-4dc7128e2f38_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_23ec2940-1dae-11f0-ac79-4dc7128e2f38_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_23ec2940-1dae-11f0-ac79-4dc7128e2f38_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_23ec2940-1dae-11f0-ac79-4dc7128e2f38_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_23ec2940-1dae-11f0-ac79-4dc7128e2f38_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -230,5 +267,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/54211256/thumb.jpeg"
   }
  ],
- "timestamp": "20250413-191744"
+ "timestamp": "20250420-162827"
 }
