@@ -2,6 +2,7 @@
  "genus": "Chrysomphalina",
  "name": "aurantiaca",
  "date": [
+  "04/16/2025,9411188895658124",
   "05/29/2024,7427729250670775",
   "04/24/2023,5913257115451337",
   "11/02/2022,5389712851139102",
@@ -205,6 +206,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Chrysomphalina_aurantiaca_dcd2e120-208d-11ef-96b4-478b28c02468_19.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chrysomphalina_aurantiaca_222214a0-1dcf-11f0-83fb-297d784a6f49_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chrysomphalina_aurantiaca_222214a0-1dcf-11f0-83fb-297d784a6f49_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chrysomphalina_aurantiaca_222214a0-1dcf-11f0-83fb-297d784a6f49_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chrysomphalina_aurantiaca_222214a0-1dcf-11f0-83fb-297d784a6f49_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -253,5 +270,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12439064/thumb.jpeg"
   }
  ],
- "timestamp": "20250420-164302"
+ "timestamp": "20250420-211644"
 }
