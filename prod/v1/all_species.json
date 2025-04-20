@@ -1,5 +1,5 @@
 {
- "timestamp": "20250413-191744",
+ "timestamp": "20250420-212544",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -967,6 +967,7 @@
    "Tuckneraria,緣毛腎島衣屬,缘毛肾岛衣属",
    "Umbilicaria,石耳屬,石耳属",
    "Usnea,松蘿屬,松萝属",
+   "Vahliella,微鱗衣屬,微鳞衣属",
    "Xanthoria,石黃衣屬,石黄衣属"
   ],
   "chanterelles": [
@@ -1489,6 +1490,7 @@
   "Coenogonium linkii,林氏絨衣,林氏绒衣",
   "Coenogonium luteum,金黃絨衣,金黄绒衣",
   "Coleosporium asterum,紫菀鞘銹菌,紫菀鞘锈菌",
+  "Coleosporium cf. clerodendri,疑似臭牡丹鞘銹菌,疑似臭牡丹鞘锈菌",
   "Coleosporium clematidis,鐵線蓮鞘銹菌,铁线莲鞘锈菌",
   "Coleosporium eupaederiae,雞屎藤鞘銹菌,鸡屎藤鞘锈菌",
   "Coleosporium paederiae,牛皮凍鞘銹菌,牛皮冻鞘锈菌",
@@ -1826,6 +1828,7 @@
   "Eocronartium muscicola,蘚生柱锈耳,藓生柱锈耳",
   "Eriopezia aff. caesia,叢生毛絨盤菌之相似種,丛生毛绒盘菌之相似种",
   "Erioscyphella ailaoensis,哀牢山粒毛盤菌,哀牢山粒毛盘菌",
+  "Erioscyphella curvispora,彎孢粒毛盤菌,弯孢粒毛盘菌",
   "Erioscyphella sclerotii,疑似絲氏粒毛盤菌,疑似丝氏粒毛盘菌",
   "Erysiphe ipomoeae,野牽牛白粉菌,野牵牛白粉菌",
   "Erysiphe sordida,車前草白粉病,车前草白粉病",
@@ -1884,6 +1887,7 @@
   "Fuligo septica,煤絨黏菌,煤绒黏菌",
   "Fusarium aquaeductuum,銳形鐮孢菌,锐形镰孢菌",
   "Fuscopannaria dispersa,分散褐鱗衣(暫名),分散褐鳞衣(暂名)",
+  "Fuscopannaria leucophaea,暗白棕鱗衣,暗白棕鳞衣",
   "Fuscoporia formosana,福爾摩沙褐孔菌,福尔摩沙褐孔菌",
   "Fuscoporia subferrea,近鐵色褐孔菌,近铁色褐孔菌",
   "Fuscoporia torulosa,寬棱褐孔菌,宽棱褐孔菌",
@@ -2284,6 +2288,7 @@
   "Lentinellus pulvinulus,小墊小香菇,小垫小香菇",
   "Lentinellus ursinus,北方小香菇,北方小香菇",
   "Lentinula edodes,香菇,香菇",
+  "Lentinula ixodes,深棕色香菇,深棕色香菇",
   "Lentinus badius,栗褐斗菇,栗褐斗菇",
   "Lentinus concavus,凹蓋斗菇,凹盖斗菇",
   "Lentinus connatus,合生斗菇,合生斗菇",
@@ -2778,6 +2783,7 @@
   "Phaeotremella foliacea,茶暗銀耳,茶暗银耳",
   "Phaeotremella frondosa,葉狀暗銀耳(暫名),叶状暗银耳(暂名)",
   "Phaeotremella roseotincta,玫瑰暗銀耳,玫瑰暗银耳",
+  "Phakopsora ampelopsidis,葡萄層銹菌,葡萄层锈菌",
   "Phakopsora meliosmae,泡花層銹菌,泡花层锈菌",
   "Phallus aurantiacus,黃橙鬼筆,黄橙鬼笔",
   "Phallus dongsun,冬蓀鬼筆,冬荪鬼笔",
@@ -3475,6 +3481,7 @@
   "Usnea wirthii,長松蘿,长松萝",
   "Ustilago esculenta,筊白黑穗菌,筊白黑穗菌",
   "Ustilago maydis,玉蜀黍黑穗菌,玉蜀黍黑穗菌",
+  "Vahliella leucophaea,小葉微鱗衣(暫名),小叶微鳞衣(暂名)",
   "Vamsapriya uniseptata,單隔竹生愛孢,单隔竹生爱孢",
   "Vararia investiens,硬叉絲革菌,硬叉丝革菌",
   "Vladracula annuliformis,樟葉槭環形盤菌,樟叶槭环形盘菌",

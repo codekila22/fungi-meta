@@ -2,13 +2,19 @@
  "name": "Coleosporium",
  "zhtw": "鞘銹菌屬",
  "zhcn": "鞘锈菌属",
- "timestamp": "20250413-191744",
+ "timestamp": "20250420-212544",
  "list": [
   {
    "name": "Coleosporium asterum",
    "zhtw": "紫菀鞘銹菌",
    "zhcn": "紫菀鞘锈菌",
    "img": "Coleosporium_asterum_7eed7700-15cf-11ef-98aa-7d2bb79a2778_1.jpg"
+  },
+  {
+   "name": "Coleosporium cf. clerodendri",
+   "zhtw": "疑似臭牡丹鞘銹菌",
+   "zhcn": "疑似臭牡丹鞘锈菌",
+   "img": "Coleosporium_cf. clerodendri_f124d520-19c5-11f0-b743-bb170744dca1_1.jpg"
   },
   {
    "name": "Coleosporium clematidis",

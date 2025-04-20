@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "dimidiatum",
  "date": [
+  "04/02/2025,9333729160070765",
   "03/19/2023,5806299886147061"
  ],
  "names_zhtw": [
@@ -41,6 +42,34 @@
   {
    "author": "柯文俊",
    "image_src": "Ganoderma_formosanum_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_dimidiatum_e60c0320-1dad-11f0-83a7-97b72152802f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_dimidiatum_e60c0320-1dad-11f0-83a7-97b72152802f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_dimidiatum_e60c0320-1dad-11f0-83a7-97b72152802f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_dimidiatum_e60c0320-1dad-11f0-83a7-97b72152802f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_dimidiatum_e60c0320-1dad-11f0-83a7-97b72152802f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_dimidiatum_e60c0320-1dad-11f0-83a7-97b72152802f_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_dimidiatum_e60c0320-1dad-11f0-83a7-97b72152802f_7.jpg"
   }
  ],
  "synonym": [
@@ -88,5 +117,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250413-191744"
+ "timestamp": "20250420-212544"
 }

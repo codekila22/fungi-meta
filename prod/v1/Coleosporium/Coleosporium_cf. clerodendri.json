@@ -1,0 +1,85 @@
+{
+ "genus": "Coleosporium",
+ "name": "cf. clerodendri",
+ "date": [
+  "03/13/2025,9132991876811162"
+ ],
+ "names_zhtw": [
+  "疑似臭牡丹鞘銹菌"
+ ],
+ "names_en": [],
+ "url": "9132991876811162",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_cf. clerodendri_f124d520-19c5-11f0-b743-bb170744dca1_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_cf. clerodendri_f124d520-19c5-11f0-b743-bb170744dca1_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_cf. clerodendri_f124d520-19c5-11f0-b743-bb170744dca1_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_cf. clerodendri_f124d520-19c5-11f0-b743-bb170744dca1_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_cf. clerodendri_f124d520-19c5-11f0-b743-bb170744dca1_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_cf. clerodendri_f124d520-19c5-11f0-b743-bb170744dca1_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似臭牡丹鞘锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "寄生在龍船花(馬鞭草科海州常山屬)葉片上。"
+ },
+ "inaturalist": [
+  {
+   "name": "Coleosporium clerodendri",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1427205-Coleosporium-clerodendri",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/337579372/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20250420-212544"
+}
