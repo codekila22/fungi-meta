@@ -14,6 +14,10 @@
  "url": "5059792307464493",
  "images": [
   {
+   "author": "Sunny Wang",
+   "image_src": "Stereocaulon_japonicum_a0556a10-1d8a-11f0-ae2f-ffa7909ab864_2.jpg"
+  },
+  {
    "author": "江志緯",
    "image_src": "Stereocaulon_japonicum_6_CC BY-NC_江志緯.jpg"
   },
@@ -135,10 +139,6 @@
   },
   {
    "author": "Sunny Wang",
-   "image_src": "Stereocaulon_japonicum_a0556a10-1d8a-11f0-ae2f-ffa7909ab864_2.jpg"
-  },
-  {
-   "author": "Sunny Wang",
    "image_src": "Stereocaulon_japonicum_a0556a10-1d8a-11f0-ae2f-ffa7909ab864_3.jpg"
   },
   {
@@ -220,5 +220,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250420-162827"
+ "timestamp": "20250420-164302"
 }

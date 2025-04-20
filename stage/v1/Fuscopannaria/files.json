@@ -2,13 +2,22 @@
  "name": "Fuscopannaria",
  "zhtw": "褐鱗衣屬",
  "zhcn": "褐鳞衣属",
- "timestamp": "20250420-162827",
+ "timestamp": "20250420-164302",
  "list": [
   {
    "name": "Fuscopannaria dispersa",
    "zhtw": "分散褐鱗衣(暫名)",
    "zhcn": "分散褐鳞衣(暂名)",
    "img": "Fuscopannaria_dispersa_2fcb8800-a153-11ef-8c3e-692206fb761f_1.jpg"
+  },
+  {
+   "name": "Fuscopannaria leucophaea",
+   "zhtw": "暗白棕鱗衣",
+   "zhcn": "暗白棕鳞衣",
+   "current": "Vahliella leucophaea",
+   "current_zhtw": "小葉微鱗衣(暫名)",
+   "current_zhcn": "小叶微鳞衣(暂名)",
+   "img": "Vahliella_leucophaea_8f792dd0-19d4-11f0-980e-530b34c0923d_1.jpg"
   }
  ]
 }

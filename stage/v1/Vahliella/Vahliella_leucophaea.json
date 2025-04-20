@@ -1,15 +1,20 @@
 {
  "genus": "Vahliella",
  "name": "leucophaea",
+ "synonym": [
+  {
+   "name": "Fuscopannaria leucophaea",
+   "zhtw": "暗白棕鱗衣",
+   "zhcn": "暗白棕鳞衣"
+  }
+ ],
  "date": [
   "04/12/2025,9383277801782567"
  ],
  "names_zhtw": [
   "小葉微鱗衣(暫名)"
  ],
- "names_en": [
-  "Fuscopannaria leucophaea"
- ],
+ "names_en": [],
  "url": "9383277801782567",
  "images": [
   {
@@ -80,5 +85,48 @@
  "names_zhcn": [
   "小叶微鳞衣(暂名)"
  ],
- "timestamp": "20250420-162827"
+ "meta": {
+  "CapColors": "4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Vahliella leucophaea",
+   "cname": "Rock Shingle Lichen",
+   "url": "https://www.inaturalist.org/taxa/532457-Vahliella-leucophaea",
+   "src": "https://static.inaturalist.org/photos/233323899/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250420-164302"
 }
