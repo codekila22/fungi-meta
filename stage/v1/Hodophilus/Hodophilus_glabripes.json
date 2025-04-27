@@ -2,6 +2,7 @@
  "genus": "Hodophilus",
  "name": "glabripes",
  "date": [
+  "04/26/2025,9486415238135489",
   "05/06/2024,7370103913099976",
   "04/23/2024,7285355621574806",
   "05/29/2023,6030255163751531",
@@ -148,6 +149,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Hodophilus_glaberripes_f019ead0-14f8-11ef-bf24-f35b37fbdffe_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hodophilus_glabripes_4bf3c970-2371-11f0-8f6f-25335783ed7b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hodophilus_glabripes_4bf3c970-2371-11f0-8f6f-25335783ed7b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hodophilus_glabripes_4bf3c970-2371-11f0-8f6f-25335783ed7b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hodophilus_glabripes_4bf3c970-2371-11f0-8f6f-25335783ed7b_4.jpg"
   }
  ],
  "synonym": [
@@ -204,5 +221,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157296548/thumb.jpg"
   }
  ],
- "timestamp": "20250420-212544"
+ "timestamp": "20250428-070825"
 }

@@ -2,6 +2,7 @@
  "genus": "Diachea",
  "name": "leucopodia",
  "date": [
+  "04/24/2025,9464271413683205",
   "10/10/2024,8302045453239146",
   "06/15/2024,7506762282767471",
   "05/29/2024,7516548905122142",
@@ -390,6 +391,18 @@
   {
    "author": "蔡古媧",
    "image_src": "Diachea_leucopodia_9fef6e80-2c96-11ef-b851-33f1a74a9734_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diachea_leucopodia_4355a9a0-2362-11f0-b692-1dd48983dc13_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diachea_leucopodia_4355a9a0-2362-11f0-b692-1dd48983dc13_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diachea_leucopodia_4355a9a0-2362-11f0-b692-1dd48983dc13_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -437,5 +450,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/137287127/thumb.jpg"
   }
  ],
- "timestamp": "20250420-212544"
+ "timestamp": "20250428-070825"
 }

@@ -2,7 +2,7 @@
  "name": "Clitocybe",
  "zhtw": "杯傘屬",
  "zhcn": "杯伞属",
- "timestamp": "20250420-212544",
+ "timestamp": "20250428-070825",
  "list": [
   {
    "name": "Clitocybe fragrans",
@@ -18,6 +18,12 @@
    "current_zhtw": "深凹漏斗傘",
    "current_zhcn": "深凹漏斗伞",
    "img": "Infundibulicybe_gibba_091f5630-6537-11ef-9821-298f893192cb_2.jpg"
+  },
+  {
+   "name": "Clitocybe robusta",
+   "zhtw": "粗壯杯傘",
+   "zhcn": "粗壮杯伞",
+   "img": "Clitocybe_robusta_8eddc3e0-2366-11f0-8e90-7be9cf072cb3_1.jpg"
   }
  ]
 }

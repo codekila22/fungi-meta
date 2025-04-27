@@ -2,8 +2,14 @@
  "name": "Calyptella",
  "zhtw": "帽形菌屬",
  "zhcn": "帽形菌属",
- "timestamp": "20250420-212544",
+ "timestamp": "20250428-070825",
  "list": [
+  {
+   "name": "Calyptella aff. gibbosa",
+   "zhtw": "駝背帽形菌相似種(暫名)",
+   "zhcn": "驼背帽形菌相似种(暂名)",
+   "img": "Calyptella_aff. gibbosa_70e80140-2364-11f0-a367-6d840dd09d47_1.jpg"
+  },
   {
    "name": "Calyptella capula",
    "zhtw": "帽形菌",

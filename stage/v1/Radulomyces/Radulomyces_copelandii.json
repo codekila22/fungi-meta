@@ -2,6 +2,7 @@
  "genus": "Radulomyces",
  "name": "copelandii",
  "date": [
+  "04/26/2025,9471675656276114",
   "03/12/2024,7133572130086490",
   "02/12/2024,6973631822747189",
   "11/05/2023,6603189693124739",
@@ -191,6 +192,18 @@
   {
    "author": "江志緯",
    "image_src": "Radulomyces_copelandii_3ec04710-ca35-11ee-8e54-1f3c9d20b2c1_11.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Radulomyces_copelandii_2f27c550-2365-11f0-b46e-c524dcb95b5d_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Radulomyces_copelandii_2f27c550-2365-11f0-b46e-c524dcb95b5d_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Radulomyces_copelandii_2f27c550-2365-11f0-b46e-c524dcb95b5d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -241,5 +254,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2548982/thumb.JPG"
   }
  ],
- "timestamp": "20250420-212544"
+ "timestamp": "20250428-070825"
 }

@@ -2,6 +2,7 @@
  "genus": "Hymenoscyphus",
  "name": "albopunctus",
  "date": [
+  "04/23/2025,9469937869783226",
   "01/16/2025,8869863326457353",
   "01/19/2024,6928928640550841",
   "04/15/2023,6976765459100492",
@@ -149,6 +150,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Hymenoscyphus_albopunctus_e34de700-d700-11ef-8095-91da9e70533d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_albopunctus_65d0d7e0-2365-11f0-9b21-716dcc42439e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_albopunctus_65d0d7e0-2365-11f0-9b21-716dcc42439e_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_albopunctus_65d0d7e0-2365-11f0-9b21-716dcc42439e_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_albopunctus_65d0d7e0-2365-11f0-9b21-716dcc42439e_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_albopunctus_65d0d7e0-2365-11f0-9b21-716dcc42439e_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -197,5 +218,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/252511604/thumb.jpg"
   }
  ],
- "timestamp": "20250420-212544"
+ "timestamp": "20250428-070825"
 }

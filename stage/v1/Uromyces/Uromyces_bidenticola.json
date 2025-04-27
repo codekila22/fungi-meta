@@ -2,6 +2,7 @@
  "genus": "Uromyces",
  "name": "bidenticola",
  "date": [
+  "04/03/2025,9459356770841336",
   "03/03/2025,9139708732806143",
   "03/02/2025,9121393727970977",
   "12/21/2024,8717311411712546",
@@ -197,6 +198,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Uromyces_bidenticola_75fa4180-0211-11f0-b096-b315833d0d97_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Uromyces_bidenticola_c5328b00-235d-11f0-8093-990e6ce190e6_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Uromyces_bidenticola_c5328b00-235d-11f0-8093-990e6ce190e6_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Uromyces_bidenticola_c5328b00-235d-11f0-8093-990e6ce190e6_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Uromyces_bidenticola_c5328b00-235d-11f0-8093-990e6ce190e6_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Uromyces_bidenticola_c5328b00-235d-11f0-8093-990e6ce190e6_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Uromyces_bidenticola_c5328b00-235d-11f0-8093-990e6ce190e6_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Uromyces_bidenticola_c5328b00-235d-11f0-8093-990e6ce190e6_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -245,5 +274,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/31070596/thumb.jpg"
   }
  ],
- "timestamp": "20250420-212544"
+ "timestamp": "20250428-070825"
 }
