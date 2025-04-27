@@ -2,6 +2,7 @@
  "genus": "Polyporus",
  "name": "brumalis",
  "date": [
+  "04/24/2025,9462455577198122",
   "04/07/2025,9356618144448533",
   "04/04/2025,9329370017173346",
   "01/31/2025,8941381822638836",
@@ -257,6 +258,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Polyporus_brumalis_7f3a5bc0-181b-11f0-be35-e1d36e25e659_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Polyporus_brumalis_7ce96ff0-2329-11f0-9a4c-53aa04b17665_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Polyporus_brumalis_7ce96ff0-2329-11f0-9a4c-53aa04b17665_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Polyporus_brumalis_7ce96ff0-2329-11f0-9a4c-53aa04b17665_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Polyporus_brumalis_7ce96ff0-2329-11f0-9a4c-53aa04b17665_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Polyporus_brumalis_7ce96ff0-2329-11f0-9a4c-53aa04b17665_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Polyporus_brumalis_7ce96ff0-2329-11f0-9a4c-53aa04b17665_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -308,5 +333,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/105492274/thumb.jpeg"
   }
  ],
- "timestamp": "20250420-212544"
+ "timestamp": "20250428-071653"
 }

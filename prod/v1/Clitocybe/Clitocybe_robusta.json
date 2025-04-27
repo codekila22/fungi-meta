@@ -1,0 +1,94 @@
+{
+ "genus": "Clitocybe",
+ "name": "robusta",
+ "date": [
+  "09/01/2023,9467374843372862"
+ ],
+ "names_zhtw": [
+  "粗壯杯傘"
+ ],
+ "names_en": [],
+ "url": "9467374843372862",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_robusta_8eddc3e0-2366-11f0-8e90-7be9cf072cb3_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_robusta_8eddc3e0-2366-11f0-8e90-7be9cf072cb3_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_robusta_8eddc3e0-2366-11f0-8e90-7be9cf072cb3_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_robusta_8eddc3e0-2366-11f0-8e90-7be9cf072cb3_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_robusta_8eddc3e0-2366-11f0-8e90-7be9cf072cb3_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_robusta_8eddc3e0-2366-11f0-8e90-7be9cf072cb3_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_robusta_8eddc3e0-2366-11f0-8e90-7be9cf072cb3_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_robusta_8eddc3e0-2366-11f0-8e90-7be9cf072cb3_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粗壮杯伞"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4292072403",
+  "CapDiamRangeValues": "",
+  "CapShape": "depressed",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Clitocybe robusta",
+   "cname": "Robust Clitocybe",
+   "url": "https://www.inaturalist.org/taxa/568424-Clitocybe-robusta",
+   "src": "https://static.inaturalist.org/photos/11480135/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250428-071653"
+}

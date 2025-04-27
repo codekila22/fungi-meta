@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "siccus",
  "date": [
+  "04/23/2025,9455461841230829",
   "09/26/2024,8223493497761009"
  ],
  "names_zhtw": [
@@ -35,6 +36,18 @@
   {
    "author": "江志緯",
    "image_src": "Marasmius_siccus_fbd86190-8130-11ef-917b-dfe0c8884265_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_siccus_30be1ff0-2369-11f0-a94f-f53b1a335f06_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_siccus_30be1ff0-2369-11f0-a94f-f53b1a335f06_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_siccus_30be1ff0-2369-11f0-a94f-f53b1a335f06_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -92,5 +105,5 @@
    "src": "https://static.inaturalist.org/photos/111955765/thumb.jpg"
   }
  ],
- "timestamp": "20250420-212544"
+ "timestamp": "20250428-071653"
 }

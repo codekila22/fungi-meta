@@ -2,6 +2,7 @@
  "genus": "Gymnopilus",
  "name": "aeruginosus",
  "date": [
+  "04/24/2025,9464206150356398",
   "05/10/2023,5964491476994567",
   "04/23/2023,5908920059218376",
   "02/13/2021,3515312788579127"
@@ -73,6 +74,34 @@
   {
    "author": "",
    "image_src": "Gymnopilus_aeruginosus_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_aeruginosus_db369870-2366-11f0-9ced-d95101abf1d2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_aeruginosus_db369870-2366-11f0-9ced-d95101abf1d2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_aeruginosus_db369870-2366-11f0-9ced-d95101abf1d2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_aeruginosus_db369870-2366-11f0-9ced-d95101abf1d2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_aeruginosus_db369870-2366-11f0-9ced-d95101abf1d2_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_aeruginosus_db369870-2366-11f0-9ced-d95101abf1d2_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_aeruginosus_db369870-2366-11f0-9ced-d95101abf1d2_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -128,5 +157,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17208328/thumb.jpeg"
   }
  ],
- "timestamp": "20250420-212544"
+ "timestamp": "20250428-071653"
 }

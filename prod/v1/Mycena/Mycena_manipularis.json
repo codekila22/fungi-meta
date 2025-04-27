@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "manipularis",
  "date": [
+  "04/22/2025,9449940921782921",
   "10/28/2024,8407039132739777",
   "10/10/2024,8286821734761518",
   "08/04/2024,7806662859444077",
@@ -302,6 +303,22 @@
   {
    "author": "朱艷",
    "image_src": "Mycena_manipularis_4fd74e10-9bde-11ef-a6ca-fd12af9e91fc_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_manipularis_69e35610-2369-11f0-a471-258b656775b4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_manipularis_69e35610-2369-11f0-a471-258b656775b4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_manipularis_69e35610-2369-11f0-a471-258b656775b4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_manipularis_69e35610-2369-11f0-a471-258b656775b4_4.jpg"
   }
  ],
  "synonym": [
@@ -377,5 +394,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250420-212544"
+ "timestamp": "20250428-071653"
 }

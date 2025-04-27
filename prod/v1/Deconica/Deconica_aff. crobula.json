@@ -2,6 +2,7 @@
  "genus": "Deconica",
  "name": "aff. crobula",
  "date": [
+  "04/26/2025,9478798628897150",
   "04/12/2025,9422354821208198",
   "04/06/2024,7186581938118842",
   "08/25/2023,8021842827926078",
@@ -132,6 +133,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Deconica_aff. crobula_34680220-1ce7-11f0-af4a-75d7fd1740a9_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_aff. crobula_77556e20-2362-11f0-9cb3-3d738fe7c86f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_aff. crobula_77556e20-2362-11f0-9cb3-3d738fe7c86f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_aff. crobula_77556e20-2362-11f0-9cb3-3d738fe7c86f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_aff. crobula_77556e20-2362-11f0-9cb3-3d738fe7c86f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_aff. crobula_77556e20-2362-11f0-9cb3-3d738fe7c86f_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -186,5 +207,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4137052/thumb."
   }
  ],
- "timestamp": "20250420-212544"
+ "timestamp": "20250428-071653"
 }
