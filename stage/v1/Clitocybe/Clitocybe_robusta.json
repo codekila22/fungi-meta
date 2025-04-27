@@ -46,5 +46,49 @@
  "names_zhcn": [
   "粗壮杯伞"
  ],
- "timestamp": "20250428-070825"
+ "meta": {
+  "CapColors": "4294967295,4292072403",
+  "CapDiamRangeValues": "",
+  "CapShape": "depressed",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Clitocybe robusta",
+   "cname": "Robust Clitocybe",
+   "url": "https://www.inaturalist.org/taxa/568424-Clitocybe-robusta",
+   "src": "https://static.inaturalist.org/photos/11480135/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250428-071653"
 }
