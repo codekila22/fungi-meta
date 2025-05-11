@@ -2,6 +2,7 @@
  "genus": "Calvatia",
  "name": "craniiformis",
  "date": [
+  "04/28/2025,9502171566559856",
   "05/29/2024,7426767064100327",
   "07/29/2023,6242522039191508",
   "07/07/2023,6169957423114637",
@@ -79,6 +80,18 @@
   {
    "author": "徐秀團",
    "image_src": "Calvatia_craniiformis_62a8cd10-1d9f-11ef-99a8-3fcdb358f60e_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Calvatia_craniiformis_1cd08c00-2e0c-11f0-8f52-7538644bb24b_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Calvatia_craniiformis_1cd08c00-2e0c-11f0-8f52-7538644bb24b_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Calvatia_craniiformis_1cd08c00-2e0c-11f0-8f52-7538644bb24b_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -139,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/146096626/thumb.jpeg"
   }
  ],
- "timestamp": "20250511-092432"
+ "timestamp": "20250511-101329"
 }

@@ -2,6 +2,7 @@
  "genus": "Pleurotus",
  "name": "djamor",
  "date": [
+  "04/28/2025,9500596220050724",
   "04/27/2025,9482310141879332",
   "04/09/2025,9447242285386118",
   "11/30/2023,6692496277527413",
@@ -158,6 +159,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Pleurotus_djamor_635a9a00-2360-11f0-8044-2dff0547026f_10.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Pleurotus_djamor_6626f600-2e0c-11f0-afb1-c5eb9367266b_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Pleurotus_djamor_6626f600-2e0c-11f0-afb1-c5eb9367266b_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Pleurotus_djamor_6626f600-2e0c-11f0-afb1-c5eb9367266b_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Pleurotus_djamor_6626f600-2e0c-11f0-afb1-c5eb9367266b_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Pleurotus_djamor_6626f600-2e0c-11f0-afb1-c5eb9367266b_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Pleurotus_djamor_6626f600-2e0c-11f0-afb1-c5eb9367266b_6.jpg"
   }
  ],
  "synonym": [
@@ -232,5 +257,5 @@
    "src": "https://static.inaturalist.org/photos/127650465/thumb.jpg"
   }
  ],
- "timestamp": "20250511-092432"
+ "timestamp": "20250511-101329"
 }

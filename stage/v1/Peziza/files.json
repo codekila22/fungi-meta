@@ -2,7 +2,7 @@
  "name": "Peziza",
  "zhtw": "盤菌屬",
  "zhcn": "盘菌属",
- "timestamp": "20250511-092432",
+ "timestamp": "20250511-101329",
  "list": [
   {
    "name": "Peziza ammophila",
@@ -27,6 +27,12 @@
    "zhtw": "葉生盤菌",
    "zhcn": "叶生盘菌",
    "img": "Peziza_phyllogena_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Peziza urinophila",
+   "zhtw": "尿素盤菌",
+   "zhcn": "尿素盘菌",
+   "img": "Peziza_urinophila_fd4e0ee0-2e09-11f0-89b3-8d0cf6c57dc6_1.jpg"
   },
   {
    "name": "Peziza vesiculosa",
