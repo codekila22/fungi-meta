@@ -82,5 +82,19 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20250511-101329"
+ "inaturalist": [
+  {
+   "name": "Hygrophorus pudorinus",
+   "cname": "Rosy Woodwax",
+   "url": "https://www.inaturalist.org/taxa/118323-Hygrophorus-pudorinus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24569384/thumb.jpeg"
+  },
+  {
+   "name": "Hygrophorus pudorinus viridis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1452843-Hygrophorus-pudorinus-viridis",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250511-101854"
 }

@@ -155,5 +155,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250511-101329"
+ "inaturalist": [
+  {
+   "name": "Micropsalliota globocystis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1552465-Micropsalliota-globocystis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/382206200/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250511-101854"
 }
