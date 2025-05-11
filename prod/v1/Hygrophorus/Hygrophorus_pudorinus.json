@@ -1,0 +1,100 @@
+{
+ "genus": "Hygrophorus",
+ "name": "pudorinus",
+ "date": [
+  "08/12/2020,9421659084611105"
+ ],
+ "names_zhtw": [
+  "粉紅蠟傘"
+ ],
+ "names_en": [],
+ "url": "9421659084611105",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_pudorinus_cf9e9650-2417-11f0-aa9a-95de29bc0de1_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_pudorinus_cf9e9650-2417-11f0-aa9a-95de29bc0de1_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_pudorinus_cf9e9650-2417-11f0-aa9a-95de29bc0de1_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_pudorinus_cf9e9650-2417-11f0-aa9a-95de29bc0de1_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_pudorinus_cf9e9650-2417-11f0-aa9a-95de29bc0de1_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_pudorinus_cf9e9650-2417-11f0-aa9a-95de29bc0de1_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_pudorinus_cf9e9650-2417-11f0-aa9a-95de29bc0de1_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_pudorinus_cf9e9650-2417-11f0-aa9a-95de29bc0de1_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "粉红蜡伞"
+ ],
+ "meta": {
+  "CapColors": "4294931200,4294083840,4294606962",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Hygrophorus pudorinus",
+   "cname": "Rosy Woodwax",
+   "url": "https://www.inaturalist.org/taxa/118323-Hygrophorus-pudorinus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24569384/thumb.jpeg"
+  },
+  {
+   "name": "Hygrophorus pudorinus viridis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1452843-Hygrophorus-pudorinus-viridis",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250511-101854"
+}

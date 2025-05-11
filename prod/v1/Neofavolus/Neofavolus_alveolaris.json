@@ -9,7 +9,6 @@
   }
  ],
  "date": [
-  "04/25/2025,9480154672094879",
   "04/16/2025,9417437935033220",
   "03/16/2025,9314197135357301",
   "01/13/2025,8841847192592300",
@@ -352,18 +351,6 @@
   {
    "author": "蔡古媧",
    "image_src": "Neofavolus_alveolaris_0600f880-1dad-11f0-baed-67ec2bbed8e6_5.jpg"
-  },
-  {
-   "author": "游永滄",
-   "image_src": "Neofavolus_alveolaris_c8cea0b0-2361-11f0-ae26-efe2a9a7dd99_1.jpg"
-  },
-  {
-   "author": "游永滄",
-   "image_src": "Neofavolus_alveolaris_c8cea0b0-2361-11f0-ae26-efe2a9a7dd99_2.jpg"
-  },
-  {
-   "author": "游永滄",
-   "image_src": "Neofavolus_alveolaris_c8cea0b0-2361-11f0-ae26-efe2a9a7dd99_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -415,5 +402,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/36739657/thumb.jpg"
   }
  ],
- "timestamp": "20250428-071653"
+ "timestamp": "20250511-101854"
 }

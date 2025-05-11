@@ -2,6 +2,7 @@
  "genus": "Lindquistia",
  "name": "sp.1",
  "date": [
+  "05/01/2025,9514364248673921",
   "06/23/2024,7546369472140085",
   "04/24/2023,5921506654626383",
   "03/10/2023,5773695936074123",
@@ -77,6 +78,22 @@
   {
    "author": "江志緯",
    "image_src": "Linquistia_sp._4c371f30-f197-11ed-841c-754bdfcdd66c_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lindquistia_sp.1_60e9f650-27cd-11f0-b518-ebdd2909c166_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lindquistia_sp.1_60e9f650-27cd-11f0-b518-ebdd2909c166_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lindquistia_sp.1_60e9f650-27cd-11f0-b518-ebdd2909c166_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lindquistia_sp.1_60e9f650-27cd-11f0-b518-ebdd2909c166_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -108,7 +125,7 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood,bamboo",
+  "GrowthEnv": "wood,bamboo,fruit",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -118,5 +135,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250428-071653"
+ "timestamp": "20250511-101854"
 }

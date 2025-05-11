@@ -2,13 +2,19 @@
  "name": "Micropsalliota",
  "zhtw": "小蘑菇屬",
  "zhcn": "小蘑菇属",
- "timestamp": "20250428-071653",
+ "timestamp": "20250511-101854",
  "list": [
   {
    "name": "Micropsalliota arginophaea",
    "zhtw": "棕色小蘑菇",
    "zhcn": "棕色小蘑菇",
    "img": "Micropsalliota_arginophaea_25b471b0-fd35-11ed-8216-5991265ad0ec_1.jpg"
+  },
+  {
+   "name": "Micropsalliota globocystis",
+   "zhtw": "球囊小蘑菇",
+   "zhcn": "球囊小蘑菇",
+   "img": "Micropsalliota_globocystis_4c62aee0-2d98-11f0-89da-33c3fef056c9_1.jpg"
   },
   {
    "name": "Micropsalliota lateritia",

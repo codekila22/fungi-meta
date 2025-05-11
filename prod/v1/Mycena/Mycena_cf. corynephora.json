@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "cf. corynephora",
  "date": [
+  "04/27/2025,9541039452673067",
   "04/22/2023,5950503148393400",
   "04/02/2023,5962230450554003"
  ],
@@ -82,6 +83,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_cf. corynephora_4cc99d70-ee71-11ed-914f-e3db4da84976_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_cf. corynephora_a4adb5a0-28d8-11f0-ae9d-29cbd7dc1825_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_cf. corynephora_a4adb5a0-28d8-11f0-ae9d-29cbd7dc1825_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_cf. corynephora_a4adb5a0-28d8-11f0-ae9d-29cbd7dc1825_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_cf. corynephora_a4adb5a0-28d8-11f0-ae9d-29cbd7dc1825_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -131,5 +148,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/56345405/thumb.jpg"
   }
  ],
- "timestamp": "20250428-071653"
+ "timestamp": "20250511-101854"
 }
