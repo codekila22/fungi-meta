@@ -2,6 +2,7 @@
  "genus": "Pluteus",
  "name": "leoninus",
  "date": [
+  "05/10/2025,9591702900940055",
   "04/25/2025,9469308129846200",
   "12/16/2024,8699014473542240",
   "10/29/2024,8487369381373418",
@@ -219,6 +220,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Pluteus_leoninus_82ee6970-c03f-11ef-9501-e932ef1b9379_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_leoninus_95753a70-2d8a-11f0-b873-a3afbaaaec91_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_leoninus_95753a70-2d8a-11f0-b873-a3afbaaaec91_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_leoninus_95753a70-2d8a-11f0-b873-a3afbaaaec91_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -282,5 +295,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250428-071653"
+ "timestamp": "20250511-092432"
 }

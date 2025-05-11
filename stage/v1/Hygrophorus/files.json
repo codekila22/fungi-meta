@@ -2,7 +2,7 @@
  "name": "Hygrophorus",
  "zhtw": "蠟傘屬",
  "zhcn": "蜡伞属",
- "timestamp": "20250428-071653",
+ "timestamp": "20250511-092432",
  "list": [
   {
    "name": "Hygrophorus chrysodon",
@@ -33,6 +33,12 @@
    "current_zhtw": "萊威林擬波緣傘",
    "current_zhcn": "莱威林拟波缘伞",
    "img": "Porpolomopsis_lewelliniae_11_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Hygrophorus pudorinus",
+   "zhtw": "粉紅蠟傘",
+   "zhcn": "粉红蜡伞",
+   "img": "Hygrophorus_pudorinus_cf9e9650-2417-11f0-aa9a-95de29bc0de1_1.jpg"
   }
  ]
 }

@@ -9,7 +9,8 @@
   }
  ],
  "date": [
-  "01/01/0001"
+  "05/04/2025,9542573869186292",
+  "04/08/2020,2708988032544944"
  ],
  "names_zhtw": [
   "環柱燈籠菌",
@@ -41,6 +42,26 @@
   {
    "author": "曾俊明",
    "image_src": "Clathrus_bicolumnatus_4_CC BY-NC_曾俊明.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Laternea_columnata_582096c0-293d-11f0-8f10-adf4d028fc05_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Laternea_columnata_582096c0-293d-11f0-8f10-adf4d028fc05_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Laternea_columnata_582096c0-293d-11f0-8f10-adf4d028fc05_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Laternea_columnata_582096c0-293d-11f0-8f10-adf4d028fc05_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Laternea_columnata_582096c0-293d-11f0-8f10-adf4d028fc05_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -69,6 +90,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -78,9 +100,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Pseudocolus fusiformis,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "三爪假鬼筆,,",
+  "la_zhcn": "三爪假鬼笔,,"
  },
  "inaturalist": [
   {
@@ -90,5 +114,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/67014835/thumb.jpeg"
   }
  ],
- "timestamp": "20250428-071653"
+ "timestamp": "20250511-092432"
 }
