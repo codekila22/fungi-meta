@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "spinosissima",
  "date": [
+  "05/12/2025,9618008671642811",
   "05/01/2025,9526432700800409",
   "10/10/2024,8295472787229746",
   "04/06/2024,7190478757729160",
@@ -205,6 +206,22 @@
   {
    "author": "徐秀團",
    "image_src": "Mycena_spinosissima_d9328530-2973-11f0-8bdc-4ddb020f865f_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Mycena_spinosissima_5dae7120-3ec8-11f0-8e93-518494b27f6a_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Mycena_spinosissima_5dae7120-3ec8-11f0-8e93-518494b27f6a_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Mycena_spinosissima_5dae7120-3ec8-11f0-8e93-518494b27f6a_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Mycena_spinosissima_5dae7120-3ec8-11f0-8e93-518494b27f6a_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -256,5 +273,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5753941/thumb.jpeg"
   }
  ],
- "timestamp": "20250601-165409"
+ "timestamp": "20250601-190027"
 }

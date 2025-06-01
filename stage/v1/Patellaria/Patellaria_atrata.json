@@ -2,6 +2,7 @@
  "genus": "Patellaria",
  "name": "atrata",
  "date": [
+  "05/19/2025,9670970149679996",
   "08/23/2023,6332616826848695"
  ],
  "names_zhtw": [
@@ -101,6 +102,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Patellaria_atrata_9cc7db80-43b1-11ee-8d09-ffe55a51ff4f_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Patellaria_atrata_29b2d910-3ecd-11f0-96d3-abdbc1850540_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Patellaria_atrata_29b2d910-3ecd-11f0-96d3-abdbc1850540_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Patellaria_atrata_29b2d910-3ecd-11f0-96d3-abdbc1850540_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Patellaria_atrata_29b2d910-3ecd-11f0-96d3-abdbc1850540_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -149,5 +166,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/31243289/thumb.jpg"
   }
  ],
- "timestamp": "20250601-165409"
+ "timestamp": "20250601-190027"
 }

@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "bambusiniformis",
  "date": [
+  "05/23/2025,9701252276651783",
   "08/24/2024,7906371356139893",
   "08/23/2024,7906021756174853",
   "07/24/2024,7996171130493248",
@@ -101,6 +102,26 @@
   {
    "author": "江志緯",
    "image_src": "Marasmius_bambusiniformis_321b5e50-6db4-11ef-9b6a-9df91a34098c_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_bambusiniformis_1f6137b0-3ed0-11f0-84c0-e38c1408907a_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_bambusiniformis_1f6137b0-3ed0-11f0-84c0-e38c1408907a_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_bambusiniformis_1f6137b0-3ed0-11f0-84c0-e38c1408907a_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_bambusiniformis_1f6137b0-3ed0-11f0-84c0-e38c1408907a_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_bambusiniformis_1f6137b0-3ed0-11f0-84c0-e38c1408907a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -150,5 +171,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63308987/thumb.jpg"
   }
  ],
- "timestamp": "20250601-165409"
+ "timestamp": "20250601-190027"
 }

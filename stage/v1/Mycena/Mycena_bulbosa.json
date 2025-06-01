@@ -56,7 +56,7 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "leaves",
+  "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -74,5 +74,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1804684/thumb.jpg"
   }
  ],
- "timestamp": "20250601-165409"
+ "timestamp": "20250601-190027"
 }

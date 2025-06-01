@@ -2,6 +2,7 @@
  "genus": "Calocera",
  "name": "viscosa",
  "date": [
+  "05/12/2025,9631151400328538",
   "06/22/2024,7543403199103379",
   "05/19/2024,7389319124511788",
   "07/20/2023,6228825073894538",
@@ -150,6 +151,22 @@
   {
    "author": "朱艷",
    "image_src": "Calocera_viscosa_efdfb790-1b04-11ef-a61b-6596a01b9d32_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_e417e2b0-3ec7-11f0-abd0-996b4ae6f94d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_e417e2b0-3ec7-11f0-abd0-996b4ae6f94d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_e417e2b0-3ec7-11f0-abd0-996b4ae6f94d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_e417e2b0-3ec7-11f0-abd0-996b4ae6f94d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -201,5 +218,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18635/thumb.jpg"
   }
  ],
- "timestamp": "20250601-165409"
+ "timestamp": "20250601-190027"
 }
