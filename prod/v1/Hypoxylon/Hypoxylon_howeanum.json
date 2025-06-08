@@ -2,7 +2,8 @@
  "genus": "Hypoxylon",
  "name": "howeanum",
  "date": [
-  "03/09/2025,9163690573741292"
+  "03/09/2025,9163690573741292",
+  "06/01/2021,9787656164678060"
  ],
  "names_zhtw": [
   "豪伊炭團菌"
@@ -33,6 +34,18 @@
   {
    "author": "陳雅芬",
    "image_src": "Hypoxylon_hweianum_8ff13ad0-fcc6-11ef-b95b-6d02a83dd675_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypoxylon_howeanum_109a47f0-440f-11f0-9e8a-3f3849782bc6_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypoxylon_howeanum_109a47f0-440f-11f0-9e8a-3f3849782bc6_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypoxylon_howeanum_109a47f0-440f-11f0-9e8a-3f3849782bc6_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -82,5 +95,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1696766/thumb.jpg"
   }
  ],
- "timestamp": "20250511-101854"
+ "timestamp": "20250608-182749"
 }

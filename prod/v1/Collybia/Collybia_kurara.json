@@ -2,6 +2,7 @@
  "genus": "Collybia",
  "name": "kurara",
  "date": [
+  "06/04/2025,9796820587094951",
   "04/11/2024,7207402559370113",
   "04/08/2024,7234188313358204",
   "12/24/2023,6782455221864851",
@@ -160,6 +161,26 @@
   {
    "author": "James Ho",
    "image_src": "Collybia_kurara_59703b00-0302-11ef-83cb-69e91413ba87_11.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybia_kurara_35969e10-43aa-11f0-ae79-d1de2dd067e2_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybia_kurara_35969e10-43aa-11f0-ae79-d1de2dd067e2_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybia_kurara_35969e10-43aa-11f0-ae79-d1de2dd067e2_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybia_kurara_35969e10-43aa-11f0-ae79-d1de2dd067e2_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collybia_kurara_35969e10-43aa-11f0-ae79-d1de2dd067e2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -209,5 +230,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/154329688/thumb.jpg"
   }
  ],
- "timestamp": "20250511-101854"
+ "timestamp": "20250608-182749"
 }

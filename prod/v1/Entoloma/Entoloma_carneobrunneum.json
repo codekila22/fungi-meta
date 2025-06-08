@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "carneobrunneum",
  "date": [
+  "05/22/2025,9789225164521160",
   "08/30/2024,7973973179379710",
   "07/08/2024,7627377974039234",
   "10/16/2023,6524401961003513",
@@ -194,6 +195,22 @@
   {
    "author": "陳雅芬",
    "image_src": "Entoloma_carneobrunneum_6845f560-0870-11f0-9071-09d574392395_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_carneobrunneum_70acdae0-440f-11f0-8877-818ccd8c44b5_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_carneobrunneum_70acdae0-440f-11f0-8877-818ccd8c44b5_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_carneobrunneum_70acdae0-440f-11f0-8877-818ccd8c44b5_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_carneobrunneum_70acdae0-440f-11f0-8877-818ccd8c44b5_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -243,5 +260,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250511-101854"
+ "timestamp": "20250608-182749"
 }

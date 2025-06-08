@@ -2,6 +2,7 @@
  "genus": "Coprinellus",
  "name": "disseminatus",
  "date": [
+  "06/04/2025,9798669680243375",
   "02/28/2025,9109421409168209",
   "10/02/2024,8216338985143127",
   "08/04/2024,7785268991583464",
@@ -308,6 +309,26 @@
   {
    "author": "朱艷",
    "image_src": "Coprinellus_disseminatus_41f08a90-f5df-11ef-8932-319920bf3f7f_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_disseminatus_06cf6560-43a7-11f0-83d9-a9dd20ccf7e8_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_disseminatus_06cf6560-43a7-11f0-83d9-a9dd20ccf7e8_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_disseminatus_06cf6560-43a7-11f0-83d9-a9dd20ccf7e8_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_disseminatus_06cf6560-43a7-11f0-83d9-a9dd20ccf7e8_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinellus_disseminatus_06cf6560-43a7-11f0-83d9-a9dd20ccf7e8_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -359,5 +380,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/162946776/thumb.jpeg"
   }
  ],
- "timestamp": "20250511-101854"
+ "timestamp": "20250608-182749"
 }

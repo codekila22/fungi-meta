@@ -2,6 +2,7 @@
  "genus": "Trichaleurina",
  "name": "javanica",
  "date": [
+  "06/04/2025,9791023584341318",
   "08/16/2024,7856905084419854",
   "06/07/2024,7469377013172665",
   "05/29/2024,7426432787467088",
@@ -177,6 +178,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Trichaleurina_javanica_1a6bac90-7108-10eb-a1cd-478a0e3ce110_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichaleurina_javanica_e9ea2c20-4417-11f0-84cd-f52f34b81ab3_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichaleurina_javanica_e9ea2c20-4417-11f0-84cd-f52f34b81ab3_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichaleurina_javanica_e9ea2c20-4417-11f0-84cd-f52f34b81ab3_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -229,5 +242,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/228114091/thumb.jpg"
   }
  ],
- "timestamp": "20250511-101854"
+ "timestamp": "20250608-182749"
 }

@@ -313,14 +313,14 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "bamboo",
+  "GrowthEnv": "wood,bamboo,leaves",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Gyrodontium sacchari,,",
-  "Note": "",
+  "Note": "生長基質多樣化，從枯竹基部、山棕基部到枯木枯枝上都有機會發現。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "糖圓齒菌,,",
   "la_zhcn": "糖圆齿菌,,"
@@ -333,5 +333,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18556041/thumb.jpg"
   }
  ],
- "timestamp": "20250511-101854"
+ "timestamp": "20250608-182749"
 }
