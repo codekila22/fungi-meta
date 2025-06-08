@@ -2,7 +2,7 @@
  "name": "Sticta",
  "zhtw": "牛皮葉衣屬",
  "zhcn": "牛皮叶衣属",
- "timestamp": "20250608-103446",
+ "timestamp": "20250608-110927",
  "list": [
   {
    "name": "Sticta duplolimbata",
@@ -30,6 +30,12 @@
    "current_zhtw": "平滑牛皮葉衣",
    "current_zhcn": "平滑牛皮叶衣",
    "img": "Dendriscosticta_platyphylla_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Sticta weigelii",
+   "zhtw": "緣裂牛皮葉衣",
+   "zhcn": "缘裂牛皮叶衣",
+   "img": "Sticta_weigelii_89e1d9c0-4414-11f0-807d-f3cbf8f2309c_1.jpg"
   }
  ]
 }

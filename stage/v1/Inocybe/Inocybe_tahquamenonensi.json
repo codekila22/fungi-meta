@@ -54,6 +54,42 @@
  "names_zhcn": [
   "褐红鳞丝盖伞"
  ],
+ "meta": {
+  "CapColors": "4287299584,4294901760,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
  "inaturalist": [
   {
    "name": "Inocybe tahquamenonensis",
@@ -62,5 +98,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/994919/thumb.jpg"
   }
  ],
- "timestamp": "20250608-103446"
+ "timestamp": "20250608-110927"
 }
