@@ -2,6 +2,7 @@
  "genus": "Micropsalliota",
  "name": "globocystis",
  "date": [
+  "06/08/2025,9819728944804115",
   "04/22/2025,9557638337679845",
   "05/06/2024,7336519313125103"
  ],
@@ -114,6 +115,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Micropsalliota_globocystis_a9bf2280-2d98-11f0-9235-1785a040e0d5_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Micropsalliota_globocystis_ed731f70-4451-11f0-98c2-3ff3178326ff_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Micropsalliota_globocystis_ed731f70-4451-11f0-98c2-3ff3178326ff_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Micropsalliota_globocystis_ed731f70-4451-11f0-98c2-3ff3178326ff_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Micropsalliota_globocystis_ed731f70-4451-11f0-98c2-3ff3178326ff_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Micropsalliota_globocystis_ed731f70-4451-11f0-98c2-3ff3178326ff_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Micropsalliota_globocystis_ed731f70-4451-11f0-98c2-3ff3178326ff_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Micropsalliota_globocystis_ed731f70-4451-11f0-98c2-3ff3178326ff_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -163,5 +192,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/382206200/thumb.jpg"
   }
  ],
- "timestamp": "20250608-113214"
+ "timestamp": "20250608-182749"
 }
