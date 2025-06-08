@@ -2,6 +2,7 @@
  "genus": "Physalacria",
  "name": "orinocensis",
  "date": [
+  "06/05/2025,9796017040508639",
   "06/01/2024,7439557376154629"
  ],
  "names_zhtw": [
@@ -25,6 +26,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Physalacria_orinocensis_48a47fd0-1fd5-11ef-899b-c382f4672306_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physalacria_orinocensis_cb3fffe0-4410-11f0-9e23-9f94e0ddd0e8_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physalacria_orinocensis_cb3fffe0-4410-11f0-9e23-9f94e0ddd0e8_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physalacria_orinocensis_cb3fffe0-4410-11f0-9e23-9f94e0ddd0e8_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physalacria_orinocensis_cb3fffe0-4410-11f0-9e23-9f94e0ddd0e8_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physalacria_orinocensis_cb3fffe0-4410-11f0-9e23-9f94e0ddd0e8_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Physalacria_orinocensis_cb3fffe0-4410-11f0-9e23-9f94e0ddd0e8_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -74,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/228579679/thumb.jpg"
   }
  ],
- "timestamp": "20250608-100629"
+ "timestamp": "20250608-103446"
 }
