@@ -85,5 +85,37 @@
   "LookAlikes": "",
   "Note": "此物種寄生在鼠李屬(Rhamnus sp.)植物上。"
  },
- "timestamp": "20250608-111621"
+ "inaturalist": [
+  {
+   "name": "Puccinia coronata",
+   "cname": "Crown Rust",
+   "url": "https://www.inaturalist.org/taxa/1462846-Puccinia-coronata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/478826198/thumb.jpg"
+  },
+  {
+   "name": "Puccinia coronata",
+   "cname": "Oat Crown Rust",
+   "url": "https://www.inaturalist.org/taxa/358129-Puccinia-coronata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/137699043/thumb.jpeg"
+  },
+  {
+   "name": "Puccinia coronata var. coronata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1057525-Puccinia-coronata-coronata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/61718414/thumb.jpeg"
+  },
+  {
+   "name": "Puccinia coronata var. avenae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1006689-Puccinia-coronata-avenae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109565076/thumb.jpg"
+  },
+  {
+   "name": "Puccinia coronata var. holci",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1586782-Puccinia-coronata-holci",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250608-113214"
 }

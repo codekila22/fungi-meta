@@ -2,6 +2,7 @@
  "genus": "Pluteus",
  "name": "podospileus",
  "date": [
+  "06/06/2025,9804971659613177",
   "06/13/2024,7498035826973450",
   "06/12/2024,7492733390837027"
  ],
@@ -122,6 +123,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Pluteus_podospileus_a0732190-2ae2-11ef-9af6-79e2661058f2_12.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_podospileus_77de5a10-4418-11f0-8680-ddbc4b1e1066_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_podospileus_77de5a10-4418-11f0-8680-ddbc4b1e1066_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_podospileus_77de5a10-4418-11f0-8680-ddbc4b1e1066_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_podospileus_77de5a10-4418-11f0-8680-ddbc4b1e1066_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_podospileus_77de5a10-4418-11f0-8680-ddbc4b1e1066_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -177,5 +198,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/44694898/thumb.jpg"
   }
  ],
- "timestamp": "20250608-111621"
+ "timestamp": "20250608-113214"
 }
