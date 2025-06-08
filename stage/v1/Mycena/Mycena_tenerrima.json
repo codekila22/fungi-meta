@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "tenerrima",
  "date": [
+  "05/30/2025,9797384380371905",
   "04/24/2025,9478597035583976",
   "03/28/2025,9279528092157539",
   "09/15/2024,8052039638239730",
@@ -257,6 +258,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_tenerrima_5fc807f0-2361-11f0-a555-3b00975a30c5_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_3dfe9ee0-435a-11f0-9c93-517e468c0ee1_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_3dfe9ee0-435a-11f0-9c93-517e468c0ee1_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_3dfe9ee0-435a-11f0-9c93-517e468c0ee1_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -308,5 +321,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1671291/thumb.jpg"
   }
  ],
- "timestamp": "20250601-190027"
+ "timestamp": "20250608-100629"
 }

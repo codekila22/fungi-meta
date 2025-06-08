@@ -2,6 +2,7 @@
  "genus": "Trogia",
  "name": "buccinalis",
  "date": [
+  "06/05/2025,9806393802804296",
   "06/10/2024,7488727764570923"
  ],
  "names_zhtw": [
@@ -29,6 +30,22 @@
   {
    "author": "陳雅芬",
    "image_src": "Trogia_buccinalis_4dadd9b0-27f3-11ef-a33a-87d2350a05fc_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_buccinalis_43a1c500-43a7-11f0-b8e5-597d6d2d495f_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_buccinalis_43a1c500-43a7-11f0-b8e5-597d6d2d495f_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_buccinalis_43a1c500-43a7-11f0-b8e5-597d6d2d495f_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_buccinalis_43a1c500-43a7-11f0-b8e5-597d6d2d495f_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -78,5 +95,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94753447/thumb.jpg"
   }
  ],
- "timestamp": "20250601-190027"
+ "timestamp": "20250608-100629"
 }

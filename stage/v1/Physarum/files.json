@@ -2,7 +2,7 @@
  "name": "Physarum",
  "zhtw": "絨泡黏菌屬",
  "zhcn": "绒泡黏菌属",
- "timestamp": "20250601-190027",
+ "timestamp": "20250608-100629",
  "list": [
   {
    "name": "Physarum album",
@@ -150,6 +150,12 @@
    "zhtw": "小絨泡黏菌",
    "zhcn": "小绒泡黏菌",
    "img": "Physarum_pusillum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Physarum rigidum",
+   "zhtw": "剛絲絨泡黏菌",
+   "zhcn": "刚丝绒泡黏菌",
+   "img": "Physarum_rigidum_55d6cb40-3edd-11f0-b1cc-cbaf299c509c_1.jpg"
   },
   {
    "name": "Physarum roseum",

@@ -2,7 +2,7 @@
  "name": "Inocybe",
  "zhtw": "絲蓋傘屬",
  "zhcn": "丝盖伞属",
- "timestamp": "20250601-190027",
+ "timestamp": "20250608-100629",
  "list": [
   {
    "name": "Inocybe asterospora",
@@ -72,6 +72,12 @@
    "zhtw": "鱗黃絲蓋傘",
    "zhcn": "鳞黄丝盖伞",
    "img": "Inocybe_squarrosofulva_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Inocybe tahquamenonensi",
+   "zhtw": "褐紅鱗絲蓋傘",
+   "zhcn": "褐红鳞丝盖伞",
+   "img": "Inocybe_tahquamenonensi_9bc01770-3edc-11f0-8633-81f7df036a93_1.jpg"
   },
   {
    "name": "Inocybe tahquamenonensis",

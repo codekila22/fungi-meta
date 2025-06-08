@@ -2,6 +2,7 @@
  "genus": "Lepiota",
  "name": "xanthophylla",
  "date": [
+  "05/30/2025,9750749131702097",
   "07/01/2024,7587497381360627",
   "06/09/2024,7501911349919231",
   "08/30/2023,6355626537881057",
@@ -152,6 +153,26 @@
   {
    "author": "徐秀團",
    "image_src": "Lepiota_xanthophylla_81a489e0-92a9-1060-b25f-9340d921a30e_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_xanthophylla_0cce0c10-3edd-11f0-878a-3b5fbf1fb977_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_xanthophylla_0cce0c10-3edd-11f0-878a-3b5fbf1fb977_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_xanthophylla_0cce0c10-3edd-11f0-878a-3b5fbf1fb977_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_xanthophylla_0cce0c10-3edd-11f0-878a-3b5fbf1fb977_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_xanthophylla_0cce0c10-3edd-11f0-878a-3b5fbf1fb977_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -200,5 +221,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29411020/thumb.jpg"
   }
  ],
- "timestamp": "20250601-190027"
+ "timestamp": "20250608-100629"
 }

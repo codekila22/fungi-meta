@@ -2,6 +2,7 @@
  "genus": "Xeromphalina",
  "name": "tenuipes",
  "date": [
+  "06/02/2025,9773763239400686",
   "04/27/2025,9485303488246664",
   "04/11/2025,9383399085103772",
   "08/20/2024,7887062718070757",
@@ -332,6 +333,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Xeromphalina_tenuipes_72c2dc70-3f97-11f0-b098-e770e9f5cfbb_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Xeromphalina_tenuipes_72c2dc70-3f97-11f0-b098-e770e9f5cfbb_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Xeromphalina_tenuipes_72c2dc70-3f97-11f0-b098-e770e9f5cfbb_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Xeromphalina_tenuipes_72c2dc70-3f97-11f0-b098-e770e9f5cfbb_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Xeromphalina_tenuipes_72c2dc70-3f97-11f0-b098-e770e9f5cfbb_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -382,5 +403,5 @@
    "src": "https://static.inaturalist.org/photos/185988383/thumb.jpg"
   }
  ],
- "timestamp": "20250601-190027"
+ "timestamp": "20250608-100629"
 }
