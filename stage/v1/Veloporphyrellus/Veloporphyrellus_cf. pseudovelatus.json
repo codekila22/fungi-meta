@@ -58,5 +58,49 @@
  "names_zhcn": [
   "疑似拟垂边红孢纱牛肝菌"
  ],
- "timestamp": "20250615-183552"
+ "meta": {
+  "CapColors": "4294901760,4291648604",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Veloporphyrellus pseudovelatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1407660-Veloporphyrellus-pseudovelatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/307990889/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20250615-194924"
 }
