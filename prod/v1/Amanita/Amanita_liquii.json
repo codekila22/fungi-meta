@@ -2,6 +2,8 @@
  "genus": "Amanita",
  "name": "liquii",
  "date": [
+  "06/11/2025,9850250371751972",
+  "06/10/2025,9841973989246277",
   "10/15/2024,8327091624067862",
   "09/19/2024,8099432446833782",
   "08/26/2024,7944024732374555",
@@ -293,6 +295,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_liquii_4f0a5f20-8add-11ef-833b-379880fc41b0_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_5e5cd910-49ca-11f0-9ee2-911801c77572_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_5e5cd910-49ca-11f0-9ee2-911801c77572_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_5e5cd910-49ca-11f0-9ee2-911801c77572_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_5e5cd910-49ca-11f0-9ee2-911801c77572_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_5e5cd910-49ca-11f0-9ee2-911801c77572_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_5e5cd910-49ca-11f0-9ee2-911801c77572_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_liquii_75901be0-49cc-11f0-981b-d9db27e7818c_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_liquii_75901be0-49cc-11f0-981b-d9db27e7818c_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_liquii_75901be0-49cc-11f0-981b-d9db27e7818c_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -342,5 +380,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2054364/thumb.jpg"
   }
  ],
- "timestamp": "20250608-182749"
+ "timestamp": "20250615-195251"
 }

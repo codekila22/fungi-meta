@@ -2,6 +2,7 @@
  "genus": "Austroboletus",
  "name": "fusisporus",
  "date": [
+  "06/07/2025,9828158287294514",
   "05/15/2025,9789805114463165",
   "11/21/2024,8550963808347308",
   "10/05/2024,8247552822021743",
@@ -226,6 +227,22 @@
   {
    "author": "何俊霖",
    "image_src": "Austroboletus_fusisporus_16e70610-4410-11f0-9b27-e15ec7727433_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_fusisporus_967e0450-49d8-11f0-8584-cdf6596514e2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_fusisporus_967e0450-49d8-11f0-8584-cdf6596514e2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_fusisporus_967e0450-49d8-11f0-8584-cdf6596514e2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_fusisporus_967e0450-49d8-11f0-8584-cdf6596514e2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -277,5 +294,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157482051/thumb.jpg"
   }
  ],
- "timestamp": "20250608-182749"
+ "timestamp": "20250615-195251"
 }

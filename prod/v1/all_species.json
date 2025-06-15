@@ -1,5 +1,5 @@
 {
- "timestamp": "20250608-182749",
+ "timestamp": "20250615-195251",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -240,6 +240,7 @@
    "Phlebia,射脈菌屬,射脉菌属",
    "Phlebiella,擬射脈菌屬,拟射脉菌属",
    "Phlebiopsis,擬射脈菌屬,拟射脉菌属",
+   "Phyllosticta,葉點黴屬,叶点霉属",
    "Plicatura,褶尾菌屬,褶尾菌属",
    "Plicaturopsis,擬褶尾菌屬,拟褶尾菌属",
    "Podoscypha,柄杯菌屬,柄杯菌属",
@@ -867,6 +868,7 @@
    "Suillus,乳牛肝菌屬,乳牛肝菌属",
    "Sutorius,鉛紫牛肝菌屬,铅紫牛肝菌属",
    "Tylopilus,粉孢牛肝菌屬,粉孢牛肝菌属",
+   "Veloporphyrellus,垂邊紅孢紗牛肝菌屬,垂边红孢纱牛肝菌属",
    "Xanthoconium,孢牛肝菌屬,孢牛肝菌属",
    "Xerocomellus,小絨蓋牛肝菌屬,小绒盖牛肝菌属",
    "Xerocomus,絨蓋牛肝菌屬,绒盖牛肝菌属"
@@ -1514,6 +1516,7 @@
   "Collybiopsis cf. gibbosa,疑似駝背擬金錢菌,疑似驼背拟金钱菌",
   "Collybiopsis luxurians,華麗擬金錢菇,华丽拟金钱菇",
   "Collybiopsis quercophila,櫟生擬金錢菇,栎生拟金钱菇",
+  "Colpoma guadueticola,刺竹彎殼菌,刺竹弯壳菌",
   "Colpoma juniperi,柏生彎殼菌,柏生弯壳菌",
   "Colpoma quercinum,櫟彎殼菌,栎弯壳菌",
   "Coltricia australica,澳大利亞集毛菌,澳大利亚集毛菌",
@@ -2192,7 +2195,6 @@
   "Inocybe lutea,蛋黃絲蓋傘,蛋黄丝盖伞",
   "Inocybe nodulosospora,瘤孢絲蓋傘,瘤孢丝盖伞",
   "Inocybe squarrosofulva,鱗黃絲蓋傘,鳞黄丝盖伞",
-  "Inocybe tahquamenonensi,褐紅鱗絲蓋傘,褐红鳞丝盖伞",
   "Inocybe tahquamenonensis,褐紅鱗絲蓋傘,褐红鳞丝盖伞",
   "Inonotus rodwayi,羅德威纖孔菌,罗德威纤孔菌",
   "Insiticia aff. flavovirens,黃綠初小菇相似種,黄绿初小菇相似种",
@@ -2844,6 +2846,7 @@
   "Phylloporus bellus,美麗褶孔牛肝菌,美丽褶孔牛肝菌",
   "Phylloporus cyanescens,變藍褶孔牛肝菌,变蓝褶孔牛肝菌",
   "Phylloporus leucomycelinus,紅黃褶孔牛肝菌,红黄褶孔牛肝菌",
+  "Phyllosticta osmanthicola,桂花褐斑病,桂花褐斑病",
   "Phyllotopsis nidulans,黃毛黃側耳,黄毛黄侧耳",
   "Physalacria aff. lacrymispora,淚孢膨瑚菌的相似種,泪孢膨瑚菌的相似种",
   "Physalacria australiensis,澳洲膨瑚菌,澳洲膨瑚菌",
@@ -3039,6 +3042,7 @@
   "Puccinia hemerocallichis,金針柄銹菌,金针柄锈菌",
   "Puccinia hydrocotyles,天胡荽柄銹菌,天胡荽柄锈菌",
   "Puccinia liearis,線狀柄銹菌,线状柄锈菌",
+  "Puccinia lophatheri,淡竹葉柄銹菌,淡竹叶柄锈菌",
   "Puccinia mogiphanis,蓮子草柄銹菌,莲子草柄锈菌",
   "Puccinia oxalidis,酢漿草柄銹菌,酢浆草柄锈菌",
   "Puccinia spegazzinii,薇甘菊柄銹菌,薇甘菊柄锈菌",
@@ -3495,6 +3499,7 @@
   "Vahliella leucophaea,小葉微鱗衣(暫名),小叶微鳞衣(暂名)",
   "Vamsapriya uniseptata,單隔竹生愛孢,单隔竹生爱孢",
   "Vararia investiens,硬叉絲革菌,硬叉丝革菌",
+  "Veloporphyrellus cf. pseudovelatus,疑似擬垂邊紅孢紗牛肝菌,疑似拟垂边红孢纱牛肝菌",
   "Vladracula annuliformis,樟葉槭環形盤菌,樟叶槭环形盘菌",
   "Volvariella bombycina,絲蓋小包腳菇,丝盖小包脚菇",
   "Volvariella caesiotincta,藍灰小包腳菇,蓝灰小包脚菇",

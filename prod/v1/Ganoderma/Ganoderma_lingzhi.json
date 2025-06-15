@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "lingzhi",
  "date": [
+  "06/10/2025,9836125156497827",
   "08/09/2024,7815381448572218",
   "11/11/2017,6611560652287643"
  ],
@@ -68,6 +69,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Ganoderma_lingzhi_d79e4430-673b-10d6-9d5a-3db82ac53d2a_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_e06049b0-49cf-11f0-a092-258072628909_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_e06049b0-49cf-11f0-a092-258072628909_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_e06049b0-49cf-11f0-a092-258072628909_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_lingzhi_e06049b0-49cf-11f0-a092-258072628909_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,5 +136,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/199359748/thumb.jpg"
   }
  ],
- "timestamp": "20250608-182749"
+ "timestamp": "20250615-195251"
 }

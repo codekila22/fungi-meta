@@ -2,6 +2,7 @@
  "genus": "Gloiocephala",
  "name": "parvinelumbonifolia",
  "date": [
+  "06/09/2025,9865491380227871",
   "01/24/2024,6940075412769497",
   "10/25/2023,6574969365946772",
   "04/02/2023,5843310109112705",
@@ -188,6 +189,18 @@
   {
    "author": "江志緯",
    "image_src": "Gloiocephala_parvinelumbonifolia_02b6c260-c3b6-11ee-a64e-27f32eaae513_12.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gloiocephala_parvinelumbonifolia_8ca827d0-49c9-11f0-bbe5-f7307d85e297_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gloiocephala_parvinelumbonifolia_8ca827d0-49c9-11f0-bbe5-f7307d85e297_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gloiocephala_parvinelumbonifolia_8ca827d0-49c9-11f0-bbe5-f7307d85e297_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -236,5 +249,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164547080/thumb.jpg"
   }
  ],
- "timestamp": "20250608-182749"
+ "timestamp": "20250615-195251"
 }
