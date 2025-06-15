@@ -2,6 +2,7 @@
  "genus": "Parasola",
  "name": "plicatilis",
  "date": [
+  "06/12/2025,9850020408441635",
   "06/02/2024,7443609452416088",
   "05/04/2024,7344774892299545",
   "09/07/2022,5221301034646952",
@@ -114,6 +115,22 @@
   {
    "author": "James Ho",
    "image_src": "Parasola_plicatilis_af3c32f0-1054-11ef-9e96-f384f9ef267a_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Parasola_plicatilis_12a529b0-49ce-11f0-9ae0-ad8945250cc8_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Parasola_plicatilis_12a529b0-49ce-11f0-9ae0-ad8945250cc8_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Parasola_plicatilis_12a529b0-49ce-11f0-9ae0-ad8945250cc8_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Parasola_plicatilis_12a529b0-49ce-11f0-9ae0-ad8945250cc8_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -168,5 +185,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250608-182749"
+ "timestamp": "20250615-183552"
 }
