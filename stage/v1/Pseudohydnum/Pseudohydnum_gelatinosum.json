@@ -2,6 +2,7 @@
  "genus": "Pseudohydnum",
  "name": "gelatinosum",
  "date": [
+  "06/12/2025,9881530598623949",
   "06/11/2025,9843834822393527",
   "09/05/2024,7985203004923394",
   "08/26/2024,7919108358199526",
@@ -196,6 +197,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Pseudohydnum_gelatinosum_2dc4ecb0-6c18-11ef-ac2d-9d55987c7550_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudohydnum_gelatinosum_5d29b220-4b3c-11f0-b530-451c3b968edb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudohydnum_gelatinosum_5d29b220-4b3c-11f0-b530-451c3b968edb_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudohydnum_gelatinosum_5d29b220-4b3c-11f0-b530-451c3b968edb_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudohydnum_gelatinosum_5d29b220-4b3c-11f0-b530-451c3b968edb_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -258,5 +275,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250618-194533"
 }

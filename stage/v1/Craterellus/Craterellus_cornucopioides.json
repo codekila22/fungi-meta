@@ -2,6 +2,7 @@
  "genus": "Craterellus",
  "name": "cornucopioides",
  "date": [
+  "06/06/2025,9881470478629961",
   "06/20/2024,7566350580141974",
   "05/19/2024,7389319124511788",
   "08/17/2023,6305049162938795",
@@ -138,6 +139,18 @@
   {
    "author": "向高世",
    "image_src": "Craterellus_cornucopioides_38a2ca20-8901-11ef-8161-d3139b82d614_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Craterellus_cornucopioides_87cc15f0-4b63-11f0-99e3-1dff9a20893d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Craterellus_cornucopioides_87cc15f0-4b63-11f0-99e3-1dff9a20893d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Craterellus_cornucopioides_87cc15f0-4b63-11f0-99e3-1dff9a20893d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -228,5 +241,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250618-194533"
 }

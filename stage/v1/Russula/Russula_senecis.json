@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "senecis",
  "date": [
+  "06/06/2025,9881438415299834",
   "08/30/2024,7949498058493889",
   "08/25/2024,7932934500150245",
   "06/18/2024,7523057087804657",
@@ -164,6 +165,14 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Russula_senecis_91b3abc0-675f-11ef-83b1-c16b9f587388_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_senecis_b96c0a90-4b39-11f0-81f5-8d9d6453afd5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_senecis_b96c0a90-4b39-11f0-81f5-8d9d6453afd5_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -216,5 +225,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163088866/thumb.jpg"
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250618-194533"
 }
