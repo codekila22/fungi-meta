@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "rubescens",
  "date": [
+  "06/12/2025,9901950699915272",
   "09/23/2023,6436642206446156",
   "07/06/2023,6165831820193864",
   "06/25/2023,6131858326924547",
@@ -228,6 +229,30 @@
   {
    "author": "蔡古媧",
    "image_src": "Amanita_rubescens_4ae6a0c0-fcc5-11ef-ba76-93c525c6d9ea_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubescens_50c96e50-4dab-11f0-ac74-dfc7853bc216_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubescens_50c96e50-4dab-11f0-ac74-dfc7853bc216_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubescens_50c96e50-4dab-11f0-ac74-dfc7853bc216_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubescens_50c96e50-4dab-11f0-ac74-dfc7853bc216_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubescens_50c96e50-4dab-11f0-ac74-dfc7853bc216_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_rubescens_50c96e50-4dab-11f0-ac74-dfc7853bc216_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -300,5 +325,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/228980524/thumb.jpg"
   }
  ],
- "timestamp": "20250618-194533"
+ "timestamp": "20250620-171912"
 }
