@@ -2,6 +2,7 @@
  "genus": "Mucronella",
  "name": "pendula",
  "date": [
+  "06/11/2025,9850123975097945",
   "10/17/2023,6527389574038085",
   "07/06/2020,3354176698026071"
  ],
@@ -82,6 +83,30 @@
   {
    "author": "江志緯",
    "image_src": "Mucronella_pendula_fa0e40a0-6ce6-11ee-bf02-53c872f2e264_14.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucronella_pendula_dabc1890-4b37-11f0-afb0-43a1fce15033_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucronella_pendula_dabc1890-4b37-11f0-afb0-43a1fce15033_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucronella_pendula_dabc1890-4b37-11f0-afb0-43a1fce15033_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucronella_pendula_dabc1890-4b37-11f0-afb0-43a1fce15033_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucronella_pendula_dabc1890-4b37-11f0-afb0-43a1fce15033_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucronella_pendula_dabc1890-4b37-11f0-afb0-43a1fce15033_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -130,5 +155,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20295447/thumb.jpeg"
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250622-183304"
 }

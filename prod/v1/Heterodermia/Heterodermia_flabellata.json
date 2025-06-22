@@ -2,6 +2,7 @@
  "genus": "Heterodermia",
  "name": "flabellata",
  "date": [
+  "06/11/2025,9881707008606308",
   "10/14/2022,5324366257673762",
   "05/21/2022,7029778287132542"
  ],
@@ -50,6 +51,30 @@
   {
    "author": "蔡古媧",
    "image_src": "Heterodermia_flabellata_a35455a0-d5c9-11ee-94a7-2f64782a86c4_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Heterodermia_flabellata_73cd8300-4b3a-11f0-95df-f1627f50f360_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Heterodermia_flabellata_73cd8300-4b3a-11f0-95df-f1627f50f360_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Heterodermia_flabellata_73cd8300-4b3a-11f0-95df-f1627f50f360_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Heterodermia_flabellata_73cd8300-4b3a-11f0-95df-f1627f50f360_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Heterodermia_flabellata_73cd8300-4b3a-11f0-95df-f1627f50f360_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Heterodermia_flabellata_73cd8300-4b3a-11f0-95df-f1627f50f360_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -98,5 +123,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/185182391/thumb.jpg"
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250622-183304"
 }

@@ -2,13 +2,14 @@
  "genus": "Austroboletus",
  "name": "gracilis",
  "date": [
-  "01/01/0001"
+  "06/15/2025,9881856475258028",
+  "06/07/2025,9913902898720052"
  ],
  "names_zhtw": [
   "細南牛肝菌"
  ],
  "names_en": [],
- "url": "",
+ "url": "9881856475258028",
  "images": [
   {
    "author": "",
@@ -25,6 +26,54 @@
   {
    "author": "",
    "image_src": "Austroboletus_gracilis_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Austroboletus_gracilis_ea63a1d0-4e9f-11f0-8277-d12eb7b839f4_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Austroboletus_gracilis_ea63a1d0-4e9f-11f0-8277-d12eb7b839f4_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Austroboletus_gracilis_ea63a1d0-4e9f-11f0-8277-d12eb7b839f4_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Austroboletus_gracilis_ea63a1d0-4e9f-11f0-8277-d12eb7b839f4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_gracilis_24f0e7a0-4f49-11f0-83ea-7950df50f3f7_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_gracilis_24f0e7a0-4f49-11f0-83ea-7950df50f3f7_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_gracilis_24f0e7a0-4f49-11f0-83ea-7950df50f3f7_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_gracilis_24f0e7a0-4f49-11f0-83ea-7950df50f3f7_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_gracilis_24f0e7a0-4f49-11f0-83ea-7950df50f3f7_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_gracilis_24f0e7a0-4f49-11f0-83ea-7950df50f3f7_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_gracilis_24f0e7a0-4f49-11f0-83ea-7950df50f3f7_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_gracilis_24f0e7a0-4f49-11f0-83ea-7950df50f3f7_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -85,5 +134,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250622-183304"
 }

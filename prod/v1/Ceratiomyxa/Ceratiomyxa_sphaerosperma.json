@@ -2,6 +2,7 @@
  "genus": "Ceratiomyxa",
  "name": "sphaerosperma",
  "date": [
+  "06/16/2025,9881631781947164",
   "06/14/2024,7575967635846935",
   "06/20/2023,6108811175895929",
   "06/04/2023,6057763211000726",
@@ -142,6 +143,22 @@
   {
    "author": "江志緯",
    "image_src": "Ceratiomyxa_sphaerosperma_b5cae060-35d6-11ef-986a-cf446dab8d5d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ceratiomyxa_sphaerosperma_72c641a0-4b39-11f0-a5a9-8310958ff2be_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ceratiomyxa_sphaerosperma_72c641a0-4b39-11f0-a5a9-8310958ff2be_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ceratiomyxa_sphaerosperma_72c641a0-4b39-11f0-a5a9-8310958ff2be_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ceratiomyxa_sphaerosperma_72c641a0-4b39-11f0-a5a9-8310958ff2be_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -189,5 +206,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/178035011/thumb.jpg"
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250622-183304"
 }

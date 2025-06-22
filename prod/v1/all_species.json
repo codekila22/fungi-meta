@@ -1,5 +1,5 @@
 {
- "timestamp": "20250615-195251",
+ "timestamp": "20250622-183304",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -440,6 +440,7 @@
    "Lepista,香蘑屬,香蘑属",
    "Leucoagaricus,白環蘑屬,白环蘑属",
    "Leucocoprinus,白鬼傘屬,白鬼伞属",
+   "Leucoinocybe,白紋傘屬,白纹伞属",
    "Leucopaxillus,白椿菇屬,白椿菇属",
    "Leucopholiota,白麟傘屬,白麟伞属",
    "Lichenomphalia,地衣臍菇屬,地衣脐菇属",
@@ -2360,6 +2361,7 @@
   "Leucocoprinus fragilissimus,易碎白鬼傘,易碎白鬼伞",
   "Leucocoprinus ianthinus,紫羅蘭色白鬼傘,紫罗兰色白鬼伞",
   "Leucodermia leucomelos,白亞鈴孢衣,白亚铃孢衣",
+  "Leucoinocybe auricoma,金黃白紋傘,金黄白纹伞",
   "Leucopaxillus giganteus,巨白樁菇,巨白桩菇",
   "Leucopholiota decorosa,華美白鱗傘,华美白鳞伞",
   "Leucopholiota lignicola,木生白鱗傘,木生白鳞伞",
@@ -2466,7 +2468,6 @@
   "Maravalia pterocarpi,紫檀無眠單胞銹菌,紫檀无眠单胞锈菌",
   "Maronea constans,恆常栗盤衣,恒常栗盘衣",
   "Megacollybia clitocyboidea,杯粉孢大金錢菇,杯粉孢大金钱菇",
-  "Megasporia hexagonoides,蜂巢韌皮耳,蜂巢韧皮耳",
   "Megasporoporia setulosa,剛毛大孢孔菌,刚毛大孢孔菌",
   "Melanoleuca verrucipes,疣柄銛囊蘑,疣柄铦囊蘑",
   "Melanophyllum haematospermum,紅褶暗蓋菇,红褶暗盖菇",

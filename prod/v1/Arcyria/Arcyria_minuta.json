@@ -2,6 +2,7 @@
  "genus": "Arcyria",
  "name": "minuta",
  "date": [
+  "06/01/2025,9909529999157342",
   "07/04/2024,7604467602996938",
   "05/07/2024,7371489206294780",
   "10/18/2023,6539010939542615",
@@ -464,6 +465,34 @@
   {
    "author": "Sunny Wang",
    "image_src": "Arcyria_minuta_25cf14f0-6ac3-11ef-8d8e-89e0545b9409_24.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_minuta_03b125f0-4f4e-11f0-b261-85abdcca2979_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_minuta_03b125f0-4f4e-11f0-b261-85abdcca2979_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_minuta_03b125f0-4f4e-11f0-b261-85abdcca2979_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_minuta_03b125f0-4f4e-11f0-b261-85abdcca2979_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_minuta_03b125f0-4f4e-11f0-b261-85abdcca2979_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_minuta_03b125f0-4f4e-11f0-b261-85abdcca2979_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_minuta_03b125f0-4f4e-11f0-b261-85abdcca2979_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -512,5 +541,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156404988/thumb.jpg"
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250622-183304"
 }

@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "hesleri",
  "date": [
+  "06/19/2025,9904383136338695",
   "08/23/2023,8015147528595608",
   "08/19/2023,6311486888961689",
   "08/14/2023,6294817787295266",
@@ -89,6 +90,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_hesleri_2979e330-6f52-11ef-b24d-cbb1f6629149_8.jpg"
+  },
+  {
+   "author": "Lisa Wu",
+   "image_src": "Amanita_hesleri_03516d00-4f3e-11f0-b576-eb9c0faf372a_1.jpg"
+  },
+  {
+   "author": "Lisa Wu",
+   "image_src": "Amanita_hesleri_03516d00-4f3e-11f0-b576-eb9c0faf372a_2.jpg"
+  },
+  {
+   "author": "Lisa Wu",
+   "image_src": "Amanita_hesleri_03516d00-4f3e-11f0-b576-eb9c0faf372a_3.jpg"
+  },
+  {
+   "author": "Lisa Wu",
+   "image_src": "Amanita_hesleri_03516d00-4f3e-11f0-b576-eb9c0faf372a_4.jpg"
+  },
+  {
+   "author": "Lisa Wu",
+   "image_src": "Amanita_hesleri_03516d00-4f3e-11f0-b576-eb9c0faf372a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -137,5 +158,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/247271465/thumb.jpeg"
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250622-183304"
 }

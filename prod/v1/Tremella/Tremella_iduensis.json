@@ -2,6 +2,7 @@
  "genus": "Tremella",
  "name": "iduensis",
  "date": [
+  "06/11/2025,9901884363255239",
   "10/22/2022,7000220390088332",
   "03/07/2022,4704323023011425",
   "07/04/2019,9006485386128479"
@@ -55,6 +56,22 @@
   {
    "author": "向高世",
    "image_src": "Tremella_iduensis_4af37870-f727-11ef-85b1-1df730de526c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tremella_iduensis_6452af40-4f4a-11f0-ac18-91dc399ee977_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tremella_iduensis_6452af40-4f4a-11f0-ac18-91dc399ee977_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tremella_iduensis_6452af40-4f4a-11f0-ac18-91dc399ee977_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tremella_iduensis_6452af40-4f4a-11f0-ac18-91dc399ee977_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -104,5 +121,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/320769436/thumb.jpg"
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250622-183304"
 }

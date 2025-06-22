@@ -2,6 +2,7 @@
  "genus": "Xylaria",
  "name": "terricola",
  "date": [
+  "06/01/2025,9909623985814610",
   "05/04/2024,7328881117222256",
   "04/11/2024,7208463265930709",
   "04/03/2024,7190866234357079",
@@ -102,6 +103,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Xylaria_terricola_c3862790-fa54-11ee-9b04-6d80a9b43dfc_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_terricola_a20d1ed0-4ea3-11f0-8f7e-0d967643ab81_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_terricola_a20d1ed0-4ea3-11f0-8f7e-0d967643ab81_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_terricola_a20d1ed0-4ea3-11f0-8f7e-0d967643ab81_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_terricola_a20d1ed0-4ea3-11f0-8f7e-0d967643ab81_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_terricola_a20d1ed0-4ea3-11f0-8f7e-0d967643ab81_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_terricola_a20d1ed0-4ea3-11f0-8f7e-0d967643ab81_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -150,5 +175,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6272078/thumb.jpeg"
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250622-183304"
 }

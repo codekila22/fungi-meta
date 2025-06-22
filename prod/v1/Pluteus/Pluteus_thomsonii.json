@@ -2,6 +2,7 @@
  "genus": "Pluteus",
  "name": "thomsonii",
  "date": [
+  "06/16/2025,9881576738619335",
   "06/10/2024,7487338814709818",
   "08/01/2023,6251886304921748",
   "04/19/2023,5898724986904550",
@@ -150,6 +151,34 @@
   {
    "author": "蔡古媧",
    "image_src": "Pluteus_thomsonii_95aa6060-27f0-11ef-a475-79d31d5a179e_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_thomsonii_142c8450-4b3f-11f0-bc90-c7e69be90f7a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_thomsonii_142c8450-4b3f-11f0-bc90-c7e69be90f7a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_thomsonii_142c8450-4b3f-11f0-bc90-c7e69be90f7a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_thomsonii_142c8450-4b3f-11f0-bc90-c7e69be90f7a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_thomsonii_142c8450-4b3f-11f0-bc90-c7e69be90f7a_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_thomsonii_142c8450-4b3f-11f0-bc90-c7e69be90f7a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pluteus_thomsonii_142c8450-4b3f-11f0-bc90-c7e69be90f7a_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -198,5 +227,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13420675/thumb.jpg"
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250622-183304"
 }

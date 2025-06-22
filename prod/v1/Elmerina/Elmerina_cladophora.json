@@ -2,7 +2,9 @@
  "genus": "Elmerina",
  "name": "cladophora",
  "date": [
+  "06/20/2024,7536732853103747",
   "03/30/2024,7168807903229579",
+  "02/17/2022,4669008643209530",
   "03/24/2021,7168807903229579"
  ],
  "names_zhtw": [
@@ -70,6 +72,62 @@
   {
    "author": "蔡古媧",
    "image_src": "Elmerina_cladophora_de38d190-f4ce-11ee-b19f-ffa5c8ea05b9_15.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_9_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_d55cc630-314b-11ef-b869-df75a4341d3a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_d55cc630-314b-11ef-b869-df75a4341d3a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_d55cc630-314b-11ef-b869-df75a4341d3a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_d55cc630-314b-11ef-b869-df75a4341d3a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_d55cc630-314b-11ef-b869-df75a4341d3a_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Megasporia_hexagonoides_d55cc630-314b-11ef-b869-df75a4341d3a_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -121,5 +179,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/62773805/thumb.jpeg"
   }
  ],
- "timestamp": "20250615-195251"
+ "timestamp": "20250622-183304"
 }
