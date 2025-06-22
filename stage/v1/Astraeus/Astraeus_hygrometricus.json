@@ -2,6 +2,7 @@
  "genus": "Astraeus",
  "name": "hygrometricus",
  "date": [
+  "06/15/2025,9926571684119840",
   "01/03/2025,8789372537839766",
   "12/25/2024,8740748969368790",
   "12/22/2024,8736242463152774",
@@ -345,6 +346,14 @@
   {
    "author": "蔡古媧",
    "image_src": "Astraeus_hygrometricus_661f3fc0-2e0a-11f0-987f-ef56d2aa7706_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Astraeus_hygrometricus_169d2b80-4f37-11f0-91e5-132606f38a6b_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Astraeus_hygrometricus_169d2b80-4f37-11f0-91e5-132606f38a6b_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -394,5 +403,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29238645/thumb.jpeg"
   }
  ],
- "timestamp": "20250620-171912"
+ "timestamp": "20250622-153548"
 }

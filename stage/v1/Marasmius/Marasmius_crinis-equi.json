@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "crinis-equi",
  "date": [
+  "04/27/2025,9502379889872357",
   "08/05/2024,7802341686542861",
   "06/16/2024,7512527628857603"
  ],
@@ -58,6 +59,34 @@
   {
    "author": "陳雅芬",
    "image_src": "Marasmius_crinis-equi_73e95d80-81be-10d9-b41e-b34c0caf8ec6_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_crinis-equi_a05f2b20-4dbb-11f0-a0ee-356f5debd858_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_crinis-equi_a05f2b20-4dbb-11f0-a0ee-356f5debd858_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_crinis-equi_a05f2b20-4dbb-11f0-a0ee-356f5debd858_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_crinis-equi_a05f2b20-4dbb-11f0-a0ee-356f5debd858_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_crinis-equi_a05f2b20-4dbb-11f0-a0ee-356f5debd858_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_crinis-equi_a05f2b20-4dbb-11f0-a0ee-356f5debd858_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_crinis-equi_a05f2b20-4dbb-11f0-a0ee-356f5debd858_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -107,5 +136,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/118697395/thumb.jpeg"
   }
  ],
- "timestamp": "20250620-171912"
+ "timestamp": "20250622-153548"
 }

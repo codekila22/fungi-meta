@@ -2,6 +2,7 @@
  "genus": "Phleogena",
  "name": "faginea",
  "date": [
+  "06/20/2025,9821001574676852",
   "05/01/2025,9525106814266331",
   "05/24/2023,6023291244447923",
   "05/04/2023,5945300728913642",
@@ -134,6 +135,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Phleogena_faginea_d1d29130-27e4-11f0-b877-15f3a5fe88c3_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Phleogena_faginea_a598cbb0-4ea5-11f0-aae0-51ce6a6efece_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Phleogena_faginea_a598cbb0-4ea5-11f0-aae0-51ce6a6efece_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Phleogena_faginea_a598cbb0-4ea5-11f0-aae0-51ce6a6efece_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Phleogena_faginea_a598cbb0-4ea5-11f0-aae0-51ce6a6efece_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Phleogena_faginea_a598cbb0-4ea5-11f0-aae0-51ce6a6efece_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Phleogena_faginea_a598cbb0-4ea5-11f0-aae0-51ce6a6efece_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Phleogena_faginea_a598cbb0-4ea5-11f0-aae0-51ce6a6efece_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -181,5 +210,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159719287/thumb.jpeg"
   }
  ],
- "timestamp": "20250620-171912"
+ "timestamp": "20250622-153548"
 }

@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "vestita",
  "date": [
+  "06/21/2025,9922547761188899",
   "05/28/2025,9736698553107155",
   "08/20/2024,7880545322055830",
   "08/20/2024,7880873088689720",
@@ -303,6 +304,26 @@
   {
    "author": "姜淋友",
    "image_src": "Amanita_vestita_bf5cde80-4412-11f0-baff-a365e3c7dbed_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_606ce270-4eae-11f0-aca7-e9bdded5fae2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_606ce270-4eae-11f0-aca7-e9bdded5fae2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_606ce270-4eae-11f0-aca7-e9bdded5fae2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_606ce270-4eae-11f0-aca7-e9bdded5fae2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_606ce270-4eae-11f0-aca7-e9bdded5fae2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -351,5 +372,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253549348/thumb.jpg"
   }
  ],
- "timestamp": "20250620-171912"
+ "timestamp": "20250622-153548"
 }

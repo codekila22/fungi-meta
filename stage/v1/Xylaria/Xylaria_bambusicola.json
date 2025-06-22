@@ -2,6 +2,7 @@
  "genus": "Xylaria",
  "name": "bambusicola",
  "date": [
+  "06/06/2025,9821493241294352",
   "04/25/2025,9483651178411895",
   "04/13/2025,9395034540606893",
   "03/14/2024,7125446197565750",
@@ -172,6 +173,34 @@
   {
    "author": "游永滄",
    "image_src": "Xylaria_bambusicola_1f04bf10-2361-11f0-8773-1f3ef7651c85_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Xylaria_bambusicola_6446a5a0-4dbb-11f0-9b11-7fb0e0cea93b_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Xylaria_bambusicola_6446a5a0-4dbb-11f0-9b11-7fb0e0cea93b_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Xylaria_bambusicola_6446a5a0-4dbb-11f0-9b11-7fb0e0cea93b_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Xylaria_bambusicola_6446a5a0-4dbb-11f0-9b11-7fb0e0cea93b_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Xylaria_bambusicola_6446a5a0-4dbb-11f0-9b11-7fb0e0cea93b_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Xylaria_bambusicola_6446a5a0-4dbb-11f0-9b11-7fb0e0cea93b_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Xylaria_bambusicola_6446a5a0-4dbb-11f0-9b11-7fb0e0cea93b_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -220,5 +249,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/277046355/thumb.jpg"
   }
  ],
- "timestamp": "20250620-171912"
+ "timestamp": "20250622-153548"
 }

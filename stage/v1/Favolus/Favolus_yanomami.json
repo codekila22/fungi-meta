@@ -2,6 +2,7 @@
  "genus": "Favolus",
  "name": "yanomami",
  "date": [
+  "06/09/2025,9826383197472023",
   "09/29/2024,8184908704952822",
   "08/21/2024,7894212607355768",
   "06/19/2024,7527220570721642",
@@ -84,6 +85,34 @@
   {
    "author": "江志緯",
    "image_src": "Favolus_yanomami_36b10c40-61f1-11ef-8070-edba09ff1188_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_yanomami_4ddfa780-4e3d-11f0-a036-af3f329993db_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_yanomami_4ddfa780-4e3d-11f0-a036-af3f329993db_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_yanomami_4ddfa780-4e3d-11f0-a036-af3f329993db_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_yanomami_4ddfa780-4e3d-11f0-a036-af3f329993db_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_yanomami_4ddfa780-4e3d-11f0-a036-af3f329993db_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_yanomami_4ddfa780-4e3d-11f0-a036-af3f329993db_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_yanomami_4ddfa780-4e3d-11f0-a036-af3f329993db_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -135,5 +164,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/378788283/thumb.jpeg"
   }
  ],
- "timestamp": "20250620-171912"
+ "timestamp": "20250622-153548"
 }
