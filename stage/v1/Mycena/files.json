@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20250622-181125",
+ "timestamp": "20250622-182753",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -101,6 +101,9 @@
    "name": "Mycena auricoma",
    "zhtw": "金黃小菇",
    "zhcn": "金黄小菇",
+   "current": "Leucoinocybe auricoma",
+   "current_zhtw": "金黃白紋傘",
+   "current_zhcn": "金黄白纹伞",
    "img": "Mycena_auricoma_baf3f060-1550-11ee-84fb-0bb20c5a4e5d_1.jpg"
   },
   {
