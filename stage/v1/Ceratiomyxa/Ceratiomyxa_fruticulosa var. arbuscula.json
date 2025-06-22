@@ -2,6 +2,7 @@
  "genus": "Ceratiomyxa",
  "name": "fruticulosa var. arbuscula",
  "date": [
+  "06/15/2025,9913745898735752",
   "10/19/2024,8407833169327040",
   "10/13/2024,8336274179816273",
   "09/10/2024,8052427994867561",
@@ -272,6 +273,26 @@
   {
    "author": "陳雅芬",
    "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_67f12b50-9dd8-11ef-a8a3-297914b92d7b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_14d14a80-4f4a-11f0-9d15-09f20ab5698c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_14d14a80-4f4a-11f0-9d15-09f20ab5698c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_14d14a80-4f4a-11f0-9d15-09f20ab5698c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_14d14a80-4f4a-11f0-9d15-09f20ab5698c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_14d14a80-4f4a-11f0-9d15-09f20ab5698c_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -319,5 +340,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250419593/thumb.jpeg"
   }
  ],
- "timestamp": "20250622-153548"
+ "timestamp": "20250622-181125"
 }
