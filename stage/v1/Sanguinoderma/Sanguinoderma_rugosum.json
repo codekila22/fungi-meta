@@ -2,6 +2,7 @@
  "genus": "Sanguinoderma",
  "name": "rugosum",
  "date": [
+  "06/23/2025,9935126866597655",
   "05/08/2025,9592713010839044",
   "08/20/2024,7903887893054906",
   "06/16/2024,7526052407505125",
@@ -288,6 +289,22 @@
   {
    "author": "江志緯",
    "image_src": "Sanguinoderma_rugosum_d3e6e320-61df-11ef-8070-edba09ff1188_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sanguinoderma_rugosum_1fb80e90-533a-11f0-bdef-ff8c95791517_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sanguinoderma_rugosum_1fb80e90-533a-11f0-bdef-ff8c95791517_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sanguinoderma_rugosum_1fb80e90-533a-11f0-bdef-ff8c95791517_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sanguinoderma_rugosum_1fb80e90-533a-11f0-bdef-ff8c95791517_4.jpg"
   }
  ],
  "synonym": [
@@ -344,5 +361,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/111596254/thumb.jpeg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250705-111053"
 }

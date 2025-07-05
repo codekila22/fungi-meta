@@ -2,6 +2,7 @@
  "genus": "Lachnocladium",
  "name": "schweinfurthianum",
  "date": [
+  "06/25/2025,9960976914012650",
   "07/16/2024,7673088712801493",
   "10/20/2023,6560634067380302",
   "08/10/2023,6282633275180384",
@@ -128,6 +129,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Lachnocladium_schweinfurthianum_7aa95190-be56-109e-b63b-3f0b64c93814_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lachnocladium_schweinfurthianum_4c1af8d0-533a-11f0-935a-3bd9b52acddb_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lachnocladium_schweinfurthianum_4c1af8d0-533a-11f0-935a-3bd9b52acddb_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lachnocladium_schweinfurthianum_4c1af8d0-533a-11f0-935a-3bd9b52acddb_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lachnocladium_schweinfurthianum_4c1af8d0-533a-11f0-935a-3bd9b52acddb_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -175,5 +192,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/62678242/thumb.jpeg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250705-111053"
 }

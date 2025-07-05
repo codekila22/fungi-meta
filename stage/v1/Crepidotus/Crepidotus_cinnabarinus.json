@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "cinnabarinus",
  "date": [
+  "06/18/2025,10019856768124664",
   "10/22/2024,8381088348668189",
   "10/18/2024,8345764998867191",
   "09/29/2024,8183470691763290",
@@ -250,7 +251,7 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
-  "Seasons": "winter,autumn",
+  "Seasons": "spring,winter,summer,autumn",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
@@ -270,5 +271,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/154147519/thumb.jpeg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250705-111053"
 }

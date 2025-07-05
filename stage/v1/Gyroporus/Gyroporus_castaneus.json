@@ -2,13 +2,15 @@
  "genus": "Gyroporus",
  "name": "castaneus",
  "date": [
-  "08/04/2022"
+  "06/29/2025,9988188407958167",
+  "07/15/2017,1257304324379996",
+  "05/18/2013,755854951191605"
  ],
  "names_zhtw": [
   "栗樹圓孔牛肝菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/783",
+ "url": "9988188407958167",
  "images": [
   {
    "author": "Song Showlin",
@@ -53,6 +55,54 @@
   {
    "author": "",
    "image_src": "Gyroporus_castaneus_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyroporus_castaneus_63f21a50-563d-11f0-9004-5b441f0dbda6_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -101,5 +151,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/101762314/thumb.jpg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250705-111053"
 }

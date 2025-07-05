@@ -2,6 +2,7 @@
  "genus": "Clavaria",
  "name": "zollingeri",
  "date": [
+  "07/04/2025,10021746687935672",
   "06/11/2025,9855991611177848",
   "10/27/2024,8426195700824120",
   "09/14/2024,8048614765248884",
@@ -292,6 +293,38 @@
   {
    "author": "姜淋友",
    "image_src": "Clavaria_zollingeri_b8e58dc0-4b3f-11f0-bfb0-abeddaac209e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -341,5 +374,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13562101/thumb.jpg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250705-111053"
 }

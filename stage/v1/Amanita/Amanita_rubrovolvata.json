@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "rubrovolvata",
  "date": [
+  "06/29/2025,9983101538466854",
   "06/05/2025,9854410631335946",
   "09/09/2024,8009968175780210",
   "06/28/2024,7597267927050239",
@@ -275,6 +276,18 @@
   {
    "author": "江志緯",
    "image_src": "Amanita_rubrovolvata_b0d87590-49cb-11f0-991c-39d9c7af6a0e_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_5abe60c0-55ab-11f0-b7c1-b9b9b6bd3dd3_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_5abe60c0-55ab-11f0-b7c1-b9b9b6bd3dd3_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_5abe60c0-55ab-11f0-b7c1-b9b9b6bd3dd3_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -323,5 +336,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163434722/thumb.jpg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250705-111053"
 }
