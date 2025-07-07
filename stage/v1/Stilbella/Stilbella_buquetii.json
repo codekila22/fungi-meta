@@ -1,34 +1,5 @@
 {
- "genus": "Stilbella",
- "name": "buquetii",
- "date": [
-  "05/27/2025,9934960089947666"
- ],
- "names_zhtw": [
-  "捧束梗孢菌"
- ],
- "names_en": [],
- "url": "9934960089947666",
- "images": [
-  {
-   "author": "向高世",
-   "image_src": "Stilbella_buquetii_53669e00-5b0a-11f0-b78e-efa250e1dae0_1.jpg"
-  },
-  {
-   "author": "向高世",
-   "image_src": "Stilbella_buquetii_53669e00-5b0a-11f0-b78e-efa250e1dae0_2.jpg"
-  },
-  {
-   "author": "向高世",
-   "image_src": "Stilbella_buquetii_53669e00-5b0a-11f0-b78e-efa250e1dae0_3.jpg"
-  },
-  {
-   "author": "向高世",
-   "image_src": "Stilbella_buquetii_53669e00-5b0a-11f0-b78e-efa250e1dae0_4.jpg"
-  }
- ],
- "names_zhcn": [
-  "捧束梗孢菌"
- ],
- "timestamp": "20250707-175401"
+ "zhtw": "捧束梗孢菌",
+ "zhcn": "捧束梗孢菌",
+ "redirect_to_species": "Ophiocordyceps buquetii"
 }

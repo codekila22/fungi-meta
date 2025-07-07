@@ -1,8 +1,23 @@
 {
  "genus": "Ophiocordyceps",
  "name": "buquetii",
+ "synonym": [
+  {
+   "name": "Stilbella buquetii",
+   "zhtw": "捧束梗孢菌",
+   "zhcn": "捧束梗孢菌"
+  }
+ ],
  "date": [
-  "01/01/0001"
+  "05/27/2025,9934960089947666",
+  "08/17/2022,5161422467301476",
+  "01/19/2022,4556023944508001",
+  "05/07/2021,3754522091324861",
+  "10/10/2020,3190260401084369",
+  "08/23/2020,3040757342701343",
+  "08/02/2020,2980352175408527",
+  "02/16/2018,1456345844475842",
+  "12/11/2017,1402874286489665"
  ],
  "names_zhtw": [
   "捧束蛇形蟲草"
@@ -33,6 +48,22 @@
   {
    "author": "陳群柏",
    "image_src": "Ophiocordyceps_buquetii_8_CC BY-NC_陳群柏.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Stilbella_buquetii_53669e00-5b0a-11f0-b78e-efa250e1dae0_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Stilbella_buquetii_53669e00-5b0a-11f0-b78e-efa250e1dae0_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Stilbella_buquetii_53669e00-5b0a-11f0-b78e-efa250e1dae0_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Stilbella_buquetii_53669e00-5b0a-11f0-b78e-efa250e1dae0_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -80,5 +111,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163058177/thumb.jpg"
   }
  ],
- "timestamp": "20250707-175401"
+ "timestamp": "20250707-181619"
 }

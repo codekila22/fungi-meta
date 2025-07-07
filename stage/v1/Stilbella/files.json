@@ -2,7 +2,7 @@
  "name": "Stilbella",
  "zhtw": "束梗孢菌屬",
  "zhcn": "束梗孢菌属",
- "timestamp": "20250707-175401",
+ "timestamp": "20250707-181619",
  "list": [
   {
    "name": "Stilbella aleuriata",
@@ -14,7 +14,10 @@
    "name": "Stilbella buquetii",
    "zhtw": "捧束梗孢菌",
    "zhcn": "捧束梗孢菌",
-   "img": "Stilbella_buquetii_53669e00-5b0a-11f0-b78e-efa250e1dae0_1.jpg"
+   "current": "Ophiocordyceps buquetii",
+   "current_zhtw": "捧束蛇形蟲草",
+   "current_zhcn": "捧束蛇形虫草",
+   "img": "Ophiocordyceps_buquetii_1_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Stilbella byssiseda",

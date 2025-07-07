@@ -38,5 +38,49 @@
  "names_zhcn": [
   "彼氏多柱壳菌"
  ],
- "timestamp": "20250707-175401"
+ "meta": {
+  "CapColors": "4286141768,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Camarops petersii",
+   "cname": "Dog's Nose Fungus",
+   "url": "https://www.inaturalist.org/taxa/211027-Camarops-petersii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4132977/thumb."
+  }
+ ],
+ "timestamp": "20250707-181619"
 }

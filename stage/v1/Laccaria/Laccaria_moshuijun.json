@@ -46,5 +46,51 @@
  "names_zhcn": [
   "墨水蜡蘑"
  ],
- "timestamp": "20250707-175401"
+ "meta": {
+  "CapColors": "4286578816,4287889619",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "striated",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Laccaria amethystina,,",
+  "Note": "此種顏色較淺。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "紫蠟蘑,,",
+  "la_zhcn": "紫蜡蘑,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Laccaria moshuijun",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1358209-Laccaria-moshuijun",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/286409706/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20250707-181619"
 }
