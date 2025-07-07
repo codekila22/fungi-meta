@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -67,7 +67,7 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "70,90",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -84,5 +84,5 @@
   "la_zhtw": "東方褐蓋鵝膏,,",
   "la_zhcn": "东方褐盖鹅膏,,"
  },
- "timestamp": "20250622-194158"
+ "timestamp": "20250707-181619"
 }

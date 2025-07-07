@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "aff.02 rotula",
  "date": [
+  "06/24/2025,9945352538908421",
   "08/18/2024,7903625529747809",
   "08/15/2024,7855646091212420",
   "08/02/2015,1142495902527506"
@@ -87,6 +88,26 @@
   {
    "author": "江志緯",
    "image_src": "Marasmius_aff.02 rotula_63981940-61b2-11ef-9d40-7daafff69d1d_6.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Marasmius_aff.02 rotula_4d2331e0-5b0d-11f0-8942-9dd8886eb4ee_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Marasmius_aff.02 rotula_4d2331e0-5b0d-11f0-8942-9dd8886eb4ee_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Marasmius_aff.02 rotula_4d2331e0-5b0d-11f0-8942-9dd8886eb4ee_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Marasmius_aff.02 rotula_4d2331e0-5b0d-11f0-8942-9dd8886eb4ee_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Marasmius_aff.02 rotula_4d2331e0-5b0d-11f0-8942-9dd8886eb4ee_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -141,5 +162,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/212859090/thumb.jpeg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250707-181619"
 }

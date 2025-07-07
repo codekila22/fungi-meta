@@ -2,7 +2,7 @@
  "name": "Arrhenia",
  "zhtw": "蘚臍菇屬",
  "zhcn": "藓脐菇属",
- "timestamp": "20250622-194158",
+ "timestamp": "20250707-181619",
  "list": [
   {
    "name": "Arrhenia acerosa",
@@ -15,6 +15,12 @@
    "zhtw": "分離褶盾菌",
    "zhcn": "分离褶盾菌",
    "img": "Arrhenia_discorosea_3eb5e3c0-0d5e-11f0-8f20-41a089fa4e5b_1.jpg"
+  },
+  {
+   "name": "Arrhenia epichysium",
+   "zhtw": "褐蘚臍菇",
+   "zhcn": "褐藓脐菇",
+   "img": "Arrhenia_epichysium_930acd40-5a44-11f0-bc07-3d3ad3fa6372_1.jpg"
   }
  ]
 }

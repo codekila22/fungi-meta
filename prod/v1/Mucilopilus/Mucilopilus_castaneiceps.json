@@ -2,6 +2,7 @@
  "genus": "Mucilopilus",
  "name": "castaneiceps",
  "date": [
+  "07/02/2025,10035518556558485",
   "07/07/2024,7631556106954754",
   "06/25/2024,7563010670475965",
   "06/28/2023,6155461834564196",
@@ -183,6 +184,22 @@
   {
    "author": "姜淋友",
    "image_src": "Mucilopilus_castaneiceps_0db3a1a0-245c-1077-8f2a-038c3d9c1715_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucilopilus_castaneiceps_186abe10-5a44-11f0-badf-698e04c81d64_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucilopilus_castaneiceps_186abe10-5a44-11f0-badf-698e04c81d64_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucilopilus_castaneiceps_186abe10-5a44-11f0-badf-698e04c81d64_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucilopilus_castaneiceps_186abe10-5a44-11f0-badf-698e04c81d64_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -231,5 +248,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155611153/thumb.jpg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250707-181619"
 }

@@ -2,6 +2,7 @@
  "genus": "Pertusaria",
  "name": "commutata",
  "date": [
+  "04/07/2025,9404311759679171",
   "12/01/2023,6739674896142884",
   "05/20/2023,6043636542413393"
  ],
@@ -90,6 +91,46 @@
   {
    "author": "江志緯",
    "image_src": "Pertusaria_commutata_161e8900-9cce-11ee-8397-837229dae28d_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -121,7 +162,7 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,rocks",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -140,5 +181,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/60567154/thumb.jpg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250707-181619"
 }

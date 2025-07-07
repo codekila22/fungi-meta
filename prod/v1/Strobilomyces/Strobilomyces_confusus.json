@@ -2,6 +2,7 @@
  "genus": "Strobilomyces",
  "name": "confusus",
  "date": [
+  "06/25/2025,9959941064116235",
   "08/08/2024,7856436307800065",
   "06/09/2024,7479341852176181",
   "05/28/2024,7476510015792698",
@@ -283,6 +284,22 @@
   {
    "author": "蔡古媧",
    "image_src": "Strobilomyces_confusus_ca940130-9ef8-11ef-b645-db7ca7a54785_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_confusus_a1b99ec0-54d1-11f0-9a3a-1569597bb593_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_confusus_a1b99ec0-54d1-11f0-9a3a-1569597bb593_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_confusus_a1b99ec0-54d1-11f0-9a3a-1569597bb593_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_confusus_a1b99ec0-54d1-11f0-9a3a-1569597bb593_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -334,5 +351,5 @@
    "src": "https://static.inaturalist.org/photos/24056041/thumb.jpeg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250707-181619"
 }

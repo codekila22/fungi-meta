@@ -2,6 +2,7 @@
  "genus": "Cerotelium",
  "name": "fici",
  "date": [
+  "07/06/2025,10035181549925519",
   "12/18/2024,8703588073084880",
   "12/09/2024,8645870528856635",
   "05/25/2024,7411250208985346"
@@ -169,6 +170,46 @@
   {
    "author": "江志緯",
    "image_src": "Cerotelium_fici_12e6bd10-c046-11ef-93fc-954e0d6cf9de_12.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cerotelium_fici_e9f7c410-5a39-11f0-b748-bd3d73aa1780_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cerotelium_fici_e9f7c410-5a39-11f0-b748-bd3d73aa1780_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cerotelium_fici_e9f7c410-5a39-11f0-b748-bd3d73aa1780_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cerotelium_fici_e9f7c410-5a39-11f0-b748-bd3d73aa1780_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cerotelium_fici_e9f7c410-5a39-11f0-b748-bd3d73aa1780_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cerotelium_fici_e9f7c410-5a39-11f0-b748-bd3d73aa1780_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cerotelium_fici_e9f7c410-5a39-11f0-b748-bd3d73aa1780_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cerotelium_fici_e9f7c410-5a39-11f0-b748-bd3d73aa1780_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cerotelium_fici_e9f7c410-5a39-11f0-b748-bd3d73aa1780_9.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Cerotelium_fici_e9f7c410-5a39-11f0-b748-bd3d73aa1780_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -217,5 +258,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/196727550/thumb.jpg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250707-181619"
 }

@@ -1,0 +1,83 @@
+{
+ "genus": "Arrhenia",
+ "name": "epichysium",
+ "date": [
+  "07/03/2025,10035369386573402"
+ ],
+ "names_zhtw": [
+  "褐蘚臍菇",
+  "外溶褶盾菌"
+ ],
+ "names_en": [],
+ "url": "10035369386573402",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Arrhenia_epichysium_930acd40-5a44-11f0-bc07-3d3ad3fa6372_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arrhenia_epichysium_930acd40-5a44-11f0-bc07-3d3ad3fa6372_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arrhenia_epichysium_930acd40-5a44-11f0-bc07-3d3ad3fa6372_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arrhenia_epichysium_930acd40-5a44-11f0-bc07-3d3ad3fa6372_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arrhenia_epichysium_930acd40-5a44-11f0-bc07-3d3ad3fa6372_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "褐藓脐菇",
+  "外溶褶盾菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "infundibuliform",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,moss",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Arrhenia epichysium",
+   "cname": "Brown Goblet",
+   "url": "https://www.inaturalist.org/taxa/67343-Arrhenia-epichysium",
+   "src": "https://static.inaturalist.org/photos/44025455/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250707-181619"
+}

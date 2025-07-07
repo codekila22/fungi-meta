@@ -2,6 +2,7 @@
  "genus": "Hydnellum",
  "name": "cf. concrescens",
  "date": [
+  "07/02/2025,10035650059878668",
   "07/22/2024,7678427588934272",
   "09/15/2023,6474010396042670",
   "06/25/2023,6133640016746378",
@@ -223,6 +224,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Hydnellum_cf. concrescens_49d6c360-0b11-109f-939f-edc52ea51b88_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hydnellum_cf. concrescens_0e2fbfb0-5a4c-11f0-8941-c5fa4f79a396_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hydnellum_cf. concrescens_0e2fbfb0-5a4c-11f0-8941-c5fa4f79a396_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hydnellum_cf. concrescens_0e2fbfb0-5a4c-11f0-8941-c5fa4f79a396_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hydnellum_cf. concrescens_0e2fbfb0-5a4c-11f0-8941-c5fa4f79a396_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -271,5 +288,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/146961436/thumb.jpg"
   }
  ],
- "timestamp": "20250622-194158"
+ "timestamp": "20250707-181619"
 }

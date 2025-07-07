@@ -2,7 +2,7 @@
  "name": "Galerina",
  "zhtw": "盔孢傘屬",
  "zhcn": "盔孢伞属",
- "timestamp": "20250622-194158",
+ "timestamp": "20250707-181619",
  "list": [
   {
    "name": "Galerina helvoliceps",
@@ -33,6 +33,12 @@
    "zhtw": "巴塔哥尼亞盔孢傘",
    "zhcn": "巴塔哥尼亚盔孢伞",
    "img": "Galerina_patagonica_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Galerina sulciceps",
+   "zhtw": "條蓋盔孢傘",
+   "zhcn": "条盖盔孢伞",
+   "img": "Galerina_sulciceps_d4d938f0-5b12-11f0-a588-6db7367c31f1_1.jpg"
   },
   {
    "name": "Galerina terrestris",

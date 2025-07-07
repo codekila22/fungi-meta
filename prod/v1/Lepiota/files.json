@@ -2,7 +2,7 @@
  "name": "Lepiota",
  "zhtw": "環柄菇屬",
  "zhcn": "环柄菇属",
- "timestamp": "20250622-194158",
+ "timestamp": "20250707-181619",
  "list": [
   {
    "name": "Lepiota aspera",
@@ -39,6 +39,15 @@
    "zhtw": "肉褐鱗環柄菇",
    "zhcn": "肉褐鳞环柄菇",
    "img": "Lepiota_brunneoincarnata_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Lepiota calcicola",
+   "zhtw": "灰岩環柄菇",
+   "zhcn": "灰岩环柄菇",
+   "current": "Echinoderma calcicola",
+   "current_zhtw": "灰岩棘皮菌",
+   "current_zhcn": "灰岩棘皮菌",
+   "img": "Echinoderma_calcicola_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Lepiota castanea",

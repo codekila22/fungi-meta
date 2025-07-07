@@ -2,6 +2,7 @@
  "genus": "Aureoboletus",
  "name": "tenuis",
  "date": [
+  "06/23/2025,9937391019704573",
   "08/24/2024,7904984552945240",
   "04/22/2024,7254430801333955",
   "04/15/2024,7224874964289539",
@@ -123,6 +124,26 @@
   {
    "author": "徐秀團",
    "image_src": "Aureoboletus_tenuis_12c2fcc0-62a1-11ef-a1a5-6d2fc1be8327_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_tenuis_5fa3a260-5b0c-11f0-b144-25667c08fef2_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_tenuis_5fa3a260-5b0c-11f0-b144-25667c08fef2_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_tenuis_5fa3a260-5b0c-11f0-b144-25667c08fef2_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_tenuis_5fa3a260-5b0c-11f0-b144-25667c08fef2_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_tenuis_5fa3a260-5b0c-11f0-b144-25667c08fef2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -164,5 +185,5 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20250622-194158"
+ "timestamp": "20250707-181619"
 }
