@@ -2,6 +2,7 @@
  "genus": "Heterotrichia",
  "name": "obvelata",
  "date": [
+  "06/28/2025,9975369565906718",
   "06/28/2024,7583670665076632",
   "05/12/2024,7363261883784179",
   "04/23/2024,7285596961550672",
@@ -292,6 +293,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Arcyria_obvelata_e97afa90-1dd7-105c-92f1-e158dad3977f_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Heterotrichia_obvelata_17ecd3e0-5ae6-11f0-9eea-299dc7e7f525_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Heterotrichia_obvelata_17ecd3e0-5ae6-11f0-9eea-299dc7e7f525_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Heterotrichia_obvelata_17ecd3e0-5ae6-11f0-9eea-299dc7e7f525_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Heterotrichia_obvelata_17ecd3e0-5ae6-11f0-9eea-299dc7e7f525_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Heterotrichia_obvelata_17ecd3e0-5ae6-11f0-9eea-299dc7e7f525_5.jpg"
   }
  ],
  "synonym": [
@@ -347,5 +368,5 @@
    "src": "https://static.inaturalist.org/photos/241894193/thumb.jpg"
   }
  ],
- "timestamp": "20250707-111747"
+ "timestamp": "20250707-175401"
 }

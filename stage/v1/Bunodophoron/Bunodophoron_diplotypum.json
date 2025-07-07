@@ -2,7 +2,8 @@
  "genus": "Bunodophoron",
  "name": "diplotypum",
  "date": [
-  "01/01/0001"
+  "06/05/2025,10036482806462060",
+  "01/03/2021,3413023018808105"
  ],
  "names_zhtw": [
   "二型球孢球粉衣"
@@ -49,6 +50,26 @@
   {
    "author": "Hannah Wang",
    "image_src": "Bunodophoron_diplotypum_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Bunodophoron_diplotypum_133ce8f0-5afd-11f0-8346-e59f16063e49_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Bunodophoron_diplotypum_133ce8f0-5afd-11f0-8346-e59f16063e49_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Bunodophoron_diplotypum_133ce8f0-5afd-11f0-8346-e59f16063e49_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Bunodophoron_diplotypum_133ce8f0-5afd-11f0-8346-e59f16063e49_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Bunodophoron_diplotypum_133ce8f0-5afd-11f0-8346-e59f16063e49_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -96,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155369536/thumb.jpg"
   }
  ],
- "timestamp": "20250707-111747"
+ "timestamp": "20250707-175401"
 }

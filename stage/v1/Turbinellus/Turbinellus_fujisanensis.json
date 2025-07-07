@@ -2,6 +2,7 @@
  "genus": "Turbinellus",
  "name": "fujisanensis",
  "date": [
+  "06/25/2025,9959924987451176",
   "06/19/2023,6124797517630628",
   "08/31/2022,5199145010195888",
   "07/13/2020,3339894646120943",
@@ -92,6 +93,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Turbinellus_fujisanensis_dbc27580-12e1-11ee-9037-85c1a33b167c_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_fujisanensis_f0763b50-5b10-11f0-9fe2-0fcf7dc1a3bd_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_fujisanensis_f0763b50-5b10-11f0-9fe2-0fcf7dc1a3bd_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_fujisanensis_f0763b50-5b10-11f0-9fe2-0fcf7dc1a3bd_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_fujisanensis_f0763b50-5b10-11f0-9fe2-0fcf7dc1a3bd_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_fujisanensis_f0763b50-5b10-11f0-9fe2-0fcf7dc1a3bd_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -143,5 +164,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250707-111747"
+ "timestamp": "20250707-175401"
 }

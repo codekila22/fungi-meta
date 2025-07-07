@@ -2,7 +2,8 @@
  "genus": "Clavulinopsis",
  "name": "aurantiocinnabarina",
  "date": [
-  "01/01/0001"
+  "06/07/2025,9819564701487206",
+  "10/04/2020,3638040502973021"
  ],
  "names_zhtw": [
   "金赤擬鎖瑚菌"
@@ -29,6 +30,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Clavulinopsis_aurantiocinnabarina_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulinopsis_aurantiocinnabarina_64b7dd50-5b09-11f0-b65e-c9cdea45a8cc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulinopsis_aurantiocinnabarina_64b7dd50-5b09-11f0-b65e-c9cdea45a8cc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulinopsis_aurantiocinnabarina_64b7dd50-5b09-11f0-b65e-c9cdea45a8cc_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulinopsis_aurantiocinnabarina_64b7dd50-5b09-11f0-b65e-c9cdea45a8cc_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulinopsis_aurantiocinnabarina_64b7dd50-5b09-11f0-b65e-c9cdea45a8cc_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulinopsis_aurantiocinnabarina_64b7dd50-5b09-11f0-b65e-c9cdea45a8cc_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -77,5 +102,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4399271/thumb.jpg"
   }
  ],
- "timestamp": "20250707-111747"
+ "timestamp": "20250707-175401"
 }

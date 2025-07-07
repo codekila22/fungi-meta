@@ -2,13 +2,19 @@
  "name": "Stilbella",
  "zhtw": "束梗孢菌屬",
  "zhcn": "束梗孢菌属",
- "timestamp": "20250707-111747",
+ "timestamp": "20250707-175401",
  "list": [
   {
    "name": "Stilbella aleuriata",
    "zhtw": "白毛束梗孢菌",
    "zhcn": "白毛束梗孢菌",
    "img": "Stilbella_aleuriata_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Stilbella buquetii",
+   "zhtw": "捧束梗孢菌",
+   "zhcn": "捧束梗孢菌",
+   "img": "Stilbella_buquetii_53669e00-5b0a-11f0-b78e-efa250e1dae0_1.jpg"
   },
   {
    "name": "Stilbella byssiseda",

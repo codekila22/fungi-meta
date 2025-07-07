@@ -4,11 +4,13 @@
  "date": [
   "10/15/2023,6577757092334666",
   "10/15/2023,6578095242300851",
+  "11/20/2021,9964916190285389",
   "01/26/2021,3469284096515330",
   "08/15/2017,3480990918677981"
  ],
  "names_zhtw": [
-  "扇索狀乾腐菌"
+  "扇索狀乾腐菌",
+  "扇索狀乾朽菌"
  ],
  "names_en": [],
  "url": "3469284096515330",
@@ -92,10 +94,35 @@
   {
    "author": "何俊霖",
    "image_src": "Serpula_himantioides_bbf65fb0-770d-11ee-8847-e99eef7e07ad_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Serpula_himantioides_2f4008b0-5b12-11f0-8b34-a75a1a548020_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Serpula_himantioides_2f4008b0-5b12-11f0-8b34-a75a1a548020_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Serpula_himantioides_2f4008b0-5b12-11f0-8b34-a75a1a548020_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Serpula_himantioides_2f4008b0-5b12-11f0-8b34-a75a1a548020_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Serpula_himantioides_2f4008b0-5b12-11f0-8b34-a75a1a548020_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Serpula_himantioides_2f4008b0-5b12-11f0-8b34-a75a1a548020_6.jpg"
   }
  ],
  "names_zhcn": [
-  "扇索状干腐菌"
+  "扇索状干腐菌",
+  "扇索状干朽菌"
  ],
  "meta": {
   "CapColors": "4285547028,4288244511",
@@ -140,5 +167,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135759/thumb."
   }
  ],
- "timestamp": "20250707-111747"
+ "timestamp": "20250707-175401"
 }

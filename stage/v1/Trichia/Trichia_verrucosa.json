@@ -3,6 +3,7 @@
  "name": "verrucosa",
  "date": [
   "07/04/2025,10021833954593612",
+  "06/29/2025,10041720329271641",
   "07/21/2024,7710191265757904",
   "12/03/2023,6746926938751013",
   "10/12/2022,5514407565336296",
@@ -274,6 +275,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Trichia_verrucosa_af503260-5936-11f0-931e-ddf3b5bd6819_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichia_verrucosa_6c025900-5ae1-11f0-81f4-cb86cb485c25_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichia_verrucosa_6c025900-5ae1-11f0-81f4-cb86cb485c25_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichia_verrucosa_6c025900-5ae1-11f0-81f4-cb86cb485c25_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichia_verrucosa_6c025900-5ae1-11f0-81f4-cb86cb485c25_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichia_verrucosa_6c025900-5ae1-11f0-81f4-cb86cb485c25_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichia_verrucosa_6c025900-5ae1-11f0-81f4-cb86cb485c25_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichia_verrucosa_6c025900-5ae1-11f0-81f4-cb86cb485c25_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -321,5 +350,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10939381/thumb.jpg"
   }
  ],
- "timestamp": "20250707-111747"
+ "timestamp": "20250707-175401"
 }
