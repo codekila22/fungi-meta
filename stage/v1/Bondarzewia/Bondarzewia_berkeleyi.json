@@ -2,6 +2,7 @@
  "genus": "Bondarzewia",
  "name": "berkeleyi",
  "date": [
+  "06/30/2025,10029489410494733",
   "09/14/2024,8044403515670009",
   "08/31/2024,7955437497899945",
   "06/23/2024,7556937834416582",
@@ -118,6 +119,14 @@
   {
    "author": "蔡古媧",
    "image_src": "Bondarzewia_berkeleyi_04df05f0-7344-11ef-994a-e7876ae88565_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Bondarzewia_berkeleyi_d8266800-5a29-11f0-ba2a-153b39b8f5f7_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Bondarzewia_berkeleyi_d8266800-5a29-11f0-ba2a-153b39b8f5f7_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -169,5 +178,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20061206/thumb.jpeg"
   }
  ],
- "timestamp": "20250705-111053"
+ "timestamp": "20250707-105002"
 }

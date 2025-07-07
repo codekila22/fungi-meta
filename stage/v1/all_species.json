@@ -1,5 +1,5 @@
 {
- "timestamp": "20250705-111053",
+ "timestamp": "20250707-105002",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -941,6 +941,7 @@
    "Phaeographis,黑文衣屬,黑文衣属",
    "Phaeophyscia,黑蜈蚣衣屬,黑蜈蚣衣属",
    "Physcia,蜈蚣衣屬,蜈蚣衣属",
+   "Physconia,大孢蜈蚣衣屬,大孢蜈蚣衣属",
    "Pilophorus,柱衣屬,柱衣属",
    "Placopsis,癭茶漬屬,瘿茶渍属",
    "Platismatia,寬葉衣屬,宽叶衣属",
@@ -1164,6 +1165,7 @@
   "Armillaria tabescens,無環蜜環菌,无环蜜环菌",
   "Arrhenia acerosa,銳葉蘚臍菇,锐叶藓脐菇",
   "Arrhenia discorosea,分離褶盾菌,分离褶盾菌",
+  "Arrhenia epichysium,褐蘚臍菇,褐藓脐菇",
   "Arthrinium arundinis,蘆葦色孢子節菱孢菌,芦苇色孢子节菱孢菌",
   "Arthrinium bambusae,竹色孢子節菱孢菌,竹色孢子节菱孢菌",
   "Artomyces colensoi,枝密瑚菌,枝密瑚菌",
@@ -2320,6 +2322,7 @@
   "Lepiota atrosquamulosa,暗鱗環柄菇,暗鳞环柄菇",
   "Lepiota bengalensis,孟加拉環柄菇,孟加拉环柄菇",
   "Lepiota brunneoincarnata,肉褐鱗環柄菇,肉褐鳞环柄菇",
+  "Lepiota calcicola,灰岩環柄菇,灰岩环柄菇",
   "Lepiota castanea,栗色環柄菇,栗色环柄菇",
   "Lepiota clypeolaria,細環柄菇,细环柄菇",
   "Lepiota cristata,冠環柄菇,冠环柄菇",
@@ -2894,6 +2897,7 @@
   "Physcia atrostriata,黑紋蜈蚣衣,黑纹蜈蚣衣",
   "Physcia orientalis,東方蜈蚣衣,东方蜈蚣衣",
   "Physcia sorediosa,粉芽蜈蚣衣,粉芽蜈蚣衣",
+  "Physconia isidiigera,裂芽大孢衣,裂芽大孢衣",
   "Physisporinus lineatus,平絲變色臥孔菌,平丝变色卧孔菌",
   "Physisporinus vitreus,透明臥孔菌,透明卧孔菌",
   "Picipes admirabilis,多斑黑柄多孔菌,多斑黑柄多孔菌",
