@@ -93,6 +93,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "28,32",
+  "HeightRangeValuess": "",
   "Rareness": "rare",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
@@ -102,9 +103,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Entoloma cf. dysthaloides,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "疑似類鐵刀木粉褶菌,,",
+  "la_zhcn": "疑似类铁刀木粉褶菌,,"
  },
- "timestamp": "20250709-183218"
+ "timestamp": "20250709-190550"
 }
