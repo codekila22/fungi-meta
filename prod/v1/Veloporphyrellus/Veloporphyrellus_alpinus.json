@@ -1,0 +1,82 @@
+{
+ "genus": "Veloporphyrellus",
+ "name": "alpinus",
+ "date": [
+  "07/02/2025,10035683929875281"
+ ],
+ "names_zhtw": [
+  "高山垂邊紅孢紗牛肝菌"
+ ],
+ "names_en": [],
+ "url": "10035683929875281",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Veloporphyrellus_alpinus_49572180-5c88-11f0-9e77-8540ac4a4db3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Veloporphyrellus_alpinus_49572180-5c88-11f0-9e77-8540ac4a4db3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Veloporphyrellus_alpinus_49572180-5c88-11f0-9e77-8540ac4a4db3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Veloporphyrellus_alpinus_49572180-5c88-11f0-9e77-8540ac4a4db3_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Veloporphyrellus_alpinus_49572180-5c88-11f0-9e77-8540ac4a4db3_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "高山垂边红孢纱牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Veloporphyrellus alpinus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1407657-Veloporphyrellus-alpinus",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250709-190550"
+}

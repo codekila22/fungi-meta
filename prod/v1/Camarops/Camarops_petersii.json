@@ -2,7 +2,8 @@
  "genus": "Camarops",
  "name": "petersii",
  "date": [
-  "06/27/2025,9975544452555896"
+  "06/27/2025,9975544452555896",
+  "08/17/2017,9994682170642124"
  ],
  "names_zhtw": [
   "彼氏多柱殼菌"
@@ -33,6 +34,46 @@
   {
    "author": "朱艷",
    "image_src": "Camarops_petersii_e2b565d0-5afd-11f0-aed1-e52aa06950c1_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Camarops_petersii_4703f4a0-5c86-11f0-bbf7-8fc9942ad1b4_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Camarops_petersii_4703f4a0-5c86-11f0-bbf7-8fc9942ad1b4_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Camarops_petersii_4703f4a0-5c86-11f0-bbf7-8fc9942ad1b4_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Camarops_petersii_4703f4a0-5c86-11f0-bbf7-8fc9942ad1b4_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Camarops_petersii_4703f4a0-5c86-11f0-bbf7-8fc9942ad1b4_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Camarops_petersii_4703f4a0-5c86-11f0-bbf7-8fc9942ad1b4_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Camarops_petersii_4703f4a0-5c86-11f0-bbf7-8fc9942ad1b4_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Camarops_petersii_4703f4a0-5c86-11f0-bbf7-8fc9942ad1b4_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Camarops_petersii_4703f4a0-5c86-11f0-bbf7-8fc9942ad1b4_9.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Camarops_petersii_4703f4a0-5c86-11f0-bbf7-8fc9942ad1b4_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -82,5 +123,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4132977/thumb."
   }
  ],
- "timestamp": "20250707-181619"
+ "timestamp": "20250709-190550"
 }

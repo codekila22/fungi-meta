@@ -2,6 +2,7 @@
  "genus": "Tubifera",
  "name": "corymbosa",
  "date": [
+  "06/26/2025,10053134958130178",
   "07/27/2024,7891076627669366",
   "06/30/2024,7616315108478854",
   "09/14/2023,6404954116281632",
@@ -211,6 +212,34 @@
   {
    "author": "Sunny Wang",
    "image_src": "Tubifera_corymbosa_9e7a3020-613a-11ef-be83-0d9da1f4363b_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_corymbosa_e8ccf620-5c9e-11f0-9f4c-7fe65ac76951_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_corymbosa_e8ccf620-5c9e-11f0-9f4c-7fe65ac76951_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_corymbosa_e8ccf620-5c9e-11f0-9f4c-7fe65ac76951_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_corymbosa_e8ccf620-5c9e-11f0-9f4c-7fe65ac76951_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_corymbosa_e8ccf620-5c9e-11f0-9f4c-7fe65ac76951_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_corymbosa_e8ccf620-5c9e-11f0-9f4c-7fe65ac76951_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_corymbosa_e8ccf620-5c9e-11f0-9f4c-7fe65ac76951_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -258,5 +287,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/39980446/thumb.jpg"
   }
  ],
- "timestamp": "20250707-181619"
+ "timestamp": "20250709-190550"
 }
