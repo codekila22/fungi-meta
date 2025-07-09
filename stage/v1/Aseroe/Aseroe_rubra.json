@@ -2,6 +2,7 @@
  "genus": "Aseroe",
  "name": "rubra",
  "date": [
+  "07/08/2025,10052579721519035",
   "06/28/2024,8003949796382048",
   "06/23/2024,7546938232083209",
   "10/12/2022,5320268831416838",
@@ -50,6 +51,34 @@
   {
    "author": "魏瑞廷",
    "image_src": "Aseroe_rubra_3_CC BY-NC_魏瑞廷.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aseroe_rubra_d1a14250-5c79-11f0-affd-0195d1957542_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aseroe_rubra_d1a14250-5c79-11f0-affd-0195d1957542_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aseroe_rubra_d1a14250-5c79-11f0-affd-0195d1957542_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aseroe_rubra_d1a14250-5c79-11f0-affd-0195d1957542_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aseroe_rubra_d1a14250-5c79-11f0-affd-0195d1957542_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aseroe_rubra_d1a14250-5c79-11f0-affd-0195d1957542_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aseroe_rubra_d1a14250-5c79-11f0-affd-0195d1957542_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -98,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17444426/thumb.jpg"
   }
  ],
- "timestamp": "20250707-181619"
+ "timestamp": "20250709-183218"
 }

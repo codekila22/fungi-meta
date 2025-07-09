@@ -2,6 +2,7 @@
  "genus": "Cortinarius",
  "name": "cf. orellanus",
  "date": [
+  "07/08/2025,10053094728134201",
   "07/16/2024,7673191902791174",
   "07/05/2024,7611032872340411",
   "07/04/2023,6163010267142686",
@@ -144,6 +145,34 @@
   {
    "author": "吳湯姆",
    "image_src": "Cortinarius_cf. orellanus_9f0858e0-bd86-109e-b63b-3f0b64c93814_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_7aaf7310-5c90-11f0-a019-fb3cd022f37f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_7aaf7310-5c90-11f0-a019-fb3cd022f37f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_7aaf7310-5c90-11f0-a019-fb3cd022f37f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_7aaf7310-5c90-11f0-a019-fb3cd022f37f_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_7aaf7310-5c90-11f0-a019-fb3cd022f37f_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_7aaf7310-5c90-11f0-a019-fb3cd022f37f_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_7aaf7310-5c90-11f0-a019-fb3cd022f37f_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -195,5 +224,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/118000376/thumb.jpg"
   }
  ],
- "timestamp": "20250707-181619"
+ "timestamp": "20250709-183218"
 }

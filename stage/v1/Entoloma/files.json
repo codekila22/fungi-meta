@@ -2,7 +2,7 @@
  "name": "Entoloma",
  "zhtw": "粉褶菌屬",
  "zhcn": "粉褶菌属",
- "timestamp": "20250707-181619",
+ "timestamp": "20250709-183218",
  "list": [
   {
    "name": "Entoloma aff. quadratum",
@@ -27,6 +27,12 @@
    "zhtw": "疑似鐵刀粉褶菌",
    "zhcn": "疑似铁刀粉褶菌",
    "img": "Entoloma_cf dysthales_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Entoloma cf. dysthaloides",
+   "zhtw": "疑似類鐵刀木粉褶菌",
+   "zhcn": "疑似类铁刀木粉褶菌",
+   "img": "Entoloma_cf. dysthaloides_1cbde630-5ca2-11f0-96b2-fdec5d5c97b7_1.jpg"
   },
   {
    "name": "Entoloma cf. queletii",

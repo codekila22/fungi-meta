@@ -2,6 +2,7 @@
  "genus": "Nigroporus",
  "name": "vinosus",
  "date": [
+  "07/08/2025,10051152014995139",
   "06/26/2025,9966354240141584",
   "08/27/2024,7931343026976059",
   "07/06/2024,8236108783166147",
@@ -212,6 +213,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Nigroporus_vinosus_b9baefd0-533a-11f0-95fe-5f738e06e05b_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Nigroporus_vinosus_af6bf950-5c0b-11f0-87d5-91326f5c943a_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Nigroporus_vinosus_af6bf950-5c0b-11f0-87d5-91326f5c943a_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Nigroporus_vinosus_af6bf950-5c0b-11f0-87d5-91326f5c943a_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Nigroporus_vinosus_af6bf950-5c0b-11f0-87d5-91326f5c943a_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -261,5 +278,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4305620/thumb.jpg"
   }
  ],
- "timestamp": "20250707-181619"
+ "timestamp": "20250709-183218"
 }

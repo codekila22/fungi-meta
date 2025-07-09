@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/08/2025,10052999121477095",
   "06/12/2025,9867633406680335",
   "09/10/2023,6394420160668361",
   "09/09/2023,7388257661284601",
@@ -279,6 +280,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Porpolomopsis_lewelliniae_887759f0-49ca-11f0-b8d0-e9b5dd43e584_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Porpolomopsis_lewelliniae_63ece5b0-5c89-11f0-9520-0bbb4582e035_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Porpolomopsis_lewelliniae_63ece5b0-5c89-11f0-9520-0bbb4582e035_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Porpolomopsis_lewelliniae_63ece5b0-5c89-11f0-9520-0bbb4582e035_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -328,5 +341,5 @@
    "src": "https://static.inaturalist.org/photos/84318948/thumb.jpg"
   }
  ],
- "timestamp": "20250707-181619"
+ "timestamp": "20250709-183218"
 }

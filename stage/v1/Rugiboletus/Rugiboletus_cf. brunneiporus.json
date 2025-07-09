@@ -2,6 +2,7 @@
  "genus": "Rugiboletus",
  "name": "cf. brunneiporus",
  "date": [
+  "07/02/2025,10010795579030783",
   "06/30/2025,9994623920647949",
   "07/09/2020,3412574738852933"
  ],
@@ -70,6 +71,50 @@
   {
    "author": "朱艷",
    "image_src": "Rugiboletus_cf. brunneiporus_27da7130-5948-11f0-9deb-e524262a0a3a_10.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_9.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_10.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rugiboletus_cf. brunneiporus_021f3110-5c90-11f0-8f10-5d511443e0ef_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -97,17 +142,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "blue",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "傷後輕微變藍，之後可能會恢復原色。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -118,5 +164,5 @@
    "src": "https://static.inaturalist.org/photos/178552032/thumb.jpg"
   }
  ],
- "timestamp": "20250707-181619"
+ "timestamp": "20250709-183218"
 }
