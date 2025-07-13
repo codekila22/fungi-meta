@@ -2,7 +2,7 @@
  "name": "Boletellus",
  "zhtw": "條孢牛肝菌屬",
  "zhcn": "条孢牛肝菌属",
- "timestamp": "20250713-164551",
+ "timestamp": "20250713-202353",
  "list": [
   {
    "name": "Boletellus ananas",
@@ -51,6 +51,12 @@
    "zhtw": "深紅條孢牛肝菌",
    "zhcn": "深红条孢牛肝菌",
    "img": "Boletellus_obscurecoccineus_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Boletellus shichianus",
+   "zhtw": "小條孢牛肝菌",
+   "zhcn": "小条孢牛肝菌",
+   "img": "Boletellus_shichianus_19333260-5fcf-11f0-8c1d-5305a4eaaea1_1.jpg"
   }
  ]
 }

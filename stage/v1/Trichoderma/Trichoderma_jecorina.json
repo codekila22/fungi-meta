@@ -2,13 +2,13 @@
  "genus": "Trichoderma",
  "name": "jecorina",
  "date": [
-  "01/01/0001"
+  "07/12/2025,10084565851653755"
  ],
  "names_zhtw": [
   "紅褐木黴菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/3366",
+ "url": "10084565851653755",
  "images": [
   {
    "author": "柯文俊",
@@ -37,6 +37,66 @@
   {
    "author": "柯文俊",
    "image_src": "Hypocrea_jecorina_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_9.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_10.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_11.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_12.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_13.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_14.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trichoderma_jecorina_befc2530-5fcf-11f0-bb65-9b52ad26c709_15.jpg"
   }
  ],
  "synonym": [
@@ -83,5 +143,5 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20250713-164551"
+ "timestamp": "20250713-202353"
 }

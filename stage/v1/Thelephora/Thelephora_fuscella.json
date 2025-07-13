@@ -2,6 +2,7 @@
  "genus": "Thelephora",
  "name": "fuscella",
  "date": [
+  "07/13/2025,10090312544412419",
   "06/20/2025,9914530595323949",
   "08/28/2023,6343005639143147",
   "08/17/2023,6313042725472772",
@@ -223,6 +224,14 @@
   {
    "author": "吳湯姆",
    "image_src": "Thelephora_fuscella_10ab7c60-4e8b-11f0-b153-1735b42e2b12_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_e67bee40-5fe0-11f0-9f8f-831c033aac82_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_e67bee40-5fe0-11f0-9f8f-831c033aac82_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -266,5 +275,5 @@
   "la_zhtw": "蓮座革菌,,",
   "la_zhcn": "莲座革菌,,"
  },
- "timestamp": "20250713-164551"
+ "timestamp": "20250713-202353"
 }

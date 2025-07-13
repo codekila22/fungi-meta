@@ -2,7 +2,7 @@
  "name": "Leccinum",
  "zhtw": "疣柄牛肝菌屬",
  "zhcn": "疣柄牛肝菌属",
- "timestamp": "20250713-164551",
+ "timestamp": "20250713-202353",
  "list": [
   {
    "name": "Leccinum extremiorientale",
@@ -24,6 +24,12 @@
    "zhtw": "污白疣柄牛肝菌",
    "zhcn": "污白疣柄牛肝菌",
    "img": "Leccinum_holopus_2_CC BY-NC_Terresa Kao.jpg"
+  },
+  {
+   "name": "Leccinum intusrubens",
+   "zhtw": "變紅疣柄牛肝菌",
+   "zhcn": "变红疣柄牛肝菌",
+   "img": "Leccinum_intusrubens_8ab6c5d0-5fc7-11f0-8740-4d6a609c1c08_1.jpg"
   },
   {
    "name": "Leccinum rugosiceps",

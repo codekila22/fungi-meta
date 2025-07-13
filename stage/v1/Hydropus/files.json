@@ -2,7 +2,7 @@
  "name": "Hydropus",
  "zhtw": "濕柄傘屬",
  "zhcn": "湿柄伞属",
- "timestamp": "20250713-164551",
+ "timestamp": "20250713-202353",
  "list": [
   {
    "name": "Hydropus atramentosus",
@@ -15,6 +15,12 @@
    "zhtw": "毛腿濕柄傘",
    "zhcn": "毛腿湿柄伞",
    "img": "Hydropus_floccipes_a66413f0-cc49-10c6-ae75-0db60e01a1dc_1.jpg"
+  },
+  {
+   "name": "Hydropus nigrita",
+   "zhtw": "變黑濕柄傘",
+   "zhcn": "变黑湿柄伞",
+   "img": "Hydropus_nigrita_b7d7a6e0-5fdd-11f0-a31f-15cd4902e29b_1.jpg"
   },
   {
    "name": "Hydropus omphaliiformis",
