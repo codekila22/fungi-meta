@@ -2,7 +2,8 @@
  "genus": "Mycena",
  "name": "cf. rhenana",
  "date": [
-  "01/01/0001"
+  "07/10/2025,10068879186555755",
+  "06/30/2021,3908731902570545"
  ],
  "names_zhtw": [
   "疑似雷諾那小菇"
@@ -53,6 +54,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Mycena_cf. rhenana_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_cf. rhenana_65f1d500-5fcc-11f0-9841-cd0362e5c7d8_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_cf. rhenana_65f1d500-5fcc-11f0-9841-cd0362e5c7d8_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_cf. rhenana_65f1d500-5fcc-11f0-9841-cd0362e5c7d8_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_cf. rhenana_65f1d500-5fcc-11f0-9841-cd0362e5c7d8_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_cf. rhenana_65f1d500-5fcc-11f0-9841-cd0362e5c7d8_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_cf. rhenana_65f1d500-5fcc-11f0-9841-cd0362e5c7d8_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -101,5 +126,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/147126266/thumb.jpg"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-203249"
 }

@@ -2,6 +2,7 @@
  "genus": "Lactocollybia",
  "name": "epia",
  "date": [
+  "07/11/2025,10075226609254346",
   "11/06/2024,8470065886437101",
   "08/17/2024,7963448873765474",
   "06/14/2024,7506094192834280",
@@ -230,6 +231,26 @@
   {
    "author": "何俊霖",
    "image_src": "Lactocollybia_epia_402ac530-6936-11ef-a6f1-11f75a110e33_12.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lactocollybia_epia_7c0f5250-5fdf-11f0-8854-2901152f9355_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lactocollybia_epia_7c0f5250-5fdf-11f0-8854-2901152f9355_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lactocollybia_epia_7c0f5250-5fdf-11f0-8854-2901152f9355_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lactocollybia_epia_7c0f5250-5fdf-11f0-8854-2901152f9355_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lactocollybia_epia_7c0f5250-5fdf-11f0-8854-2901152f9355_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -279,5 +300,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239006/thumb.jpg"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-203249"
 }

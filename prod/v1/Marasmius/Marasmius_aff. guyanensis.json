@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "aff. guyanensis",
  "date": [
+  "07/11/2025,10075594515884222",
   "10/06/2024,8257244417719250"
  ],
  "names_zhtw": [
@@ -41,6 +42,26 @@
   {
    "author": "陳雅芬",
    "image_src": "Marasmius_aff. guyanensis_95c3cd50-88ff-11ef-8161-d3139b82d614_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_aff. guyanensis_98efe420-5fd0-11f0-bc8c-938b1c17398c_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_aff. guyanensis_98efe420-5fd0-11f0-bc8c-938b1c17398c_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_aff. guyanensis_98efe420-5fd0-11f0-bc8c-938b1c17398c_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_aff. guyanensis_98efe420-5fd0-11f0-bc8c-938b1c17398c_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_aff. guyanensis_98efe420-5fd0-11f0-bc8c-938b1c17398c_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -90,5 +111,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/313541170/thumb.jpeg"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-203249"
 }

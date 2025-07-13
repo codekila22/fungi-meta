@@ -2,12 +2,15 @@
  "name": "Cotylidia",
  "zhtw": "杯革菌屬",
  "zhcn": "杯革菌属",
- "timestamp": "20250709-190550",
+ "timestamp": "20250713-203249",
  "list": [
   {
    "name": "Cotylidia diaphana",
    "zhtw": "明亮杯革菌",
    "zhcn": "明亮杯革菌",
+   "current": "Neocotylidia diaphana",
+   "current_zhtw": "明亮杯革菌",
+   "current_zhcn": "明亮杯革菌",
    "img": "Cotylidia_diaphana_1_CC BY-NC_James Ho.jpg"
   }
  ]

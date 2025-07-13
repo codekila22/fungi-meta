@@ -2,7 +2,8 @@
  "genus": "Hyphodontia",
  "name": "arguta",
  "date": [
-  "10/27/2024,8403625256414498"
+  "10/27/2024,8403625256414498",
+  "03/31/2024,10089156974527976"
  ],
  "names_zhtw": [
   "尖產絲齒菌",
@@ -38,6 +39,42 @@
   {
    "author": "陳雅芬",
    "image_src": "Hyphodontia_arguta_15970410-9dd8-11ef-a8a3-297914b92d7b_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hyphodontia_arguta_ecbab560-5faf-11f0-be9c-cbc4bca4143e_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hyphodontia_arguta_ecbab560-5faf-11f0-be9c-cbc4bca4143e_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hyphodontia_arguta_ecbab560-5faf-11f0-be9c-cbc4bca4143e_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hyphodontia_arguta_ecbab560-5faf-11f0-be9c-cbc4bca4143e_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hyphodontia_arguta_ecbab560-5faf-11f0-be9c-cbc4bca4143e_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hyphodontia_arguta_ecbab560-5faf-11f0-be9c-cbc4bca4143e_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hyphodontia_arguta_ecbab560-5faf-11f0-be9c-cbc4bca4143e_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hyphodontia_arguta_ecbab560-5faf-11f0-be9c-cbc4bca4143e_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hyphodontia_arguta_ecbab560-5faf-11f0-be9c-cbc4bca4143e_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -88,5 +125,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22197178/thumb.jpeg"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-203249"
 }

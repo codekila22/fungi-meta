@@ -2,12 +2,13 @@
  "genus": "Placopsis",
  "name": "cribellans",
  "date": [
+  "07/02/2025,10050041318439542",
   "06/23/2025,9937905666319775",
   "03/05/2022,6984859021624469",
   "05/09/2016,929336747176757"
  ],
  "names_zhtw": [
-  "突癭茶漬"
+  "突癭茶漬衣"
  ],
  "names_en": [],
  "url": "6984859021624469",
@@ -171,10 +172,30 @@
   {
    "author": "Sunny Wang",
    "image_src": "Placopsis_cribellans_88399b90-5b0b-11f0-96a8-abf0d8111119_25.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Placopsis_cribellans_567909c0-5fce-11f0-82bd-c7f64ef0cfbe_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Placopsis_cribellans_567909c0-5fce-11f0-82bd-c7f64ef0cfbe_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Placopsis_cribellans_567909c0-5fce-11f0-82bd-c7f64ef0cfbe_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Placopsis_cribellans_567909c0-5fce-11f0-82bd-c7f64ef0cfbe_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Placopsis_cribellans_567909c0-5fce-11f0-82bd-c7f64ef0cfbe_5.jpg"
   }
  ],
  "names_zhcn": [
-  "突瘿茶渍"
+  "突瘿茶渍衣"
  ],
  "meta": {
   "CapColors": "4290547599,4293313475,4294967280",
@@ -219,5 +240,5 @@
    "src": "https://static.inaturalist.org/photos/1497963/thumb.JPG"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-203249"
 }

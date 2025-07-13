@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "eugenei",
  "date": [
+  "07/11/2025,10076838582426482",
   "09/07/2024,8163624680414558",
   "08/17/2024,7863844503725912",
   "09/07/2022,5225174324259623",
@@ -100,6 +101,18 @@
   {
    "author": "蔡古媧",
    "image_src": "Entoloma_eugenei_dd8dff20-7d24-11ef-b57c-6f3ef061cc1d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_9526b300-5e63-11f0-8a97-8db1927a1a6b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_9526b300-5e63-11f0-8a97-8db1927a1a6b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_9526b300-5e63-11f0-8a97-8db1927a1a6b_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -149,5 +162,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16579164/thumb.jpg"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-203249"
 }

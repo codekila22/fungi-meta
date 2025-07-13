@@ -2,6 +2,7 @@
  "genus": "Steccherinum",
  "name": "oreophilum",
  "date": [
+  "07/04/2025,10083053791804961",
   "04/22/2025,9462858330491180",
   "03/10/2025,9199546226822393",
   "02/17/2025,9084458631664487",
@@ -186,6 +187,18 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Steccherinum_oreophilum_2fc46890-2367-11f0-a23b-47eb65589fc8_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Steccherinum_oreophilum_f2c41540-5f29-11f0-a813-c7927c01ae94_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Steccherinum_oreophilum_f2c41540-5f29-11f0-a813-c7927c01ae94_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Steccherinum_oreophilum_f2c41540-5f29-11f0-a813-c7927c01ae94_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -234,5 +247,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18227428/thumb.jpeg"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-203249"
 }

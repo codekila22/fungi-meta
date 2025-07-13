@@ -2,7 +2,9 @@
  "genus": "Arcyria",
  "name": "glauca",
  "date": [
-  "01/01/0001"
+  "06/15/2025,10061432863967054",
+  "06/29/2021,10071977102912630",
+  "06/26/2021,3917977768312625"
  ],
  "names_zhtw": [
   "灰綠團網黏菌"
@@ -57,6 +59,46 @@
   {
    "author": "Sunny Wang",
    "image_src": "Arcyria_glauca_12_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Arcyria_glauca_b6b7e030-5d86-11f0-8715-596a7280f615_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Arcyria_glauca_b6b7e030-5d86-11f0-8715-596a7280f615_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Arcyria_glauca_b6b7e030-5d86-11f0-8715-596a7280f615_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Arcyria_glauca_b6b7e030-5d86-11f0-8715-596a7280f615_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Arcyria_glauca_b6b7e030-5d86-11f0-8715-596a7280f615_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Arcyria_glauca_b6b7e030-5d86-11f0-8715-596a7280f615_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_glauca_0e342c40-5fcd-11f0-b810-d9c033467063_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_glauca_0e342c40-5fcd-11f0-b810-d9c033467063_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_glauca_0e342c40-5fcd-11f0-b810-d9c033467063_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_glauca_0e342c40-5fcd-11f0-b810-d9c033467063_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -104,5 +146,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/47699486/thumb.jpg"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-203249"
 }
