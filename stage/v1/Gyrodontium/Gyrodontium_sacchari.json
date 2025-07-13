@@ -2,6 +2,7 @@
  "genus": "Gyrodontium",
  "name": "sacchari",
  "date": [
+  "07/10/2025,10068884916555182",
   "06/14/2025,9877822408994768",
   "06/07/2025,9813051518805191",
   "05/30/2025,9749727308470946",
@@ -315,6 +316,18 @@
   {
    "author": "江志緯",
    "image_src": "Gyrodontium_sacchari_4b32a280-4a64-11f0-85ef-ff37f1a9402a_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyrodontium_sacchari_b0dd2a70-5e59-11f0-b3ca-cbf6b55929eb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyrodontium_sacchari_b0dd2a70-5e59-11f0-b3ca-cbf6b55929eb_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyrodontium_sacchari_b0dd2a70-5e59-11f0-b3ca-cbf6b55929eb_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -366,5 +379,5 @@
    "src": "https://static.inaturalist.org/photos/171286160/thumb.jpeg"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-164551"
 }

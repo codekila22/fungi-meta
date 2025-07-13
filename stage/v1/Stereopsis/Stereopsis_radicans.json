@@ -2,6 +2,7 @@
  "genus": "Stereopsis",
  "name": "radicans",
  "date": [
+  "07/08/2025,10060909214019419",
   "11/06/2024,8464298473680509",
   "09/28/2024,8176990135744679",
   "08/25/2024,7917792838331078",
@@ -280,6 +281,46 @@
   {
    "author": "吳湯姆",
    "image_src": "Stereopsis_radicans_5fa3fa10-9f1b-11ef-9208-83602f1eade0_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stereopsis_radicans_8998a6a0-5d8d-11f0-9c87-d3f720b5d0a8_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stereopsis_radicans_8998a6a0-5d8d-11f0-9c87-d3f720b5d0a8_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stereopsis_radicans_8998a6a0-5d8d-11f0-9c87-d3f720b5d0a8_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stereopsis_radicans_8998a6a0-5d8d-11f0-9c87-d3f720b5d0a8_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stereopsis_radicans_8998a6a0-5d8d-11f0-9c87-d3f720b5d0a8_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stereopsis_radicans_8998a6a0-5d8d-11f0-9c87-d3f720b5d0a8_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stereopsis_radicans_8998a6a0-5d8d-11f0-9c87-d3f720b5d0a8_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stereopsis_radicans_8998a6a0-5d8d-11f0-9c87-d3f720b5d0a8_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stereopsis_radicans_8998a6a0-5d8d-11f0-9c87-d3f720b5d0a8_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stereopsis_radicans_8998a6a0-5d8d-11f0-9c87-d3f720b5d0a8_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -329,5 +370,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253748406/thumb.jpg"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-164551"
 }

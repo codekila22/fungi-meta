@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "luculentus",
  "date": [
+  "07/12/2025,10083262281784112",
   "06/09/2025,9828301940613482",
   "02/12/2025,9012030992240585",
   "06/15/2024,7507801335996899",
@@ -342,6 +343,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Marasmius_luculentus_564a11e0-49d2-11f0-afd4-9f2c599d20e3_17.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_luculentus_17b202f0-5f06-11f0-95a4-0db5fe2e1ff6_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_luculentus_17b202f0-5f06-11f0-95a4-0db5fe2e1ff6_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_luculentus_17b202f0-5f06-11f0-95a4-0db5fe2e1ff6_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_luculentus_17b202f0-5f06-11f0-95a4-0db5fe2e1ff6_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_luculentus_17b202f0-5f06-11f0-95a4-0db5fe2e1ff6_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_luculentus_17b202f0-5f06-11f0-95a4-0db5fe2e1ff6_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -382,5 +407,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-164551"
 }

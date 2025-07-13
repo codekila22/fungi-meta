@@ -2,12 +2,15 @@
  "name": "Scytinopogon",
  "zhtw": "扁枝瑚菌屬",
  "zhcn": "扁枝瑚菌属",
- "timestamp": "20250709-190550",
+ "timestamp": "20250713-164551",
  "list": [
   {
    "name": "Scytinopogon cryptomerioides",
    "zhtw": "柳杉扁枝瑚菌",
    "zhcn": "柳杉扁枝瑚菌",
+   "current": "Trechispora cryptomerioides",
+   "current_zhtw": "柳杉糙孢孔菌",
+   "current_zhcn": "柳杉糙孢孔菌",
    "img": "Scytinopogon_cryptomerioides_9ed1d0c0-12e7-11ee-8cd8-a1d239cc6063_2.jpg"
   }
  ]

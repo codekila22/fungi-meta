@@ -2,7 +2,8 @@
  "genus": "Tyromyces",
  "name": "chioneus",
  "date": [
-  "01/01/0001"
+  "07/08/2025,10053188701458137",
+  "04/10/2021,3688249631285441"
  ],
  "names_zhtw": [
   "雪白乾酪菌"
@@ -37,6 +38,22 @@
   {
    "author": "陳雅芬",
    "image_src": "Tyromyces_chioneus_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tyromyces_chioneus_9437d320-5d87-11f0-889a-6f194428e861_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tyromyces_chioneus_9437d320-5d87-11f0-889a-6f194428e861_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tyromyces_chioneus_9437d320-5d87-11f0-889a-6f194428e861_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tyromyces_chioneus_9437d320-5d87-11f0-889a-6f194428e861_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -85,5 +102,5 @@
    "src": "https://static.inaturalist.org/photos/5335405/thumb.jpeg"
   }
  ],
- "timestamp": "20250709-190550"
+ "timestamp": "20250713-164551"
 }
