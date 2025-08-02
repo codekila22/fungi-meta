@@ -2,6 +2,8 @@
  "genus": "Borofutus",
  "name": "dhakanus",
  "date": [
+  "07/15/2025,23940982128918893",
+  "07/13/2025,10096146360495704",
   "08/17/2023,6311808398929538",
   "08/05/2023,6281380395305672",
   "06/20/2023,6110105742433139",
@@ -81,6 +83,34 @@
   {
    "author": "Sunny Wang",
    "image_src": "Borofutus_dhakanus_5e865920-3748-11ee-81aa-d1f523686daf_7.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Borofutus_dhakanus_e7b70800-612d-11f0-b121-9157635dc528_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Borofutus_dhakanus_e7b70800-612d-11f0-b121-9157635dc528_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Borofutus_dhakanus_a7d3ec90-6f3c-11f0-b052-73a2750b79b2_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Borofutus_dhakanus_a7d3ec90-6f3c-11f0-b052-73a2750b79b2_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Borofutus_dhakanus_a7d3ec90-6f3c-11f0-b052-73a2750b79b2_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Borofutus_dhakanus_a7d3ec90-6f3c-11f0-b052-73a2750b79b2_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Borofutus_dhakanus_a7d3ec90-6f3c-11f0-b052-73a2750b79b2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -130,5 +160,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/81557838/thumb.jpeg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250802-102045"
 }

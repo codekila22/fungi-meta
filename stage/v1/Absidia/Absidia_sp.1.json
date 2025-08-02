@@ -2,6 +2,7 @@
  "genus": "Absidia",
  "name": "sp.1",
  "date": [
+  "07/30/2025,23988991854117920",
   "11/17/2024,8546993615410994",
   "10/19/2024,8350776025032755",
   "09/22/2024,8253524764757882",
@@ -229,6 +230,22 @@
   {
    "author": "江志緯",
    "image_src": "Absidia_sp.1_66dcec90-a896-11ef-8adb-1d1042924e4e_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Absidia_sp.1_703e1af0-6f3a-11f0-a83d-a3099c1fc253_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Absidia_sp.1_703e1af0-6f3a-11f0-a83d-a3099c1fc253_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Absidia_sp.1_703e1af0-6f3a-11f0-a83d-a3099c1fc253_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Absidia_sp.1_703e1af0-6f3a-11f0-a83d-a3099c1fc253_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -268,5 +285,5 @@
   "LookAlikes": "",
   "Note": "似乎生長在成熟的黏菌之上。"
  },
- "timestamp": "20250713-203249"
+ "timestamp": "20250802-102045"
 }

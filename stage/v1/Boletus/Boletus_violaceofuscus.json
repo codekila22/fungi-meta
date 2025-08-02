@@ -138,17 +138,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "edible",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "子實體顏色差異頗大，紫褐、紫色、黃褐色、甚至有色斑狀菌傘。此外，此物種的傘緣常有白邊。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -159,5 +160,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/217580173/thumb.jpeg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250802-102045"
 }

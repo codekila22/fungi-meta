@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "farinosa",
  "date": [
+  "07/22/2025,23964499859900453",
   "08/20/2024,7880456982064664",
   "08/08/2024,7807999075977122",
   "09/09/2023,6383808605062850",
@@ -221,6 +222,38 @@
   {
    "author": "蔡古媧",
    "image_src": "Amanita_farinosa_60d68280-ca50-11ef-aaa5-cf2e6e2afb59_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_farinosa_fe6dcb40-6f3a-11f0-aff5-cb715600d598_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_farinosa_fe6dcb40-6f3a-11f0-aff5-cb715600d598_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_farinosa_fe6dcb40-6f3a-11f0-aff5-cb715600d598_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_farinosa_fe6dcb40-6f3a-11f0-aff5-cb715600d598_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_farinosa_fe6dcb40-6f3a-11f0-aff5-cb715600d598_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_farinosa_fe6dcb40-6f3a-11f0-aff5-cb715600d598_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_farinosa_fe6dcb40-6f3a-11f0-aff5-cb715600d598_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_farinosa_fe6dcb40-6f3a-11f0-aff5-cb715600d598_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -267,5 +300,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/56134815/thumb.jpeg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250802-102045"
 }

@@ -2,6 +2,8 @@
  "genus": "Leotia",
  "name": "lubrica",
  "date": [
+  "07/13/2025,10096053403838333",
+  "07/11/2025,10096474423796231",
   "10/05/2024,8247113912065634",
   "08/21/2024,7882464611863901",
   "09/10/2023,6399147430195634",
@@ -120,6 +122,42 @@
   {
    "author": "徐秀團",
    "image_src": "Leotia_lubrica_3db2c2f0-83a6-11ef-afc1-ed71844e4d91_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Leotia_lubrica_cb6f9a10-6059-11f0-bcf4-f528ac12377c_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Leotia_lubrica_cb6f9a10-6059-11f0-bcf4-f528ac12377c_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Leotia_lubrica_cb6f9a10-6059-11f0-bcf4-f528ac12377c_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Leotia_lubrica_cb6f9a10-6059-11f0-bcf4-f528ac12377c_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Leotia_lubrica_cb6f9a10-6059-11f0-bcf4-f528ac12377c_5.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Leotia_lubrica_cb6f9a10-6059-11f0-bcf4-f528ac12377c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leotia_lubrica_e451ae40-606f-11f0-a42b-51e3c19f6b36_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leotia_lubrica_e451ae40-606f-11f0-a42b-51e3c19f6b36_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leotia_lubrica_e451ae40-606f-11f0-a42b-51e3c19f6b36_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -168,5 +206,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254164000/thumb.jpg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250802-102045"
 }

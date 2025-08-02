@@ -3,6 +3,7 @@
  "name": "parcivolvata",
  "date": [
   "07/13/2025,10085316351578705",
+  "07/11/2025,10096349103808763",
   "07/12/2023,6183664458410600",
   "07/09/2023,6181424705301242",
   "07/06/2023,6171795152930864"
@@ -78,6 +79,34 @@
   {
    "author": "江志緯",
    "image_src": "Amanita_parcivolvata_76e7adb0-1f7a-11ee-bd91-81402272baba_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parcivolvata_57fe32a0-605c-11f0-aaca-f9f40b9d0952_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parcivolvata_57fe32a0-605c-11f0-aaca-f9f40b9d0952_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parcivolvata_57fe32a0-605c-11f0-aaca-f9f40b9d0952_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parcivolvata_57fe32a0-605c-11f0-aaca-f9f40b9d0952_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parcivolvata_57fe32a0-605c-11f0-aaca-f9f40b9d0952_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parcivolvata_57fe32a0-605c-11f0-aaca-f9f40b9d0952_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parcivolvata_57fe32a0-605c-11f0-aaca-f9f40b9d0952_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -129,5 +158,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13078818/thumb.jpeg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250802-102045"
 }
