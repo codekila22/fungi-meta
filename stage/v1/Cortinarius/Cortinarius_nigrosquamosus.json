@@ -82,5 +82,13 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20250802-130813"
+ "inaturalist": [
+  {
+   "name": "Cortinarius nigrosquamosus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1362726-Cortinarius-nigrosquamosus",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250802-180703"
 }
