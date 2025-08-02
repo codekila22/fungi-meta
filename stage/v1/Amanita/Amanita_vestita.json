@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "vestita",
  "date": [
+  "08/01/2025,24011326428551129",
   "06/21/2025,9922547761188899",
   "05/28/2025,9736698553107155",
   "08/20/2024,7880545322055830",
@@ -324,6 +325,10 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_vestita_606ce270-4eae-11f0-aca7-e9bdded5fae2_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_vestita_b73e6fe0-6f4e-11f0-b6fa-6598a2d6358d_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -372,5 +377,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253549348/thumb.jpg"
   }
  ],
- "timestamp": "20250802-102045"
+ "timestamp": "20250802-130813"
 }

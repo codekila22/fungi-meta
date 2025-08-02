@@ -2,6 +2,7 @@
  "genus": "Tylopilus",
  "name": "balloui",
  "date": [
+  "07/31/2025,23997607913256314",
   "07/11/2024,7665772970199734",
   "08/21/2020,3369421266501614"
  ],
@@ -84,6 +85,10 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Tylopilus_balloui_d7613950-6a91-11ef-b246-bbc29fbfa7fa_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tylopilus_balloui_d46c9230-6f4f-11f0-89a8-d11b20ed54f9_1.jpg"
   }
  ],
  "synonym": [
@@ -146,5 +151,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/195006784/thumb.jpeg"
   }
  ],
- "timestamp": "20250802-102045"
+ "timestamp": "20250802-130813"
 }

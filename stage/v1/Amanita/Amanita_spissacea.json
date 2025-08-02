@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "spissacea",
  "date": [
+  "07/31/2025,24011326428551129",
   "06/06/2025,9804579409652402",
   "10/20/2024,8356443637799327",
   "10/13/2024,8315303571913334",
@@ -293,6 +294,10 @@
   {
    "author": "徐秀團",
    "image_src": "Amanita_spissacea_61fa8ed0-8eb5-11ef-b454-2ff16a6a1ae3_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_spissacea_f858ee90-6f50-11f0-b7e4-93139befd951_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -344,5 +349,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/82601721/thumb.jpg"
   }
  ],
- "timestamp": "20250802-102045"
+ "timestamp": "20250802-130813"
 }

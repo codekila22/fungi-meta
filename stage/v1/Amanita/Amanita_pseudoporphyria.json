@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "pseudoporphyria",
  "date": [
+  "08/01/2025,24011326428551129",
   "04/26/2024,7272110392899329",
   "04/21/2024,7254630047980697",
   "05/18/2023,5994468000663581",
@@ -217,6 +218,10 @@
   {
    "author": "黃金興",
    "image_src": "Amanita_pseudoporphyria_fb1c4880-0434-11ef-ad07-9de78e985077_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_pseudoporphyria_9c0179c0-6f4e-11f0-b3a7-3d356a5fd056_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -265,5 +270,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2391186/thumb.jpg"
   }
  ],
- "timestamp": "20250802-102045"
+ "timestamp": "20250802-130813"
 }

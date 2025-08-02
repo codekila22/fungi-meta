@@ -2,6 +2,7 @@
  "genus": "Hypholoma",
  "name": "fasciculare",
  "date": [
+  "07/23/2025,23990873430596429",
   "11/12/2024,8505082226268800",
   "09/09/2024,8014515498658811",
   "07/13/2024,7659348154175549",
@@ -278,6 +279,38 @@
   {
    "author": "吳湯姆",
    "image_src": "Hypholoma_fasciculare_dc3d0c00-a3ae-11ef-90e1-eb9cf7f0cc18_14.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypholoma_fasciculare_3e611090-6f54-11f0-a682-270574488ce3_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypholoma_fasciculare_3e611090-6f54-11f0-a682-270574488ce3_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypholoma_fasciculare_3e611090-6f54-11f0-a682-270574488ce3_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypholoma_fasciculare_3e611090-6f54-11f0-a682-270574488ce3_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypholoma_fasciculare_3e611090-6f54-11f0-a682-270574488ce3_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypholoma_fasciculare_3e611090-6f54-11f0-a682-270574488ce3_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypholoma_fasciculare_3e611090-6f54-11f0-a682-270574488ce3_7.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypholoma_fasciculare_3e611090-6f54-11f0-a682-270574488ce3_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -335,5 +368,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/42626654/thumb.jpeg"
   }
  ],
- "timestamp": "20250802-102045"
+ "timestamp": "20250802-130813"
 }

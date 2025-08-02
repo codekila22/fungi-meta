@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "virgineoides",
  "date": [
+  "08/01/2025,24011326428551129",
   "10/13/2024,8331588506951507",
   "06/15/2024,7589220421188323",
   "05/26/2024,7417357038374663",
@@ -238,6 +239,10 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_virgineoides_c90a61e0-8b9a-11ef-8d51-fbbb1d8dc390_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_virgineoides_34d28730-6f4e-11f0-951b-4bb7208e7410_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -289,5 +294,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3700957/thumb.jpeg"
   }
  ],
- "timestamp": "20250802-102045"
+ "timestamp": "20250802-130813"
 }

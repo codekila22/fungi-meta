@@ -2,6 +2,7 @@
  "genus": "Scleroderma",
  "name": "areolatum",
  "date": [
+  "07/31/2025,23997607913256314",
   "05/08/2024,7327046490739052",
   "05/02/2023,5948883698555345"
  ],
@@ -111,6 +112,10 @@
   {
    "author": "James Ho",
    "image_src": "Scleroderma_areolatum_975e5bb0-0d46-11ef-b17d-7b324f884e73_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Scleroderma_areolatum_0c7bcf00-6f51-11f0-b27d-77532683cd91_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -160,5 +165,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/248090/thumb.jpg"
   }
  ],
- "timestamp": "20250802-102045"
+ "timestamp": "20250802-130813"
 }

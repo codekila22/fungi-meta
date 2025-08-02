@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "palmivorus",
  "date": [
+  "08/01/2025,24007419295608509",
   "07/11/2025,10075677752542565",
   "11/20/2024,8560016734108682",
   "09/20/2024,8101876873256006",
@@ -233,6 +234,34 @@
   {
    "author": "徐秀團",
    "image_src": "Marasmius_palmivorus_070e1770-5f03-11f0-a766-21427abf302f_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -284,5 +313,5 @@
    "src": "https://static.inaturalist.org/photos/54590291/thumb.jpeg"
   }
  ],
- "timestamp": "20250802-102045"
+ "timestamp": "20250802-130813"
 }

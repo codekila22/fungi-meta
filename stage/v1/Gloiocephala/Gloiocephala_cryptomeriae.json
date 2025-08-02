@@ -2,6 +2,7 @@
  "genus": "Gloiocephala",
  "name": "cryptomeriae",
  "date": [
+  "07/27/2025,24007626152254490",
   "03/08/2025,9163603907083292",
   "04/04/2023,5847517302025319",
   "09/07/2022,5234866429957079",
@@ -102,6 +103,34 @@
   {
    "author": "徐秀團",
    "image_src": "Gloiocephala_cryptomeriae_1c619040-fcb9-11ef-8786-2d9e3725bc4f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_cryptomeriae_3e07ffa0-6f4a-11f0-ab4a-673f61714c91_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_cryptomeriae_3e07ffa0-6f4a-11f0-ab4a-673f61714c91_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_cryptomeriae_3e07ffa0-6f4a-11f0-ab4a-673f61714c91_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_cryptomeriae_3e07ffa0-6f4a-11f0-ab4a-673f61714c91_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_cryptomeriae_3e07ffa0-6f4a-11f0-ab4a-673f61714c91_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_cryptomeriae_3e07ffa0-6f4a-11f0-ab4a-673f61714c91_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_cryptomeriae_3e07ffa0-6f4a-11f0-ab4a-673f61714c91_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -156,5 +185,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/147362499/thumb.jpg"
   }
  ],
- "timestamp": "20250802-102045"
+ "timestamp": "20250802-130813"
 }
