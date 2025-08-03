@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "oreades",
  "date": [
+  "08/02/2025,24004457752571330",
   "07/10/2025,10067972376646436",
   "04/24/2025,9464047963705550",
   "09/21/2024,8110840859026274",
@@ -283,6 +284,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Marasmius_oreades_784002f0-2367-11f0-aa0d-5309d1838655_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_oreades_74d6e340-7006-11f0-9e40-033869b342c7_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_oreades_74d6e340-7006-11f0-9e40-033869b342c7_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_oreades_74d6e340-7006-11f0-9e40-033869b342c7_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -332,5 +345,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/35760467/thumb.jpg"
   }
  ],
- "timestamp": "20250802-201347"
+ "timestamp": "20250803-091923"
 }
