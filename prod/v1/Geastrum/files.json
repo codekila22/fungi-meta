@@ -2,7 +2,7 @@
  "name": "Geastrum",
  "zhtw": "地星屬",
  "zhcn": "地星属",
- "timestamp": "20250713-203249",
+ "timestamp": "20250803-202353",
  "list": [
   {
    "name": "Geastrum berkeleyi",
@@ -78,6 +78,12 @@
    "zhtw": "蘇氏地星",
    "zhcn": "苏氏地星",
    "img": "Geastrum_suae_dce6ec20-1a17-1071-b35d-cf91319fa52e_1.jpg"
+  },
+  {
+   "name": "Geastrum trachelium",
+   "zhtw": "長頸地星(暫名)",
+   "zhcn": "长颈地星(暂名)",
+   "img": "Geastrum_trachelium_b94627c0-6f43-11f0-b116-d54581dfa45d_1.jpg"
   },
   {
    "name": "Geastrum triplex",

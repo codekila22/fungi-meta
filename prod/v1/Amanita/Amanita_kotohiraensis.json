@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "kotohiraensis",
  "date": [
+  "08/01/2025,24011326428551129",
   "10/13/2024,8315054741938217",
   "10/12/2024,8308459332597758",
   "08/16/2024,7857310994379263",
@@ -144,6 +145,10 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_kotohiraensis_b217afe0-893a-11ef-8f32-c3a08cecb73c_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_kotohiraensis_61e38bc0-6f4e-11f0-a64d-a1dcd357b859_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -193,5 +198,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253234091/thumb.jpg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250803-202353"
 }

@@ -2,7 +2,7 @@
  "name": "Cortinarius",
  "zhtw": "絲膜菌屬",
  "zhcn": "丝膜菌属",
- "timestamp": "20250713-203249",
+ "timestamp": "20250803-202353",
  "list": [
   {
    "name": "Cortinarius alboviolaceus",
@@ -63,6 +63,12 @@
    "zhtw": "紫光絲膜菌",
    "zhcn": "紫光丝膜菌",
    "img": "Cortinarius_iodes_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Cortinarius nigrosquamosus",
+   "zhtw": "黑鱗絲膜菌",
+   "zhcn": "黑鳞丝膜菌",
+   "img": "Cortinarius_nigrosquamosus_2be63240-6f3d-11f0-820b-a5c6e6bb3c4a_1.jpg"
   },
   {
    "name": "Cortinarius occidentalis",

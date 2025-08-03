@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "suzukaensis",
  "date": [
+  "07/31/2025,23990518103965295",
   "08/23/2024,8294550237322001",
   "07/18/2024,7684228638354167",
   "06/16/2024,7535045543272478",
@@ -182,6 +183,42 @@
   {
    "author": "江志緯",
    "image_src": "Hygrocybe_suzukaensis_1082dd90-88fd-11ef-8161-d3139b82d614_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_ddac9720-6f39-11f0-928c-69061c1a8caa_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_ddac9720-6f39-11f0-928c-69061c1a8caa_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_ddac9720-6f39-11f0-928c-69061c1a8caa_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_ddac9720-6f39-11f0-928c-69061c1a8caa_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_ddac9720-6f39-11f0-928c-69061c1a8caa_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_ddac9720-6f39-11f0-928c-69061c1a8caa_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_ddac9720-6f39-11f0-928c-69061c1a8caa_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_ddac9720-6f39-11f0-928c-69061c1a8caa_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_ddac9720-6f39-11f0-928c-69061c1a8caa_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -230,5 +267,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/147127915/thumb.jpg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250803-202353"
 }

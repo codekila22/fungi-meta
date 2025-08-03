@@ -2,6 +2,7 @@
  "genus": "Calocera",
  "name": "cornea",
  "date": [
+  "07/30/2025,23999345173082588",
   "09/11/2023,6394447513998959",
   "06/26/2023,6132228270220886",
   "04/26/2023,5918096424967406",
@@ -70,6 +71,18 @@
   {
    "author": "柯文俊",
    "image_src": "Calocera_cornea_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_cornea_74635100-6ff2-11f0-8490-33e944c886d2_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_cornea_74635100-6ff2-11f0-8490-33e944c886d2_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_cornea_74635100-6ff2-11f0-8490-33e944c886d2_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -121,5 +134,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/93503679/thumb.jpeg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250803-202353"
 }

@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "kentingensis",
  "date": [
+  "08/03/2025,24020163637667408",
   "07/11/2025,10090934551016885",
   "08/25/2017,1293658357411259"
  ],
@@ -102,6 +103,82 @@
   {
    "author": "江志緯",
    "image_src": "Mycena_kentingensis_739f6610-5fde-11f0-8b07-a32002c8af20_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_15.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_16.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_17.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_18.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_9f783bd0-7010-11f0-b5b1-89dd99225370_19.jpg"
   }
  ],
  "names_zhcn": [
@@ -111,7 +188,7 @@
   "CapColors": "4288768839,4290547599",
   "CapDiamRangeValues": "3,8",
   "CapShape": "",
-  "CapTexture": "",
+  "CapTexture": "velvety",
   "CapMargin": "",
   "HymeniumType": "",
   "HymeniumColors": "",
@@ -129,17 +206,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
   "Bruising": "",
-  "Bioluminescent": "weak",
+  "Bioluminescent": "strong",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌柄基部有約2mm大小的圓盤。",
+  "Note": "菌柄基部有約2mm大小的圓盤。自然環境中目前發現喜好生長在台灣樹蘭(紅柴) Aglaia formosana 枯樹上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -150,5 +228,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/92101813/thumb.jpeg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250803-202353"
 }

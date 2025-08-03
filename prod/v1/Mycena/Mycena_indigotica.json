@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "indigotica",
  "date": [
+  "07/15/2025,23997642539919518",
   "07/30/2024,7855494151227614",
   "06/11/2024,7488490211261345",
   "05/07/2024,7324681474308887",
@@ -305,6 +306,42 @@
   {
    "author": "Sunny Wang",
    "image_src": "Mycena_indigotica_65feaf80-794c-11ef-be23-f94c3a31006f_23.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_indigotica_be7daab0-6f57-11f0-a09a-0d2fafb5cd75_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_indigotica_be7daab0-6f57-11f0-a09a-0d2fafb5cd75_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_indigotica_be7daab0-6f57-11f0-a09a-0d2fafb5cd75_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_indigotica_be7daab0-6f57-11f0-a09a-0d2fafb5cd75_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_indigotica_be7daab0-6f57-11f0-a09a-0d2fafb5cd75_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_indigotica_be7daab0-6f57-11f0-a09a-0d2fafb5cd75_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_indigotica_be7daab0-6f57-11f0-a09a-0d2fafb5cd75_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_indigotica_be7daab0-6f57-11f0-a09a-0d2fafb5cd75_8.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_indigotica_be7daab0-6f57-11f0-a09a-0d2fafb5cd75_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -354,5 +391,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253146082/thumb.jpg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250803-202353"
 }

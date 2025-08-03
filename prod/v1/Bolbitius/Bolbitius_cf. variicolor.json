@@ -2,6 +2,7 @@
  "genus": "Bolbitius",
  "name": "cf. variicolor",
  "date": [
+  "08/01/2025,24006568172360288",
   "04/09/2025,9448606135249733",
   "05/31/2024,7436488143128219",
   "04/19/2024,7241811999262502",
@@ -224,6 +225,18 @@
   {
    "author": "江志緯",
    "image_src": "Bolbitius_cf. variicolor_fb4934b0-2104-11f0-8733-59de19411ef6_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Bolbitius_cf. variicolor_36fc4c60-6f4b-11f0-bcdb-63787465c389_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Bolbitius_cf. variicolor_36fc4c60-6f4b-11f0-bcdb-63787465c389_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Bolbitius_cf. variicolor_36fc4c60-6f4b-11f0-bcdb-63787465c389_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -273,5 +286,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/56764251/thumb.jpg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250803-202353"
 }

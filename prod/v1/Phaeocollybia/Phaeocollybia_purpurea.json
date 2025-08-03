@@ -2,6 +2,7 @@
  "genus": "Phaeocollybia",
  "name": "purpurea",
  "date": [
+  "07/15/2025,23871049652578808",
   "06/21/2025,9979454445498230",
   "06/10/2023,6073415359435511",
   "08/28/2022,5193602947416761",
@@ -125,6 +126,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Phaeocollybia_purpurea_28f0a410-54d2-11f0-923b-0d4a85bb9e78_14.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeocollybia_purpurea_581a67b0-61d1-11f0-a1ce-f93c9d7e211a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeocollybia_purpurea_581a67b0-61d1-11f0-a1ce-f93c9d7e211a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeocollybia_purpurea_581a67b0-61d1-11f0-a1ce-f93c9d7e211a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeocollybia_purpurea_581a67b0-61d1-11f0-a1ce-f93c9d7e211a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeocollybia_purpurea_581a67b0-61d1-11f0-a1ce-f93c9d7e211a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -165,5 +186,5 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20250713-203249"
+ "timestamp": "20250803-202353"
 }

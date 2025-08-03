@@ -2,6 +2,7 @@
  "genus": "Oxyporus",
  "name": "latemarginatus",
  "date": [
+  "07/31/2025,23990680197282419",
   "06/30/2025,9996328393810835",
   "05/01/2025,9526804067429939",
   "03/23/2025,9250241325086216",
@@ -185,6 +186,46 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Oxyporus_latemarginatus_f8d57e30-27aa-11f0-9810-ab1565ff5716_12.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Oxyporus_latemarginatus_cff6d7d0-6f6b-11f0-aa13-d7a4551053f1_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Oxyporus_latemarginatus_cff6d7d0-6f6b-11f0-aa13-d7a4551053f1_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Oxyporus_latemarginatus_cff6d7d0-6f6b-11f0-aa13-d7a4551053f1_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Oxyporus_latemarginatus_cff6d7d0-6f6b-11f0-aa13-d7a4551053f1_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Oxyporus_latemarginatus_cff6d7d0-6f6b-11f0-aa13-d7a4551053f1_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Oxyporus_latemarginatus_cff6d7d0-6f6b-11f0-aa13-d7a4551053f1_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Oxyporus_latemarginatus_cff6d7d0-6f6b-11f0-aa13-d7a4551053f1_7.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Oxyporus_latemarginatus_cff6d7d0-6f6b-11f0-aa13-d7a4551053f1_8.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Oxyporus_latemarginatus_cff6d7d0-6f6b-11f0-aa13-d7a4551053f1_9.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Oxyporus_latemarginatus_cff6d7d0-6f6b-11f0-aa13-d7a4551053f1_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -233,5 +274,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/210851/thumb.jpg"
   }
  ],
- "timestamp": "20250713-203249"
+ "timestamp": "20250803-202353"
 }

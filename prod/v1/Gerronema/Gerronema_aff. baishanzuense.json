@@ -2,6 +2,7 @@
  "genus": "Gerronema",
  "name": "aff. baishanzuense",
  "date": [
+  "07/31/2025,24016355364714902",
   "10/02/2024,8225696000874092",
   "08/21/2024,10058340064276334",
   "04/16/2024,7233439310099771",
@@ -14,6 +15,14 @@
  "names_en": [],
  "url": "5968010973309284",
  "images": [
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gerronema_aff. baishanzuense_c43299f0-5cb2-11f0-aa68-054b6c538ed3_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gerronema_aff. baishanzuense_c43299f0-5cb2-11f0-aa68-054b6c538ed3_2.jpg"
+  },
   {
    "author": "蔣珮瑩",
    "image_src": "Gerronema_aff. baishanzuense_c69dfd50-f194-11ed-854e-0975fd2923d9_1.jpg"
@@ -168,14 +177,6 @@
   },
   {
    "author": "蔣珮瑩",
-   "image_src": "Gerronema_aff. baishanzuense_c43299f0-5cb2-11f0-aa68-054b6c538ed3_2.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Gerronema_aff. baishanzuense_c43299f0-5cb2-11f0-aa68-054b6c538ed3_3.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
    "image_src": "Gerronema_aff. baishanzuense_c43299f0-5cb2-11f0-aa68-054b6c538ed3_4.jpg"
   },
   {
@@ -185,6 +186,38 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Gerronema_aff. baishanzuense_c43299f0-5cb2-11f0-aa68-054b6c538ed3_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_aff. baishanzuense_ccb73690-7002-11f0-b12d-2be2fb4594ab_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_aff. baishanzuense_ccb73690-7002-11f0-b12d-2be2fb4594ab_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_aff. baishanzuense_ccb73690-7002-11f0-b12d-2be2fb4594ab_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_aff. baishanzuense_ccb73690-7002-11f0-b12d-2be2fb4594ab_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_aff. baishanzuense_ccb73690-7002-11f0-b12d-2be2fb4594ab_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_aff. baishanzuense_ccb73690-7002-11f0-b12d-2be2fb4594ab_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_aff. baishanzuense_ccb73690-7002-11f0-b12d-2be2fb4594ab_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_aff. baishanzuense_ccb73690-7002-11f0-b12d-2be2fb4594ab_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -226,5 +259,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250713-203249"
+ "timestamp": "20250803-202353"
 }
