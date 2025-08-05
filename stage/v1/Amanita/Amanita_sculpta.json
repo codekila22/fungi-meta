@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "sculpta",
  "date": [
+  "08/04/2025,24032980243052414",
   "08/29/2024,7938769809566714",
   "08/12/2024,7834224406687922",
   "09/11/2023,6394585177318526",
@@ -271,6 +272,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_sculpta_ffef3750-fbd7-10e1-9fbb-6725f4c53937_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_6e285b80-71c5-11f0-be5e-73fe624e8d26_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_6e285b80-71c5-11f0-be5e-73fe624e8d26_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_6e285b80-71c5-11f0-be5e-73fe624e8d26_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_6e285b80-71c5-11f0-be5e-73fe624e8d26_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_6e285b80-71c5-11f0-be5e-73fe624e8d26_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_6e285b80-71c5-11f0-be5e-73fe624e8d26_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_6e285b80-71c5-11f0-be5e-73fe624e8d26_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -319,5 +348,5 @@
    "src": "https://static.inaturalist.org/photos/101674066/thumb.jpeg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250805-202632"
 }

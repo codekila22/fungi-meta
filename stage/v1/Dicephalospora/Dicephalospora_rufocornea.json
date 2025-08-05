@@ -2,6 +2,7 @@
  "genus": "Dicephalospora",
  "name": "rufocornea",
  "date": [
+  "07/31/2025,24023940223956416",
   "06/29/2025,10042003342576673",
   "11/22/2023,6699132260197148",
   "10/25/2023,6574969365946772",
@@ -177,6 +178,18 @@
   {
    "author": "江志緯",
    "image_src": "Dicephalospora_rufocornea_7d9a0870-5ae6-11f0-a65e-21ad2d1b11de_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dicephalospora_rufocornea_660a6ea0-70fa-11f0-8056-7bad09c2b664_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dicephalospora_rufocornea_660a6ea0-70fa-11f0-8056-7bad09c2b664_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dicephalospora_rufocornea_660a6ea0-70fa-11f0-8056-7bad09c2b664_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -225,5 +238,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5744756/thumb.jpeg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250805-202632"
 }

@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "tropicum",
  "date": [
+  "08/03/2025,24024583180558787",
   "09/03/2024,7978597292250632",
   "08/20/2024,7954173491359679",
   "09/14/2023,6401972269913150",
@@ -212,6 +213,34 @@
   {
    "author": "江志緯",
    "image_src": "Ganoderma_tropicum_ac7a1fd0-6803-11ef-b569-3702888d8aae_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_tropicum_dd7150f0-71ac-11f0-850d-3f8144a68e3b_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_tropicum_dd7150f0-71ac-11f0-850d-3f8144a68e3b_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_tropicum_dd7150f0-71ac-11f0-850d-3f8144a68e3b_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_tropicum_dd7150f0-71ac-11f0-850d-3f8144a68e3b_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_tropicum_dd7150f0-71ac-11f0-850d-3f8144a68e3b_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_tropicum_dd7150f0-71ac-11f0-850d-3f8144a68e3b_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_tropicum_dd7150f0-71ac-11f0-850d-3f8144a68e3b_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -261,5 +290,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/72709212/thumb.jpg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250805-202632"
 }

@@ -2,6 +2,7 @@
  "genus": "Termitomyces",
  "name": "microcarpus",
  "date": [
+  "08/05/2025,/17tWSQbC46",
   "08/01/2025,24006568172360288",
   "07/15/2025,24006307592386346",
   "07/11/2025,10089384094505264",
@@ -248,6 +249,38 @@
   {
    "author": "何俊霖",
    "image_src": "Termitomyces_microcarpus_bc8f08d0-6f51-11f0-9cf6-937eea829fd5_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_microcarpus_dee52b70-71dc-11f0-8f45-ade7be17b4f5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_microcarpus_dee52b70-71dc-11f0-8f45-ade7be17b4f5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_microcarpus_dee52b70-71dc-11f0-8f45-ade7be17b4f5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_microcarpus_dee52b70-71dc-11f0-8f45-ade7be17b4f5_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_microcarpus_dee52b70-71dc-11f0-8f45-ade7be17b4f5_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_microcarpus_dee52b70-71dc-11f0-8f45-ade7be17b4f5_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_microcarpus_dee52b70-71dc-11f0-8f45-ade7be17b4f5_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_microcarpus_dee52b70-71dc-11f0-8f45-ade7be17b4f5_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -296,5 +329,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15153081/thumb.jpg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250805-202632"
 }
