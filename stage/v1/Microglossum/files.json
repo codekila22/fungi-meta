@@ -2,7 +2,7 @@
  "name": "Microglossum",
  "zhtw": "小舌菌屬",
  "zhcn": "小舌菌属",
- "timestamp": "20250816-105136",
+ "timestamp": "20250817-181017",
  "list": [
   {
    "name": "Microglossum olivaceum",
@@ -15,6 +15,12 @@
    "zhtw": "紅棕小舌菌",
    "zhcn": "红棕小舌菌",
    "img": "Microglossum_rufum_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Microglossum viride",
+   "zhtw": "綠小舌菌",
+   "zhcn": "绿小舌菌",
+   "img": "Microglossum_viride_a5a77670-7aff-11f0-b79c-b3fa72682137_1.jpg"
   }
  ]
 }

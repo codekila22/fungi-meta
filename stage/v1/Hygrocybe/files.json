@@ -2,7 +2,7 @@
  "name": "Hygrocybe",
  "zhtw": "濕傘屬",
  "zhcn": "湿伞属",
- "timestamp": "20250816-105136",
+ "timestamp": "20250817-181017",
  "list": [
   {
    "name": "Hygrocybe acutoconica",
@@ -81,6 +81,12 @@
    "zhtw": "淺黃褐濕傘",
    "zhcn": "浅黄褐湿伞",
    "img": "Hygrocybe_flavescens_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Hygrocybe griseonigricans",
+   "zhtw": "灰黑濕傘",
+   "zhcn": "灰黑湿伞",
+   "img": "Hygrocybe_griseonigricans_fdab0560-7b4c-11f0-82e5-db829d3cb073_1.jpg"
   },
   {
    "name": "Hygrocybe miniata",

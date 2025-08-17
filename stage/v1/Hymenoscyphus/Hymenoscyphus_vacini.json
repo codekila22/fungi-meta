@@ -60,10 +60,11 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "leaves",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -81,5 +82,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250816-105136"
+ "timestamp": "20250817-181017"
 }

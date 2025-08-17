@@ -2,6 +2,7 @@
  "genus": "Strobilomyces",
  "name": "strobilaceus",
  "date": [
+  "08/16/2025,24128303666853404",
   "06/07/2025,9812087242234952",
   "10/14/2024,8332564003520624",
   "06/21/2024,7547658128677886",
@@ -206,6 +207,30 @@
   {
    "author": "江志緯",
    "image_src": "Strobilomyces_strobilaceus_1b2ffe00-439a-11f0-b7bf-456fd3e5911e_15.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Strobilomyces_strobilaceus_00c0a270-7b50-11f0-82e5-db829d3cb073_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Strobilomyces_strobilaceus_00c0a270-7b50-11f0-82e5-db829d3cb073_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Strobilomyces_strobilaceus_00c0a270-7b50-11f0-82e5-db829d3cb073_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Strobilomyces_strobilaceus_00c0a270-7b50-11f0-82e5-db829d3cb073_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Strobilomyces_strobilaceus_00c0a270-7b50-11f0-82e5-db829d3cb073_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Strobilomyces_strobilaceus_00c0a270-7b50-11f0-82e5-db829d3cb073_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -257,5 +282,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027090/thumb.jpg"
   }
  ],
- "timestamp": "20250816-105136"
+ "timestamp": "20250817-181017"
 }

@@ -2,14 +2,15 @@
  "genus": "Metarhizium",
  "name": "anisopliae",
  "date": [
-  "01/01/0001"
+  "07/22/2025,23971659795851126",
+  "05/07/2021,3757129837730753"
  ],
  "names_zhtw": [
   "黑僵菌",
   "黑殭菌"
  ],
  "names_en": [],
- "url": "3757129837730753",
+ "url": "23971659795851126",
  "images": [
   {
    "author": "劉小橙",
@@ -22,6 +23,14 @@
   {
    "author": "劉小橙",
    "image_src": "Metarhizium_anisopliae_2_CC BY-NC_劉小橙.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Metarhizium_anisopliae_33cf7740-7b50-11f0-82e5-db829d3cb073_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Metarhizium_anisopliae_33cf7740-7b50-11f0-82e5-db829d3cb073_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -70,5 +79,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/33754413/thumb.jpeg"
   }
  ],
- "timestamp": "20250816-105136"
+ "timestamp": "20250817-181017"
 }

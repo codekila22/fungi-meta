@@ -2,8 +2,14 @@
  "name": "Strobilomyces",
  "zhtw": "松塔牛肝菌屬",
  "zhcn": "松塔牛肝菌属",
- "timestamp": "20250816-105136",
+ "timestamp": "20250817-181017",
  "list": [
+  {
+   "name": "Strobilomyces brunneolepidotus",
+   "zhtw": "褐錐鱗松塔牛肝菌",
+   "zhcn": "褐锥鳞松塔牛肝菌",
+   "img": "Strobilomyces_polypyramis_2_CC BY-NC_向高世.jpg"
+  },
   {
    "name": "Strobilomyces confusus",
    "zhtw": "混淆松塔牛肝菌",
@@ -15,12 +21,6 @@
    "zhtw": "黃紗松塔牛肝菌",
    "zhcn": "黄纱松塔牛肝菌",
    "img": "Strobilomyces_mirandus_1_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "name": "Strobilomyces polypyramis",
-   "zhtw": "錐鱗松塔牛肝菌",
-   "zhcn": "锥鳞松塔牛肝菌",
-   "img": "Strobilomyces_polypyramis_2_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Strobilomyces seminudus",

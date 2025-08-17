@@ -2,6 +2,7 @@
  "genus": "Coprinopsis",
  "name": "cortinata",
  "date": [
+  "08/12/2025,24103999275950510",
   "01/06/2024,6828039637306409",
   "12/19/2020,3379759755467765"
  ],
@@ -50,7 +51,43 @@
   },
   {
    "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33144220-8244-10f8-9e63-2fd2d82380ae_1.jpg"
+   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -100,5 +137,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156356553/thumb.jpg"
   }
  ],
- "timestamp": "20250816-105136"
+ "timestamp": "20250817-181017"
 }

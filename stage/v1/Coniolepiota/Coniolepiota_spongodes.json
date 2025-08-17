@@ -2,6 +2,7 @@
  "genus": "Coniolepiota",
  "name": "spongodes",
  "date": [
+  "07/14/2025,24132793263071111",
   "07/12/2025,10084233581686982",
   "08/02/2024,7782683208508709",
   "06/27/2024,7566426786801020",
@@ -16,7 +17,7 @@
   "海綿鱗環柄菇"
  ],
  "names_en": [],
- "url": "6304318853011826",
+ "url": "24132793263071111",
  "images": [
   {
    "author": "蛾米",
@@ -201,6 +202,42 @@
   {
    "author": "林杏蓉",
    "image_src": "Coniolepiota_spongodes_87636f90-5fdc-11f0-be10-ed8b6016e7c2_11.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coniolepiota_spongodes_646fbd10-7b50-11f0-82e5-db829d3cb073_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coniolepiota_spongodes_646fbd10-7b50-11f0-82e5-db829d3cb073_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coniolepiota_spongodes_646fbd10-7b50-11f0-82e5-db829d3cb073_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coniolepiota_spongodes_646fbd10-7b50-11f0-82e5-db829d3cb073_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coniolepiota_spongodes_646fbd10-7b50-11f0-82e5-db829d3cb073_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coniolepiota_spongodes_646fbd10-7b50-11f0-82e5-db829d3cb073_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coniolepiota_spongodes_646fbd10-7b50-11f0-82e5-db829d3cb073_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coniolepiota_spongodes_646fbd10-7b50-11f0-82e5-db829d3cb073_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coniolepiota_spongodes_646fbd10-7b50-11f0-82e5-db829d3cb073_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -249,5 +286,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249780748/thumb.jpg"
   }
  ],
- "timestamp": "20250816-105136"
+ "timestamp": "20250817-181017"
 }

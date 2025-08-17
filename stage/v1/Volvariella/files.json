@@ -2,7 +2,7 @@
  "name": "Volvariella",
  "zhtw": "小包腳菇屬",
  "zhcn": "小包脚菇属",
- "timestamp": "20250816-105136",
+ "timestamp": "20250817-181017",
  "list": [
   {
    "name": "Volvariella bombycina",
@@ -15,6 +15,12 @@
    "zhtw": "藍灰小包腳菇",
    "zhcn": "蓝灰小包脚菇",
    "img": "Volvariella_caesiotincta_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Volvariella guttulosa",
+   "zhtw": "水滴小包腳菇",
+   "zhcn": "水滴小包脚菇",
+   "img": "Volvariella_guttulosa_c3204470-7b4f-11f0-82e5-db829d3cb073_1.jpg"
   },
   {
    "name": "Volvariella hypopithys",
