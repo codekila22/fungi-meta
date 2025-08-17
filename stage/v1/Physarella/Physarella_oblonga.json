@@ -2,6 +2,7 @@
  "genus": "Physarella",
  "name": "oblonga",
  "date": [
+  "08/16/2025,24137680755915695",
   "04/23/2025,9456627674447579",
   "10/13/2024,8314621318648226",
   "09/01/2024,7957291477714547",
@@ -445,6 +446,34 @@
   {
    "author": "陳雅芬",
    "image_src": "Physarella_oblonga_4f4f1090-892d-11ef-8f32-c3a08cecb73c_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_570a6bb0-7b56-11f0-b35e-9727b3842f40_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_570a6bb0-7b56-11f0-b35e-9727b3842f40_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_570a6bb0-7b56-11f0-b35e-9727b3842f40_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_570a6bb0-7b56-11f0-b35e-9727b3842f40_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_570a6bb0-7b56-11f0-b35e-9727b3842f40_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_570a6bb0-7b56-11f0-b35e-9727b3842f40_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarella_oblonga_570a6bb0-7b56-11f0-b35e-9727b3842f40_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -492,5 +521,5 @@
    "src": "https://static.inaturalist.org/photos/21486829/thumb.jpg"
   }
  ],
- "timestamp": "20250817-182257"
+ "timestamp": "20250817-184712"
 }
