@@ -247,5 +247,13 @@
  "names_zhcn": [
   "褐锥鳞松塔牛肝菌"
  ],
- "timestamp": "20250817-181017"
+ "inaturalist": [
+  {
+   "name": "Strobilomyces brunneolepidotus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1441217-Strobilomyces-brunneolepidotus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251574833/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250817-182257"
 }

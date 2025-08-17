@@ -50,5 +50,51 @@
  "names_zhcn": [
   "灰黑湿伞"
  ],
- "timestamp": "20250817-181017"
+ "meta": {
+  "CapColors": "4278190080,4284635991",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Hygrocybe astatogala,,",
+  "Note": "",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "黑鱗濕傘,,",
+  "la_zhcn": "黑鳞湿伞,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Hygrocybe griseonigricans",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1369388-Hygrocybe-griseonigricans",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250817-182257"
 }

@@ -2,8 +2,9 @@
  "genus": "Microglossum",
  "name": "viride",
  "date": [
-  "08/17/2025,23890537263963380",
-  "07/15/2025,23978176331866139"
+  "07/15/2025,23890537263963380",
+  "07/15/2025,23978176331866139",
+  "07/11/2025,10076647722445568"
  ],
  "names_zhtw": [
   "綠小舌菌"
@@ -62,10 +63,70 @@
   {
    "author": "向高世",
    "image_src": "Microglossum_viride_93bb2140-7b50-11f0-82e5-db829d3cb073_3.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Microglossum_viride_b90c04c0-7b53-11f0-951d-99493e39d9a2_1.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Microglossum_viride_b90c04c0-7b53-11f0-951d-99493e39d9a2_2.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Microglossum_viride_b90c04c0-7b53-11f0-951d-99493e39d9a2_3.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Microglossum_viride_b90c04c0-7b53-11f0-951d-99493e39d9a2_4.jpg"
   }
  ],
  "names_zhcn": [
   "绿小舌菌"
  ],
- "timestamp": "20250817-181017"
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Microglossum viride",
+   "cname": "Green Earthtongue",
+   "url": "https://www.inaturalist.org/taxa/351568-Microglossum-viride",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28056706/thumb.jpg"
+  }
+ ],
+ "timestamp": "20250817-182257"
 }
