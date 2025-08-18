@@ -2,6 +2,7 @@
  "genus": "Lysurus",
  "name": "gardneri",
  "date": [
+  "08/15/2025,24120736270943477",
   "06/10/2024,7483570195086680",
   "06/28/2021,3899749420135460",
   "09/03/2020,4631639323613129"
@@ -68,6 +69,38 @@
   {
    "author": "姚碧玲",
    "image_src": "Lysurus_gardneri_33924b70-272a-11ef-adad-e5ae90684f6b_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Lysurus_gardneri_c03da6d0-7b63-11f0-8972-a3809683156e_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Lysurus_gardneri_c03da6d0-7b63-11f0-8972-a3809683156e_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Lysurus_gardneri_c03da6d0-7b63-11f0-8972-a3809683156e_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Lysurus_gardneri_c03da6d0-7b63-11f0-8972-a3809683156e_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Lysurus_gardneri_c03da6d0-7b63-11f0-8972-a3809683156e_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Lysurus_gardneri_c03da6d0-7b63-11f0-8972-a3809683156e_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Lysurus_gardneri_c03da6d0-7b63-11f0-8972-a3809683156e_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Lysurus_gardneri_c03da6d0-7b63-11f0-8972-a3809683156e_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -117,5 +150,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20765286/thumb.jpeg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

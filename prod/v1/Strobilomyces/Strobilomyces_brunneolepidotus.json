@@ -1,6 +1,6 @@
 {
  "genus": "Strobilomyces",
- "name": "polypyramis",
+ "name": "brunneolepidotus",
  "date": [
   "08/01/2025,24011326428551129",
   "06/20/2025,9914559405321068",
@@ -22,7 +22,7 @@
   "07/19/2017,1260391990737896"
  ],
  "names_zhtw": [
-  "錐鱗松塔牛肝菌"
+  "褐錐鱗松塔牛肝菌"
  ],
  "names_en": [],
  "url": "2332780470165704",
@@ -245,7 +245,7 @@
   }
  ],
  "names_zhcn": [
-  "锥鳞松塔牛肝菌"
+  "褐锥鳞松塔牛肝菌"
  ],
  "meta": {
   "CapColors": "4288768839,4283244288",
@@ -284,11 +284,11 @@
  },
  "inaturalist": [
   {
-   "name": "Strobilomyces polypyramis",
+   "name": "Strobilomyces brunneolepidotus",
    "cname": "",
-   "url": "https://www.inaturalist.org/taxa/1279281-Strobilomyces-polypyramis",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155113005/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1441217-Strobilomyces-brunneolepidotus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251574833/thumb.jpg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

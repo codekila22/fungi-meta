@@ -2,6 +2,7 @@
  "genus": "Volvariella",
  "name": "bombycina",
  "date": [
+  "07/15/2025,24120347567649014",
   "06/19/2023,6105364292907284",
   "11/24/2022,5446996905410696",
   "10/24/2022,5354932624617125",
@@ -202,10 +203,11 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
-  "GrowthEnv": "ground",
+  "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -247,5 +249,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

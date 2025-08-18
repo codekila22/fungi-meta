@@ -2,6 +2,7 @@
  "genus": "Sarcoscypha",
  "name": "occidentalis",
  "date": [
+  "08/15/2025,24145986278418476",
   "02/13/2022"
  ],
  "names_zhtw": [
@@ -37,6 +38,26 @@
   {
    "author": "Hannah Wang",
    "image_src": "Sarcoscypha_occidentalis_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcoscypha_occidentalis_a27a2c40-7bb8-11f0-b12a-4b3ba1a95fce_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcoscypha_occidentalis_a27a2c40-7bb8-11f0-b12a-4b3ba1a95fce_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcoscypha_occidentalis_a27a2c40-7bb8-11f0-b12a-4b3ba1a95fce_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcoscypha_occidentalis_a27a2c40-7bb8-11f0-b12a-4b3ba1a95fce_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcoscypha_occidentalis_a27a2c40-7bb8-11f0-b12a-4b3ba1a95fce_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -85,5 +106,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2606960/thumb.jpg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

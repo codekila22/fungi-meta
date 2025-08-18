@@ -2,6 +2,7 @@
  "genus": "Clavulina",
  "name": "rugosa",
  "date": [
+  "08/12/2025,24121045957579175",
   "05/26/2023,6040985832678464",
   "05/06/2022,4880373452073047",
   "02/20/2021,3533504616759944",
@@ -77,6 +78,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Clavulina_rugosa_ff2f5d40-004d-11ee-86bb-8569a33b5378_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavulina_rugosa_581288b0-7b5d-11f0-8972-a3809683156e_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavulina_rugosa_581288b0-7b5d-11f0-8972-a3809683156e_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavulina_rugosa_581288b0-7b5d-11f0-8972-a3809683156e_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -134,5 +147,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

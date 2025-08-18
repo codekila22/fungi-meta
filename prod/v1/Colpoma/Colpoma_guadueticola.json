@@ -2,11 +2,13 @@
  "genus": "Colpoma",
  "name": "guadueticola",
  "date": [
+  "07/03/2025,24142086445475126",
   "06/24/2025,9951396108304064",
-  "06/07/2025,9831134563663553"
+  "06/07/2025,9831134563663553",
+  "06/12/2024,24142086445475126"
  ],
  "names_zhtw": [
-  "刺竹彎殼菌"
+  "竹生彎殼菌"
  ],
  "names_en": [],
  "url": "9831134563663553",
@@ -134,10 +136,34 @@
   {
    "author": "Sunny Wang",
    "image_src": "Colpoma_guadueticola_debb9330-5b0e-11f0-852c-e9836719eae5_18.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Colpoma_guadueticola_86869950-7b55-11f0-b35e-9727b3842f40_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Colpoma_guadueticola_86869950-7b55-11f0-b35e-9727b3842f40_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Colpoma_guadueticola_86869950-7b55-11f0-b35e-9727b3842f40_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Colpoma_guadueticola_86869950-7b55-11f0-b35e-9727b3842f40_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Colpoma_guadueticola_86869950-7b55-11f0-b35e-9727b3842f40_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Colpoma_guadueticola_86869950-7b55-11f0-b35e-9727b3842f40_6.jpg"
   }
  ],
  "names_zhcn": [
-  "刺竹弯壳菌"
+  "竹生弯壳菌"
  ],
  "meta": {
   "CapColors": "4294967040",
@@ -175,5 +201,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

@@ -2,13 +2,19 @@
  "name": "Cubamyces",
  "zhtw": "栓孔菌屬",
  "zhcn": "栓孔菌属",
- "timestamp": "20250803-202353",
+ "timestamp": "20250818-204646",
  "list": [
   {
    "name": "Cubamyces lactineus",
    "zhtw": "奶油栓孔菌",
    "zhcn": "奶油栓孔菌",
    "img": "Cubamyces_lactineus_a0cbeaa0-a8a6-11ee-b72f-dd5beb294dba_1.jpg"
+  },
+  {
+   "name": "Cubamyces menziesii",
+   "zhtw": "粉灰栓孔菌",
+   "zhcn": "粉灰栓孔菌",
+   "img": "Cubamyces_menziesii_5ddee680-7b4e-11f0-82e5-db829d3cb073_1.jpg"
   }
  ]
 }

@@ -2,6 +2,7 @@
  "genus": "Trichocoma",
  "name": "paradoxa",
  "date": [
+  "07/02/2025,24135917046092066",
   "08/04/2024,7793882427388787",
   "03/09/2024,7112507372192966",
   "02/12/2024,6969587663151605",
@@ -267,6 +268,30 @@
   {
    "author": "姜淋友",
    "image_src": "Trichocoma_paradoxa_0f243d80-5501-10cc-9c3a-cba3c64f9250_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Trichocoma_paradoxa_c001deb0-7b55-11f0-b35e-9727b3842f40_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Trichocoma_paradoxa_c001deb0-7b55-11f0-b35e-9727b3842f40_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Trichocoma_paradoxa_c001deb0-7b55-11f0-b35e-9727b3842f40_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Trichocoma_paradoxa_c001deb0-7b55-11f0-b35e-9727b3842f40_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Trichocoma_paradoxa_c001deb0-7b55-11f0-b35e-9727b3842f40_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Trichocoma_paradoxa_c001deb0-7b55-11f0-b35e-9727b3842f40_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -315,5 +340,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/167102603/thumb.jpg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

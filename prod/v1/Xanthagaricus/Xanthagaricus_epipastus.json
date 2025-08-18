@@ -2,6 +2,7 @@
  "genus": "Xanthagaricus",
  "name": "epipastus",
  "date": [
+  "07/31/2025,24037891795894592",
   "08/15/2024,7906841922759503",
   "05/12/2024,7345872992189735",
   "08/14/2023,6294881683955543",
@@ -133,6 +134,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Xanthagaricus_epipastus_d75608b0-6220-11ef-8f02-69e3d7fe61d6_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_epipastus_7f2502a0-71fa-11f0-a8a2-7b62d8e024ed_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_epipastus_7f2502a0-71fa-11f0-a8a2-7b62d8e024ed_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_epipastus_7f2502a0-71fa-11f0-a8a2-7b62d8e024ed_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_epipastus_7f2502a0-71fa-11f0-a8a2-7b62d8e024ed_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_epipastus_7f2502a0-71fa-11f0-a8a2-7b62d8e024ed_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -173,5 +194,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250803-202353"
+ "inaturalist": [
+  {
+   "name": "Xanthagaricus epipastus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1599017-Xanthagaricus-epipastus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/444252063/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20250818-204646"
 }

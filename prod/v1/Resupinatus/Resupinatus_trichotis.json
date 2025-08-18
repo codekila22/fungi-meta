@@ -2,6 +2,7 @@
  "genus": "Resupinatus",
  "name": "trichotis",
  "date": [
+  "07/31/2025,24143381212012316",
   "03/15/2025,9212406382203044",
   "02/09/2024,6980373952072976",
   "12/18/2023,6763878500389190",
@@ -266,6 +267,38 @@
   {
    "author": "Sunny Wang",
    "image_src": "Resupinatus_trichotis_79d58850-03b0-11f0-b673-ad8d19602dcb_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Resupinatus_trichotis_ebbe66a0-7be0-11f0-a87a-57f6dba64b14_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Resupinatus_trichotis_ebbe66a0-7be0-11f0-a87a-57f6dba64b14_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Resupinatus_trichotis_ebbe66a0-7be0-11f0-a87a-57f6dba64b14_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Resupinatus_trichotis_ebbe66a0-7be0-11f0-a87a-57f6dba64b14_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Resupinatus_trichotis_ebbe66a0-7be0-11f0-a87a-57f6dba64b14_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Resupinatus_trichotis_ebbe66a0-7be0-11f0-a87a-57f6dba64b14_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Resupinatus_trichotis_ebbe66a0-7be0-11f0-a87a-57f6dba64b14_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Resupinatus_trichotis_ebbe66a0-7be0-11f0-a87a-57f6dba64b14_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -315,5 +348,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/72349864/thumb.jpg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

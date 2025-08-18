@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "macrocarpa",
  "date": [
+  "08/04/2025,24036483679368737",
   "10/15/2024,8331322473644777",
   "08/11/2021,4056611217782612"
  ],
@@ -138,6 +139,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_macrocarpa_b6efc2a0-8b9c-11ef-8d51-fbbb1d8dc390_22.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_ac59e920-738a-11f0-82e6-1b5c814dbf37_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_ac59e920-738a-11f0-82e6-1b5c814dbf37_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_ac59e920-738a-11f0-82e6-1b5c814dbf37_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_ac59e920-738a-11f0-82e6-1b5c814dbf37_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_ac59e920-738a-11f0-82e6-1b5c814dbf37_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_ac59e920-738a-11f0-82e6-1b5c814dbf37_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -187,5 +212,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5643586/thumb.png"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

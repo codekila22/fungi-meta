@@ -2,6 +2,7 @@
  "genus": "Lentinellus",
  "name": "pulvinulus",
  "date": [
+  "07/31/2025,24023896600627445",
   "06/01/2025,9819918021451874",
   "09/15/2024,8091338687643158",
   "08/22/2024,8014886948621666",
@@ -224,6 +225,26 @@
   {
    "author": "江志緯",
    "image_src": "Lentinellus_pulvinulus_38c63840-445c-11f0-8795-63a4edb6a7ae_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinellus_pulvinulus_32f9fbb0-70c4-11f0-8056-7bad09c2b664_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinellus_pulvinulus_32f9fbb0-70c4-11f0-8056-7bad09c2b664_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinellus_pulvinulus_32f9fbb0-70c4-11f0-8056-7bad09c2b664_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinellus_pulvinulus_32f9fbb0-70c4-11f0-8056-7bad09c2b664_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinellus_pulvinulus_32f9fbb0-70c4-11f0-8056-7bad09c2b664_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -278,5 +299,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37213114/thumb.jpg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

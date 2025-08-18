@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "gerardii",
  "date": [
+  "08/08/2025,24084541224562982",
   "06/21/2024,7538155972961435",
   "08/19/2023,6311572722286439",
   "07/20/2022,5095222567254800",
@@ -117,6 +118,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_gerardii_27d80cd0-3106-11ef-98a3-29317f2be7ef_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_gerardii_6a03fd70-7b4d-11f0-82e5-db829d3cb073_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_gerardii_6a03fd70-7b4d-11f0-82e5-db829d3cb073_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_gerardii_6a03fd70-7b4d-11f0-82e5-db829d3cb073_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_gerardii_6a03fd70-7b4d-11f0-82e5-db829d3cb073_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_gerardii_6a03fd70-7b4d-11f0-82e5-db829d3cb073_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_gerardii_6a03fd70-7b4d-11f0-82e5-db829d3cb073_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -177,5 +202,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8967707/thumb.jpeg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

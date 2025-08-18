@@ -2,6 +2,7 @@
  "genus": "Microglossum",
  "name": "rufum",
  "date": [
+  "08/12/2025,24102973589386412",
   "09/13/2023,6399255546851489",
   "09/13/2023,8813855272058159",
   "07/07/2021,4036895663087501"
@@ -123,6 +124,26 @@
   {
    "author": "向高世",
    "image_src": "Microglossum_rufum_ca0b86f0-cdc1-11ef-aff5-33fb89909b6f_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Microglossum_rufum_60b5e100-7b5e-11f0-8972-a3809683156e_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Microglossum_rufum_60b5e100-7b5e-11f0-8972-a3809683156e_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Microglossum_rufum_60b5e100-7b5e-11f0-8972-a3809683156e_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Microglossum_rufum_60b5e100-7b5e-11f0-8972-a3809683156e_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Microglossum_rufum_60b5e100-7b5e-11f0-8972-a3809683156e_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -171,5 +192,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/408148/thumb.jpg"
   }
  ],
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }

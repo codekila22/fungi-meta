@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "comata",
  "date": [
+  "08/11/2025,24128736830143421",
   "08/25/2024,7912521698858192",
   "07/15/2020,3040112312765846"
  ],
@@ -66,6 +67,22 @@
   {
    "author": "林雪",
    "image_src": "Mycena_comata_3cb99490-62e6-11ef-8fb1-614f68c71ea9_5.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Mycena_comata_22be34e0-7b56-11f0-b35e-9727b3842f40_1.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Mycena_comata_22be34e0-7b56-11f0-b35e-9727b3842f40_2.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Mycena_comata_22be34e0-7b56-11f0-b35e-9727b3842f40_3.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Mycena_comata_22be34e0-7b56-11f0-b35e-9727b3842f40_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -109,5 +126,5 @@
   "la_zhtw": ",,",
   "la_zhcn": ",,"
  },
- "timestamp": "20250803-202353"
+ "timestamp": "20250818-204646"
 }
