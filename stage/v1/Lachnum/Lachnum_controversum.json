@@ -2,6 +2,7 @@
  "genus": "Lachnum",
  "name": "controversum",
  "date": [
+  "08/22/2025,24199739159709854",
   "05/31/2025,9803609309749412",
   "11/10/2023,6700156883428019",
   "06/05/2023,6057057554404625",
@@ -186,6 +187,22 @@
   {
    "author": "江志緯",
    "image_src": "Lachnum_controversum_527ab120-4381-11f0-8f29-272113d1af0c_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lachnum_controversum_81333870-832d-11f0-bfe3-49188ef14e10_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lachnum_controversum_81333870-832d-11f0-bfe3-49188ef14e10_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lachnum_controversum_81333870-832d-11f0-bfe3-49188ef14e10_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lachnum_controversum_81333870-832d-11f0-bfe3-49188ef14e10_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -234,5 +251,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249474758/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250828-193333"
 }

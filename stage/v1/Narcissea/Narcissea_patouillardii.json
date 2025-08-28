@@ -14,6 +14,7 @@
   }
  ],
  "date": [
+  "08/12/2025,24103999275950510",
   "01/02/2025,8784083098368710",
   "06/24/2024,7552121974898168",
   "05/07/2023,5954820541294994",
@@ -267,6 +268,46 @@
   {
    "author": "陳麗紅",
    "image_src": "Narcissea_patouillardii_0b19b450-c908-11ef-a68d-83ec9d052942_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_patouillardii_4dbd42b0-7cb1-11f0-a0fc-9b0509eca373_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_patouillardii_4dbd42b0-7cb1-11f0-a0fc-9b0509eca373_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_patouillardii_4dbd42b0-7cb1-11f0-a0fc-9b0509eca373_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_patouillardii_4dbd42b0-7cb1-11f0-a0fc-9b0509eca373_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_patouillardii_4dbd42b0-7cb1-11f0-a0fc-9b0509eca373_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_patouillardii_4dbd42b0-7cb1-11f0-a0fc-9b0509eca373_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_patouillardii_4dbd42b0-7cb1-11f0-a0fc-9b0509eca373_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_patouillardii_4dbd42b0-7cb1-11f0-a0fc-9b0509eca373_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_patouillardii_4dbd42b0-7cb1-11f0-a0fc-9b0509eca373_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_patouillardii_4dbd42b0-7cb1-11f0-a0fc-9b0509eca373_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -287,13 +328,14 @@
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
-  "StalkTexture": "",
+  "StalkTexture": "smooth",
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "singly,scattered,grouped",
@@ -303,9 +345,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Coprinopsis cortinata,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "絲膜擬鬼傘,,",
+  "la_zhcn": "丝膜拟鬼伞,,"
  },
  "inaturalist": [
   {
@@ -315,5 +359,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27961653/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250828-193333"
 }

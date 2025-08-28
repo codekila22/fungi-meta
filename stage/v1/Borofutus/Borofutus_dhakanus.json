@@ -2,6 +2,7 @@
  "genus": "Borofutus",
  "name": "dhakanus",
  "date": [
+  "08/16/2025,24188063974210706",
   "07/15/2025,23940982128918893",
   "07/13/2025,10096146360495704",
   "08/17/2023,6311808398929538",
@@ -111,6 +112,18 @@
   {
    "author": "何俊霖",
    "image_src": "Borofutus_dhakanus_a7d3ec90-6f3c-11f0-b052-73a2750b79b2_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Borofutus_dhakanus_68630d30-8228-11f0-a2ca-615d66c0f34b_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Borofutus_dhakanus_68630d30-8228-11f0-a2ca-615d66c0f34b_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Borofutus_dhakanus_68630d30-8228-11f0-a2ca-615d66c0f34b_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -160,5 +173,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/81557838/thumb.jpeg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250828-193333"
 }

@@ -14,6 +14,7 @@
   }
  ],
  "date": [
+  "08/05/2025,24163847016632402",
   "06/13/2025,9874297549347254",
   "08/23/2024,7900974236679605",
   "07/06/2024,7625834937526871",
@@ -224,6 +225,10 @@
   {
    "author": "陳中城",
    "image_src": "Tapinella_atrotomentosa_1e9c02f0-fcbe-1078-a496-25ba8b7abd9a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tapinella_atrotomentosa_308c3c30-817c-11f0-bbb8-31dd7322eb15_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -273,5 +278,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27334337/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250828-193333"
 }
