@@ -2,7 +2,7 @@
  "name": "Lactarius",
  "zhtw": "乳菇屬",
  "zhcn": "乳菇属",
- "timestamp": "20250909-213039",
+ "timestamp": "20250910-065126",
  "list": [
   {
    "name": "Lactarius aff. scrobiculatus",
@@ -62,6 +62,9 @@
    "name": "Lactarius glaucescens",
    "zhtw": "白辣乳菇青綠變種",
    "zhcn": "白辣乳菇青绿变种",
+   "current": "Lactifluus glaucescens",
+   "current_zhtw": "灰白多汁乳菇",
+   "current_zhcn": "灰白多汁乳菇",
    "img": "Lactarius_glaucescens_d8dd34b0-8d49-11f0-9bd0-f5d38e147848_1.jpg"
   },
   {
@@ -104,9 +107,9 @@
    "name": "Lactarius pieratus var. glaucescens",
    "zhtw": "白辣乳菇青綠變種",
    "zhcn": "白辣乳菇青绿变种",
-   "current": "Lactarius glaucescens",
-   "current_zhtw": "白辣乳菇青綠變種",
-   "current_zhcn": "白辣乳菇青绿变种",
+   "current": "Lactifluus glaucescens",
+   "current_zhtw": "灰白多汁乳菇",
+   "current_zhcn": "灰白多汁乳菇",
    "img": "Lactarius_glaucescens_d8dd34b0-8d49-11f0-9bd0-f5d38e147848_1.jpg"
   },
   {
