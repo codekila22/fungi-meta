@@ -2,6 +2,7 @@
  "genus": "Stemonitopsis",
  "name": "gracilis",
  "date": [
+  "08/18/2025,24169371952746575",
   "03/03/2025,9146167345493615"
  ],
  "names_zhtw": [
@@ -93,6 +94,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Stemonitopsis_gracilis_7683d160-fcc2-11ef-8f00-294a0a0cba48_21.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_gracilis_705b2220-8d31-11f0-bf43-5d0ebef1c3f3_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_gracilis_705b2220-8d31-11f0-bf43-5d0ebef1c3f3_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_gracilis_705b2220-8d31-11f0-bf43-5d0ebef1c3f3_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitopsis_gracilis_705b2220-8d31-11f0-bf43-5d0ebef1c3f3_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -131,7 +148,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "非常迷你的黏菌，高度不到 2.5 mm，柄長約佔整體四分之一到三分之一，黑色，不具透明外膜，周皮不宿存，細毛體形成表面網，孢子在光學顯微鏡下色淺，具微小疣刺狀凸起，直徑約 5-7 μm。"
  },
  "inaturalist": [
   {
@@ -141,5 +158,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109957367/thumb.jpeg"
   }
  ],
- "timestamp": "20250828-193333"
+ "timestamp": "20250909-213039"
 }

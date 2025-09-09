@@ -2,7 +2,7 @@
  "name": "Russula",
  "zhtw": "紅菇屬",
  "zhcn": "红菇属",
- "timestamp": "20250828-193333",
+ "timestamp": "20250909-213039",
  "list": [
   {
    "name": "Russula adusta",
@@ -117,6 +117,12 @@
    "zhtw": "密褶紅菇",
    "zhcn": "密褶红菇",
    "img": "Russula_densifolia_4fc8fd10-6763-11ef-83b1-c16b9f587388_1.jpg"
+  },
+  {
+   "name": "Russula eburneoareolata",
+   "zhtw": "象牙黃斑紅菇",
+   "zhcn": "象牙黄斑红菇",
+   "img": "Russula_eburneoareolata_016c5010-8d49-11f0-9bd0-f5d38e147848_1.jpg"
   },
   {
    "name": "Russula elegans",

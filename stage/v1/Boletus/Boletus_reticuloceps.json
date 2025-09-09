@@ -2,6 +2,7 @@
  "genus": "Boletus",
  "name": "reticuloceps",
  "date": [
+  "08/28/2025,24250075121342924",
   "06/11/2025,9857857464324596",
   "06/22/2024,7547702062006826",
   "10/31/2023,6587188551391520",
@@ -172,6 +173,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Boletus_reticuloceps_db524cd0-48c0-11f0-9677-91463f7ed449_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_reticuloceps_81d58590-8d36-11f0-9bd0-f5d38e147848_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_reticuloceps_81d58590-8d36-11f0-9bd0-f5d38e147848_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_reticuloceps_81d58590-8d36-11f0-9bd0-f5d38e147848_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_reticuloceps_81d58590-8d36-11f0-9bd0-f5d38e147848_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -221,5 +238,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/238215162/thumb.jpg"
   }
  ],
- "timestamp": "20250828-193333"
+ "timestamp": "20250909-213039"
 }

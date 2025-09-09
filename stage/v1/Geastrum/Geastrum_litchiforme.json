@@ -4,7 +4,8 @@
  "date": [
   "09/08/2024,8003995389710822",
   "12/08/2021,4398940576883006",
-  "06/26/2021,3899854363458299"
+  "06/26/2021,3899854363458299",
+  "10/24/2020,24187720497578387"
  ],
  "names_zhtw": [
   "荔枝地星"
@@ -91,6 +92,30 @@
   {
    "author": "何俊霖",
    "image_src": "Geastrum_litchiforme_98d91e70-6e36-11ef-b619-9db3a5b062ec_9.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Geastrum_litchiforme_85c10d10-8d35-11f0-9bd0-f5d38e147848_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Geastrum_litchiforme_85c10d10-8d35-11f0-9bd0-f5d38e147848_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Geastrum_litchiforme_85c10d10-8d35-11f0-9bd0-f5d38e147848_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Geastrum_litchiforme_85c10d10-8d35-11f0-9bd0-f5d38e147848_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Geastrum_litchiforme_85c10d10-8d35-11f0-9bd0-f5d38e147848_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Geastrum_litchiforme_85c10d10-8d35-11f0-9bd0-f5d38e147848_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -140,5 +165,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155825317/thumb.jpg"
   }
  ],
- "timestamp": "20250828-193333"
+ "timestamp": "20250909-213039"
 }

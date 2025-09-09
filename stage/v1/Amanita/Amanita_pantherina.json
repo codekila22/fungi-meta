@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "pantherina",
  "date": [
+  "08/28/2025,24267301366286966",
   "07/07/2024,7695110990599265",
   "07/06/2024,7631548390288859",
   "06/27/2023,6137017396408640",
@@ -173,6 +174,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_pantherina_ba933b00-216a-109f-939f-edc52ea51b88_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_pantherina_732e20d0-8d48-11f0-9bd0-f5d38e147848_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_pantherina_732e20d0-8d48-11f0-9bd0-f5d38e147848_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_pantherina_732e20d0-8d48-11f0-9bd0-f5d38e147848_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -245,5 +258,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250828-193333"
+ "timestamp": "20250909-213039"
 }

@@ -25,7 +25,8 @@
   "07/27/2020,2962322850544793",
   "07/25/2020,2956019801175098",
   "07/18/2020,2937086429735102",
-  "07/15/2020,2985207244923020"
+  "07/15/2020,2985207244923020",
+  "10/08/2017,2746620772115003"
  ],
  "names_zhtw": [
   "潤滑錘舌菌"
@@ -158,6 +159,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Leotia_lubrica_e451ae40-606f-11f0-a42b-51e3c19f6b36_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leotia_lubrica_0e33c380-8d32-11f0-bf43-5d0ebef1c3f3_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leotia_lubrica_0e33c380-8d32-11f0-bf43-5d0ebef1c3f3_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leotia_lubrica_0e33c380-8d32-11f0-bf43-5d0ebef1c3f3_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -206,5 +219,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254164000/thumb.jpg"
   }
  ],
- "timestamp": "20250828-193333"
+ "timestamp": "20250909-213039"
 }

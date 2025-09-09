@@ -2,6 +2,7 @@
  "genus": "Chrysomphalina",
  "name": "grossula",
  "date": [
+  "08/15/2025,24200091379674632",
   "07/26/2025,23964560093227763",
   "11/24/2024,8572417962868559",
   "09/06/2024,7982921388484889",
@@ -335,6 +336,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Chrysomphalina_grossula_a5973870-6f3b-11f0-9e8b-add94e4adc65_13.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Chrysomphalina_grossula_83fd9d10-8d33-11f0-bf43-5d0ebef1c3f3_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Chrysomphalina_grossula_83fd9d10-8d33-11f0-bf43-5d0ebef1c3f3_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Chrysomphalina_grossula_83fd9d10-8d33-11f0-bf43-5d0ebef1c3f3_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -383,5 +396,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4482547/thumb.jpg"
   }
  ],
- "timestamp": "20250828-193333"
+ "timestamp": "20250909-213039"
 }

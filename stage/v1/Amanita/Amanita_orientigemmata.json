@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "orientigemmata",
  "date": [
+  "08/29/2025,24267535799596856",
   "06/29/2024,7611023099008055",
   "10/22/2022,9150757491701267",
   "08/15/2021,4066881036755630",
@@ -93,6 +94,34 @@
   {
    "author": "蔡古媧",
    "image_src": "Amanita_orientigemmata_cc0d1880-fcc2-11ef-a313-e5fc9eb91f49_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_c2c8dda0-872c-11f0-b9c4-6d1b977db608_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_c2c8dda0-872c-11f0-b9c4-6d1b977db608_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_c2c8dda0-872c-11f0-b9c4-6d1b977db608_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_c2c8dda0-872c-11f0-b9c4-6d1b977db608_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_c2c8dda0-872c-11f0-b9c4-6d1b977db608_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_c2c8dda0-872c-11f0-b9c4-6d1b977db608_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_c2c8dda0-872c-11f0-b9c4-6d1b977db608_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -144,5 +173,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155081163/thumb.jpg"
   }
  ],
- "timestamp": "20250828-193333"
+ "timestamp": "20250909-213039"
 }

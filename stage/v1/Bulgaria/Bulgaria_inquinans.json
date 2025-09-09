@@ -2,14 +2,31 @@
  "genus": "Bulgaria",
  "name": "inquinans",
  "date": [
-  "01/01/0001"
+  "08/01/2020,24185693984447705"
  ],
  "names_zhtw": [
-  "污膠陀螺菌"
+  "污膠陀螺菌",
+  "污膠鼓菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/2736",
+ "url": "24185693984447705",
  "images": [
+  {
+   "author": "向高世",
+   "image_src": "Bulgaria_inquinans_d37552f0-8d35-11f0-9bd0-f5d38e147848_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Bulgaria_inquinans_d37552f0-8d35-11f0-9bd0-f5d38e147848_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Bulgaria_inquinans_d37552f0-8d35-11f0-9bd0-f5d38e147848_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Bulgaria_inquinans_d37552f0-8d35-11f0-9bd0-f5d38e147848_4.jpg"
+  },
   {
    "author": "柯文俊",
    "image_src": "Bulgaria_inquinans_1_CC BY-NC_柯文俊.jpg"
@@ -68,7 +85,8 @@
   }
  ],
  "names_zhcn": [
-  "污胶陀螺菌"
+  "污胶陀螺菌",
+  "污胶鼓菌"
  ],
  "meta": {
   "CapColors": "4283250944",
@@ -113,5 +131,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/154265/thumb.jpg"
   }
  ],
- "timestamp": "20250828-193333"
+ "timestamp": "20250909-213039"
 }

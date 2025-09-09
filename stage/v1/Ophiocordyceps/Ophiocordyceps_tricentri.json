@@ -2,13 +2,14 @@
  "genus": "Ophiocordyceps",
  "name": "tricentri",
  "date": [
-  "01/01/0001"
+  "08/12/2021,24327394876944281"
  ],
  "names_zhtw": [
-  "沫蟬蛇形蟲草"
+  "沫蟬蛇形蟲草",
+  "沫蟬蟲草"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/4709",
+ "url": "24327394876944281",
  "images": [
   {
    "author": "林進福",
@@ -37,10 +38,31 @@
   {
    "author": "林進福",
    "image_src": "Ophiocordyceps_tricentri_7_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ophiocordyceps_tricentri_3e09d220-8d4b-11f0-9bd0-f5d38e147848_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ophiocordyceps_tricentri_3e09d220-8d4b-11f0-9bd0-f5d38e147848_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ophiocordyceps_tricentri_3e09d220-8d4b-11f0-9bd0-f5d38e147848_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ophiocordyceps_tricentri_3e09d220-8d4b-11f0-9bd0-f5d38e147848_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ophiocordyceps_tricentri_3e09d220-8d4b-11f0-9bd0-f5d38e147848_5.jpg"
   }
  ],
  "names_zhcn": [
-  "沫蝉蛇形虫草"
+  "沫蝉蛇形虫草",
+  "沫蝉虫草"
  ],
  "meta": {
   "CapColors": "4294956800",
@@ -84,5 +106,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250828-193333"
+ "timestamp": "20250909-213039"
 }

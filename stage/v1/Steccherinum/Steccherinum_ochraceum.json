@@ -2,6 +2,7 @@
  "genus": "Steccherinum",
  "name": "ochraceum",
  "date": [
+  "08/15/2025,24274998758850560",
   "06/12/2025,9914028785374130",
   "02/21/2025,9108117592631924",
   "01/30/2024,6925678364209202",
@@ -188,6 +189,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Steccherinum_ochraceum_034a14e0-4e8c-11f0-a473-919fe6325f95_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Steccherinum_ochraceum_d2d264a0-8781-11f0-802c-838edd65b413_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Steccherinum_ochraceum_d2d264a0-8781-11f0-802c-838edd65b413_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Steccherinum_ochraceum_d2d264a0-8781-11f0-802c-838edd65b413_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -237,5 +250,5 @@
    "src": "https://static.inaturalist.org/photos/59335984/thumb.jpeg"
   }
  ],
- "timestamp": "20250828-193333"
+ "timestamp": "20250909-213039"
 }
