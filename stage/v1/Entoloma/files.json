@@ -2,7 +2,7 @@
  "name": "Entoloma",
  "zhtw": "粉褶菌屬",
  "zhcn": "粉褶菌属",
- "timestamp": "20250914-133759",
+ "timestamp": "20250914-193953",
  "list": [
   {
    "name": "Entoloma aff. quadratum",
@@ -192,6 +192,12 @@
    "zhtw": "喇叭狀粉褶菌",
    "zhcn": "喇叭状粉褶菌",
    "img": "Entoloma_tubaeforme_1_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "name": "Entoloma violaceum",
+   "zhtw": "紫粉褶菌",
+   "zhcn": "紫粉褶菌",
+   "img": "Entoloma_violaceum_d0081480-915a-11f0-a722-dbd522113551_1.jpg"
   },
   {
    "name": "Entoloma virescens",

@@ -2,6 +2,7 @@
  "genus": "Arcyria",
  "name": "cinerea",
  "date": [
+  "09/13/2025,24382517728098662",
   "08/25/2024,7911978328912529",
   "06/28/2024,7965656456878049",
   "05/05/2024,7343518342425200",
@@ -310,6 +311,26 @@
   {
    "author": "江志緯",
    "image_src": "Arcyria_cinerea_894e90c0-69d6-11ef-bad6-f31ba3bd26f9_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_cinerea_cddcbe20-915c-11f0-a722-dbd522113551_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_cinerea_cddcbe20-915c-11f0-a722-dbd522113551_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_cinerea_cddcbe20-915c-11f0-a722-dbd522113551_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_cinerea_cddcbe20-915c-11f0-a722-dbd522113551_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Arcyria_cinerea_cddcbe20-915c-11f0-a722-dbd522113551_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -358,5 +379,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11061/thumb.jpg"
   }
  ],
- "timestamp": "20250914-133759"
+ "timestamp": "20250914-193953"
 }

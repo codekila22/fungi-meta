@@ -2,13 +2,17 @@
  "genus": "Peltigera",
  "name": "neopolydactyla",
  "date": [
-  "12/01/2022"
+  "09/13/2025,24383761364640965",
+  "01/01/2023,5560034454106940",
+  "02/08/2021,3502290089881397",
+  "01/27/2018,1461031464007280",
+  "03/29/2015,723819781061789"
  ],
  "names_zhtw": [
   "長根地卷"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/1596",
+ "url": "24383761364640965",
  "images": [
   {
    "author": "陳麗紅",
@@ -41,6 +45,22 @@
   {
    "author": "柯文俊",
    "image_src": "Peltigera_neopolydactyla_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_neopolydactyla_8601c600-915b-11f0-a722-dbd522113551_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_neopolydactyla_8601c600-915b-11f0-a722-dbd522113551_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_neopolydactyla_8601c600-915b-11f0-a722-dbd522113551_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Peltigera_neopolydactyla_8601c600-915b-11f0-a722-dbd522113551_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -89,5 +109,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/194071/thumb.jpg"
   }
  ],
- "timestamp": "20250914-133759"
+ "timestamp": "20250914-193953"
 }

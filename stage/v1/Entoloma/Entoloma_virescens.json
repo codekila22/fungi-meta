@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "virescens",
  "date": [
+  "09/14/2025,24383811214635980",
   "08/18/2024,7880318922078470",
   "08/09/2024,7827303270713369",
   "07/21/2024,7704287613014936",
@@ -185,6 +186,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Entoloma_virescens_17426600-a425-10f8-98fc-09c8508e62a0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_virescens_ca2f74f0-9159-11f0-9f8d-e7e87569eb41_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_virescens_ca2f74f0-9159-11f0-9f8d-e7e87569eb41_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_virescens_ca2f74f0-9159-11f0-9f8d-e7e87569eb41_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_virescens_ca2f74f0-9159-11f0-9f8d-e7e87569eb41_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_virescens_ca2f74f0-9159-11f0-9f8d-e7e87569eb41_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -237,5 +258,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176090463/thumb.jpeg"
   }
  ],
- "timestamp": "20250914-133759"
+ "timestamp": "20250914-193953"
 }
