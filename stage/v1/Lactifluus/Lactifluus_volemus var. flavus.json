@@ -1,0 +1,99 @@
+{
+ "genus": "Lactifluus",
+ "name": "volemus var. flavus",
+ "date": [
+  "08/11/2025,24317111141305988"
+ ],
+ "names_zhtw": [
+  "多汁乳菇黃色變種"
+ ],
+ "names_en": [],
+ "url": "24317111141305988",
+ "images": [
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_volemus var. flavus_f3c64900-8d4a-11f0-9bd0-f5d38e147848_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_volemus var. flavus_f3c64900-8d4a-11f0-9bd0-f5d38e147848_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_volemus var. flavus_f3c64900-8d4a-11f0-9bd0-f5d38e147848_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_volemus var. flavus_f3c64900-8d4a-11f0-9bd0-f5d38e147848_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_volemus var. flavus_f3c64900-8d4a-11f0-9bd0-f5d38e147848_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_volemus var. flavus_f3c64900-8d4a-11f0-9bd0-f5d38e147848_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactarius_volemus var. flavus_f3c64900-8d4a-11f0-9bd0-f5d38e147848_7.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Lactarius volemus var. flavus",
+   "zhtw": "多汁乳菇黃色變種",
+   "zhcn": "多汁乳菇黄色变种"
+  }
+ ],
+ "names_zhcn": [
+  "多汁乳菇黄色变种"
+ ],
+ "meta": {
+  "CapColors": "4294967040",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Lactifluus volemus,,",
+  "Note": "",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "多汁乳菇,,",
+  "la_zhcn": "多汁乳菇,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Lactarius volemus var. flavus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/790319-Lactarius-volemus-flavus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13065706/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20250914-133759"
+}
