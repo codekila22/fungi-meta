@@ -2,7 +2,7 @@
  "name": "Agaricus",
  "zhtw": "蘑菇屬",
  "zhcn": "蘑菇属",
- "timestamp": "20250818-204646",
+ "timestamp": "20250914-111054",
  "list": [
   {
    "name": "Agaricus abruptibulbus",
@@ -21,6 +21,12 @@
    "zhtw": "大紫蘑菇",
    "zhcn": "大紫蘑菇",
    "img": "Agaricus_augustus_4_CC BY-NC_Rachel Ding.jpg"
+  },
+  {
+   "name": "Agaricus bernardii",
+   "zhtw": "白鱗蘑菇",
+   "zhcn": "白鳞蘑菇",
+   "img": "Agaricus_bernardii_ca238cf0-8e0a-11f0-8e6a-e72abec8454e_1.jpg"
   },
   {
    "name": "Agaricus bresadolanus",
@@ -71,6 +77,12 @@
    "img": "Agaricus_flocculosipes_c5a1bee0-17ac-10c6-a254-93fc4ec39761_1.jpg"
   },
   {
+   "name": "Agaricus lanipes",
+   "zhtw": "錦合蘑菇",
+   "zhcn": "锦合蘑菇",
+   "img": "Agaricus_lanipes_6c3015c0-9105-11f0-a402-47ccd6b69d94_1.jpg"
+  },
+  {
    "name": "Agaricus moelleri",
    "zhtw": "細褐鱗蘑菇",
    "zhcn": "细褐鳞蘑菇",
@@ -96,6 +108,12 @@
    "zhtw": "輪轉蘑菇",
    "zhcn": "轮转蘑菇",
    "img": "Agaricus_rotalis_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Agaricus shenzhenensis",
+   "zhtw": "深圳蘑菇",
+   "zhcn": "深圳蘑菇",
+   "img": "Agaricus_shenzhenensis_2b948b10-9103-11f0-a402-47ccd6b69d94_1.jpg"
   },
   {
    "name": "Agaricus silvaticus",

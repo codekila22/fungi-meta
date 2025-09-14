@@ -111,9 +111,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "spicy",
-  "LookAlikes": "",
+  "LookAlikes": "Lactifluus glaucescens,,",
   "Note": "",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "灰白多汁乳菇,,",
+  "la_zhcn": "灰白多汁乳菇,,"
  },
  "inaturalist": [
   {
@@ -123,5 +125,5 @@
    "src": "https://static.inaturalist.org/photos/32834443/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

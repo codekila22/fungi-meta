@@ -2,6 +2,7 @@
  "genus": "Cordyceps",
  "name": "formosana",
  "date": [
+  "08/18/2025,24160943813589389",
   "07/08/2025,10053068894803451",
   "06/28/2025,9975424062567935",
   "10/20/2024,8468705006573189",
@@ -258,6 +259,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Cordyceps_formosana_8a476ed0-5c7d-11f0-b29e-af6a7690e9a2_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cordyceps_formosana_1508efd0-7cfe-11f0-a0fc-9b0509eca373_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cordyceps_formosana_1508efd0-7cfe-11f0-a0fc-9b0509eca373_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cordyceps_formosana_1508efd0-7cfe-11f0-a0fc-9b0509eca373_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cordyceps_formosana_1508efd0-7cfe-11f0-a0fc-9b0509eca373_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -306,5 +323,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5756776/thumb.jpeg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

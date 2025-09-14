@@ -2,7 +2,7 @@
  "name": "Lactarius",
  "zhtw": "乳菇屬",
  "zhcn": "乳菇属",
- "timestamp": "20250818-204646",
+ "timestamp": "20250914-111054",
  "list": [
   {
    "name": "Lactarius aff. scrobiculatus",
@@ -59,6 +59,15 @@
    "img": "Lactarius_gerardii_1_CC BY-NC_向高世.jpg"
   },
   {
+   "name": "Lactarius glaucescens",
+   "zhtw": "白辣乳菇青綠變種",
+   "zhcn": "白辣乳菇青绿变种",
+   "current": "Lactifluus glaucescens",
+   "current_zhtw": "灰白多汁乳菇",
+   "current_zhcn": "灰白多汁乳菇",
+   "img": "Lactarius_glaucescens_d8dd34b0-8d49-11f0-9bd0-f5d38e147848_1.jpg"
+  },
+  {
    "name": "Lactarius gracilis",
    "zhtw": "纖細乳菇",
    "zhcn": "纤细乳菇",
@@ -93,6 +102,15 @@
    "zhtw": "褐褶緣黑乳菇",
    "zhcn": "褐褶缘黑乳菇",
    "img": "Lactarius_lignyotus var. marginatus_a4ad2f50-5b3d-11ee-a8c2-61f121e6a109_1.jpg"
+  },
+  {
+   "name": "Lactarius pieratus var. glaucescens",
+   "zhtw": "白辣乳菇青綠變種",
+   "zhcn": "白辣乳菇青绿变种",
+   "current": "Lactifluus glaucescens",
+   "current_zhtw": "灰白多汁乳菇",
+   "current_zhcn": "灰白多汁乳菇",
+   "img": "Lactarius_glaucescens_d8dd34b0-8d49-11f0-9bd0-f5d38e147848_1.jpg"
   },
   {
    "name": "Lactarius piperatus",
@@ -159,6 +177,15 @@
    "current_zhtw": "多汁乳菇",
    "current_zhcn": "多汁乳菇",
    "img": "Lactarius_volemus_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Lactarius volemus var. flavus",
+   "zhtw": "多汁乳菇黃色變種",
+   "zhcn": "多汁乳菇黄色变种",
+   "current": "Lactifluus volemus var. flavus",
+   "current_zhtw": "多汁乳菇黃色變種",
+   "current_zhcn": "多汁乳菇黄色变种",
+   "img": "Lactarius_volemus var. flavus_f3c64900-8d4a-11f0-9bd0-f5d38e147848_1.jpg"
   }
  ]
 }

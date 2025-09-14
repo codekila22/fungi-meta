@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "pura",
  "date": [
+  "08/28/2025,24250208731329563",
   "03/29/2024,7177918658985170",
   "10/14/2023,6517656981678011",
   "08/20/2023,6364971643613213",
@@ -252,6 +253,18 @@
   {
    "author": "向高世",
    "image_src": "Mycena_pura_e44cc090-ad57-11ef-994f-a3c4c4575676_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_pura_45505ec0-8d3a-11f0-9bd0-f5d38e147848_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_pura_45505ec0-8d3a-11f0-9bd0-f5d38e147848_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_pura_45505ec0-8d3a-11f0-9bd0-f5d38e147848_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -339,5 +352,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

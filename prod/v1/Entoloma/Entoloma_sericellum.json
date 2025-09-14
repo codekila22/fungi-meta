@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "sericellum",
  "date": [
+  "08/20/2025,24171447769205660",
   "08/26/2024,7923160931127602",
   "08/07/2023,7923160931127602"
  ],
@@ -98,6 +99,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Entoloma_sericellum_82728c40-65f6-11ef-83d8-bf991df02d0e_15.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_sericellum_b83636c0-8d31-11f0-bf43-5d0ebef1c3f3_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_sericellum_b83636c0-8d31-11f0-bf43-5d0ebef1c3f3_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_sericellum_b83636c0-8d31-11f0-bf43-5d0ebef1c3f3_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_sericellum_b83636c0-8d31-11f0-bf43-5d0ebef1c3f3_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_sericellum_b83636c0-8d31-11f0-bf43-5d0ebef1c3f3_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -147,5 +168,5 @@
    "src": "https://static.inaturalist.org/photos/1549920/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

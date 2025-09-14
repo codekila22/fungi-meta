@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "bulbosa",
  "date": [
+  "07/20/2025,24368906989459736",
   "06/30/2023,6148313851945661"
  ],
  "names_zhtw": [
@@ -25,6 +26,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_bulbosa_44c47960-17cf-11ee-ac38-8d2c22bd5c44_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_bulbosa_db58f6b0-9105-11f0-a402-47ccd6b69d94_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_bulbosa_db58f6b0-9105-11f0-a402-47ccd6b69d94_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_bulbosa_db58f6b0-9105-11f0-a402-47ccd6b69d94_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -74,5 +87,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1804684/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

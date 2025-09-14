@@ -2,6 +2,7 @@
  "genus": "Arcyria",
  "name": "minuta",
  "date": [
+  "09/07/2025,24352370271113408",
   "06/01/2025,9909529999157342",
   "07/04/2024,7604467602996938",
   "05/07/2024,7371489206294780",
@@ -493,6 +494,26 @@
   {
    "author": "江志緯",
    "image_src": "Arcyria_minuta_03b125f0-4f4e-11f0-b261-85abdcca2979_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arcyria_minuta_d2ed96f0-9107-11f0-a402-47ccd6b69d94_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arcyria_minuta_d2ed96f0-9107-11f0-a402-47ccd6b69d94_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arcyria_minuta_d2ed96f0-9107-11f0-a402-47ccd6b69d94_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arcyria_minuta_d2ed96f0-9107-11f0-a402-47ccd6b69d94_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arcyria_minuta_d2ed96f0-9107-11f0-a402-47ccd6b69d94_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -541,5 +562,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156404988/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

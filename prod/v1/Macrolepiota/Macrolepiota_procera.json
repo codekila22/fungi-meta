@@ -2,6 +2,7 @@
  "genus": "Macrolepiota",
  "name": "procera",
  "date": [
+  "08/08/2025,24223442027339567",
   "04/12/2025,9377815998995414",
   "10/19/2024,8351841871592837",
   "10/13/2024,8316529728457385",
@@ -339,6 +340,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Macrolepiota_procera_0f6b8190-1841-11f0-beff-85fb2198ae87_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Macrolepiota_procera_10b2b1a0-827b-11f0-890e-55e731d6b923_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Macrolepiota_procera_10b2b1a0-827b-11f0-890e-55e731d6b923_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Macrolepiota_procera_10b2b1a0-827b-11f0-890e-55e731d6b923_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Macrolepiota_procera_10b2b1a0-827b-11f0-890e-55e731d6b923_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Macrolepiota_procera_10b2b1a0-827b-11f0-890e-55e731d6b923_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Macrolepiota_procera_10b2b1a0-827b-11f0-890e-55e731d6b923_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Macrolepiota_procera_10b2b1a0-827b-11f0-890e-55e731d6b923_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Macrolepiota_procera_10b2b1a0-827b-11f0-890e-55e731d6b923_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -394,5 +427,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/232120070/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

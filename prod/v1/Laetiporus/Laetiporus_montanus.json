@@ -2,6 +2,7 @@
  "genus": "Laetiporus",
  "name": "montanus",
  "date": [
+  "08/28/2025,24250037724679997",
   "07/13/2025,10097160030394337",
   "07/09/2024,7638298419613856",
   "08/15/2022,6819824661461240"
@@ -159,6 +160,30 @@
   {
    "author": "林慧美",
    "image_src": "Laetiporus_montanus_66c932e0-7b4f-11f0-82e5-db829d3cb073_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laetiporus_montanus_ac321880-8d36-11f0-9bd0-f5d38e147848_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laetiporus_montanus_ac321880-8d36-11f0-9bd0-f5d38e147848_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laetiporus_montanus_ac321880-8d36-11f0-9bd0-f5d38e147848_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laetiporus_montanus_ac321880-8d36-11f0-9bd0-f5d38e147848_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laetiporus_montanus_ac321880-8d36-11f0-9bd0-f5d38e147848_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laetiporus_montanus_ac321880-8d36-11f0-9bd0-f5d38e147848_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -208,5 +233,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12800176/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

@@ -2,13 +2,19 @@
  "name": "Lactifluus",
  "zhtw": "多汁乳菇屬",
  "zhcn": "多汁乳菇属",
- "timestamp": "20250818-204646",
+ "timestamp": "20250914-111054",
  "list": [
   {
    "name": "Lactifluus brunellus",
    "zhtw": "褐絨乳菇(暫名)",
    "zhcn": "褐绒乳菇(暂名)",
    "img": "Lactifluus_brunellus_a6b6fce0-af2f-106d-b1da-ed0d979e6f3b_1.jpg"
+  },
+  {
+   "name": "Lactifluus glaucescens",
+   "zhtw": "灰白多汁乳菇",
+   "zhcn": "灰白多汁乳菇",
+   "img": "Lactarius_glaucescens_d8dd34b0-8d49-11f0-9bd0-f5d38e147848_1.jpg"
   },
   {
    "name": "Lactifluus piperatus",
@@ -21,6 +27,12 @@
    "zhtw": "多汁乳菇",
    "zhcn": "多汁乳菇",
    "img": "Lactarius_volemus_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Lactifluus volemus var. flavus",
+   "zhtw": "多汁乳菇黃色變種",
+   "zhcn": "多汁乳菇黄色变种",
+   "img": "Lactarius_volemus var. flavus_f3c64900-8d4a-11f0-9bd0-f5d38e147848_1.jpg"
   }
  ]
 }

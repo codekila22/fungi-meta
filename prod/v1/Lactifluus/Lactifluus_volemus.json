@@ -300,9 +300,11 @@
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Lactifluus volemus var. flavus,,",
   "Note": "受傷時會分泌多量的白色乳汁，味道有些辛辣。偶爾有個體為黃色的變種(Lactarius volemus var. flavus)。",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "多汁乳菇黃色變種,,",
+  "la_zhcn": "多汁乳菇黄色变种,,"
  },
  "inaturalist": [
   {
@@ -324,5 +326,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13065706/thumb.jpeg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

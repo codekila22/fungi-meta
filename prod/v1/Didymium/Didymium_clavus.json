@@ -2,6 +2,7 @@
  "genus": "Didymium",
  "name": "clavus",
  "date": [
+  "08/17/2025,24225240117159758",
   "06/15/2017,1227626430681119"
  ],
  "names_zhtw": [
@@ -77,6 +78,34 @@
   {
    "author": "陳雅芬",
    "image_src": "Didymium_clavus_c5bb6150-a645-11ee-aaa9-452d395c9d8a_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Didymium_clavus_412c0dd0-8d58-11f0-9bd0-f5d38e147848_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Didymium_clavus_412c0dd0-8d58-11f0-9bd0-f5d38e147848_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Didymium_clavus_412c0dd0-8d58-11f0-9bd0-f5d38e147848_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Didymium_clavus_412c0dd0-8d58-11f0-9bd0-f5d38e147848_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Didymium_clavus_412c0dd0-8d58-11f0-9bd0-f5d38e147848_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Didymium_clavus_412c0dd0-8d58-11f0-9bd0-f5d38e147848_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Didymium_clavus_412c0dd0-8d58-11f0-9bd0-f5d38e147848_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -124,5 +153,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112870900/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

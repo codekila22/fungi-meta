@@ -2,6 +2,7 @@
  "genus": "Phillipsia",
  "name": "chinensis",
  "date": [
+  "09/11/2025,24360328203650948",
   "09/27/2023,8222589571184735",
   "09/13/2023,6398518106925233",
   "11/02/2022,5389679394475781",
@@ -162,6 +163,18 @@
   {
    "author": "向高世",
    "image_src": "Phillipsia_chinensis_a3ed5870-846c-11ef-8506-579edba7dc86_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Phillipsia_chinensis_190bb620-9104-11f0-a402-47ccd6b69d94_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Phillipsia_chinensis_190bb620-9104-11f0-a402-47ccd6b69d94_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Phillipsia_chinensis_190bb620-9104-11f0-a402-47ccd6b69d94_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -210,5 +223,5 @@
    "src": "https://static.inaturalist.org/photos/225651293/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

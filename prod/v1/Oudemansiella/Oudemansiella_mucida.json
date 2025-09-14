@@ -2,6 +2,7 @@
  "genus": "Oudemansiella",
  "name": "mucida",
  "date": [
+  "08/25/2025,24275135438836892",
   "01/25/2025,8908214885955530",
   "10/12/2024,8308534165923608",
   "07/30/2024,7749770918466605",
@@ -250,6 +251,30 @@
   {
    "author": "徐秀團",
    "image_src": "Oudemansiella_mucida_6b3d2bc0-db12-11ef-8ed9-c35ef929071a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_209d78c0-8780-11f0-802c-838edd65b413_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_209d78c0-8780-11f0-802c-838edd65b413_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_209d78c0-8780-11f0-802c-838edd65b413_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_8b9f6c50-8780-11f0-802c-838edd65b413_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_8b9f6c50-8780-11f0-802c-838edd65b413_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_8b9f6c50-8780-11f0-802c-838edd65b413_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -298,5 +323,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10062/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }

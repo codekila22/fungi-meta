@@ -2,7 +2,6 @@
  "genus": "Coprinopsis",
  "name": "cortinata",
  "date": [
-  "08/12/2025,24103999275950510",
   "01/06/2024,6828039637306409",
   "12/19/2020,3379759755467765"
  ],
@@ -48,46 +47,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Coprinopsis_cortinata_b81ec770-ac9a-11ee-b397-05ebc86b6b58_6.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_1.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_2.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_3.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_4.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_5.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_6.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_7.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_8.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_9.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Coprinopsis_cortinata_33ac40d0-7aed-11f0-bcce-470695b70cc9_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -109,13 +68,14 @@
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
-  "StalkTexture": "",
+  "StalkTexture": "velvety",
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
@@ -125,9 +85,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Narcissea patouillardii,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "帕氏心孢鬼傘,,",
+  "la_zhcn": "帕氏心孢鬼伞,,"
  },
  "inaturalist": [
   {
@@ -137,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156356553/thumb.jpg"
   }
  ],
- "timestamp": "20250818-204646"
+ "timestamp": "20250914-111054"
 }
