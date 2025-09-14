@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "aff. roseoflava",
  "date": [
+  "08/18/2025,24154722000878237",
   "08/03/2024,7778541882256175",
   "09/08/2022,5221899414587114"
  ],
@@ -86,6 +87,18 @@
   {
    "author": "徐秀團",
    "image_src": "Mycena_aff. roseoflava_4e9100e0-9e9b-11ef-9f59-db7df2d9998d_5.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Mycena_aff. roseoflava_858690a0-915d-11f0-a722-dbd522113551_1.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Mycena_aff. roseoflava_858690a0-915d-11f0-a722-dbd522113551_2.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Mycena_aff. roseoflava_858690a0-915d-11f0-a722-dbd522113551_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -134,5 +147,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1675982/thumb.jpg"
   }
  ],
- "timestamp": "20250914-111054"
+ "timestamp": "20250914-194918"
 }

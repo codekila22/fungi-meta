@@ -2,6 +2,7 @@
  "genus": "Lenzites",
  "name": "elegans",
  "date": [
+  "09/13/2025,24381202491563519",
   "08/24/2023,6327961537314224",
   "03/23/2023,5816114948498888",
   "01/30/2023,5645275115582873",
@@ -84,6 +85,46 @@
   {
    "author": "陳麗紅",
    "image_src": "Lenzites_elegans_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lenzites_elegans_fcd2ddc0-9159-11f0-a722-dbd522113551_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lenzites_elegans_fcd2ddc0-9159-11f0-a722-dbd522113551_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lenzites_elegans_fcd2ddc0-9159-11f0-a722-dbd522113551_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lenzites_elegans_fcd2ddc0-9159-11f0-a722-dbd522113551_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lenzites_elegans_fcd2ddc0-9159-11f0-a722-dbd522113551_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lenzites_elegans_fcd2ddc0-9159-11f0-a722-dbd522113551_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lenzites_elegans_fcd2ddc0-9159-11f0-a722-dbd522113551_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lenzites_elegans_fcd2ddc0-9159-11f0-a722-dbd522113551_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lenzites_elegans_fcd2ddc0-9159-11f0-a722-dbd522113551_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lenzites_elegans_fcd2ddc0-9159-11f0-a722-dbd522113551_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -133,5 +174,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340295/thumb.jpg"
   }
  ],
- "timestamp": "20250914-111054"
+ "timestamp": "20250914-194918"
 }

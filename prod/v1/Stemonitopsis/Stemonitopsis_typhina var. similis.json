@@ -2,6 +2,7 @@
  "genus": "Stemonitopsis",
  "name": "typhina var. similis",
  "date": [
+  "09/13/2025,24382040311479737",
   "10/19/2024,8358274687616222"
  ],
  "names_zhtw": [
@@ -10,6 +11,14 @@
  "names_en": [],
  "url": "8358274687616222",
  "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_2.jpg"
+  },
   {
    "author": "陳雅芬",
    "image_src": "Stemonitopsis_typhina var. similis_a5ea7bb0-99db-11ef-8392-0330dbfb2bc8_1.jpg"
@@ -65,6 +74,34 @@
   {
    "author": "陳雅芬",
    "image_src": "Stemonitopsis_typhina var. similis_a5ea7bb0-99db-11ef-8392-0330dbfb2bc8_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -103,7 +140,15 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "孢子囊基部有明顯的小領子。"
  },
- "timestamp": "20250914-111054"
+ "inaturalist": [
+  {
+   "name": "Stemonitopsis typhina ssp. similis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1634283-Stemonitopsis-typhina-similis",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250914-194918"
 }

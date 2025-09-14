@@ -1,0 +1,90 @@
+{
+ "genus": "Agaricus",
+ "name": "bernardii",
+ "date": [
+  "08/20/2025,24340758478941254"
+ ],
+ "names_zhtw": [
+  "白鱗蘑菇",
+  "喜鹽蘑菇"
+ ],
+ "names_en": [
+  "Salt Loving Agaricus"
+ ],
+ "url": "24340758478941254",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Agaricus_bernardii_ca238cf0-8e0a-11f0-8e6a-e72abec8454e_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Agaricus_bernardii_ca238cf0-8e0a-11f0-8e6a-e72abec8454e_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Agaricus_bernardii_ca238cf0-8e0a-11f0-8e6a-e72abec8454e_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Agaricus_bernardii_ca238cf0-8e0a-11f0-8e6a-e72abec8454e_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Agaricus_bernardii_ca238cf0-8e0a-11f0-8e6a-e72abec8454e_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Agaricus_bernardii_ca238cf0-8e0a-11f0-8e6a-e72abec8454e_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "白鳞蘑菇",
+  "喜盐蘑菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground,meadow",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "喜歡富含鹽分的土壤。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Agaricus bernardii",
+   "cname": "Salt-loving Agaricus",
+   "url": "https://www.inaturalist.org/taxa/343586-Agaricus-bernardii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4134836/thumb."
+  }
+ ],
+ "timestamp": "20250914-194918"
+}
