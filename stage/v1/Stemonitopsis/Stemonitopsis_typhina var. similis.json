@@ -12,6 +12,14 @@
  "url": "8358274687616222",
  "images": [
   {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_2.jpg"
+  },
+  {
    "author": "陳雅芬",
    "image_src": "Stemonitopsis_typhina var. similis_a5ea7bb0-99db-11ef-8392-0330dbfb2bc8_1.jpg"
   },
@@ -66,14 +74,6 @@
   {
    "author": "陳雅芬",
    "image_src": "Stemonitopsis_typhina var. similis_a5ea7bb0-99db-11ef-8392-0330dbfb2bc8_14.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_1.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Stemonitopsis_typhina var. similis_4f72f230-915b-11f0-a722-dbd522113551_2.jpg"
   },
   {
    "author": "江志緯",
@@ -142,5 +142,13 @@
   "LookAlikes": "",
   "Note": "孢子囊基部有明顯的小領子。"
  },
- "timestamp": "20250914-193953"
+ "inaturalist": [
+  {
+   "name": "Stemonitopsis typhina ssp. similis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1634283-Stemonitopsis-typhina-similis",
+   "src": ""
+  }
+ ],
+ "timestamp": "20250914-194918"
 }
