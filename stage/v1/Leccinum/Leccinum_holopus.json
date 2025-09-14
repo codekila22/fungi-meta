@@ -2,6 +2,7 @@
  "genus": "Leccinum",
  "name": "holopus",
  "date": [
+  "09/13/2025,24377928395224262",
   "07/04/2023,6175375902572789",
   "09/01/2022,5236330289810693",
   "08/30/2022,5204630579647331",
@@ -40,6 +41,26 @@
   {
    "author": "Lobelia Lin",
    "image_src": "Leccinum_holopus_239a77b0-1f29-11ee-a5de-654a1be5ab59_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinum_holopus_f8a35af0-9103-11f0-a402-47ccd6b69d94_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinum_holopus_f8a35af0-9103-11f0-a402-47ccd6b69d94_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinum_holopus_f8a35af0-9103-11f0-a402-47ccd6b69d94_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinum_holopus_f8a35af0-9103-11f0-a402-47ccd6b69d94_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinum_holopus_f8a35af0-9103-11f0-a402-47ccd6b69d94_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -88,5 +109,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1031207/thumb.jpg"
   }
  ],
- "timestamp": "20250910-065126"
+ "timestamp": "20250914-105539"
 }
