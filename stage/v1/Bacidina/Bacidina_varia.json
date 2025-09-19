@@ -2,6 +2,7 @@
  "genus": "Bacidina",
  "name": "varia",
  "date": [
+  "02/24/2025,24203128649370905",
   "01/30/2025,8938070479636637"
  ],
  "names_zhtw": [
@@ -49,6 +50,18 @@
   {
    "author": "江志緯",
    "image_src": "Bacidina_varia_292d8f70-e136-11ef-ab36-2b133d3d3ca2_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bacidina_varia_498e16f0-9526-11f0-a9cb-0d914770d1a2_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bacidina_varia_498e16f0-9526-11f0-a9cb-0d914770d1a2_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bacidina_varia_498e16f0-9526-11f0-a9cb-0d914770d1a2_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -97,5 +110,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32991314/thumb.jpg"
   }
  ],
- "timestamp": "20250914-194918"
+ "timestamp": "20250919-160203"
 }

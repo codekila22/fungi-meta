@@ -2,6 +2,7 @@
  "genus": "Cyptotrama",
  "name": "glabra",
  "date": [
+  "09/14/2025,24392865133730588",
   "03/08/2025,9163440140433002",
   "08/22/2024,7903693976407631",
   "06/12/2024,7619797341463964",
@@ -259,6 +260,30 @@
   {
    "author": "徐秀團",
    "image_src": "Cyptotrama_glabra_891e2c20-fcb9-11ef-a455-d7bb21521c9b_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cyptotrama_glabra_d8af6bf0-9241-11f0-a61a-e9e8c97d45ee_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cyptotrama_glabra_d8af6bf0-9241-11f0-a61a-e9e8c97d45ee_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cyptotrama_glabra_d8af6bf0-9241-11f0-a61a-e9e8c97d45ee_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cyptotrama_glabra_d8af6bf0-9241-11f0-a61a-e9e8c97d45ee_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cyptotrama_glabra_d8af6bf0-9241-11f0-a61a-e9e8c97d45ee_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cyptotrama_glabra_d8af6bf0-9241-11f0-a61a-e9e8c97d45ee_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -310,5 +335,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/186697976/thumb.jpg"
   }
  ],
- "timestamp": "20250914-194918"
+ "timestamp": "20250919-160203"
 }

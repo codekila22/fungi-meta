@@ -2,6 +2,7 @@
  "genus": "Graphium",
  "name": "putredinis",
  "date": [
+  "09/11/2025,24360596836957418",
   "02/18/2025,5415959478514439"
  ],
  "names_zhtw": [
@@ -29,6 +30,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Graphium_putredinis_f4673f40-f731-11ef-abb1-23cbe2f066e9_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphium_putredinis_f980f190-9233-11f0-a61a-e9e8c97d45ee_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphium_putredinis_f980f190-9233-11f0-a61a-e9e8c97d45ee_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphium_putredinis_f980f190-9233-11f0-a61a-e9e8c97d45ee_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphium_putredinis_f980f190-9233-11f0-a61a-e9e8c97d45ee_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphium_putredinis_f980f190-9233-11f0-a61a-e9e8c97d45ee_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphium_putredinis_f980f190-9233-11f0-a61a-e9e8c97d45ee_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -77,5 +102,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/67425895/thumb.jpeg"
   }
  ],
- "timestamp": "20250914-194918"
+ "timestamp": "20250919-160203"
 }
