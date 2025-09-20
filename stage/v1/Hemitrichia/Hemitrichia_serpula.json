@@ -2,6 +2,7 @@
  "genus": "Hemitrichia",
  "name": "serpula",
  "date": [
+  "09/12/2025,24425953920421709",
   "10/27/2024,8435590956551261",
   "09/15/2024,8428436140600076",
   "08/28/2024,7932731946837167",
@@ -294,6 +295,10 @@
   {
    "author": "向高世",
    "image_src": "Hemitrichia_serpula_5236bc30-dca8-11ef-afb9-f93921bc6952_10.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hemitrichia_serpula_29880ab0-9610-11f0-a988-8d9c647c4423_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -341,5 +346,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/33901212/thumb.jpg"
   }
  ],
- "timestamp": "20250920-183839"
+ "timestamp": "20250920-190255"
 }

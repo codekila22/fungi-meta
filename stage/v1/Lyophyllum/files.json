@@ -2,12 +2,15 @@
  "name": "Lyophyllum",
  "zhtw": "離褶傘屬",
  "zhcn": "离褶伞属",
- "timestamp": "20250920-183839",
+ "timestamp": "20250920-190255",
  "list": [
   {
    "name": "Lyophyllum connatum",
    "zhtw": "銀白離褶傘",
    "zhcn": "银白离褶伞",
+   "current": "Leucocybe connata",
+   "current_zhtw": "合生白傘",
+   "current_zhcn": "合生白伞",
    "img": "Lyophyllum_connatum_709b2430-953b-11f0-8581-eb6a721edf41_1.jpg"
   },
   {

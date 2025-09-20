@@ -1,5 +1,5 @@
 {
- "timestamp": "20250920-183839",
+ "timestamp": "20250920-190255",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -444,6 +444,7 @@
    "Lepista,香蘑屬,香蘑属",
    "Leucoagaricus,白環蘑屬,白环蘑属",
    "Leucocoprinus,白鬼傘屬,白鬼伞属",
+   "Leucocybe,白傘屬,白伞属",
    "Leucoinocybe,白紋傘屬,白纹伞属",
    "Leucopaxillus,白椿菇屬,白椿菇属",
    "Leucopholiota,白麟傘屬,白麟伞属",
@@ -2397,6 +2398,7 @@
   "Leucocoprinus cretaceus,白堊白鬼傘,白垩白鬼伞",
   "Leucocoprinus fragilissimus,易碎白鬼傘,易碎白鬼伞",
   "Leucocoprinus ianthinus,紫羅蘭色白鬼傘,紫罗兰色白鬼伞",
+  "Leucocybe connata,合生白傘,合生白伞",
   "Leucodermia leucomelos,白亞鈴孢衣,白亚铃孢衣",
   "Leucoinocybe auricoma,金黃白紋傘,金黄白纹伞",
   "Leucopaxillus giganteus,巨白樁菇,巨白桩菇",
