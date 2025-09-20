@@ -2,6 +2,7 @@
  "genus": "Crinipellis",
  "name": "procera",
  "date": [
+  "09/13/2025,24394882403528861",
   "06/15/2024,7748940828549614",
   "05/29/2022,4950850841691974"
  ],
@@ -62,6 +63,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Crinipellis_procera_c44d05f0-1b27-10b5-a500-77f2459b4595_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crinipellis_procera_82eeadb0-95fd-11f0-8153-551fb074ddcc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crinipellis_procera_82eeadb0-95fd-11f0-8153-551fb074ddcc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crinipellis_procera_82eeadb0-95fd-11f0-8153-551fb074ddcc_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crinipellis_procera_82eeadb0-95fd-11f0-8153-551fb074ddcc_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crinipellis_procera_82eeadb0-95fd-11f0-8153-551fb074ddcc_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -111,5 +132,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1736015/thumb.jpg"
   }
  ],
- "timestamp": "20250919-160203"
+ "timestamp": "20250920-183839"
 }

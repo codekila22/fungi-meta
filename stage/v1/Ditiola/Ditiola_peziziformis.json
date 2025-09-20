@@ -2,8 +2,9 @@
  "genus": "Ditiola",
  "name": "peziziformis",
  "date": [
-  "12/16/2022",
-  "01/18/2022"
+  "09/13/2025,24428043306879437",
+  "01/16/2022,4545662635544132",
+  "10/10/2020,3203104023133340"
  ],
  "names_zhtw": [
   "盤菌狀韌釘耳"
@@ -120,6 +121,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Ditiola_peziziformis_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ditiola_peziziformis_75ca5690-95fb-11f0-8153-551fb074ddcc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ditiola_peziziformis_75ca5690-95fb-11f0-8153-551fb074ddcc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ditiola_peziziformis_75ca5690-95fb-11f0-8153-551fb074ddcc_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ditiola_peziziformis_75ca5690-95fb-11f0-8153-551fb074ddcc_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -168,5 +185,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/26359269/thumb.jpg"
   }
  ],
- "timestamp": "20250919-160203"
+ "timestamp": "20250920-183839"
 }

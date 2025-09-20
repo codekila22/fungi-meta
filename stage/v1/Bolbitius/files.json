@@ -2,13 +2,19 @@
  "name": "Bolbitius",
  "zhtw": "糞傘屬",
  "zhcn": "粪伞属",
- "timestamp": "20250919-160203",
+ "timestamp": "20250920-183839",
  "list": [
   {
    "name": "Bolbitius cf. variicolor",
    "zhtw": "變色糞傘之相似種",
    "zhcn": "变色粪伞之相似种",
    "img": "Bolbitius_cf. variicolor_290d9140-fb94-11ed-8345-cf53d8063f06_1.jpg"
+  },
+  {
+   "name": "Bolbitius coprophilus",
+   "zhtw": "糞生糞傘",
+   "zhcn": "粪生粪伞",
+   "img": "Bolbitius_coprophilus_07935d80-953c-11f0-8581-eb6a721edf41_1.jpg"
   },
   {
    "name": "Bolbitius reticulatus",

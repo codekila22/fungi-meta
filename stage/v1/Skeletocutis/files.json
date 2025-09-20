@@ -2,13 +2,19 @@
  "name": "Skeletocutis",
  "zhtw": "骨皮菌屬",
  "zhcn": "骨皮菌属",
- "timestamp": "20250919-160203",
+ "timestamp": "20250920-183839",
  "list": [
   {
    "name": "Skeletocutis carneogrisea",
    "zhtw": "肉灰色骨皮菌",
    "zhcn": "肉灰色骨皮菌",
    "img": "Skeletocutis_carneogrisea_4d1565d0-b84b-11ee-adc6-0d3ca513c0cc_1.jpg"
+  },
+  {
+   "name": "Skeletocutis odora",
+   "zhtw": "香味骨皮菌",
+   "zhcn": "香味骨皮菌",
+   "img": "Skeletocutis_odora_97d4a090-95bc-11f0-8344-c165790a5dc4_1.jpg"
   }
  ]
 }

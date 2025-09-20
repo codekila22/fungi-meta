@@ -2,6 +2,7 @@
  "genus": "Pluteus",
  "name": "plautus",
  "date": [
+  "09/19/2025,24425900967093671",
   "06/16/2025,9935303103246698",
   "04/26/2025,9479235562186790",
   "05/12/2024,7344170769026624",
@@ -154,6 +155,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Pluteus_plautus_c767d6b0-50b1-11f0-9105-a38cf70f5320_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_plautus_0a6856c0-95fd-11f0-8153-551fb074ddcc_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_plautus_0a6856c0-95fd-11f0-8153-551fb074ddcc_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_plautus_0a6856c0-95fd-11f0-8153-551fb074ddcc_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pluteus_plautus_0a6856c0-95fd-11f0-8153-551fb074ddcc_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -202,5 +219,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4136133/thumb."
   }
  ],
- "timestamp": "20250919-160203"
+ "timestamp": "20250920-183839"
 }

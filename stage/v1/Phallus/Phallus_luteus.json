@@ -2,9 +2,11 @@
  "genus": "Phallus",
  "name": "luteus",
  "date": [
+  "09/19/2025,24428127636871004",
   "08/02/2025,24015038791513226",
   "06/05/2025,9798753163568360",
   "09/08/2024,8034056273371400",
+  "07/14/2024,7974086756035019",
   "07/14/2024,7974086756035019",
   "05/21/2024,7389375637839470",
   "05/15/2024,7390293067747727",
@@ -26,7 +28,9 @@
   "06/10/2019,2089424654501288"
  ],
  "names_zhtw": [
-  "淡黃裙鬼筆"
+  "純黃竹蓀",
+  "淡黃裙鬼筆",
+  "純黃竹笙"
  ],
  "names_en": [],
  "url": "2979828008794277",
@@ -246,10 +250,60 @@
   {
    "author": "徐秀團",
    "image_src": "Phallus_luteus_1a6bf870-6f91-11f0-aed7-052b9e55c5bb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_982703c0-9563-11f0-8581-eb6a721edf41_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_982703c0-9563-11f0-8581-eb6a721edf41_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_982703c0-9563-11f0-8581-eb6a721edf41_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_982703c0-9563-11f0-8581-eb6a721edf41_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_982703c0-9563-11f0-8581-eb6a721edf41_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_982703c0-9563-11f0-8581-eb6a721edf41_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_982703c0-9563-11f0-8581-eb6a721edf41_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_982703c0-9563-11f0-8581-eb6a721edf41_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_d6857b00-95fa-11f0-a8bd-1bc155111f5b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_d6857b00-95fa-11f0-a8bd-1bc155111f5b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_d6857b00-95fa-11f0-a8bd-1bc155111f5b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_d6857b00-95fa-11f0-a8bd-1bc155111f5b_4.jpg"
   }
  ],
  "names_zhcn": [
-  "淡黄裙鬼笔"
+  "纯黄竹荪",
+  "淡黄裙鬼笔",
+  "纯黄竹笙"
  ],
  "meta": {
   "CapColors": "4291605388,4294962125",
@@ -297,5 +351,5 @@
    "src": "https://static.inaturalist.org/photos/13307620/thumb.jpeg"
   }
  ],
- "timestamp": "20250919-160203"
+ "timestamp": "20250920-183839"
 }
