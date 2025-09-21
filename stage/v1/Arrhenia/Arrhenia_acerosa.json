@@ -2,6 +2,7 @@
  "genus": "Arrhenia",
  "name": "acerosa",
  "date": [
+  "09/13/2025,24410501228633645",
   "09/03/2024,8224159491027743"
  ],
  "names_zhtw": [
@@ -33,6 +34,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Arrhenia_acerosa_7a59e3f0-8392-11ef-ab76-b36c61a1995a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arrhenia_acerosa_59c53df0-9689-11f0-909f-8bfff1730c01_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arrhenia_acerosa_59c53df0-9689-11f0-909f-8bfff1730c01_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arrhenia_acerosa_59c53df0-9689-11f0-909f-8bfff1730c01_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arrhenia_acerosa_59c53df0-9689-11f0-909f-8bfff1730c01_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Arrhenia_acerosa_59c53df0-9689-11f0-909f-8bfff1730c01_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -81,5 +102,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17266638/thumb.jpg"
   }
  ],
- "timestamp": "20250920-190255"
+ "timestamp": "20250921-101312"
 }

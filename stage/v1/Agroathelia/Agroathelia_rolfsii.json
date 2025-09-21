@@ -2,6 +2,7 @@
  "genus": "Agroathelia",
  "name": "rolfsii",
  "date": [
+  "08/21/2025,24189538794063224",
   "08/03/2025,24251485634535206",
   "08/28/2024,7945169558926739",
   "08/08/2024,7807909499319413",
@@ -189,6 +190,26 @@
   {
    "author": "Audrey Fu",
    "image_src": "Agroathelia_rolfsii_f6262540-8d3a-11f0-9bd0-f5d38e147848_7.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agroathelia_rolfsii_e8657540-9687-11f0-909f-8bfff1730c01_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agroathelia_rolfsii_e8657540-9687-11f0-909f-8bfff1730c01_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agroathelia_rolfsii_e8657540-9687-11f0-909f-8bfff1730c01_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agroathelia_rolfsii_e8657540-9687-11f0-909f-8bfff1730c01_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Agroathelia_rolfsii_e8657540-9687-11f0-909f-8bfff1730c01_5.jpg"
   }
  ],
  "synonym": [
@@ -243,5 +264,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32036280/thumb.jpeg"
   }
  ],
- "timestamp": "20250920-190255"
+ "timestamp": "20250921-101312"
 }

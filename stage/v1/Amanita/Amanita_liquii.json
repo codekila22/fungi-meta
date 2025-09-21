@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "liquii",
  "date": [
+  "09/14/2025,24424404753909959",
   "06/11/2025,9850250371751972",
   "06/10/2025,9841973989246277",
   "10/15/2024,8327091624067862",
@@ -368,6 +369,22 @@
   {
    "author": "向高世",
    "image_src": "Amanita_liquii_d954b060-9525-11f0-a9cb-0d914770d1a2_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_liquii_1b9b2870-9687-11f0-909f-8bfff1730c01_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_liquii_1b9b2870-9687-11f0-909f-8bfff1730c01_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_liquii_1b9b2870-9687-11f0-909f-8bfff1730c01_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_liquii_1b9b2870-9687-11f0-909f-8bfff1730c01_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -417,5 +434,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2054364/thumb.jpg"
   }
  ],
- "timestamp": "20250920-190255"
+ "timestamp": "20250921-101312"
 }

@@ -36,6 +36,10 @@
  "url": "2979828008794277",
  "images": [
   {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_d6857b00-95fa-11f0-a8bd-1bc155111f5b_1.jpg"
+  },
+  {
    "author": "Ali Tam",
    "image_src": "Phallus_luteus_1_CC BY-NC_Ali Tam.jpg"
   },
@@ -285,10 +289,6 @@
   },
   {
    "author": "陳麗紅",
-   "image_src": "Phallus_luteus_d6857b00-95fa-11f0-a8bd-1bc155111f5b_1.jpg"
-  },
-  {
-   "author": "陳麗紅",
    "image_src": "Phallus_luteus_d6857b00-95fa-11f0-a8bd-1bc155111f5b_2.jpg"
   },
   {
@@ -351,5 +351,5 @@
    "src": "https://static.inaturalist.org/photos/13307620/thumb.jpeg"
   }
  ],
- "timestamp": "20250920-190255"
+ "timestamp": "20250921-101312"
 }
