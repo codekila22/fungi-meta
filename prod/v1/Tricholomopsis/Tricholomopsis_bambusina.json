@@ -2,14 +2,19 @@
  "genus": "Tricholomopsis",
  "name": "bambusina",
  "date": [
-  "01/01/0001"
+  "09/13/2025,24436518466031921",
+  "08/15/2020,3543621502414922"
  ],
  "names_zhtw": [
   "竹擬口蘑"
  ],
  "names_en": [],
- "url": "3543621502414922",
+ "url": "24436518466031921",
  "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_bambusina_01c47ab0-9627-11f0-aea7-e74548c3eb35_1.jpg"
+  },
   {
    "author": "James Ho",
    "image_src": "Tricholomopsis_bambusina_1_CC BY-NC_James Ho.jpg"
@@ -21,6 +26,30 @@
   {
    "author": "James Ho",
    "image_src": "Tricholomopsis_bambusina_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_bambusina_01c47ab0-9627-11f0-aea7-e74548c3eb35_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_bambusina_01c47ab0-9627-11f0-aea7-e74548c3eb35_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_bambusina_01c47ab0-9627-11f0-aea7-e74548c3eb35_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_bambusina_01c47ab0-9627-11f0-aea7-e74548c3eb35_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_bambusina_01c47ab0-9627-11f0-aea7-e74548c3eb35_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_bambusina_01c47ab0-9627-11f0-aea7-e74548c3eb35_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -69,5 +98,5 @@
    "src": ""
   }
  ],
- "timestamp": "20250914-194918"
+ "timestamp": "20250921-102712"
 }

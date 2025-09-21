@@ -2,13 +2,13 @@
  "genus": "Amanita",
  "name": "vaginata",
  "date": [
-  "01/01/0001"
+  "09/13/2025,24436853005998467"
  ],
  "names_zhtw": [
   "灰鵝膏"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/4631",
+ "url": "24436853005998467",
  "images": [
   {
    "author": "柯文俊",
@@ -29,6 +29,22 @@
   {
    "author": "柯文俊",
    "image_src": "Amanita_vaginata_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vaginata_3f10bc40-968a-11f0-909f-8bfff1730c01_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vaginata_3f10bc40-968a-11f0-909f-8bfff1730c01_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vaginata_3f10bc40-968a-11f0-909f-8bfff1730c01_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vaginata_3f10bc40-968a-11f0-909f-8bfff1730c01_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -95,5 +111,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22848824/thumb.jpeg"
   }
  ],
- "timestamp": "20250914-194918"
+ "timestamp": "20250921-102712"
 }

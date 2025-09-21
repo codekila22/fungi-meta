@@ -2,6 +2,7 @@
  "genus": "Plectania",
  "name": "campylospora",
  "date": [
+  "09/18/2025,24419463831070718",
   "05/26/2023,6048292371947810",
   "08/20/2022,5216977895079266"
  ],
@@ -106,6 +107,30 @@
   {
    "author": "江志緯",
    "image_src": "Plectania_campylospora_1dbb74e0-01ef-11ee-b378-17fe5cd8ebe8_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plectania_campylospora_f6fc4130-9612-11f0-aea7-e74548c3eb35_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plectania_campylospora_f6fc4130-9612-11f0-aea7-e74548c3eb35_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plectania_campylospora_f6fc4130-9612-11f0-aea7-e74548c3eb35_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plectania_campylospora_f6fc4130-9612-11f0-aea7-e74548c3eb35_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plectania_campylospora_f6fc4130-9612-11f0-aea7-e74548c3eb35_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plectania_campylospora_f6fc4130-9612-11f0-aea7-e74548c3eb35_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -154,5 +179,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/73695961/thumb.jpeg"
   }
  ],
- "timestamp": "20250914-194918"
+ "timestamp": "20250921-102712"
 }

@@ -2,6 +2,7 @@
  "genus": "Leucopholiota",
  "name": "lignicola",
  "date": [
+  "09/13/2025,24410540248629743",
   "05/25/2024,7413797468730620",
   "11/15/2021,4323604871083244",
   "09/15/2021,4329064460537285",
@@ -137,6 +138,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Leucopholiota_lignicola_5d2d1dc0-1b31-11ef-af26-dba318e76503_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_lignicola_b7171360-95fe-11f0-8153-551fb074ddcc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_lignicola_b7171360-95fe-11f0-8153-551fb074ddcc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_lignicola_b7171360-95fe-11f0-8153-551fb074ddcc_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_lignicola_b7171360-95fe-11f0-8153-551fb074ddcc_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopholiota_lignicola_b7171360-95fe-11f0-8153-551fb074ddcc_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -189,5 +210,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/50902359/thumb.jpeg"
   }
  ],
- "timestamp": "20250914-194918"
+ "timestamp": "20250921-102712"
 }

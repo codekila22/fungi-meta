@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "cf. rhenana",
  "date": [
+  "09/20/2025,24427464020270699",
   "07/14/2025,23900568229626950",
   "07/10/2025,10068879186555755",
   "06/30/2021,3908731902570545"
@@ -107,6 +108,14 @@
   {
    "author": "徐秀團",
    "image_src": "Mycena_cf. rhenana_58d9ce50-6f3e-11f0-82b2-b3458ddfa4f1_7.jpg"
+  },
+  {
+   "author": "Bill Hwang",
+   "image_src": "Mycena_cf. rhenana_31d45b30-9686-11f0-909f-8bfff1730c01_1.jpg"
+  },
+  {
+   "author": "Bill Hwang",
+   "image_src": "Mycena_cf. rhenana_31d45b30-9686-11f0-909f-8bfff1730c01_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -155,5 +164,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/147126266/thumb.jpg"
   }
  ],
- "timestamp": "20250914-194918"
+ "timestamp": "20250921-102712"
 }

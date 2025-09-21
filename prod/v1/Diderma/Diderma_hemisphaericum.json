@@ -2,6 +2,7 @@
  "genus": "Diderma",
  "name": "hemisphaericum",
  "date": [
+  "09/19/2025,24428078513542583",
   "09/28/2024,8183341091776250",
   "08/26/2024,7917502105026818",
   "05/26/2024,7413666008743766",
@@ -220,6 +221,30 @@
   {
    "author": "James Ho",
    "image_src": "Diderma_hemisphaericum_daca1ef0-7dfa-11ef-861e-7b41a7e0e034_24.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_hemisphaericum_d434ded0-95fb-11f0-8153-551fb074ddcc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_hemisphaericum_d434ded0-95fb-11f0-8153-551fb074ddcc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_hemisphaericum_d434ded0-95fb-11f0-8153-551fb074ddcc_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_hemisphaericum_d434ded0-95fb-11f0-8153-551fb074ddcc_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_hemisphaericum_d434ded0-95fb-11f0-8153-551fb074ddcc_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_hemisphaericum_d434ded0-95fb-11f0-8153-551fb074ddcc_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -268,5 +293,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/26140213/thumb.jpg"
   }
  ],
- "timestamp": "20250914-194918"
+ "timestamp": "20250921-102712"
 }

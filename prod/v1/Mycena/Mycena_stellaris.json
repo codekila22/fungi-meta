@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "stellaris",
  "date": [
+  "07/13/2024,24391285220555246",
   "06/01/2024,7444771998966500",
   "06/01/2024,7445592642217769",
   "10/08/2019,2302249276552157"
@@ -99,6 +100,18 @@
   {
    "author": "向高世",
    "image_src": "Mycena_stellaris_cc9582e0-271d-11ef-88a9-7941c7211b0c_2.jpg"
+  },
+  {
+   "author": "林淑",
+   "image_src": "Mycena_stellaris_675e9700-91f6-11f0-80fa-97a8c79ac1b1_1.jpg"
+  },
+  {
+   "author": "林淑",
+   "image_src": "Mycena_stellaris_675e9700-91f6-11f0-80fa-97a8c79ac1b1_2.jpg"
+  },
+  {
+   "author": "林淑",
+   "image_src": "Mycena_stellaris_675e9700-91f6-11f0-80fa-97a8c79ac1b1_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -130,14 +143,14 @@
   "Rareness": "",
   "Seasons": "summer,autumn",
   "GrowthType": "grouped",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,bamboo",
   "Bruising": "no",
   "Bioluminescent": "strong",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "目前發現多於水京金枯木上。",
+  "Note": "發現多於水京金枯木上，也有生長在竹頭的紀錄。台灣嘉義是星光小菇目前此資料庫中的最南端的紀錄地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -148,5 +161,5 @@
    "src": "https://static.inaturalist.org/photos/402867148/thumb.jpeg"
   }
  ],
- "timestamp": "20250914-194918"
+ "timestamp": "20250921-102712"
 }
