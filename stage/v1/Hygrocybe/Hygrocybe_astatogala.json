@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "astatogala",
  "date": [
+  "09/24/2025,24470732842610483",
   "07/30/2025,23994473146903124",
   "06/29/2025,9993266210783720",
   "05/15/2025,9796057777171232",
@@ -317,6 +318,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Hygrocybe_astatogala_72ed04f0-6f53-11f0-9b0e-0564a3f8f3dd_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_astatogala_7d696b50-a0de-11f0-8ae0-adaa9954f2d5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_astatogala_7d696b50-a0de-11f0-8ae0-adaa9954f2d5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_astatogala_7d696b50-a0de-11f0-8ae0-adaa9954f2d5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_astatogala_7d696b50-a0de-11f0-8ae0-adaa9954f2d5_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -368,5 +385,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/204054827/thumb.jpeg"
   }
  ],
- "timestamp": "20250921-182426"
+ "timestamp": "20251005-101246"
 }

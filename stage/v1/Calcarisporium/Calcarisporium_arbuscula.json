@@ -2,6 +2,7 @@
  "genus": "Calcarisporium",
  "name": "arbuscula",
  "date": [
+  "10/01/2025,24532902876393479",
   "04/29/2025,9513150295461983",
   "03/15/2025,9194865407290475",
   "02/25/2025,9091343614309322",
@@ -184,6 +185,30 @@
   {
    "author": "江志緯",
    "image_src": "Calcarisporium_arbuscula_78c735d0-2971-11f0-8b27-4d7c1d79f026_10.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Calcarisporium_arbuscula_8a14f050-a0dd-11f0-8ae0-adaa9954f2d5_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Calcarisporium_arbuscula_8a14f050-a0dd-11f0-8ae0-adaa9954f2d5_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Calcarisporium_arbuscula_8a14f050-a0dd-11f0-8ae0-adaa9954f2d5_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Calcarisporium_arbuscula_8a14f050-a0dd-11f0-8ae0-adaa9954f2d5_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Calcarisporium_arbuscula_8a14f050-a0dd-11f0-8ae0-adaa9954f2d5_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Calcarisporium_arbuscula_8a14f050-a0dd-11f0-8ae0-adaa9954f2d5_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -232,5 +257,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/65469522/thumb.jpg"
   }
  ],
- "timestamp": "20250921-182426"
+ "timestamp": "20251005-101246"
 }

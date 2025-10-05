@@ -2,6 +2,7 @@
  "genus": "Lentinus",
  "name": "connatus",
  "date": [
+  "10/03/2025,24556516927365407",
   "04/18/2023,5892613297515719",
   "05/15/2009,3653308101446261"
  ],
@@ -47,6 +48,42 @@
   {
    "author": "",
    "image_src": "Lentinus_sajor-caju_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_connatus_d187e260-a0df-11f0-8ae0-adaa9954f2d5_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_connatus_d187e260-a0df-11f0-8ae0-adaa9954f2d5_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_connatus_d187e260-a0df-11f0-8ae0-adaa9954f2d5_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_connatus_d187e260-a0df-11f0-8ae0-adaa9954f2d5_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_connatus_d187e260-a0df-11f0-8ae0-adaa9954f2d5_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_connatus_d187e260-a0df-11f0-8ae0-adaa9954f2d5_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_connatus_d187e260-a0df-11f0-8ae0-adaa9954f2d5_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_connatus_d187e260-a0df-11f0-8ae0-adaa9954f2d5_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lentinus_connatus_d187e260-a0df-11f0-8ae0-adaa9954f2d5_9.jpg"
   }
  ],
  "synonym": [
@@ -103,5 +140,5 @@
    "src": "https://static.inaturalist.org/photos/126130528/thumb.jpg"
   }
  ],
- "timestamp": "20250921-182426"
+ "timestamp": "20251005-101246"
 }

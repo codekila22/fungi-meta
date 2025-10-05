@@ -2,6 +2,7 @@
  "genus": "Hypomyces",
  "name": "luteovirens",
  "date": [
+  "07/08/2025,24569490389401394",
   "08/31/2024,7955486851228343",
   "08/19/2021,8744896355620718"
  ],
@@ -50,6 +51,18 @@
   {
    "author": "蔡古媧",
    "image_src": "Hypomyces_luteovirens_064deb90-c34e-11ef-9fd7-91574cea2490_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypomyces_luteovirens_46791750-a172-11f0-aa83-69528e57c6f9_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypomyces_luteovirens_46791750-a172-11f0-aa83-69528e57c6f9_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypomyces_luteovirens_46791750-a172-11f0-aa83-69528e57c6f9_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -98,5 +111,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22821221/thumb.jpg"
   }
  ],
- "timestamp": "20250921-182426"
+ "timestamp": "20251005-101246"
 }

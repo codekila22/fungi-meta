@@ -2,6 +2,7 @@
  "genus": "Coltriciella",
  "name": "dependens",
  "date": [
+  "09/27/2025,24563546733329093",
   "10/31/2023,6588963481214027",
   "09/19/2023,6427541227356254"
  ],
@@ -58,6 +59,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Coltriciella_dependens_60f84bc0-7aad-11ee-83c2-7947c0b30dd6_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coltriciella_dependens_30042ba0-a0e5-11f0-be09-2d13a051f7f2_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coltriciella_dependens_30042ba0-a0e5-11f0-be09-2d13a051f7f2_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coltriciella_dependens_30042ba0-a0e5-11f0-be09-2d13a051f7f2_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coltriciella_dependens_30042ba0-a0e5-11f0-be09-2d13a051f7f2_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Coltriciella_dependens_30042ba0-a0e5-11f0-be09-2d13a051f7f2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -107,5 +128,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10170968/thumb.jpg"
   }
  ],
- "timestamp": "20250921-182426"
+ "timestamp": "20251005-101246"
 }

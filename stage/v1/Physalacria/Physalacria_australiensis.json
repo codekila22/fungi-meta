@@ -2,6 +2,7 @@
  "genus": "Physalacria",
  "name": "australiensis",
  "date": [
+  "09/26/2025,24548395424844224",
   "07/20/2023,6213172258793153"
  ],
  "names_zhtw": [
@@ -33,6 +34,22 @@
   {
    "author": "蛾米",
    "image_src": "Physalacria_australiensis_6_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_2bee2070-a0e0-11f0-8ae0-adaa9954f2d5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_2bee2070-a0e0-11f0-8ae0-adaa9954f2d5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_2bee2070-a0e0-11f0-8ae0-adaa9954f2d5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_2bee2070-a0e0-11f0-8ae0-adaa9954f2d5_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -81,5 +98,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8183232/thumb.jpg"
   }
  ],
- "timestamp": "20250921-182426"
+ "timestamp": "20251005-101246"
 }

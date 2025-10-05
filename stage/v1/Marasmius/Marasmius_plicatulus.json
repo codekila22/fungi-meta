@@ -2,13 +2,13 @@
  "genus": "Marasmius",
  "name": "plicatulus",
  "date": [
-  "01/01/0001"
+  "10/14/2024,8345921812184843"
  ],
  "names_zhtw": [
   "扇褶小皮傘"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/886",
+ "url": "8345921812184843",
  "images": [
   {
    "author": "",
@@ -37,6 +37,50 @@
   {
    "author": "",
    "image_src": "Marasmius_plicatulus_7_CC BY-NC.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Marasmius_plicatulus_36fd1430-9762-11f0-ab44-89292dc4c90a_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -85,5 +129,5 @@
    "src": "https://static.inaturalist.org/photos/2853836/thumb.jpg"
   }
  ],
- "timestamp": "20250921-182426"
+ "timestamp": "20251005-101246"
 }

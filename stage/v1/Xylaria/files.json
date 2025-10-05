@@ -2,7 +2,7 @@
  "name": "Xylaria",
  "zhtw": "炭角菌屬",
  "zhcn": "炭角菌属",
- "timestamp": "20250921-182426",
+ "timestamp": "20251005-101246",
  "list": [
   {
    "name": "Xylaria aff. grammica",
@@ -27,6 +27,12 @@
    "zhtw": "樹狀炭角菌",
    "zhcn": "树状炭角菌",
    "img": "Xylaria_arbuscula_217094f0-e134-11ef-ab36-2b133d3d3ca2_1.jpg"
+  },
+  {
+   "name": "Xylaria atrodivaricata",
+   "zhtw": "黑叉炭角菌",
+   "zhcn": "黑叉炭角菌",
+   "img": "Xylaria_atrodivaricata_044ff050-a187-11f0-bbb0-e351c14914d9_1.jpg"
   },
   {
    "name": "Xylaria bambusicola",

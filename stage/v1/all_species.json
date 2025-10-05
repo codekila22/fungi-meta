@@ -1,5 +1,5 @@
 {
- "timestamp": "20250921-182426",
+ "timestamp": "20251005-101246",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -2185,7 +2185,7 @@
   "Hypocrea sp.1,玫瑰肉座菌(暫名),玫瑰肉座菌(暂名)",
   "Hypocrea sulphurea,硫色肉座菌,硫色肉座菌",
   "Hypocrea thelephoricola,革菌生肉座菌,革菌生肉座菌",
-  "Hypomyces cervinigenus,橘粉馬鞍寄生菌,橘粉马鞍寄生菌",
+  "Hypomyces cervinigenus,橘粉馬鞍菌寄生,橘粉马鞍菌寄生",
   "Hypomyces chrysospermus,金孢菌寄生,金孢菌寄生",
   "Hypomyces completus,完全菌寄生,完全菌寄生",
   "Hypomyces luteovirens,黃綠菌寄生,黄绿菌寄生",
@@ -3556,6 +3556,7 @@
   "Volvariella caesiotincta,藍灰小包腳菇,蓝灰小包脚菇",
   "Volvariella guttulosa,水滴小包腳菇,水滴小包脚菇",
   "Volvariella hypopithys,白毛小包腳菇,白毛小包脚菇",
+  "Volvariella nivea,雪白小包腳菇,雪白小包脚菇",
   "Volvariella pseudovolvacea,擬苞小包腳菇,拟苞小包脚菇",
   "Volvariella pusilla,矮小包脚菇,矮小包脚菇",
   "Volvariella speciosa f gloiocephala,美麗小包腳菇黏蓋型,美丽小包脚菇黏盖型",
@@ -3586,6 +3587,7 @@
   "Xylaria alboareolata,白網目炭角菌,白网目炭角菌",
   "Xylaria apiculata,銳頂炭角菌,锐顶炭角菌",
   "Xylaria arbuscula,樹狀炭角菌,树状炭角菌",
+  "Xylaria atrodivaricata,黑叉炭角菌,黑叉炭角菌",
   "Xylaria bambusicola,竹生炭角菌,竹生炭角菌",
   "Xylaria cf. badia,疑似暗棕炭角菌,疑似暗棕炭角菌",
   "Xylaria chiuyuanii,秋源炭角菌,秋源炭角菌",

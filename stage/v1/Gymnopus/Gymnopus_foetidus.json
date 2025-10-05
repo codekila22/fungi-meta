@@ -2,6 +2,7 @@
  "genus": "Gymnopus",
  "name": "foetidus",
  "date": [
+  "09/30/2025,24525366693813764",
   "06/29/2025,10009357619174579",
   "06/11/2025,9888619687915040",
   "09/28/2024,8184339698343056",
@@ -161,6 +162,42 @@
   {
    "author": "江志緯",
    "image_src": "Gymnopus_foetidus_967d5d70-5941-11f0-ae91-6d9653f20083_12.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Gymnopus_foetidus_f3a181f0-a0dd-11f0-8ae0-adaa9954f2d5_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Gymnopus_foetidus_f3a181f0-a0dd-11f0-8ae0-adaa9954f2d5_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Gymnopus_foetidus_f3a181f0-a0dd-11f0-8ae0-adaa9954f2d5_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Gymnopus_foetidus_f3a181f0-a0dd-11f0-8ae0-adaa9954f2d5_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Gymnopus_foetidus_f3a181f0-a0dd-11f0-8ae0-adaa9954f2d5_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Gymnopus_foetidus_f3a181f0-a0dd-11f0-8ae0-adaa9954f2d5_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Gymnopus_foetidus_f3a181f0-a0dd-11f0-8ae0-adaa9954f2d5_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Gymnopus_foetidus_f3a181f0-a0dd-11f0-8ae0-adaa9954f2d5_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Gymnopus_foetidus_f3a181f0-a0dd-11f0-8ae0-adaa9954f2d5_9.jpg"
   }
  ],
  "synonym": [
@@ -217,5 +254,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24423842/thumb.jpg"
   }
  ],
- "timestamp": "20250921-182426"
+ "timestamp": "20251005-101246"
 }

@@ -2,6 +2,7 @@
  "genus": "Aphelaria",
  "name": "lacerata",
  "date": [
+  "09/27/2025,24563758759974557",
   "05/28/2025,9742020985908245",
   "07/29/2024,7746977938745903",
   "06/17/2024,7513622852081414",
@@ -186,6 +187,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Aphelaria_lacerata_07621d90-3ec7-11f0-9107-f97922c0c9b1_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aphelaria_lacerata_f8164bc0-a0de-11f0-8ae0-adaa9954f2d5_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aphelaria_lacerata_f8164bc0-a0de-11f0-8ae0-adaa9954f2d5_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aphelaria_lacerata_f8164bc0-a0de-11f0-8ae0-adaa9954f2d5_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aphelaria_lacerata_f8164bc0-a0de-11f0-8ae0-adaa9954f2d5_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aphelaria_lacerata_f8164bc0-a0de-11f0-8ae0-adaa9954f2d5_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Aphelaria_lacerata_f8164bc0-a0de-11f0-8ae0-adaa9954f2d5_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -233,5 +258,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164177437/thumb.jpg"
   }
  ],
- "timestamp": "20250921-182426"
+ "timestamp": "20251005-101246"
 }
