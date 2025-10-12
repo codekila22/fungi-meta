@@ -142,11 +142,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Lepiota cygnea,,",
+  "LookAlikes": "Leucocoprinus cygneus,,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": ",,",
-  "la_zhcn": ",,"
+  "la_zhtw": "天鵝色白鬼傘,,",
+  "la_zhcn": "天鹅色白鬼伞,,"
  },
  "inaturalist": [
   {
@@ -186,5 +186,5 @@
    "src": ""
   }
  ],
- "timestamp": "20251012-181210"
+ "timestamp": "20251012-183044"
 }
