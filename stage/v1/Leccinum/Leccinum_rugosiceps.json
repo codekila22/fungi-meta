@@ -2,6 +2,7 @@
  "genus": "Leccinum",
  "name": "rugosiceps",
  "date": [
+  "09/21/2025,24462681806748920",
   "07/11/2023,6195132003930512",
   "07/25/2015,811930082250758"
  ],
@@ -12,16 +13,20 @@
  "url": "6195132003930512",
  "images": [
   {
-   "author": "",
-   "image_src": "Leccinum_rugosiceps_2_CC BY-NC.jpg"
+   "author": "吳湯姆",
+   "image_src": "Leccinum_rugosiceps_7f2533b0-a742-11f0-8ad5-f7ad3eedbac3_2.jpg"
   },
   {
-   "author": "",
-   "image_src": "Leccinum_rugosiceps_1_CC BY-NC.jpg"
+   "author": "吳湯姆",
+   "image_src": "Leccinum_rugosiceps_7f2533b0-a742-11f0-8ad5-f7ad3eedbac3_1.jpg"
   },
   {
-   "author": "",
-   "image_src": "Leccinum_rugosiceps_3_CC BY-NC.jpg"
+   "author": "吳湯姆",
+   "image_src": "Leccinum_rugosiceps_7f2533b0-a742-11f0-8ad5-f7ad3eedbac3_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Leccinum_rugosiceps_7f2533b0-a742-11f0-8ad5-f7ad3eedbac3_4.jpg"
   },
   {
    "author": "",
@@ -42,6 +47,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Leccinum_rugosiceps_d31add20-22a7-11ee-a0c6-f1d76a63e953_4.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Leccinum_rugosiceps_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Leccinum_rugosiceps_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Leccinum_rugosiceps_3_CC BY-NC.jpg"
   }
  ],
  "names_zhcn": [
@@ -90,5 +107,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13078694/thumb.jpeg"
   }
  ],
- "timestamp": "20251012-103711"
+ "timestamp": "20251012-181210"
 }

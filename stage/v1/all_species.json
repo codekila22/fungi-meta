@@ -1,5 +1,5 @@
 {
- "timestamp": "20251012-103711",
+ "timestamp": "20251012-181210",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -801,7 +801,7 @@
    "Entonaema,膠球炭殼菌屬,胶球炭壳菌属",
    "Eutypa,彎孢殼菌屬,弯孢壳菌属",
    "Exidia,膠耳屬,胶耳属",
-   "Guepinia,鹿角蕈屬,鹿角蕈属",
+   "Guepinia,焰耳屬,焰耳属",
    "Guepiniopsis,盤耳屬,盘耳属",
    "Helicogloea,扭膠菌屬,扭胶菌属",
    "Heterochaete,刺皮菌屬,刺皮菌属",
@@ -1795,6 +1795,7 @@
   "Dirinaria picta,有色黑囊基衣,有色黑囊基衣",
   "Discina ancilis,珠光平盤菌,珠光平盘菌",
   "Discina perlata,珠亮平盤菌,珠亮平盘菌",
+  "Ditiola haasii,哈氏韌釘耳,哈氏韧钉耳",
   "Ditiola peziziformis,盤菌狀韌釘耳,盘菌状韧钉耳",
   "Ditiola radicata,根韌釘耳,根韧钉耳",
   "Ductifera pululahuana,黏德克耳,黏德克耳",
@@ -2340,7 +2341,6 @@
   "Lentinus connatus,合生斗菇,合生斗菇",
   "Lentinus giganteus,巨大斗菇,巨大斗菇",
   "Lentinus sajor-caju var. javanicus,赭褐環柄斗菇,赭褐环柄斗菇",
-  "Lentinus sajor-caju,環柄斗菇,环柄斗菇",
   "Lentinus similis,絨柄斗菇,绒柄斗菇",
   "Lentinus squarrosulus,翹鱗斗菇,翘鳞斗菇",
   "Lentinus strigosus,硬毛斗菇,硬毛斗菇",

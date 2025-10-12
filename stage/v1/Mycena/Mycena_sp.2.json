@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "sp.2",
  "date": [
+  "09/26/2025,24499475656402868",
   "02/04/2024,6938170352960003",
   "11/08/2023,6613278692115839",
   "04/08/2023,5862869960490053",
@@ -109,6 +110,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_sp.2_c591f180-8110-11ee-97a1-515114861ec6_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_sp.2_a67569a0-a745-11f0-85aa-99ccceceda5f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_sp.2_a67569a0-a745-11f0-85aa-99ccceceda5f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_sp.2_a67569a0-a745-11f0-85aa-99ccceceda5f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_sp.2_a67569a0-a745-11f0-85aa-99ccceceda5f_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -150,5 +167,5 @@
   "Note": "發現於樹幹上。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20251012-103711"
+ "timestamp": "20251012-181210"
 }

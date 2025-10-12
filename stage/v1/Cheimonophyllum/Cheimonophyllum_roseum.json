@@ -2,13 +2,16 @@
  "genus": "Cheimonophyllum",
  "name": "roseum",
  "date": [
+  "09/29/2025,24514392281577872",
+  "09/08/2025,24432770493073385",
   "08/24/2024,7910186342425061",
   "08/06/2024,7796898047087225",
   "10/09/2023,6498512566925786",
   "10/20/2022,6607051579405217"
  ],
  "names_zhtw": [
-  "粉紅冬褶菌"
+  "粉紅冬褶菌",
+  "玫瑰冬褶菌"
  ],
  "names_en": [],
  "url": "6498512566925786",
@@ -128,10 +131,83 @@
   {
    "author": "蔡古媧",
    "image_src": "Cheimonophyllum_roseum_08411a10-6298-11ef-bf9c-315d925272f0_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cheimonophyllum_roseum_32eeb760-a746-11f0-8492-2fc12b2ae8da_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cheimonophyllum_roseum_32eeb760-a746-11f0-8492-2fc12b2ae8da_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cheimonophyllum_roseum_32eeb760-a746-11f0-8492-2fc12b2ae8da_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cheimonophyllum_roseum_32eeb760-a746-11f0-8492-2fc12b2ae8da_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_e8923290-a746-11f0-8492-2fc12b2ae8da_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_e8923290-a746-11f0-8492-2fc12b2ae8da_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_e8923290-a746-11f0-8492-2fc12b2ae8da_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_e8923290-a746-11f0-8492-2fc12b2ae8da_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_e8923290-a746-11f0-8492-2fc12b2ae8da_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_e8923290-a746-11f0-8492-2fc12b2ae8da_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_e8923290-a746-11f0-8492-2fc12b2ae8da_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_3c826320-a747-11f0-8492-2fc12b2ae8da_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_3c826320-a747-11f0-8492-2fc12b2ae8da_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_3c826320-a747-11f0-8492-2fc12b2ae8da_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_3c826320-a747-11f0-8492-2fc12b2ae8da_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_3c826320-a747-11f0-8492-2fc12b2ae8da_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_3c826320-a747-11f0-8492-2fc12b2ae8da_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cheimonophyllum_roseum_3c826320-a747-11f0-8492-2fc12b2ae8da_7.jpg"
   }
  ],
  "names_zhcn": [
-  "粉红冬褶菌"
+  "粉红冬褶菌",
+  "玫瑰冬褶菌"
  ],
  "meta": {
   "CapColors": "4294901760,4293951616",
@@ -177,5 +253,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1330907/thumb.jpg"
   }
  ],
- "timestamp": "20251012-103711"
+ "timestamp": "20251012-181210"
 }

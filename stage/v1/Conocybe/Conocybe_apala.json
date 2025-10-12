@@ -2,6 +2,7 @@
  "genus": "Conocybe",
  "name": "apala",
  "date": [
+  "09/25/2025,24480125951671172",
   "08/03/2025,24020420610975044",
   "04/11/2025,9408248205952193",
   "09/29/2024,8298602910250067",
@@ -115,6 +116,30 @@
   {
    "author": "江志緯",
    "image_src": "Conocybe_apala_60739e00-1d7e-11f0-a8c3-2b0c29c57264_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Conocybe_apala_2d381ec0-a745-11f0-85aa-99ccceceda5f_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Conocybe_apala_2d381ec0-a745-11f0-85aa-99ccceceda5f_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Conocybe_apala_2d381ec0-a745-11f0-85aa-99ccceceda5f_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Conocybe_apala_2d381ec0-a745-11f0-85aa-99ccceceda5f_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Conocybe_apala_2d381ec0-a745-11f0-85aa-99ccceceda5f_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Conocybe_apala_2d381ec0-a745-11f0-85aa-99ccceceda5f_6.jpg"
   }
  ],
  "synonym": [
@@ -160,7 +185,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "都市環境中的草坪上常見。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -183,5 +208,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/310883193/thumb.jpg"
   }
  ],
- "timestamp": "20251012-103711"
+ "timestamp": "20251012-181210"
 }

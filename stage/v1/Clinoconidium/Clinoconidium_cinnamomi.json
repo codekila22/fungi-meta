@@ -2,6 +2,7 @@
  "genus": "Clinoconidium",
  "name": "cinnamomi",
  "date": [
+  "10/12/2025,24652167817800317",
   "01/02/2025,8782246508552369",
   "12/15/2024,8682350511875303",
   "12/01/2024,8602980956478926",
@@ -238,6 +239,14 @@
   {
    "author": "游永滄",
    "image_src": "Clinoconidium_cinnamomi_55c3e820-c900-11ef-91d6-0d15714cad9a_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clinoconidium_cinnamomi_fd66c4e0-a748-11f0-8492-2fc12b2ae8da_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clinoconidium_cinnamomi_fd66c4e0-a748-11f0-8492-2fc12b2ae8da_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -280,5 +289,13 @@
   "la_zhtw": "澤田氏斜孢菌,,",
   "la_zhcn": "泽田氏斜孢菌,,"
  },
- "timestamp": "20251012-103711"
+ "inaturalist": [
+  {
+   "name": "Clinoconidium cinnamomi",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1619241-Clinoconidium-cinnamomi",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58369641/thumb.jpg"
+  }
+ ],
+ "timestamp": "20251012-181210"
 }
