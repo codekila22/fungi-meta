@@ -2,7 +2,7 @@
  "name": "Leucocoprinus",
  "zhtw": "白鬼傘屬",
  "zhcn": "白鬼伞属",
- "timestamp": "20250921-102712",
+ "timestamp": "20251012-183044",
  "list": [
   {
    "name": "Leucocoprinus birnbaumii",
@@ -27,6 +27,12 @@
    "zhtw": "白堊白鬼傘",
    "zhcn": "白垩白鬼伞",
    "img": "Leucocoprinus_cretaceus_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Leucocoprinus cygneus",
+   "zhtw": "天鵝色白鬼傘",
+   "zhcn": "天鹅色白鬼伞",
+   "img": "Lepiota_cygnea_3_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Leucocoprinus fragilissimus",

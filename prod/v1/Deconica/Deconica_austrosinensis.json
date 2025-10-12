@@ -182,9 +182,9 @@
  "meta": {
   "CapColors": "4288768839,4291659071,4290278195",
   "CapDiamRangeValues": "5,25",
-  "CapShape": "",
+  "CapShape": "umbontae",
   "CapTexture": "",
-  "CapMargin": "",
+  "CapMargin": "appendiculate,striated",
   "HymeniumType": "",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
@@ -194,13 +194,14 @@
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
-  "StalkTexture": "",
+  "StalkTexture": "fibrous",
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -211,8 +212,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "容易有菌幕殘餘在傘緣上，菌柄纖維狀，有殘餘物附著。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20250921-102712"
+ "timestamp": "20251012-183044"
 }

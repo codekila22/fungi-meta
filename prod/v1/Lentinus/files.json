@@ -2,7 +2,7 @@
  "name": "Lentinus",
  "zhtw": "斗菇屬",
  "zhcn": "斗菇属",
- "timestamp": "20250921-102712",
+ "timestamp": "20251012-183044",
  "list": [
   {
    "name": "Lentinus badius",
@@ -17,12 +17,6 @@
    "img": "Lentinus_concavus_1_CC BY-NC_Purple Cherry.jpg"
   },
   {
-   "name": "Lentinus connatus",
-   "zhtw": "合生斗菇",
-   "zhcn": "合生斗菇",
-   "img": "Lentinus_sajor-caju_1_CC BY-NC_向高世.jpg"
-  },
-  {
    "name": "Lentinus giganteus",
    "zhtw": "巨大斗菇",
    "zhcn": "巨大斗菇",
@@ -35,9 +29,6 @@
    "name": "Lentinus sajor-caju",
    "zhtw": "環柄斗菇",
    "zhcn": "环柄斗菇",
-   "current": "Lentinus connatus",
-   "current_zhtw": "合生斗菇",
-   "current_zhcn": "合生斗菇",
    "img": "Lentinus_sajor-caju_1_CC BY-NC_向高世.jpg"
   },
   {

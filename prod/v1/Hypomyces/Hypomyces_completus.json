@@ -2,6 +2,8 @@
  "genus": "Hypomyces",
  "name": "completus",
  "date": [
+  "09/20/2025,24450390391311395",
+  "09/14/2025,24569688576048242",
   "10/27/2024,8429686973808326",
   "07/11/2023,6195063913937321",
   "07/18/2021,3969294693180932"
@@ -71,6 +73,58 @@
   {
    "author": "江志緯",
    "image_src": "Hypomyces_completus_0e46b330-9e88-11ef-9f59-db7df2d9998d_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypomyces_completus_62ab7ee0-978b-11f0-ab44-89292dc4c90a_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypomyces_completus_62ab7ee0-978b-11f0-ab44-89292dc4c90a_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypomyces_completus_62ab7ee0-978b-11f0-ab44-89292dc4c90a_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypomyces_completus_62ab7ee0-978b-11f0-ab44-89292dc4c90a_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypomyces_completus_62ab7ee0-978b-11f0-ab44-89292dc4c90a_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypomyces_completus_62ab7ee0-978b-11f0-ab44-89292dc4c90a_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypomyces_completus_62ab7ee0-978b-11f0-ab44-89292dc4c90a_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hypomyces_completus_62ab7ee0-978b-11f0-ab44-89292dc4c90a_8.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypomyces_completus_9c9a0a90-a172-11f0-aa83-69528e57c6f9_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypomyces_completus_9c9a0a90-a172-11f0-aa83-69528e57c6f9_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypomyces_completus_9c9a0a90-a172-11f0-aa83-69528e57c6f9_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypomyces_completus_9c9a0a90-a172-11f0-aa83-69528e57c6f9_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Hypomyces_completus_9c9a0a90-a172-11f0-aa83-69528e57c6f9_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,5 +173,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159023/thumb."
   }
  ],
- "timestamp": "20250921-102712"
+ "timestamp": "20251012-183044"
 }

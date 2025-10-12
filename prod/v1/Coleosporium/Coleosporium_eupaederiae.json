@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "09/29/2025,24585276847822748",
   "04/27/2025,9483632615080418",
   "11/27/2024,8582179005225788",
   "06/19/2023,6114058562037857"
@@ -102,6 +103,26 @@
   {
    "author": "江志緯",
    "image_src": "Coleosporium_eupaederiae_45acf700-2329-11f0-98ba-9bbcee5a3dca_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_eupaederiae_e227af10-a26a-11f0-b1a2-992caa299282_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_eupaederiae_e227af10-a26a-11f0-b1a2-992caa299282_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_eupaederiae_e227af10-a26a-11f0-b1a2-992caa299282_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_eupaederiae_e227af10-a26a-11f0-b1a2-992caa299282_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coleosporium_eupaederiae_e227af10-a26a-11f0-b1a2-992caa299282_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -152,5 +173,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/462539108/thumb.jpeg"
   }
  ],
- "timestamp": "20250921-102712"
+ "timestamp": "20251012-183044"
 }
