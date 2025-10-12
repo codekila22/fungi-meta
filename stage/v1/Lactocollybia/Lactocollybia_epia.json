@@ -2,6 +2,7 @@
  "genus": "Lactocollybia",
  "name": "epia",
  "date": [
+  "10/05/2025,24608459325504500",
   "07/11/2025,10075226609254346",
   "11/06/2024,8470065886437101",
   "08/17/2024,7963448873765474",
@@ -251,6 +252,18 @@
   {
    "author": "陳中城",
    "image_src": "Lactocollybia_epia_7c0f5250-5fdf-11f0-8854-2901152f9355_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_1ce18200-a4a7-11f0-9681-2f031dd9ffbe_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_1ce18200-a4a7-11f0-9681-2f031dd9ffbe_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_1ce18200-a4a7-11f0-9681-2f031dd9ffbe_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -300,5 +313,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239006/thumb.jpg"
   }
  ],
- "timestamp": "20251005-101246"
+ "timestamp": "20251012-103711"
 }

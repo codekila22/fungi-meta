@@ -2,7 +2,7 @@
  "name": "Lepiota",
  "zhtw": "環柄菇屬",
  "zhcn": "环柄菇属",
- "timestamp": "20251005-101246",
+ "timestamp": "20251012-103711",
  "list": [
   {
    "name": "Lepiota aspera",
@@ -71,6 +71,9 @@
    "name": "Lepiota cygnea",
    "zhtw": "天鵝色環柄菇",
    "zhcn": "天鹅色环柄菇",
+   "current": "Leucocoprinus cygneus",
+   "current_zhtw": "天鵝色白鬼傘",
+   "current_zhcn": "天鹅色白鬼伞",
    "img": "Lepiota_cygnea_3_CC BY-NC_James Ho.jpg"
   },
   {

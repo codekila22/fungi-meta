@@ -2,6 +2,7 @@
  "genus": "Echinoderma",
  "name": "echinaceum",
  "date": [
+  "10/05/2025,24577339075283192",
   "07/15/2024,7741838095926554",
   "06/09/2024,7502284253215274",
   "05/02/2024,7300174900092878",
@@ -245,6 +246,22 @@
   {
    "author": "蔡古媧",
    "image_src": "Echinoderma_echinaceum_ed32ccb0-d7d5-11ef-93e6-ff84846bdc1a_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Echinoderma_echinaceum_ddf63010-a1ca-11f0-b45c-556a5e72a3d8_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Echinoderma_echinaceum_ddf63010-a1ca-11f0-b45c-556a5e72a3d8_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Echinoderma_echinaceum_ddf63010-a1ca-11f0-b45c-556a5e72a3d8_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Echinoderma_echinaceum_ddf63010-a1ca-11f0-b45c-556a5e72a3d8_4.jpg"
   }
  ],
  "synonym": [
@@ -300,5 +317,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/338843034/thumb.jpeg"
   }
  ],
- "timestamp": "20251005-101246"
+ "timestamp": "20251012-103711"
 }
