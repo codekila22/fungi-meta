@@ -2,6 +2,7 @@
  "genus": "Coltricia",
  "name": "australica",
  "date": [
+  "07/02/2025,24653585144325251",
   "10/07/2023,6585366618240380",
   "10/01/2023,6469165139860529",
   "07/13/2023,6190274384416274",
@@ -177,6 +178,22 @@
   {
    "author": "江志緯",
    "image_src": "Coltricia_australica_c9dc0fc0-79e8-11ee-b33e-df6cb897518a_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coltricia_australica_349ca6d0-a8f9-11f0-aebf-d56f9c2c87ec_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coltricia_australica_349ca6d0-a8f9-11f0-aebf-d56f9c2c87ec_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coltricia_australica_349ca6d0-a8f9-11f0-aebf-d56f9c2c87ec_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coltricia_australica_349ca6d0-a8f9-11f0-aebf-d56f9c2c87ec_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -226,5 +243,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/68721748/thumb.jpeg"
   }
  ],
- "timestamp": "20251012-183044"
+ "timestamp": "20251014-203437"
 }
