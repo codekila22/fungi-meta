@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "gibbosum",
  "date": [
+  "10/12/2025,24677813805235718",
   "01/27/2025,8920336001410085",
   "07/12/2020,4295812287195836",
   "11/07/2013,840640782713021"
@@ -63,6 +64,42 @@
   {
    "author": "柯文俊",
    "image_src": "Ganoderma_gibbosum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_72d3e4d0-a981-11f0-b09a-959deb7cd4d4_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_72d3e4d0-a981-11f0-b09a-959deb7cd4d4_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_72d3e4d0-a981-11f0-b09a-959deb7cd4d4_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_72d3e4d0-a981-11f0-b09a-959deb7cd4d4_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_72d3e4d0-a981-11f0-b09a-959deb7cd4d4_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_72d3e4d0-a981-11f0-b09a-959deb7cd4d4_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_72d3e4d0-a981-11f0-b09a-959deb7cd4d4_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_72d3e4d0-a981-11f0-b09a-959deb7cd4d4_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_gibbosum_72d3e4d0-a981-11f0-b09a-959deb7cd4d4_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -111,5 +148,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/122245501/thumb.jpg"
   }
  ],
- "timestamp": "20251014-203437"
+ "timestamp": "20251017-152831"
 }
