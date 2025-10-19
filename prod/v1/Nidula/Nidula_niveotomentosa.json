@@ -2,6 +2,7 @@
  "genus": "Nidula",
  "name": "niveotomentosa",
  "date": [
+  "10/13/2025,24681841694832929",
   "08/25/2025,24234996696184100",
   "05/31/2024,7432947773482256",
   "12/09/2023,6732420660201641",
@@ -253,6 +254,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Nidula_niveotomentosa_2f83ed90-83e5-11f0-a029-cbc99803ad11_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Nidula_niveotomentosa_c5712620-aa5e-11f0-8d7b-dde1bc771572_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Nidula_niveotomentosa_c5712620-aa5e-11f0-8d7b-dde1bc771572_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Nidula_niveotomentosa_c5712620-aa5e-11f0-8d7b-dde1bc771572_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Nidula_niveotomentosa_c5712620-aa5e-11f0-8d7b-dde1bc771572_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -301,5 +318,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32258197/thumb.jpg"
   }
  ],
- "timestamp": "20251012-183044"
+ "timestamp": "20251019-111518"
 }
