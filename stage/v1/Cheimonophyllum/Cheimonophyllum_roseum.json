@@ -19,6 +19,14 @@
  "images": [
   {
    "author": "徐秀團",
+   "image_src": "Cheimonophyllum_roseum_32eeb760-a746-11f0-8492-2fc12b2ae8da_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cheimonophyllum_roseum_dff8b130-8365-10d9-b41e-b34c0caf8ec6_1.jpg"
+  },
+  {
+   "author": "徐秀團",
    "image_src": "Cheimonophyllum_roseum_d35556c0-6a74-11ee-99d7-6758dce70521_1.jpg"
   },
   {
@@ -68,10 +76,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Cheimonophyllum_roseum_6c051a40-7d30-11ee-9997-877f93d50608_4.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Cheimonophyllum_roseum_dff8b130-8365-10d9-b41e-b34c0caf8ec6_1.jpg"
   },
   {
    "author": "陳麗紅",
@@ -144,10 +148,6 @@
   {
    "author": "徐秀團",
    "image_src": "Cheimonophyllum_roseum_32eeb760-a746-11f0-8492-2fc12b2ae8da_3.jpg"
-  },
-  {
-   "author": "徐秀團",
-   "image_src": "Cheimonophyllum_roseum_32eeb760-a746-11f0-8492-2fc12b2ae8da_4.jpg"
   },
   {
    "author": "向高世",
@@ -270,5 +270,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1330907/thumb.jpg"
   }
  ],
- "timestamp": "20251019-101200"
+ "timestamp": "20251019-103428"
 }
