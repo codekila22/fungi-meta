@@ -17,6 +17,10 @@
  "url": "4194934807283585",
  "images": [
   {
+   "author": "陳中城",
+   "image_src": "Auricularia_cornea var. lactea_acf54510-9413-11f0-8e24-ff3bf45e3c0e_2.jpg"
+  },
+  {
    "author": "向高世",
    "image_src": "Auricularia_heimuer var. lactea_db7559a0-a9c0-11ee-a643-45d5cc16232b_1.jpg"
   },
@@ -102,10 +106,6 @@
   },
   {
    "author": "陳中城",
-   "image_src": "Auricularia_cornea var. lactea_acf54510-9413-11f0-8e24-ff3bf45e3c0e_2.jpg"
-  },
-  {
-   "author": "陳中城",
    "image_src": "Auricularia_cornea var. lactea_acf54510-9413-11f0-8e24-ff3bf45e3c0e_3.jpg"
   },
   {
@@ -185,5 +185,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20251024-084612"
+ "timestamp": "20251024-092358"
 }

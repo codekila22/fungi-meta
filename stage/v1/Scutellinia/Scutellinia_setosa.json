@@ -13,6 +13,10 @@
  "images": [
   {
    "author": "陳麗紅",
+   "image_src": "Scutellinia_setosa_629564e0-aeef-11f0-96d0-b3080f917e43_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
    "image_src": "Scutellinia_setosa_1_CC BY-NC_陳麗紅.jpg"
   },
   {
@@ -26,10 +30,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Scutellinia_setosa_4_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Scutellinia_setosa_629564e0-aeef-11f0-96d0-b3080f917e43_1.jpg"
   },
   {
    "author": "陳麗紅",
@@ -87,5 +87,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27369778/thumb.jpeg"
   }
  ],
- "timestamp": "20251024-084612"
+ "timestamp": "20251024-092358"
 }

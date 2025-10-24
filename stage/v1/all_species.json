@@ -1,5 +1,5 @@
 {
- "timestamp": "20251024-084612",
+ "timestamp": "20251024-092358",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -974,6 +974,7 @@
    "Sulzbacheromyces,麗燭衣屬,丽烛衣属",
    "Teloschistes,黃枝衣屬,黄枝衣属",
    "Tephromela,灰衣屬,灰衣属",
+   "Thelotrema,疣孔衣屬,疣孔衣属",
    "Trapelia,褐邊衣屬,褐边衣属",
    "Trypethelium,乳嘴衣屬,乳嘴衣属",
    "Tuckneraria,緣毛腎島衣屬,缘毛肾岛衣属",
@@ -2701,6 +2702,7 @@
   "Nomuraea atypicola,非典型野村黴,非典型野村霉",
   "Nyssopsora formosana,臺灣花孢銹菌,台湾花孢锈菌",
   "Nyssopsora thwaitesii,鵝掌藤花孢銹菌,鹅掌藤花孢锈菌",
+  "Ochrolechia tartarea,酒石肉疣衣,酒石肉疣衣",
   "Ochrolechia trochophora,幹生肉疣衣,干生肉疣衣",
   "Ochrolechia yasuda,裂芽肉疣衣,裂芽肉疣衣",
   "Ochrolechia yasudae,裂芽肉疣衣,裂芽肉疣衣",
@@ -3403,6 +3405,7 @@
   "Thelephora penicillata,掃帚革菌,扫帚革菌",
   "Thelephora terrestris,陸地革菌,陆地革菌",
   "Thelephora vialis,蓮座革菌,莲座革菌",
+  "Thelotrema lepadinum,帽貝疣孔衣,帽贝疣孔衣",
   "Tilachlidium brachiatum,分枝多頭束黴,分枝多头束霉",
   "Togninia aff. minima,微小帶形殼菌的相似種,微小带形壳菌的相似种",
   "Tolypocladium longisegmentum,長節彎頸黴,长节弯颈霉",

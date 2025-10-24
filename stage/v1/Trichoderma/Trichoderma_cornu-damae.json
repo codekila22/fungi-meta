@@ -310,6 +310,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "3,10",
   "StalkLengthRangeValuess": "50,200",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered,grouped",
@@ -320,7 +321,7 @@
   "Smell": "",
   "Taste": "bitter",
   "LookAlikes": "",
-  "Note": "根據文獻記載，此物種有致命劇毒，即使僅觸碰到菌肉液體也可能導致過敏或潰爛。\n\n子實體肉質堅硬且菌肉內部白色，切勿用皮膚觸碰或採食。"
+  "Note": "根據文獻記載，此物種有致命劇毒，即使僅觸碰到菌肉液體也可能導致過敏或潰爛。\n子實體肉質堅硬且菌肉內部白色，切勿用皮膚觸碰或採食。\n台灣北部中低海拔山區偶見。"
  },
  "inaturalist": [
   {
@@ -330,5 +331,5 @@
    "src": "https://static.inaturalist.org/photos/5672995/thumb.jpg"
   }
  ],
- "timestamp": "20251024-084612"
+ "timestamp": "20251024-092358"
 }
