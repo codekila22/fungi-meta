@@ -2,6 +2,7 @@
  "genus": "Climacodon",
  "name": "roseomaculatus",
  "date": [
+  "10/15/2025,24757037570646674",
   "06/29/2025,10001752726601735",
   "09/30/2024,8199129036864122",
   "07/23/2024,7717262851717412",
@@ -223,6 +224,22 @@
   {
    "author": "江志緯",
    "image_src": "Climacodon_roseomaculatus_7b1b5450-595b-11f0-ba5b-458b4ebbcf9f_12.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Climacodon_roseomaculatus_8024bd90-af3e-11f0-9a95-c70a5486add2_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Climacodon_roseomaculatus_8024bd90-af3e-11f0-9a95-c70a5486add2_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Climacodon_roseomaculatus_8024bd90-af3e-11f0-9a95-c70a5486add2_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Climacodon_roseomaculatus_8024bd90-af3e-11f0-9a95-c70a5486add2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -271,5 +288,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/65594244/thumb.jpg"
   }
  ],
- "timestamp": "20251019-111518"
+ "timestamp": "20251024-084612"
 }
