@@ -2,6 +2,7 @@
  "genus": "Daldinia",
  "name": "eschscholtzii",
  "date": [
+  "10/25/2025,24787366390947125",
   "09/21/2024,8111157925661234",
   "11/25/2023,6677162115727496",
   "09/15/2023,6406125706164473",
@@ -158,6 +159,30 @@
   {
    "author": "向高世",
    "image_src": "Daldinia_eschscholtzii_06760e50-bf6f-11ef-8909-9f8c4bb0e400_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Daldinia_eschscholtzii_e0196f40-b162-11f0-9f24-6d0d0b42b9ff_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Daldinia_eschscholtzii_e0196f40-b162-11f0-9f24-6d0d0b42b9ff_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Daldinia_eschscholtzii_e0196f40-b162-11f0-9f24-6d0d0b42b9ff_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Daldinia_eschscholtzii_e0196f40-b162-11f0-9f24-6d0d0b42b9ff_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Daldinia_eschscholtzii_e0196f40-b162-11f0-9f24-6d0d0b42b9ff_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Daldinia_eschscholtzii_e0196f40-b162-11f0-9f24-6d0d0b42b9ff_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -196,7 +221,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Daldinia concentrica,,",
-  "Note": "此物種外殼較軟，切下去會有黏液，相似種同心環紋炭球菌的外殼比較硬脆。",
+  "Note": "台灣平地低海拔常見，此物種外殼較軟，切下去會有黏液，相似種同心環紋炭球菌的外殼比較硬脆。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "同心環紋炭球菌,,",
   "la_zhcn": "同心环纹炭球菌,,"
@@ -215,5 +240,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/76125697/thumb.jpg"
   }
  ],
- "timestamp": "20251019-111518"
+ "timestamp": "20251027-205721"
 }

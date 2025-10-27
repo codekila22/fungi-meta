@@ -1,5 +1,5 @@
 {
- "timestamp": "20251019-111518",
+ "timestamp": "20251027-205721",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -957,6 +957,7 @@
    "Porina,污核衣屬,污核衣属",
    "Porpidia,假網衣屬,假网衣属",
    "Pseudocyphellaria,假杯點衣屬,假杯点衣属",
+   "Punctelia,星點梅屬,星点梅属",
    "Pyrenula,小核衣屬,小核衣属",
    "Pyrrhospora,梨孢衣屬,梨孢衣属",
    "Pyxine,黑盤衣屬,黑盘衣属",
@@ -974,6 +975,7 @@
    "Sulzbacheromyces,麗燭衣屬,丽烛衣属",
    "Teloschistes,黃枝衣屬,黄枝衣属",
    "Tephromela,灰衣屬,灰衣属",
+   "Thelotrema,疣孔衣屬,疣孔衣属",
    "Trapelia,褐邊衣屬,褐边衣属",
    "Trypethelium,乳嘴衣屬,乳嘴衣属",
    "Tuckneraria,緣毛腎島衣屬,缘毛肾岛衣属",
@@ -2701,6 +2703,7 @@
   "Nomuraea atypicola,非典型野村黴,非典型野村霉",
   "Nyssopsora formosana,臺灣花孢銹菌,台湾花孢锈菌",
   "Nyssopsora thwaitesii,鵝掌藤花孢銹菌,鹅掌藤花孢锈菌",
+  "Ochrolechia tartarea,酒石肉疣衣,酒石肉疣衣",
   "Ochrolechia trochophora,幹生肉疣衣,干生肉疣衣",
   "Ochrolechia yasuda,裂芽肉疣衣,裂芽肉疣衣",
   "Ochrolechia yasudae,裂芽肉疣衣,裂芽肉疣衣",
@@ -3099,6 +3102,7 @@
   "Puccinia zoysiae,結縷草柄銹菌,结缕草柄锈菌",
   "Pulveroboletus auriflammeus,金粉末牛肝菌,金粉末牛肝菌",
   "Pulveroboletus ravenelii,黃粉末牛肝菌,黄粉末牛肝菌",
+  "Punctelia rudecta,粗星點梅衣,粗星点梅衣",
   "Punctularia atropurpurascens,紫黑點殼菌,紫黑点壳菌",
   "Punjabia pakistanica,巴基斯坦旁遮普鬼傘,巴基斯坦旁遮普鬼伞",
   "Purpureocillium atypicola,非典型紫孢菌,非典型紫孢菌",
@@ -3403,6 +3407,7 @@
   "Thelephora penicillata,掃帚革菌,扫帚革菌",
   "Thelephora terrestris,陸地革菌,陆地革菌",
   "Thelephora vialis,蓮座革菌,莲座革菌",
+  "Thelotrema lepadinum,帽貝疣孔衣,帽贝疣孔衣",
   "Tilachlidium brachiatum,分枝多頭束黴,分枝多头束霉",
   "Togninia aff. minima,微小帶形殼菌的相似種,微小带形壳菌的相似种",
   "Tolypocladium longisegmentum,長節彎頸黴,长节弯颈霉",

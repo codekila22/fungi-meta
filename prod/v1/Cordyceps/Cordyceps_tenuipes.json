@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "10/17/2025,24758363383847426",
   "06/11/2025,9855979194512423",
   "10/18/2024,8346518148791876",
   "06/16/2024,7519079934869039",
@@ -158,6 +159,14 @@
   {
    "author": "姜淋友",
    "image_src": "Cordyceps_tenuipes_d76d5220-49cb-11f0-8797-012e4dd57347_1.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Cordyceps_tenuipes_89f48670-b088-11f0-8b41-db7d8472d1da_1.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Cordyceps_tenuipes_89f48670-b088-11f0-8b41-db7d8472d1da_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -205,5 +214,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1676350/thumb.jpg"
   }
  ],
- "timestamp": "20251019-111518"
+ "timestamp": "20251027-205721"
 }

@@ -400,6 +400,7 @@
   "StalkBase": "bulbous",
   "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "100,300",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
@@ -410,7 +411,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長在山區闊葉林的林間地上。",
+  "Note": "此物種與台灣平地草坪常見的綠褶菇外觀相似，但它目前只發現生長在中海拔山區闊葉林地上，且菌柄有明顯蛇紋。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -427,5 +428,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/232120070/thumb.jpg"
   }
  ],
- "timestamp": "20251019-111518"
+ "timestamp": "20251027-205721"
 }

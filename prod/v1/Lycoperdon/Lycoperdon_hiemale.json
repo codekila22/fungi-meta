@@ -2,6 +2,7 @@
  "genus": "Lycoperdon",
  "name": "hiemale",
  "date": [
+  "10/24/2025,24777174075299690",
   "06/08/2024,7475339039243129",
   "06/06/2024,7466770000100033",
   "06/17/2023,6099137570196623",
@@ -182,6 +183,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Lycoperdon_hiemale_0e9c4820-2635-11ef-a35b-eda34be9859c_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_hiemale_21aaf2b0-b165-11f0-9f24-6d0d0b42b9ff_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_hiemale_21aaf2b0-b165-11f0-9f24-6d0d0b42b9ff_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_hiemale_21aaf2b0-b165-11f0-9f24-6d0d0b42b9ff_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_hiemale_21aaf2b0-b165-11f0-9f24-6d0d0b42b9ff_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -210,7 +227,7 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground,meadow",
@@ -220,7 +237,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體表面覆蓋褐色小錐鱗，土中有假根，孢子成熟時顏色是黃褐色。只有在菌肉白色時可食。",
+  "Note": "平地草坪常見，子實體表面覆蓋褐色小錐鱗，土中有假根，孢子成熟時顏色是黃褐色。只有在菌肉白色時可食。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -231,5 +248,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163776118/thumb.jpg"
   }
  ],
- "timestamp": "20251019-111518"
+ "timestamp": "20251027-205721"
 }

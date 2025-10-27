@@ -12,11 +12,13 @@
   "01/13/2023,5597103757066676",
   "01/08/2023,5579081712202214",
   "12/23/2022,5534697079974011",
+  "09/09/2022,24752138944469870",
   "12/10/2021,4410484435728620",
   "12/10/2021,4398172696959794",
   "08/28/2021,4077379622372438",
   "07/27/2021,3982181028558965",
   "01/13/2021,3435572623219811",
+  "01/08/2021,24752138944469870",
   "12/13/2020,3396614417115632",
   "09/05/2020,3172539762856433"
  ],
@@ -172,6 +174,38 @@
   {
    "author": "吳湯姆",
    "image_src": "Phyllotopsis_nidulans_994cee00-fcc4-11ef-a85e-05f0aba74d70_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Phyllotopsis_nidulans_44fbf720-b06e-11f0-a962-097cbeb94eee_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Phyllotopsis_nidulans_44fbf720-b06e-11f0-a962-097cbeb94eee_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Phyllotopsis_nidulans_44fbf720-b06e-11f0-a962-097cbeb94eee_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Phyllotopsis_nidulans_44fbf720-b06e-11f0-a962-097cbeb94eee_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Phyllotopsis_nidulans_44fbf720-b06e-11f0-a962-097cbeb94eee_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Phyllotopsis_nidulans_44fbf720-b06e-11f0-a962-097cbeb94eee_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Phyllotopsis_nidulans_44fbf720-b06e-11f0-a962-097cbeb94eee_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Phyllotopsis_nidulans_44fbf720-b06e-11f0-a962-097cbeb94eee_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -199,17 +233,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
-  "Seasons": "",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "not-edible",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "中海拔較常見。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -220,5 +255,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4692/thumb.jpg"
   }
  ],
- "timestamp": "20251019-111518"
+ "timestamp": "20251027-205721"
 }

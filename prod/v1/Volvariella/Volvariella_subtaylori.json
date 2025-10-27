@@ -2,6 +2,7 @@
  "genus": "Volvariella",
  "name": "subtaylori",
  "date": [
+  "10/26/2025,24796897403327357",
   "08/17/2023,6304791232964588",
   "07/31/2023,6248793788564333",
   "07/12/2023,6185569631553416",
@@ -119,6 +120,38 @@
   {
    "author": "徐秀團",
    "image_src": "Volvariella_subtaylori_3b48c960-3ce4-11ee-bb91-b1524455238f_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_subtaylori_87f24650-b213-11f0-84be-f5bba386e204_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_subtaylori_87f24650-b213-11f0-84be-f5bba386e204_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_subtaylori_87f24650-b213-11f0-84be-f5bba386e204_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_subtaylori_87f24650-b213-11f0-84be-f5bba386e204_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_subtaylori_87f24650-b213-11f0-84be-f5bba386e204_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_subtaylori_87f24650-b213-11f0-84be-f5bba386e204_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_subtaylori_87f24650-b213-11f0-84be-f5bba386e204_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Volvariella_subtaylori_87f24650-b213-11f0-84be-f5bba386e204_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -160,5 +193,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20251019-111518"
+ "inaturalist": [
+  {
+   "name": "Volvariella subtaylori",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1602898-Volvariella-subtaylori",
+   "src": "https://static.inaturalist.org/photos/465153863/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20251027-205721"
 }

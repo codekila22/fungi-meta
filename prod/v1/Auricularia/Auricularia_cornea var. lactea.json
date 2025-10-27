@@ -2,6 +2,7 @@
  "genus": "Auricularia",
  "name": "cornea var. lactea",
  "date": [
+  "10/18/2025,24755526110797820",
   "10/09/2023,6515050641938645",
   "01/26/2023,7016255128484858",
   "06/04/2017,6814412518669121",
@@ -15,6 +16,10 @@
  "names_en": [],
  "url": "4194934807283585",
  "images": [
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_cornea var. lactea_acf54510-9413-11f0-8e24-ff3bf45e3c0e_2.jpg"
+  },
   {
    "author": "向高世",
    "image_src": "Auricularia_heimuer var. lactea_db7559a0-a9c0-11ee-a643-45d5cc16232b_1.jpg"
@@ -101,10 +106,6 @@
   },
   {
    "author": "陳中城",
-   "image_src": "Auricularia_cornea var. lactea_acf54510-9413-11f0-8e24-ff3bf45e3c0e_2.jpg"
-  },
-  {
-   "author": "陳中城",
    "image_src": "Auricularia_cornea var. lactea_acf54510-9413-11f0-8e24-ff3bf45e3c0e_3.jpg"
   },
   {
@@ -118,6 +119,30 @@
   {
    "author": "陳中城",
    "image_src": "Auricularia_cornea var. lactea_acf54510-9413-11f0-8e24-ff3bf45e3c0e_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Auricularia_cornea var. lactea_4cc908a0-af3b-11f0-9a95-c70a5486add2_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Auricularia_cornea var. lactea_4cc908a0-af3b-11f0-9a95-c70a5486add2_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Auricularia_cornea var. lactea_4cc908a0-af3b-11f0-9a95-c70a5486add2_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Auricularia_cornea var. lactea_4cc908a0-af3b-11f0-9a95-c70a5486add2_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Auricularia_cornea var. lactea_4cc908a0-af3b-11f0-9a95-c70a5486add2_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Auricularia_cornea var. lactea_4cc908a0-af3b-11f0-9a95-c70a5486add2_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -160,5 +185,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20251019-111518"
+ "timestamp": "20251027-205721"
 }

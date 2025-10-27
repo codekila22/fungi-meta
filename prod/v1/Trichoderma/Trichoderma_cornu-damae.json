@@ -10,6 +10,7 @@
  ],
  "date": [
   "07/22/2025,23997334043283701",
+  "07/15/2025,24745449595138805",
   "10/21/2024,8448655191911504",
   "08/19/2024,7876237612486601",
   "08/03/2024,7787520231358340",
@@ -251,6 +252,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Trichoderma_cornu-damae_02294770-6f4d-11f0-a139-47ca4a8ccdde_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trichoderma_cornu-damae_c0988ec0-b06e-11f0-a962-097cbeb94eee_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trichoderma_cornu-damae_c0988ec0-b06e-11f0-a962-097cbeb94eee_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trichoderma_cornu-damae_c0988ec0-b06e-11f0-a962-097cbeb94eee_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trichoderma_cornu-damae_c0988ec0-b06e-11f0-a962-097cbeb94eee_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trichoderma_cornu-damae_c0988ec0-b06e-11f0-a962-097cbeb94eee_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trichoderma_cornu-damae_c0988ec0-b06e-11f0-a962-097cbeb94eee_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trichoderma_cornu-damae_c0988ec0-b06e-11f0-a962-097cbeb94eee_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -281,6 +310,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "3,10",
   "StalkLengthRangeValuess": "50,200",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered,grouped",
@@ -291,7 +321,7 @@
   "Smell": "",
   "Taste": "bitter",
   "LookAlikes": "",
-  "Note": "根據文獻記載，此物種有致命劇毒，即使僅觸碰到菌肉液體也可能導致過敏或潰爛。\n\n子實體肉質堅硬且菌肉內部白色，切勿用皮膚觸碰或採食。"
+  "Note": "根據文獻記載，此物種有致命劇毒，即使僅觸碰到菌肉液體也可能導致過敏或潰爛。\n子實體肉質堅硬且菌肉內部白色，切勿用皮膚觸碰或採食。\n台灣北部中低海拔山區偶見。"
  },
  "inaturalist": [
   {
@@ -301,5 +331,5 @@
    "src": "https://static.inaturalist.org/photos/5672995/thumb.jpg"
   }
  ],
- "timestamp": "20251019-111518"
+ "timestamp": "20251027-205721"
 }

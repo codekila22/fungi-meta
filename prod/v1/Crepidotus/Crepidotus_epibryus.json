@@ -6,6 +6,7 @@
   "04/02/2024,7169562596487443",
   "04/03/2023,5901595073284208",
   "06/05/2022,7090267731083597",
+  "08/05/2021,4018990764877991",
   "04/24/2021,3750429495067454"
  ],
  "names_zhtw": [
@@ -14,6 +15,14 @@
  "names_en": [],
  "url": "3750429495067454",
  "images": [
+  {
+   "author": "向高世",
+   "image_src": "Crepidotus_epibryus_999d8b70-b070-11f0-a962-097cbeb94eee_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Crepidotus_epibryus_999d8b70-b070-11f0-a962-097cbeb94eee_2.jpg"
+  },
   {
    "author": "陳雅芬",
    "image_src": "Crepidotus_epibryus_1_CC BY-NC_陳雅芬.jpg"
@@ -185,8 +194,8 @@
  "meta": {
   "CapColors": "4294309365,4292664540",
   "CapDiamRangeValues": "4,15",
-  "CapShape": "",
-  "CapTexture": "",
+  "CapShape": "fan",
+  "CapTexture": "velvety",
   "CapMargin": "",
   "HymeniumType": "",
   "HymeniumColors": "",
@@ -204,6 +213,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -225,5 +235,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340472/thumb.jpg"
   }
  ],
- "timestamp": "20251019-111518"
+ "timestamp": "20251027-205721"
 }
