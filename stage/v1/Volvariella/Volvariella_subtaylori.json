@@ -193,5 +193,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20251027-204505"
+ "inaturalist": [
+  {
+   "name": "Volvariella subtaylori",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1602898-Volvariella-subtaylori",
+   "src": "https://static.inaturalist.org/photos/465153863/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20251027-205721"
 }
