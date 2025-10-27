@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "haematocephalus",
  "date": [
+  "10/25/2025,24807817288902035",
   "06/14/2025,9880664818710527",
   "11/21/2024,8549687055141650",
   "09/28/2024,8179052438871782",
@@ -433,8 +434,9 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "debris,leaves",
   "Bruising": "",
@@ -466,5 +468,5 @@
    "src": ""
   }
  ],
- "timestamp": "20251024-092358"
+ "timestamp": "20251027-204505"
 }

@@ -2,6 +2,7 @@
  "genus": "Coprinopsis",
  "name": "stercorea",
  "date": [
+  "10/26/2025,24798843429799421",
   "10/13/2024,8327392177371140",
   "02/04/2024,6938218362955202",
   "01/23/2024,6890127671097605",
@@ -134,6 +135,54 @@
   {
    "author": "江志緯",
    "image_src": "Coprinopsis_stercorea_d3520ea0-8b8b-11ef-8d51-fbbb1d8dc390_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -173,7 +222,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Coprinellus heptemerus,,",
-  "Note": "",
+  "Note": "傘面有較多易掉落的鱗狀絨毛。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "柔碎小鬼傘,,",
   "la_zhcn": "柔碎小鬼伞,,"
@@ -186,5 +235,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/107912980/thumb.jpg"
   }
  ],
- "timestamp": "20251024-092358"
+ "timestamp": "20251027-204505"
 }

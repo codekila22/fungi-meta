@@ -40,6 +40,14 @@
  "url": "1213938302049932",
  "images": [
   {
+   "author": "蔡古媧",
+   "image_src": "Lacrymaria_lacrymabunda_14ec9440-af3d-11f0-9a95-c70a5486add2_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Lacrymaria_lacrymabunda_d91f1210-b21a-11ee-b88f-8bbffa332ab4_2.jpg"
+  },
+  {
    "author": "柯文俊",
    "image_src": "Psathyrella_velutina_6_CC BY-NC.jpg"
   },
@@ -126,10 +134,6 @@
   {
    "author": "陳雅芬",
    "image_src": "Lacrymaria_lacrymabunda_d91f1210-b21a-11ee-b88f-8bbffa332ab4_1.jpg"
-  },
-  {
-   "author": "陳雅芬",
-   "image_src": "Lacrymaria_lacrymabunda_d91f1210-b21a-11ee-b88f-8bbffa332ab4_2.jpg"
   },
   {
    "author": "陳雅芬",
@@ -413,10 +417,6 @@
   },
   {
    "author": "蔡古媧",
-   "image_src": "Lacrymaria_lacrymabunda_14ec9440-af3d-11f0-9a95-c70a5486add2_1.jpg"
-  },
-  {
-   "author": "蔡古媧",
    "image_src": "Lacrymaria_lacrymabunda_14ec9440-af3d-11f0-9a95-c70a5486add2_2.jpg"
   },
   {
@@ -478,5 +478,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/160418/thumb.jpg"
   }
  ],
- "timestamp": "20251024-092358"
+ "timestamp": "20251027-204505"
 }
