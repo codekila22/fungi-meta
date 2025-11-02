@@ -2,16 +2,44 @@
  "genus": "Ascobolus",
  "name": "scatigenus",
  "date": [
-  "01/01/0001"
+  "10/31/2025,24856403907376706",
+  "08/19/2024,7882861171824245",
+  "11/15/2022,5418829714894082",
+  "08/31/2022,5199028826874173",
+  "11/25/2021,4356770377766693",
+  "06/30/2021,3905676586209410",
+  "06/17/2021,3870014046442331",
+  "06/05/2021,3837372399706496",
+  "09/03/2015,788594251251008"
  ],
  "names_zhtw": [
   "寡紋糞盤菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/627",
+ "url": "24856403907376706",
  "images": [
   {
-   "author": "",
+   "author": "黃金興",
+   "image_src": "Ascobolus_scatigenus_516f4dc0-b7c3-11f0-be1d-67d2f01a87f4_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Ascobolus_scatigenus_516f4dc0-b7c3-11f0-be1d-67d2f01a87f4_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Ascobolus_scatigenus_516f4dc0-b7c3-11f0-be1d-67d2f01a87f4_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Ascobolus_scatigenus_516f4dc0-b7c3-11f0-be1d-67d2f01a87f4_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Ascobolus_scatigenus_516f4dc0-b7c3-11f0-be1d-67d2f01a87f4_5.jpg"
+  },
+  {
+   "author": "林進福",
    "image_src": "Ascobolus_scatigenus_10_CC BY-NC.jpg"
   },
   {
@@ -39,15 +67,15 @@
    "image_src": "Ascobolus_scatigenus_6_CC BY-NC_陳啟仁.jpg"
   },
   {
-   "author": "",
+   "author": "林進福",
    "image_src": "Ascobolus_scatigenus_7_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "林進福",
    "image_src": "Ascobolus_scatigenus_8_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "林進福",
    "image_src": "Ascobolus_scatigenus_9_CC BY-NC.jpg"
   }
  ],
@@ -97,5 +125,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/66284708/thumb.jpg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }

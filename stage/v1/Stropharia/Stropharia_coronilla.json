@@ -2,6 +2,8 @@
  "genus": "Stropharia",
  "name": "coronilla",
  "date": [
+  "10/30/2025,24837434595940304",
+  "10/26/2025,24818960464454384",
   "04/20/2025,9449885278455152",
   "06/03/2024,7448774565232910",
   "04/27/2024,7275942609182774",
@@ -357,6 +359,86 @@
   {
    "author": "陳麗紅",
    "image_src": "Stropharia_coronilla_2db84ed0-23bd-11f0-853c-952b90764a18_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_9.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_10.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_11.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_12.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_13.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_14.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_15.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_16.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Stropharia_coronilla_f179c8c0-b3dd-11f0-9c48-c77111c0df1f_17.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stropharia_coronilla_29781ae0-b57a-11f0-b0b3-b77d6f71b89c_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stropharia_coronilla_29781ae0-b57a-11f0-b0b3-b77d6f71b89c_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stropharia_coronilla_29781ae0-b57a-11f0-b0b3-b77d6f71b89c_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -406,5 +488,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/56875956/thumb.jpg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }

@@ -2,6 +2,7 @@
  "genus": "Cyptotrama",
  "name": "asprata",
  "date": [
+  "10/31/2025,24849354708081626",
   "07/30/2025,23995848113432294",
   "12/15/2024,8682427328534288",
   "10/06/2024,8257021861074839",
@@ -297,6 +298,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Cyptotrama_asprata_ddfba2b0-6f53-11f0-ad4d-1fe601a7aee0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyptotrama_asprata_5274a540-b7c2-11f0-be1d-67d2f01a87f4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyptotrama_asprata_5274a540-b7c2-11f0-be1d-67d2f01a87f4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyptotrama_asprata_5274a540-b7c2-11f0-be1d-67d2f01a87f4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyptotrama_asprata_5274a540-b7c2-11f0-be1d-67d2f01a87f4_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -348,5 +365,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/850509/thumb.jpg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }

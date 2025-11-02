@@ -2,6 +2,7 @@
  "genus": "Lichenomphalia",
  "name": "alpina",
  "date": [
+  "11/12/2022,24836919912658439",
   "04/12/2022,4807857702657956"
  ],
  "names_zhtw": [
@@ -29,6 +30,22 @@
   {
    "author": "姜淋友",
    "image_src": "Lichenomphalia_alpina_5_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_alpina_64bb4870-b7be-11f0-be1d-67d2f01a87f4_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_alpina_64bb4870-b7be-11f0-be1d-67d2f01a87f4_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_alpina_64bb4870-b7be-11f0-be1d-67d2f01a87f4_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_alpina_64bb4870-b7be-11f0-be1d-67d2f01a87f4_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -79,5 +96,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1243801/thumb."
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }

@@ -2,6 +2,7 @@
  "genus": "Coprinopsis",
  "name": "urticicola",
  "date": [
+  "10/31/2025,24849266141423816",
   "04/09/2024,7203394256437610",
   "03/12/2024,7129428663834170",
   "02/29/2024,7043343635776007",
@@ -239,6 +240,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Coprinopsis_urticicola_4dd7c440-fa5e-11ee-b0a1-d579b58f511f_5.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Coprinopsis_urticicola_9f202db0-b7c2-11f0-be1d-67d2f01a87f4_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Coprinopsis_urticicola_9f202db0-b7c2-11f0-be1d-67d2f01a87f4_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Coprinopsis_urticicola_9f202db0-b7c2-11f0-be1d-67d2f01a87f4_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -288,5 +301,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28894147/thumb.jpg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }

@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "indigotica",
  "date": [
+  "10/31/2025,24859148603768903",
   "07/15/2025,23997642539919518",
   "07/30/2024,7855494151227614",
   "06/11/2024,7488490211261345",
@@ -342,6 +343,22 @@
   {
    "author": "何俊霖",
    "image_src": "Mycena_indigotica_be7daab0-6f57-11f0-a09a-0d2fafb5cd75_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_indigotica_29b78f20-b78e-11f0-a47b-73bae0bcb04d_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_indigotica_29b78f20-b78e-11f0-a47b-73bae0bcb04d_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_indigotica_29b78f20-b78e-11f0-a47b-73bae0bcb04d_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_indigotica_29b78f20-b78e-11f0-a47b-73bae0bcb04d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -391,5 +408,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253146082/thumb.jpg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }

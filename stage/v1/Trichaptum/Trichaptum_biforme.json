@@ -2,6 +2,7 @@
  "genus": "Trichaptum",
  "name": "biforme",
  "date": [
+  "10/29/2025,24835716726112091",
   "03/31/2025,9300848526692162",
   "03/16/2025,9214192518691097",
   "01/05/2025,8834988256611527",
@@ -205,6 +206,42 @@
   {
    "author": "徐秀團",
    "image_src": "Trichaptum_biforme_f1111510-180f-11f0-8f31-4756a31b9b22_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Trichaptum_biforme_71a30790-b7c7-11f0-b642-e38adf4043b2_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Trichaptum_biforme_71a30790-b7c7-11f0-b642-e38adf4043b2_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Trichaptum_biforme_71a30790-b7c7-11f0-b642-e38adf4043b2_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Trichaptum_biforme_71a30790-b7c7-11f0-b642-e38adf4043b2_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Trichaptum_biforme_71a30790-b7c7-11f0-b642-e38adf4043b2_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Trichaptum_biforme_71a30790-b7c7-11f0-b642-e38adf4043b2_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Trichaptum_biforme_71a30790-b7c7-11f0-b642-e38adf4043b2_7.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Trichaptum_biforme_71a30790-b7c7-11f0-b642-e38adf4043b2_8.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Trichaptum_biforme_71a30790-b7c7-11f0-b642-e38adf4043b2_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -253,5 +290,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29872746/thumb.jpg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }

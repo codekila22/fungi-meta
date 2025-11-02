@@ -2,6 +2,7 @@
  "genus": "Psathyrella",
  "name": "pygmaea",
  "date": [
+  "10/30/2025,24839293145754449",
   "07/10/2025,10076881169088890",
   "06/24/2025,9945333452243663",
   "04/26/2025,9486447578132255",
@@ -364,6 +365,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Psathyrella_pygmaea_133fb7b0-5ee5-11f0-bb8a-493e2c262dfa_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_pygmaea_4e9bc920-b7c8-11f0-b642-e38adf4043b2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_pygmaea_4e9bc920-b7c8-11f0-b642-e38adf4043b2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_pygmaea_4e9bc920-b7c8-11f0-b642-e38adf4043b2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_pygmaea_4e9bc920-b7c8-11f0-b642-e38adf4043b2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -419,5 +436,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28205178/thumb.jpg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }

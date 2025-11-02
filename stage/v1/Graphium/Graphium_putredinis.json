@@ -2,6 +2,7 @@
  "genus": "Graphium",
  "name": "putredinis",
  "date": [
+  "10/29/2025,24830583546625409",
   "10/02/2025,24585623784454721",
   "09/11/2025,24360596836957418",
   "02/18/2025,5415959478514439"
@@ -71,6 +72,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Graphium_putredinis_f1d84ad0-a276-11f0-80e0-b9b083566b24_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphium_putredinis_3660ad50-b4d3-11f0-9110-6db91d4a630b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphium_putredinis_3660ad50-b4d3-11f0-9110-6db91d4a630b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphium_putredinis_3660ad50-b4d3-11f0-9110-6db91d4a630b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Graphium_putredinis_3660ad50-b4d3-11f0-9110-6db91d4a630b_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,5 +136,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/67425895/thumb.jpeg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }

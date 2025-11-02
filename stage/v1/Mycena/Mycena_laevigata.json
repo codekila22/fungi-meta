@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "laevigata",
  "date": [
+  "10/30/2025,24839261479090949",
   "02/25/2025,9096535127123504",
   "02/02/2025,8950351341741884",
   "12/30/2024,8773374746106212",
@@ -431,6 +432,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Mycena_laevigata_b50163b0-f756-11ef-a0d4-3775e11d1906_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_laevigata_0d042b30-b7c6-11f0-b642-e38adf4043b2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_laevigata_0d042b30-b7c6-11f0-b642-e38adf4043b2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_laevigata_0d042b30-b7c6-11f0-b642-e38adf4043b2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_laevigata_0d042b30-b7c6-11f0-b642-e38adf4043b2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -480,5 +497,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/114233216/thumb.jpg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }

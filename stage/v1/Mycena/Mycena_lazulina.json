@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "lazulina",
  "date": [
+  "10/31/2025,24849174188099678",
   "09/07/2025,24326801960336906",
   "07/26/2025,23980942054922900",
   "04/03/2025,9320243821419299",
@@ -388,6 +389,26 @@
   {
    "author": "姜淋友",
    "image_src": "Mycena_lazulina_0b801990-9232-11f0-a61a-e9e8c97d45ee_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Mycena_lazulina_d7b1e5f0-b78c-11f0-a47b-73bae0bcb04d_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Mycena_lazulina_d7b1e5f0-b78c-11f0-a47b-73bae0bcb04d_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Mycena_lazulina_d7b1e5f0-b78c-11f0-a47b-73bae0bcb04d_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Mycena_lazulina_d7b1e5f0-b78c-11f0-a47b-73bae0bcb04d_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Mycena_lazulina_d7b1e5f0-b78c-11f0-a47b-73bae0bcb04d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -437,5 +458,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41875596/thumb.jpeg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-171247"
 }
