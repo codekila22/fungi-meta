@@ -2,7 +2,7 @@
  "name": "Tricholomopsis",
  "zhtw": "擬口蘑屬",
  "zhcn": "拟口蘑属",
- "timestamp": "20251027-205721",
+ "timestamp": "20251102-175747",
  "list": [
   {
    "name": "Tricholomopsis aff. sasae",
@@ -33,6 +33,12 @@
    "zhtw": "黃色擬口蘑(暫名)",
    "zhcn": "黄色拟口蘑(暂名)",
    "img": "Tricholomopsis_flava_994940a0-2701-11ef-86e6-8f9b1ea9e683_1.jpg"
+  },
+  {
+   "name": "Tricholomopsis formosa",
+   "zhtw": "美麗擬口蘑",
+   "zhcn": "美丽拟口蘑",
+   "img": "Tricholomopsis_formosa_3a8a3ce0-b7bf-11f0-be1d-67d2f01a87f4_1.jpg"
   },
   {
    "name": "Tricholomopsis humboldtii",

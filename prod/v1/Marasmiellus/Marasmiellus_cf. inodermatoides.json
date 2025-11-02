@@ -2,6 +2,7 @@
  "genus": "Marasmiellus",
  "name": "cf. inodermatoides",
  "date": [
+  "10/27/2025,24821117267572037",
   "02/18/2025,9054907064619644",
   "12/23/2024,8729574807152873",
   "01/28/2024,6914337032010002",
@@ -295,6 +296,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Marasmiellus_cf. inodermatoides_c4f9ccc0-f734-11ef-82a4-9b0505132e73_21.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_cf. inodermatoides_18a4ede0-b40a-11f0-85a9-1528ba6566ed_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_cf. inodermatoides_18a4ede0-b40a-11f0-85a9-1528ba6566ed_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_cf. inodermatoides_18a4ede0-b40a-11f0-85a9-1528ba6566ed_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -336,5 +349,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-175747"
 }

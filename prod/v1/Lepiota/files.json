@@ -2,7 +2,7 @@
  "name": "Lepiota",
  "zhtw": "環柄菇屬",
  "zhcn": "环柄菇属",
- "timestamp": "20251027-205721",
+ "timestamp": "20251102-175747",
  "list": [
   {
    "name": "Lepiota aspera",
@@ -84,6 +84,12 @@
    "current_zhtw": "刺錐棘皮菌",
    "current_zhcn": "刺锥棘皮菌",
    "img": "Lepiota_echinacea_86096bb0-194b-11ee-991b-edf287ca7b8d_1.jpg"
+  },
+  {
+   "name": "Lepiota elaiophylla",
+   "zhtw": "黃褶環柄菇",
+   "zhcn": "黄褶环柄菇",
+   "img": "Lepiota_elaiophylla_7ed8d6c0-b7bc-11f0-be1d-67d2f01a87f4_1.jpg"
   },
   {
    "name": "Lepiota flavocarpa",

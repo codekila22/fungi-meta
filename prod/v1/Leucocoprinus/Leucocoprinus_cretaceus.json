@@ -2,6 +2,7 @@
  "genus": "Leucocoprinus",
  "name": "cretaceus",
  "date": [
+  "11/01/2025,24858482347168862",
   "07/05/2025,10029247717185569",
   "06/21/2025,9919617408148601",
   "06/15/2025,23878984291785344",
@@ -305,6 +306,26 @@
   {
    "author": "何俊霖",
    "image_src": "Leucocoprinus_cretaceus_7819ca90-6f48-11f0-b36f-1b2e58740547_18.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leucocoprinus_cretaceus_223c3e70-b7c1-11f0-be1d-67d2f01a87f4_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leucocoprinus_cretaceus_223c3e70-b7c1-11f0-be1d-67d2f01a87f4_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leucocoprinus_cretaceus_223c3e70-b7c1-11f0-be1d-67d2f01a87f4_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leucocoprinus_cretaceus_223c3e70-b7c1-11f0-be1d-67d2f01a87f4_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leucocoprinus_cretaceus_223c3e70-b7c1-11f0-be1d-67d2f01a87f4_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -354,5 +375,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110450191/thumb.jpg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-175747"
 }

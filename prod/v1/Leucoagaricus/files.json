@@ -2,7 +2,7 @@
  "name": "Leucoagaricus",
  "zhtw": "白環蘑屬",
  "zhcn": "白环蘑属",
- "timestamp": "20251027-205721",
+ "timestamp": "20251102-175747",
  "list": [
   {
    "name": "Leucoagaricus americanus",
@@ -35,6 +35,9 @@
    "name": "Leucoagaricus lacrymans",
    "zhtw": "滴淚白環蘑",
    "zhcn": "滴泪白环蘑",
+   "current": "Candelolepiota sinica",
+   "current_zhtw": "燃燈環柄菇",
+   "current_zhcn": "燃灯环柄菇",
    "img": "Leucocoprinus_meleagris_1_CC BY-NC_向高世.jpg"
   },
   {

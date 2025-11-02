@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "elegans",
  "date": [
+  "10/31/2025,24848606231489807",
   "10/02/2024,8216653085111717",
   "05/31/2024,7431584910285209",
   "09/08/2023,6380163305427380",
@@ -66,6 +67,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Marasmius_elegans_a00226c0-8096-11ef-85db-77790dc67f0d_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_elegans_6f746160-b7bf-11f0-be1d-67d2f01a87f4_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_elegans_6f746160-b7bf-11f0-be1d-67d2f01a87f4_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_elegans_6f746160-b7bf-11f0-be1d-67d2f01a87f4_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -114,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16769232/thumb.jpeg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-175747"
 }

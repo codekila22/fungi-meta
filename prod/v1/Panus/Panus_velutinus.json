@@ -2,6 +2,7 @@
  "genus": "Panus",
  "name": "velutinus",
  "date": [
+  "10/30/2025,24839128472437583",
   "01/28/2025,8945991915511160",
   "02/17/2024,7021643711279333",
   "12/24/2023,6787684961341877",
@@ -171,6 +172,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Panus_velutinus_6dd29670-e122-11ef-b140-0192065941f9_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panus_velutinus_7e0e9fc0-b589-11f0-8752-9ddda51bf2b4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panus_velutinus_7e0e9fc0-b589-11f0-8752-9ddda51bf2b4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panus_velutinus_7e0e9fc0-b589-11f0-8752-9ddda51bf2b4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panus_velutinus_7e0e9fc0-b589-11f0-8752-9ddda51bf2b4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panus_velutinus_7e0e9fc0-b589-11f0-8752-9ddda51bf2b4_5.jpg"
   }
  ],
  "synonym": [
@@ -206,17 +227,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "35,50",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "",
+  "Rareness": "occacional",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Panus neostrigosus,Panus strigellus,",
-  "Note": "此種傘面比較深杯且有條紋。",
+  "Note": "郊區低海拔偶見，此種傘面比較深杯且有條紋。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "新粗毛革耳,鱗毛革耳,",
   "la_zhcn": "新粗毛革耳,鳞毛革耳,"
@@ -229,5 +250,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/82623948/thumb.jpeg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-175747"
 }

@@ -2,6 +2,7 @@
  "genus": "Pyronema",
  "name": "domesticum",
  "date": [
+  "10/30/2025,24849099208107176",
   "03/15/2025,9200475006729515",
   "01/29/2025,8928580170585668",
   "01/12/2025,8835863693190650",
@@ -177,6 +178,18 @@
   {
    "author": "何俊霖",
    "image_src": "Pyronema_domesticum_8488d2d0-021a-11f0-8763-35ed78a13640_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pyronema_domesticum_81293ac0-b78d-11f0-a47b-73bae0bcb04d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pyronema_domesticum_81293ac0-b78d-11f0-a47b-73bae0bcb04d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pyronema_domesticum_81293ac0-b78d-11f0-a47b-73bae0bcb04d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -226,5 +239,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/285036938/thumb.jpg"
   }
  ],
- "timestamp": "20251027-205721"
+ "timestamp": "20251102-175747"
 }
