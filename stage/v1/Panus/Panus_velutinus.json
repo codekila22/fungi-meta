@@ -227,17 +227,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "35,50",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "",
+  "Rareness": "occacional",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Panus neostrigosus,Panus strigellus,",
-  "Note": "此種傘面比較深杯且有條紋。",
+  "Note": "郊區低海拔偶見，此種傘面比較深杯且有條紋。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "新粗毛革耳,鱗毛革耳,",
   "la_zhcn": "新粗毛革耳,鳞毛革耳,"
@@ -250,5 +250,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/82623948/thumb.jpeg"
   }
  ],
- "timestamp": "20251102-171247"
+ "timestamp": "20251102-173514"
 }

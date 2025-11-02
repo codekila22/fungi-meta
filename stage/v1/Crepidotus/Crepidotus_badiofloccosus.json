@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "badiofloccosus",
  "date": [
+  "11/02/2025,24866785196338577",
   "04/09/2025,9374660759310938",
   "09/20/2024,8108206555956371",
   "05/26/2023,6138823922894654",
@@ -158,6 +159,30 @@
   {
    "author": "江志緯",
    "image_src": "Crepidotus_badiofloccosus_1716fc70-182e-11f0-aa44-5bf232ef2f8f_18.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Crepidotus_badiofloccosus_590e3f50-b7cd-11f0-91f2-9ddcfcc22feb_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Crepidotus_badiofloccosus_590e3f50-b7cd-11f0-91f2-9ddcfcc22feb_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Crepidotus_badiofloccosus_590e3f50-b7cd-11f0-91f2-9ddcfcc22feb_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Crepidotus_badiofloccosus_590e3f50-b7cd-11f0-91f2-9ddcfcc22feb_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Crepidotus_badiofloccosus_590e3f50-b7cd-11f0-91f2-9ddcfcc22feb_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Crepidotus_badiofloccosus_590e3f50-b7cd-11f0-91f2-9ddcfcc22feb_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -195,7 +220,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "老熟個體菌蓋上的毛可能會因雨水或其他因素掉落，菌蓋轉成蒼白色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -206,5 +231,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155108751/thumb.jpg"
   }
  ],
- "timestamp": "20251102-171247"
+ "timestamp": "20251102-173514"
 }

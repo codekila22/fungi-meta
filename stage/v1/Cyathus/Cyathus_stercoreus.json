@@ -2,6 +2,7 @@
  "genus": "Cyathus",
  "name": "stercoreus",
  "date": [
+  "10/31/2025,24849170884766675",
   "11/18/2024,8538261162950906",
   "06/14/2024,7499399323503767",
   "04/27/2024,7279683408808694",
@@ -293,6 +294,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Cyathus_stercoreus_fa3a7a90-aa65-11ef-8ec6-f7ebcdec9839_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyathus_stercoreus_96a88d60-b7ce-11f0-91f2-9ddcfcc22feb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyathus_stercoreus_96a88d60-b7ce-11f0-91f2-9ddcfcc22feb_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cyathus_stercoreus_96a88d60-b7ce-11f0-91f2-9ddcfcc22feb_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -342,5 +355,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/194836554/thumb.jpeg"
   }
  ],
- "timestamp": "20251102-171247"
+ "timestamp": "20251102-173514"
 }
