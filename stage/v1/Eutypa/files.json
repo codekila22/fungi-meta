@@ -2,12 +2,15 @@
  "name": "Eutypa",
  "zhtw": "彎孢殼菌屬",
  "zhcn": "弯孢壳菌属",
- "timestamp": "20251102-173514",
+ "timestamp": "20251102-175747",
  "list": [
   {
    "name": "Eutypa linearis",
    "zhtw": "線型彎孢殼菌",
    "zhcn": "线型弯孢壳菌",
+   "current": "Stromatolinea linearis",
+   "current_zhtw": "線型疊層菌",
+   "current_zhcn": "线型叠层菌",
    "img": "Eutypa_linearis_3_CC BY-NC_陳雅芬.jpg"
   }
  ]
