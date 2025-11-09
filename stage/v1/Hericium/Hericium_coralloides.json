@@ -2,6 +2,7 @@
  "genus": "Hericium",
  "name": "coralloides",
  "date": [
+  "11/08/2025,24924876883862741",
   "07/08/2025,10052963428147331",
   "06/29/2024,7603867853056913",
   "09/16/2023,6411044385672605",
@@ -205,6 +206,18 @@
   {
    "author": "Sunny Wang",
    "image_src": "Hericium_coralloides_82470560-b330-11f0-a6e0-b7f59045bc78_14.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hericium_coralloides_1434d7f0-bc6d-11f0-861e-9ff72c9295f4_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hericium_coralloides_1434d7f0-bc6d-11f0-861e-9ff72c9295f4_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hericium_coralloides_1434d7f0-bc6d-11f0-861e-9ff72c9295f4_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -252,5 +265,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/38854175/thumb.jpg"
   }
  ],
- "timestamp": "20251102-175747"
+ "timestamp": "20251109-174138"
 }

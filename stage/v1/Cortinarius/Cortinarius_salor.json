@@ -2,6 +2,7 @@
  "genus": "Cortinarius",
  "name": "salor",
  "date": [
+  "11/01/2025,24887750767575353",
   "05/24/2024,7421875997922767",
   "06/24/2023,6134430193334027",
   "05/26/2023,6044666385643742",
@@ -155,6 +156,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Cortinarius_salor_f61f21f0-1cf7-11ef-ab8c-d15efc57116d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_salor_03d00990-bc70-11f0-861e-9ff72c9295f4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_salor_03d00990-bc70-11f0-861e-9ff72c9295f4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_salor_03d00990-bc70-11f0-861e-9ff72c9295f4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_salor_03d00990-bc70-11f0-861e-9ff72c9295f4_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -203,5 +220,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112319910/thumb.jpg"
   }
  ],
- "timestamp": "20251102-175747"
+ "timestamp": "20251109-174138"
 }

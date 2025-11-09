@@ -2,6 +2,7 @@
  "genus": "Earliella",
  "name": "scabrosa",
  "date": [
+  "11/01/2025,24872717689078661",
   "09/19/2025,24426580807025687",
   "07/20/2025,23986276281056144",
   "04/09/2025,9459885560788457",
@@ -481,6 +482,42 @@
   {
    "author": "江志緯",
    "image_src": "Earliella_scabrosa_1f4a8450-7005-11f0-bc51-31f6cef976cc_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Earliella_scabrosa_85da3410-b85b-11f0-a0e3-0b438f6d14bb_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Earliella_scabrosa_85da3410-b85b-11f0-a0e3-0b438f6d14bb_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Earliella_scabrosa_85da3410-b85b-11f0-a0e3-0b438f6d14bb_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Earliella_scabrosa_85da3410-b85b-11f0-a0e3-0b438f6d14bb_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Earliella_scabrosa_85da3410-b85b-11f0-a0e3-0b438f6d14bb_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Earliella_scabrosa_85da3410-b85b-11f0-a0e3-0b438f6d14bb_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Earliella_scabrosa_85da3410-b85b-11f0-a0e3-0b438f6d14bb_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Earliella_scabrosa_85da3410-b85b-11f0-a0e3-0b438f6d14bb_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Earliella_scabrosa_85da3410-b85b-11f0-a0e3-0b438f6d14bb_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -508,8 +545,9 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "wood",
   "Bruising": "",
@@ -529,5 +567,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27689893/thumb.jpg"
   }
  ],
- "timestamp": "20251102-175747"
+ "timestamp": "20251109-174138"
 }

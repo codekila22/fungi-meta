@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20251102-175747",
+ "timestamp": "20251109-174138",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -318,6 +318,12 @@
    "zhtw": "楝小菇",
    "zhcn": "楝小菇",
    "img": "Mycena_meliigena_238002b0-1170-10eb-affb-ed4c795f324c_1.jpg"
+  },
+  {
+   "name": "Mycena noctilucens",
+   "zhtw": "夜光小菇",
+   "zhcn": "夜光小菇",
+   "img": "Mycena_noctilucens_253efc20-bc6c-11f0-861e-9ff72c9295f4_1.jpg"
   },
   {
    "name": "Mycena olivaceomarginata",

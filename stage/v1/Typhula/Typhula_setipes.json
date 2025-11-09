@@ -2,6 +2,8 @@
  "genus": "Typhula",
  "name": "setipes",
  "date": [
+  "11/01/2025,24907669238916839",
+  "10/31/2025,24876450202038743",
   "09/27/2025,24574664388883994",
   "08/09/2024,7810164069093956",
   "04/27/2024,7276848149092220",
@@ -132,6 +134,34 @@
   {
    "author": "江志緯",
    "image_src": "Typhula_setipes_04ebeff0-a18c-11f0-bbb0-e351c14914d9_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Typhula_setipes_a2b74930-b8a9-11f0-a551-670beaa50804_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Typhula_setipes_a2b74930-b8a9-11f0-a551-670beaa50804_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_setipes_f4bb4dc0-bc65-11f0-861e-9ff72c9295f4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_setipes_f4bb4dc0-bc65-11f0-861e-9ff72c9295f4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_setipes_f4bb4dc0-bc65-11f0-861e-9ff72c9295f4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_setipes_f4bb4dc0-bc65-11f0-861e-9ff72c9295f4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_setipes_f4bb4dc0-bc65-11f0-861e-9ff72c9295f4_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -181,5 +211,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28080336/thumb.jpg"
   }
  ],
- "timestamp": "20251102-175747"
+ "timestamp": "20251109-174138"
 }

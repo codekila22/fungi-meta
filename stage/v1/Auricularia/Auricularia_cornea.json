@@ -2,6 +2,7 @@
  "genus": "Auricularia",
  "name": "cornea",
  "date": [
+  "11/02/2025,24911292071887889",
   "09/13/2025,24435902519426849",
   "07/11/2025,10089235974520076",
   "01/23/2025,8911697978940554",
@@ -636,6 +637,50 @@
   {
    "author": "江志緯",
    "image_src": "Auricularia_cornea_a466d780-9687-11f0-909f-8bfff1730c01_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -665,8 +710,8 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "",
+  "Rareness": "common",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "wood",
   "Bruising": "",
@@ -688,5 +733,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28895640/thumb.jpg"
   }
  ],
- "timestamp": "20251102-175747"
+ "timestamp": "20251109-174138"
 }
