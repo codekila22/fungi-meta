@@ -2,8 +2,14 @@
  "name": "Collybiopsis",
  "zhtw": "擬金錢菇屬",
  "zhcn": "拟金钱菇属",
- "timestamp": "20251109-174138",
+ "timestamp": "20251109-180933",
  "list": [
+  {
+   "name": "Collybiopsis affixa",
+   "zhtw": "貼木擬金錢菇",
+   "zhcn": "贴木拟金钱菇",
+   "img": "Marasmiellus_affixus_60409320-bd0b-11f0-a396-25172d5d74a6_1.jpg"
+  },
   {
    "name": "Collybiopsis cf. gibbosa",
    "zhtw": "疑似駝背擬金錢菌",

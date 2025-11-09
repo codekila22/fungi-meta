@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "cf. rhenana",
  "date": [
+  "11/07/2025,24932566369760459",
   "09/20/2025,24427464020270699",
   "07/14/2025,23900568229626950",
   "07/10/2025,10068879186555755",
@@ -116,6 +117,38 @@
   {
    "author": "Bill Hwang",
    "image_src": "Mycena_cf. rhenana_31d45b30-9686-11f0-909f-8bfff1730c01_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_cf. rhenana_998c1320-bd51-11f0-9744-61e7162cf185_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_cf. rhenana_998c1320-bd51-11f0-9744-61e7162cf185_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_cf. rhenana_998c1320-bd51-11f0-9744-61e7162cf185_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_cf. rhenana_998c1320-bd51-11f0-9744-61e7162cf185_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_cf. rhenana_998c1320-bd51-11f0-9744-61e7162cf185_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_cf. rhenana_998c1320-bd51-11f0-9744-61e7162cf185_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_cf. rhenana_998c1320-bd51-11f0-9744-61e7162cf185_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_cf. rhenana_998c1320-bd51-11f0-9744-61e7162cf185_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -164,5 +197,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/147126266/thumb.jpg"
   }
  ],
- "timestamp": "20251109-174138"
+ "timestamp": "20251109-180933"
 }
