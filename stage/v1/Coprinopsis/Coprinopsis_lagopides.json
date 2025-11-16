@@ -2,6 +2,7 @@
  "genus": "Coprinopsis",
  "name": "lagopides",
  "date": [
+  "11/08/2025,24963088530041576",
   "11/02/2025,24927796970237399",
   "06/10/2025,9834153233361686",
   "01/22/2024,6889013597875679",
@@ -126,6 +127,38 @@
   {
    "author": "江志緯",
    "image_src": "Coprinopsis_lagopides_6a7bc980-bd0c-11f0-a396-25172d5d74a6_9.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coprinopsis_lagopides_79056900-c2cc-11f0-8a8a-47e8036b5ad7_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coprinopsis_lagopides_79056900-c2cc-11f0-8a8a-47e8036b5ad7_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coprinopsis_lagopides_79056900-c2cc-11f0-8a8a-47e8036b5ad7_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coprinopsis_lagopides_79056900-c2cc-11f0-8a8a-47e8036b5ad7_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coprinopsis_lagopides_79056900-c2cc-11f0-8a8a-47e8036b5ad7_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coprinopsis_lagopides_79056900-c2cc-11f0-8a8a-47e8036b5ad7_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coprinopsis_lagopides_79056900-c2cc-11f0-8a8a-47e8036b5ad7_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Coprinopsis_lagopides_79056900-c2cc-11f0-8a8a-47e8036b5ad7_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -176,5 +209,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30541704/thumb.jpg"
   }
  ],
- "timestamp": "20251114-204707"
+ "timestamp": "20251116-181738"
 }

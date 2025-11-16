@@ -1,5 +1,5 @@
 {
- "timestamp": "20251114-204707",
+ "timestamp": "20251116-181738",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -322,6 +322,7 @@
    "Pandora,蟲癘黴屬,虫疠霉属",
    "Penicilliopsis,菌狀擬青黴菌屬,菌状拟青霉菌属",
    "Penicillium,青黴菌屬,青霉菌属",
+   "Perennicordyceps,多年生蟲草屬,多年生虫草属",
    "Phaeosaccardinula,黑殼炱屬,黑壳炱属",
    "Phakopsora,層銹菌屬,层锈菌属",
    "Phragmidium,多胞鏽菌屬,多胞锈菌属",
@@ -380,6 +381,7 @@
    "Collybia,金錢菇屬,金钱菇属",
    "Collybiopsis,擬金錢菇屬,拟金钱菇属",
    "Coniolepiota,鱗環柄菇屬,鳞环柄菇属",
+   "Connopus,聯腳傘屬,联脚伞属",
    "Conocybe,錐蓋傘屬,锥盖伞属",
    "Contumyces,臍菇屬,脐菇属",
    "Coprinellus,小鬼傘屬,小鬼伞属",
@@ -665,6 +667,7 @@
    "Ophiocordyceps,蛇形蟲草屬,蛇形虫草属",
    "Paecilomyces,擬青黴屬,拟青霉属",
    "Penicilliopsis,菌狀擬青黴菌屬,菌状拟青霉菌属",
+   "Perennicordyceps,多年生蟲草屬,多年生虫草属",
    "Phaeoclavulina,褐鎖瑚菌屬,褐锁瑚菌属",
    "Phallus,鬼筆屬,鬼笔属",
    "Phleogena,錘耳屬,锤耳属",
@@ -1554,6 +1557,7 @@
   "Comatricha pulchella,美髮黏菌,美发黏菌",
   "Coniocarpon cinnabarinum,朱砂斑衣,朱砂斑衣",
   "Coniolepiota spongodes,海綿鱗環柄菇,海绵鳞环柄菇",
+  "Connopus acervatus,堆聯腳傘,堆联脚伞",
   "Conocybe apala,阿帕錐蓋傘(複合群),阿帕锥盖伞(复合群)",
   "Conocybe aurea,金黃錐蓋傘,金黄锥盖伞",
   "Conocybe incarnata,粉紅褐錐蓋傘,粉红褐锥盖伞",
@@ -2808,6 +2812,7 @@
   "Peniophora albobadia,白褐隔孢伏革菌,白褐隔孢伏革菌",
   "Peniophora incarnata,肉色隔孢伏革菌,肉色隔孢伏革菌",
   "Peniophorella praetermissa,普擬筍殼菌,普拟笋壳菌",
+  "Perennicordyceps elaphomyceticola,大團囊菌生多年蟲草,大团囊菌生多年虫草",
   "Perenniporia formosana,台灣多年臥孔菌,台湾多年卧孔菌",
   "Perenniporia fraxinea,白蠟多年臥孔菌,白蜡多年卧孔菌",
   "Perenniporia ochroleuca,蒼白赭孔多年臥孔菌,苍白赭孔多年卧孔菌",
