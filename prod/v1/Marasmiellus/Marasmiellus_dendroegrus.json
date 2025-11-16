@@ -2,6 +2,7 @@
  "genus": "Marasmiellus",
  "name": "dendroegrus",
  "date": [
+  "11/01/2025,24917310834619346",
   "10/27/2025,24830761649940932",
   "04/04/2025,9359916517452029",
   "03/08/2024,7076095919167445",
@@ -204,6 +205,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Marasmiellus_dendroegrus_af24c600-b4d2-11f0-9110-6db91d4a630b_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_dendroegrus_baeace30-bc3e-11f0-861e-9ff72c9295f4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_dendroegrus_baeace30-bc3e-11f0-861e-9ff72c9295f4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_dendroegrus_baeace30-bc3e-11f0-861e-9ff72c9295f4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_dendroegrus_baeace30-bc3e-11f0-861e-9ff72c9295f4_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -255,5 +272,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157290458/thumb.jpg"
   }
  ],
- "timestamp": "20251102-175747"
+ "timestamp": "20251116-182904"
 }

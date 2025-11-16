@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "punctata",
  "date": [
+  "11/07/2025,24918183577865405",
   "10/13/2024,8322615734515451",
   "04/13/2024,7217171048393264",
   "12/14/2022,24415187314831703",
@@ -120,6 +121,22 @@
   {
    "author": "向高世",
    "image_src": "Amanita_punctata_681fd2d0-9525-11f0-a9cb-0d914770d1a2_8.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Amanita_punctata_abc79d30-bc65-11f0-861e-9ff72c9295f4_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Amanita_punctata_abc79d30-bc65-11f0-861e-9ff72c9295f4_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Amanita_punctata_abc79d30-bc65-11f0-861e-9ff72c9295f4_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Amanita_punctata_abc79d30-bc65-11f0-861e-9ff72c9295f4_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -168,5 +185,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/96476152/thumb.jpeg"
   }
  ],
- "timestamp": "20251102-175747"
+ "timestamp": "20251116-182904"
 }

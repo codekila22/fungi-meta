@@ -2,8 +2,14 @@
  "name": "Typhula",
  "zhtw": "核瑚菌屬",
  "zhcn": "核瑚菌属",
- "timestamp": "20251102-175747",
+ "timestamp": "20251116-182904",
  "list": [
+  {
+   "name": "Typhula aff. caricina",
+   "zhtw": "莎草核瑚菌的相似種",
+   "zhcn": "莎草核瑚菌的相似种",
+   "img": "Typhula_aff. caricina_e4e5c200-bfd4-11f0-ba8e-5f131e52296a_1.jpg"
+  },
   {
    "name": "Typhula juncea",
    "zhtw": "燈心草核瑚菌",

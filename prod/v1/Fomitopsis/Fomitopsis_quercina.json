@@ -2,6 +2,7 @@
  "genus": "Fomitopsis",
  "name": "quercina",
  "date": [
+  "11/01/2025,24897382066612223",
   "01/04/2025,8797430327033987",
   "05/26/2023,6021024878007893",
   "04/09/2023,5877099879067061"
@@ -91,6 +92,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Daedalea_quercina_ace31cb0-cb1d-11ef-9182-39cce2dd716f_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_quercina_129c3cc0-bc50-11f0-861e-9ff72c9295f4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_quercina_129c3cc0-bc50-11f0-861e-9ff72c9295f4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_quercina_129c3cc0-bc50-11f0-861e-9ff72c9295f4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_quercina_129c3cc0-bc50-11f0-861e-9ff72c9295f4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_quercina_129c3cc0-bc50-11f0-861e-9ff72c9295f4_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_quercina_129c3cc0-bc50-11f0-861e-9ff72c9295f4_6.jpg"
   }
  ],
  "synonym": [
@@ -153,5 +178,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10084/thumb.jpg"
   }
  ],
- "timestamp": "20251102-175747"
+ "timestamp": "20251116-182904"
 }

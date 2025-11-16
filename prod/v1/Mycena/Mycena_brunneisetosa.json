@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "brunneisetosa",
  "date": [
+  "10/31/2025,24876450202038743",
   "07/31/2025,24016096178074154",
   "07/10/2025,10074671055976568",
   "10/10/2024,8268429769934048",
@@ -427,6 +428,14 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_brunneisetosa_78c59be0-7001-11f0-a36b-258efa0ab805_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_2edcee20-b8a9-11f0-a551-670beaa50804_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_2edcee20-b8a9-11f0-a551-670beaa50804_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -478,5 +487,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156351524/thumb.jpg"
   }
  ],
- "timestamp": "20251102-175747"
+ "timestamp": "20251116-182904"
 }

@@ -2,7 +2,7 @@
  "name": "Hydropus",
  "zhtw": "濕柄傘屬",
  "zhcn": "湿柄伞属",
- "timestamp": "20251102-175747",
+ "timestamp": "20251116-182904",
  "list": [
   {
    "name": "Hydropus atramentosus",
@@ -14,6 +14,9 @@
    "name": "Hydropus floccipes",
    "zhtw": "毛腿濕柄傘",
    "zhcn": "毛腿湿柄伞",
+   "current": "Pseudohydropus floccipes",
+   "current_zhtw": "毛腿假濕柄傘",
+   "current_zhcn": "毛腿假湿柄伞",
    "img": "Hydropus_floccipes_a66413f0-cc49-10c6-ae75-0db60e01a1dc_1.jpg"
   },
   {

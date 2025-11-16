@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "kentingensis",
  "date": [
+  "10/27/2025,24936054772744952",
   "08/10/2025,24134403789576725",
   "08/03/2025,24020163637667408",
   "07/11/2025,10090934551016885",
@@ -248,6 +249,26 @@
   {
    "author": "江志緯",
    "image_src": "Mycena_kentingensis_f900a110-7b55-11f0-b35e-9727b3842f40_17.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_20cbe780-bd51-11f0-9744-61e7162cf185_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_20cbe780-bd51-11f0-9744-61e7162cf185_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_20cbe780-bd51-11f0-9744-61e7162cf185_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_20cbe780-bd51-11f0-9744-61e7162cf185_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_kentingensis_20cbe780-bd51-11f0-9744-61e7162cf185_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -297,5 +318,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/92101813/thumb.jpeg"
   }
  ],
- "timestamp": "20251102-175747"
+ "timestamp": "20251116-182904"
 }
