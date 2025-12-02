@@ -2,6 +2,7 @@
  "genus": "Hericium",
  "name": "erinaceum",
  "date": [
+  "11/21/2025,25048808724802889",
   "11/12/2024,8499491813494508",
   "12/14/2023,6743579205752453",
   "11/15/2023,6639397569503951",
@@ -112,6 +113,22 @@
   {
    "author": "向高世",
    "image_src": "Hericium_erinaceum_43ef52d0-a8a6-11ef-9d70-d97bda8d8d3c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_69fb1d30-c793-11f0-aace-b9f8ed277f98_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_69fb1d30-c793-11f0-aace-b9f8ed277f98_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_69fb1d30-c793-11f0-aace-b9f8ed277f98_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hericium_erinaceum_69fb1d30-c793-11f0-aace-b9f8ed277f98_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -158,5 +175,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13419525/thumb.jpg"
   }
  ],
- "timestamp": "20251116-182904"
+ "timestamp": "20251202-202256"
 }

@@ -2,7 +2,7 @@
  "name": "Hymenoscyphus",
  "zhtw": "膜盤菌屬",
  "zhcn": "膜盘菌属",
- "timestamp": "20251116-182904",
+ "timestamp": "20251202-202256",
  "list": [
   {
    "name": "Hymenoscyphus albopunctus",
@@ -27,6 +27,12 @@
    "zhtw": "果生膜盤菌",
    "zhcn": "果生膜盘菌",
    "img": "Hymenoscyphus_fructigenus_ec98c500-1c8f-11ee-93f6-4714391c8963_1.jpg"
+  },
+  {
+   "name": "Hymenoscyphus imberbis",
+   "zhtw": "無鬚膜盤菌(暫名)",
+   "zhcn": "无须膜盘菌(暂名)",
+   "img": "Hymenoscyphus_imberbis_b7d91770-c33b-11f0-8640-41cae246359e_1.jpg"
   },
   {
    "name": "Hymenoscyphus javanicus",

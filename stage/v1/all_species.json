@@ -1,5 +1,5 @@
 {
- "timestamp": "20251116-182904",
+ "timestamp": "20251202-202256",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -612,6 +612,7 @@
    "Pseudolasiobolus,假尖毛盤菌屬,假尖毛盘菌属",
    "Pseudoplectania,假暗盤菌屬,假暗盘菌属",
    "Psilachnum,短毛盤菌屬,短毛盘菌属",
+   "Purpureodiscus,紫盤菌屬,紫盘菌属",
    "Pyronema,火絲菌屬,火丝菌属",
    "Rhizina,根盤菌屬,根盘菌属",
    "Rhodoscypha,瑰麗盤菌屬,瑰丽盘菌属",
@@ -2174,6 +2175,7 @@
   "Hymenoscyphus calyculus,杯狀膜盤菌,杯状膜盘菌",
   "Hymenoscyphus caudatus,尾膜盤菌,尾膜盘菌",
   "Hymenoscyphus fructigenus,果生膜盤菌,果生膜盘菌",
+  "Hymenoscyphus imberbis,無鬚膜盤菌(暫名),无须膜盘菌(暂名)",
   "Hymenoscyphus javanicus,爪哇膜盤菌,爪哇膜盘菌",
   "Hymenoscyphus scutula,盾膜盤菌,盾膜盘菌",
   "Hymenoscyphus sulphuratus,硫色膜盤菌,硫色膜盘菌",
@@ -3120,6 +3122,10 @@
   "Punjabia pakistanica,巴基斯坦旁遮普鬼傘,巴基斯坦旁遮普鬼伞",
   "Purpureocillium atypicola,非典型紫孢菌,非典型紫孢菌",
   "Purpureocillium takamizusanense,高水山紫孢菌,高水山紫孢菌",
+  "Purpureodiscus bananincola,香蕉紫盤菌,香蕉紫盘菌",
+  "Purpureodiscus cf. luteorosellus,疑似黃橙紫盤菌,疑似黄橙紫盘菌",
+  "Purpureodiscus masticophilus,口香糖紫盤菌,口香糖紫盘菌",
+  "Purpureodiscus subisabellinus,近黃褐紫盤菌(暫名),近黄褐紫盘菌(暂名)",
   "Pycnoporus cinnabarinus,朱紅密孔菌,朱红密孔菌",
   "Pycnoporus sanguineus,血紅密孔菌,血红密孔菌",
   "Pyrenula  cf. neglecta,疑似黑突小核衣,疑似黑突小核衣",
