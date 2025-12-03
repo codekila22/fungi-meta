@@ -2,12 +2,10 @@
  "genus": "Mycena",
  "name": "acicula",
  "date": [
-  "05/29/2024,7463104593799907",
   "04/13/2023,7642778529165845",
   "04/10/2023,5869520703158312",
   "12/20/2022,5537010233076029",
   "08/19/2022,5171244566319266",
-  "07/08/2022,7463104593799907",
   "04/13/2022,4818136141630112",
   "06/24/2021,4833122076798185",
   "04/29/2021,3727829910660746",
@@ -138,70 +136,6 @@
    "image_src": "Mycena_acicula_985d1ca0-d86c-11ed-96c5-a5dfbdb6532a_7.jpg"
   },
   {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_1.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_2.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_3.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_4.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_5.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_6.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_7.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_8.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_9.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_10.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_11.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_12.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_13.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_14.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_15.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Mycena_acicula_810fd570-2720-11ef-893e-6d880c1ad038_16.jpg"
-  },
-  {
    "author": "蔡古媧",
    "image_src": "Mycena_acicula_680ed090-a9a4-107f-8f76-27c3c5f26f6f_1.jpg"
   },
@@ -254,9 +188,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Atheniella aurantiidisca,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "黃白艷小菇,,",
+  "la_zhcn": "黄白艳小菇,,"
  },
  "inaturalist": [
   {
@@ -284,5 +220,5 @@
    "src": ""
   }
  ],
- "timestamp": "20251116-182904"
+ "timestamp": "20251203-193131"
 }

@@ -3,6 +3,7 @@
  "name": "bulbosa",
  "date": [
   "07/20/2025,24368906989459736",
+  "06/12/2024,25091003927250035",
   "06/30/2023,6148313851945661"
  ],
  "names_zhtw": [
@@ -38,6 +39,30 @@
   {
    "author": "徐秀團",
    "image_src": "Mycena_bulbosa_db58f6b0-9105-11f0-a402-47ccd6b69d94_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_bulbosa_b146eff0-ce7f-11f0-8401-bff8c9ed08f8_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_bulbosa_b146eff0-ce7f-11f0-8401-bff8c9ed08f8_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_bulbosa_b146eff0-ce7f-11f0-8401-bff8c9ed08f8_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_bulbosa_b146eff0-ce7f-11f0-8401-bff8c9ed08f8_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_bulbosa_b146eff0-ce7f-11f0-8401-bff8c9ed08f8_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_bulbosa_b146eff0-ce7f-11f0-8401-bff8c9ed08f8_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -69,7 +94,7 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,leaves,bamboo",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -87,5 +112,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1804684/thumb.jpg"
   }
  ],
- "timestamp": "20251116-182904"
+ "timestamp": "20251203-193131"
 }

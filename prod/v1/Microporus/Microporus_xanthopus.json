@@ -2,6 +2,7 @@
  "genus": "Microporus",
  "name": "xanthopus",
  "date": [
+  "11/30/2025,25122814637402297",
   "10/29/2025,24830156123334818",
   "03/14/2025,9194444440665905",
   "01/02/2025,8782964971813856",
@@ -197,6 +198,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Microporus_xanthopus_58142720-b4c8-11f0-9110-6db91d4a630b_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Microporus_xanthopus_e3154390-ce81-11f0-8401-bff8c9ed08f8_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Microporus_xanthopus_e3154390-ce81-11f0-8401-bff8c9ed08f8_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Microporus_xanthopus_e3154390-ce81-11f0-8401-bff8c9ed08f8_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Microporus_xanthopus_e3154390-ce81-11f0-8401-bff8c9ed08f8_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Microporus_xanthopus_e3154390-ce81-11f0-8401-bff8c9ed08f8_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Microporus_xanthopus_e3154390-ce81-11f0-8401-bff8c9ed08f8_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Microporus_xanthopus_e3154390-ce81-11f0-8401-bff8c9ed08f8_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -248,5 +277,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/61144171/thumb.jpeg"
   }
  ],
- "timestamp": "20251116-182904"
+ "timestamp": "20251203-193131"
 }

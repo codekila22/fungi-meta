@@ -2,6 +2,7 @@
  "genus": "Physarum",
  "name": "pezizoideum",
  "date": [
+  "11/14/2025,24989622974054798",
   "10/24/2025,24776262692057495",
   "06/01/2025,9767302723380071",
   "11/21/2024,8549528471824175",
@@ -299,6 +300,34 @@
   {
    "author": "江志緯",
    "image_src": "Physarum_pezizoideum_d5002b70-b091-11f0-8b41-db7d8472d1da_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_pezizoideum_f9de9970-ce61-11f0-8401-bff8c9ed08f8_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_pezizoideum_f9de9970-ce61-11f0-8401-bff8c9ed08f8_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_pezizoideum_f9de9970-ce61-11f0-8401-bff8c9ed08f8_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_pezizoideum_f9de9970-ce61-11f0-8401-bff8c9ed08f8_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_pezizoideum_f9de9970-ce61-11f0-8401-bff8c9ed08f8_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_pezizoideum_f9de9970-ce61-11f0-8401-bff8c9ed08f8_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_pezizoideum_f9de9970-ce61-11f0-8401-bff8c9ed08f8_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -347,5 +376,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11969118/thumb.jpg"
   }
  ],
- "timestamp": "20251116-182904"
+ "timestamp": "20251203-193131"
 }

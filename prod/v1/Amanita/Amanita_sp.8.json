@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "sp.8",
  "date": [
+  "11/17/2025,25008803622136733",
   "08/04/2025,24037914075892364",
   "07/31/2025,23997607913256314",
   "10/15/2024,8331842620259429",
@@ -100,6 +101,14 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_sp.8_8192f100-71dc-11f0-8f45-ade7be17b4f5_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_sp.8_f0b09af0-c3b8-11f0-a611-cb44ff6ccd9c_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_sp.8_f0b09af0-c3b8-11f0-a611-cb44ff6ccd9c_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -141,5 +150,5 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20251116-182904"
+ "timestamp": "20251203-193131"
 }

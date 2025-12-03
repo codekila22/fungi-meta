@@ -2,6 +2,7 @@
  "genus": "Hymenoscyphus",
  "name": "varicosporoides",
  "date": [
+  "11/23/2025,25102896962727398",
   "06/26/2025,9973018932808448",
   "05/06/2021,3751072985003105"
  ],
@@ -38,6 +39,66 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Hymenoscyphus_varicosporoides_5a09cdf0-54d3-11f0-a72a-4f62c8cd9ac2_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_15.jpg"
   }
  ],
  "names_zhcn": [
@@ -65,6 +126,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -75,7 +137,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "也有枯黃藤上生長紀錄。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -86,5 +148,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/48426682/thumb.jpg"
   }
  ],
- "timestamp": "20251116-182904"
+ "timestamp": "20251203-193131"
 }
