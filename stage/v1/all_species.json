@@ -1,5 +1,5 @@
 {
- "timestamp": "20251202-202256",
+ "timestamp": "20251203-184315",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -310,6 +310,7 @@
    "Isaria,棒束孢黴屬,棒束孢霉属",
    "Kweilingia,蠟皮菌屬,蜡皮菌属",
    "Maravalia,單胞銹菌屬,单胞锈菌属",
+   "Melampsora,柵鏽菌屬,栅锈菌属",
    "Metarhizium,黑殭菌屬,黑僵菌属",
    "Monosporidium,單冬銹菌屬,单冬锈菌属",
    "Mycosphaerella,球腔菌屬,球腔菌属",
@@ -505,6 +506,7 @@
    "Psilocybe,裸蓋菇屬,裸盖菇属",
    "Punjabia,旁遮普鬼傘屬,旁遮普鬼伞属",
    "Pyrrhoglossum,多舌菌屬,多舌菌属",
+   "Pyrrhulomyces,鱗傘屬,鳞伞属",
    "Resinomycena,脂小菇屬,脂小菇属",
    "Resupinatus,伏褶菌屬,伏褶菌属",
    "Rhodocollybia,紅金錢菇屬,红金钱菇属",
@@ -2527,6 +2529,7 @@
   "Maronea constans,恆常栗盤衣,恒常栗盘衣",
   "Megacollybia clitocyboidea,杯粉孢大金錢菇,杯粉孢大金钱菇",
   "Megasporoporia setulosa,剛毛大孢孔菌,刚毛大孢孔菌",
+  "Melampsora salicis-warburgii,沃氏柳栅銹菌,沃氏柳栅锈菌",
   "Melanoleuca verrucipes,疣柄銛囊蘑,疣柄铦囊蘑",
   "Melanophyllum haematospermum,紅褶暗蓋菇,红褶暗盖菇",
   "Melastiza chateri,橘紅彎毛盤菌,橘红弯毛盘菌",
@@ -2889,6 +2892,7 @@
   "Phlebiopsis dregeana,德氏擬射脈菌,德氏拟射脉菌",
   "Phlebopus marginatus,黑脈柄牛肝菌,黑脉柄牛肝菌",
   "Phleogena faginea,仙錘耳,仙锤耳",
+  "Pholiota astragalina,土紅環鏽傘,土红环锈伞",
   "Pholiota aurivella,金毛鱗傘,金毛鳞伞",
   "Pholiota flammans,黃鱗傘,黄鳞伞",
   "Pholiota lubrica,黏蓋環銹傘,黏盖环锈伞",
@@ -3136,6 +3140,7 @@
   "Pyrrhoderma noxium,有害紅皮菌,有害红皮菌",
   "Pyrrhoglossum stipitatum,柄多舌菌,柄多舌菌",
   "Pyrrhospora russula,紅梨孢衣,红梨孢衣",
+  "Pyrrhulomyces astragalinus,紅頂鱗傘,红顶鳞伞",
   "Pyxine limbulata,亞橄欖黑盤衣,亚橄榄黑盘衣",
   "Pyxine subcinerea,淡灰黑盤衣,淡灰黑盘衣",
   "Radulomyces copelandii,考氏鈍齒殼菌,考氏钝齿壳菌",

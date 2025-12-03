@@ -2,6 +2,7 @@
  "genus": "Henningsomyces",
  "name": "candidus",
  "date": [
+  "11/27/2025,25098437673173327",
   "06/29/2025,10017076685069339",
   "04/03/2025,9325732450870436",
   "10/18/2024,8351913061585718",
@@ -176,6 +177,30 @@
   {
    "author": "江志緯",
    "image_src": "Henningsomyces_candidus_58e833f0-594a-11f0-95ac-7d6ff4584e4b_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Henningsomyces_candidus_1c42cd40-d026-11f0-b166-25cb6ff86d42_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Henningsomyces_candidus_1c42cd40-d026-11f0-b166-25cb6ff86d42_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Henningsomyces_candidus_1c42cd40-d026-11f0-b166-25cb6ff86d42_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Henningsomyces_candidus_1c42cd40-d026-11f0-b166-25cb6ff86d42_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Henningsomyces_candidus_1c42cd40-d026-11f0-b166-25cb6ff86d42_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Henningsomyces_candidus_1c42cd40-d026-11f0-b166-25cb6ff86d42_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -224,5 +249,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21485996/thumb.jpeg"
   }
  ],
- "timestamp": "20251202-202256"
+ "timestamp": "20251203-184315"
 }

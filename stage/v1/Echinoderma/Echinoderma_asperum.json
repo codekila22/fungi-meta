@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "11/27/2025,25103820515968376",
   "11/17/2025,25008803622136733",
   "08/08/2025,24085565617793876",
   "09/04/2024,7988408887936139",
@@ -198,6 +199,10 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Echinoderma_asperum_74e7c330-c3b8-11f0-a611-cb44ff6ccd9c_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Echinoderma_asperum_23099410-cf7c-11f0-bd2b-934265e15ee6_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -247,5 +252,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253686/thumb.JPG"
   }
  ],
- "timestamp": "20251202-202256"
+ "timestamp": "20251203-184315"
 }

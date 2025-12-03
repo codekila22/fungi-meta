@@ -2,14 +2,46 @@
  "genus": "Roridomyces",
  "name": "austrororidus",
  "date": [
-  "01/01/0001"
+  "07/09/2017,25078333155183779"
  ],
  "names_zhtw": [
   "澳洲黏柄滴小菇"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/4426",
+ "url": "25078333155183779",
  "images": [
+  {
+   "author": "向高世",
+   "image_src": "Roridomyces_austrororidus_c0db5cc0-d02e-11f0-9e0e-1fba77489bc0_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Roridomyces_austrororidus_c0db5cc0-d02e-11f0-9e0e-1fba77489bc0_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Roridomyces_austrororidus_c0db5cc0-d02e-11f0-9e0e-1fba77489bc0_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Roridomyces_austrororidus_c0db5cc0-d02e-11f0-9e0e-1fba77489bc0_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Roridomyces_austrororidus_c0db5cc0-d02e-11f0-9e0e-1fba77489bc0_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Roridomyces_austrororidus_c0db5cc0-d02e-11f0-9e0e-1fba77489bc0_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Roridomyces_austrororidus_c0db5cc0-d02e-11f0-9e0e-1fba77489bc0_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Roridomyces_austrororidus_c0db5cc0-d02e-11f0-9e0e-1fba77489bc0_8.jpg"
+  },
   {
    "author": "柯文俊",
    "image_src": "Roridomyces_austrororidus_5_CC BY-NC_柯文俊.jpg"
@@ -85,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/19397475/thumb.jpeg"
   }
  ],
- "timestamp": "20251202-202256"
+ "timestamp": "20251203-184315"
 }

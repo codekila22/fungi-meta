@@ -2,7 +2,13 @@
  "genus": "Aleuria",
  "name": "aurantia",
  "date": [
-  "04/15/2022"
+  "12/01/2025,25145358161814611",
+  "12/05/2020,3361276607316080",
+  "05/19/2018,2765280330249047",
+  "06/09/2017,3258087600968315",
+  "04/30/2017,1185993081511121",
+  "04/10/2017,1163703520406744",
+  "10/06/2010,2299733790137039"
  ],
  "names_zhtw": [
   "橙黃網孢盤菌"
@@ -75,6 +81,46 @@
   {
    "author": "",
    "image_src": "Aleuria_aurantia_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aleuria_aurantia_7c637480-d027-11f0-a6bf-65952f66c5c6_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aleuria_aurantia_7c637480-d027-11f0-a6bf-65952f66c5c6_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aleuria_aurantia_7c637480-d027-11f0-a6bf-65952f66c5c6_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aleuria_aurantia_7c637480-d027-11f0-a6bf-65952f66c5c6_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aleuria_aurantia_7c637480-d027-11f0-a6bf-65952f66c5c6_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aleuria_aurantia_7c637480-d027-11f0-a6bf-65952f66c5c6_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aleuria_aurantia_7c637480-d027-11f0-a6bf-65952f66c5c6_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aleuria_aurantia_7c637480-d027-11f0-a6bf-65952f66c5c6_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aleuria_aurantia_7c637480-d027-11f0-a6bf-65952f66c5c6_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aleuria_aurantia_7c637480-d027-11f0-a6bf-65952f66c5c6_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -123,5 +169,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/73851/thumb.JPG"
   }
  ],
- "timestamp": "20251202-202256"
+ "timestamp": "20251203-184315"
 }

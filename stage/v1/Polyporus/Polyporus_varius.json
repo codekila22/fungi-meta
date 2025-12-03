@@ -2,6 +2,7 @@
  "genus": "Polyporus",
  "name": "varius",
  "date": [
+  "12/01/2025,25130585109958583",
   "08/30/2024,8014669738643387",
   "06/30/2024,8014669738643387",
   "11/05/2023,6600639863379722",
@@ -217,6 +218,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Polyporus_varius_cdb9f9d0-6f57-11ef-b24d-cbb1f6629149_14.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_varius_4b0c7f90-cf7c-11f0-bd2b-934265e15ee6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_varius_4b0c7f90-cf7c-11f0-bd2b-934265e15ee6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_varius_4b0c7f90-cf7c-11f0-bd2b-934265e15ee6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_varius_4b0c7f90-cf7c-11f0-bd2b-934265e15ee6_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -268,5 +285,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40298732/thumb.jpg"
   }
  ],
- "timestamp": "20251202-202256"
+ "timestamp": "20251203-184315"
 }

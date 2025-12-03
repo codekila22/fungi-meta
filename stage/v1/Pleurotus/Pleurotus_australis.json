@@ -2,6 +2,7 @@
  "genus": "Pleurotus",
  "name": "australis",
  "date": [
+  "11/16/2025,25028622903488138",
   "09/01/2018,3495180383925701"
  ],
  "names_zhtw": [
@@ -39,6 +40,66 @@
   {
    "author": "陳雅芬",
    "image_src": "Pleurotus_australis_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pleurotus_australis_90a87760-d031-11f0-9e0e-1fba77489bc0_15.jpg"
   }
  ],
  "names_zhcn": [
@@ -59,13 +120,14 @@
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
-  "StalkTexture": "",
+  "StalkTexture": "reticulum",
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -87,5 +149,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2328007/thumb.jpg"
   }
  ],
- "timestamp": "20251202-202256"
+ "timestamp": "20251203-184315"
 }
