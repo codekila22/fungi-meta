@@ -151,11 +151,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Aleurodiscus mirabilis,,",
+  "LookAlikes": "Gloeosoma mirabile,,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "刺絲盤革菌,,",
-  "la_zhcn": "刺丝盘革菌,,"
+  "la_zhtw": "刺絲膠體孔菌,,",
+  "la_zhcn": "刺丝胶体孔菌,,"
  },
  "inaturalist": [
   {
@@ -165,5 +165,5 @@
    "src": "https://static.inaturalist.org/photos/30473593/thumb.jpg"
   }
  ],
- "timestamp": "20251207-163922"
+ "timestamp": "20251207-170427"
 }

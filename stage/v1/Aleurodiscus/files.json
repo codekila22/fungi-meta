@@ -2,7 +2,7 @@
  "name": "Aleurodiscus",
  "zhtw": "盤革菌屬",
  "zhcn": "盘革菌属",
- "timestamp": "20251207-163922",
+ "timestamp": "20251207-170427",
  "list": [
   {
    "name": "Aleurodiscus amorphus",
@@ -26,6 +26,9 @@
    "name": "Aleurodiscus mirabilis",
    "zhtw": "刺絲盤革菌",
    "zhcn": "刺丝盘革菌",
+   "current": "Gloeosoma mirabile",
+   "current_zhtw": "刺絲膠體孔菌",
+   "current_zhcn": "刺丝胶体孔菌",
    "img": "Aleurodiscus_mirabilis_6_CC BY-NC_陳麗紅.jpg"
   },
   {
