@@ -2,6 +2,7 @@
  "genus": "Ditiola",
  "name": "peziziformis",
  "date": [
+  "12/04/2025,25154546060895821",
   "09/13/2025,24428043306879437",
   "01/16/2022,4545662635544132",
   "10/10/2020,3203104023133340"
@@ -137,6 +138,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Ditiola_peziziformis_75ca5690-95fb-11f0-8153-551fb074ddcc_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ditiola_peziziformis_fa5e8580-d19b-11f0-a493-111cbc0efa1b_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ditiola_peziziformis_fa5e8580-d19b-11f0-a493-111cbc0efa1b_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ditiola_peziziformis_fa5e8580-d19b-11f0-a493-111cbc0efa1b_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ditiola_peziziformis_fa5e8580-d19b-11f0-a493-111cbc0efa1b_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ditiola_peziziformis_fa5e8580-d19b-11f0-a493-111cbc0efa1b_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ditiola_peziziformis_fa5e8580-d19b-11f0-a493-111cbc0efa1b_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ditiola_peziziformis_fa5e8580-d19b-11f0-a493-111cbc0efa1b_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -185,5 +214,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/26359269/thumb.jpg"
   }
  ],
- "timestamp": "20251203-193131"
+ "timestamp": "20251207-170427"
 }

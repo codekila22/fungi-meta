@@ -2,6 +2,7 @@
  "genus": "Pleurotus",
  "name": "djamor",
  "date": [
+  "12/06/2025,25170430329307394",
   "04/28/2025,9500596220050724",
   "04/27/2025,9482310141879332",
   "04/09/2025,9447242285386118",
@@ -183,6 +184,14 @@
   {
    "author": "向高世",
    "image_src": "Pleurotus_djamor_6626f600-2e0c-11f0-afb1-c5eb9367266b_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pleurotus_djamor_dfb8d330-d294-11f0-9ad9-019ae2ac4af9_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Pleurotus_djamor_dfb8d330-d294-11f0-9ad9-019ae2ac4af9_2.jpg"
   }
  ],
  "synonym": [
@@ -257,5 +266,5 @@
    "src": "https://static.inaturalist.org/photos/127650465/thumb.jpg"
   }
  ],
- "timestamp": "20251203-193131"
+ "timestamp": "20251207-170427"
 }
