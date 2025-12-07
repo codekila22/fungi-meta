@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "glaesisetosa",
  "date": [
+  "12/03/2025,25146594171691010",
   "11/09/2024,8485327548244268",
   "02/29/2024,7043343635776007",
   "05/14/2023,6121335744643472",
@@ -265,6 +266,50 @@
   {
    "author": "Sunny Wang",
    "image_src": "Mycena_glaesisetosa_b7011270-9efd-11ef-b645-db7ca7a54785_24.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_glaesisetosa_44efa1a0-d058-11f0-8cfb-df1769b8a0d5_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -302,9 +347,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Mycena brunneisetosa,,",
   "Note": "除了一般枯葉，也有在黃藤枯枝上的紀錄。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "褐剛毛小菇,,",
+  "la_zhcn": "褐刚毛小菇,,"
  },
  "inaturalist": [
   {
@@ -314,5 +361,5 @@
    "src": ""
   }
  ],
- "timestamp": "20251203-193131"
+ "timestamp": "20251207-150654"
 }

@@ -2,6 +2,7 @@
  "genus": "Aleurodiscus",
  "name": "tropicus",
  "date": [
+  "12/03/2025,25146454795038281",
   "12/20/2024,8722242074552813",
   "11/10/2023,6641181119325596"
  ],
@@ -58,6 +59,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Aleurodiscus_tropicus_b9ae1dd0-c02a-11ef-87c7-69feae5a54df_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aleurodiscus_tropicus_ac1df7f0-d058-11f0-8cfb-df1769b8a0d5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aleurodiscus_tropicus_ac1df7f0-d058-11f0-8cfb-df1769b8a0d5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aleurodiscus_tropicus_ac1df7f0-d058-11f0-8cfb-df1769b8a0d5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aleurodiscus_tropicus_ac1df7f0-d058-11f0-8cfb-df1769b8a0d5_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -99,5 +116,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20251203-193131"
+ "timestamp": "20251207-150654"
 }
