@@ -2,7 +2,7 @@
  "name": "Marasmius",
  "zhtw": "小皮傘屬",
  "zhcn": "小皮伞属",
- "timestamp": "20251207-170427",
+ "timestamp": "20251207-172209",
  "list": [
   {
    "name": "Marasmius aff. guyanensis",
@@ -120,6 +120,12 @@
    "zhtw": "優雅小皮傘",
    "zhcn": "优雅小皮伞",
    "img": "Marasmius_elegans_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Marasmius epiphylloides",
+   "zhtw": "類葉生小皮傘",
+   "zhcn": "类叶生小皮伞",
+   "img": "Marasmius_epiphylloides_d8f893b0-d34c-11f0-ad73-67690eb453d9_1.jpg"
   },
   {
    "name": "Marasmius graminum",
