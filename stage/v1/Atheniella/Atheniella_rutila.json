@@ -2,6 +2,7 @@
  "genus": "Atheniella",
  "name": "rutila",
  "date": [
+  "12/07/2025,25178510948499332",
   "12/19/2024,8706339416143079",
   "07/29/2023,6255199257923786",
   "07/15/2022,4607937932649935",
@@ -92,6 +93,46 @@
   {
    "author": "陳麗紅",
    "image_src": "Atheniella_rutila_4172c7e0-c051-11ef-8007-d742b3e63a24_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Atheniella_rutila_673e9380-d33f-11f0-a2c7-5b37e3b0e416_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Atheniella_rutila_673e9380-d33f-11f0-a2c7-5b37e3b0e416_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Atheniella_rutila_673e9380-d33f-11f0-a2c7-5b37e3b0e416_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Atheniella_rutila_673e9380-d33f-11f0-a2c7-5b37e3b0e416_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Atheniella_rutila_673e9380-d33f-11f0-a2c7-5b37e3b0e416_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Atheniella_rutila_673e9380-d33f-11f0-a2c7-5b37e3b0e416_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Atheniella_rutila_673e9380-d33f-11f0-a2c7-5b37e3b0e416_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Atheniella_rutila_673e9380-d33f-11f0-a2c7-5b37e3b0e416_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Atheniella_rutila_673e9380-d33f-11f0-a2c7-5b37e3b0e416_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Atheniella_rutila_673e9380-d33f-11f0-a2c7-5b37e3b0e416_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -116,7 +157,7 @@
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
-  "StalkBase": "",
+  "StalkBase": "mycelium",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "5,16",
   "HeightRangeValuess": "",
@@ -135,5 +176,5 @@
   "la_zhtw": "美男艷小菇,,",
   "la_zhcn": "美男艳小菇,,"
  },
- "timestamp": "20251207-150654"
+ "timestamp": "20251207-161447"
 }

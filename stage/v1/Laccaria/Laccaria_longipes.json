@@ -16,6 +16,10 @@
  "url": "4047731585337242",
  "images": [
   {
+   "author": "陳麗紅",
+   "image_src": "Laccaria_longipes_8937c6c0-d261-11f0-a463-09d65b3eb824_2.jpg"
+  },
+  {
    "author": "Rigo Chang",
    "image_src": "Laccaria_longipes_1_CC BY-NC_Rigo Chang.jpg"
   },
@@ -121,10 +125,6 @@
   },
   {
    "author": "陳麗紅",
-   "image_src": "Laccaria_longipes_8937c6c0-d261-11f0-a463-09d65b3eb824_2.jpg"
-  },
-  {
-   "author": "陳麗紅",
    "image_src": "Laccaria_longipes_8937c6c0-d261-11f0-a463-09d65b3eb824_3.jpg"
   },
   {
@@ -202,5 +202,5 @@
    "src": "https://static.inaturalist.org/photos/9922103/thumb.jpg"
   }
  ],
- "timestamp": "20251207-150654"
+ "timestamp": "20251207-161447"
 }

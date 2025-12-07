@@ -1,5 +1,5 @@
 {
- "timestamp": "20251207-150654",
+ "timestamp": "20251207-161447",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -218,6 +218,7 @@
    "Flavodon,黃齒菌屬,黄齿菌属",
    "Fusarium,鐮孢菌屬,镰孢菌属",
    "Fusicolla,鐮孢菌屬,镰孢菌属",
+   "Gloeomyces,黏革菌屬,黏革菌属",
    "Haematonectria,血赤殼屬,血赤壳属",
    "Hydnophlebia,刺射脈菌屬,刺射脉菌属",
    "Hydropisphaera,水球殼屬,水球壳属",
@@ -1426,7 +1427,8 @@
   "Chlorociboria aeruginascens,小孢綠杯盤菌,小孢绿杯盘菌",
   "Chlorociboria aeruginosa,綠杯盤菌,绿杯盘菌",
   "Chlorociboria omnivirens,青綠杯盤菌,青绿杯盘菌",
-  "Chlorophyllum hortense,花園青褶傘,花园青褶伞",
+  "Chlorophyllum globosum,球蓋綠褶菇,球盖绿褶菇",
+  "Chlorophyllum hortense,庭院綠褶菇,庭院绿褶菇",
   "Chlorophyllum molybdites,綠褶菇,绿褶菇",
   "Chloroscypha alutipes,長柄綠膠杯菌,长柄绿胶杯菌",
   "Choanephora cucurbitarum,瓜笄黴,瓜笄霉",
