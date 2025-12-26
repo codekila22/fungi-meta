@@ -2,6 +2,7 @@
  "genus": "Strigula",
  "name": "elegans",
  "date": [
+  "12/18/2025,25281072634909829",
   "02/09/2024,6963414143768957",
   "02/08/2024,6954199304690441",
   "11/14/2020,3284170581693350"
@@ -115,6 +116,34 @@
   {
    "author": "江志緯",
    "image_src": "Strigula_elegans_7a4853b0-c885-11ee-b545-b37d710e776e_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Strigula_elegans_32eb23b0-de56-11f0-9d89-61eaea8f0a1d_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Strigula_elegans_32eb23b0-de56-11f0-9d89-61eaea8f0a1d_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Strigula_elegans_32eb23b0-de56-11f0-9d89-61eaea8f0a1d_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Strigula_elegans_32eb23b0-de56-11f0-9d89-61eaea8f0a1d_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Strigula_elegans_32eb23b0-de56-11f0-9d89-61eaea8f0a1d_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Strigula_elegans_32eb23b0-de56-11f0-9d89-61eaea8f0a1d_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Strigula_elegans_32eb23b0-de56-11f0-9d89-61eaea8f0a1d_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -162,5 +191,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/25751000/thumb.jpg"
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-104231"
 }

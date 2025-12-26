@@ -1,5 +1,5 @@
 {
- "timestamp": "20251207-172634",
+ "timestamp": "20251226-104231",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -1185,6 +1185,7 @@
   "Arcyria pomiformis,果形團網黏菌,果形团网黏菌",
   "Armillaria gallica,高盧蜜環菌,高卢蜜环菌",
   "Armillaria mellea,蜜環菌,蜜环菌",
+  "Armillaria ostoyae,奧氏蜜環菌,奥氏蜜环菌",
   "Armillaria tabescens,無環蜜環菌,无环蜜环菌",
   "Arrhenia acerosa,銳葉蘚臍菇,锐叶藓脐菇",
   "Arrhenia discorosea,分離褶盾菌,分离褶盾菌",
@@ -2843,6 +2844,7 @@
   "Peziza ammophila,沙灘盤菌,沙滩盘菌",
   "Peziza arvernensis,阿地盤菌,阿地盘菌",
   "Peziza badia,疣孢褐盤菌,疣孢褐盘菌",
+  "Peziza domiciliana,家園盤菌,家园盘菌",
   "Peziza phyllogena,葉生盤菌,叶生盘菌",
   "Peziza urinophila,尿素盤菌,尿素盘菌",
   "Peziza vesiculosa,泡質盤菌,泡质盘菌",
@@ -3528,7 +3530,6 @@
   "Trogia buccinalis,貝狀溝褶菌,贝状沟褶菌",
   "Trogia cantharelloides,紫雞油溝褶菌,紫鸡油沟褶菌",
   "Trogia infundibuliformis,漏斗狀溝褶菌,漏斗状沟褶菌",
-  "Trogia venenata,毒溝褶菌,毒沟褶菌",
   "Truncospora ochroleuca,赭白畸孢孔菌,赭白畸孢孔菌",
   "Trypethelium eluteriae,乳嘴衣,乳嘴衣",
   "Tubaria furfuracea,鱗皮假臍菇,鳞皮假脐菇",

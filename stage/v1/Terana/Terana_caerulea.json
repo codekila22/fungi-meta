@@ -2,6 +2,7 @@
  "genus": "Terana",
  "name": "caerulea",
  "date": [
+  "12/18/2025,25284840594533033",
   "06/21/2024,7537003973076635",
   "05/18/2024,7375763742533993",
   "10/25/2023,6559557210821321",
@@ -163,6 +164,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Terana_caerulea_c6990f40-303e-11ef-8b59-f7ffe457b478_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Terana_caerulea_b5a078d0-de53-11f0-9d89-61eaea8f0a1d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Terana_caerulea_b5a078d0-de53-11f0-9d89-61eaea8f0a1d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Terana_caerulea_b5a078d0-de53-11f0-9d89-61eaea8f0a1d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Terana_caerulea_b5a078d0-de53-11f0-9d89-61eaea8f0a1d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Terana_caerulea_b5a078d0-de53-11f0-9d89-61eaea8f0a1d_5.jpg"
   }
  ],
  "synonym": [
@@ -222,5 +243,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174100386/thumb.jpg"
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-104231"
 }

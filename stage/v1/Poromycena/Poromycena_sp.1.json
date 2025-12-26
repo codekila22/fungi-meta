@@ -2,6 +2,7 @@
  "genus": "Poromycena",
  "name": "sp.1",
  "date": [
+  "12/16/2025,25268314546185638",
   "06/08/2024,7473713306072369",
   "04/22/2024,7254525641324471",
   "02/25/2024,7021979051245799",
@@ -90,6 +91,26 @@
   {
    "author": "徐秀團",
    "image_src": "Poromycena_sp.1_28665d70-0440-11ef-9f92-dd948dff2de6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Poromycena_sp.1_2efc2bb0-de55-11f0-9d89-61eaea8f0a1d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Poromycena_sp.1_2efc2bb0-de55-11f0-9d89-61eaea8f0a1d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Poromycena_sp.1_2efc2bb0-de55-11f0-9d89-61eaea8f0a1d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Poromycena_sp.1_2efc2bb0-de55-11f0-9d89-61eaea8f0a1d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Poromycena_sp.1_2efc2bb0-de55-11f0-9d89-61eaea8f0a1d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -130,5 +151,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-104231"
 }

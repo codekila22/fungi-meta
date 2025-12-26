@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "oregonensis",
  "date": [
+  "12/15/2025,25258916453792114",
   "01/09/2024,6859660614144311",
   "04/08/2023,5862869960490053",
   "02/11/2023,5709322805844770",
@@ -123,6 +124,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_oregonensis_ff267630-b600-11ee-acfd-23eacbbaf171_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_oregonensis_9ef13830-df03-11f0-8f14-79f2560e7ab2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_oregonensis_9ef13830-df03-11f0-8f14-79f2560e7ab2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_oregonensis_9ef13830-df03-11f0-8f14-79f2560e7ab2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_oregonensis_9ef13830-df03-11f0-8f14-79f2560e7ab2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_oregonensis_9ef13830-df03-11f0-8f14-79f2560e7ab2_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_oregonensis_9ef13830-df03-11f0-8f14-79f2560e7ab2_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_oregonensis_9ef13830-df03-11f0-8f14-79f2560e7ab2_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_oregonensis_9ef13830-df03-11f0-8f14-79f2560e7ab2_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_oregonensis_9ef13830-df03-11f0-8f14-79f2560e7ab2_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -171,5 +208,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4136546/thumb."
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-104231"
 }

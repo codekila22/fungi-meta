@@ -2,6 +2,7 @@
  "genus": "Beauveria",
  "name": "bassiana",
  "date": [
+  "12/18/2025,25291657777184648",
   "07/21/2025,23999535493063556",
   "07/13/2025,23989456304071475",
   "08/11/2024,7828957683881261",
@@ -194,6 +195,14 @@
   {
    "author": "陳麗紅",
    "image_src": "Beauveria_bassiana_949f5400-6f4d-11f0-9d7b-c3604a917990_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_bassiana_8893ba00-de53-11f0-9d89-61eaea8f0a1d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_bassiana_8893ba00-de53-11f0-9d89-61eaea8f0a1d_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -247,5 +256,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6709080/thumb.jpg"
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-104231"
 }
