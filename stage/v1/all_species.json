@@ -1,5 +1,5 @@
 {
- "timestamp": "20251226-170157",
+ "timestamp": "20251226-174119",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -212,6 +212,7 @@
    "Diaporthe,間座殼菌屬,间座壳菌属",
    "Diatrype,蕉孢殼菌屬,蕉孢壳菌属",
    "Diatrypella,小蕉孢殼菌屬,小蕉孢壳菌属",
+   "Echinodotium,木齒菌屬,木齿菌属",
    "Erythricium,赤衣菌屬,赤衣菌属",
    "Eutypella,小彎孢殼菌屬,小弯孢壳菌属",
    "Flammocladiella,金毛殼菌屬,金毛壳菌属",
@@ -1763,6 +1764,7 @@
   "Datronia scutellata,盤異薄孔菌,盘异薄孔菌",
   "Datroniella scutellata,盤狀小異薄孔菌,盘状小异薄孔菌",
   "Deconica austrosinensis,華南無錐菇,华南无锥菇",
+  "Deconica cf. cokeriana,疑似科克無錐菇,疑似科克无锥菇",
   "Deconica horizontalis,水平無錐菇,水平无锥菇",
   "Deconica phillipsii,菲氏無錐菇,菲氏无锥菇",
   "Deconica protea,海神無錐菇,海神无锥菇",
@@ -1828,6 +1830,7 @@
   "Echinoderma calcicola,灰岩棘皮菌,灰岩棘皮菌",
   "Echinoderma echinaceum,刺錐棘皮菌,刺锥棘皮菌",
   "Echinoderma rubellum,紅斑棘皮菌,红斑棘皮菌",
+  "Echinodotium taxodii,紫杉木齒菌,紫杉木齿菌",
   "Echinoporia hydnophora,齒狀刺孔菌,齿状刺孔菌",
   "Elaphomyces granulatus,粗粒大團囊菌,粗粒大团囊菌",
   "Elaphomyces muricatus,粗棘大團囊菌,粗棘大团囊菌",
@@ -2778,6 +2781,7 @@
   "Pallidogramme chrysenteron,乳黃灰線衣,乳黄灰线衣",
   "Panaeolus antillarum,安地列斯花褶傘,安地列斯花褶伞",
   "Panaeolus cinctulus,鹿色花褶傘,鹿色花褶伞",
+  "Panaeolus cyanescens,藍斑褶傘,蓝斑褶伞",
   "Panaeolus papilionaceus,蝶形花褶傘,蝶形花褶伞",
   "Panaeolus subbalteatus,鹿色花褶傘,鹿色花褶伞",
   "Pandora dipterigena,雙翅蟲癘黴,双翅虫疠霉",

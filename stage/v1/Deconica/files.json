@@ -2,13 +2,19 @@
  "name": "Deconica",
  "zhtw": "無錐菇屬",
  "zhcn": "无锥菇属",
- "timestamp": "20251226-170157",
+ "timestamp": "20251226-174119",
  "list": [
   {
    "name": "Deconica austrosinensis",
    "zhtw": "華南無錐菇",
    "zhcn": "华南无锥菇",
    "img": "Deconica_aff. crobula_11_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Deconica cf. cokeriana",
+   "zhtw": "疑似科克無錐菇",
+   "zhcn": "疑似科克无锥菇",
+   "img": "Deconica_cf. cokeriana_d23d1920-e23c-11f0-bac7-9fe6c1617890_1.jpg"
   },
   {
    "name": "Deconica horizontalis",
