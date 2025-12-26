@@ -2,7 +2,7 @@
  "name": "Armillaria",
  "zhtw": "蜜環菌屬",
  "zhcn": "蜜环菌属",
- "timestamp": "20251207-172634",
+ "timestamp": "20251226-175049",
  "list": [
   {
    "name": "Armillaria gallica",
@@ -15,6 +15,12 @@
    "zhtw": "蜜環菌",
    "zhcn": "蜜环菌",
    "img": "Armillaria_mellea_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Armillaria ostoyae",
+   "zhtw": "奧氏蜜環菌",
+   "zhcn": "奥氏蜜环菌",
+   "img": "Armillaria_ostoyae_e21dde00-de55-11f0-9d89-61eaea8f0a1d_1.jpg"
   },
   {
    "name": "Armillaria tabescens",

@@ -2,6 +2,7 @@
  "genus": "Coprinellus",
  "name": "heptemerus",
  "date": [
+  "12/10/2025,25214607628222997",
   "10/25/2025,24791784487171982",
   "04/08/2023,5909735869136795",
   "09/18/2021,4158519430925123",
@@ -153,6 +154,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Coprinellus_heptemerus_81cd6ae0-b1b7-11f0-87cf-bfac46c26f55_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_heptemerus_327d1c90-d7e8-11f0-b7a6-453084ed25e7_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_heptemerus_327d1c90-d7e8-11f0-b7a6-453084ed25e7_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_heptemerus_327d1c90-d7e8-11f0-b7a6-453084ed25e7_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_heptemerus_327d1c90-d7e8-11f0-b7a6-453084ed25e7_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinellus_heptemerus_327d1c90-d7e8-11f0-b7a6-453084ed25e7_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -205,5 +226,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15577339/thumb.jpg"
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-175049"
 }

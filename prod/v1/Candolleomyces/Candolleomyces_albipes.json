@@ -2,6 +2,7 @@
  "genus": "Candolleomyces",
  "name": "albipes",
  "date": [
+  "12/11/2025,25224341447249615",
   "06/06/2025,9806654929444850",
   "04/10/2025,9377768569000157",
   "11/23/2024,8560794997364189",
@@ -305,6 +306,18 @@
   {
    "author": "陳中城",
    "image_src": "Candolleomyces_albipes_f9eb4ec0-43a8-11f0-b337-9bf426210a9e_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Candolleomyces_albipes_1a319ce0-d7ef-11f0-b7a6-453084ed25e7_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Candolleomyces_albipes_1a319ce0-d7ef-11f0-b7a6-453084ed25e7_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Candolleomyces_albipes_1a319ce0-d7ef-11f0-b7a6-453084ed25e7_3.jpg"
   }
  ],
  "synonym": [
@@ -361,5 +374,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157106326/thumb.jpg"
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-175049"
 }

@@ -2,6 +2,7 @@
  "genus": "Mollisia",
  "name": "cinerea",
  "date": [
+  "12/18/2025,25291776260506133",
   "03/11/2025,9194572967319719",
   "11/20/2023,6660334627410245",
   "02/28/2021,3710790432364694",
@@ -92,6 +93,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Mollisia_cinerea_14833bc0-0241-11f0-8ec3-213a42a588eb_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mollisia_cinerea_98d97cc0-de52-11f0-9d89-61eaea8f0a1d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mollisia_cinerea_98d97cc0-de52-11f0-9d89-61eaea8f0a1d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mollisia_cinerea_98d97cc0-de52-11f0-9d89-61eaea8f0a1d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mollisia_cinerea_98d97cc0-de52-11f0-9d89-61eaea8f0a1d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mollisia_cinerea_98d97cc0-de52-11f0-9d89-61eaea8f0a1d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mollisia_cinerea_98d97cc0-de52-11f0-9d89-61eaea8f0a1d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mollisia_cinerea_98d97cc0-de52-11f0-9d89-61eaea8f0a1d_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -140,5 +169,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8761087/thumb.jpeg"
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-175049"
 }

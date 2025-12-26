@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "12/18/2025,25291711163845976",
   "01/25/2025,8945973872179631",
   "12/13/2024,8671053456338342",
   "01/18/2024,6871101446333561",
@@ -248,6 +249,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Atheniella_adonis_4aa52610-e099-11ef-8fb6-4b386b581ee5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Atheniella_adonis_5c2c62f0-de53-11f0-9d89-61eaea8f0a1d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Atheniella_adonis_5c2c62f0-de53-11f0-9d89-61eaea8f0a1d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Atheniella_adonis_5c2c62f0-de53-11f0-9d89-61eaea8f0a1d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Atheniella_adonis_5c2c62f0-de53-11f0-9d89-61eaea8f0a1d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Atheniella_adonis_5c2c62f0-de53-11f0-9d89-61eaea8f0a1d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Atheniella_adonis_5c2c62f0-de53-11f0-9d89-61eaea8f0a1d_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -299,5 +324,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/124932205/thumb.jpeg"
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-175049"
 }

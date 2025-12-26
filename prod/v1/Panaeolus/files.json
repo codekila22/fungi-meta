@@ -2,7 +2,7 @@
  "name": "Panaeolus",
  "zhtw": "花褶傘屬",
  "zhcn": "花褶伞属",
- "timestamp": "20251207-172634",
+ "timestamp": "20251226-175049",
  "list": [
   {
    "name": "Panaeolus antillarum",
@@ -15,6 +15,12 @@
    "zhtw": "鹿色花褶傘",
    "zhcn": "鹿色花褶伞",
    "img": "Panaeolus_cinctulus_304f89a0-30ef-11ee-be2e-3fbd7a5a518e_1.jpg"
+  },
+  {
+   "name": "Panaeolus cyanescens",
+   "zhtw": "藍斑褶傘",
+   "zhcn": "蓝斑褶伞",
+   "img": "Panaeolus_cyanescens_e4a933c0-e23a-11f0-bac7-9fe6c1617890_1.jpg"
   },
   {
    "name": "Panaeolus papilionaceus",

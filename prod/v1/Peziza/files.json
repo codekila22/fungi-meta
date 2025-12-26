@@ -2,7 +2,7 @@
  "name": "Peziza",
  "zhtw": "盤菌屬",
  "zhcn": "盘菌属",
- "timestamp": "20251207-172634",
+ "timestamp": "20251226-175049",
  "list": [
   {
    "name": "Peziza ammophila",
@@ -21,6 +21,12 @@
    "zhtw": "疣孢褐盤菌",
    "zhcn": "疣孢褐盘菌",
    "img": "Peziza_badia_1_CC BY-NC.jpg"
+  },
+  {
+   "name": "Peziza domiciliana",
+   "zhtw": "家園盤菌",
+   "zhcn": "家园盘菌",
+   "img": "Peziza_domiciliana_095cc820-de54-11f0-9d89-61eaea8f0a1d_1.jpg"
   },
   {
    "name": "Peziza phyllogena",

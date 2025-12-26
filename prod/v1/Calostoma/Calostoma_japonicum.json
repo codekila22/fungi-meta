@@ -3,6 +3,7 @@
  "name": "japonicum",
  "date": [
   "11/03/2025,24928434016840361",
+  "09/27/2025,25325873573763068",
   "08/03/2025,24022675957416176",
   "06/22/2025,9934391340004541",
   "01/26/2025,8914600695316949",
@@ -293,6 +294,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Calostoma_japonicum_278473b0-bd3a-11f0-a396-25172d5d74a6_10.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Calostoma_japonicum_d986ada0-e218-11f0-a31f-f551c24579bc_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Calostoma_japonicum_d986ada0-e218-11f0-a31f-f551c24579bc_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Calostoma_japonicum_d986ada0-e218-11f0-a31f-f551c24579bc_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Calostoma_japonicum_d986ada0-e218-11f0-a31f-f551c24579bc_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Calostoma_japonicum_d986ada0-e218-11f0-a31f-f551c24579bc_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Calostoma_japonicum_d986ada0-e218-11f0-a31f-f551c24579bc_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -342,5 +367,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11055950/thumb.jpg"
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-175049"
 }

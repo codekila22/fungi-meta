@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "tenerrima",
  "date": [
+  "12/07/2025,25216312308052529",
   "10/06/2025,24658780053805760",
   "05/30/2025,9797384380371905",
   "04/24/2025,9478597035583976",
@@ -303,6 +304,30 @@
   {
    "author": "江志緯",
    "image_src": "Mycena_tenerrima_eed8de70-ab32-11f0-9c8b-ef5c4f1388cb_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -354,5 +379,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1671291/thumb.jpg"
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-175049"
 }

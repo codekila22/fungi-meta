@@ -2,6 +2,7 @@
  "genus": "Trichoderma",
  "name": "viride",
  "date": [
+  "12/07/2025,25280665414950551",
   "10/16/2025,24749326111417820",
   "12/03/2023,6707741889336185",
   "10/09/2023,6618391761604532",
@@ -141,6 +142,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Trichoderma_viride_de5b5670-aeef-11f0-94c6-799b8614c1f5_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichoderma_viride_0bef20e0-de56-11f0-9d89-61eaea8f0a1d_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichoderma_viride_0bef20e0-de56-11f0-9d89-61eaea8f0a1d_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichoderma_viride_0bef20e0-de56-11f0-9d89-61eaea8f0a1d_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichoderma_viride_0bef20e0-de56-11f0-9d89-61eaea8f0a1d_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichoderma_viride_0bef20e0-de56-11f0-9d89-61eaea8f0a1d_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichoderma_viride_0bef20e0-de56-11f0-9d89-61eaea8f0a1d_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trichoderma_viride_0bef20e0-de56-11f0-9d89-61eaea8f0a1d_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -191,5 +220,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/19630876/thumb.jpg"
   }
  ],
- "timestamp": "20251207-172634"
+ "timestamp": "20251226-175049"
 }
