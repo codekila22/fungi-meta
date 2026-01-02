@@ -2,6 +2,7 @@
  "genus": "Favolaschia",
  "name": "pustulosa",
  "date": [
+  "12/10/2025,25207444972272596",
   "07/02/2025,10006001949510146",
   "07/05/2024,7610897052353993",
   "07/02/2023,6159082317535481",
@@ -185,6 +186,46 @@
   {
    "author": "吳湯姆",
    "image_src": "Favolaschia_pustulosa_4285b950-5a32-11f0-a057-7f598b431b85_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_pustulosa_1e7c1720-e7ae-11f0-99e3-911e65a1b17a_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_pustulosa_1e7c1720-e7ae-11f0-99e3-911e65a1b17a_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_pustulosa_1e7c1720-e7ae-11f0-99e3-911e65a1b17a_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_pustulosa_1e7c1720-e7ae-11f0-99e3-911e65a1b17a_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_pustulosa_1e7c1720-e7ae-11f0-99e3-911e65a1b17a_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_pustulosa_1e7c1720-e7ae-11f0-99e3-911e65a1b17a_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_pustulosa_1e7c1720-e7ae-11f0-99e3-911e65a1b17a_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_pustulosa_1e7c1720-e7ae-11f0-99e3-911e65a1b17a_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_pustulosa_1e7c1720-e7ae-11f0-99e3-911e65a1b17a_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_pustulosa_1e7c1720-e7ae-11f0-99e3-911e65a1b17a_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -235,5 +276,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11727685/thumb.jpeg"
   }
  ],
- "timestamp": "20251226-175049"
+ "timestamp": "20260102-155649"
 }

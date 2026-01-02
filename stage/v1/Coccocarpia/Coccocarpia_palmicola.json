@@ -2,6 +2,7 @@
  "genus": "Coccocarpia",
  "name": "palmicola",
  "date": [
+  "12/23/2025,25351728304510928",
   "06/10/2018,3326445834132491"
  ],
  "names_zhtw": [
@@ -33,6 +34,26 @@
   {
    "author": "陳雅芬",
    "image_src": "Coccocarpia_palmicola_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coccocarpia_palmicola_885c9970-e3ae-11f0-844f-6d73af55f764_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coccocarpia_palmicola_885c9970-e3ae-11f0-844f-6d73af55f764_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coccocarpia_palmicola_885c9970-e3ae-11f0-844f-6d73af55f764_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coccocarpia_palmicola_885c9970-e3ae-11f0-844f-6d73af55f764_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coccocarpia_palmicola_885c9970-e3ae-11f0-844f-6d73af55f764_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -80,5 +101,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2693387/thumb.jpg"
   }
  ],
- "timestamp": "20251226-175049"
+ "timestamp": "20260102-155649"
 }

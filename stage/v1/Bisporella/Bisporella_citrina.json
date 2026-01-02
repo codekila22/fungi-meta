@@ -2,6 +2,7 @@
  "genus": "Bisporella",
  "name": "citrina",
  "date": [
+  "12/31/2025,25381315971552161",
   "12/04/2025,25199125493104544",
   "01/16/2025,8858303910946628",
   "12/25/2024,8828715717238781",
@@ -193,6 +194,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Bisporella_citrina_39d5b120-d593-11f0-9a1d-e76a7210304d_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Bisporella_citrina_23a64b60-e648-11f0-9839-6151dc142f2d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Bisporella_citrina_23a64b60-e648-11f0-9839-6151dc142f2d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Bisporella_citrina_23a64b60-e648-11f0-9839-6151dc142f2d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -242,5 +255,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55384981/thumb.jpeg"
   }
  ],
- "timestamp": "20251226-175049"
+ "timestamp": "20260102-155649"
 }

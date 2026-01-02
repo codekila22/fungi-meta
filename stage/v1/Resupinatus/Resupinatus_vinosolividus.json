@@ -2,6 +2,7 @@
  "genus": "Resupinatus",
  "name": "vinosolividus",
  "date": [
+  "12/18/2025,25348145134869245",
   "01/25/2022,4590508654392863"
  ],
  "names_zhtw": [
@@ -45,6 +46,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Resupinatus_vinosolividus_b6db6790-a8a0-11ee-ab46-15e5a78cafe1_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_vinosolividus_5e1b9c80-e2f8-11f0-86e3-a72f8bb14eda_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_vinosolividus_5e1b9c80-e2f8-11f0-86e3-a72f8bb14eda_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_vinosolividus_5e1b9c80-e2f8-11f0-86e3-a72f8bb14eda_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_vinosolividus_5e1b9c80-e2f8-11f0-86e3-a72f8bb14eda_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -94,5 +111,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1304635/thumb.jpg"
   }
  ],
- "timestamp": "20251226-175049"
+ "timestamp": "20260102-155649"
 }

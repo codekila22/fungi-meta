@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "12/27/2025,25349647851385640",
   "05/16/2023,5994029530707428",
   "05/06/2023,5952376824872699",
   "04/25/2023,5914850028625379",
@@ -138,6 +139,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Ascocoryne_trichophora_16140980-f64d-11ed-a3dc-63b29c09d5d9_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ascocoryne_trichophora_d29540a0-e2ff-11f0-86e3-a72f8bb14eda_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ascocoryne_trichophora_d29540a0-e2ff-11f0-86e3-a72f8bb14eda_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ascocoryne_trichophora_d29540a0-e2ff-11f0-86e3-a72f8bb14eda_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ascocoryne_trichophora_e1820da0-e2ff-11f0-86e3-a72f8bb14eda_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ascocoryne_trichophora_e1820da0-e2ff-11f0-86e3-a72f8bb14eda_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ascocoryne_trichophora_e1820da0-e2ff-11f0-86e3-a72f8bb14eda_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -186,5 +211,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8969446/thumb.jpeg"
   }
  ],
- "timestamp": "20251226-175049"
+ "timestamp": "20260102-155649"
 }
