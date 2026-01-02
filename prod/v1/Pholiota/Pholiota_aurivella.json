@@ -2,6 +2,7 @@
  "genus": "Pholiota",
  "name": "aurivella",
  "date": [
+  "12/29/2025,25381158848234540",
   "05/13/2025,9617237748386570",
   "03/09/2025,9165509496892733",
   "01/09/2025,8821087481334938",
@@ -32,6 +33,10 @@
  "names_en": [],
  "url": "4643883589055369",
  "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_b272ba50-ff94-11ee-a3dc-d7f297f1a6ac_8.jpg"
+  },
   {
    "author": "Hannah Wang",
    "image_src": "Pholiota_aurivella_5_CC BY-NC_Hannah Wang.jpg"
@@ -329,10 +334,6 @@
    "image_src": "Pholiota_aurivella_b272ba50-ff94-11ee-a3dc-d7f297f1a6ac_7.jpg"
   },
   {
-   "author": "江志緯",
-   "image_src": "Pholiota_aurivella_b272ba50-ff94-11ee-a3dc-d7f297f1a6ac_8.jpg"
-  },
-  {
    "author": "朱艷",
    "image_src": "Pholiota_aurivella_45c01f60-1b05-11ef-b2dd-05a0d96c0e3d_1.jpg"
   },
@@ -487,6 +488,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Pholiota_aurivella_b01630f0-d0bf-11ef-94dc-61cf3cd0aee9_26.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_aurivella_17bf27d0-e649-11f0-9839-6151dc142f2d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_aurivella_17bf27d0-e649-11f0-9839-6151dc142f2d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_aurivella_17bf27d0-e649-11f0-9839-6151dc142f2d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_aurivella_17bf27d0-e649-11f0-9839-6151dc142f2d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pholiota_aurivella_17bf27d0-e649-11f0-9839-6151dc142f2d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -560,5 +581,5 @@
    "src": ""
   }
  ],
- "timestamp": "20251226-175049"
+ "timestamp": "20260102-160442"
 }

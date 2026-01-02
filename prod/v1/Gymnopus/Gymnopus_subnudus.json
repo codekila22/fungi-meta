@@ -2,6 +2,7 @@
  "genus": "Gymnopus",
  "name": "subnudus",
  "date": [
+  "10/26/2025,25372344639115961",
   "08/17/2024,7947435142033514",
   "09/29/2023,6458444977599212",
   "12/09/2017,1408303652613395"
@@ -115,6 +116,22 @@
   {
    "author": "江志緯",
    "image_src": "Gymnopus_subnudus_d400e310-672a-11ef-8f95-4943a0fc7aee_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopus_subnudus_6e72ec60-e621-11f0-ae49-451eaf584560_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopus_subnudus_6e72ec60-e621-11f0-ae49-451eaf584560_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopus_subnudus_6e72ec60-e621-11f0-ae49-451eaf584560_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopus_subnudus_6e72ec60-e621-11f0-ae49-451eaf584560_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -163,5 +180,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13084449/thumb.jpeg"
   }
  ],
- "timestamp": "20251226-175049"
+ "timestamp": "20260102-160442"
 }

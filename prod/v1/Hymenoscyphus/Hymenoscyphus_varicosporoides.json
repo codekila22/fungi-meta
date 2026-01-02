@@ -2,6 +2,7 @@
  "genus": "Hymenoscyphus",
  "name": "varicosporoides",
  "date": [
+  "12/16/2025,25268143742869385",
   "11/23/2025,25102896962727398",
   "06/26/2025,9973018932808448",
   "05/06/2021,3751072985003105"
@@ -99,6 +100,26 @@
   {
    "author": "江志緯",
    "image_src": "Hymenoscyphus_varicosporoides_957df400-ce5f-11f0-8401-bff8c9ed08f8_15.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_varicosporoides_ee1cd880-e2f8-11f0-86e3-a72f8bb14eda_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_varicosporoides_ee1cd880-e2f8-11f0-86e3-a72f8bb14eda_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_varicosporoides_ee1cd880-e2f8-11f0-86e3-a72f8bb14eda_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_varicosporoides_ee1cd880-e2f8-11f0-86e3-a72f8bb14eda_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hymenoscyphus_varicosporoides_ee1cd880-e2f8-11f0-86e3-a72f8bb14eda_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -148,5 +169,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/48426682/thumb.jpg"
   }
  ],
- "timestamp": "20251226-175049"
+ "timestamp": "20260102-160442"
 }
