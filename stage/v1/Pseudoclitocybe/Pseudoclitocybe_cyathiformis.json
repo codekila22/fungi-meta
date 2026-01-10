@@ -2,6 +2,7 @@
  "genus": "Pseudoclitocybe",
  "name": "cyathiformis",
  "date": [
+  "12/31/2025,25399087933108298",
   "03/10/2024,7080855368691500",
   "09/20/2022,6674927705950937",
   "02/06/2022,4755756207868106"
@@ -87,6 +88,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Pseudoclitocybe_cyathiformis_989d38f0-e8d6-11ee-8978-bf0821556f01_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pseudoclitocybe_cyathiformis_8e385130-edbe-11f0-8bfe-2b1b4c963e20_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pseudoclitocybe_cyathiformis_8e385130-edbe-11f0-8bfe-2b1b4c963e20_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pseudoclitocybe_cyathiformis_8e385130-edbe-11f0-8bfe-2b1b4c963e20_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pseudoclitocybe_cyathiformis_8e385130-edbe-11f0-8bfe-2b1b4c963e20_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -136,5 +153,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/99823185/thumb.jpeg"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260110-095920"
 }

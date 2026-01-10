@@ -2,6 +2,7 @@
  "genus": "Pterula",
  "name": "sp.1",
  "date": [
+  "01/03/2026,25438694305814327",
   "06/25/2024,7562164490560583",
   "09/28/2023,6453429848100725",
   "09/23/2023,6626223037488071",
@@ -107,6 +108,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Pterula_sp.1_7fc95460-3455-11ef-837f-9b3252d40d7b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_sp.1_b8305970-ec5f-11f0-b5f4-6b48d2165b8c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_sp.1_b8305970-ec5f-11f0-b5f4-6b48d2165b8c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_sp.1_b8305970-ec5f-11f0-b5f4-6b48d2165b8c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_sp.1_b8305970-ec5f-11f0-b5f4-6b48d2165b8c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_sp.1_b8305970-ec5f-11f0-b5f4-6b48d2165b8c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_sp.1_b8305970-ec5f-11f0-b5f4-6b48d2165b8c_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -147,5 +172,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260102-160442"
+ "timestamp": "20260110-095920"
 }

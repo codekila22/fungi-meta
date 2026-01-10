@@ -2,6 +2,7 @@
  "genus": "Calocera",
  "name": "furcata",
  "date": [
+  "01/01/2026,25459027723780985",
   "12/26/2024,8751537818289905",
   "03/19/2024,7115127995264237",
   "01/26/2024,6909891215787917",
@@ -144,6 +145,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Calocera_furcata_af997c10-e96e-11ee-b7ee-59c7d550e0b0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calocera_furcata_ab061e50-edaf-11f0-8bfe-2b1b4c963e20_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calocera_furcata_ab061e50-edaf-11f0-8bfe-2b1b4c963e20_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calocera_furcata_ab061e50-edaf-11f0-8bfe-2b1b4c963e20_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calocera_furcata_ab061e50-edaf-11f0-8bfe-2b1b4c963e20_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calocera_furcata_ab061e50-edaf-11f0-8bfe-2b1b4c963e20_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calocera_furcata_ab061e50-edaf-11f0-8bfe-2b1b4c963e20_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -192,5 +217,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/629084/thumb.JPG"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260110-095920"
 }

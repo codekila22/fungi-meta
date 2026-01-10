@@ -2,6 +2,7 @@
  "genus": "Neobulgaria",
  "name": "pura",
  "date": [
+  "01/03/2026,25421801184170306",
   "12/31/2025,25380615861622172",
   "12/04/2025,25154308010919626",
   "09/28/2025,24511121931904907",
@@ -203,6 +204,50 @@
   {
    "author": "吳湯姆",
    "image_src": "Neobulgaria_pura_9dd2f4c0-e647-11f0-9839-6151dc142f2d_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Neobulgaria_pura_755b0120-eaf9-11f0-811d-2d229e7fc034_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -263,5 +308,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94273056/thumb.jpg"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260110-095920"
 }
