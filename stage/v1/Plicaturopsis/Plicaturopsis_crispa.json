@@ -2,6 +2,7 @@
  "genus": "Plicaturopsis",
  "name": "crispa",
  "date": [
+  "01/06/2026,25432869543063470",
   "12/31/2025,25380681278282297",
   "11/03/2025,24907837212233375",
   "01/05/2025,8805324132911273",
@@ -363,6 +364,34 @@
   {
    "author": "吳湯姆",
    "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_7.jpg"
   }
  ],
  "synonym": [
@@ -420,5 +449,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13283489/thumb.jpg"
   }
  ],
- "timestamp": "20260110-103155"
+ "timestamp": "20260111-092805"
 }
