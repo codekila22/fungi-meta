@@ -2,6 +2,7 @@
  "genus": "Beauveria",
  "name": "felina",
  "date": [
+  "12/28/2025,25365941673089591",
   "01/01/2024,6810556892388017",
   "02/12/2023,5689444901165894",
   "03/14/2021,3591704080939997"
@@ -71,6 +72,34 @@
   {
    "author": "James Ho",
    "image_src": "Beauveria_felina_7e8f2d70-a97e-11ee-a07c-9bd44fc5d9f7_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_36aea5b0-ec8b-11f0-ab68-2b02699d4b4d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_36aea5b0-ec8b-11f0-ab68-2b02699d4b4d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_36aea5b0-ec8b-11f0-ab68-2b02699d4b4d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_36aea5b0-ec8b-11f0-ab68-2b02699d4b4d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_36aea5b0-ec8b-11f0-ab68-2b02699d4b4d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_36aea5b0-ec8b-11f0-ab68-2b02699d4b4d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Beauveria_felina_36aea5b0-ec8b-11f0-ab68-2b02699d4b4d_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,5 +148,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/189797179/thumb.jpg"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260111-092805"
 }

@@ -2,6 +2,7 @@
  "genus": "Chondrostereum",
  "name": "purpureum",
  "date": [
+  "12/31/2025,25398963696454055",
   "01/03/2025,8789424674501219",
   "08/19/2024,7881914808585548",
   "01/28/2024,6909978012445904",
@@ -163,6 +164,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Chondrostereum_purpureum_aa328be0-c9ce-11ef-a85f-dd2d8893d43d_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chondrostereum_purpureum_cb4cbf50-eaff-11f0-bb18-cf071b81db95_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chondrostereum_purpureum_cb4cbf50-eaff-11f0-bb18-cf071b81db95_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chondrostereum_purpureum_cb4cbf50-eaff-11f0-bb18-cf071b81db95_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Chondrostereum_purpureum_cb4cbf50-eaff-11f0-bb18-cf071b81db95_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -211,5 +228,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/388071/thumb.jpg"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260111-092805"
 }

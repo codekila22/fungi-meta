@@ -2,6 +2,7 @@
  "genus": "Ramalina",
  "name": "conduplicans",
  "date": [
+  "01/03/2026,25415119418171816",
   "08/22/2023,6329259657184412",
   "01/01/2023,5560351524075233",
   "02/01/2022,4827373604039699",
@@ -96,6 +97,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Ramalina_conduplicans_cfe8b090-42d3-11ee-a1a9-a3992c7407f0_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ramalina_conduplicans_23da3ee0-e9c5-11f0-81f4-bb0365d7c7e3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ramalina_conduplicans_23da3ee0-e9c5-11f0-81f4-bb0365d7c7e3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ramalina_conduplicans_23da3ee0-e9c5-11f0-81f4-bb0365d7c7e3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ramalina_conduplicans_23da3ee0-e9c5-11f0-81f4-bb0365d7c7e3_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -144,5 +161,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260111-092805"
 }

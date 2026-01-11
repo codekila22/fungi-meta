@@ -1,5 +1,5 @@
 {
- "timestamp": "20260102-160442",
+ "timestamp": "20260111-092805",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -149,6 +149,7 @@
    "Perenniporia,多年臥孔菌屬,多年卧孔菌属",
    "Phaeolus,暗孔菌屬,暗孔菌属",
    "Phaeotrametes,褐栓菌屬,褐栓菌属",
+   "Phanerina,蠟臥孔菌屬,蜡卧孔菌属",
    "Phellinus,木層孔菌屬,木层孔菌属",
    "Phylloporia,葉孔菌屬,叶孔菌属",
    "Physisporinus,變色臥孔菌屬,变色卧孔菌属",
@@ -1513,6 +1514,7 @@
   "Clinoconidium sawadae,澤田氏斜孢菌,泽田氏斜孢菌",
   "Clitocybe fragrans,芳香杯傘,芳香杯伞",
   "Clitocybe gibba,深凹杯傘,深凹杯伞",
+  "Clitocybe phyllophila,白杯傘,白杯伞",
   "Clitocybe robusta,粗壯杯傘,粗壮杯伞",
   "Clitocybula wildpretii,瓦普堤小杯傘,瓦普堤小杯伞",
   "Clitopilus cf. tillii,疑似帝爾斜蓋傘,疑似帝尔斜盖伞",
@@ -2889,6 +2891,7 @@
   "Phallus luteus,純黃竹蓀,纯黄竹荪",
   "Phallus multicolor,多色裙鬼筆,多色裙鬼笔",
   "Phallus rugulosus,細皺鬼筆,细皱鬼笔",
+  "Phanerina mellea,蜜蠟臥孔菌,蜜蜡卧孔菌",
   "Phellinus fushanianus,福山木層孔菌,福山木层孔菌",
   "Phellinus gilvus,淡黃木層孔菌,淡黄木层孔菌",
   "Phellinus hoehnelii,賀尼木層孔菌,贺尼木层孔菌",

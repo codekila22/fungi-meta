@@ -2,6 +2,7 @@
  "genus": "Hemimycena",
  "name": "hirsuta",
  "date": [
+  "12/24/2025,25356977873985971",
   "04/27/2025,9541123482664664",
   "12/23/2024,8767789279998092",
   "12/03/2024,8722600821183605",
@@ -216,6 +217,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Hemimycena_hirsuta_9be59e60-2973-11f0-a61b-4d8454bacb00_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemimycena_hirsuta_da38f320-ec8b-11f0-ab68-2b02699d4b4d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemimycena_hirsuta_da38f320-ec8b-11f0-ab68-2b02699d4b4d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemimycena_hirsuta_da38f320-ec8b-11f0-ab68-2b02699d4b4d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemimycena_hirsuta_da38f320-ec8b-11f0-ab68-2b02699d4b4d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemimycena_hirsuta_da38f320-ec8b-11f0-ab68-2b02699d4b4d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -265,5 +286,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28438734/thumb.jpg"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260111-092805"
 }

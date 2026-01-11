@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "albopilosa",
  "date": [
+  "12/30/2025,25371197119230713",
   "12/17/2024,8694266710683683",
   "03/08/2024,7076079122502458",
   "01/20/2024,7144883698955333",
@@ -142,6 +143,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_albopilosa_330a8280-bd43-11ef-aa7b-637d176ef9aa_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_albopilosa_a7754d90-ec8a-11f0-ab68-2b02699d4b4d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_albopilosa_a7754d90-ec8a-11f0-ab68-2b02699d4b4d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_albopilosa_a7754d90-ec8a-11f0-ab68-2b02699d4b4d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_albopilosa_a7754d90-ec8a-11f0-ab68-2b02699d4b4d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_albopilosa_a7754d90-ec8a-11f0-ab68-2b02699d4b4d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_albopilosa_a7754d90-ec8a-11f0-ab68-2b02699d4b4d_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -193,5 +218,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254833374/thumb.jpg"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260111-092805"
 }

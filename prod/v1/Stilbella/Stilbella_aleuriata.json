@@ -2,6 +2,7 @@
  "genus": "Stilbella",
  "name": "aleuriata",
  "date": [
+  "12/31/2025,25385894637760961",
   "06/14/2025,9865496886893987",
   "11/17/2024,8564287677014921",
   "08/11/2024,7827061420737554",
@@ -218,6 +219,38 @@
   {
    "author": "陳中城",
    "image_src": "Stilbella_aleuriata_a0a613c0-49cc-11f0-b97f-4bad35a240f5_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stilbella_aleuriata_e5ee4df0-e7cc-11f0-9069-57a47a6a1757_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stilbella_aleuriata_e5ee4df0-e7cc-11f0-9069-57a47a6a1757_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stilbella_aleuriata_e5ee4df0-e7cc-11f0-9069-57a47a6a1757_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stilbella_aleuriata_e5ee4df0-e7cc-11f0-9069-57a47a6a1757_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stilbella_aleuriata_e5ee4df0-e7cc-11f0-9069-57a47a6a1757_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stilbella_aleuriata_e5ee4df0-e7cc-11f0-9069-57a47a6a1757_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stilbella_aleuriata_e5ee4df0-e7cc-11f0-9069-57a47a6a1757_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Stilbella_aleuriata_e5ee4df0-e7cc-11f0-9069-57a47a6a1757_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -269,5 +302,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156397972/thumb.jpg"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260111-092805"
 }

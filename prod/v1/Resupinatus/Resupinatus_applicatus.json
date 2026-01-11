@@ -2,6 +2,7 @@
  "genus": "Resupinatus",
  "name": "applicatus",
  "date": [
+  "01/01/2026,25439040272446397",
   "02/17/2025,9067822333328117",
   "05/01/2024,7384257598351274",
   "04/06/2024,7194559603987742",
@@ -170,6 +171,46 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Resupinatus_applicatus_731172c0-f737-11ef-81b2-d1d481d68ffe_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_7475be10-eba5-11f0-9256-f996bf44aa61_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_7475be10-eba5-11f0-9256-f996bf44aa61_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_7475be10-eba5-11f0-9256-f996bf44aa61_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_7475be10-eba5-11f0-9256-f996bf44aa61_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_7475be10-eba5-11f0-9256-f996bf44aa61_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_7475be10-eba5-11f0-9256-f996bf44aa61_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_7475be10-eba5-11f0-9256-f996bf44aa61_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_7475be10-eba5-11f0-9256-f996bf44aa61_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_7475be10-eba5-11f0-9256-f996bf44aa61_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_7475be10-eba5-11f0-9256-f996bf44aa61_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -219,5 +260,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24029041/thumb.jpg"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260111-092805"
 }

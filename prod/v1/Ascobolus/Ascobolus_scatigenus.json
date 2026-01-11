@@ -2,6 +2,7 @@
  "genus": "Ascobolus",
  "name": "scatigenus",
  "date": [
+  "01/01/2026,25429196406764117",
   "10/31/2025,24856403907376706",
   "08/19/2024,7882861171824245",
   "11/15/2022,5418829714894082",
@@ -77,6 +78,26 @@
   {
    "author": "林進福",
    "image_src": "Ascobolus_scatigenus_9_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascobolus_scatigenus_da4e3bb0-ead1-11f0-b1c0-e32a048b8271_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascobolus_scatigenus_da4e3bb0-ead1-11f0-b1c0-e32a048b8271_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascobolus_scatigenus_da4e3bb0-ead1-11f0-b1c0-e32a048b8271_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascobolus_scatigenus_da4e3bb0-ead1-11f0-b1c0-e32a048b8271_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascobolus_scatigenus_da4e3bb0-ead1-11f0-b1c0-e32a048b8271_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -125,5 +146,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/66284708/thumb.jpg"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260111-092805"
 }

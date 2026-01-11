@@ -2,6 +2,8 @@
  "genus": "Flammulina",
  "name": "filiformis",
  "date": [
+  "01/06/2026,25440014295682328",
+  "01/01/2026,25390134914003600",
   "12/15/2025,25266753356341757",
   "11/01/2025,24859678767049220",
   "01/31/2025,8944985245611827",
@@ -454,6 +456,38 @@
   {
    "author": "何俊霖",
    "image_src": "Flammulina_filiformis_05441620-de55-11f0-9d89-61eaea8f0a1d_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flammulina_filiformis_96259580-e9c5-11f0-81f4-bb0365d7c7e3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flammulina_filiformis_96259580-e9c5-11f0-81f4-bb0365d7c7e3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flammulina_filiformis_96259580-e9c5-11f0-81f4-bb0365d7c7e3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flammulina_filiformis_96259580-e9c5-11f0-81f4-bb0365d7c7e3_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulina_filiformis_866e1920-ec70-11f0-908c-e1c364c64407_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulina_filiformis_866e1920-ec70-11f0-908c-e1c364c64407_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulina_filiformis_866e1920-ec70-11f0-908c-e1c364c64407_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulina_filiformis_866e1920-ec70-11f0-908c-e1c364c64407_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -503,5 +537,5 @@
    "src": "https://static.inaturalist.org/photos/253431866/thumb.jpeg"
   }
  ],
- "timestamp": "20260102-160442"
+ "timestamp": "20260111-092805"
 }
