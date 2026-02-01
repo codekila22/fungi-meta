@@ -2,6 +2,7 @@
  "genus": "Deconica",
  "name": "austrosinensis",
  "date": [
+  "02/01/2026,25671116772572078",
   "04/27/2025,9486365998140413",
   "04/26/2025,9478798628897150",
   "04/12/2025,9422354821208198",
@@ -174,6 +175,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Deconica_aff. crobula_aceba4f0-23c1-11f0-9cc8-07853193ca93_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_austrosinensis_d2318890-ff55-11f0-b183-3186185f650b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_austrosinensis_d2318890-ff55-11f0-b183-3186185f650b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_austrosinensis_d2318890-ff55-11f0-b183-3186185f650b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_austrosinensis_d2318890-ff55-11f0-b183-3186185f650b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_austrosinensis_d2318890-ff55-11f0-b183-3186185f650b_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_austrosinensis_d2318890-ff55-11f0-b183-3186185f650b_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_austrosinensis_d2318890-ff55-11f0-b183-3186185f650b_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -205,7 +234,7 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,bamboo",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -215,5 +244,13 @@
   "Note": "容易有菌幕殘餘在傘緣上，菌柄纖維狀，有殘餘物附著。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260201-175455"
+ "inaturalist": [
+  {
+   "name": "Deconica austrosinensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1662161-Deconica-austrosinensis",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260201-183939"
 }
