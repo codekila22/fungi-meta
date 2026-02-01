@@ -1,0 +1,142 @@
+{
+ "genus": "Collybiopsis",
+ "name": "affixa",
+ "date": [
+  "11/01/2025,24927939126889850",
+  "10/31/2025,24925166323833797",
+  "07/30/2022,25016712684679160"
+ ],
+ "names_zhtw": [
+  "貼木擬金錢菇"
+ ],
+ "names_en": [],
+ "url": "24927939126889850",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_affixus_60409320-bd0b-11f0-a396-25172d5d74a6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_affixus_60409320-bd0b-11f0-a396-25172d5d74a6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_affixus_60409320-bd0b-11f0-a396-25172d5d74a6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_affixus_60409320-bd0b-11f0-a396-25172d5d74a6_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_affixus_60409320-bd0b-11f0-a396-25172d5d74a6_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_affixus_60409320-bd0b-11f0-a396-25172d5d74a6_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Marasmiellus_affixus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Marasmiellus_affixus_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Marasmiellus_affixus_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Marasmiellus_affixus_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Marasmiellus_affixus_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Marasmiellus_affixus_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Marasmiellus_affixus_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybiopsis_affixa_ed32cdf0-d031-11f0-9e0e-1fba77489bc0_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybiopsis_affixa_ed32cdf0-d031-11f0-9e0e-1fba77489bc0_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybiopsis_affixa_ed32cdf0-d031-11f0-9e0e-1fba77489bc0_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybiopsis_affixa_ed32cdf0-d031-11f0-9e0e-1fba77489bc0_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Collybiopsis_affixa_ed32cdf0-d031-11f0-9e0e-1fba77489bc0_5.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Marasmiellus affixus",
+   "zhtw": "貼木微皮傘",
+   "zhcn": "贴木微皮伞"
+  }
+ ],
+ "names_zhcn": [
+  "贴木拟金钱菇"
+ ],
+ "meta": {
+  "CapColors": "4292786311,4294634455",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Collybiopsis affixa",
+   "cname": "Little Stinker",
+   "url": "https://www.inaturalist.org/taxa/1455564-Collybiopsis-affixa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8251532/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260201-161036"
+}

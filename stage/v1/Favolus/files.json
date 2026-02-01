@@ -2,12 +2,12 @@
  "name": "Favolus",
  "zhtw": "菱孔菌屬",
  "zhcn": "菱孔菌属",
- "timestamp": "20260201-160030",
+ "timestamp": "20260201-161036",
  "list": [
   {
    "name": "Favolus acervatus",
-   "zhtw": "",
-   "zhcn": "",
+   "zhtw": "叢生菱孔菌",
+   "zhcn": "丛生菱孔菌",
    "current": "Favolus grammocephalus",
    "current_zhtw": "條蓋菱孔菌",
    "current_zhcn": "条盖菱孔菌",
@@ -24,8 +24,8 @@
   },
   {
    "name": "Favolus emerici",
-   "zhtw": "",
-   "zhcn": "",
+   "zhtw": "條蓋菱孔菌",
+   "zhcn": "条盖菱孔菌",
    "current": "Favolus grammocephalus",
    "current_zhtw": "條蓋菱孔菌",
    "current_zhcn": "条盖菱孔菌",

@@ -1,0 +1,117 @@
+{
+ "genus": "Entoloma",
+ "name": "violaceum",
+ "date": [
+  "09/13/2025,24375764488773986",
+  "08/05/2023,6265115846932127"
+ ],
+ "names_zhtw": [
+  "紫粉褶菌"
+ ],
+ "names_en": [
+  "Violet Pinkgill"
+ ],
+ "url": "24375764488773986",
+ "images": [
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_06ae67f0-915b-11f0-a722-dbd522113551_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_06ae67f0-915b-11f0-a722-dbd522113551_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_d0081480-915a-11f0-a722-dbd522113551_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_d0081480-915a-11f0-a722-dbd522113551_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_d0081480-915a-11f0-a722-dbd522113551_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_d0081480-915a-11f0-a722-dbd522113551_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_d0081480-915a-11f0-a722-dbd522113551_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_06ae67f0-915b-11f0-a722-dbd522113551_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_06ae67f0-915b-11f0-a722-dbd522113551_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_06ae67f0-915b-11f0-a722-dbd522113551_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_06ae67f0-915b-11f0-a722-dbd522113551_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_06ae67f0-915b-11f0-a722-dbd522113551_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Entoloma_violaceum_06ae67f0-915b-11f0-a722-dbd522113551_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "紫粉褶菌"
+ ],
+ "meta": {
+  "CapColors": "4286578816,4287889619",
+  "CapDiamRangeValues": "10,40",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "serrated",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "3,5",
+  "StalkLengthRangeValuess": "30,80",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma violaceum",
+   "cname": "Violet Pinkgill",
+   "url": "https://www.inaturalist.org/taxa/500012-Entoloma-violaceum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/302304047/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-161036"
+}

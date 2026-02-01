@@ -1,0 +1,76 @@
+{
+ "genus": "Suillus",
+ "name": "tomentosus",
+ "date": [
+  "10/12/2025,24678767621807003"
+ ],
+ "names_zhtw": [
+  "絨毛乳牛肝菌"
+ ],
+ "names_en": [
+  "Blue-staining Slippery Jack"
+ ],
+ "url": "24678767621807003",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_tomentosus_c9276100-ab06-11f0-b428-1927d7d80b9e_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_tomentosus_c9276100-ab06-11f0-b428-1927d7d80b9e_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Suillus_tomentosus_c9276100-ab06-11f0-b428-1927d7d80b9e_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "绒毛乳牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4294083840",
+  "CapDiamRangeValues": "30,100",
+  "CapShape": "",
+  "CapTexture": "fine-scales,slimy",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "10,18",
+  "StalkLengthRangeValuess": "40,100",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "blue",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "乳牛肝菌屬中少見會傷變藍色的物種，一般在松林中生長。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "inaturalist": [
+  {
+   "name": "Suillus tomentosus",
+   "cname": "Blue-staining Slippery Jack",
+   "url": "https://www.inaturalist.org/taxa/118157-Suillus-tomentosus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/307745970/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-161036"
+}

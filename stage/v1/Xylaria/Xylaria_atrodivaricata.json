@@ -1,0 +1,86 @@
+{
+ "genus": "Xylaria",
+ "name": "atrodivaricata",
+ "date": [
+  "06/26/2025,24557595837257516"
+ ],
+ "names_zhtw": [
+  "黑叉炭角菌"
+ ],
+ "names_en": [],
+ "url": "24557595837257516",
+ "images": [
+  {
+   "author": "黃金興",
+   "image_src": "Xylaria_atrodivaricata_044ff050-a187-11f0-bbb0-e351c14914d9_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Xylaria_atrodivaricata_044ff050-a187-11f0-bbb0-e351c14914d9_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Xylaria_atrodivaricata_044ff050-a187-11f0-bbb0-e351c14914d9_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Xylaria_atrodivaricata_044ff050-a187-11f0-bbb0-e351c14914d9_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Xylaria_atrodivaricata_044ff050-a187-11f0-bbb0-e351c14914d9_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Xylaria_atrodivaricata_044ff050-a187-11f0-bbb0-e351c14914d9_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "黑叉炭角菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Xylaria atrodivaricata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1436858-Xylaria-atrodivaricata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164357694/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-161036"
+}

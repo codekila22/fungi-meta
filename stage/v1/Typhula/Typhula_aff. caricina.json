@@ -1,0 +1,78 @@
+{
+ "genus": "Typhula",
+ "name": "aff. caricina",
+ "date": [
+  "11/05/2025,24956871120663317"
+ ],
+ "names_zhtw": [
+  "莎草核瑚菌的相似種"
+ ],
+ "names_en": [],
+ "url": "24956871120663317",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. caricina_e4e5c200-bfd4-11f0-ba8e-5f131e52296a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. caricina_e4e5c200-bfd4-11f0-ba8e-5f131e52296a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. caricina_e4e5c200-bfd4-11f0-ba8e-5f131e52296a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. caricina_e4e5c200-bfd4-11f0-ba8e-5f131e52296a_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "莎草核瑚菌的相似种"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Typhula caricina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1019070-Typhula-caricina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/235382372/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-161036"
+}
