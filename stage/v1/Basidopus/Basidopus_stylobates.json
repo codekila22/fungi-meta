@@ -166,5 +166,41 @@
  "names_zhcn": [
   "柱小菇"
  ],
- "timestamp": "20260201-170353"
+ "meta": {
+  "CapColors": "4291605388,4292664540",
+  "CapDiamRangeValues": "4,6",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "12,18",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "leaves",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "菌柄基部呈現吸盤狀。",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260201-175455"
 }
