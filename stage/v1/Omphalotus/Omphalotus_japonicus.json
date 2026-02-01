@@ -2,6 +2,7 @@
  "genus": "Omphalotus",
  "name": "japonicus",
  "date": [
+  "01/11/2026,25475775778772846",
   "11/20/2025,25130521093298318",
   "01/05/2025,8799588686818151",
   "11/12/2024,8499478436829179",
@@ -393,6 +394,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Omphalotus_japonicus_91b39d80-cf7b-11f0-bd2b-934265e15ee6_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Omphalotus_japonicus_b60cac20-ef3e-11f0-8dac-f159e22ec11b_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Omphalotus_japonicus_b60cac20-ef3e-11f0-8dac-f159e22ec11b_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Omphalotus_japonicus_b60cac20-ef3e-11f0-8dac-f159e22ec11b_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Omphalotus_japonicus_b60cac20-ef3e-11f0-8dac-f159e22ec11b_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Omphalotus_japonicus_b60cac20-ef3e-11f0-8dac-f159e22ec11b_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -442,5 +463,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249022786/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-151521"
 }

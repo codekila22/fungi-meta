@@ -3,6 +3,7 @@
  "name": "glandulosa",
  "date": [
   "12/31/2025,25381436041540154",
+  "11/15/2025,25520604280956662",
   "04/04/2025,9436459436464403",
   "02/06/2025,8984994598277558",
   "12/25/2023,6816172648493108",
@@ -213,6 +214,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Exidia_glandulosa_76e24720-e648-11f0-9839-6151dc142f2d_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Exidia_glandulosa_d786ffe0-f399-11f0-8963-3b6c150f88e7_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Exidia_glandulosa_d786ffe0-f399-11f0-8963-3b6c150f88e7_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Exidia_glandulosa_d786ffe0-f399-11f0-8963-3b6c150f88e7_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -259,5 +272,5 @@
    "src": "https://static.inaturalist.org/photos/27655488/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-151521"
 }

@@ -2,8 +2,14 @@
  "name": "Cyttaria",
  "zhtw": "癭果盤菌屬",
  "zhcn": "瘿果盘菌属",
- "timestamp": "20260111-092805",
+ "timestamp": "20260201-151521",
  "list": [
+  {
+   "name": "Cyttaria gunnii",
+   "zhtw": "山毛櫸癭果盤菌",
+   "zhcn": "山毛榉瘿果盘菌",
+   "img": "Cyttaria_gunnii_9a899b10-fa5c-11f0-8a2b-cd87cd28b07c_1.jpg"
+  },
   {
    "name": "Cyttaria nigra",
    "zhtw": "黑癭果盤菌",

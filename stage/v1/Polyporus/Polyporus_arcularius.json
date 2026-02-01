@@ -2,6 +2,7 @@
  "genus": "Polyporus",
  "name": "arcularius",
  "date": [
+  "01/20/2026,25555903584093398",
   "06/12/2025,9852136571563352",
   "03/19/2025,9294119774031704",
   "08/16/2024,7855075464602816",
@@ -256,6 +257,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Polyporus_arcularius_c9841330-0d56-11f0-a3b4-91145d6ad47c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_arcularius_919d39d0-f9c1-11f0-bf70-61622937742c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_arcularius_919d39d0-f9c1-11f0-bf70-61622937742c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_arcularius_919d39d0-f9c1-11f0-bf70-61622937742c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Polyporus_arcularius_919d39d0-f9c1-11f0-bf70-61622937742c_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -307,5 +324,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/190283137/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-151521"
 }

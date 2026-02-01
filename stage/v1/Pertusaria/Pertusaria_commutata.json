@@ -2,6 +2,7 @@
  "genus": "Pertusaria",
  "name": "commutata",
  "date": [
+  "01/03/2026,25499510329732724",
   "04/07/2025,9404311759679171",
   "12/01/2023,6739674896142884",
   "05/20/2023,6043636542413393"
@@ -131,6 +132,18 @@
   {
    "author": "Sunny Wang",
    "image_src": "Pertusaria_commutata_49f00100-5212-11f0-9e68-f5fd9f26b170_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pertusaria_commutata_5d4e0e90-f3a7-11f0-8682-cfb7252df430_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pertusaria_commutata_5d4e0e90-f3a7-11f0-8682-cfb7252df430_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pertusaria_commutata_5d4e0e90-f3a7-11f0-8682-cfb7252df430_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -181,5 +194,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/60567154/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-151521"
 }

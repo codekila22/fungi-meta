@@ -2,6 +2,7 @@
  "genus": "Saproamanita",
  "name": "nauseosa",
  "date": [
+  "10/31/2025,25584457627904660",
   "06/04/2025,9787647628012247",
   "05/20/2022,4910435145733544",
   "05/19/2022,4908089849301407",
@@ -165,6 +166,38 @@
   {
    "author": "朱艷",
    "image_src": "Saproamanita_nauseosa_e195fee0-440e-11f0-a7d9-7581e0d5032c_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Saproamanita_nauseosa_ddc3b050-fa5c-11f0-8a2b-cd87cd28b07c_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Saproamanita_nauseosa_ddc3b050-fa5c-11f0-8a2b-cd87cd28b07c_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Saproamanita_nauseosa_ddc3b050-fa5c-11f0-8a2b-cd87cd28b07c_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Saproamanita_nauseosa_ddc3b050-fa5c-11f0-8a2b-cd87cd28b07c_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Saproamanita_nauseosa_ddc3b050-fa5c-11f0-8a2b-cd87cd28b07c_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Saproamanita_nauseosa_ddc3b050-fa5c-11f0-8a2b-cd87cd28b07c_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Saproamanita_nauseosa_ddc3b050-fa5c-11f0-8a2b-cd87cd28b07c_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Saproamanita_nauseosa_ddc3b050-fa5c-11f0-8a2b-cd87cd28b07c_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -213,5 +246,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6930415/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-151521"
 }
