@@ -1,0 +1,105 @@
+{
+ "genus": "Coprinopsis",
+ "name": "insignis",
+ "date": [
+  "12/04/2025,25163842516632842",
+  "05/24/2020,2797525813691165"
+ ],
+ "names_zhtw": [
+  "疣孢擬鬼傘",
+  "高大擬鬼傘"
+ ],
+ "names_en": [],
+ "url": "25163842516632842",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_insignis_0cbf0e80-d236-11f0-b6ab-4500408c5dfa_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_insignis_0cbf0e80-d236-11f0-b6ab-4500408c5dfa_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_insignis_0cbf0e80-d236-11f0-b6ab-4500408c5dfa_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_insignis_0cbf0e80-d236-11f0-b6ab-4500408c5dfa_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_insignis_0cbf0e80-d236-11f0-b6ab-4500408c5dfa_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coprinopsis_insignis_0cbf0e80-d236-11f0-b6ab-4500408c5dfa_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinopsis_insignis_9ef15ed0-d348-11f0-bcd6-776de15eac50_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinopsis_insignis_9ef15ed0-d348-11f0-bcd6-776de15eac50_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinopsis_insignis_9ef15ed0-d348-11f0-bcd6-776de15eac50_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Coprinopsis_insignis_9ef15ed0-d348-11f0-bcd6-776de15eac50_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疣孢拟鬼伞",
+  "高大拟鬼伞"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4286611584",
+  "CapDiamRangeValues": "0,80",
+  "CapShape": "",
+  "CapTexture": "fine-scales",
+  "CapMargin": "striated",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "hollow",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground,debris",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "屬於此屬中較大型的物種，生長於中海拔山區樹幹基部的腐植質中。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Coprinopsis insignis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/332475-Coprinopsis-insignis",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5742932/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260201-183939"
+}

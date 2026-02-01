@@ -1,0 +1,90 @@
+{
+ "genus": "Cyttaria",
+ "name": "gunnii",
+ "date": [
+  "01/25/2026,25604947599188996"
+ ],
+ "names_zhtw": [
+  "山毛櫸癭果盤菌",
+  "澳洲山毛櫸草莓"
+ ],
+ "names_en": [
+  "Australian beech strawberry",
+  "Orange-ball fungus"
+ ],
+ "url": "25604947599188996",
+ "images": [
+  {
+   "author": "許淑玲",
+   "image_src": "Cyttaria_gunnii_9a899b10-fa5c-11f0-8a2b-cd87cd28b07c_1.jpg"
+  },
+  {
+   "author": "許淑玲",
+   "image_src": "Cyttaria_gunnii_9a899b10-fa5c-11f0-8a2b-cd87cd28b07c_2.jpg"
+  },
+  {
+   "author": "許淑玲",
+   "image_src": "Cyttaria_gunnii_9a899b10-fa5c-11f0-8a2b-cd87cd28b07c_3.jpg"
+  },
+  {
+   "author": "許淑玲",
+   "image_src": "Cyttaria_gunnii_9a899b10-fa5c-11f0-8a2b-cd87cd28b07c_4.jpg"
+  },
+  {
+   "author": "許淑玲",
+   "image_src": "Cyttaria_gunnii_9a899b10-fa5c-11f0-8a2b-cd87cd28b07c_5.jpg"
+  },
+  {
+   "author": "許淑玲",
+   "image_src": "Cyttaria_gunnii_9a899b10-fa5c-11f0-8a2b-cd87cd28b07c_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "山毛榉瘿果盘菌",
+  "澳洲山毛榉草莓"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "此屬只分佈於南半球，是一類極具特色的可食用寄生菌。本物種在澳洲塔斯馬尼亞拍攝紀錄，樹種為南青岡屬的桃金孃山毛櫸(Nothofagus cunninghamii)。"
+ },
+ "inaturalist": [
+  {
+   "name": "Cyttaria gunnii",
+   "cname": "Beech Orange",
+   "url": "https://www.inaturalist.org/taxa/410473-Cyttaria-gunnii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/56318134/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260201-183939"
+}

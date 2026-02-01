@@ -2,6 +2,7 @@
  "genus": "Helicogloea",
  "name": "compressa",
  "date": [
+  "01/22/2026,25597216453295444",
   "03/15/2025,9202172546559761",
   "03/12/2024,7120227014754335",
   "05/01/2023,5955088677934847",
@@ -164,6 +165,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Helicogloea_compressa_4385e8e0-021a-11f0-8217-b5ff2faed8a0_16.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helicogloea_compressa_abe2fa20-f97e-11f0-ae99-5b25b8563445_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helicogloea_compressa_abe2fa20-f97e-11f0-ae99-5b25b8563445_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helicogloea_compressa_abe2fa20-f97e-11f0-ae99-5b25b8563445_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helicogloea_compressa_abe2fa20-f97e-11f0-ae99-5b25b8563445_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -203,7 +220,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "容易被誤認為黏菌的發展時期。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -214,5 +231,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1272014/thumb."
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

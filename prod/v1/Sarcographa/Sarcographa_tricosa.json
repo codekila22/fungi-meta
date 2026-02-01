@@ -2,6 +2,7 @@
  "genus": "Sarcographa",
  "name": "tricosa",
  "date": [
+  "01/11/2026,25520232240993866",
   "02/28/2024,7076759695767734",
   "01/30/2024,6918113064965732"
  ],
@@ -58,6 +59,22 @@
   {
    "author": "江志緯",
    "image_src": "Sarcographa_tricosa_c1a1a010-de7c-11ee-b5b0-15e1f418c696_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcographa_tricosa_2a591870-f3a9-11f0-8682-cfb7252df430_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcographa_tricosa_2a591870-f3a9-11f0-8682-cfb7252df430_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcographa_tricosa_2a591870-f3a9-11f0-8682-cfb7252df430_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcographa_tricosa_2a591870-f3a9-11f0-8682-cfb7252df430_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -106,5 +123,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12444761/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

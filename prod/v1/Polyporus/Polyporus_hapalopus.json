@@ -113,8 +113,8 @@
   "LookAlikes": "Bresadolia uda,Picipes admirabilis,Polyporus grammocephalus",
   "Note": "菌蓋有放射狀條紋。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "潮潤布氏多孔菌,多斑黑柄多孔菌,條蓋多孔菌",
-  "la_zhcn": "潮润布氏多孔菌,多斑黑柄多孔菌,条盖多孔菌"
+  "la_zhtw": "潮潤布氏多孔菌,多斑黑柄多孔菌,",
+  "la_zhcn": "潮润布氏多孔菌,多斑黑柄多孔菌,"
  },
  "inaturalist": [
   {
@@ -124,5 +124,5 @@
    "src": "https://static.inaturalist.org/photos/172530456/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

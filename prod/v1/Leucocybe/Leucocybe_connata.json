@@ -1,0 +1,99 @@
+{
+ "genus": "Leucocybe",
+ "name": "connata",
+ "date": [
+  "08/06/2025,24050303637986741"
+ ],
+ "names_zhtw": [
+  "合生白傘"
+ ],
+ "names_en": [
+  "White Domecap"
+ ],
+ "url": "24050303637986741",
+ "images": [
+  {
+   "author": "林杏蓉",
+   "image_src": "Lyophyllum_connatum_709b2430-953b-11f0-8581-eb6a721edf41_1.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Lyophyllum_connatum_709b2430-953b-11f0-8581-eb6a721edf41_2.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Lyophyllum_connatum_709b2430-953b-11f0-8581-eb6a721edf41_3.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Lyophyllum_connatum_709b2430-953b-11f0-8581-eb6a721edf41_4.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Lyophyllum_connatum_709b2430-953b-11f0-8581-eb6a721edf41_5.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Lyophyllum_connatum_709b2430-953b-11f0-8581-eb6a721edf41_6.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Lyophyllum_connatum_709b2430-953b-11f0-8581-eb6a721edf41_7.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Lyophyllum connatum",
+   "zhtw": "銀白離褶傘",
+   "zhcn": "银白离褶伞"
+  }
+ ],
+ "names_zhcn": [
+  "合生白伞"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Leucocybe connata",
+   "cname": "White Domecap",
+   "url": "https://www.inaturalist.org/taxa/625290-Leucocybe-connata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163812797/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-183939"
+}

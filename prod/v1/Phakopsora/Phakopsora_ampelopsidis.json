@@ -2,6 +2,7 @@
  "genus": "Phakopsora",
  "name": "ampelopsidis",
  "date": [
+  "01/21/2026,25576817915335298",
   "11/29/2025,25120103301006764",
   "04/23/2025,9452933331483680",
   "04/17/2025,9415083641935316"
@@ -159,6 +160,38 @@
   {
    "author": "江志緯",
    "image_src": "Phakopsora_ampelopsidis_28f6ca90-ce60-11f0-8401-bff8c9ed08f8_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -207,5 +240,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32037371/thumb.jpeg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

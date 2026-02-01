@@ -1,0 +1,92 @@
+{
+ "genus": "Cheimonophyllum",
+ "name": "candidissimum",
+ "date": [
+  "01/30/2026,25661006300249792"
+ ],
+ "names_zhtw": [
+  "極白冬褶菌",
+  "白孢冬褶菌"
+ ],
+ "names_en": [],
+ "url": "25661006300249792",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Cheimonophyllum_candidissimum_402ab970-fe61-11f0-8c9c-f5b624ec92ba_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cheimonophyllum_candidissimum_402ab970-fe61-11f0-8c9c-f5b624ec92ba_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cheimonophyllum_candidissimum_402ab970-fe61-11f0-8c9c-f5b624ec92ba_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cheimonophyllum_candidissimum_402ab970-fe61-11f0-8c9c-f5b624ec92ba_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cheimonophyllum_candidissimum_402ab970-fe61-11f0-8c9c-f5b624ec92ba_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cheimonophyllum_candidissimum_402ab970-fe61-11f0-8c9c-f5b624ec92ba_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cheimonophyllum_candidissimum_402ab970-fe61-11f0-8c9c-f5b624ec92ba_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "极白冬褶菌",
+  "白孢冬褶菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "3,20",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Cheimonophyllum haedinum",
+   "cname": "Snowy Oysterling",
+   "url": "https://www.inaturalist.org/taxa/1445168-Cheimonophyllum-haedinum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1672325/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-183939"
+}

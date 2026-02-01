@@ -1,0 +1,105 @@
+{
+ "genus": "Pyrrhulomyces",
+ "name": "astragalinus",
+ "synonym": [
+  {
+   "name": "Pholiota astragalina",
+   "zhtw": "土紅環鏽傘",
+   "zhcn": "土红环锈伞"
+  }
+ ],
+ "date": [
+  "06/27/2021,25095191966831231"
+ ],
+ "names_zhtw": [
+  "紅頂鱗傘"
+ ],
+ "names_en": [],
+ "url": "25095191966831231",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Pyrrhulomyces_astragalinus_f8511580-d02b-11f0-8fdb-4b625997ec7d_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pyrrhulomyces_astragalinus_f8511580-d02b-11f0-8fdb-4b625997ec7d_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pyrrhulomyces_astragalinus_f8511580-d02b-11f0-8fdb-4b625997ec7d_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pyrrhulomyces_astragalinus_f8511580-d02b-11f0-8fdb-4b625997ec7d_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pyrrhulomyces_astragalinus_f8511580-d02b-11f0-8fdb-4b625997ec7d_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pyrrhulomyces_astragalinus_f8511580-d02b-11f0-8fdb-4b625997ec7d_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pyrrhulomyces_astragalinus_f8511580-d02b-11f0-8fdb-4b625997ec7d_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pyrrhulomyces_astragalinus_f8511580-d02b-11f0-8fdb-4b625997ec7d_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pyrrhulomyces_astragalinus_f8511580-d02b-11f0-8fdb-4b625997ec7d_9.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "红顶鳞伞"
+ ],
+ "meta": {
+  "CapColors": "4294901760,4294931200,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Pyrrhulomyces astragalinus",
+   "cname": "Conifer Scalycap",
+   "url": "https://www.inaturalist.org/taxa/1179671-Pyrrhulomyces-astragalinus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/338788634/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-183939"
+}

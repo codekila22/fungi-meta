@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "australe",
  "date": [
+  "01/16/2026,25528622090154881",
   "04/12/2025,9430092397101107",
   "10/27/2024,8446168302160193",
   "10/13/2024,8315480335228991",
@@ -216,6 +217,26 @@
   {
    "author": "江志緯",
    "image_src": "Ganoderma_australe_23ec2940-1dae-11f0-ac79-4dc7128e2f38_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_australe_6b2ac7f0-f3a3-11f0-8963-3b6c150f88e7_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_australe_6b2ac7f0-f3a3-11f0-8963-3b6c150f88e7_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_australe_6b2ac7f0-f3a3-11f0-8963-3b6c150f88e7_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_australe_6b2ac7f0-f3a3-11f0-8963-3b6c150f88e7_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ganoderma_australe_6b2ac7f0-f3a3-11f0-8963-3b6c150f88e7_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -267,5 +288,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/54211256/thumb.jpeg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

@@ -2,6 +2,7 @@
  "genus": "Tectella",
  "name": "patellaris",
  "date": [
+  "01/30/2026,25663603743323381",
   "01/03/2026,25414882664862158",
   "01/28/2025,8924359637674388",
   "12/23/2024,8733461356764218",
@@ -269,6 +270,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Tectella_patellaris_6ea7ee50-e9bf-11f0-ac9f-5d0e13d135bb_11.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tectella_patellaris_427eb7c0-feb2-11f0-875c-e791d947fb59_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tectella_patellaris_427eb7c0-feb2-11f0-875c-e791d947fb59_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tectella_patellaris_427eb7c0-feb2-11f0-875c-e791d947fb59_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tectella_patellaris_427eb7c0-feb2-11f0-875c-e791d947fb59_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tectella_patellaris_427eb7c0-feb2-11f0-875c-e791d947fb59_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tectella_patellaris_427eb7c0-feb2-11f0-875c-e791d947fb59_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -318,5 +343,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58965702/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

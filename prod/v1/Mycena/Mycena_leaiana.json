@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "leaiana",
  "date": [
+  "01/13/2026,25492863343730756",
   "01/01/2026,25390112550672503",
   "12/31/2025,25381643508186074",
   "01/08/2024,6834556766654696",
@@ -190,6 +191,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Mycena_leaiana_5f070880-eafc-11f0-bb18-cf071b81db95_18.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leaiana_7d09ec00-f108-11f0-b159-c3d8fb6a4f6c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leaiana_7d09ec00-f108-11f0-b159-c3d8fb6a4f6c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leaiana_7d09ec00-f108-11f0-b159-c3d8fb6a4f6c_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -253,5 +266,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

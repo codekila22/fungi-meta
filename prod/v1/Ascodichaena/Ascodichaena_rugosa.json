@@ -1,0 +1,86 @@
+{
+ "genus": "Ascodichaena",
+ "name": "rugosa",
+ "date": [
+  "01/22/2026,25614353361581753"
+ ],
+ "names_zhtw": [
+  "異盤菌"
+ ],
+ "names_en": [],
+ "url": "25614353361581753",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascodichaena_rugosa_ae9c8d40-ff4f-11f0-8fe1-278d6fec5751_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascodichaena_rugosa_ae9c8d40-ff4f-11f0-8fe1-278d6fec5751_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascodichaena_rugosa_ae9c8d40-ff4f-11f0-8fe1-278d6fec5751_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascodichaena_rugosa_ae9c8d40-ff4f-11f0-8fe1-278d6fec5751_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascodichaena_rugosa_ae9c8d40-ff4f-11f0-8fe1-278d6fec5751_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ascodichaena_rugosa_ae9c8d40-ff4f-11f0-8fe1-278d6fec5751_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "异盘菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Ascodichaena rugosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/553545-Ascodichaena-rugosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/259034701/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-183939"
+}

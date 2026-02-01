@@ -2,6 +2,7 @@
  "genus": "Cymatoderma",
  "name": "dendriticum",
  "date": [
+  "01/29/2026,25657037193980036",
   "10/31/2025,24859148603768903",
   "10/10/2024,8295684763875215",
   "09/20/2024,8126863917423968",
@@ -199,6 +200,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Cymatoderma_dendriticum_fba239f0-b78d-11f0-a47b-73bae0bcb04d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cymatoderma_dendriticum_2ab1fb10-fe63-11f0-8c9c-f5b624ec92ba_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cymatoderma_dendriticum_2ab1fb10-fe63-11f0-8c9c-f5b624ec92ba_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cymatoderma_dendriticum_2ab1fb10-fe63-11f0-8c9c-f5b624ec92ba_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cymatoderma_dendriticum_2ab1fb10-fe63-11f0-8c9c-f5b624ec92ba_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cymatoderma_dendriticum_2ab1fb10-fe63-11f0-8c9c-f5b624ec92ba_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cymatoderma_dendriticum_2ab1fb10-fe63-11f0-8c9c-f5b624ec92ba_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -226,6 +251,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -236,7 +262,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "只生長在黃藤枯枝上。",
+  "Note": "喜好生長在黃藤枯枝上，但也可能在其他枯枝上發現。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -247,5 +273,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8974556/thumb.jpeg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

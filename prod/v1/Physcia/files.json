@@ -2,7 +2,7 @@
  "name": "Physcia",
  "zhtw": "蜈蚣衣屬",
  "zhcn": "蜈蚣衣属",
- "timestamp": "20260111-092805",
+ "timestamp": "20260201-183939",
  "list": [
   {
    "name": "Physcia aff. aipolia",
@@ -15,6 +15,12 @@
    "zhtw": "黑紋蜈蚣衣",
    "zhcn": "黑纹蜈蚣衣",
    "img": "Physcia_atrostriata_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Physcia caesia",
+   "zhtw": "藍灰蜈蚣衣",
+   "zhcn": "蓝灰蜈蚣衣",
+   "img": "Physcia_caesia_37f5e510-ff4a-11f0-9f42-f78defcca011_1.jpg"
   },
   {
    "name": "Physcia orientalis",

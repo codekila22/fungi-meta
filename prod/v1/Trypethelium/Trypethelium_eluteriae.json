@@ -2,6 +2,7 @@
  "genus": "Trypethelium",
  "name": "eluteriae",
  "date": [
+  "01/23/2026,25583571524659937",
   "01/22/2024,6886754244768281",
   "01/21/2024,6883127151797657",
   "01/20/2024,6899949676782071",
@@ -141,6 +142,18 @@
   {
    "author": "Sunny Wang",
    "image_src": "Trypethelium_eluteriae_d2971010-bcd7-11ee-ac0a-3ba998864b43_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trypethelium_eluteriae_bd4eee10-f864-11f0-92d9-5ba924b418c2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trypethelium_eluteriae_bd4eee10-f864-11f0-92d9-5ba924b418c2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trypethelium_eluteriae_bd4eee10-f864-11f0-92d9-5ba924b418c2_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -189,5 +202,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14160328/thumb.jpeg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

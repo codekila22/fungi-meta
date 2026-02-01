@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "leptocephala",
  "date": [
+  "01/01/2026,25474070158943408",
   "11/25/2024,8588085857968436",
   "12/29/2023,8544028652374157"
  ],
@@ -74,6 +75,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_leptocephala_948d5280-ad85-11ef-98b7-9329b2833feb_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_6baa9cb0-ef79-11f0-abda-a1b76feef428_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_6baa9cb0-ef79-11f0-abda-a1b76feef428_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_6baa9cb0-ef79-11f0-abda-a1b76feef428_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_6baa9cb0-ef79-11f0-abda-a1b76feef428_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_6baa9cb0-ef79-11f0-abda-a1b76feef428_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_6baa9cb0-ef79-11f0-abda-a1b76feef428_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_6baa9cb0-ef79-11f0-abda-a1b76feef428_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_6baa9cb0-ef79-11f0-abda-a1b76feef428_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leptocephala_6baa9cb0-ef79-11f0-abda-a1b76feef428_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -105,7 +142,7 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "debris",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -135,5 +172,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

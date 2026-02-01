@@ -2,6 +2,7 @@
  "genus": "Ciborinia",
  "name": "camelliae",
  "date": [
+  "01/15/2026,25506594139024343",
   "01/29/2025,8929560207154331",
   "01/22/2024,6888823447894694",
   "01/21/2024,6883068415136864",
@@ -359,6 +360,26 @@
   {
    "author": "陳雅芬",
    "image_src": "Ciborinia_camelliae_d87cfdf0-de1e-11ef-80c6-01082d6ba562_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ciborinia_camelliae_75121420-f3b3-11f0-b0b6-3f512e6c6b92_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ciborinia_camelliae_75121420-f3b3-11f0-b0b6-3f512e6c6b92_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ciborinia_camelliae_75121420-f3b3-11f0-b0b6-3f512e6c6b92_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ciborinia_camelliae_75121420-f3b3-11f0-b0b6-3f512e6c6b92_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ciborinia_camelliae_75121420-f3b3-11f0-b0b6-3f512e6c6b92_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -407,5 +428,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1348043/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

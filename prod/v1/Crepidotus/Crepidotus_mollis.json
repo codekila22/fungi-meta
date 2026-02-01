@@ -2,11 +2,11 @@
  "genus": "Crepidotus",
  "name": "mollis",
  "date": [
+  "02/01/2026,25671513035865785",
   "05/01/2025,9546495225460823",
   "02/25/2025,9090730737703943",
   "05/26/2024,7447837145326652",
   "04/21/2023,5906082252835490",
-  "03/03/2021,3566198556823883",
   "11/07/2016,5532564476853938"
  ],
  "names_zhtw": [
@@ -24,42 +24,6 @@
   {
    "author": "江志緯",
    "image_src": "Crepidotus_mollis_cefd7060-e0e2-11ed-991d-47ed326aaec5_12.jpg"
-  },
-  {
-   "author": "Hannah Wang",
-   "image_src": "Crepidotus_mollis_5_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "author": "Hannah Wang",
-   "image_src": "Crepidotus_mollis_2_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "author": "Hannah Wang",
-   "image_src": "Crepidotus_mollis_3_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "author": "Hannah Wang",
-   "image_src": "Crepidotus_mollis_4_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "author": "Hannah Wang",
-   "image_src": "Crepidotus_mollis_1_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "author": "Hannah Wang",
-   "image_src": "Crepidotus_mollis_6_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "author": "Hannah Wang",
-   "image_src": "Crepidotus_mollis_7_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "author": "Hannah Wang",
-   "image_src": "Crepidotus_mollis_8_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "author": "Hannah Wang",
-   "image_src": "Crepidotus_mollis_9_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "author": "陳麗紅",
@@ -80,22 +44,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Crepidotus_mollis_5_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Crepidotus_mollis_4_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Crepidotus_mollis_2_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Crepidotus_mollis_3_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Crepidotus_mollis_1_CC BY-NC.jpg"
   },
   {
    "author": "江志緯",
@@ -280,6 +228,26 @@
   {
    "author": "向高世",
    "image_src": "Crepidotus_mollis_fbf772d0-8d30-11f0-bf43-5d0ebef1c3f3_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Crepidotus_mollis_68f1dc40-ff46-11f0-9ce9-dbbf98431b28_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Crepidotus_mollis_68f1dc40-ff46-11f0-9ce9-dbbf98431b28_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Crepidotus_mollis_68f1dc40-ff46-11f0-9ce9-dbbf98431b28_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Crepidotus_mollis_68f1dc40-ff46-11f0-9ce9-dbbf98431b28_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Crepidotus_mollis_68f1dc40-ff46-11f0-9ce9-dbbf98431b28_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -329,5 +297,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43251985/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

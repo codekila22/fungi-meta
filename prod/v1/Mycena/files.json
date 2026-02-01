@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20260111-092805",
+ "timestamp": "20260201-183939",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -251,6 +251,9 @@
    "name": "Mycena indigotica",
    "zhtw": "靛藍小菇",
    "zhcn": "靛蓝小菇",
+   "current": "Basidopus indigotica",
+   "current_zhtw": "靛藍基柄小菇",
+   "current_zhcn": "靛蓝基柄小菇",
    "img": "Mycena_indigotica_1_CC BY-NC_向高世.jpg"
   },
   {
@@ -431,6 +434,9 @@
    "name": "Mycena stylobates",
    "zhtw": "柱小菇",
    "zhcn": "柱小菇",
+   "current": "Basidopus stylobates",
+   "current_zhtw": "柱小菇",
+   "current_zhcn": "柱小菇",
    "img": "Mycena_stylobates_88a55ec0-fa54-11ee-b757-d3950e150774_1.jpg"
   },
   {

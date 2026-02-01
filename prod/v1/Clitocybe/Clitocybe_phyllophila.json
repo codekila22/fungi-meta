@@ -1,0 +1,104 @@
+{
+ "genus": "Clitocybe",
+ "name": "phyllophila",
+ "date": [
+  "01/04/2026,25420208797662878"
+ ],
+ "names_zhtw": [
+  "白杯傘",
+  "落葉杯傘"
+ ],
+ "names_en": [],
+ "url": "25420208797662878",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_10.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "白杯伞",
+  "落叶杯伞"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "debris",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "喜好生長在落葉叢中，可見明顯白色菌絲體。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Collybia phyllophila",
+   "cname": "Frosty Funnel",
+   "url": "https://www.inaturalist.org/taxa/1525529-Collybia-phyllophila",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/218052025/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-183939"
+}

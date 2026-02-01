@@ -2,6 +2,7 @@
  "genus": "Diderma",
  "name": "floriforme",
  "date": [
+  "01/22/2026,25577020295315060",
   "12/29/2023,6802829219827451",
   "11/11/2023,6687355364708171",
   "11/04/2023,6610318789078496",
@@ -149,6 +150,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Diderma_floriforme_72dfc1e0-a6f1-11ee-bb3c-ffa07dde7b07_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_floriforme_afba6610-f80c-11f0-8798-9d19570236e2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_floriforme_afba6610-f80c-11f0-8798-9d19570236e2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_floriforme_afba6610-f80c-11f0-8798-9d19570236e2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_floriforme_afba6610-f80c-11f0-8798-9d19570236e2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -196,5 +213,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2585762/thumb.jpg"
   }
  ],
- "timestamp": "20260111-092805"
+ "timestamp": "20260201-183939"
 }

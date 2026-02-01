@@ -2,13 +2,19 @@
  "name": "Strobilurus",
  "zhtw": "松果傘屬",
  "zhcn": "松果伞属",
- "timestamp": "20260111-092805",
+ "timestamp": "20260201-183939",
  "list": [
   {
    "name": "Strobilurus sp.1",
    "zhtw": "松果傘屬的一種",
    "zhcn": "松果伞属的一种",
    "img": "Strobilurus_sp.1_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Strobilurus stephanocystis",
+   "zhtw": "大囊松果傘",
+   "zhcn": "大囊松果伞",
+   "img": "Strobilurus_stephanocystis_cef4ca90-ff49-11f0-9f42-f78defcca011_1.jpg"
   },
   {
    "name": "Strobilurus trullisatus",

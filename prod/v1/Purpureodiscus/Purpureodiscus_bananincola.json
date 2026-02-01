@@ -1,0 +1,82 @@
+{
+ "genus": "Purpureodiscus",
+ "name": "bananincola",
+ "date": [
+  "09/06/2025,24335204569496645"
+ ],
+ "names_zhtw": [
+  "香蕉紫盤菌"
+ ],
+ "names_en": [],
+ "url": "24335204569496645",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Purpureodiscus_bananincola_229f4c20-ce61-11f0-8401-bff8c9ed08f8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Purpureodiscus_bananincola_229f4c20-ce61-11f0-8401-bff8c9ed08f8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Purpureodiscus_bananincola_229f4c20-ce61-11f0-8401-bff8c9ed08f8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Purpureodiscus_bananincola_229f4c20-ce61-11f0-8401-bff8c9ed08f8_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Purpureodiscus_bananincola_229f4c20-ce61-11f0-8401-bff8c9ed08f8_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "香蕉紫盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長於芭蕉屬植物的假莖上。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Purpureodiscus bananincola",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1556104-Purpureodiscus-bananincola",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/259056332/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260201-183939"
+}

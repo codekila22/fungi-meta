@@ -1,0 +1,82 @@
+{
+ "genus": "Amauroderma",
+ "name": "austrosinense",
+ "date": [
+  "09/30/2025,24585504667799966"
+ ],
+ "names_zhtw": [
+  "華南假芝"
+ ],
+ "names_en": [],
+ "url": "24585504667799966",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Amauroderma_austrosinense_65bc3940-a26b-11f0-80e0-b9b083566b24_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amauroderma_austrosinense_65bc3940-a26b-11f0-80e0-b9b083566b24_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amauroderma_austrosinense_65bc3940-a26b-11f0-80e0-b9b083566b24_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amauroderma_austrosinense_65bc3940-a26b-11f0-80e0-b9b083566b24_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amauroderma_austrosinense_65bc3940-a26b-11f0-80e0-b9b083566b24_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "华南假芝"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "傷後不會跟一般假芝一樣變成紅色。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Foraminispora austrosinensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1239297-Foraminispora-austrosinensis",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260201-183939"
+}
