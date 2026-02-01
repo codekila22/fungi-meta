@@ -118,5 +118,13 @@
   "LookAlikes": "",
   "Note": "目前記錄到的宿主為蛾類(成蟲或蛾蛹)。"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Cordyceps pseudorosea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1655697-Cordyceps-pseudorosea",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

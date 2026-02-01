@@ -108,5 +108,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Ephemerocybe impatiens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1626059-Ephemerocybe-impatiens",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11159838/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

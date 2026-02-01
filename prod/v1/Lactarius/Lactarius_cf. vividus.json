@@ -69,5 +69,13 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Lactarius vividus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1581168-Lactarius-vividus",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

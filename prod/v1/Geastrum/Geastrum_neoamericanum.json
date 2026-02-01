@@ -84,5 +84,13 @@
   "la_zhtw": "木生地星,,",
   "la_zhcn": "木生地星,,"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Geastrum neoamericanum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1607552-Geastrum-neoamericanum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/460768493/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }
