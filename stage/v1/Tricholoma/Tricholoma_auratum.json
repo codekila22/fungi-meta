@@ -74,5 +74,13 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Tricholoma equestre",
+   "cname": "Yellow Knight",
+   "url": "https://www.inaturalist.org/taxa/118215-Tricholoma-equestre",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14377130/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

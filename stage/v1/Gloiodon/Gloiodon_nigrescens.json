@@ -101,5 +101,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Gloiodon nigrescens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1572213-Gloiodon-nigrescens",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

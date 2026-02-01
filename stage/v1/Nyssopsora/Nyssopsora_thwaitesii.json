@@ -69,5 +69,13 @@
   "LookAlikes": "",
   "Note": "一種寄生在鵝掌藤上的真菌。"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Nyssopsora thwaitesii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1606061-Nyssopsora-thwaitesii",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/284072943/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

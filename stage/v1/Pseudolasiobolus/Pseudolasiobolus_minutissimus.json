@@ -102,5 +102,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Pseudolasiobolus minutissimus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1634137-Pseudolasiobolus-minutissimus",
+   "src": "https://static.inaturalist.org/photos/536159191/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

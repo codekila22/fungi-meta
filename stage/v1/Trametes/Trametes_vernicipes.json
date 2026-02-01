@@ -243,5 +243,13 @@
   "la_zhtw": "黃柄小孔菌,小柄杯菌,",
   "la_zhcn": "黄柄小孔菌,小柄杯菌,"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Microporus vernicipes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/707717-Microporus-vernicipes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176458268/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

@@ -176,5 +176,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Pseudobaeospora lilacina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1596490-Pseudobaeospora-lilacina",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/313124749/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

@@ -99,5 +99,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Multiclavula petricola",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1647243-Multiclavula-petricola",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

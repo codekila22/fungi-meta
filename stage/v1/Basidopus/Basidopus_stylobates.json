@@ -202,5 +202,13 @@
   "Note": "菌柄基部呈現吸盤狀。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Mycena stylobates",
+   "cname": "Bulbous Bonnet",
+   "url": "https://www.inaturalist.org/taxa/519021-Mycena-stylobates",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/252514583/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

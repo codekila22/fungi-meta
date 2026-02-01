@@ -182,5 +182,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Exobasidium hemisphaericum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1620749-Exobasidium-hemisphaericum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/547829746/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

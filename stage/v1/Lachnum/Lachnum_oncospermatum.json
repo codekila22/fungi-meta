@@ -179,5 +179,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Lachnum oncospermatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1665015-Lachnum-oncospermatum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/610115458/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }

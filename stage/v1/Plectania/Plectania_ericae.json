@@ -130,5 +130,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260201-190701"
+ "inaturalist": [
+  {
+   "name": "Plectania ericae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1588367-Plectania-ericae",
+   "src": "https://static.inaturalist.org/photos/402780337/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260201-194311"
 }
