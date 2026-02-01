@@ -1,5 +1,5 @@
 {
- "timestamp": "20260201-162244",
+ "timestamp": "20260201-170353",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -1268,6 +1268,8 @@
   "Baeospora myosura,小孢菌,小孢菌",
   "Baeospora myriadophylla,密紫褶小孢菌,密紫褶小孢菌",
   "Balansia asperata,距花黍瘤座菌,距花黍瘤座菌",
+  "Basidopus indigotica,靛藍基柄小菇,靛蓝基柄小菇",
+  "Basidopus stylobates,柱小菇,柱小菇",
   "Beauveria bassiana,白殭菌,白僵菌",
   "Beauveria felina,貓棒束孢白殭菌,猫棒束孢白僵菌",
   "Beauveria scarabaeicola,金龜子白殭菌,金龟子白僵菌",
@@ -2991,6 +2993,7 @@
   "Physarum viride,綠絨泡黏菌,绿绒泡黏菌",
   "Physcia aff. aipolia,斑面蜈蚣衣的相似種,斑面蜈蚣衣的相似种",
   "Physcia atrostriata,黑紋蜈蚣衣,黑纹蜈蚣衣",
+  "Physcia caesia,藍灰蜈蚣衣,蓝灰蜈蚣衣",
   "Physcia orientalis,東方蜈蚣衣,东方蜈蚣衣",
   "Physcia sorediosa,粉芽蜈蚣衣,粉芽蜈蚣衣",
   "Physconia isidiigera,裂芽大孢衣,裂芽大孢衣",
@@ -3231,6 +3234,7 @@
   "Rimbachia cf. neckerae,平苔圓拱菌,平苔圆拱菌",
   "Rimelia Clavulifera,白腹緣網裂梅衣,白腹缘网裂梅衣",
   "Rimelia reticulata,黑腹網裂梅衣,黑腹网裂梅衣",
+  "Ripartitella alba,雪白岸生小菇,雪白岸生小菇",
   "Ripartitella brasiliensis,巴西岸生小菇,巴西岸生小菇",
   "Roridomyces austrororidus,澳洲黏柄滴小菇,澳洲黏柄滴小菇",
   "Roridomyces lamprosporus,孢光滴小菇,孢光滴小菇",
@@ -3421,6 +3425,7 @@
   "Strobilomyces seminudus,半裸松塔牛肝菌,半裸松塔牛肝菌",
   "Strobilomyces strobilaceus,松塔牛肝菌,松塔牛肝菌",
   "Strobilurus sp.1,松果傘屬的一種,松果伞属的一种",
+  "Strobilurus stephanocystis,大囊松果傘,大囊松果伞",
   "Strobilurus trullisatus,污白松果傘,污白松果伞",
   "Stromatographium stromaticum,基座狀黴,基座状霉",
   "Stromatolinea linearis,線型疊層菌,线型叠层菌",

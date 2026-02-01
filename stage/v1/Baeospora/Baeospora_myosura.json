@@ -2,77 +2,29 @@
  "genus": "Baeospora",
  "name": "myosura",
  "date": [
-  "11/11/2017,8960117517431933"
+  "01/30/2026,25663967286620360"
  ],
  "names_zhtw": [
   "小孢菌"
  ],
  "names_en": [],
- "url": "8960117517431933",
+ "url": "25663967286620360",
  "images": [
   {
-   "author": "向高世",
-   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_1.jpg"
+   "author": "陳雅芬",
+   "image_src": "Baeospora_myosura_fae7f880-ff48-11f0-9f42-f78defcca011_1.jpg"
   },
   {
-   "author": "向高世",
-   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_2.jpg"
+   "author": "陳雅芬",
+   "image_src": "Baeospora_myosura_fae7f880-ff48-11f0-9f42-f78defcca011_2.jpg"
   },
   {
-   "author": "向高世",
-   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_3.jpg"
+   "author": "陳雅芬",
+   "image_src": "Baeospora_myosura_fae7f880-ff48-11f0-9f42-f78defcca011_3.jpg"
   },
   {
-   "author": "向高世",
-   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_4.jpg"
-  },
-  {
-   "author": "向高世",
-   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_5.jpg"
-  },
-  {
-   "author": "向高世",
-   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_6.jpg"
-  },
-  {
-   "author": "向高世",
-   "image_src": "Baeospora_myosura_3f3b6d40-f6fe-11ef-b185-d147038be97a_7.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Baeospora_myosura_2_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Baeospora_myosura_4_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Baeospora_myosura_3_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Baeospora_myosura_1_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Baeospora_myosura_5_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Baeospora_myosura_6_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Baeospora_myosura_7_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Baeospora_myosura_8_CC BY-NC.jpg"
-  },
-  {
-   "author": "",
-   "image_src": "Baeospora_myosura_9_CC BY-NC.jpg"
+   "author": "陳雅芬",
+   "image_src": "Baeospora_myosura_fae7f880-ff48-11f0-9f42-f78defcca011_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -80,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4294634455,4294309365",
-  "CapDiamRangeValues": "10,20",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "flat",
   "CapTexture": "smooth",
   "CapMargin": "entire",
@@ -100,6 +52,7 @@
   "StalkBase": "equal",
   "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "50,60",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
@@ -120,5 +73,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133865/thumb."
   }
  ],
- "timestamp": "20260201-162244"
+ "timestamp": "20260201-170353"
 }
