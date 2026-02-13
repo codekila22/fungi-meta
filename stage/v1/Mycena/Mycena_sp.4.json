@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "sp.4",
  "date": [
+  "02/02/2026,25680346364982452",
   "11/24/2024,8566138396829849",
   "11/23/2024,8560860417357647",
   "05/26/2024,7414460571997643",
@@ -192,6 +193,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_sp.4_d17428c0-aa49-11ef-a3b5-934042a03be5_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.4_a856d1f0-0028-11f1-a8bb-f186508e653d_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.4_a856d1f0-0028-11f1-a8bb-f186508e653d_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.4_a856d1f0-0028-11f1-a8bb-f186508e653d_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.4_a856d1f0-0028-11f1-a8bb-f186508e653d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -233,5 +250,5 @@
   "Note": "一種生長在低海拔血桐枯葉上的微小真菌。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260201-194311"
+ "timestamp": "20260213-114230"
 }

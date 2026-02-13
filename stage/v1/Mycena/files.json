@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20260201-194311",
+ "timestamp": "20260213-114230",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -54,6 +54,12 @@
    "zhtw": "紫紅小菇近似種",
    "zhcn": "紫红小菇近似种",
    "img": "Mycena_aff. lividorubra_fc525cc0-05cf-11ef-9d54-d5be4cd0c781_1.jpg"
+  },
+  {
+   "name": "Mycena aff. plumipes",
+   "zhtw": "羽足小菇的相似種",
+   "zhcn": "羽足小菇的相似种",
+   "img": "Mycena_aff. plumipes_ed4be310-ff77-11f0-ba21-59780aed00e9_1.jpg"
   },
   {
    "name": "Mycena aff. pura",
@@ -252,8 +258,8 @@
    "zhtw": "靛藍小菇",
    "zhcn": "靛蓝小菇",
    "current": "Basidopus indigotica",
-   "current_zhtw": "靛藍基柄小菇",
-   "current_zhcn": "靛蓝基柄小菇",
+   "current_zhtw": "靛藍基盤小菇",
+   "current_zhcn": "靛蓝基盘小菇",
    "img": "Mycena_indigotica_1_CC BY-NC_向高世.jpg"
   },
   {
@@ -435,8 +441,8 @@
    "zhtw": "柱小菇",
    "zhcn": "柱小菇",
    "current": "Basidopus stylobates",
-   "current_zhtw": "柱小菇",
-   "current_zhcn": "柱小菇",
+   "current_zhtw": "基盤小菇",
+   "current_zhcn": "基盘小菇",
    "img": "Mycena_stylobates_88a55ec0-fa54-11ee-b757-d3950e150774_1.jpg"
   },
   {

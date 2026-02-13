@@ -2,8 +2,13 @@
  "genus": "Coprinopsis",
  "name": "atramentaria",
  "date": [
-  "08/21/2022",
-  "04/03/2022"
+  "02/05/2026,25712010981815990",
+  "09/06/2022,5224597894317266",
+  "04/02/2022,4783934471716946",
+  "11/10/2021,4307365139373884",
+  "03/31/2021,3644139805696424",
+  "01/19/2021,4559720887471640",
+  "10/14/2016,998566433587121"
  ],
  "names_zhtw": [
   "墨汁擬鬼傘",
@@ -130,6 +135,34 @@
   {
    "author": "江志緯",
    "image_src": "Coprinopsis_atramentaria_11_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_atramentaria_7f97fe90-029b-11f1-bbb8-879ce0e59aa5_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_atramentaria_7f97fe90-029b-11f1-bbb8-879ce0e59aa5_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_atramentaria_7f97fe90-029b-11f1-bbb8-879ce0e59aa5_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_atramentaria_7f97fe90-029b-11f1-bbb8-879ce0e59aa5_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_atramentaria_7f97fe90-029b-11f1-bbb8-879ce0e59aa5_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_atramentaria_7f97fe90-029b-11f1-bbb8-879ce0e59aa5_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_atramentaria_7f97fe90-029b-11f1-bbb8-879ce0e59aa5_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -186,5 +219,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2409764/thumb.JPG"
   }
  ],
- "timestamp": "20260201-194311"
+ "timestamp": "20260213-114230"
 }

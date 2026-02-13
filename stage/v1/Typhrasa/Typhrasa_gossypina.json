@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "02/01/2026,25673954702288285",
   "04/24/2021,7025666814210356"
  ],
  "names_zhtw": [
@@ -40,6 +41,34 @@
   {
    "author": "蔡古媧",
    "image_src": "Typhrasa_gossypina_3d89ff50-d5cd-11ee-a3ed-ab4c6dac2e70_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhrasa_gossypina_04dd2460-ff7a-11f0-ba21-59780aed00e9_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhrasa_gossypina_04dd2460-ff7a-11f0-ba21-59780aed00e9_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhrasa_gossypina_04dd2460-ff7a-11f0-ba21-59780aed00e9_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhrasa_gossypina_04dd2460-ff7a-11f0-ba21-59780aed00e9_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhrasa_gossypina_04dd2460-ff7a-11f0-ba21-59780aed00e9_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhrasa_gossypina_04dd2460-ff7a-11f0-ba21-59780aed00e9_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Typhrasa_gossypina_04dd2460-ff7a-11f0-ba21-59780aed00e9_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -89,5 +118,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340322/thumb.jpg"
   }
  ],
- "timestamp": "20260201-194311"
+ "timestamp": "20260213-114230"
 }

@@ -2,6 +2,7 @@
  "genus": "Aseroe",
  "name": "arachnoidea",
  "date": [
+  "02/02/2026,25679177301766025",
   "02/23/2025,9079523952157955",
   "12/25/2024,8740279909415696",
   "03/03/2024,7052049928238711",
@@ -151,6 +152,14 @@
   {
    "author": "向高世",
    "image_src": "Aseroe_arachnoidea_43eac980-8d73-11ee-b231-870623a381ba_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Aseroe_arachnoidea_0d4d9db0-fffb-11f0-8e9b-c503443d316f_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Aseroe_arachnoidea_0d4d9db0-fffb-11f0-8e9b-c503443d316f_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -200,5 +209,5 @@
    "src": "https://static.inaturalist.org/photos/37313981/thumb.jpg"
   }
  ],
- "timestamp": "20260201-194311"
+ "timestamp": "20260213-114230"
 }
