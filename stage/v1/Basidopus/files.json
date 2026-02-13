@@ -2,8 +2,20 @@
  "name": "Basidopus",
  "zhtw": "基盤小菇屬",
  "zhcn": "基盘小菇属",
- "timestamp": "20260213-114230",
+ "timestamp": "20260213-121005",
  "list": [
+  {
+   "name": "Basidopus brunneisetosa",
+   "zhtw": "褐剛毛基盤小菇",
+   "zhcn": "褐刚毛基盘小菇",
+   "img": "Mycena_brunneisetosa_0f697200-8873-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "name": "Basidopus chlorophos",
+   "zhtw": "發光基盤小菇",
+   "zhcn": "发光基盘小菇",
+   "img": "Mycena_chlorophos_1_CC BY-NC_江志緯.jpg"
+  },
   {
    "name": "Basidopus indigotica",
    "zhtw": "靛藍基盤小菇",
@@ -11,10 +23,22 @@
    "img": "Mycena_indigotica_1_CC BY-NC_向高世.jpg"
   },
   {
+   "name": "Basidopus interruptus",
+   "zhtw": "炫藍基盤小菇",
+   "zhcn": "炫蓝基盘小菇",
+   "img": "Mycena_interrupta_1_CC BY-NC_向高世.jpg"
+  },
+  {
    "name": "Basidopus stylobates",
    "zhtw": "基盤小菇",
    "zhcn": "基盘小菇",
    "img": "Mycena_stylobates_88a55ec0-fa54-11ee-b757-d3950e150774_1.jpg"
+  },
+  {
+   "name": "Basidopus tenerrimus",
+   "zhtw": "柔軟基盤小菇",
+   "zhcn": "柔软基盘小菇",
+   "img": "Mycena_tenerrima_1_CC BY-NC_江志緯.jpg"
   }
  ]
 }

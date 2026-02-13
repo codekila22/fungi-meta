@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20260213-114230",
+ "timestamp": "20260213-121005",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -116,6 +116,9 @@
    "name": "Mycena brunneisetosa",
    "zhtw": "褐剛毛小菇",
    "zhcn": "褐刚毛小菇",
+   "current": "Basidopus brunneisetosa",
+   "current_zhtw": "褐剛毛基盤小菇",
+   "current_zhcn": "褐刚毛基盘小菇",
    "img": "Mycena_brunneisetosa_0f697200-8873-11ef-be38-335f10af7160_1.jpg"
   },
   {
@@ -164,6 +167,9 @@
    "name": "Mycena chlorophos",
    "zhtw": "發光小菇",
    "zhcn": "发光小菇",
+   "current": "Basidopus chlorophos",
+   "current_zhtw": "發光基盤小菇",
+   "current_zhcn": "发光基盘小菇",
    "img": "Mycena_chlorophos_1_CC BY-NC_江志緯.jpg"
   },
   {
@@ -266,6 +272,9 @@
    "name": "Mycena interrupta",
    "zhtw": "炫藍小菇",
    "zhcn": "炫蓝小菇",
+   "current": "Basidopus interruptus",
+   "current_zhtw": "炫藍基盤小菇",
+   "current_zhcn": "炫蓝基盘小菇",
    "img": "Mycena_interrupta_1_CC BY-NC_向高世.jpg"
   },
   {
@@ -461,6 +470,9 @@
    "name": "Mycena tenerrima",
    "zhtw": "柔軟小菇",
    "zhcn": "柔软小菇",
+   "current": "Basidopus tenerrimus",
+   "current_zhtw": "柔軟基盤小菇",
+   "current_zhcn": "柔软基盘小菇",
    "img": "Mycena_tenerrima_1_CC BY-NC_江志緯.jpg"
   },
   {

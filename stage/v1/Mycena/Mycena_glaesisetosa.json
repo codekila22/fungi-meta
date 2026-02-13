@@ -347,11 +347,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Mycena brunneisetosa,,",
+  "LookAlikes": "Basidopus brunneisetosa,,",
   "Note": "除了一般枯葉，也有在黃藤枯枝上的紀錄。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "褐剛毛小菇,,",
-  "la_zhcn": "褐刚毛小菇,,"
+  "la_zhtw": "褐剛毛基盤小菇,,",
+  "la_zhcn": "褐刚毛基盘小菇,,"
  },
  "inaturalist": [
   {
@@ -361,5 +361,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260213-114230"
+ "timestamp": "20260213-121005"
 }
