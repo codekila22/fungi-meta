@@ -1,0 +1,89 @@
+{
+ "genus": "Physarum",
+ "name": "diderma",
+ "date": [
+  "10/03/2025,25848040828213004"
+ ],
+ "names_zhtw": [
+  "雙皮絨泡黏菌"
+ ],
+ "names_en": [],
+ "url": "25848040828213004",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Physarum_diderma_036b06d0-0f1d-11f1-bc56-1143e7374c6e_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_diderma_036b06d0-0f1d-11f1-bc56-1143e7374c6e_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_diderma_036b06d0-0f1d-11f1-bc56-1143e7374c6e_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_diderma_036b06d0-0f1d-11f1-bc56-1143e7374c6e_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_diderma_036b06d0-0f1d-11f1-bc56-1143e7374c6e_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_diderma_036b06d0-0f1d-11f1-bc56-1143e7374c6e_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Physarum_diderma_036b06d0-0f1d-11f1-bc56-1143e7374c6e_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "双皮绒泡黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Physarum diderma",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/488356-Physarum-diderma",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3025158/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260221-210818"
+}

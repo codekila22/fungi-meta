@@ -1,0 +1,392 @@
+{
+ "genus": "Basidopus",
+ "name": "tenerrimus",
+ "date": [
+  "12/07/2025,25216312308052529",
+  "10/06/2025,24658780053805760",
+  "05/30/2025,9797384380371905",
+  "04/24/2025,9478597035583976",
+  "03/28/2025,9279528092157539",
+  "09/15/2024,8052039638239730",
+  "09/15/2024,8219334054843620",
+  "03/24/2024,7132727853504251",
+  "09/12/2023,6394873567289687",
+  "07/24/2023,6246161812160864",
+  "06/13/2023,6083982121712168",
+  "05/25/2023,6016875168422864",
+  "04/23/2023,5908987429211639",
+  "04/03/2023,5850623771714672",
+  "11/26/2022,5447443752032678",
+  "04/02/2022,4780586395385087",
+  "03/28/2022,4768006173309776",
+  "01/02/2022,4517563355020727",
+  "03/18/2021,3609169602526778",
+  "12/15/2020,3423014351142305"
+ ],
+ "names_zhtw": [
+  "柔軟基盤小菇",
+  "柔弱基盤小菇"
+ ],
+ "names_en": [],
+ "url": "5850623771714672",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_2_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_3_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_4_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_6_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_7_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_8_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_9_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_10_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_11_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_12_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Mycena_tenerrima_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Mycena_tenerrima_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Mycena_tenerrima_11_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_c94d0520-d2f2-11ed-bf3b-01cb59de9d93_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_c94d0520-d2f2-11ed-bf3b-01cb59de9d93_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_c94d0520-d2f2-11ed-bf3b-01cb59de9d93_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_c94d0520-d2f2-11ed-bf3b-01cb59de9d93_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_c94d0520-d2f2-11ed-bf3b-01cb59de9d93_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_c94d0520-d2f2-11ed-bf3b-01cb59de9d93_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_6f11cb10-e9ba-11ee-a4ce-8b27cf03f12c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_6f11cb10-e9ba-11ee-a4ce-8b27cf03f12c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_6f11cb10-e9ba-11ee-a4ce-8b27cf03f12c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_6f11cb10-e9ba-11ee-a4ce-8b27cf03f12c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_6f11cb10-e9ba-11ee-a4ce-8b27cf03f12c_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_a8d3df20-73bf-11ef-b356-d5a3347d1aca_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_a8d3df20-73bf-11ef-b356-d5a3347d1aca_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_a8d3df20-73bf-11ef-b356-d5a3347d1aca_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_a8d3df20-73bf-11ef-b356-d5a3347d1aca_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_a8d3df20-73bf-11ef-b356-d5a3347d1aca_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_a8d3df20-73bf-11ef-b356-d5a3347d1aca_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_a8d3df20-73bf-11ef-b356-d5a3347d1aca_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_a8d3df20-73bf-11ef-b356-d5a3347d1aca_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_a8d3df20-73bf-11ef-b356-d5a3347d1aca_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_a8d3df20-73bf-11ef-b356-d5a3347d1aca_10.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_tenerrima_c6730f40-83c5-11ef-acf1-e947ff97b8a5_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_tenerrima_c6730f40-83c5-11ef-acf1-e947ff97b8a5_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_tenerrima_c6730f40-83c5-11ef-acf1-e947ff97b8a5_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_tenerrima_c6730f40-83c5-11ef-acf1-e947ff97b8a5_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_tenerrima_c6730f40-83c5-11ef-acf1-e947ff97b8a5_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_15361910-0d5a-11f0-8281-d96dbe7fe4a3_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_5fc807f0-2361-11f0-a555-3b00975a30c5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_5fc807f0-2361-11f0-a555-3b00975a30c5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_5fc807f0-2361-11f0-a555-3b00975a30c5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_5fc807f0-2361-11f0-a555-3b00975a30c5_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_5fc807f0-2361-11f0-a555-3b00975a30c5_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_5fc807f0-2361-11f0-a555-3b00975a30c5_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_3dfe9ee0-435a-11f0-9c93-517e468c0ee1_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_3dfe9ee0-435a-11f0-9c93-517e468c0ee1_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_tenerrima_3dfe9ee0-435a-11f0-9c93-517e468c0ee1_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_eed8de70-ab32-11f0-9c8b-ef5c4f1388cb_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_eed8de70-ab32-11f0-9c8b-ef5c4f1388cb_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_eed8de70-ab32-11f0-9c8b-ef5c4f1388cb_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_eed8de70-ab32-11f0-9c8b-ef5c4f1388cb_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_eed8de70-ab32-11f0-9c8b-ef5c4f1388cb_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_eed8de70-ab32-11f0-9c8b-ef5c4f1388cb_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_eed8de70-ab32-11f0-9c8b-ef5c4f1388cb_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_eed8de70-ab32-11f0-9c8b-ef5c4f1388cb_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_tenerrima_bd1f8dd0-d7f0-11f0-b7a6-453084ed25e7_6.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Mycena tenerrima",
+   "zhtw": "柔軟小菇",
+   "zhcn": "柔软小菇"
+  }
+ ],
+ "names_zhcn": [
+  "柔软基盘小菇",
+  "柔弱基盘小菇"
+ ],
+ "meta": {
+  "CapColors": "4286611584,4289309097",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Mycena albopilosa,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "白毛小菇,,",
+  "la_zhcn": "白毛小菇,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena tenerrima",
+   "cname": "Frosty Bonnet",
+   "url": "https://www.inaturalist.org/taxa/1428084-Mycena-tenerrima",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/346490716/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260221-210818"
+}

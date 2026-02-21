@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "cf. rhenana",
  "date": [
+  "02/07/2026,25732537049763383",
   "11/07/2025,24932566369760459",
   "09/20/2025,24427464020270699",
   "07/14/2025,23900568229626950",
@@ -175,6 +176,42 @@
   {
    "author": "Sunny Wang",
    "image_src": "Mycena_cf. rhenana_14b16080-d02d-11f0-8fdb-4b625997ec7d_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_cf. rhenana_1adb8870-0f19-11f1-bc56-1143e7374c6e_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_cf. rhenana_1adb8870-0f19-11f1-bc56-1143e7374c6e_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_cf. rhenana_1adb8870-0f19-11f1-bc56-1143e7374c6e_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_cf. rhenana_1adb8870-0f19-11f1-bc56-1143e7374c6e_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_cf. rhenana_1adb8870-0f19-11f1-bc56-1143e7374c6e_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_cf. rhenana_1adb8870-0f19-11f1-bc56-1143e7374c6e_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_cf. rhenana_1adb8870-0f19-11f1-bc56-1143e7374c6e_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_cf. rhenana_1adb8870-0f19-11f1-bc56-1143e7374c6e_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_cf. rhenana_1adb8870-0f19-11f1-bc56-1143e7374c6e_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -223,5 +260,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/147126266/thumb.jpg"
   }
  ],
- "timestamp": "20260201-194311"
+ "timestamp": "20260221-210818"
 }

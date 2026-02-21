@@ -1,0 +1,535 @@
+{
+ "genus": "Basidopus",
+ "name": "brunneisetosa",
+ "date": [
+  "12/18/2025,25272557769094649",
+  "10/31/2025,24876450202038743",
+  "07/31/2025,24016096178074154",
+  "07/10/2025,10074671055976568",
+  "10/10/2024,8268429769934048",
+  "08/27/2024,7932376526872709",
+  "05/26/2024,7414827471960953",
+  "04/12/2024,7212781062165596",
+  "03/15/2024,7102672499843120",
+  "02/20/2024,7034106140033090",
+  "12/01/2023,6867743756669330",
+  "10/25/2023,6563743287069380",
+  "10/07/2023,6492497494193960",
+  "08/19/2023,6312252488885129",
+  "08/06/2023,6269220713188307",
+  "07/24/2023,6246179148825797",
+  "06/10/2023,6069955699781477",
+  "06/05/2023,6054030604707320",
+  "05/27/2023,6024538450989869",
+  "05/21/2023,6003316696445378",
+  "05/05/2023,5947225458721169",
+  "04/30/2023,5931468933630155",
+  "04/03/2023,5846134528830263",
+  "04/03/2023,5847160032061046",
+  "11/15/2022,5592997587477293",
+  "07/18/2022,5080513915392332",
+  "06/12/2022,4978980252212366",
+  "06/01/2022,4953277948115930",
+  "05/28/2022,4935260809917644",
+  "05/26/2022,4930053640438361",
+  "05/04/2022,4865442940232765",
+  "04/20/2022,4828305987279794",
+  "03/29/2022,4781281051982288",
+  "03/19/2022,4743864782390582",
+  "02/26/2022,4686028108174250",
+  "02/12/2022,4675131475930580",
+  "01/23/2022,4573734386070290",
+  "12/29/2021,4483013145142415",
+  "12/27/2021,4476895192420877",
+  "12/24/2021,4580257622084633",
+  "12/19/2021,4440009619442768",
+  "10/16/2021,4230346657075733",
+  "08/22/2021,4062862203824180",
+  "08/20/2021,4055128454597555",
+  "07/08/2021,3927241860719549",
+  "07/06/2021,3921136821330053",
+  "04/29/2021,3728319800611757",
+  "03/07/2021,3577389579038114",
+  "03/06/2021,3577619155681823",
+  "03/05/2021,3572256289551443",
+  "03/02/2021,3565158253594580",
+  "02/25/2021,3549015371875535",
+  "01/06/2021,3418162618294145",
+  "11/25/2020,3313142548796153",
+  "09/26/2020,3144497798993963",
+  "05/11/2020,3271723766271365",
+  "10/18/2017,3271723766271365"
+ ],
+ "names_zhtw": [
+  "褐剛毛基盤小菇"
+ ],
+ "names_en": [],
+ "url": "4580257622084633",
+ "images": [
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_brunneisetosa_0f697200-8873-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_brunneisetosa_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_brunneisetosa_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_brunneisetosa_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_brunneisetosa_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Mycena_brunneisetosa_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_4e7a8810-d1f1-11ed-a219-2b0126893b15_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_4e7a8810-d1f1-11ed-a219-2b0126893b15_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_4e7a8810-d1f1-11ed-a219-2b0126893b15_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_a0c37140-d1f1-11ed-ae8d-475dcb61b6a5_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_a0c37140-d1f1-11ed-ae8d-475dcb61b6a5_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_a0c37140-d1f1-11ed-ae8d-475dcb61b6a5_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_a0c37140-d1f1-11ed-ae8d-475dcb61b6a5_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_a0c37140-d1f1-11ed-ae8d-475dcb61b6a5_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_a0c37140-d1f1-11ed-ae8d-475dcb61b6a5_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_a0c37140-d1f1-11ed-ae8d-475dcb61b6a5_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_a0c37140-d1f1-11ed-ae8d-475dcb61b6a5_8.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_brunneisetosa_f6e527d0-d1f1-11ed-af6a-83710f72e5a4_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_brunneisetosa_f6e527d0-d1f1-11ed-af6a-83710f72e5a4_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_brunneisetosa_f6e527d0-d1f1-11ed-af6a-83710f72e5a4_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_3c8392e0-d1f2-11ed-afbc-751e74023cba_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_59e0c360-d212-11ed-8cbf-f964da109f73_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_59e0c360-d212-11ed-8cbf-f964da109f73_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_59e0c360-d212-11ed-8cbf-f964da109f73_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_brunneisetosa_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_brunneisetosa_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_brunneisetosa_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_brunneisetosa_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Mycena_brunneisetosa_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Mycena_brunneisetosa_fd08eb00-eb29-11ed-9747-f9b40d54f2bb_1.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Mycena_brunneisetosa_fd08eb00-eb29-11ed-9747-f9b40d54f2bb_2.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Mycena_brunneisetosa_fd08eb00-eb29-11ed-9747-f9b40d54f2bb_3.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Mycena_brunneisetosa_fd08eb00-eb29-11ed-9747-f9b40d54f2bb_4.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Mycena_brunneisetosa_8b7dceb0-f830-11ed-b249-81a405dfedaa_1.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Mycena_brunneisetosa_4deeaaf0-0727-11ee-984d-4f853c18fb48_1.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Mycena_brunneisetosa_4deeaaf0-0727-11ee-984d-4f853c18fb48_2.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Mycena_brunneisetosa_4deeaaf0-0727-11ee-984d-4f853c18fb48_3.jpg"
+  },
+  {
+   "author": "Eric Cho",
+   "image_src": "Mycena_brunneisetosa_4deeaaf0-0727-11ee-984d-4f853c18fb48_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_f7d4adb0-34a6-11ee-b20a-99173c92a1c8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_f7d4adb0-34a6-11ee-b20a-99173c92a1c8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_f7d4adb0-34a6-11ee-b20a-99173c92a1c8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_f7d4adb0-34a6-11ee-b20a-99173c92a1c8_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_3fb48470-73f9-11ee-be4f-c51078cca015_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_3fb48470-73f9-11ee-be4f-c51078cca015_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_6f5d9000-d604-11ee-9d4b-dfcaf2a5e9f2_15.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_55aa4e20-fa56-11ee-ac17-171121d35c96_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_55aa4e20-fa56-11ee-ac17-171121d35c96_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_55aa4e20-fa56-11ee-ac17-171121d35c96_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_55aa4e20-fa56-11ee-ac17-171121d35c96_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_55aa4e20-fa56-11ee-ac17-171121d35c96_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_brunneisetosa_0f697200-8873-11ef-be38-335f10af7160_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_brunneisetosa_0f697200-8873-11ef-be38-335f10af7160_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_brunneisetosa_0f697200-8873-11ef-be38-335f10af7160_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_brunneisetosa_0f697200-8873-11ef-be38-335f10af7160_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_brunneisetosa_0f697200-8873-11ef-be38-335f10af7160_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Mycena_brunneisetosa_0f697200-8873-11ef-be38-335f10af7160_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_brunneisetosa_fa48fca0-88ff-11ef-8161-d3139b82d614_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_brunneisetosa_fa48fca0-88ff-11ef-8161-d3139b82d614_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_brunneisetosa_fa48fca0-88ff-11ef-8161-d3139b82d614_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_brunneisetosa_fa48fca0-88ff-11ef-8161-d3139b82d614_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_brunneisetosa_fa48fca0-88ff-11ef-8161-d3139b82d614_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_brunneisetosa_fa48fca0-88ff-11ef-8161-d3139b82d614_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_brunneisetosa_fa48fca0-88ff-11ef-8161-d3139b82d614_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Mycena_brunneisetosa_fa48fca0-88ff-11ef-8161-d3139b82d614_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_78c59be0-7001-11f0-a36b-258efa0ab805_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_78c59be0-7001-11f0-a36b-258efa0ab805_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_brunneisetosa_78c59be0-7001-11f0-a36b-258efa0ab805_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_2edcee20-b8a9-11f0-a551-670beaa50804_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_brunneisetosa_2edcee20-b8a9-11f0-a551-670beaa50804_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_651faec0-defe-11f0-8f14-79f2560e7ab2_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_651faec0-defe-11f0-8f14-79f2560e7ab2_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_651faec0-defe-11f0-8f14-79f2560e7ab2_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_651faec0-defe-11f0-8f14-79f2560e7ab2_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_651faec0-defe-11f0-8f14-79f2560e7ab2_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_651faec0-defe-11f0-8f14-79f2560e7ab2_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_651faec0-defe-11f0-8f14-79f2560e7ab2_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_651faec0-defe-11f0-8f14-79f2560e7ab2_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_brunneisetosa_651faec0-defe-11f0-8f14-79f2560e7ab2_9.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Mycena brunneisetosa",
+   "zhtw": "褐剛毛小菇",
+   "zhcn": "褐刚毛小菇"
+  }
+ ],
+ "names_zhcn": [
+  "褐刚毛基盘小菇"
+ ],
+ "meta": {
+  "CapColors": "4294956800,4294967040,4294944000",
+  "CapDiamRangeValues": "2,7",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "0,1",
+  "StalkLengthRangeValuess": "10,20",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Mycena punkissima,Mycena glaesisetosa,",
+  "Note": "傘面充滿長長的毛狀物。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "龐克頭小菇,琥珀剛毛小菇,",
+  "la_zhcn": "庞克头小菇,琥珀刚毛小菇,"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena brunneisetosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1280164-Mycena-brunneisetosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/356479789/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260221-210818"
+}

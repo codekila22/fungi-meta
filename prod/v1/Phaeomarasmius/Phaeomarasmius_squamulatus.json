@@ -2,6 +2,7 @@
  "genus": "Phaeomarasmius",
  "name": "squamulatus",
  "date": [
+  "01/31/2026,25674071825609906",
   "01/30/2026,25661891943494561",
   "09/06/2022,5229657270477995",
   "02/05/2022,4627424327367962"
@@ -155,6 +156,26 @@
   {
    "author": "江志緯",
    "image_src": "Phaeomarasmius_squamulatus_e06c7ed0-ff62-11f0-9fe5-a1df459ab9c7_14.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Phaeomarasmius_squamulatus_2a895930-ff7b-11f0-ba21-59780aed00e9_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Phaeomarasmius_squamulatus_2a895930-ff7b-11f0-ba21-59780aed00e9_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Phaeomarasmius_squamulatus_2a895930-ff7b-11f0-ba21-59780aed00e9_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Phaeomarasmius_squamulatus_2a895930-ff7b-11f0-ba21-59780aed00e9_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Phaeomarasmius_squamulatus_2a895930-ff7b-11f0-ba21-59780aed00e9_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -196,5 +217,5 @@
   "Note": "",
   "GrowthEco": ""
  },
- "timestamp": "20260201-194311"
+ "timestamp": "20260221-210818"
 }

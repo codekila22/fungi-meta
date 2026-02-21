@@ -210,9 +210,11 @@
   "Edible": "edible,medicinal",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Calvatia cyathiformis,,",
   "Note": "平地草坪上雨後常見，它只有菌肉白色時才可食用。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "杯形禿馬勃,,",
+  "la_zhcn": "杯形秃马勃,,"
  },
  "inaturalist": [
   {
@@ -222,5 +224,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/135197871/thumb.jpg"
   }
  ],
- "timestamp": "20260201-194311"
+ "timestamp": "20260221-210818"
 }

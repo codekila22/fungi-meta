@@ -1,13 +1,13 @@
 {
- "genus": "Atheniella",
- "name": "flavoalba",
+ "genus": "Xuaniella",
+ "name": "urbica",
  "date": [
   "09/24/2024,8153684324741927",
   "09/15/2022,7961554390621589",
   "03/25/2022,4762216120555448"
  ],
  "names_zhtw": [
-  "象牙色艷小菇"
+  "草坪玄女菇"
  ],
  "names_en": [],
  "url": "4762216120555448",
@@ -197,15 +197,8 @@
    "image_src": "Atheniella_flavoalba_29be7610-7d23-11ef-b57c-6f3ef061cc1d_14.jpg"
   }
  ],
- "synonym": [
-  {
-   "name": "Mycena flavoalba",
-   "zhtw": "黃白小菇",
-   "zhcn": "黄白小菇"
-  }
- ],
  "names_zhcn": [
-  "象牙色艳小菇"
+  "草坪玄女菇"
  ],
  "meta": {
   "CapColors": "4294967295,4286141768,4294967040",
@@ -245,11 +238,11 @@
  },
  "inaturalist": [
   {
-   "name": "Atheniella flavoalba",
-   "cname": "Ivory Bonnet",
-   "url": "https://www.inaturalist.org/taxa/499704-Atheniella-flavoalba",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/319753391/thumb.jpg"
+   "name": "Xuaniella urbica",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1657819-Xuaniella-urbica",
+   "src": ""
   }
  ],
- "timestamp": "20260201-194311"
+ "timestamp": "20260221-210818"
 }

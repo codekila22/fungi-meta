@@ -1,0 +1,90 @@
+{
+ "genus": "Mycena",
+ "name": "aff. plumipes",
+ "date": [
+  "01/30/2026,25674245298925892"
+ ],
+ "names_zhtw": [
+  "羽足小菇的相似種"
+ ],
+ "names_en": [],
+ "url": "25674245298925892",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_aff. plumipes_ed4be310-ff77-11f0-ba21-59780aed00e9_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_aff. plumipes_ed4be310-ff77-11f0-ba21-59780aed00e9_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_aff. plumipes_ed4be310-ff77-11f0-ba21-59780aed00e9_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_aff. plumipes_ed4be310-ff77-11f0-ba21-59780aed00e9_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_aff. plumipes_ed4be310-ff77-11f0-ba21-59780aed00e9_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_aff. plumipes_ed4be310-ff77-11f0-ba21-59780aed00e9_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Mycena_aff. plumipes_ed4be310-ff77-11f0-ba21-59780aed00e9_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "羽足小菇的相似种"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "striated",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "fruit",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "一種長在松樹落果上的小菇。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Mycena plumipes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1000600-Mycena-plumipes",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250074043/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260221-210818"
+}

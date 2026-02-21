@@ -2,6 +2,7 @@
  "genus": "Neodasyscypha",
  "name": "cerina",
  "date": [
+  "07/26/2024,25583125904704499",
   "12/08/2021,4402488823194848"
  ],
  "names_zhtw": [
@@ -25,6 +26,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Neodasyscypha_cerina_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Neodasyscypha_cerina_80fd8800-ffe8-11f0-9ade-d1038793f240_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Neodasyscypha_cerina_80fd8800-ffe8-11f0-9ade-d1038793f240_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Neodasyscypha_cerina_80fd8800-ffe8-11f0-9ade-d1038793f240_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Neodasyscypha_cerina_80fd8800-ffe8-11f0-9ade-d1038793f240_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -73,5 +90,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/160007074/thumb.jpg"
   }
  ],
- "timestamp": "20260201-194311"
+ "timestamp": "20260221-210818"
 }

@@ -2,6 +2,7 @@
  "genus": "Conocybe",
  "name": "apala",
  "date": [
+  "02/20/2026,25856883243995429",
   "09/25/2025,24480125951671172",
   "08/03/2025,24020420610975044",
   "04/11/2025,9408248205952193",
@@ -140,6 +141,22 @@
   {
    "author": "陳中城",
    "image_src": "Conocybe_apala_2d381ec0-a745-11f0-85aa-99ccceceda5f_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Conocybe_apala_c3aec650-0f1f-11f1-b090-0fecee0a9ed7_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Conocybe_apala_c3aec650-0f1f-11f1-b090-0fecee0a9ed7_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Conocybe_apala_c3aec650-0f1f-11f1-b090-0fecee0a9ed7_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Conocybe_apala_c3aec650-0f1f-11f1-b090-0fecee0a9ed7_4.jpg"
   }
  ],
  "synonym": [
@@ -208,5 +225,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/310883193/thumb.jpg"
   }
  ],
- "timestamp": "20260201-194311"
+ "timestamp": "20260221-210818"
 }

@@ -1,0 +1,78 @@
+{
+ "genus": "Pseudombrophila",
+ "name": "equina",
+ "date": [
+  "02/04/2026,25700117503005338"
+ ],
+ "names_zhtw": [
+  "馬糞假雨盤菌"
+ ],
+ "names_en": [],
+ "url": "25700117503005338",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Pseudombrophila_equina_772f58f0-0f09-11f1-bcf7-3dd75cd77310_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pseudombrophila_equina_772f58f0-0f09-11f1-bcf7-3dd75cd77310_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pseudombrophila_equina_772f58f0-0f09-11f1-bcf7-3dd75cd77310_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pseudombrophila_equina_772f58f0-0f09-11f1-bcf7-3dd75cd77310_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "马粪假雨盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4294966736",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "stool",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長在山羌排遺上。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Pseudombrophila equina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1390416-Pseudombrophila-equina",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260221-210818"
+}
