@@ -118,5 +118,13 @@
  "names_zhcn": [
   "细齿粪盘菌"
  ],
- "timestamp": "20260221-204142"
+ "inaturalist": [
+  {
+   "name": "Ascobolus crenulatus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/381290-Ascobolus-crenulatus",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1333375/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260221-205256"
 }

@@ -30,5 +30,13 @@
  "names_zhcn": [
   "碟状苔盘菌"
  ],
- "timestamp": "20260221-204142"
+ "inaturalist": [
+  {
+   "name": "Bryoscyphus phascoides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1143144-Bryoscyphus-phascoides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/100291627/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260221-205256"
 }

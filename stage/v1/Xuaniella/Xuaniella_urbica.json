@@ -200,5 +200,49 @@
  "names_zhcn": [
   "草坪玄女菇"
  ],
- "timestamp": "20260221-204142"
+ "meta": {
+  "CapColors": "4294967295,4286141768,4294967040",
+  "CapDiamRangeValues": "5,15",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "20,80",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Seasons": "spring,summer",
+  "GrowthType": "grouped,scattered",
+  "GrowthEnv": "meadow,ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Xuaniella urbica",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1657819-Xuaniella-urbica",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260221-205256"
 }
