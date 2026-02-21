@@ -2,6 +2,7 @@
  "genus": "Bisporella",
  "name": "pallescens",
  "date": [
+  "02/20/2026,25860520080298412",
   "02/21/2024,7027700397340331",
   "11/20/2023,6660342797409428",
   "04/29/2016,894171384026627"
@@ -71,6 +72,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Bisporella_pallescens_03d09150-d642-11ee-b1dd-27f76fe15eb4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_pallescens_d8ed2480-0f01-11f1-9962-e134d37026ef_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_pallescens_d8ed2480-0f01-11f1-9962-e134d37026ef_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_pallescens_d8ed2480-0f01-11f1-9962-e134d37026ef_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_pallescens_d8ed2480-0f01-11f1-9962-e134d37026ef_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,5 +136,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/65328461/thumb.jpeg"
   }
  ],
- "timestamp": "20260221-162138"
+ "timestamp": "20260221-171120"
 }

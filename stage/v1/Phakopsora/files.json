@@ -2,12 +2,18 @@
  "name": "Phakopsora",
  "zhtw": "層銹菌屬",
  "zhcn": "层锈菌属",
- "timestamp": "20260221-162138",
+ "timestamp": "20260221-171120",
  "list": [
   {
    "name": "Phakopsora ampelopsidis",
-   "zhtw": "葡萄層銹菌",
-   "zhcn": "葡萄层锈菌",
+   "zhtw": "山葡萄層銹菌",
+   "zhcn": "山葡萄层锈菌",
+   "img": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_1.jpg"
+  },
+  {
+   "name": "Phakopsora euvitis",
+   "zhtw": "亞洲葡萄層銹菌",
+   "zhcn": "亚洲葡萄层锈菌",
    "img": "Phakopsora_ampelopsidis_645cc8a0-1d8a-11f0-b0c0-d777abc4ca6b_1.jpg"
   },
   {
