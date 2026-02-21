@@ -2,65 +2,14 @@
  "genus": "Lachnella",
  "name": "alboviolascens",
  "date": [
-  "06/26/2024,7562381860538846",
-  "04/08/2024,7194902680620101",
-  "12/30/2023,6805113609599012",
-  "11/05/2022,5405087792934941"
+  "04/08/2024,7194902680620101"
  ],
  "names_zhtw": [
   "白紫毛緣菌"
  ],
  "names_en": [],
- "url": "5405087792934941",
+ "url": "7194902680620101",
  "images": [
-  {
-   "author": "Sunny Wang",
-   "image_src": "Lachnella_alboviolascens_1_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Lachnella_alboviolascens_2_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Lachnella_alboviolascens_3_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Lachnella_alboviolascens_4_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Lachnella_alboviolascens_5_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Lachnella_alboviolascens_6_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "author": "陳雅芬",
-   "image_src": "Lachnella_alboviolascens_3e1dad90-a84b-11ee-b88b-4fda70926861_1.jpg"
-  },
-  {
-   "author": "陳雅芬",
-   "image_src": "Lachnella_alboviolascens_3e1dad90-a84b-11ee-b88b-4fda70926861_2.jpg"
-  },
-  {
-   "author": "陳雅芬",
-   "image_src": "Lachnella_alboviolascens_3e1dad90-a84b-11ee-b88b-4fda70926861_3.jpg"
-  },
-  {
-   "author": "陳雅芬",
-   "image_src": "Lachnella_alboviolascens_3e1dad90-a84b-11ee-b88b-4fda70926861_4.jpg"
-  },
-  {
-   "author": "陳雅芬",
-   "image_src": "Lachnella_alboviolascens_3e1dad90-a84b-11ee-b88b-4fda70926861_5.jpg"
-  },
-  {
-   "author": "陳雅芬",
-   "image_src": "Lachnella_alboviolascens_3e1dad90-a84b-11ee-b88b-4fda70926861_6.jpg"
-  },
   {
    "author": "陳麗紅",
    "image_src": "Lachnella_alboviolascens_034d6bf0-fa4f-11ee-91c0-333c088e6931_1.jpg"
@@ -88,38 +37,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Lachnella_alboviolascens_034d6bf0-fa4f-11ee-91c0-333c088e6931_7.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Lachnella_alboviolascens_4764dd60-342d-11ef-b04e-6d6643f11f14_1.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Lachnella_alboviolascens_4764dd60-342d-11ef-b04e-6d6643f11f14_2.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Lachnella_alboviolascens_4764dd60-342d-11ef-b04e-6d6643f11f14_3.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Lachnella_alboviolascens_4764dd60-342d-11ef-b04e-6d6643f11f14_4.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Lachnella_alboviolascens_4764dd60-342d-11ef-b04e-6d6643f11f14_5.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Lachnella_alboviolascens_4764dd60-342d-11ef-b04e-6d6643f11f14_6.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Lachnella_alboviolascens_4764dd60-342d-11ef-b04e-6d6643f11f14_7.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Lachnella_alboviolascens_4764dd60-342d-11ef-b04e-6d6643f11f14_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -169,5 +86,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174920469/thumb.jpg"
   }
  ],
- "timestamp": "20260221-205256"
+ "timestamp": "20260221-210818"
 }

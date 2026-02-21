@@ -118,6 +118,42 @@
  "names_zhcn": [
   "细齿粪盘菌"
  ],
+ "meta": {
+  "CapColors": "4294967040,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "stool",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
  "inaturalist": [
   {
    "name": "Ascobolus crenulatus",
@@ -126,5 +162,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1333375/thumb.jpg"
   }
  ],
- "timestamp": "20260221-205256"
+ "timestamp": "20260221-210818"
 }
