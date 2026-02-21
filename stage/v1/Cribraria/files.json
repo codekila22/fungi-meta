@@ -2,7 +2,7 @@
  "name": "Cribraria",
  "zhtw": "篩黏菌屬",
  "zhcn": "筛黏菌属",
- "timestamp": "20260221-173350",
+ "timestamp": "20260221-175155",
  "list": [
   {
    "name": "Cribraria aurantiaca",
@@ -39,6 +39,12 @@
    "zhtw": "極小篩黏菌",
    "zhcn": "极小筛黏菌",
    "img": "Cribraria_minutissima_754f52e0-b980-11ef-a865-db2400fefa08_1.jpg"
+  },
+  {
+   "name": "Cribraria purpurea",
+   "zhtw": "紫紅篩黏菌",
+   "zhcn": "紫红筛黏菌",
+   "img": "Cribraria_purpurea_26a4a510-0f0a-11f1-bcf7-3dd75cd77310_1.jpg"
   },
   {
    "name": "Cribraria splendens",

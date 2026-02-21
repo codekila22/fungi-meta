@@ -2,7 +2,7 @@
  "name": "Usnea",
  "zhtw": "松蘿屬",
  "zhcn": "松萝属",
- "timestamp": "20260221-173350",
+ "timestamp": "20260221-175155",
  "list": [
   {
    "name": "Usnea articulate",
@@ -57,6 +57,12 @@
    "zhtw": "紅皮松蘿",
    "zhcn": "红皮松萝",
    "img": "Usnea_rubrotincta_05089b10-cadc-11ee-8b06-dfab89c7bc15_1.jpg"
+  },
+  {
+   "name": "Usnea shimadae",
+   "zhtw": "島田氏松蘿",
+   "zhcn": "岛田氏松萝",
+   "img": "Usnea_shimadae_32ca7f50-0f09-11f1-bcf7-3dd75cd77310_1.jpg"
   },
   {
    "name": "Usnea wirthii",
