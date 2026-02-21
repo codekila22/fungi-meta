@@ -428,5 +428,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260213-121005"
+ "inaturalist": [
+  {
+   "name": "Mycena interrupta",
+   "cname": "Pixie's Parasol",
+   "url": "https://www.inaturalist.org/taxa/355917-Mycena-interrupta",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/384937299/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260221-105658"
 }

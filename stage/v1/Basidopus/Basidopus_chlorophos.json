@@ -670,5 +670,25 @@
   "Note": "成菌傘中央略為凹陷，菌柄基部為盤狀。台灣中部以南的個體較易發光，原因未明。\n基質範圍廣泛，如竹子、相思樹、藤、紅柴、九芎木等。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260213-121005"
+ "inaturalist": [
+  {
+   "name": "Mycena chlorophos",
+   "cname": "Green Pepe",
+   "url": "https://www.inaturalist.org/taxa/155173-Mycena-chlorophos",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/100369465/thumb.jpg"
+  },
+  {
+   "name": "Mycena chlorophos var. chlorophos",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/155175-Mycena-chlorophos-chlorophos",
+   "src": ""
+  },
+  {
+   "name": "Mycena chlorophos var. virescens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/155174-Mycena-chlorophos-virescens",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260221-105658"
 }

@@ -2,6 +2,7 @@
  "genus": "Botryobasidium",
  "name": "aureum",
  "date": [
+  "02/15/2026,25811256188558135",
   "01/04/2026,25738849205798834"
  ],
  "names_zhtw": [
@@ -49,6 +50,54 @@
   {
    "author": "江志緯",
    "image_src": "Botryobasidium_aureum_16ea90b0-04bc-11f1-9ccc-2b4bab566818_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_f4e86380-0acd-11f1-bd9e-47c11d2b9bdb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_f4e86380-0acd-11f1-bd9e-47c11d2b9bdb_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_f4e86380-0acd-11f1-bd9e-47c11d2b9bdb_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_f4e86380-0acd-11f1-bd9e-47c11d2b9bdb_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_f4e86380-0acd-11f1-bd9e-47c11d2b9bdb_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_f4e86380-0acd-11f1-bd9e-47c11d2b9bdb_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_09e35470-0ace-11f1-bd9e-47c11d2b9bdb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_09e35470-0ace-11f1-bd9e-47c11d2b9bdb_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_09e35470-0ace-11f1-bd9e-47c11d2b9bdb_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_09e35470-0ace-11f1-bd9e-47c11d2b9bdb_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_09e35470-0ace-11f1-bd9e-47c11d2b9bdb_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Botryobasidium_aureum_09e35470-0ace-11f1-bd9e-47c11d2b9bdb_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -97,5 +146,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/355549225/thumb.jpg"
   }
  ],
- "timestamp": "20260213-121005"
+ "timestamp": "20260221-105658"
 }

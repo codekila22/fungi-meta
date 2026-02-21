@@ -523,5 +523,13 @@
   "la_zhtw": "龐克頭小菇,琥珀剛毛小菇,",
   "la_zhcn": "庞克头小菇,琥珀刚毛小菇,"
  },
- "timestamp": "20260213-121005"
+ "inaturalist": [
+  {
+   "name": "Mycena brunneisetosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1280164-Mycena-brunneisetosa",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/356479789/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260221-105658"
 }

@@ -380,5 +380,13 @@
   "la_zhtw": "白毛小菇,,",
   "la_zhcn": "白毛小菇,,"
  },
- "timestamp": "20260213-121005"
+ "inaturalist": [
+  {
+   "name": "Mycena tenerrima",
+   "cname": "Frosty Bonnet",
+   "url": "https://www.inaturalist.org/taxa/1428084-Mycena-tenerrima",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/346490716/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260221-105658"
 }
