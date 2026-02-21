@@ -50,5 +50,48 @@
  "names_zhcn": [
   "紫红筛黏菌"
  ],
- "timestamp": "20260221-175155"
+ "meta": {
+  "CapColors": "4294901760,4286578816",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Cribraria purpurea",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/697684-Cribraria-purpurea",
+   "src": "https://static.inaturalist.org/photos/92372592/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260221-204142"
 }

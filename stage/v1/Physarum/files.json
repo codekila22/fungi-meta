@@ -2,7 +2,7 @@
  "name": "Physarum",
  "zhtw": "絨泡黏菌屬",
  "zhcn": "绒泡黏菌属",
- "timestamp": "20260221-175155",
+ "timestamp": "20260221-204142",
  "list": [
   {
    "name": "Physarum album",
@@ -57,6 +57,12 @@
    "zhtw": "鈣絲絨泡黏菌",
    "zhcn": "钙丝绒泡黏菌",
    "img": "Physarum_decipiens_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Physarum diderma",
+   "zhtw": "雙皮絨泡黏菌",
+   "zhcn": "双皮绒泡黏菌",
+   "img": "Physarum_diderma_036b06d0-0f1d-11f1-bc56-1143e7374c6e_1.jpg"
   },
   {
    "name": "Physarum echinosporum",

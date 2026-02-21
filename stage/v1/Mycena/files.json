@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20260221-175155",
+ "timestamp": "20260221-204142",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -219,15 +219,6 @@
    "zhtw": "焰光小菇",
    "zhcn": "焰光小菇",
    "img": "Mycena_flammifera_0204f100-e81c-11ed-9821-d7df41129c66_1.jpg"
-  },
-  {
-   "name": "Mycena flavoalba",
-   "zhtw": "黃白小菇",
-   "zhcn": "黄白小菇",
-   "current": "Atheniella flavoalba",
-   "current_zhtw": "象牙色艷小菇",
-   "current_zhcn": "象牙色艳小菇",
-   "img": "Mycena_aff. flavoalba_4b7ba0a0-ff94-11ee-84d1-c707d409f3d4_1.jpg"
   },
   {
    "name": "Mycena galericulata",
