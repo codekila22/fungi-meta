@@ -201,5 +201,13 @@
   "la_zhtw": "山葡萄層銹菌,,",
   "la_zhcn": "山葡萄层锈菌,,"
  },
- "timestamp": "20260221-171120"
+ "inaturalist": [
+  {
+   "name": "Neophysopella meliosmae-myrianthae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1557231-Neophysopella-meliosmae-myrianthae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/336006513/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260221-173350"
 }

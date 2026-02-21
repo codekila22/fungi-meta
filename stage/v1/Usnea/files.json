@@ -2,7 +2,7 @@
  "name": "Usnea",
  "zhtw": "松蘿屬",
  "zhcn": "松萝属",
- "timestamp": "20260221-171120",
+ "timestamp": "20260221-173350",
  "list": [
   {
    "name": "Usnea articulate",
@@ -35,6 +35,12 @@
    "img": "Usnea_orientalis_1_CC BY-NC_邱澤峯.jpg"
   },
   {
+   "name": "Usnea orientalis f. esorediosa Asahina",
+   "zhtw": "東方松蘿無粉芽變型",
+   "zhcn": "东方松萝无粉芽变型",
+   "img": "Usnea_shimadae_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
    "name": "Usnea pseudogatai",
    "zhtw": "擬臺灣松蘿",
    "zhcn": "拟台湾松萝",
@@ -51,12 +57,6 @@
    "zhtw": "紅皮松蘿",
    "zhcn": "红皮松萝",
    "img": "Usnea_rubrotincta_05089b10-cadc-11ee-8b06-dfab89c7bc15_1.jpg"
-  },
-  {
-   "name": "Usnea shimadae",
-   "zhtw": "島田氏松蘿",
-   "zhcn": "岛田氏松萝",
-   "img": "Usnea_shimadae_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Usnea wirthii",
