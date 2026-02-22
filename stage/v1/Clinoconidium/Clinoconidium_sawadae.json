@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "02/19/2026,25849545448062542",
   "03/07/2025,9152548661522150",
   "12/25/2024,8744811575629196",
   "12/25/2020,3389765094467231",
@@ -75,6 +76,14 @@
   {
    "author": "陳麗紅",
    "image_src": "Clinoconidium_sawadae_e90a80b0-020f-11f0-8961-4d295373bf13_5.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Clinoconidium_sawadae_ee893ec0-0fc2-11f1-bbe9-49f269d80450_1.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Clinoconidium_sawadae_ee893ec0-0fc2-11f1-bbe9-49f269d80450_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -125,5 +134,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58369641/thumb.jpg"
   }
  ],
- "timestamp": "20260222-153028"
+ "timestamp": "20260222-155033"
 }
