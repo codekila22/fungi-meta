@@ -2,6 +2,7 @@
  "genus": "Favolus",
  "name": "grammocephalus",
  "date": [
+  "07/14/2025,25856162984067455",
   "03/10/2025,9186463561463993",
   "04/29/2024,7285288268248208",
   "07/08/2023,6171999572910422",
@@ -137,6 +138,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Polyporus_grammocephalus_a489a7e0-0241-11f0-9afe-392fdabe9367_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Favolus_grammocephalus_ae64f700-0fac-11f1-8719-c1ab0b46d25d_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Favolus_grammocephalus_ae64f700-0fac-11f1-8719-c1ab0b46d25d_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Favolus_grammocephalus_ae64f700-0fac-11f1-8719-c1ab0b46d25d_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Favolus_grammocephalus_ae64f700-0fac-11f1-8719-c1ab0b46d25d_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Favolus_grammocephalus_ae64f700-0fac-11f1-8719-c1ab0b46d25d_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Favolus_grammocephalus_ae64f700-0fac-11f1-8719-c1ab0b46d25d_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Favolus_grammocephalus_ae64f700-0fac-11f1-8719-c1ab0b46d25d_7.jpg"
   }
  ],
  "synonym": [
@@ -211,5 +240,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253492089/thumb.jpg"
   }
  ],
- "timestamp": "20260221-210818"
+ "timestamp": "20260222-150857"
 }

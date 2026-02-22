@@ -2,14 +2,59 @@
  "genus": "Bryoscyphus",
  "name": "phascoide",
  "date": [
+  "01/27/2026,25802815696068851",
   "12/27/2025,25848313891519031"
  ],
  "names_zhtw": [
   "碟狀苔盤菌"
  ],
  "names_en": [],
- "url": "25848313891519031",
+ "url": "25802815696068851",
  "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_11.jpg"
+  },
   {
    "author": "向高世",
    "image_src": "Bryoscyphus_phascoide_74994a20-0f1c-11f1-bc56-1143e7374c6e_1.jpg"
@@ -74,5 +119,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/100291627/thumb.jpeg"
   }
  ],
- "timestamp": "20260221-210818"
+ "timestamp": "20260222-150857"
 }

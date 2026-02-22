@@ -2,7 +2,8 @@
  "genus": "Proliferodiscus",
  "name": "sp.1",
  "date": [
-  "02/12/2026,25804184185932002"
+  "02/12/2026,25804184185932002",
+  "11/05/2022,5405087792934941"
  ],
  "names_zhtw": [
   "裏白層出盤菌"
@@ -33,6 +34,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Proliferodiscus_sp.1_75160950-0f1e-11f1-b090-0fecee0a9ed7_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Proliferodiscus_sp.1_52324c40-0f7e-11f1-99f0-8358615dcb0c_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Proliferodiscus_sp.1_52324c40-0f7e-11f1-99f0-8358615dcb0c_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Proliferodiscus_sp.1_52324c40-0f7e-11f1-99f0-8358615dcb0c_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Proliferodiscus_sp.1_52324c40-0f7e-11f1-99f0-8358615dcb0c_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Proliferodiscus_sp.1_52324c40-0f7e-11f1-99f0-8358615dcb0c_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Proliferodiscus_sp.1_52324c40-0f7e-11f1-99f0-8358615dcb0c_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -74,5 +99,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260221-210818"
+ "timestamp": "20260222-150857"
 }
