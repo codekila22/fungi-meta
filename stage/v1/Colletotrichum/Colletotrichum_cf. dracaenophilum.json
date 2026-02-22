@@ -1,6 +1,6 @@
 {
  "genus": "Colletotrichum",
- "name": "cf.dracaenophilum",
+ "name": "cf. dracaenophilum",
  "date": [
   "02/17/2026,25844509678566119"
  ],
@@ -54,5 +54,40 @@
  "names_zhcn": [
   "疑似龙血树刺盘孢"
  ],
- "timestamp": "20260222-150857"
+ "meta": {
+  "CapColors": "4286141768,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長在巴西鐵樹(香龍血樹)上。"
+ },
+ "timestamp": "20260222-153028"
 }

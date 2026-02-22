@@ -1,5 +1,5 @@
 {
- "timestamp": "20260222-150857",
+ "timestamp": "20260222-153028",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -1568,7 +1568,7 @@
   "Collaria rubens,紅褐項圈黏菌,红褐项圈黏菌",
   "Collema fasciculare,束孢膠衣,束孢胶衣",
   "Collema furfuraceum,粉屑膠衣,粉屑胶衣",
-  "Colletotrichum cf.dracaenophilum,疑似龍血樹刺盤孢,疑似龙血树刺盘孢",
+  "Colletotrichum cf. dracaenophilum,疑似龍血樹刺盤孢,疑似龙血树刺盘孢",
   "Colletotrichum cordylinicola,朱蕉炭疽刺盤孢菌,朱蕉炭疽刺盘孢菌",
   "Colletotrichum gloeosporioides,膠孢炭疽菌,胶孢炭疽菌",
   "Colletotrichum sansevieriae,虎尾蘭炭疽病菌,虎尾兰炭疽病菌",
@@ -3166,6 +3166,7 @@
   "Puccinia benokiyamensis,火炭母柄銹菌,火炭母柄锈菌",
   "Puccinia coronata,冠柄銹菌(暫名),冠柄锈菌(暂名)",
   "Puccinia crepidis-japonicae,黃鵪菜柄銹菌,黄鹌菜柄锈菌",
+  "Puccinia dianellae,山菅蘭柄銹菌,山菅兰柄锈菌",
   "Puccinia exhausta,鐵線蓮柄銹菌,铁线莲柄锈菌",
   "Puccinia fusispora,蕁麻柄銹菌,荨麻柄锈菌",
   "Puccinia hemerocallichis,金針柄銹菌,金针柄锈菌",

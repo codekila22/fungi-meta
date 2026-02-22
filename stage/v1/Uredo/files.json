@@ -2,12 +2,15 @@
  "name": "Uredo",
  "zhtw": "夏孢銹菌屬",
  "zhcn": "夏孢锈菌属",
- "timestamp": "20260222-150857",
+ "timestamp": "20260222-153028",
  "list": [
   {
    "name": "Uredo dianellae",
    "zhtw": "山菅蘭夏孢銹菌",
    "zhcn": "山菅兰夏孢锈菌",
+   "current": "Puccinia dianellae",
+   "current_zhtw": "山菅蘭柄銹菌",
+   "current_zhcn": "山菅兰柄锈菌",
    "img": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_1.jpg"
   },
   {

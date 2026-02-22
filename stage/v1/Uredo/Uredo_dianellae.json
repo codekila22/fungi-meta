@@ -1,38 +1,5 @@
 {
- "genus": "Uredo",
- "name": "dianellae",
- "date": [
-  "01/25/2026,25614644684885954"
- ],
- "names_zhtw": [
-  "山菅蘭夏孢銹菌"
- ],
- "names_en": [],
- "url": "25614644684885954",
- "images": [
-  {
-   "author": "陳麗紅",
-   "image_src": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_1.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_2.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_3.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_4.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_5.jpg"
-  }
- ],
- "names_zhcn": [
-  "山菅兰夏孢锈菌"
- ],
- "timestamp": "20260222-150857"
+ "zhtw": "山菅蘭夏孢銹菌",
+ "zhcn": "山菅兰夏孢锈菌",
+ "redirect_to_species": "Puccinia dianellae"
 }
