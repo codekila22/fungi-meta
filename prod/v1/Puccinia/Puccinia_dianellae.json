@@ -1,0 +1,88 @@
+{
+ "genus": "Puccinia",
+ "name": "dianellae",
+ "synonym": [
+  {
+   "name": "Uredo dianellae",
+   "zhtw": "山菅蘭夏孢銹菌",
+   "zhcn": "山菅兰夏孢锈菌"
+  }
+ ],
+ "date": [
+  "01/25/2026,25614644684885954"
+ ],
+ "names_zhtw": [
+  "山菅蘭柄銹菌"
+ ],
+ "names_en": [],
+ "url": "25614644684885954",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "山菅兰柄锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長在山菅蘭葉片上。"
+ },
+ "inaturalist": [
+  {
+   "name": "Puccinia dianellae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1096628-Puccinia-dianellae",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/285146037/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260222-153028"
+}

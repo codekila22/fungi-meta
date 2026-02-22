@@ -2,6 +2,7 @@
  "genus": "Scorias",
  "name": "pseudoaphidis",
  "date": [
+  "02/20/2026,25860663053617448",
   "08/16/2025,24146129058404198",
   "03/09/2025,9163831190393897",
   "04/29/2024,7285994914844210",
@@ -217,6 +218,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Scorias_pseudoaphidis_21ef3890-7bb8-11f0-b594-f7fc06628bfe_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Scorias_pseudoaphidis_0b65f9a0-0fac-11f1-8719-c1ab0b46d25d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Scorias_pseudoaphidis_0b65f9a0-0fac-11f1-8719-c1ab0b46d25d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Scorias_pseudoaphidis_0b65f9a0-0fac-11f1-8719-c1ab0b46d25d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Scorias_pseudoaphidis_0b65f9a0-0fac-11f1-8719-c1ab0b46d25d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -258,5 +275,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260221-210818"
+ "timestamp": "20260222-153028"
 }

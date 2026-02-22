@@ -2,7 +2,7 @@
  "name": "Puccinia",
  "zhtw": "柄銹菌屬",
  "zhcn": "柄锈菌属",
- "timestamp": "20260221-210818",
+ "timestamp": "20260222-153028",
  "list": [
   {
    "name": "Puccinia allii",
@@ -27,6 +27,12 @@
    "zhtw": "黃鵪菜柄銹菌",
    "zhcn": "黄鹌菜柄锈菌",
    "img": "Puccinia_crepidis-japonicae_14298890-c570-11ef-bec3-5d2324f5bbd9_1.jpg"
+  },
+  {
+   "name": "Puccinia dianellae",
+   "zhtw": "山菅蘭柄銹菌",
+   "zhcn": "山菅兰柄锈菌",
+   "img": "Uredo_dianellae_2aaa8030-0faa-11f1-8719-c1ab0b46d25d_1.jpg"
   },
   {
    "name": "Puccinia exhausta",

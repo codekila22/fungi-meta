@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "haematopus",
  "date": [
+  "02/19/2026,25850836221266798",
   "12/29/2025,25390054934011598",
   "08/22/2025,24191070003910103",
   "04/07/2025,9356553637788317",
@@ -343,6 +344,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_haematopus_2bafc480-e945-11f0-9ccf-977394014df9_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Mycena_haematopus_063d8550-0fad-11f1-8719-c1ab0b46d25d_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Mycena_haematopus_063d8550-0fad-11f1-8719-c1ab0b46d25d_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Mycena_haematopus_063d8550-0fad-11f1-8719-c1ab0b46d25d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -423,5 +436,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260221-210818"
+ "timestamp": "20260222-153028"
 }
