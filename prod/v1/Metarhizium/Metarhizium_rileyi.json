@@ -1,0 +1,75 @@
+{
+ "genus": "Metarhizium",
+ "name": "rileyi",
+ "date": [
+  "03/08/2026,26016913697992382"
+ ],
+ "names_zhtw": [
+  "萊氏黑殭菌",
+  "萊氏綠僵菌"
+ ],
+ "names_en": [],
+ "url": "26016913697992382",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Metarhizium_rileyi_d75d4ae0-2438-11f1-9dbc-939e2d9cedc1_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Metarhizium_rileyi_d75d4ae0-2438-11f1-9dbc-939e2d9cedc1_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Metarhizium_rileyi_d75d4ae0-2438-11f1-9dbc-939e2d9cedc1_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "莱氏黑僵菌",
+  "莱氏绿僵菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "寄主較專一，寄生鱗翅目昆蟲幼蟲，如秋行軍蟲、玉米穗蟲和夜蛾類害蟲。寄主體表覆蓋一層薄且白，絨毛狀、粉狀的菌絲，其上生長許多緻密的分生孢子梗，綠白色至淡綠色，分生孢子梗直立且具隔膜，孢子大小約 2.8-4.8 × 2-3 μm。"
+ },
+ "inaturalist": [
+  {
+   "name": "Metarhizium rileyi",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/960954-Metarhizium-rileyi",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24095609/thumb.jpeg"
+  }
+ ],
+ "timestamp": "20260322-183659"
+}

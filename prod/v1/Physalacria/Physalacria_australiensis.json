@@ -2,6 +2,7 @@
  "genus": "Physalacria",
  "name": "australiensis",
  "date": [
+  "03/02/2026,26077691878581230",
   "09/26/2025,24548395424844224",
   "07/20/2023,6213172258793153"
  ],
@@ -50,6 +51,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Physalacria_australiensis_2bee2070-a0e0-11f0-8ae0-adaa9954f2d5_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_b8892e80-259c-11f1-b0b0-0b212383b427_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_b8892e80-259c-11f1-b0b0-0b212383b427_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_b8892e80-259c-11f1-b0b0-0b212383b427_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_b8892e80-259c-11f1-b0b0-0b212383b427_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_b8892e80-259c-11f1-b0b0-0b212383b427_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_b8892e80-259c-11f1-b0b0-0b212383b427_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_australiensis_b8892e80-259c-11f1-b0b0-0b212383b427_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -98,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8183232/thumb.jpg"
   }
  ],
- "timestamp": "20260222-153028"
+ "timestamp": "20260322-183659"
 }

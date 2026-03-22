@@ -1,0 +1,85 @@
+{
+ "genus": "Melampsora",
+ "name": "ferrinii",
+ "date": [
+  "02/22/2026,25976899905327095"
+ ],
+ "names_zhtw": [
+  "費氏柵鏽菌"
+ ],
+ "names_en": [],
+ "url": "25976899905327095",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Melampsora_ferrinii_098859f0-243a-11f1-9dbc-939e2d9cedc1_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Melampsora_ferrinii_098859f0-243a-11f1-9dbc-939e2d9cedc1_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Melampsora_ferrinii_098859f0-243a-11f1-9dbc-939e2d9cedc1_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Melampsora_ferrinii_098859f0-243a-11f1-9dbc-939e2d9cedc1_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Melampsora_ferrinii_098859f0-243a-11f1-9dbc-939e2d9cedc1_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Melampsora_ferrinii_098859f0-243a-11f1-9dbc-939e2d9cedc1_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "费氏栅锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長在垂柳葉片上。"
+ },
+ "inaturalist": [
+  {
+   "name": "Melampsora coleosporioides",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/383061-Melampsora-coleosporioides",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/68325054/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260322-183659"
+}

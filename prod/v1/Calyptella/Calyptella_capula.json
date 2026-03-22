@@ -2,6 +2,7 @@
  "genus": "Calyptella",
  "name": "capula",
  "date": [
+  "03/19/2026,26129241690092915",
   "06/21/2025,9921482791295396",
   "03/18/2025,9220178254759190",
   "08/15/2024,7852728028170893",
@@ -190,6 +191,22 @@
   {
    "author": "徐秀團",
    "image_src": "Calyptella_capula_c420d350-4e93-11f0-89f3-7ff0fa216003_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Calyptella_capula_af489a70-239b-11f1-b997-47377cee6df2_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Calyptella_capula_af489a70-239b-11f1-b997-47377cee6df2_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Calyptella_capula_af489a70-239b-11f1-b997-47377cee6df2_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Calyptella_capula_af489a70-239b-11f1-b997-47377cee6df2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -241,5 +258,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5736204/thumb.jpeg"
   }
  ],
- "timestamp": "20260222-153028"
+ "timestamp": "20260322-183659"
 }

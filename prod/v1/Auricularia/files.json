@@ -2,7 +2,7 @@
  "name": "Auricularia",
  "zhtw": "木耳屬",
  "zhcn": "木耳属",
- "timestamp": "20260222-153028",
+ "timestamp": "20260322-183659",
  "list": [
   {
    "name": "Auricularia americana",
@@ -24,9 +24,9 @@
   },
   {
    "name": "Auricularia delicata",
-   "zhtw": "皺木耳",
-   "zhcn": "皱木耳",
-   "img": "Auricularia_delicata_09099140-02a7-11ee-a66c-f74f439981b1_4.jpg"
+   "zhtw": "皺木耳複合群",
+   "zhcn": "皱木耳复合群",
+   "img": "Auricularia_delicata_4_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Auricularia delicata f. alba",
@@ -45,6 +45,12 @@
    "zhtw": "氈蓋木耳",
    "zhcn": "毡盖木耳",
    "img": "Auricularia_mesenterica_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Auricularia sinodelicata",
+   "zhtw": "中國皺木耳",
+   "zhcn": "中国皱木耳",
+   "img": "Auricularia_sinodelicata_1e92a120-25cf-11f1-bfcc-eb4b0b7f278a_1.jpg"
   },
   {
    "name": "Auricularia villosula",

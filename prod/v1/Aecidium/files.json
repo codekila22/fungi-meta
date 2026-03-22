@@ -2,12 +2,15 @@
  "name": "Aecidium",
  "zhtw": "銹孢銹菌屬",
  "zhcn": "锈孢锈菌属",
- "timestamp": "20260222-153028",
+ "timestamp": "20260322-183659",
  "list": [
   {
    "name": "Aecidium araliae",
    "zhtw": "楤木銹孢銹菌",
    "zhcn": "楤木锈孢锈菌",
+   "current": "Puccinia caricis-araliae",
+   "current_zhtw": "楤木柄銹菌",
+   "current_zhcn": "楤木柄锈菌",
    "img": "Aecidium_araliae_10_CC BY-NC_向高世.jpg"
   },
   {

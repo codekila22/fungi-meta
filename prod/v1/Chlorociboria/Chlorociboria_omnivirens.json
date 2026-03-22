@@ -2,6 +2,7 @@
  "genus": "Chlorociboria",
  "name": "omnivirens",
  "date": [
+  "02/22/2026,25880676048282815",
   "01/15/2026,25510636211953469",
   "01/04/2026,25429399226743835",
   "10/27/2025,24810266998657064",
@@ -245,6 +246,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Chlorociboria_omnivirens_9a3e3690-f37f-11f0-8963-3b6c150f88e7_6.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Chlorociboria_omnivirens_5d614f30-1145-11f1-9b32-7d69d307f5f2_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Chlorociboria_omnivirens_5d614f30-1145-11f1-9b32-7d69d307f5f2_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Chlorociboria_omnivirens_5d614f30-1145-11f1-9b32-7d69d307f5f2_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Chlorociboria_omnivirens_5d614f30-1145-11f1-9b32-7d69d307f5f2_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Chlorociboria_omnivirens_5d614f30-1145-11f1-9b32-7d69d307f5f2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -294,5 +315,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156223846/thumb.jpg"
   }
  ],
- "timestamp": "20260222-153028"
+ "timestamp": "20260322-183659"
 }

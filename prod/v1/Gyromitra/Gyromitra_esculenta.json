@@ -2,6 +2,7 @@
  "genus": "Gyromitra",
  "name": "esculenta",
  "date": [
+  "03/06/2026,26009580635392355",
   "04/01/2025,9333232083453806",
   "03/24/2025,9255156291261386",
   "03/24/2025,10087943427982664",
@@ -16,6 +17,10 @@
  "names_en": [],
  "url": "4823139984463061",
  "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Gyromitra_esculenta_1d9a5260-1818-11f0-93b0-8b93ef2e2ded_1.jpg"
+  },
   {
    "author": "Chia Te Lin",
    "image_src": "Gyromitra_esculenta_1_CC BY-NC_Chia Te Lin.jpg"
@@ -218,10 +223,6 @@
   },
   {
    "author": "江志緯",
-   "image_src": "Gyromitra_esculenta_1d9a5260-1818-11f0-93b0-8b93ef2e2ded_1.jpg"
-  },
-  {
-   "author": "江志緯",
    "image_src": "Gyromitra_esculenta_1d9a5260-1818-11f0-93b0-8b93ef2e2ded_2.jpg"
   },
   {
@@ -295,6 +296,22 @@
   {
    "author": "向高世",
    "image_src": "Gyromitra_esculenta_447770c0-5fd0-11f0-86b9-27ae6b6283df_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyromitra_esculenta_b50d38a0-1c50-11f1-8e22-4d5e3043b5b0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyromitra_esculenta_b50d38a0-1c50-11f1-8e22-4d5e3043b5b0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyromitra_esculenta_b50d38a0-1c50-11f1-8e22-4d5e3043b5b0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyromitra_esculenta_b50d38a0-1c50-11f1-8e22-4d5e3043b5b0_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -343,5 +360,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865611/thumb.jpg"
   }
  ],
- "timestamp": "20260222-153028"
+ "timestamp": "20260322-183659"
 }

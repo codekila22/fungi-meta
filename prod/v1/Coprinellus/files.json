@@ -2,7 +2,7 @@
  "name": "Coprinellus",
  "zhtw": "小鬼傘屬",
  "zhcn": "小鬼伞属",
- "timestamp": "20260222-153028",
+ "timestamp": "20260322-183659",
  "list": [
   {
    "name": "Coprinellus aureogranulatus",
@@ -48,6 +48,12 @@
    "zhtw": "霜覆小鬼傘",
    "zhcn": "霜覆小鬼伞",
    "img": "Coprinellus_velatopruinatus_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Coprinellus velutipes",
+   "zhtw": "絨柄小鬼傘",
+   "zhcn": "绒柄小鬼伞",
+   "img": "Coprinellus_velutipes_d0358f60-2592-11f1-8e55-63487a176c37_1.jpg"
   }
  ]
 }

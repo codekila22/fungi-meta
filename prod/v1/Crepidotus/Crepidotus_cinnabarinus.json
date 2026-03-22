@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "cinnabarinus",
  "date": [
+  "03/20/2026,26140775185606232",
   "06/18/2025,10019856768124664",
   "10/22/2024,8381088348668189",
   "10/18/2024,8345764998867191",
@@ -222,6 +223,22 @@
   {
    "author": "姜淋友",
    "image_src": "Crepidotus_cinnabarinus_578a5a60-9b18-11ef-ad64-b3d00db815c3_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_cinnabarinus_12102c00-24e0-11f1-876a-a5ad09f1c56d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_cinnabarinus_12102c00-24e0-11f1-876a-a5ad09f1c56d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_cinnabarinus_12102c00-24e0-11f1-876a-a5ad09f1c56d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_cinnabarinus_12102c00-24e0-11f1-876a-a5ad09f1c56d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -271,5 +288,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/154147519/thumb.jpeg"
   }
  ],
- "timestamp": "20260222-153028"
+ "timestamp": "20260322-183659"
 }
