@@ -94,7 +94,7 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "wood,rocks",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -123,5 +123,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260322-100711"
+ "timestamp": "20260322-110150"
 }

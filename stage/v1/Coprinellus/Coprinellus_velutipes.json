@@ -58,5 +58,51 @@
  "names_zhcn": [
   "绒柄小鬼伞"
  ],
- "timestamp": "20260322-100711"
+ "meta": {
+  "CapColors": "4294309365,4290822336,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Coprinellus disseminatus,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "簇生小鬼傘,,",
+  "la_zhcn": "簇生小鬼伞,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Coprinellus velutipes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1543287-Coprinellus-velutipes",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260322-110150"
 }

@@ -28,6 +28,41 @@
   "莱氏黑僵菌",
   "莱氏绿僵菌"
  ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "寄主較專一，寄生鱗翅目昆蟲幼蟲，如秋行軍蟲、玉米穗蟲和夜蛾類害蟲。寄主體表覆蓋一層薄且白，絨毛狀、粉狀的菌絲，其上生長許多緻密的分生孢子梗，綠白色至淡綠色，分生孢子梗直立且具隔膜，孢子大小約 2.8-4.8 × 2-3 μm。"
+ },
  "inaturalist": [
   {
    "name": "Metarhizium rileyi",
@@ -36,5 +71,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24095609/thumb.jpeg"
   }
  ],
- "timestamp": "20260322-100711"
+ "timestamp": "20260322-110150"
 }

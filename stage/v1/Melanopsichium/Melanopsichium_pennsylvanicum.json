@@ -60,6 +60,41 @@
   "宾州瘤黑粉菌",
   "宾地瘤黑粉菌"
  ],
+ "meta": {
+  "CapColors": "4286141768,4283244288",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "fruit,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
  "inaturalist": [
   {
    "name": "Melanopsichium pennsylvanicum",
@@ -68,5 +103,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12764647/thumb.jpg"
   }
  ],
- "timestamp": "20260322-100711"
+ "timestamp": "20260322-110150"
 }
