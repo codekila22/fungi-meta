@@ -2,6 +2,7 @@
  "genus": "Aecidium",
  "name": "araliae",
  "date": [
+  "03/20/2026,26140384338978650",
   "03/23/2025,9256872147756467",
   "04/03/2024,7181251958651840",
   "03/30/2024,7163850000392036",
@@ -255,6 +256,26 @@
   {
    "author": "朱艷",
    "image_src": "Aecidium_araliae_f770cdb0-0964-11f0-948b-bb4751cd5816_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aecidium_araliae_a57616a0-24bb-11f1-802e-07613de12b64_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aecidium_araliae_a57616a0-24bb-11f1-802e-07613de12b64_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aecidium_araliae_a57616a0-24bb-11f1-802e-07613de12b64_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aecidium_araliae_a57616a0-24bb-11f1-802e-07613de12b64_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aecidium_araliae_a57616a0-24bb-11f1-802e-07613de12b64_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -294,5 +315,5 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260222-155033"
+ "timestamp": "20260322-094849"
 }

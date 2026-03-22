@@ -2,7 +2,8 @@
  "genus": "Colletotrichum",
  "name": "cf. dracaenophilum",
  "date": [
-  "02/17/2026,25844509678566119"
+  "02/17/2026,25844509678566119",
+  "02/10/2026,25763935949956826"
  ],
  "names_zhtw": [
   "疑似龍血樹刺盤孢"
@@ -49,6 +50,30 @@
   {
    "author": "江志緯",
    "image_src": "Colletotrichum_cf.dracaenophilum_76c64bc0-0faa-11f1-8719-c1ab0b46d25d_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_cf. dracaenophilum_ab75b8c0-0fcc-11f1-8df2-6ffab7739bbf_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_cf. dracaenophilum_ab75b8c0-0fcc-11f1-8df2-6ffab7739bbf_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_cf. dracaenophilum_ab75b8c0-0fcc-11f1-8df2-6ffab7739bbf_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_cf. dracaenophilum_ab75b8c0-0fcc-11f1-8df2-6ffab7739bbf_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_cf. dracaenophilum_ab75b8c0-0fcc-11f1-8df2-6ffab7739bbf_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Colletotrichum_cf. dracaenophilum_ab75b8c0-0fcc-11f1-8df2-6ffab7739bbf_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -97,5 +122,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260222-155033"
+ "timestamp": "20260322-094849"
 }

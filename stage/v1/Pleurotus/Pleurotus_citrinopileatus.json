@@ -2,6 +2,7 @@
  "genus": "Pleurotus",
  "name": "citrinopileatus",
  "date": [
+  "03/12/2026,26069017916115293",
   "08/24/2025,24247085418308561",
   "08/24/2025,24208237992193304",
   "08/24/2025,24405849272432174",
@@ -391,6 +392,22 @@
   {
    "author": "江志緯",
    "image_src": "Pleurotus_citrinopileatus_c930e360-95bc-11f0-8344-c165790a5dc4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pleurotus_citrinopileatus_f97ba330-1f45-11f1-90db-97eac1320def_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pleurotus_citrinopileatus_f97ba330-1f45-11f1-90db-97eac1320def_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pleurotus_citrinopileatus_f97ba330-1f45-11f1-90db-97eac1320def_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pleurotus_citrinopileatus_f97ba330-1f45-11f1-90db-97eac1320def_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -442,5 +459,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17577956/thumb.jpeg"
   }
  ],
- "timestamp": "20260222-155033"
+ "timestamp": "20260322-094849"
 }

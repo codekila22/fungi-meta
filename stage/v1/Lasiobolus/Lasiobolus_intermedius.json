@@ -2,6 +2,7 @@
  "genus": "Lasiobolus",
  "name": "intermedius",
  "date": [
+  "02/11/2026,25880902281593525",
   "03/24/2025,9263369623773386",
   "02/16/2024,7849996598444036",
   "01/30/2024,6918352481608457",
@@ -169,6 +170,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Lasiobolus_intermedius_0acf5ba0-0984-11f0-9ba6-67cd922429ca_11.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lasiobolus_intermedius_8c480b20-10b6-11f1-8765-ebcac88a0ba9_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lasiobolus_intermedius_8c480b20-10b6-11f1-8765-ebcac88a0ba9_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lasiobolus_intermedius_8c480b20-10b6-11f1-8765-ebcac88a0ba9_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lasiobolus_intermedius_8c480b20-10b6-11f1-8765-ebcac88a0ba9_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -218,5 +235,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63214905/thumb.jpg"
   }
  ],
- "timestamp": "20260222-155033"
+ "timestamp": "20260322-094849"
 }

@@ -2,6 +2,7 @@
  "genus": "Favolaschia",
  "name": "gelatina",
  "date": [
+  "03/20/2026,26140705805613170",
   "11/01/2025,24859790510371379",
   "07/04/2025,10021697097940631",
   "07/29/2023,6663000870476954",
@@ -237,6 +238,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Favolaschia_gelatina_ca7a0b60-b7cd-11f0-91f2-9ddcfcc22feb_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_gelatina_35b04450-24b9-11f1-802e-07613de12b64_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_gelatina_35b04450-24b9-11f1-802e-07613de12b64_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_gelatina_35b04450-24b9-11f1-802e-07613de12b64_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_gelatina_35b04450-24b9-11f1-802e-07613de12b64_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_gelatina_35b04450-24b9-11f1-802e-07613de12b64_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_gelatina_35b04450-24b9-11f1-802e-07613de12b64_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_gelatina_35b04450-24b9-11f1-802e-07613de12b64_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -286,5 +315,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/297374520/thumb.jpeg"
   }
  ],
- "timestamp": "20260222-155033"
+ "timestamp": "20260322-094849"
 }

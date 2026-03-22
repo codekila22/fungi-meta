@@ -2,7 +2,7 @@
  "name": "Gymnopus",
  "zhtw": "金錢菌屬",
  "zhcn": "金钱菌属",
- "timestamp": "20260222-155033",
+ "timestamp": "20260322-094849",
  "list": [
   {
    "name": "Gymnopus albipes",
@@ -15,6 +15,12 @@
    "zhtw": "雙型金錢菌",
    "zhcn": "双型金钱菌",
    "img": "Gymnopus_biformis_4ef22400-fa55-11ee-9659-216d70eb19e8_1.jpg"
+  },
+  {
+   "name": "Gymnopus cf. neobrevipes",
+   "zhtw": "疑似新短柄金錢菌",
+   "zhcn": "疑似新短柄金钱菌",
+   "img": "Gymnopus_cf. neobrevipes_465bab50-2437-11f1-9dbc-939e2d9cedc1_1.jpg"
   },
   {
    "name": "Gymnopus confluens",
