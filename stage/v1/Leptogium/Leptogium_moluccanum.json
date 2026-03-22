@@ -54,5 +54,25 @@
  "names_zhcn": [
   "薄刃猫耳衣"
  ],
- "timestamp": "20260322-094849"
+ "inaturalist": [
+  {
+   "name": "Leptogium moluccanum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/596685-Leptogium-moluccanum",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/102525861/thumb.jpg"
+  },
+  {
+   "name": "Leptogium moluccanum var. moluccanum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/600055-Leptogium-moluccanum-moluccanum",
+   "src": ""
+  },
+  {
+   "name": "Leptogium moluccanum var. simplicata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/600056-Leptogium-moluccanum-simplicata",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260322-100711"
 }
