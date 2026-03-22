@@ -7,7 +7,6 @@
   "12/27/2023,6792855564158150",
   "05/18/2023,5990153191095062",
   "05/13/2023,6050638231713224",
-  "04/21/2023,5901697846607264",
   "03/31/2023,5837947306315652",
   "02/21/2023,5719308384846212",
   "04/30/2022,4856387007805025",
@@ -195,11 +194,11 @@
   "Edible": "choice",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Auricularia delicata f. alba,,",
+  "LookAlikes": "Auricularia delicata f. alba,Auricularia sinodelicata,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "皺木耳白色型,,",
-  "la_zhcn": "皱木耳白色型,,"
+  "la_zhtw": "皺木耳白色型,中國皺木耳,",
+  "la_zhcn": "皱木耳白色型,中国皱木耳,"
  },
  "inaturalist": [
   {
@@ -215,5 +214,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/80804257/thumb.jpeg"
   }
  ],
- "timestamp": "20260322-180216"
+ "timestamp": "20260322-181824"
 }

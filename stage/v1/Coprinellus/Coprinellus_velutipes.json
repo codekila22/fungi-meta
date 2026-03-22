@@ -84,14 +84,14 @@
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "wood,ground",
+  "GrowthEnv": "wood,debris",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Coprinellus disseminatus,,",
-  "Note": "",
+  "Note": "華南地區常見的一種小型真菌，2024 年它被確認為一個獨立的物種。在此之前，它常被鑑定為簇生小鬼傘 （C. disseminatus），它是簇生小鬼傘複合群的一員。它的菌柄表面被有細絨毛，基部常具奶油色或鏽棕色的菌絲墊。生長於腐木或腐植土上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "簇生小鬼傘,,",
   "la_zhcn": "簇生小鬼伞,,"
@@ -104,5 +104,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260322-180216"
+ "timestamp": "20260322-181824"
 }

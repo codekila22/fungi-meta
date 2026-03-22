@@ -2,6 +2,7 @@
  "genus": "Collybiopsis",
  "name": "quercophila",
  "date": [
+  "03/06/2026,26162485653435185",
   "09/11/2024,8179542835489409",
   "07/29/2024,7747683458675351",
   "08/12/2022,5146978388745884"
@@ -92,6 +93,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Collybiopsis_quercophila_27e7b600-7dee-11ef-861e-7b41a7e0e034_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Collybiopsis_quercophila_7e233930-25d7-11f1-b9ec-65cdd9d6ddbd_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Collybiopsis_quercophila_7e233930-25d7-11f1-b9ec-65cdd9d6ddbd_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Collybiopsis_quercophila_7e233930-25d7-11f1-b9ec-65cdd9d6ddbd_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Collybiopsis_quercophila_7e233930-25d7-11f1-b9ec-65cdd9d6ddbd_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Collybiopsis_quercophila_7e233930-25d7-11f1-b9ec-65cdd9d6ddbd_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -142,5 +163,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/173614059/thumb.jpeg"
   }
  ],
- "timestamp": "20260322-180216"
+ "timestamp": "20260322-181824"
 }
