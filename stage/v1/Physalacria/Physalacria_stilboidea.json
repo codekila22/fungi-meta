@@ -2,6 +2,7 @@
  "genus": "Physalacria",
  "name": "stilboidea",
  "date": [
+  "03/16/2026,26107677012249383",
   "02/10/2024,6962899487153756",
   "04/30/2021,3733293706781033"
  ],
@@ -82,6 +83,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Physalacria_stilboidea_d28b24b0-c805-11ee-af0d-3d79f8008707_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_stilboidea_950b8690-25a8-11f1-bfcc-eb4b0b7f278a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_stilboidea_950b8690-25a8-11f1-bfcc-eb4b0b7f278a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_stilboidea_950b8690-25a8-11f1-bfcc-eb4b0b7f278a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physalacria_stilboidea_950b8690-25a8-11f1-bfcc-eb4b0b7f278a_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -131,5 +148,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1812638/thumb.jpg"
   }
  ],
- "timestamp": "20260322-111919"
+ "timestamp": "20260322-180216"
 }

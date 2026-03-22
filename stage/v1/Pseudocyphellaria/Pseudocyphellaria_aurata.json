@@ -2,6 +2,7 @@
  "genus": "Pseudocyphellaria",
  "name": "aurata",
  "date": [
+  "03/16/2026,26098515116498906",
   "11/27/2024,8583550035088685",
   "11/05/2023,6633318776778497",
   "05/26/2023,6030606200383094",
@@ -153,6 +154,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Pseudocyphellaria_aurata_87115ef0-ad56-11ef-be77-77522b05b4ef_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudocyphellaria_aurata_8e1011e0-25a7-11f1-bfcc-eb4b0b7f278a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudocyphellaria_aurata_8e1011e0-25a7-11f1-bfcc-eb4b0b7f278a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudocyphellaria_aurata_8e1011e0-25a7-11f1-bfcc-eb4b0b7f278a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudocyphellaria_aurata_8e1011e0-25a7-11f1-bfcc-eb4b0b7f278a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudocyphellaria_aurata_8e1011e0-25a7-11f1-bfcc-eb4b0b7f278a_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pseudocyphellaria_aurata_8e1011e0-25a7-11f1-bfcc-eb4b0b7f278a_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -200,5 +225,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/126392136/thumb.jpeg"
   }
  ],
- "timestamp": "20260322-111919"
+ "timestamp": "20260322-180216"
 }

@@ -269,8 +269,8 @@
   "LookAlikes": "Phaeotremella foliacea,Auricularia delicata,Auricularia villosula",
   "Note": "台灣平地至中海拔山區枯木上皆可見，過去的書籍資料把台灣產的木耳誤植於僅產於歐洲地區的Auricularia auricula-judae。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "茶暗銀耳,皺木耳,短毛木耳",
-  "la_zhcn": "茶暗银耳,皱木耳,短毛木耳"
+  "la_zhtw": "茶暗銀耳,皺木耳複合群,短毛木耳",
+  "la_zhcn": "茶暗银耳,皱木耳复合群,短毛木耳"
  },
  "inaturalist": [
   {
@@ -280,5 +280,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43696040/thumb.jpg"
   }
  ],
- "timestamp": "20260322-111919"
+ "timestamp": "20260322-180216"
 }
