@@ -2,7 +2,8 @@
  "genus": "Auricularia",
  "name": "sinodelicata",
  "date": [
-  "03/21/2026,26152672261083191"
+  "03/21/2026,26152672261083191",
+  "05/13/2023,6050638231713224"
  ],
  "names_zhtw": [
   "中國皺木耳"
@@ -29,6 +30,22 @@
   {
    "author": "陳雅芬",
    "image_src": "Auricularia_sinodelicata_1e92a120-25cf-11f1-bfcc-eb4b0b7f278a_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_sinodelicata_8a284830-25da-11f1-827b-815357d42462_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_sinodelicata_8a284830-25da-11f1-827b-815357d42462_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_sinodelicata_8a284830-25da-11f1-827b-815357d42462_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Auricularia_sinodelicata_8a284830-25da-11f1-827b-815357d42462_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -72,5 +89,13 @@
   "la_zhtw": "皺木耳複合群,,",
   "la_zhcn": "皱木耳复合群,,"
  },
- "timestamp": "20260322-181824"
+ "inaturalist": [
+  {
+   "name": "Auricularia sinodelicata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1464566-Auricularia-sinodelicata",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/388627119/thumb.jpg"
+  }
+ ],
+ "timestamp": "20260322-183659"
 }

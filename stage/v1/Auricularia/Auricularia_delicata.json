@@ -6,7 +6,6 @@
   "01/28/2024,7075849745858729",
   "12/27/2023,6792855564158150",
   "05/18/2023,5990153191095062",
-  "05/13/2023,6050638231713224",
   "03/31/2023,5837947306315652",
   "02/21/2023,5719308384846212",
   "04/30/2022,4856387007805025",
@@ -22,10 +21,6 @@
  "names_en": [],
  "url": "4770455963064797",
  "images": [
-  {
-   "author": "江志緯",
-   "image_src": "Auricularia_delicata_09099140-02a7-11ee-a66c-f74f439981b1_4.jpg"
-  },
   {
    "author": "陳麗紅",
    "image_src": "Auricularia_delicata_4_CC BY-NC_陳麗紅.jpg"
@@ -77,18 +72,6 @@
   {
    "author": "James Ho",
    "image_src": "Auricularia_delicata_2_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Auricularia_delicata_09099140-02a7-11ee-a66c-f74f439981b1_1.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Auricularia_delicata_09099140-02a7-11ee-a66c-f74f439981b1_2.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Auricularia_delicata_09099140-02a7-11ee-a66c-f74f439981b1_3.jpg"
   },
   {
    "author": "James Ho",
@@ -214,5 +197,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/80804257/thumb.jpeg"
   }
  ],
- "timestamp": "20260322-181824"
+ "timestamp": "20260322-183659"
 }

@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "diplazii",
  "date": [
+  "03/22/2026,26163012523382498",
   "04/27/2024,7276805755763126",
   "02/04/2024,6954251594685212",
   "01/17/2024,6870632069713832"
@@ -91,6 +92,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_diplazii_0ef88e80-04ef-11ef-8513-3beff2f081f8_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_diplazii_2f7808d0-25da-11f1-827b-815357d42462_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_diplazii_2f7808d0-25da-11f1-827b-815357d42462_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_diplazii_2f7808d0-25da-11f1-827b-815357d42462_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_diplazii_2f7808d0-25da-11f1-827b-815357d42462_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_diplazii_2f7808d0-25da-11f1-827b-815357d42462_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -140,5 +161,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260322-181824"
+ "timestamp": "20260322-183659"
 }
