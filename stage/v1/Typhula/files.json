@@ -2,13 +2,19 @@
  "name": "Typhula",
  "zhtw": "核瑚菌屬",
  "zhcn": "核瑚菌属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260403-111224",
  "list": [
   {
    "name": "Typhula aff. caricina",
    "zhtw": "莎草核瑚菌的相似種",
    "zhcn": "莎草核瑚菌的相似种",
    "img": "Typhula_aff. caricina_e4e5c200-bfd4-11f0-ba8e-5f131e52296a_1.jpg"
+  },
+  {
+   "name": "Typhula aff. quisquiliaris",
+   "zhtw": "蕨生枝瑚菌之相似種",
+   "zhcn": "蕨生枝瑚菌之相似种",
+   "img": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_1.jpg"
   },
   {
    "name": "Typhula juncea",

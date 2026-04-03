@@ -2,6 +2,7 @@
  "genus": "Physarum",
  "name": "rigidum",
  "date": [
+  "03/28/2026,26233023629714720",
   "05/17/2025,9715351305241880",
   "10/01/2024,8349905288453162",
   "02/08/2023,5674190889357962"
@@ -163,6 +164,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Physarum_rigidum_a5a79270-4415-11f0-ae69-f97f7e69c8c8_18.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_rigidum_410ebf80-2b11-11f1-84fe-4b993b147956_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_rigidum_410ebf80-2b11-11f1-84fe-4b993b147956_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_rigidum_410ebf80-2b11-11f1-84fe-4b993b147956_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_rigidum_410ebf80-2b11-11f1-84fe-4b993b147956_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_rigidum_410ebf80-2b11-11f1-84fe-4b993b147956_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_rigidum_410ebf80-2b11-11f1-84fe-4b993b147956_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Physarum_rigidum_410ebf80-2b11-11f1-84fe-4b993b147956_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -211,5 +240,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/305351553/thumb.jpg"
   }
  ],
- "timestamp": "20260322-183659"
+ "timestamp": "20260403-111224"
 }

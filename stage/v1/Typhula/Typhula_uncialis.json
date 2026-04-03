@@ -2,6 +2,7 @@
  "genus": "Typhula",
  "name": "uncialis",
  "date": [
+  "03/25/2026,26234887372861679",
   "01/12/2025,8835096946600658",
   "02/04/2024,6937864876323884"
  ],
@@ -50,6 +51,30 @@
   {
    "author": "徐秀團",
    "image_src": "Typhula_uncialis_15e1e4b0-d25a-11ef-952c-fbf625bf95d3_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_uncialis_74959d20-2b56-11f1-bca4-e75908f2eff4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_uncialis_74959d20-2b56-11f1-bca4-e75908f2eff4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_uncialis_74959d20-2b56-11f1-bca4-e75908f2eff4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_uncialis_74959d20-2b56-11f1-bca4-e75908f2eff4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_uncialis_74959d20-2b56-11f1-bca4-e75908f2eff4_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_uncialis_74959d20-2b56-11f1-bca4-e75908f2eff4_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -99,5 +124,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/151505025/thumb.jpg"
   }
  ],
- "timestamp": "20260322-183659"
+ "timestamp": "20260403-111224"
 }
