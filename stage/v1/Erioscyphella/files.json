@@ -2,7 +2,7 @@
  "name": "Erioscyphella",
  "zhtw": "粒毛盤菌屬",
  "zhcn": "粒毛盘菌属",
- "timestamp": "20260424-181843",
+ "timestamp": "20260424-213427",
  "list": [
   {
    "name": "Erioscyphella ailaoensis",
@@ -15,6 +15,12 @@
    "zhtw": "彎孢粒毛盤菌",
    "zhcn": "弯孢粒毛盘菌",
    "img": "Erioscyphella_curvispora_e153bc50-1ddb-11f0-bc52-29550f56ff6d_1.jpg"
+  },
+  {
+   "name": "Erioscyphella lunata",
+   "zhtw": "月狀粒毛盤菌",
+   "zhcn": "月状粒毛盘菌",
+   "img": "Erioscyphella_lunata_cfbe98a0-3fd3-11f1-92a7-41067c4fc4f6_1.jpg"
   },
   {
    "name": "Erioscyphella sclerotii",

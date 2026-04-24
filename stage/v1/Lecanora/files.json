@@ -2,7 +2,7 @@
  "name": "Lecanora",
  "zhtw": "茶漬衣屬",
  "zhcn": "茶渍衣属",
- "timestamp": "20260424-181843",
+ "timestamp": "20260424-213427",
  "list": [
   {
    "name": "Lecanora cenisia",
@@ -27,6 +27,12 @@
    "zhtw": "癩屑茶漬衣",
    "zhcn": "癞屑茶渍衣",
    "img": "Lecanora_leprosa_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Lecanora marginata",
+   "zhtw": "飾緣茶漬衣",
+   "zhcn": "饰缘茶渍衣",
+   "img": "Lecanora_marginata_71a79220-3fd4-11f1-92a7-41067c4fc4f6_1.jpg"
   }
  ]
 }
