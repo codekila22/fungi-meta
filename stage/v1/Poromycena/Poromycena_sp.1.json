@@ -2,6 +2,7 @@
  "genus": "Poromycena",
  "name": "sp.1",
  "date": [
+  "04/09/2026,26371497302534018",
   "12/16/2025,25268314546185638",
   "06/08/2024,7473713306072369",
   "04/22/2024,7254525641324471",
@@ -12,6 +13,7 @@
   "08/13/2021,4035698339873900",
   "02/15/2021,3520530511390688",
   "09/10/2020,3100735406703536",
+  "10/21/2018,3429102347200172",
   "12/10/2017,1508864432557316"
  ],
  "names_zhtw": [
@@ -111,6 +113,50 @@
   {
    "author": "陳麗紅",
    "image_src": "Poromycena_sp.1_2efc2bb0-de55-11f0-9d89-61eaea8f0a1d_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Poromycena_sp.1_0b04eeb0-341b-11f1-b3ea-2792ecee302d_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Poromycena_sp.1_0b04eeb0-341b-11f1-b3ea-2792ecee302d_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Poromycena_sp.1_0b04eeb0-341b-11f1-b3ea-2792ecee302d_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Poromycena_sp.1_0b04eeb0-341b-11f1-b3ea-2792ecee302d_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Poromycena_sp.1_0b04eeb0-341b-11f1-b3ea-2792ecee302d_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Poromycena_sp.1_0b04eeb0-341b-11f1-b3ea-2792ecee302d_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Poromycena_sp.1_0b04eeb0-341b-11f1-b3ea-2792ecee302d_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Poromycena_sp.1_fac03ca0-3fbc-11f1-8e81-bba2a97b1c78_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Poromycena_sp.1_fac03ca0-3fbc-11f1-8e81-bba2a97b1c78_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Poromycena_sp.1_fac03ca0-3fbc-11f1-8e81-bba2a97b1c78_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Poromycena_sp.1_fac03ca0-3fbc-11f1-8e81-bba2a97b1c78_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -151,5 +197,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260403-111224"
+ "timestamp": "20260424-181843"
 }

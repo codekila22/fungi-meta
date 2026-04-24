@@ -2,13 +2,13 @@
  "genus": "Byssonectria",
  "name": "fusispora",
  "date": [
-  "01/01/0001"
+  "04/02/2026,26291129413904141"
  ],
  "names_zhtw": [
   "梭孢毯盤菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/654",
+ "url": "26291129413904141",
  "images": [
   {
    "author": "",
@@ -37,6 +37,38 @@
   {
    "author": "",
    "image_src": "Byssonectria_fusispora_7_CC BY-NC.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Byssonectria_fusispora_744444c0-3d5d-11f1-9b8a-1bb5653731af_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Byssonectria_fusispora_744444c0-3d5d-11f1-9b8a-1bb5653731af_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Byssonectria_fusispora_744444c0-3d5d-11f1-9b8a-1bb5653731af_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Byssonectria_fusispora_744444c0-3d5d-11f1-9b8a-1bb5653731af_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Byssonectria_fusispora_744444c0-3d5d-11f1-9b8a-1bb5653731af_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Byssonectria_fusispora_744444c0-3d5d-11f1-9b8a-1bb5653731af_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Byssonectria_fusispora_744444c0-3d5d-11f1-9b8a-1bb5653731af_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Byssonectria_fusispora_744444c0-3d5d-11f1-9b8a-1bb5653731af_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -85,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/70886678/thumb.jpeg"
   }
  ],
- "timestamp": "20260403-111224"
+ "timestamp": "20260424-181843"
 }

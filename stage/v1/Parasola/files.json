@@ -2,13 +2,19 @@
  "name": "Parasola",
  "zhtw": "超鬼傘屬",
  "zhcn": "超鬼伞属",
- "timestamp": "20260403-111224",
+ "timestamp": "20260424-181843",
  "list": [
   {
    "name": "Parasola auricoma",
    "zhtw": "金毛超鬼傘",
    "zhcn": "金毛超鬼伞",
    "img": "Parasola_auricoma_1_CC BY-NC_Joseph Yeh.jpg"
+  },
+  {
+   "name": "Parasola cf. crataegi",
+   "zhtw": "疑似山楂超鬼傘",
+   "zhcn": "疑似山楂超鬼伞",
+   "img": "Parasola_cf. crataegi_80461a10-3fbe-11f1-8e81-bba2a97b1c78_1.jpg"
   },
   {
    "name": "Parasola lactea",

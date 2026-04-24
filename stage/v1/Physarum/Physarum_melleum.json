@@ -2,6 +2,7 @@
  "genus": "Physarum",
  "name": "melleum",
  "date": [
+  "04/16/2026,26445819425101805",
   "06/07/2025,9866504190126590",
   "10/16/2024,8333475943429430",
   "08/15/2024,7868389499938079",
@@ -264,6 +265,30 @@
   {
    "author": "Sunny Wang",
    "image_src": "Physarum_melleum_d3416f90-7b4b-11f0-82e5-db829d3cb073_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_melleum_3f131540-3b25-11f1-aedc-e3e1e8175744_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_melleum_3f131540-3b25-11f1-aedc-e3e1e8175744_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_melleum_3f131540-3b25-11f1-aedc-e3e1e8175744_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_melleum_3f131540-3b25-11f1-aedc-e3e1e8175744_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_melleum_3f131540-3b25-11f1-aedc-e3e1e8175744_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_melleum_3f131540-3b25-11f1-aedc-e3e1e8175744_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -311,5 +336,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5773315/thumb.jpeg"
   }
  ],
- "timestamp": "20260403-111224"
+ "timestamp": "20260424-181843"
 }
