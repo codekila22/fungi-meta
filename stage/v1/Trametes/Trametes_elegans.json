@@ -173,5 +173,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260424-213427"
+ "inaturalist": [
+  {
+   "name": "Trametes elegans",
+   "cname": "white maze polypore",
+   "url": "https://www.inaturalist.org/taxa/128053",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6108201/square.jpeg"
+  }
+ ],
+ "timestamp": "20260425-095902"
 }

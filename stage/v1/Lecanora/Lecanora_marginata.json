@@ -82,5 +82,13 @@
  "names_zhcn": [
   "饰缘茶渍衣"
  ],
- "timestamp": "20260424-213427"
+ "inaturalist": [
+  {
+   "name": "Lecanora marginata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/222896",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14656264/square.jpeg"
+  }
+ ],
+ "timestamp": "20260425-095902"
 }

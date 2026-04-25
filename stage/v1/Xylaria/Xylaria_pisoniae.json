@@ -147,5 +147,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260424-213427"
+ "inaturalist": [
+  {
+   "name": "Xylaria pisoniae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1483342",
+   "src": "https://static.inaturalist.org/photos/449425531/square.jpeg"
+  }
+ ],
+ "timestamp": "20260425-095902"
 }

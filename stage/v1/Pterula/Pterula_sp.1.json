@@ -2,6 +2,7 @@
  "genus": "Pterula",
  "name": "sp.1",
  "date": [
+  "04/22/2026,26526841383666275",
   "01/03/2026,25438694305814327",
   "06/25/2024,7562164490560583",
   "09/28/2023,6453429848100725",
@@ -132,6 +133,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Pterula_sp.1_b8305970-ec5f-11f0-b5f4-6b48d2165b8c_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pterula_sp.1_039fdd60-403c-11f1-a6ab-6117c22fbf9f_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pterula_sp.1_039fdd60-403c-11f1-a6ab-6117c22fbf9f_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pterula_sp.1_039fdd60-403c-11f1-a6ab-6117c22fbf9f_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pterula_sp.1_039fdd60-403c-11f1-a6ab-6117c22fbf9f_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pterula_sp.1_039fdd60-403c-11f1-a6ab-6117c22fbf9f_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pterula_sp.1_039fdd60-403c-11f1-a6ab-6117c22fbf9f_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pterula_sp.1_039fdd60-403c-11f1-a6ab-6117c22fbf9f_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -172,5 +201,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260424-213427"
+ "timestamp": "20260425-095902"
 }

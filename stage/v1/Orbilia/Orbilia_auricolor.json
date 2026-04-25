@@ -2,6 +2,7 @@
  "genus": "Orbilia",
  "name": "auricolor",
  "date": [
+  "04/21/2026,26511509515199462",
   "01/04/2026,25767580239592397",
   "07/09/2024,7935356729908022",
   "01/20/2024,6917873768322995",
@@ -176,6 +177,22 @@
   {
    "author": "江志緯",
    "image_src": "Orbilia_auricolor_d9df2c60-0800-11f1-8552-8fb98d00ed5b_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Orbilia_auricolor_d60ee650-402e-11f1-a6ab-6117c22fbf9f_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Orbilia_auricolor_d60ee650-402e-11f1-a6ab-6117c22fbf9f_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Orbilia_auricolor_d60ee650-402e-11f1-a6ab-6117c22fbf9f_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Orbilia_auricolor_d60ee650-402e-11f1-a6ab-6117c22fbf9f_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -224,5 +241,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156839862/thumb.jpg"
   }
  ],
- "timestamp": "20260424-213427"
+ "timestamp": "20260425-095902"
 }
