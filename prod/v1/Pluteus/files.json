@@ -2,8 +2,14 @@
  "name": "Pluteus",
  "zhtw": "光柄菇屬",
  "zhcn": "光柄菇属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
+  {
+   "name": "Pluteus aff. ornatus",
+   "zhtw": "裝飾光柄菇的相似種",
+   "zhcn": "装饰光柄菇的相似种",
+   "img": "Pluteus_aff. ornatus_288c08e0-3fc1-11f1-8e81-bba2a97b1c78_1.jpg"
+  },
   {
    "name": "Pluteus aff. umbrosus",
    "zhtw": "皺蓋光柄菇的相似種",

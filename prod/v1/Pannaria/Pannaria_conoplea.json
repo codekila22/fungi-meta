@@ -2,7 +2,8 @@
  "genus": "Pannaria",
  "name": "conoplea",
  "date": [
-  "01/01/0001"
+  "08/30/2025,25993483963668689",
+  "03/01/2021,3602052123238526"
  ],
  "names_zhtw": [
   "綿毛鱗葉衣"
@@ -29,6 +30,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Pannaria_conoplea_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pannaria_conoplea_fa16bdc0-3fde-11f1-92a7-41067c4fc4f6_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pannaria_conoplea_fa16bdc0-3fde-11f1-92a7-41067c4fc4f6_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pannaria_conoplea_fa16bdc0-3fde-11f1-92a7-41067c4fc4f6_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pannaria_conoplea_fa16bdc0-3fde-11f1-92a7-41067c4fc4f6_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pannaria_conoplea_fa16bdc0-3fde-11f1-92a7-41067c4fc4f6_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pannaria_conoplea_fa16bdc0-3fde-11f1-92a7-41067c4fc4f6_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pannaria_conoplea_fa16bdc0-3fde-11f1-92a7-41067c4fc4f6_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pannaria_conoplea_fa16bdc0-3fde-11f1-92a7-41067c4fc4f6_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Pannaria_conoplea_fa16bdc0-3fde-11f1-92a7-41067c4fc4f6_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -76,5 +113,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8999617/thumb.jpg"
   }
  ],
- "timestamp": "20260322-183659"
+ "timestamp": "20260425-104540"
 }

@@ -2,7 +2,7 @@
  "name": "Rhytidhysteron",
  "zhtw": "裂菌屬",
  "zhcn": "裂菌属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
   {
    "name": "Rhytidhysteron columbiense",
@@ -27,6 +27,12 @@
    "zhtw": "紅皺裂菌",
    "zhcn": "红皱裂菌",
    "img": "Rhytidhysteron_rufulum_0bdbadc0-c0f9-11ee-be5f-d3f3a59ca42c_4.jpg"
+  },
+  {
+   "name": "Rhytidhysteron subrufulum",
+   "zhtw": "亞紅皺裂菌",
+   "zhcn": "亚红皱裂菌",
+   "img": "Rhytidhysteron_subrufulum_6a0281e0-3fd1-11f1-92a7-41067c4fc4f6_1.jpg"
   },
   {
    "name": "Rhytidhysteron tectonae",

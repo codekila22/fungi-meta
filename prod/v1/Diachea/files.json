@@ -2,8 +2,14 @@
  "name": "Diachea",
  "zhtw": "白柄黏菌屬",
  "zhcn": "白柄黏菌属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
+  {
+   "name": "Diachea aff. aurantipes",
+   "zhtw": "橙柄白柄黏菌相似種",
+   "zhcn": "橙柄白柄黏菌相似种",
+   "img": "Diachea_aurantipes_cb042120-3bde-11f1-ad52-afbc234cb4a7_1.jpg"
+  },
   {
    "name": "Diachea leucopodia",
    "zhtw": "白柄黏菌",

@@ -2,8 +2,14 @@
  "name": "Entoloma",
  "zhtw": "粉褶菌屬",
  "zhcn": "粉褶菌属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
+  {
+   "name": "Entoloma aff. perumbilicatum",
+   "zhtw": "深臍粉褶菌的相似種",
+   "zhcn": "深脐粉褶菌的相似种",
+   "img": "Entoloma_aff. perumbilicatum_ac1ac8e0-3fd0-11f1-92a7-41067c4fc4f6_1.jpg"
+  },
   {
    "name": "Entoloma aff. quadratum",
    "zhtw": "鮭橘粉褶菌",

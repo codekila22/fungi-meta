@@ -2,7 +2,7 @@
  "name": "Xylaria",
  "zhtw": "炭角菌屬",
  "zhcn": "炭角菌属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
   {
    "name": "Xylaria aff. grammica",
@@ -162,6 +162,12 @@
    "zhtw": "卵形炭角菌",
    "zhcn": "卵形炭角菌",
    "img": "Xylaria_obovata_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Xylaria pisoniae",
+   "zhtw": "皮索尼亞炭角菌",
+   "zhcn": "皮索尼亚炭角菌",
+   "img": "Xyaria_pisoniae_8d67b3c0-2b14-11f1-84fe-4b993b147956_1.jpg"
   },
   {
    "name": "Xylaria polymorpha",

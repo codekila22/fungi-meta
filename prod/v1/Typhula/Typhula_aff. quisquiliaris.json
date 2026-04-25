@@ -1,0 +1,102 @@
+{
+ "genus": "Typhula",
+ "name": "aff. quisquiliaris",
+ "date": [
+  "03/31/2026,26245344201815996"
+ ],
+ "names_zhtw": [
+  "蕨生枝瑚菌之相似種"
+ ],
+ "names_en": [],
+ "url": "26245344201815996",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_aff. quisquiliaris_24adaa10-2ce5-11f1-92fa-8387b15fb60c_10.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "蕨生枝瑚菌之相似种"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Typhula quisquiliaris",
+   "cname": "bracken club",
+   "url": "https://www.inaturalist.org/taxa/873716",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/233491231/square.jpg"
+  }
+ ],
+ "timestamp": "20260425-104540"
+}

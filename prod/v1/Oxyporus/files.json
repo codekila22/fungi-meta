@@ -2,7 +2,7 @@
  "name": "Oxyporus",
  "zhtw": "銳孔菌屬",
  "zhcn": "锐孔菌属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
   {
    "name": "Oxyporus cuneatus",
@@ -14,6 +14,9 @@
    "name": "Oxyporus latemarginatus",
    "zhtw": "寬邊銳孔菌",
    "zhcn": "宽边锐孔菌",
+   "current": "Irpex latemarginatus",
+   "current_zhtw": "寬邊耙菌",
+   "current_zhcn": "宽边耙菌",
    "img": "Oxyporus_latemarginatus_ff181600-915d-11f0-a722-dbd522113551_3.jpg"
   }
  ]

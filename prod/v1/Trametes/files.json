@@ -2,7 +2,7 @@
  "name": "Trametes",
  "zhtw": "栓菌屬",
  "zhcn": "栓菌属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
   {
    "name": "Trametes betulina",
@@ -18,6 +18,12 @@
    "zhtw": "朱紅栓菌",
    "zhcn": "朱红栓菌",
    "img": "Pycnoporus_cinnabarinus_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Trametes elegans",
+   "zhtw": "優美栓菌",
+   "zhcn": "优美栓菌",
+   "img": "Lenzites_elegans_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Trametes feei",

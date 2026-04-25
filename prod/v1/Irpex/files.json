@@ -2,7 +2,7 @@
  "name": "Irpex",
  "zhtw": "耙菌屬",
  "zhcn": "耙菌属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
   {
    "name": "Irpex flavus",
@@ -18,6 +18,12 @@
    "zhtw": "乳白耙菌",
    "zhcn": "乳白耙菌",
    "img": "Irpex_lacteus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Irpex latemarginatus",
+   "zhtw": "寬邊耙菌",
+   "zhcn": "宽边耙菌",
+   "img": "Oxyporus_latemarginatus_ff181600-915d-11f0-a722-dbd522113551_3.jpg"
   }
  ]
 }

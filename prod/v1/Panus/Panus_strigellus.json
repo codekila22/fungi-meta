@@ -2,6 +2,7 @@
  "genus": "Panus",
  "name": "strigellus",
  "date": [
+  "03/29/2026,26252280657789017",
   "02/09/2024,6966260783484293",
   "04/26/2023,5918172008293181"
  ],
@@ -118,6 +119,38 @@
   {
    "author": "江志緯",
    "image_src": "Panus_strigellus_b0fbc380-c8a6-11ee-af92-e563415c9890_21.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_strigellus_69af5f30-3fd9-11f1-92a7-41067c4fc4f6_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_strigellus_69af5f30-3fd9-11f1-92a7-41067c4fc4f6_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_strigellus_69af5f30-3fd9-11f1-92a7-41067c4fc4f6_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_strigellus_69af5f30-3fd9-11f1-92a7-41067c4fc4f6_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_strigellus_69af5f30-3fd9-11f1-92a7-41067c4fc4f6_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_strigellus_69af5f30-3fd9-11f1-92a7-41067c4fc4f6_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_strigellus_69af5f30-3fd9-11f1-92a7-41067c4fc4f6_7.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Panus_strigellus_69af5f30-3fd9-11f1-92a7-41067c4fc4f6_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -169,5 +202,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89517534/thumb.jpg"
   }
  ],
- "timestamp": "20260322-183659"
+ "timestamp": "20260425-104540"
 }

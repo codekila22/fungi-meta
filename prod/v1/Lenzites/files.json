@@ -2,7 +2,7 @@
  "name": "Lenzites",
  "zhtw": "褶孔菌屬",
  "zhcn": "褶孔菌属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
   {
    "name": "Lenzites acuta",
@@ -23,6 +23,9 @@
    "name": "Lenzites elegans",
    "zhtw": "優美褶孔菌",
    "zhcn": "优美褶孔菌",
+   "current": "Trametes elegans",
+   "current_zhtw": "優美栓菌",
+   "current_zhcn": "优美栓菌",
    "img": "Lenzites_elegans_1_CC BY-NC_向高世.jpg"
   }
  ]

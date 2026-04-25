@@ -2,13 +2,19 @@
  "name": "Cerotelium",
  "zhtw": "蠟銹菌屬",
  "zhcn": "蜡锈菌属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
   {
    "name": "Cerotelium fici",
    "zhtw": "無花果蠟銹菌",
    "zhcn": "无花果蜡锈菌",
    "img": "Cerotelium_fici_f1b313d0-1b0b-11ef-8f40-dfc01b4406c7_1.jpg"
+  },
+  {
+   "name": "Cerotelium malvicola",
+   "zhtw": "錦葵銹病菌",
+   "zhcn": "锦葵锈病菌",
+   "img": "Cerotelium_malvicola_59b8ed90-3fdd-11f1-92a7-41067c4fc4f6_1.jpg"
   }
  ]
 }

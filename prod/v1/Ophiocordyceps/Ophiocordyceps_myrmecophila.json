@@ -262,6 +262,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -271,8 +272,10 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": ""
+  "LookAlikes": "Ophiocordyceps buquetii,,",
+  "Note": "",
+  "la_zhtw": "捧束蛇形蟲草,,",
+  "la_zhcn": "捧束蛇形虫草,,"
  },
  "inaturalist": [
   {
@@ -288,5 +291,5 @@
    "src": "https://static.inaturalist.org/photos/189310415/thumb.jpeg"
   }
  ],
- "timestamp": "20260322-183659"
+ "timestamp": "20260425-104540"
 }

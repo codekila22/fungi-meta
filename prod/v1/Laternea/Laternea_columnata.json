@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "04/11/2026,26393214913695590",
   "05/04/2025,9542573869186292",
   "04/08/2020,2708988032544944"
  ],
@@ -62,6 +63,18 @@
   {
    "author": "James Ho",
    "image_src": "Laternea_columnata_582096c0-293d-11f0-8f10-adf4d028fc05_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Laternea_columnata_f19a29d0-3736-11f1-9c1c-d336fb174be5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Laternea_columnata_f19a29d0-3736-11f1-9c1c-d336fb174be5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Laternea_columnata_f19a29d0-3736-11f1-9c1c-d336fb174be5_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -114,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/67014835/thumb.jpeg"
   }
  ],
- "timestamp": "20260322-183659"
+ "timestamp": "20260425-104540"
 }

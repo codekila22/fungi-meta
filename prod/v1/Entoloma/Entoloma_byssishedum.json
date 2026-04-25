@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "byssishedum",
  "date": [
+  "03/29/2026,26313829611634121",
   "12/31/2025,25381439364873155",
   "07/12/2025,10096408470469493"
  ],
@@ -70,6 +71,46 @@
   {
    "author": "陳麗紅",
    "image_src": "Entoloma_byssishedum_9167cc70-e7ae-11f0-99e3-911e65a1b17a_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_byssishedum_f35ffd70-302a-11f1-979e-35efd96d660e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_byssishedum_f35ffd70-302a-11f1-979e-35efd96d660e_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_byssishedum_f35ffd70-302a-11f1-979e-35efd96d660e_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_byssishedum_f35ffd70-302a-11f1-979e-35efd96d660e_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_byssishedum_f35ffd70-302a-11f1-979e-35efd96d660e_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_byssishedum_f35ffd70-302a-11f1-979e-35efd96d660e_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_byssishedum_f35ffd70-302a-11f1-979e-35efd96d660e_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_byssishedum_f35ffd70-302a-11f1-979e-35efd96d660e_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_byssishedum_f35ffd70-302a-11f1-979e-35efd96d660e_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_byssishedum_f35ffd70-302a-11f1-979e-35efd96d660e_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -111,5 +152,25 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260322-183659"
+ "inaturalist": [
+  {
+   "name": "Entoloma byssisedum",
+   "cname": "oysterling pinkgill",
+   "url": "https://www.inaturalist.org/taxa/332483",
+   "src": "https://static.inaturalist.org/photos/3648226/square.jpg"
+  },
+  {
+   "name": "Entoloma byssisedum microsporum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1605116",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/336559858/square.jpg"
+  },
+  {
+   "name": "Entoloma byssisedum byssisedum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1638923",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260425-104540"
 }

@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "04/19/2026,26503321992684881",
   "02/03/2026,25690606053956483",
   "12/07/2025,25210928138590946",
   "12/07/2025,25219891117694648",
@@ -221,6 +222,14 @@
   {
    "author": "陳麗紅",
    "image_src": "Ophiocordyceps_buquetii_56541ed0-00ff-11f1-baa9-a7cbe4131f37_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Ophiocordyceps_buquetii_39127d50-3d7f-11f1-bb4c-a346c524ab0c_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Ophiocordyceps_buquetii_39127d50-3d7f-11f1-bb4c-a346c524ab0c_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -248,6 +257,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -257,8 +267,10 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": ""
+  "LookAlikes": "Ophiocordyceps myrmecophila,,",
+  "Note": "",
+  "la_zhtw": "蟻蛇形蟲草,,",
+  "la_zhcn": "蚁蛇形虫草,,"
  },
  "inaturalist": [
   {
@@ -268,5 +280,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163058177/thumb.jpg"
   }
  ],
- "timestamp": "20260322-183659"
+ "timestamp": "20260425-104540"
 }

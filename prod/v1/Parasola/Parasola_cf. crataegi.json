@@ -1,0 +1,92 @@
+{
+ "genus": "Parasola",
+ "name": "cf. crataegi",
+ "date": [
+  "04/18/2026,26470028682680879"
+ ],
+ "names_zhtw": [
+  "疑似山楂超鬼傘"
+ ],
+ "names_en": [],
+ "url": "26470028682680879",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_cf. crataegi_80461a10-3fbe-11f1-8e81-bba2a97b1c78_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_cf. crataegi_80461a10-3fbe-11f1-8e81-bba2a97b1c78_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_cf. crataegi_80461a10-3fbe-11f1-8e81-bba2a97b1c78_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_cf. crataegi_80461a10-3fbe-11f1-8e81-bba2a97b1c78_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_cf. crataegi_80461a10-3fbe-11f1-8e81-bba2a97b1c78_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_cf. crataegi_80461a10-3fbe-11f1-8e81-bba2a97b1c78_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_cf. crataegi_80461a10-3fbe-11f1-8e81-bba2a97b1c78_7.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似山楂超鬼伞"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "debris,ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Parasola plicatilis,,",
+  "Note": "它和褶紋超鬼傘(Parasola plicatilis)很相似，但孢子較小，近菱形，側面杏仁形，芽孔偏心，且柄基部有毛。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "褶紋超鬼傘,,",
+  "la_zhcn": "褶纹超鬼伞,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Parasola crataegi",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1367221",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/182831566/square.jpeg"
+  }
+ ],
+ "timestamp": "20260425-104540"
+}

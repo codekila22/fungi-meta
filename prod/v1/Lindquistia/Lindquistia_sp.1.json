@@ -2,6 +2,7 @@
  "genus": "Lindquistia",
  "name": "sp.1",
  "date": [
+  "04/13/2026,26410500338633714",
   "05/01/2025,9514364248673921",
   "06/23/2024,7546369472140085",
   "04/24/2023,5921506654626383",
@@ -94,6 +95,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Lindquistia_sp.1_60e9f650-27cd-11f0-b518-ebdd2909c166_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lindquistia_sp.1_a31b0e20-371b-11f1-9c1c-d336fb174be5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lindquistia_sp.1_a31b0e20-371b-11f1-9c1c-d336fb174be5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lindquistia_sp.1_a31b0e20-371b-11f1-9c1c-d336fb174be5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lindquistia_sp.1_a31b0e20-371b-11f1-9c1c-d336fb174be5_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -135,5 +152,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260322-183659"
+ "timestamp": "20260425-104540"
 }

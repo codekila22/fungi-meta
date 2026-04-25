@@ -2,7 +2,7 @@
  "name": "Lycoperdon",
  "zhtw": "馬勃屬",
  "zhcn": "马勃属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
   {
    "name": "Lycoperdon bispinosum",
@@ -39,6 +39,12 @@
    "zhtw": "網紋馬勃",
    "zhcn": "网纹马勃",
    "img": "Lycoperdon_perlatum_2_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "name": "Lycoperdon purpurascens",
+   "zhtw": "紫色摩根氏馬勃",
+   "zhcn": "紫色摩根氏马勃",
+   "img": "Lycoperdon_purpurascens_d853d970-3fcf-11f1-92a7-41067c4fc4f6_1.jpg"
   },
   {
    "name": "Lycoperdon pyriforme",

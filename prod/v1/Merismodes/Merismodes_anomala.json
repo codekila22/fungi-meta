@@ -2,6 +2,7 @@
  "genus": "Merismodes",
  "name": "anomala",
  "date": [
+  "04/06/2026,26338127449204337",
   "11/24/2024,8744619125648441",
   "05/22/2024,7436235803153453",
   "03/19/2024,7117489548361415",
@@ -136,6 +137,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Merismodes_anomala_4695e9f0-c34e-11ef-8aaa-e766e9f605cd_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_5a16c9f0-31c4-11f1-a983-372b330060a6_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_5a16c9f0-31c4-11f1-a983-372b330060a6_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_5a16c9f0-31c4-11f1-a983-372b330060a6_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_5a16c9f0-31c4-11f1-a983-372b330060a6_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_5a16c9f0-31c4-11f1-a983-372b330060a6_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_5a16c9f0-31c4-11f1-a983-372b330060a6_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Merismodes_anomala_5a16c9f0-31c4-11f1-a983-372b330060a6_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -184,5 +213,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/91718461/thumb.jpg"
   }
  ],
- "timestamp": "20260322-183659"
+ "timestamp": "20260425-104540"
 }

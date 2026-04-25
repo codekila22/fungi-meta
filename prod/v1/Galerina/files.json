@@ -2,7 +2,7 @@
  "name": "Galerina",
  "zhtw": "盔孢傘屬",
  "zhcn": "盔孢伞属",
- "timestamp": "20260322-183659",
+ "timestamp": "20260425-104540",
  "list": [
   {
    "name": "Galerina helvoliceps",
@@ -27,6 +27,12 @@
    "zhtw": "紋緣盔孢傘",
    "zhcn": "纹缘盔孢伞",
    "img": "Galerina_marginata_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Galerina papillata",
+   "zhtw": "乳突盔孢傘",
+   "zhcn": "乳突盔孢伞",
+   "img": "Galerina_papillata_116ca7f0-3fda-11f1-92a7-41067c4fc4f6_1.jpg"
   },
   {
    "name": "Galerina patagonica",
