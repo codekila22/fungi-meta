@@ -158,6 +158,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "35,100",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
@@ -167,9 +168,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Parasola cf. crataegi,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "疑似山楂超鬼傘,,",
+  "la_zhcn": "疑似山楂超鬼伞,,"
  },
  "inaturalist": [
   {
@@ -185,5 +188,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260425-095902"
+ "timestamp": "20260425-104540"
 }

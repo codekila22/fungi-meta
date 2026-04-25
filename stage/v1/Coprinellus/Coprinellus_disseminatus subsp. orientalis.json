@@ -42,5 +42,51 @@
  "names_zhcn": [
   "簇生小鬼伞东方亚种"
  ],
- "timestamp": "20260425-095902"
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "3,9",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "clustered",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Coprinellus disseminatus,,",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "簇生小鬼傘,,",
+  "la_zhcn": "簇生小鬼伞,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Coprinellus disseminatus",
+   "cname": "Trooping Crumble Cap",
+   "url": "https://www.inaturalist.org/taxa/56314",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/162946776/square.jpeg"
+  }
+ ],
+ "timestamp": "20260425-104540"
 }
