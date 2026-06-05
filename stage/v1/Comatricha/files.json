@@ -2,7 +2,7 @@
  "name": "Comatricha",
  "zhtw": "髮黏菌屬",
  "zhcn": "发黏菌属",
- "timestamp": "20260425-104540",
+ "timestamp": "20260529-181327",
  "list": [
   {
    "name": "Comatricha elegans",
@@ -15,6 +15,12 @@
    "zhtw": "美髮黏菌",
    "zhcn": "美发黏菌",
    "img": "Comatricha_pulchella_50cd8170-0b71-11ef-9198-4bdfbc2bb0ac_1.jpg"
+  },
+  {
+   "name": "Comatricha tenerrima",
+   "zhtw": "梭髮黏菌",
+   "zhcn": "梭发黏菌",
+   "img": "Comatricha_tenerrima_20fde650-5175-11f1-a8b3-fddd1947ded9_1.jpg"
   }
  ]
 }
