@@ -2,7 +2,7 @@
  "name": "Enteridium",
  "zhtw": "孔膜黏菌屬",
  "zhcn": "孔膜黏菌属",
- "timestamp": "20260529-181327",
+ "timestamp": "20260609-094107",
  "list": [
   {
    "name": "Enteridium intermedium",
@@ -18,6 +18,12 @@
    "current_zhtw": "馬勃狀線膜黏菌",
    "current_zhcn": "马勃状线膜黏菌",
    "img": "Reticularia_lycoperdon_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Enteridium simulans",
+   "zhtw": "模擬孔膜黏菌",
+   "zhcn": "模拟孔膜黏菌",
+   "img": "Enteridium_simulans_fff12270-6307-11f1-83b2-a1dd343f431f_1.jpg"
   }
  ]
 }

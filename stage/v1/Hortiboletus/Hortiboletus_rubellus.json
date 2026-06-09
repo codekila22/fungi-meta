@@ -2,6 +2,7 @@
  "genus": "Hortiboletus",
  "name": "rubellus",
  "date": [
+  "06/08/2026,27132294206454320",
   "06/30/2025,9987412721369069",
   "06/26/2025,9964287153681626",
   "09/12/2024,8029615677148793",
@@ -289,6 +290,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Hortiboletus_rubellus_c29ccad0-5577-11f0-a335-5b1ed35e684b_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hortiboletus_rubellus_74d4de90-6305-11f1-83b2-a1dd343f431f_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hortiboletus_rubellus_74d4de90-6305-11f1-83b2-a1dd343f431f_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hortiboletus_rubellus_74d4de90-6305-11f1-83b2-a1dd343f431f_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hortiboletus_rubellus_74d4de90-6305-11f1-83b2-a1dd343f431f_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hortiboletus_rubellus_74d4de90-6305-11f1-83b2-a1dd343f431f_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hortiboletus_rubellus_74d4de90-6305-11f1-83b2-a1dd343f431f_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hortiboletus_rubellus_74d4de90-6305-11f1-83b2-a1dd343f431f_7.jpg"
   }
  ],
  "synonym": [
@@ -345,5 +374,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29497119/thumb.jpg"
   }
  ],
- "timestamp": "20260529-181327"
+ "timestamp": "20260609-094107"
 }

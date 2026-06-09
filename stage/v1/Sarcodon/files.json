@@ -2,7 +2,7 @@
  "name": "Sarcodon",
  "zhtw": "肉齒菌屬",
  "zhcn": "肉齿菌属",
- "timestamp": "20260529-181327",
+ "timestamp": "20260609-094107",
  "list": [
   {
    "name": "Sarcodon imbricatus",
@@ -21,6 +21,12 @@
    "zhtw": "立體肉齒菌(暫名)",
    "zhcn": "立体肉齿菌(暂名)",
    "img": "Sarcodon_stereosarcinon_7fcc93d0-788d-10c6-a254-93fc4ec39761_1.jpg"
+  },
+  {
+   "name": "Sarcodon thwaitesii",
+   "zhtw": "錫蘭肉齒菌",
+   "zhcn": "锡兰肉齿菌",
+   "img": "Sarcodon_thwaitesii_f44f2af0-6318-11f1-83b2-a1dd343f431f_1.jpg"
   }
  ]
 }

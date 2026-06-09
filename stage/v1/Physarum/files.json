@@ -2,7 +2,7 @@
  "name": "Physarum",
  "zhtw": "絨泡黏菌屬",
  "zhcn": "绒泡黏菌属",
- "timestamp": "20260529-181327",
+ "timestamp": "20260609-094107",
  "list": [
   {
    "name": "Physarum album",
@@ -14,6 +14,9 @@
    "name": "Physarum bivalve",
    "zhtw": "雙瓣絨泡黏菌",
    "zhcn": "双瓣绒泡黏菌",
+   "current": "Angioridium sinuosum",
+   "current_zhtw": "蜿蜒管囊黏菌",
+   "current_zhcn": "蜿蜒管囊黏菌",
    "img": "Physarum_bivalve_1_CC BY-NC_向高世.jpg"
   },
   {
