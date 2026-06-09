@@ -2,6 +2,7 @@
  "genus": "Phlebopus",
  "name": "marginatus",
  "date": [
+  "05/16/2026,26750929214590823",
   "10/30/2025,24840024715681292",
   "06/15/2025,9884957478281261",
   "08/31/2024,7972354772874884",
@@ -197,6 +198,38 @@
   {
    "author": "江志緯",
    "image_src": "Phlebopus_marginatus_c0e4fe90-4b38-11f0-bfc7-3b168a464611_15.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Phlebopus_marginatus_1efdfc50-63b8-11f1-85b5-b1c1885a912b_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Phlebopus_marginatus_1efdfc50-63b8-11f1-85b5-b1c1885a912b_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Phlebopus_marginatus_1efdfc50-63b8-11f1-85b5-b1c1885a912b_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Phlebopus_marginatus_1efdfc50-63b8-11f1-85b5-b1c1885a912b_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Phlebopus_marginatus_1efdfc50-63b8-11f1-85b5-b1c1885a912b_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Phlebopus_marginatus_1efdfc50-63b8-11f1-85b5-b1c1885a912b_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Phlebopus_marginatus_1efdfc50-63b8-11f1-85b5-b1c1885a912b_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Phlebopus_marginatus_1efdfc50-63b8-11f1-85b5-b1c1885a912b_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -246,5 +279,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3353613/thumb.jpg"
   }
  ],
- "timestamp": "20260609-094107"
+ "timestamp": "20260609-182552"
 }

@@ -2,6 +2,7 @@
  "genus": "Flammulaster",
  "name": "muricatus",
  "date": [
+  "06/03/2026,27136154522734955",
   "12/25/2023,6789527044491002",
   "10/22/2023,6555411334569242",
   "08/06/2023,6269255339851511",
@@ -136,6 +137,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Flammulaster_muricatus_3ae09560-a4a5-11ee-bb33-21125d6428ca_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulaster_muricatus_36e35fd0-63b4-11f1-85b5-b1c1885a912b_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulaster_muricatus_36e35fd0-63b4-11f1-85b5-b1c1885a912b_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulaster_muricatus_36e35fd0-63b4-11f1-85b5-b1c1885a912b_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulaster_muricatus_36e35fd0-63b4-11f1-85b5-b1c1885a912b_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulaster_muricatus_36e35fd0-63b4-11f1-85b5-b1c1885a912b_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulaster_muricatus_36e35fd0-63b4-11f1-85b5-b1c1885a912b_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Flammulaster_muricatus_36e35fd0-63b4-11f1-85b5-b1c1885a912b_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -185,5 +214,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12018708/thumb.jpg"
   }
  ],
- "timestamp": "20260609-094107"
+ "timestamp": "20260609-182552"
 }
