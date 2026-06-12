@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "nigrobrunneus",
  "date": [
+  "06/12/2026,27187700074247066",
   "04/19/2026,26479396165077464",
   "10/27/2025,24818952751121822",
   "09/27/2025,24519993864351047",
@@ -454,6 +455,10 @@
   {
    "author": "陳麗紅",
    "image_src": "Marasmius_nigrobrunneus_7172ae50-3bd5-11f1-ad52-afbc234cb4a7_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_nigrobrunneus_e5a24480-6636-11f1-92c7-e37cb3fd99b6_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -505,5 +510,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260609-182552"
+ "timestamp": "20260612-174805"
 }

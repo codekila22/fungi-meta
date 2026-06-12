@@ -2,6 +2,7 @@
  "genus": "Leucoagaricus",
  "name": "rubrotinctus",
  "date": [
+  "06/11/2026,27173141605702913",
   "04/15/2026,26435625462787868",
   "04/13/2026,26413322291684852",
   "08/05/2023,6265606973549681",
@@ -215,6 +216,38 @@
   {
    "author": "陳中城",
    "image_src": "Leucoagaricus_rubrotinctus_e6d53310-3fd2-11f1-92a7-41067c4fc4f6_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucoagaricus_rubrotinctus_aa261530-6569-11f1-8f3c-017babfa75a1_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucoagaricus_rubrotinctus_aa261530-6569-11f1-8f3c-017babfa75a1_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucoagaricus_rubrotinctus_aa261530-6569-11f1-8f3c-017babfa75a1_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucoagaricus_rubrotinctus_aa261530-6569-11f1-8f3c-017babfa75a1_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucoagaricus_rubrotinctus_aa261530-6569-11f1-8f3c-017babfa75a1_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucoagaricus_rubrotinctus_aa261530-6569-11f1-8f3c-017babfa75a1_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucoagaricus_rubrotinctus_aa261530-6569-11f1-8f3c-017babfa75a1_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Leucoagaricus_rubrotinctus_aa261530-6569-11f1-8f3c-017babfa75a1_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -263,5 +296,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314755/thumb.jpg"
   }
  ],
- "timestamp": "20260609-182552"
+ "timestamp": "20260612-174805"
 }

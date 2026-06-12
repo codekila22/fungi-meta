@@ -2,7 +2,7 @@
  "name": "Agaricus",
  "zhtw": "蘑菇屬",
  "zhcn": "蘑菇属",
- "timestamp": "20260609-182552",
+ "timestamp": "20260612-174805",
  "list": [
   {
    "name": "Agaricus abruptibulbus",
@@ -138,6 +138,12 @@
    "zhtw": "三硫色蘑菇",
    "zhcn": "三硫色蘑菇",
    "img": "Agaricus_trisulphuratus_1_CC BY-NC_徐秀團.jpg"
+  },
+  {
+   "name": "Agaricus xanthodermus",
+   "zhtw": "黃斑蘑菇",
+   "zhcn": "黄斑蘑菇",
+   "img": "Agaricus_xanthodermus_95189cc0-6560-11f1-8f3c-017babfa75a1_1.jpg"
   }
  ]
 }

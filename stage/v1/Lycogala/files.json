@@ -2,7 +2,7 @@
  "name": "Lycogala",
  "zhtw": "粉瘤黏菌屬",
  "zhcn": "粉瘤黏菌属",
- "timestamp": "20260609-182552",
+ "timestamp": "20260612-174805",
  "list": [
   {
    "name": "Lycogala aggregatum",
@@ -39,6 +39,12 @@
    "zhtw": "斑點粉瘤黏菌",
    "zhcn": "斑点粉瘤黏菌",
    "img": "Lycogala_maculatum_11bd77b0-c5ca-11ef-b9b6-3962c7277569_1.jpg"
+  },
+  {
+   "name": "Lycogala melleum",
+   "zhtw": "蜜黃粉瘤黏菌",
+   "zhcn": "蜜黄粉瘤黏菌",
+   "img": "Lycogala_melleum_c9302470-655f-11f1-8f3c-017babfa75a1_1.jpg"
   },
   {
    "name": "Lycogala palianytsia",
