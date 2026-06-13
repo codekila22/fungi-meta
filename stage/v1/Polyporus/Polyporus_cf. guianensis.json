@@ -84,5 +84,13 @@
   "la_zhtw": "紅褐黑柄多孔菌,,",
   "la_zhcn": "红褐黑柄多孔菌,,"
  },
- "timestamp": "20260613-170249"
+ "inaturalist": [
+  {
+   "name": "Polyporus guianensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/335630",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10283656/square.jpg"
+  }
+ ],
+ "timestamp": "20260613-191755"
 }

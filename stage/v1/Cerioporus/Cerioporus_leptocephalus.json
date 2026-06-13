@@ -82,5 +82,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260613-170249"
+ "inaturalist": [
+  {
+   "name": "Cerioporus leptocephalus",
+   "cname": "Blackfoot Polypore",
+   "url": "https://www.inaturalist.org/taxa/928232",
+   "src": "https://static.inaturalist.org/photos/59160825/square.jpeg"
+  }
+ ],
+ "timestamp": "20260613-191755"
 }

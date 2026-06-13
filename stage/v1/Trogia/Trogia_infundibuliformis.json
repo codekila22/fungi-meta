@@ -2,6 +2,7 @@
  "genus": "Trogia",
  "name": "infundibuliformis",
  "date": [
+  "06/13/2026,27201409712876102",
   "11/30/2025,25128697230147371",
   "11/17/2025,25012345788449183",
   "07/11/2025,25034171939599901",
@@ -181,6 +182,42 @@
   {
    "author": "向高世",
    "image_src": "Trogia_infundibuliformis_6b78b9f0-d36f-11f0-a25a-3b20ccf889df_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_infundibuliformis_99953fc0-6717-11f1-81ed-0d648da220a2_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_infundibuliformis_99953fc0-6717-11f1-81ed-0d648da220a2_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_infundibuliformis_99953fc0-6717-11f1-81ed-0d648da220a2_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_infundibuliformis_99953fc0-6717-11f1-81ed-0d648da220a2_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_infundibuliformis_99953fc0-6717-11f1-81ed-0d648da220a2_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_infundibuliformis_99953fc0-6717-11f1-81ed-0d648da220a2_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_infundibuliformis_99953fc0-6717-11f1-81ed-0d648da220a2_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_infundibuliformis_99953fc0-6717-11f1-81ed-0d648da220a2_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trogia_infundibuliformis_99953fc0-6717-11f1-81ed-0d648da220a2_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -232,5 +269,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/150015713/thumb.jpg"
   }
  ],
- "timestamp": "20260613-170249"
+ "timestamp": "20260613-191755"
 }

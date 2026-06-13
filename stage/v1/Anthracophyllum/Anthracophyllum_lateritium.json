@@ -94,5 +94,13 @@
   "Note": "類臍菇科（Omphalotaceae） 底下的一種小型木棲性真菌。它主要分布於熱帶及亞熱帶地區（包含香港、臺灣、東南亞、中南美洲等）。本紀錄拍攝於香港。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260613-170249"
+ "inaturalist": [
+  {
+   "name": "Anthracophyllum lateritium",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/553537",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/333191095/square.jpg"
+  }
+ ],
+ "timestamp": "20260613-191755"
 }

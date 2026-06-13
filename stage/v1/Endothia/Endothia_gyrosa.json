@@ -98,5 +98,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260613-170249"
+ "inaturalist": [
+  {
+   "name": "Endothia gyrosa",
+   "cname": "orange hobnail canker",
+   "url": "https://www.inaturalist.org/taxa/379800",
+   "src": "https://static.inaturalist.org/photos/1563654/square.JPG"
+  }
+ ],
+ "timestamp": "20260613-191755"
 }

@@ -88,5 +88,13 @@
   "la_zhtw": "費賴斯擬鬼傘,蕁麻擬鬼傘,",
   "la_zhcn": "费赖斯拟鬼伞,荨麻拟鬼伞,"
  },
- "timestamp": "20260613-170249"
+ "inaturalist": [
+  {
+   "name": "Coprinopsis friesii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/56317",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108282291/square.jpeg"
+  }
+ ],
+ "timestamp": "20260613-191755"
 }

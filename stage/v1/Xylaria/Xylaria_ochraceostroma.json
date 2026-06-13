@@ -106,5 +106,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260613-170249"
+ "inaturalist": [
+  {
+   "name": "Xylaria ochraceostroma",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1441299",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260613-191755"
 }
