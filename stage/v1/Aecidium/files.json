@@ -2,7 +2,7 @@
  "name": "Aecidium",
  "zhtw": "銹孢銹菌屬",
  "zhcn": "锈孢锈菌属",
- "timestamp": "20260613-081627",
+ "timestamp": "20260613-155854",
  "list": [
   {
    "name": "Aecidium araliae",
@@ -54,6 +54,12 @@
    "zhtw": "牛皮凍銹孢銹菌",
    "zhcn": "牛皮冻锈孢锈菌",
    "img": "Aecidium_paederiae_00acd660-886b-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "name": "Aecidium pourthiaea",
+   "zhtw": "石楠銹孢銹菌",
+   "zhcn": "石楠锈孢锈菌",
+   "img": "Aecidium_pourthiaea_561c52f0-66fa-11f1-8097-490244077f1a_1.jpg"
   },
   {
    "name": "Aecidium senecionis-scandentis",

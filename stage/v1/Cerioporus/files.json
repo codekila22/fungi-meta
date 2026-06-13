@@ -2,8 +2,14 @@
  "name": "Cerioporus",
  "zhtw": "蠟孔菌屬",
  "zhcn": "蜡孔菌属",
- "timestamp": "20260613-081627",
+ "timestamp": "20260613-155854",
  "list": [
+  {
+   "name": "Cerioporus leptocephalus",
+   "zhtw": "薄蓋蠟孔菌",
+   "zhcn": "薄盖蜡孔菌",
+   "img": "Cerioporus_leptocephalus_2643a710-66f3-11f1-a786-5d18feaced83_1.jpg"
+  },
   {
    "name": "Cerioporus squamosus",
    "zhtw": "寬鱗蠟孔菌",

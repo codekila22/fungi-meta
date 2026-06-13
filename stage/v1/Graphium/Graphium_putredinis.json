@@ -5,7 +5,8 @@
   "10/29/2025,24830583546625409",
   "10/02/2025,24585623784454721",
   "09/11/2025,24360596836957418",
-  "02/18/2025,5415959478514439"
+  "02/18/2025,5415959478514439",
+  "09/11/2021,9053192104791140"
  ],
  "names_zhtw": [
   "腐生黏束孢黴"
@@ -88,6 +89,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Graphium_putredinis_3660ad50-b4d3-11f0-9110-6db91d4a630b_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphium_putredinis_6ad2d2c0-66f8-11f1-8097-490244077f1a_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphium_putredinis_6ad2d2c0-66f8-11f1-8097-490244077f1a_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphium_putredinis_6ad2d2c0-66f8-11f1-8097-490244077f1a_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphium_putredinis_6ad2d2c0-66f8-11f1-8097-490244077f1a_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphium_putredinis_6ad2d2c0-66f8-11f1-8097-490244077f1a_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphium_putredinis_6ad2d2c0-66f8-11f1-8097-490244077f1a_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphium_putredinis_6ad2d2c0-66f8-11f1-8097-490244077f1a_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -136,5 +165,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/67425895/thumb.jpeg"
   }
  ],
- "timestamp": "20260613-081627"
+ "timestamp": "20260613-155854"
 }

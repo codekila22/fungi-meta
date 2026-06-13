@@ -2,7 +2,7 @@
  "name": "Polyporus",
  "zhtw": "多孔菌屬",
  "zhcn": "多孔菌属",
- "timestamp": "20260613-081627",
+ "timestamp": "20260613-155854",
  "list": [
   {
    "name": "Polyporus admirabilis",
@@ -42,6 +42,12 @@
    "zhtw": "冬生多孔菌",
    "zhcn": "冬生多孔菌",
    "img": "Polyporus_brumalis_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Polyporus cf. guianensis",
+   "zhtw": "疑似圭亞那多孔菌",
+   "zhcn": "疑似圭亚那多孔菌",
+   "img": "Polyporus_cf. guianensis_d370d4c0-66ef-11f1-a786-5d18feaced83_1.jpg"
   },
   {
    "name": "Polyporus curtipes",

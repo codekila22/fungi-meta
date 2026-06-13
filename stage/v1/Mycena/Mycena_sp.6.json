@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "sp.6",
  "date": [
+  "06/11/2026,27189487837401623",
   "08/23/2024,7903768276400201",
   "09/05/2022,5213852658725123"
  ],
@@ -58,6 +59,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Mycena_sp.6_7dce8bb0-f72a-11ef-af52-15dccc192f02_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_sp.6_5fefc9d0-66da-11f1-9925-15ccffdc628d_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_sp.6_5fefc9d0-66da-11f1-9925-15ccffdc628d_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_sp.6_5fefc9d0-66da-11f1-9925-15ccffdc628d_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_sp.6_5fefc9d0-66da-11f1-9925-15ccffdc628d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -99,5 +116,5 @@
   "Note": "傘面線條凹處有糖霜粉狀物的一種未知名小菇。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260613-081627"
+ "timestamp": "20260613-155854"
 }
