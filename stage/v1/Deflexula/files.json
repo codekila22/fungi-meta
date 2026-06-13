@@ -2,7 +2,7 @@
  "name": "Deflexula",
  "zhtw": "龍爪菌屬",
  "zhcn": "龙爪菌属",
- "timestamp": "20260613-164239",
+ "timestamp": "20260613-170249",
  "list": [
   {
    "name": "Deflexula fascicularis",
@@ -17,6 +17,9 @@
    "name": "Deflexula subsimplex",
    "zhtw": "略簡龍爪菌",
    "zhcn": "略简龙爪菌",
+   "current": "Pterulicium subsimplex",
+   "current_zhtw": "略簡羽囊菌",
+   "current_zhcn": "略简羽囊菌",
    "img": "Deflexula_subsimplex_9_CC BY-NC_柯文俊.jpg"
   }
  ]

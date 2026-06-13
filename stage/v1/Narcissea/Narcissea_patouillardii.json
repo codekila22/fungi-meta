@@ -305,11 +305,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Coprinopsis cortinata,,",
+  "LookAlikes": "Coprinopsis cortinata,Narcissea cf. cardiaspora,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "絲膜擬鬼傘,,",
-  "la_zhcn": "丝膜拟鬼伞,,"
+  "la_zhtw": "絲膜擬鬼傘,疑似心孢鬼傘,",
+  "la_zhcn": "丝膜拟鬼伞,疑似心孢鬼伞,"
  },
  "inaturalist": [
   {
@@ -319,5 +319,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27961653/thumb.jpg"
   }
  ],
- "timestamp": "20260613-164239"
+ "timestamp": "20260613-170249"
 }
