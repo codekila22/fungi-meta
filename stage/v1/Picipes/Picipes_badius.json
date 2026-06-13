@@ -232,11 +232,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Polyporus varius,,",
+  "LookAlikes": "Polyporus varius,Polyporus cf. guianensis,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "多變多孔菌,,",
-  "la_zhcn": "多变多孔菌,,"
+  "la_zhtw": "多變多孔菌,疑似圭亞那多孔菌,",
+  "la_zhcn": "多变多孔菌,疑似圭亚那多孔菌,"
  },
  "inaturalist": [
   {
@@ -246,5 +246,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/121046/thumb.jpg"
   }
  ],
- "timestamp": "20260613-155854"
+ "timestamp": "20260613-164239"
 }

@@ -278,8 +278,10 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "寄生在紅皺裂菌(Rhytidhysteron rufulum)的一種盤菌。"
+  "LookAlikes": "Unguiculariopsis aff. ravenelii,,",
+  "Note": "寄生在紅皺裂菌(Rhytidhysteron rufulum)的一種盤菌。",
+  "la_zhtw": "拉氏擬爪毛盤菌的相似種,,",
+  "la_zhcn": "拉氏拟爪毛盘菌的相似种,,"
  },
  "inaturalist": [
   {
@@ -289,5 +291,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17213074/thumb.jpeg"
   }
  ],
- "timestamp": "20260613-155854"
+ "timestamp": "20260613-164239"
 }

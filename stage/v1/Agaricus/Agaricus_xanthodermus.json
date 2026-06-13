@@ -50,5 +50,41 @@
  "names_zhcn": [
   "黄斑蘑菇"
  ],
- "timestamp": "20260613-155854"
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "yellow",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "other",
+  "LookAlikes": "",
+  "Note": "受傷變黃且有強烈的碘酒味。",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260613-164239"
 }
