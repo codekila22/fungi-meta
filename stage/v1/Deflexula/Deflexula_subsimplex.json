@@ -2,6 +2,7 @@
  "genus": "Deflexula",
  "name": "subsimplex",
  "date": [
+  "05/08/2026,27160914083592332",
   "05/31/2024,7435937886516578",
   "05/07/2024,7321137574663277",
   "09/18/2023,6421405461303164",
@@ -134,6 +135,22 @@
   {
    "author": "陳中城",
    "image_src": "Deflexula_subsimplex_e67c4e20-1fe6-11ef-bc52-1b939a29c26a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deflexula_subsimplex_311e4c30-66bc-11f1-beed-e1f2db233c75_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deflexula_subsimplex_311e4c30-66bc-11f1-beed-e1f2db233c75_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deflexula_subsimplex_311e4c30-66bc-11f1-beed-e1f2db233c75_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deflexula_subsimplex_311e4c30-66bc-11f1-beed-e1f2db233c75_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -182,5 +199,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/219652764/thumb.jpg"
   }
  ],
- "timestamp": "20260612-174805"
+ "timestamp": "20260613-081627"
 }
