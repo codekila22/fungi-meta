@@ -2,7 +2,11 @@
  "genus": "Ophiocordyceps",
  "name": "entomorrhiza",
  "date": [
+  "06/13/2026,27229360693414337",
+  "04/29/2023,6267895776654134",
   "07/22/2022,5177314799045576",
+  "07/22/2022,6267895776654134",
+  "04/24/2022,6335586863218358",
   "07/04/2019,5177314799045576"
  ],
  "names_zhtw": [
@@ -30,6 +34,82 @@
   {
    "author": "向高世",
    "image_src": "Ophiocordyceps_entomorrhiza_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ophiocordyceps_entomorrhiza_ff069580-6914-11f1-bb81-eb456ca0aee2_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ophiocordyceps_entomorrhiza_ff069580-6914-11f1-bb81-eb456ca0aee2_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ophiocordyceps_entomorrhiza_ff069580-6914-11f1-bb81-eb456ca0aee2_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ophiocordyceps_entomorrhiza_ff069580-6914-11f1-bb81-eb456ca0aee2_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ophiocordyceps_entomorrhiza_ff069580-6914-11f1-bb81-eb456ca0aee2_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ophiocordyceps_entomorrhiza_ff069580-6914-11f1-bb81-eb456ca0aee2_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_entomorrhiza_16c88e50-6918-11f1-bb81-eb456ca0aee2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_entomorrhiza_16c88e50-6918-11f1-bb81-eb456ca0aee2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_entomorrhiza_16c88e50-6918-11f1-bb81-eb456ca0aee2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_entomorrhiza_16c88e50-6918-11f1-bb81-eb456ca0aee2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_entomorrhiza_16c88e50-6918-11f1-bb81-eb456ca0aee2_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_entomorrhiza_4303f360-6918-11f1-bb81-eb456ca0aee2_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_entomorrhiza_4303f360-6918-11f1-bb81-eb456ca0aee2_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_entomorrhiza_4303f360-6918-11f1-bb81-eb456ca0aee2_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_entomorrhiza_4303f360-6918-11f1-bb81-eb456ca0aee2_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_entomorrhiza_4303f360-6918-11f1-bb81-eb456ca0aee2_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_entomorrhiza_4303f360-6918-11f1-bb81-eb456ca0aee2_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_entomorrhiza_4303f360-6918-11f1-bb81-eb456ca0aee2_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_entomorrhiza_4303f360-6918-11f1-bb81-eb456ca0aee2_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -68,7 +148,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "目前記錄為此物種的無性世代。"
+  "Note": "此物種主要長在步行蟲/步 甲科等鞘翅目。而外觀相似種枝多頭黴(Polycephalomyces ramosus)專門寄生在蟲草或其無性型上(也就是長在別人的子實體上)。\n目前記錄為此物種的無性世代。"
  },
  "inaturalist": [
   {
@@ -78,5 +158,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29294775/thumb.jpg"
   }
  ],
- "timestamp": "20260613-191755"
+ "timestamp": "20260616-174722"
 }

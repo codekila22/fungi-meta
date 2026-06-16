@@ -2,7 +2,7 @@
  "name": "Coprinopsis",
  "zhtw": "擬鬼傘屬",
  "zhcn": "拟鬼伞属",
- "timestamp": "20260613-191755",
+ "timestamp": "20260616-174722",
  "list": [
   {
    "name": "Coprinopsis aff. friesii",
@@ -32,6 +32,9 @@
    "name": "Coprinopsis clastophylla",
    "zhtw": "粒褶擬鬼傘",
    "zhcn": "粒褶拟鬼伞",
+   "current": "Coprinopsis lilacina",
+   "current_zhtw": "淡紫色擬鬼傘",
+   "current_zhcn": "淡紫色拟鬼伞",
    "img": "Coprinopsis_clastophylla_1_CC BY-NC_陳雅芬.jpg"
   },
   {
@@ -63,6 +66,12 @@
    "zhtw": "白毛擬鬼傘",
    "zhcn": "白毛拟鬼伞",
    "img": "Coprinopsis_lagopides_2_CC BY-NC_姜淋友.jpg"
+  },
+  {
+   "name": "Coprinopsis lilacina",
+   "zhtw": "淡紫色擬鬼傘",
+   "zhcn": "淡紫色拟鬼伞",
+   "img": "Coprinopsis_clastophylla_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Coprinopsis melanthina",
