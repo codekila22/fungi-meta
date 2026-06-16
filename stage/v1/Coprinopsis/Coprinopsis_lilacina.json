@@ -193,6 +193,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "15,25",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
@@ -203,7 +204,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紫色與灰白色子實體有機會同時出現在一個群體中。紫色的型態會裂成小格狀，且不見典型鬼傘自溶。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -214,5 +215,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/149561074/square.jpg"
   }
  ],
- "timestamp": "20260616-200316"
+ "timestamp": "20260616-201547"
 }
