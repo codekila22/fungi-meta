@@ -1,11 +1,11 @@
 {
  "genus": "Xylaria",
- "name": "cf. badia",
+ "name": "badia",
  "date": [
   "05/30/2024,7432664070177293"
  ],
  "names_zhtw": [
-  "疑似暗棕炭角菌"
+  "暗棕炭角菌"
  ],
  "names_en": [],
  "url": "7432664070177293",
@@ -36,7 +36,7 @@
   }
  ],
  "names_zhcn": [
-  "疑似暗棕炭角菌"
+  "暗棕炭角菌"
  ],
  "meta": {
   "CapColors": "4286141768,4294956800",
@@ -74,13 +74,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "inaturalist": [
-  {
-   "name": "Xylaria badia",
-   "cname": "",
-   "url": "https://www.inaturalist.org/taxa/1615814-Xylaria-badia",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/480149820/thumb.jpeg"
-  }
- ],
- "timestamp": "20260616-174722"
+ "timestamp": "20260616-200316"
 }

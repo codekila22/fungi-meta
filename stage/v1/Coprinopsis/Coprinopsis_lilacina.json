@@ -2,14 +2,18 @@
  "genus": "Coprinopsis",
  "name": "lilacina",
  "date": [
-  "01/01/0001"
+  "06/13/2026,27191840140499726",
+  "07/30/2023,6245750128868699",
+  "10/16/2021,4230153143761751",
+  "11/21/2017,1375164762593951",
+  "11/20/2017,1372172302893197"
  ],
  "names_zhtw": [
   "淡紫色擬鬼傘",
   "粒褶似鬼傘"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/5651",
+ "url": "6245750128868699",
  "images": [
   {
    "author": "陳雅芬",
@@ -78,6 +82,82 @@
   {
    "author": "陳雅芬",
    "image_src": "Coprinopsis_clastophylla_17_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinopsis_lilacina_75f02130-6969-11f1-83fd-65b4efef4895_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinopsis_lilacina_75f02130-6969-11f1-83fd-65b4efef4895_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinopsis_lilacina_75f02130-6969-11f1-83fd-65b4efef4895_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinopsis_lilacina_75f02130-6969-11f1-83fd-65b4efef4895_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Coprinopsis_lilacina_75f02130-6969-11f1-83fd-65b4efef4895_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_8.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_9.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_10.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_11.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_12.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_13.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_14.jpg"
   }
  ],
  "synonym": [
@@ -126,5 +206,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260616-174722"
+ "inaturalist": [
+  {
+   "name": "Coprinopsis lilacina",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1589523",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/149561074/square.jpg"
+  }
+ ],
+ "timestamp": "20260616-200316"
 }
