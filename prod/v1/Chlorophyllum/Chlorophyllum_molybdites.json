@@ -2,6 +2,7 @@
  "genus": "Chlorophyllum",
  "name": "molybdites",
  "date": [
+  "06/14/2026,27211502098533530",
   "04/13/2026,26410775751939506",
   "10/31/2025,24848989344784829",
   "09/28/2025,24567042202979546",
@@ -404,6 +405,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Chlorophyllum_molybdites_3e945830-371b-11f1-9c1c-d336fb174be5_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Chlorophyllum_molybdites_65685280-67a0-11f1-8f8f-6754ca100b0b_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Chlorophyllum_molybdites_65685280-67a0-11f1-8f8f-6754ca100b0b_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Chlorophyllum_molybdites_65685280-67a0-11f1-8f8f-6754ca100b0b_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -457,5 +470,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133009/thumb."
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

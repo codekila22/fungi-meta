@@ -2,8 +2,14 @@
  "name": "Antrodia",
  "zhtw": "薄孔菌屬",
  "zhcn": "薄孔菌属",
- "timestamp": "20260425-104540",
+ "timestamp": "20260617-133739",
  "list": [
+  {
+   "name": "Antrodia malicola",
+   "zhtw": "蘋果薄孔菌",
+   "zhcn": "苹果薄孔菌",
+   "img": "Antrodia_malicola_0c894330-66fc-11f1-8097-490244077f1a_1.jpg"
+  },
   {
    "name": "Antrodia tanakai",
    "zhtw": "田中薄孔菌",

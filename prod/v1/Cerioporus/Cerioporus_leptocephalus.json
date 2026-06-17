@@ -1,0 +1,94 @@
+{
+ "genus": "Cerioporus",
+ "name": "leptocephalus",
+ "date": [
+  "04/19/2026,26502786466071767"
+ ],
+ "names_zhtw": [
+  "薄蓋蠟孔菌"
+ ],
+ "names_en": [],
+ "url": "26502786466071767",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Cerioporus_leptocephalus_2643a710-66f3-11f1-a786-5d18feaced83_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cerioporus_leptocephalus_2643a710-66f3-11f1-a786-5d18feaced83_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cerioporus_leptocephalus_2643a710-66f3-11f1-a786-5d18feaced83_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cerioporus_leptocephalus_2643a710-66f3-11f1-a786-5d18feaced83_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cerioporus_leptocephalus_2643a710-66f3-11f1-a786-5d18feaced83_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cerioporus_leptocephalus_2643a710-66f3-11f1-a786-5d18feaced83_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cerioporus_leptocephalus_2643a710-66f3-11f1-a786-5d18feaced83_7.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Cerioporus_leptocephalus_2643a710-66f3-11f1-a786-5d18feaced83_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "薄盖蜡孔菌"
+ ],
+ "meta": {
+  "CapColors": "4294944000,4293313372,4294956800",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0,2",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Cerioporus leptocephalus",
+   "cname": "Blackfoot Polypore",
+   "url": "https://www.inaturalist.org/taxa/928232",
+   "src": "https://static.inaturalist.org/photos/59160825/square.jpeg"
+  }
+ ],
+ "timestamp": "20260617-133739"
+}

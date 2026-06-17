@@ -2,7 +2,7 @@
  "name": "Uromyces",
  "zhtw": "單胞銹菌屬",
  "zhcn": "单胞锈菌属",
- "timestamp": "20260425-104540",
+ "timestamp": "20260617-133739",
  "list": [
   {
    "name": "Uromyces aconiticola",
@@ -21,6 +21,12 @@
    "zhtw": "猪屎豆單胞銹菌",
    "zhcn": "猪屎豆单胞锈菌",
    "img": "Uromyces_decoratus_77e6a5b0-e137-11ef-ab36-2b133d3d3ca2_1.jpg"
+  },
+  {
+   "name": "Uromyces deeringiae",
+   "zhtw": "漿果莧單胞銹菌",
+   "zhcn": "浆果苋单胞锈菌",
+   "img": "Uromyces_deeringiae_291c66b0-631b-11f1-8c7b-35e0c681c388_1.jpg"
   }
  ]
 }

@@ -2,6 +2,7 @@
  "genus": "Clitopilus",
  "name": "prunulus",
  "date": [
+  "06/15/2026,27243352132015193",
   "04/03/2024,7270769569700078",
   "10/29/2023,6575238322586543",
   "08/06/2023,6272482162862162",
@@ -119,6 +120,26 @@
   {
    "author": "江志緯",
    "image_src": "Clitopilus_prunulus_db172120-0422-11ef-83a5-37f37fa0d486_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitopilus_prunulus_06c6c7a0-6a04-11f1-8183-a136ae3cbbfa_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitopilus_prunulus_06c6c7a0-6a04-11f1-8183-a136ae3cbbfa_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitopilus_prunulus_06c6c7a0-6a04-11f1-8183-a136ae3cbbfa_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitopilus_prunulus_06c6c7a0-6a04-11f1-8183-a136ae3cbbfa_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitopilus_prunulus_06c6c7a0-6a04-11f1-8183-a136ae3cbbfa_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -168,5 +189,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20528/thumb.jpg"
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

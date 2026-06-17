@@ -1,0 +1,100 @@
+{
+ "genus": "Coprinopsis",
+ "name": "aff. friesii",
+ "date": [
+  "04/19/2026,26515346424815771"
+ ],
+ "names_zhtw": [
+  "費賴斯擬鬼傘的相似種"
+ ],
+ "names_en": [],
+ "url": "26515346424815771",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_aff. friesii_b7d3dcf0-66f2-11f1-a786-5d18feaced83_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_aff. friesii_b7d3dcf0-66f2-11f1-a786-5d18feaced83_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_aff. friesii_b7d3dcf0-66f2-11f1-a786-5d18feaced83_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_aff. friesii_b7d3dcf0-66f2-11f1-a786-5d18feaced83_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_aff. friesii_b7d3dcf0-66f2-11f1-a786-5d18feaced83_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_aff. friesii_b7d3dcf0-66f2-11f1-a786-5d18feaced83_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_aff. friesii_b7d3dcf0-66f2-11f1-a786-5d18feaced83_7.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_aff. friesii_b7d3dcf0-66f2-11f1-a786-5d18feaced83_8.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinopsis_aff. friesii_b7d3dcf0-66f2-11f1-a786-5d18feaced83_9.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "费赖斯拟鬼伞的相似种"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0,2",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Coprinopsis friesii,Coprinopsis urticicola,",
+  "Note": "很像蕁麻擬鬼傘(Coprinopsis urticicola)或費賴斯擬鬼傘(Coprinopsis friesii)，但褶近離生(部分褶有碰到柄)、柄基部有明顯的菌托狀構造，且生長於腐木上。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "費賴斯擬鬼傘,蕁麻擬鬼傘,",
+  "la_zhcn": "费赖斯拟鬼伞,荨麻拟鬼伞,"
+ },
+ "inaturalist": [
+  {
+   "name": "Coprinopsis friesii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/56317",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108282291/square.jpeg"
+  }
+ ],
+ "timestamp": "20260617-133739"
+}

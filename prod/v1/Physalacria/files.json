@@ -2,7 +2,7 @@
  "name": "Physalacria",
  "zhtw": "膨瑚菌屬",
  "zhcn": "膨瑚菌属",
- "timestamp": "20260425-104540",
+ "timestamp": "20260617-133739",
  "list": [
   {
    "name": "Physalacria aff. lacrymispora",
@@ -15,6 +15,18 @@
    "zhtw": "澳洲膨瑚菌",
    "zhcn": "澳洲膨瑚菌",
    "img": "Physalacria_australiensis_3_CC BY-NC_蛾米.jpg"
+  },
+  {
+   "name": "Physalacria corticola",
+   "zhtw": "樹皮生膨瑚菌",
+   "zhcn": "树皮生膨瑚菌",
+   "img": "Physalacria_corticola_a8f507c0-66f4-11f1-8097-490244077f1a_1.jpg"
+  },
+  {
+   "name": "Physalacria cryptomeriae",
+   "zhtw": "柳杉膨瑚菌",
+   "zhcn": "柳杉膨瑚菌",
+   "img": "Physalacria_cryptomeriae_df69a000-66f8-11f1-8097-490244077f1a_1.jpg"
   },
   {
    "name": "Physalacria inflata",

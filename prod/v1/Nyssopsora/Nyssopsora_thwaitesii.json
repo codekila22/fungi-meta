@@ -2,6 +2,7 @@
  "genus": "Nyssopsora",
  "name": "thwaitesii",
  "date": [
+  "04/29/2026,26607961515554261",
   "05/12/2024,7372178606225840"
  ],
  "names_zhtw": [
@@ -29,6 +30,26 @@
   {
    "author": "向高世",
    "image_src": "Nyssopsora_thwaitesii_dc12c2c0-1587-11ef-9cac-e7c7704498f4_5.jpg"
+  },
+  {
+   "author": "Joseph Yeh",
+   "image_src": "Nyssopsora_thwaitesii_31756e40-66fb-11f1-8097-490244077f1a_1.jpg"
+  },
+  {
+   "author": "Joseph Yeh",
+   "image_src": "Nyssopsora_thwaitesii_31756e40-66fb-11f1-8097-490244077f1a_2.jpg"
+  },
+  {
+   "author": "Joseph Yeh",
+   "image_src": "Nyssopsora_thwaitesii_31756e40-66fb-11f1-8097-490244077f1a_3.jpg"
+  },
+  {
+   "author": "Joseph Yeh",
+   "image_src": "Nyssopsora_thwaitesii_31756e40-66fb-11f1-8097-490244077f1a_4.jpg"
+  },
+  {
+   "author": "Joseph Yeh",
+   "image_src": "Nyssopsora_thwaitesii_31756e40-66fb-11f1-8097-490244077f1a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -77,5 +98,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/284072943/thumb.jpg"
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

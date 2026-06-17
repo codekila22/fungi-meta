@@ -2,6 +2,7 @@
  "genus": "Didymium",
  "name": "iridis",
  "date": [
+  "04/26/2026,26566451696371910",
   "04/09/2023,6938472776263094"
  ],
  "names_zhtw": [
@@ -53,6 +54,22 @@
   {
    "author": "江志緯",
    "image_src": "Didymium_iridis_7c6bf8d0-c368-11ee-84c9-3189852a7ee1_11.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_iridis_41fc1620-66f0-11f1-a786-5d18feaced83_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_iridis_41fc1620-66f0-11f1-a786-5d18feaced83_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_iridis_41fc1620-66f0-11f1-a786-5d18feaced83_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Didymium_iridis_41fc1620-66f0-11f1-a786-5d18feaced83_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -101,5 +118,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/103125671/thumb.jpg"
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

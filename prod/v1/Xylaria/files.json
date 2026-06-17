@@ -2,7 +2,7 @@
  "name": "Xylaria",
  "zhtw": "炭角菌屬",
  "zhcn": "炭角菌属",
- "timestamp": "20260425-104540",
+ "timestamp": "20260617-133739",
  "list": [
   {
    "name": "Xylaria aff. grammica",
@@ -35,16 +35,16 @@
    "img": "Xylaria_atrodivaricata_044ff050-a187-11f0-bbb0-e351c14914d9_1.jpg"
   },
   {
+   "name": "Xylaria badia",
+   "zhtw": "暗棕炭角菌",
+   "zhcn": "暗棕炭角菌",
+   "img": "Xylaria_cf. badia_61ce1f20-1ffd-11ef-b0e1-cf86e41e41e5_1.jpg"
+  },
+  {
    "name": "Xylaria bambusicola",
    "zhtw": "竹生炭角菌",
    "zhcn": "竹生炭角菌",
    "img": "Xylaria_bambusicola_1_CC BY-NC_陳雅芬.jpg"
-  },
-  {
-   "name": "Xylaria cf. badia",
-   "zhtw": "疑似暗棕炭角菌",
-   "zhcn": "疑似暗棕炭角菌",
-   "img": "Xylaria_cf. badia_61ce1f20-1ffd-11ef-b0e1-cf86e41e41e5_1.jpg"
   },
   {
    "name": "Xylaria chiuyuanii",
@@ -162,6 +162,12 @@
    "zhtw": "卵形炭角菌",
    "zhcn": "卵形炭角菌",
    "img": "Xylaria_obovata_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Xylaria ochraceostroma",
+   "zhtw": "赭黃炭角菌",
+   "zhcn": "赭黄炭角菌",
+   "img": "Xylaria_ochraceostroma_0a9c2b20-66fa-11f1-8097-490244077f1a_1.jpg"
   },
   {
    "name": "Xylaria pisoniae",

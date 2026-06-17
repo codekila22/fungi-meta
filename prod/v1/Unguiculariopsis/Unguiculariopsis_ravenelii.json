@@ -4,7 +4,6 @@
  "date": [
   "01/11/2026,25496516140032143",
   "12/15/2025,25511531128530644",
-  "10/11/2025,24652178867799212",
   "09/23/2025,24554284020922031",
   "02/27/2025,9101951009915249",
   "02/18/2025,9046948325415518",
@@ -181,38 +180,6 @@
   },
   {
    "author": "江志緯",
-   "image_src": "Unguiculariopsis_ravenelii_7d193e00-a7b9-11f0-a8e9-432b7bbdef2a_1.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Unguiculariopsis_ravenelii_7d193e00-a7b9-11f0-a8e9-432b7bbdef2a_2.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Unguiculariopsis_ravenelii_7d193e00-a7b9-11f0-a8e9-432b7bbdef2a_3.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Unguiculariopsis_ravenelii_7d193e00-a7b9-11f0-a8e9-432b7bbdef2a_4.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Unguiculariopsis_ravenelii_7d193e00-a7b9-11f0-a8e9-432b7bbdef2a_5.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Unguiculariopsis_ravenelii_7d193e00-a7b9-11f0-a8e9-432b7bbdef2a_6.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Unguiculariopsis_ravenelii_7d193e00-a7b9-11f0-a8e9-432b7bbdef2a_7.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Unguiculariopsis_ravenelii_7d193e00-a7b9-11f0-a8e9-432b7bbdef2a_8.jpg"
-  },
-  {
-   "author": "江志緯",
    "image_src": "Unguiculariopsis_ravenelii_1311baa0-f2a5-11f0-a569-5d48bcb1a1a5_1.jpg"
   },
   {
@@ -311,8 +278,10 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "寄生在紅皺裂菌(Rhytidhysteron rufulum)的一種盤菌。"
+  "LookAlikes": "Unguiculariopsis aff. ravenelii,,",
+  "Note": "寄生在紅皺裂菌(Rhytidhysteron rufulum)的一種盤菌。",
+  "la_zhtw": "拉氏擬爪毛盤菌的相似種,,",
+  "la_zhcn": "拉氏拟爪毛盘菌的相似种,,"
  },
  "inaturalist": [
   {
@@ -322,5 +291,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17213074/thumb.jpeg"
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

@@ -2,6 +2,7 @@
  "genus": "Auricularia",
  "name": "mesenterica",
  "date": [
+  "06/06/2026,27110890321928042",
   "12/22/2025,25332630173087408",
   "06/06/2025,9806695236107486",
   "09/17/2024,8107793795997647",
@@ -278,6 +279,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Auricularia_mesenterica_925f2870-e192-11f0-86b5-6b86b69475a7_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_mesenterica_819e5770-6718-11f1-81ed-0d648da220a2_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_mesenterica_819e5770-6718-11f1-81ed-0d648da220a2_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_mesenterica_819e5770-6718-11f1-81ed-0d648da220a2_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Auricularia_mesenterica_819e5770-6718-11f1-81ed-0d648da220a2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -332,5 +349,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28470929/thumb.jpg"
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

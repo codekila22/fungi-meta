@@ -2,6 +2,8 @@
  "genus": "Basidopus",
  "name": "interruptus",
  "date": [
+  "06/13/2026,27214663608217379",
+  "06/12/2026,27204553529228387",
   "07/12/2025,10085252398251767",
   "11/25/2024,8583244051785950",
   "09/08/2024,8003343033109391",
@@ -380,6 +382,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_interrupta_b88d3e10-ad5e-11ef-8970-570fb1fd92c4_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Basidopus_interruptus_c33e4270-67cd-11f1-8f8f-6754ca100b0b_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Basidopus_interruptus_c33e4270-67cd-11f1-8f8f-6754ca100b0b_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Basidopus_interruptus_c33e4270-67cd-11f1-8f8f-6754ca100b0b_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Basidopus_interruptus_c33e4270-67cd-11f1-8f8f-6754ca100b0b_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Basidopus_interruptus_c33e4270-67cd-11f1-8f8f-6754ca100b0b_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Basidopus_interruptus_c33e4270-67cd-11f1-8f8f-6754ca100b0b_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Basidopus_interruptus_c33e4270-67cd-11f1-8f8f-6754ca100b0b_7.jpg"
   }
  ],
  "synonym": [
@@ -436,5 +466,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/384937299/thumb.jpeg"
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

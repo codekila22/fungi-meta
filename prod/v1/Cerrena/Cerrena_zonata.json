@@ -2,6 +2,7 @@
  "genus": "Cerrena",
  "name": "zonata",
  "date": [
+  "06/08/2026,27160284630321944",
   "12/31/2025,25381516741532084",
   "07/24/2025,23999192239764548",
   "07/04/2025,10028247440618930",
@@ -316,6 +317,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Cerrena_zonata_c6d2b9b0-e7ae-11f0-99e3-911e65a1b17a_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cerrena_zonata_64c47f00-66bc-11f1-beed-e1f2db233c75_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cerrena_zonata_64c47f00-66bc-11f1-beed-e1f2db233c75_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cerrena_zonata_64c47f00-66bc-11f1-beed-e1f2db233c75_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cerrena_zonata_64c47f00-66bc-11f1-beed-e1f2db233c75_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -366,5 +383,5 @@
    "src": "https://static.inaturalist.org/photos/2341604/thumb.JPG"
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

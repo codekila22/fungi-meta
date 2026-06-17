@@ -2,8 +2,14 @@
  "name": "Psilocybe",
  "zhtw": "裸蓋菇屬",
  "zhcn": "裸盖菇属",
- "timestamp": "20260425-104540",
+ "timestamp": "20260617-133739",
  "list": [
+  {
+   "name": "Psilocybe aff. banderillensis",
+   "zhtw": "班德里亞裸蓋菇相似種",
+   "zhcn": "班德里亚裸盖菇相似种",
+   "img": "Psilocybe_aff. banderillensis_f22cf900-6980-11f1-a06c-9f1908df9a8c_1.jpg"
+  },
   {
    "name": "Psilocybe angulospora",
    "zhtw": "角孢裸蓋菇",

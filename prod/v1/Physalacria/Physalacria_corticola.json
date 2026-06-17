@@ -1,0 +1,70 @@
+{
+ "genus": "Physalacria",
+ "name": "corticola",
+ "date": [
+  "05/02/2026,26645894248427654"
+ ],
+ "names_zhtw": [
+  "樹皮生膨瑚菌"
+ ],
+ "names_en": [],
+ "url": "26645894248427654",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_corticola_a8f507c0-66f4-11f1-8097-490244077f1a_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_corticola_a8f507c0-66f4-11f1-8097-490244077f1a_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_corticola_a8f507c0-66f4-11f1-8097-490244077f1a_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_corticola_a8f507c0-66f4-11f1-8097-490244077f1a_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "树皮生膨瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0,2",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260617-133739"
+}

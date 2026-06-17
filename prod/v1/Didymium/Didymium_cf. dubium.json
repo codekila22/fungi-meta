@@ -1,0 +1,77 @@
+{
+ "genus": "Didymium",
+ "name": "cf. dubium",
+ "date": [
+  "04/07/2022,4797400013703725"
+ ],
+ "names_zhtw": [
+  "疑似迷疑鈣皮黏菌"
+ ],
+ "names_en": [],
+ "url": "4797400013703725",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Didymium_cf. dubium_1cfd41c0-63a1-11f1-9777-7d08bf38461b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Didymium_cf. dubium_1cfd41c0-63a1-11f1-9777-7d08bf38461b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Didymium_cf. dubium_1cfd41c0-63a1-11f1-9777-7d08bf38461b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Didymium_cf. dubium_1cfd41c0-63a1-11f1-9777-7d08bf38461b_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似迷疑钙皮黏菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0,2",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "inaturalist": [
+  {
+   "name": "Didymium dubium",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382182",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/153292813/square.jpeg"
+  }
+ ],
+ "timestamp": "20260617-133739"
+}

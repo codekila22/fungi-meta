@@ -1,0 +1,94 @@
+{
+ "genus": "Physalacria",
+ "name": "cryptomeriae",
+ "date": [
+  "05/02/2026,26672528775764201"
+ ],
+ "names_zhtw": [
+  "柳杉膨瑚菌"
+ ],
+ "names_en": [],
+ "url": "26672528775764201",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_cryptomeriae_df69a000-66f8-11f1-8097-490244077f1a_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_cryptomeriae_df69a000-66f8-11f1-8097-490244077f1a_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_cryptomeriae_df69a000-66f8-11f1-8097-490244077f1a_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_cryptomeriae_df69a000-66f8-11f1-8097-490244077f1a_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_cryptomeriae_df69a000-66f8-11f1-8097-490244077f1a_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_cryptomeriae_df69a000-66f8-11f1-8097-490244077f1a_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_cryptomeriae_df69a000-66f8-11f1-8097-490244077f1a_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Physalacria_cryptomeriae_df69a000-66f8-11f1-8097-490244077f1a_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "柳杉膨瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0,2",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "生長於柳杉枯枝枯葉上。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Physalacria cryptomeriae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1665855",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/609435512/square.jpg"
+  }
+ ],
+ "timestamp": "20260617-133739"
+}

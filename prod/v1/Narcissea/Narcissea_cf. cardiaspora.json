@@ -1,0 +1,84 @@
+{
+ "genus": "Narcissea",
+ "name": "cf. cardiaspora",
+ "date": [
+  "04/13/2026,26410739408609807"
+ ],
+ "names_zhtw": [
+  "疑似心孢鬼傘"
+ ],
+ "names_en": [],
+ "url": "26410739408609807",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_cf. cardiaspora_3a838460-66fe-11f1-a296-35fa180d60c5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_cf. cardiaspora_3a838460-66fe-11f1-a296-35fa180d60c5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_cf. cardiaspora_3a838460-66fe-11f1-a296-35fa180d60c5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_cf. cardiaspora_3a838460-66fe-11f1-a296-35fa180d60c5_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Narcissea_cf. cardiaspora_3a838460-66fe-11f1-a296-35fa180d60c5_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "疑似心孢鬼伞"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0,2",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "ground,debris",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Narcissea patouillardii,,",
+  "Note": "生長於堆肥上。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "帕氏心孢鬼傘,,",
+  "la_zhcn": "帕氏心孢鬼伞,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Narcissea cardiaspora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1567655",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/601772824/square.jpg"
+  }
+ ],
+ "timestamp": "20260617-133739"
+}

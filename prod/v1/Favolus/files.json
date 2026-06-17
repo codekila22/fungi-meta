@@ -2,7 +2,7 @@
  "name": "Favolus",
  "zhtw": "菱孔菌屬",
  "zhcn": "菱孔菌属",
- "timestamp": "20260425-104540",
+ "timestamp": "20260617-133739",
  "list": [
   {
    "name": "Favolus acervatus",
@@ -38,6 +38,12 @@
    "img": "Polyporus_grammocephalus_5_CC BY-NC_Hannah Wang.jpg"
   },
   {
+   "name": "Favolus pseudoprinceps",
+   "zhtw": "擬高大菱孔菌",
+   "zhcn": "拟高大菱孔菌",
+   "img": "Favolus_yanomami_36b10c40-61f1-11ef-8070-edba09ff1188_1.jpg"
+  },
+  {
    "name": "Favolus tenuiculus",
    "zhtw": "略薄菱孔菌",
    "zhcn": "略薄菱孔菌",
@@ -47,6 +53,9 @@
    "name": "Favolus yanomami",
    "zhtw": "亞諾馬米菱孔菌",
    "zhcn": "亚诺马米菱孔菌",
+   "current": "Favolus pseudoprinceps",
+   "current_zhtw": "擬高大菱孔菌",
+   "current_zhcn": "拟高大菱孔菌",
    "img": "Favolus_yanomami_36b10c40-61f1-11ef-8070-edba09ff1188_1.jpg"
   }
  ]

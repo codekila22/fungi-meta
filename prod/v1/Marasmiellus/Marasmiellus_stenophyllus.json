@@ -2,6 +2,7 @@
  "genus": "Marasmiellus",
  "name": "stenophyllus",
  "date": [
+  "05/02/2026,26652479897769089",
   "09/29/2025,24701504622866636",
   "04/02/2025,9565711016872577",
   "04/11/2024,7208664499243919",
@@ -147,6 +148,34 @@
   {
    "author": "江志緯",
    "image_src": "Marasmiellus_stenophyllus_a8ce7d10-ab30-11f0-9c8b-ef5c4f1388cb_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Marasmiellus_stenophyllus_9c834580-66f7-11f1-8097-490244077f1a_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Marasmiellus_stenophyllus_9c834580-66f7-11f1-8097-490244077f1a_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Marasmiellus_stenophyllus_9c834580-66f7-11f1-8097-490244077f1a_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Marasmiellus_stenophyllus_9c834580-66f7-11f1-8097-490244077f1a_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Marasmiellus_stenophyllus_9c834580-66f7-11f1-8097-490244077f1a_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Marasmiellus_stenophyllus_9c834580-66f7-11f1-8097-490244077f1a_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Marasmiellus_stenophyllus_9c834580-66f7-11f1-8097-490244077f1a_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -196,5 +225,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245239538/thumb.jpeg"
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

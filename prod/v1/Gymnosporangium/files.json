@@ -2,13 +2,19 @@
  "name": "Gymnosporangium",
  "zhtw": "膠銹菌屬",
  "zhcn": "胶锈菌属",
- "timestamp": "20260425-104540",
+ "timestamp": "20260617-133739",
  "list": [
   {
    "name": "Gymnosporangium asiaticum",
    "zhtw": "梨膠銹菌",
    "zhcn": "梨胶锈菌",
    "img": "Gymnosporangium_asiaticum_1_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "name": "Gymnosporangium corniforme",
+   "zhtw": "角狀膠銹菌",
+   "zhcn": "角状胶锈菌",
+   "img": "Gymnosporangium_corniforme_98004f60-631b-11f1-8c7b-35e0c681c388_1.jpg"
   },
   {
    "name": "Gymnosporangium cornutum",

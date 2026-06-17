@@ -2,6 +2,7 @@
  "genus": "Candolleomyces",
  "name": "yanshanensis",
  "date": [
+  "06/07/2026,27124236193926788",
   "04/18/2023,5898718910238491",
   "06/17/2022,5004003089710082",
   "05/09/2022,4878727188904340",
@@ -177,6 +178,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Candolleomyces_candolleanus_a76e06f0-df10-11ed-bf61-0521fe5595ab_10.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Candolleomyces_yanshanensis_0af23b60-66ef-11f1-a786-5d18feaced83_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Candolleomyces_yanshanensis_0af23b60-66ef-11f1-a786-5d18feaced83_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Candolleomyces_yanshanensis_0af23b60-66ef-11f1-a786-5d18feaced83_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Candolleomyces_yanshanensis_0af23b60-66ef-11f1-a786-5d18feaced83_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Candolleomyces_yanshanensis_0af23b60-66ef-11f1-a786-5d18feaced83_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Candolleomyces_yanshanensis_0af23b60-66ef-11f1-a786-5d18feaced83_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -217,5 +242,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

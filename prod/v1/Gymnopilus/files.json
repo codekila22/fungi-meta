@@ -2,13 +2,19 @@
  "name": "Gymnopilus",
  "zhtw": "裸傘屬",
  "zhcn": "裸伞属",
- "timestamp": "20260425-104540",
+ "timestamp": "20260617-133739",
  "list": [
   {
    "name": "Gymnopilus aeruginosus",
    "zhtw": "綠褐裸傘",
    "zhcn": "绿褐裸伞",
    "img": "Gymnopilus_aeruginosus_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Gymnopilus cf. allantopus",
+   "zhtw": "疑似腸柄裸傘",
+   "zhcn": "疑似肠柄裸伞",
+   "img": "Gymnopilus_cf. allantopus_169a08e0-63b5-11f1-85b5-b1c1885a912b_1.jpg"
   },
   {
    "name": "Gymnopilus dilepis",

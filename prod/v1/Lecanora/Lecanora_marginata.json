@@ -12,10 +12,6 @@
  "images": [
   {
    "author": "Sunny Wang",
-   "image_src": "Lecanora_marginata_71a79220-3fd4-11f1-92a7-41067c4fc4f6_1.jpg"
-  },
-  {
-   "author": "Sunny Wang",
    "image_src": "Lecanora_marginata_71a79220-3fd4-11f1-92a7-41067c4fc4f6_2.jpg"
   },
   {
@@ -29,10 +25,6 @@
   {
    "author": "Sunny Wang",
    "image_src": "Lecanora_marginata_71a79220-3fd4-11f1-92a7-41067c4fc4f6_5.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Lecanora_marginata_71a79220-3fd4-11f1-92a7-41067c4fc4f6_6.jpg"
   },
   {
    "author": "Sunny Wang",
@@ -125,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14656264/square.jpeg"
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }

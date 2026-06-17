@@ -2,6 +2,7 @@
  "genus": "Favolus",
  "name": "grammocephalus",
  "date": [
+  "06/16/2026,27238730709144002",
   "07/14/2025,25856162984067455",
   "03/10/2025,9186463561463993",
   "04/29/2024,7285288268248208",
@@ -166,6 +167,26 @@
   {
    "author": "向高世",
    "image_src": "Favolus_grammocephalus_ae64f700-0fac-11f1-8719-c1ab0b46d25d_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Favolus_grammocephalus_79f546d0-694a-11f1-8abd-47651f1c8b63_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Favolus_grammocephalus_79f546d0-694a-11f1-8abd-47651f1c8b63_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Favolus_grammocephalus_79f546d0-694a-11f1-8abd-47651f1c8b63_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Favolus_grammocephalus_79f546d0-694a-11f1-8abd-47651f1c8b63_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Favolus_grammocephalus_79f546d0-694a-11f1-8abd-47651f1c8b63_5.jpg"
   }
  ],
  "synonym": [
@@ -240,5 +261,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253492089/thumb.jpg"
   }
  ],
- "timestamp": "20260425-104540"
+ "timestamp": "20260617-133739"
 }
