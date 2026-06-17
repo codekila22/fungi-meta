@@ -2,6 +2,7 @@
  "genus": "Stereum",
  "name": "gausapatum",
  "date": [
+  "06/16/2026,27244895591860847",
   "01/02/2026,25499445709739186",
   "12/31/2025,25380700041613754",
   "07/26/2025,23962458280104611",
@@ -301,6 +302,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Stereum_gausapatum_adfb2810-f365-11f0-8963-3b6c150f88e7_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_97aa5f40-6a02-11f1-8183-a136ae3cbbfa_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_97aa5f40-6a02-11f1-8183-a136ae3cbbfa_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_97aa5f40-6a02-11f1-8183-a136ae3cbbfa_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_97aa5f40-6a02-11f1-8183-a136ae3cbbfa_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -350,5 +367,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5489411/thumb.jpg"
   }
  ],
- "timestamp": "20260616-202016"
+ "timestamp": "20260617-123201"
 }

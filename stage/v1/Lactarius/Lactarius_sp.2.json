@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "sp.2",
  "date": [
+  "06/16/2026,27244988445184895",
   "08/03/2025,24022724560744649",
   "06/10/2025,9843954975714845",
   "08/05/2024,7796910687085961",
@@ -297,6 +298,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_sp.2_b41b54b0-7050-11f0-94f8-cd8100dec640_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_sp.2_43393ee0-6a02-11f1-8183-a136ae3cbbfa_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_sp.2_43393ee0-6a02-11f1-8183-a136ae3cbbfa_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_sp.2_43393ee0-6a02-11f1-8183-a136ae3cbbfa_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_sp.2_43393ee0-6a02-11f1-8183-a136ae3cbbfa_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -338,5 +355,5 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260616-202016"
+ "timestamp": "20260617-123201"
 }

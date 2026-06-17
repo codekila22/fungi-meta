@@ -2,6 +2,7 @@
  "genus": "Calostoma",
  "name": "japonicum",
  "date": [
+  "06/16/2026,27244771025206637",
   "11/03/2025,24928434016840361",
   "09/27/2025,25325873573763068",
   "08/03/2025,24022675957416176",
@@ -318,6 +319,18 @@
   {
    "author": "向高世",
    "image_src": "Calostoma_japonicum_d986ada0-e218-11f0-a31f-f551c24579bc_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_90838d70-6a04-11f1-8183-a136ae3cbbfa_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_90838d70-6a04-11f1-8183-a136ae3cbbfa_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_90838d70-6a04-11f1-8183-a136ae3cbbfa_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -367,5 +380,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11055950/thumb.jpg"
   }
  ],
- "timestamp": "20260616-202016"
+ "timestamp": "20260617-123201"
 }

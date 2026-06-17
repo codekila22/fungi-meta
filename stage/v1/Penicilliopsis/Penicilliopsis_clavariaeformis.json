@@ -2,6 +2,7 @@
  "genus": "Penicilliopsis",
  "name": "clavariaeformis",
  "date": [
+  "06/16/2026,27242918202058586",
   "06/12/2025,9849173578526318",
   "10/29/2024,8416734681770222",
   "02/04/2024,6937992906311081",
@@ -115,6 +116,26 @@
   {
    "author": "何俊霖",
    "image_src": "Penicilliopsis_clavariaeformis_17ee6380-9e86-11ef-9f59-db7df2d9998d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Penicilliopsis_clavariaeformis_377bcdf0-6a04-11f1-8183-a136ae3cbbfa_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Penicilliopsis_clavariaeformis_377bcdf0-6a04-11f1-8183-a136ae3cbbfa_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Penicilliopsis_clavariaeformis_377bcdf0-6a04-11f1-8183-a136ae3cbbfa_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Penicilliopsis_clavariaeformis_377bcdf0-6a04-11f1-8183-a136ae3cbbfa_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Penicilliopsis_clavariaeformis_377bcdf0-6a04-11f1-8183-a136ae3cbbfa_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -162,5 +183,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6505001/thumb.jpeg"
   }
  ],
- "timestamp": "20260616-202016"
+ "timestamp": "20260617-123201"
 }
