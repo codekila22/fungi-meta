@@ -2,6 +2,7 @@
  "genus": "Cribraria",
  "name": "cancellata var. fusca",
  "date": [
+  "06/18/2026,27267251662958573",
   "08/23/2025,24229173260099777",
   "04/22/2025,9457056867737993",
   "05/12/2024,7353000324810335",
@@ -174,6 +175,26 @@
   {
    "author": "江志緯",
    "image_src": "Cribraria_cancellata_b30b9bf0-83e4-11f0-a029-cbc99803ad11_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cribraria_cancellata var. fusca_4c4dc620-6ae0-11f1-9313-cf43f9ce2c46_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cribraria_cancellata var. fusca_4c4dc620-6ae0-11f1-9313-cf43f9ce2c46_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cribraria_cancellata var. fusca_4c4dc620-6ae0-11f1-9313-cf43f9ce2c46_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cribraria_cancellata var. fusca_4c4dc620-6ae0-11f1-9313-cf43f9ce2c46_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cribraria_cancellata var. fusca_4c4dc620-6ae0-11f1-9313-cf43f9ce2c46_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -224,5 +245,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/25766669/thumb.jpeg"
   }
  ],
- "timestamp": "20260617-133739"
+ "timestamp": "20260618-144357"
 }

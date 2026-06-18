@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "oberwinklerana",
  "date": [
+  "06/15/2026,27255016957515377",
   "08/01/2025,24011326428551129",
   "09/08/2024,8001446393299055",
   "08/19/2024,7906767919433570",
@@ -122,6 +123,38 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_oberwinklerana_cbd3c130-6f4e-11f0-ac7c-03471812bf8a_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_oberwinklerana_a9ea8c70-6a43-11f1-a41d-a761c135f162_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_oberwinklerana_a9ea8c70-6a43-11f1-a41d-a761c135f162_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_oberwinklerana_a9ea8c70-6a43-11f1-a41d-a761c135f162_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_oberwinklerana_a9ea8c70-6a43-11f1-a41d-a761c135f162_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_oberwinklerana_a9ea8c70-6a43-11f1-a41d-a761c135f162_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_oberwinklerana_a9ea8c70-6a43-11f1-a41d-a761c135f162_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_oberwinklerana_a9ea8c70-6a43-11f1-a41d-a761c135f162_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_oberwinklerana_a9ea8c70-6a43-11f1-a41d-a761c135f162_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -173,5 +206,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/84772280/thumb.jpg"
   }
  ],
- "timestamp": "20260617-133739"
+ "timestamp": "20260618-144357"
 }
