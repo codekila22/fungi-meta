@@ -2,12 +2,15 @@
  "name": "Togninia",
  "zhtw": "帶形殼菌屬",
  "zhcn": "带形壳菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Togninia aff. minima",
    "zhtw": "微小帶形殼菌的相似種",
    "zhcn": "微小带形壳菌的相似种",
+   "current": "Phaeoacremonium aff. minimum",
+   "current_zhtw": "極小暗色枝頂孢",
+   "current_zhcn": "极小暗色枝顶孢",
    "img": "Togninia_aff. minima_17ba7a90-d0c0-11ef-94dc-61cf3cd0aee9_1.jpg"
   }
  ]

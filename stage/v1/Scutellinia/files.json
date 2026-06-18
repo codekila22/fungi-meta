@@ -2,12 +2,15 @@
  "name": "Scutellinia",
  "zhtw": "盾盤菌屬",
  "zhcn": "盾盘菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Scutellinia crucipila",
    "zhtw": "十字毛盾盤菌",
    "zhcn": "十字毛盾盘菌",
+   "current": "Cheilymenia crucipila",
+   "current_zhtw": "十字毛緣盤菌",
+   "current_zhcn": "十字毛缘盘菌",
    "img": "Scutellinia_crucipila_1_CC BY-NC_陳雅芬.jpg"
   },
   {

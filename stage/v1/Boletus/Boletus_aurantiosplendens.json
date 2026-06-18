@@ -124,8 +124,8 @@
   "LookAlikes": "Crocinoboletus laetissimus,Pulveroboletus auriflammeus,",
   "Note": "",
   "GrowthEco": "mycorrhizal",
-  "la_zhtw": "橙色牛肝菌,金粉末牛肝菌,",
-  "la_zhcn": "橙色牛肝菌,金粉末牛肝菌,"
+  "la_zhtw": "橙色牛肝菌,,",
+  "la_zhcn": "橙色牛肝菌,,"
  },
  "inaturalist": [
   {
@@ -135,5 +135,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21543934/thumb.jpg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

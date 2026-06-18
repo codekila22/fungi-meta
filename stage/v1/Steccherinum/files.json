@@ -2,8 +2,14 @@
  "name": "Steccherinum",
  "zhtw": "齒耳菌屬",
  "zhcn": "齿耳菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
+  {
+   "name": "Steccherinum aurantilaetum",
+   "zhtw": "橙色齒耳菌",
+   "zhcn": "橙色齿耳菌",
+   "img": "Tyromyces_aurantilaetus_1_CC BY-NC_向高世.jpg"
+  },
   {
    "name": "Steccherinum ciliolatum",
    "zhtw": "闊纖毛齒耳菌",
@@ -20,6 +26,9 @@
    "name": "Steccherinum murashkinskyi",
    "zhtw": "穆氏齒耳菌",
    "zhcn": "穆氏齿耳菌",
+   "current": "Metuloidea murashkinskyi",
+   "current_zhtw": "穆氏擬瘤齒菌",
+   "current_zhcn": "穆氏拟瘤齿菌",
    "img": "Steccherinum_murashkinskyi_9_CC BY-NC_陳啟仁.jpg"
   },
   {
@@ -38,6 +47,9 @@
    "name": "Steccherinum septentrionale",
    "zhtw": "大肉齒耳菌",
    "zhcn": "大肉齿耳菌",
+   "current": "Climacodon septentrionalis",
+   "current_zhtw": "北方梯囊齒菌",
+   "current_zhcn": "北方梯囊齿菌",
    "img": "Steccherinum_septentrionale_2_CC BY-NC.jpg"
   }
  ]

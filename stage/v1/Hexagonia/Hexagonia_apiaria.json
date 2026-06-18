@@ -304,8 +304,8 @@
   "LookAlikes": "Hexagonia hirta,,",
   "Note": "菌孔直徑2-4mm，常生長在龍眼/荔枝或其他闊葉木枯枝上。\n與相似種「多毛蜂窩菌」相比，其菌蓋纖毛較粗且容易脫落，菌孔也比較大。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "多毛蜂窩菌,,",
-  "la_zhcn": "多毛蜂窝菌,,"
+  "la_zhtw": ",,",
+  "la_zhcn": ",,"
  },
  "inaturalist": [
   {
@@ -315,5 +315,5 @@
    "src": "https://static.inaturalist.org/photos/25478917/thumb.jpg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

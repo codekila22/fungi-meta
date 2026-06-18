@@ -2,12 +2,15 @@
  "name": "Leucopaxillus",
  "zhtw": "白椿菇屬",
  "zhcn": "白椿菇属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Leucopaxillus giganteus",
-   "zhtw": "巨白樁菇",
-   "zhcn": "巨白桩菇",
+   "zhtw": "巨白樁菇/巨大白樁菇",
+   "zhcn": "巨白桩菇/巨大白桩菇",
+   "current": "Aspropaxillus giganteus",
+   "current_zhtw": "巨白椿菇",
+   "current_zhcn": "巨白椿菇",
    "img": "Leucopaxillus_giganteus_1_CC BY-NC_向高世.jpg"
   }
  ]

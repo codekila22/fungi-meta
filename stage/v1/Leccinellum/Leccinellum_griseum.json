@@ -1,0 +1,94 @@
+{
+ "genus": "Leccinellum",
+ "name": "griseum",
+ "date": [
+  "07/03/2021,3926321290811606"
+ ],
+ "names_zhtw": [
+  "灰小疣柄牛肝菌",
+  "灰疣柄牛肝菌"
+ ],
+ "names_en": [],
+ "url": "3926321290811606",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Leccinum_griseum_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Leccinum_griseum_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Leccinum_griseum_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Leccinum_griseum_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Leccinum_griseum_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Leccinum_griseum_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Leccinum_griseum_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Leccinum_griseum_8_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Leccinum griseum",
+   "zhtw": "灰疣柄牛肝菌",
+   "zhcn": "灰疣柄牛肝菌"
+  }
+ ],
+ "names_zhcn": [
+  "灰小疣柄牛肝菌",
+  "灰疣柄牛肝菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4284635991,4285098345",
+  "CapDiamRangeValues": "30,120",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "timestamp": "20260618-211326"
+}

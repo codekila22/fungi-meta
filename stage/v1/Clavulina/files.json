@@ -2,7 +2,7 @@
  "name": "Clavulina",
  "zhtw": "鎖瑚菌屬",
  "zhcn": "锁瑚菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Clavulina aff. tepurumenga",
@@ -32,15 +32,15 @@
    "name": "Clavulina coralloides",
    "zhtw": "珊瑚狀鎖瑚菌",
    "zhcn": "珊瑚状锁瑚菌",
-   "current": "Clavulina cristata",
-   "current_zhtw": "冠鎖瑚菌",
-   "current_zhcn": "冠锁瑚菌",
    "img": "Clavulina_cristata_1_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Clavulina cristata",
    "zhtw": "冠鎖瑚菌",
    "zhcn": "冠锁瑚菌",
+   "current": "Clavulina coralloides",
+   "current_zhtw": "珊瑚狀鎖瑚菌",
+   "current_zhcn": "珊瑚状锁瑚菌",
    "img": "Clavulina_cristata_1_CC BY-NC_James Ho.jpg"
   },
   {

@@ -2,7 +2,7 @@
  "name": "Lepraria",
  "zhtw": "癩屑衣屬",
  "zhcn": "癞屑衣属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Lepraria cf. normandinoides",
@@ -15,6 +15,12 @@
    "zhtw": "類諾曼第癩屑衣",
    "zhcn": "类诺曼第癞屑衣",
    "img": "Lepraria_normandinoides_1af4c8f0-b848-11ee-a7c2-ed31aae4ab5b_1.jpg"
+  },
+  {
+   "name": "Lepraria pseudoarbuscula",
+   "zhtw": "擬樹粉衣",
+   "zhcn": "拟树粉衣",
+   "img": "Leprocaulon_pseudoarbuscula_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

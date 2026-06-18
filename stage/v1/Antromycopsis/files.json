@@ -2,13 +2,16 @@
  "name": "Antromycopsis",
  "zhtw": "黑腔菌屬",
  "zhcn": "黑腔菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Antromycopsis broussonetiae",
    "zhtw": "白柄黑腔菌",
    "zhcn": "白柄黑腔菌",
-   "img": "Antromycopsis_broussonetiae_1_CC BY-NC_胡家銘.jpg"
+   "current": "Pleurotus cystidiosus",
+   "current_zhtw": "囊狀側耳",
+   "current_zhcn": "囊状侧耳",
+   "img": "Pleurotus_cystidiosus_1_CC BY-NC_Rachel Ding.jpg"
   }
  ]
 }

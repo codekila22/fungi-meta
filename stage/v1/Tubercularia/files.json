@@ -2,7 +2,7 @@
  "name": "Tubercularia",
  "zhtw": "瘤座孢屬",
  "zhcn": "瘤座孢属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Tubercularia lateritia",
@@ -14,7 +14,10 @@
    "name": "Tubercularia vulgaris",
    "zhtw": "普通瘤座孢",
    "zhcn": "普通瘤座孢",
-   "img": "Tubercularia_vulgaris_1_CC BY-NC_陳雅芬.jpg"
+   "current": "Nectria cinnabarina",
+   "current_zhtw": "朱紅叢赤殼菌",
+   "current_zhcn": "朱红丛赤壳菌",
+   "img": "Nectria_cinnabarina_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

@@ -8,7 +8,8 @@
   "11/01/2023,6627459150697793",
   "07/30/2023,8331093827000975",
   "03/18/2022,4772990126144714",
-  "08/28/2019,25094763843540710"
+  "08/28/2019,25094763843540710",
+  "01/01/0001"
  ],
  "names_zhtw": [
   "棕灰口蘑"
@@ -223,6 +224,37 @@
   {
    "author": "向高世",
    "image_src": "Tricholoma_terreum_2dfbead0-3fde-11f1-92a7-41067c4fc4f6_5.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Tricholoma_myomyces_6_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Tricholoma_myomyces_2_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Tricholoma_myomyces_3_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Tricholoma_myomyces_4_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Tricholoma_myomyces_5_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "胡家銘",
+   "image_src": "Tricholoma_myomyces_1_CC BY-NC_胡家銘.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Tricholoma myomyces",
+   "zhtw": "灰棕口蘑",
+   "zhcn": "灰棕口蘑"
   }
  ],
  "names_zhcn": [
@@ -302,5 +334,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

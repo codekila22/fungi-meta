@@ -2,12 +2,21 @@
  "name": "Omphalotus",
  "zhtw": "臍菇屬",
  "zhcn": "脐菇属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
+  {
+   "name": "Omphalotus guepiniiformis",
+   "zhtw": "膠狀日本臍菇",
+   "zhcn": "胶状日本脐菇",
+   "img": "Omphalotus_japonicus_1_CC BY-NC_李景泰.jpg"
+  },
   {
    "name": "Omphalotus japonicus",
    "zhtw": "日本臍菇",
    "zhcn": "日本脐菇",
+   "current": "Omphalotus guepiniiformis",
+   "current_zhtw": "膠狀日本臍菇",
+   "current_zhcn": "胶状日本脐菇",
    "img": "Omphalotus_japonicus_1_CC BY-NC_李景泰.jpg"
   }
  ]

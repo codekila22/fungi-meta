@@ -1,0 +1,89 @@
+{
+ "genus": "Trichoderma",
+ "name": "alutaceum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "革褐木黴",
+  "木棒木黴"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/963",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Podostroma_alutaceum_7_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podostroma_alutaceum_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podostroma_alutaceum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podostroma_alutaceum_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podostroma_alutaceum_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podostroma_alutaceum_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Podostroma_alutaceum_1_CC BY-NC.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Podostroma alutaceum",
+   "zhtw": "木棒肉棒菌",
+   "zhcn": "木棒肉棒菌"
+  }
+ ],
+ "names_zhcn": [
+  "革褐木霉",
+  "木棒木霉"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4292786311",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "timestamp": "20260618-211326"
+}

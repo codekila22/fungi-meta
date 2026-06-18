@@ -1,0 +1,78 @@
+{
+ "genus": "Lepiota",
+ "name": "boudieri",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "布氏環柄菇",
+  "布迪埃環柄菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/853",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Lepiota_fulvella_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_fulvella_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_fulvella_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Lepiota_fulvella_4_CC BY-NC.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Lepiota fulvella",
+   "zhtw": "褐蓋環柄菇",
+   "zhcn": "褐盖环柄菇"
+  }
+ ],
+ "names_zhcn": [
+  "布氏环柄菇",
+  "布迪埃环柄菇"
+ ],
+ "meta": {
+  "CapColors": "4294940928,4286578688",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260618-211326"
+}

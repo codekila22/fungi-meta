@@ -2,7 +2,7 @@
  "name": "Russula",
  "zhtw": "紅菇屬",
  "zhcn": "红菇属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Russula adusta",
@@ -155,6 +155,12 @@
    "img": "Russula_fragilis_1_CC BY-NC.jpg"
   },
   {
+   "name": "Russula grata",
+   "zhtw": "香臭黃紅菇",
+   "zhcn": "香臭黄红菇",
+   "img": "Russula_laurocerasi_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
    "name": "Russula grisea",
    "zhtw": "灰紅菇",
    "zhcn": "灰红菇",
@@ -176,13 +182,19 @@
    "name": "Russula laurocerasi",
    "zhtw": "擬臭黃紅菇",
    "zhcn": "拟臭黄红菇",
+   "current": "Russula grata",
+   "current_zhtw": "香臭黃紅菇",
+   "current_zhcn": "香臭黄红菇",
    "img": "Russula_laurocerasi_5_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Russula nigricans",
    "zhtw": "稀褶黑紅菇",
    "zhcn": "稀褶黑红菇",
-   "img": "Russula_nigricans_1_CC BY-NC_蔡金旗.jpg"
+   "current": "Russula adusta",
+   "current_zhtw": "煙色紅菇",
+   "current_zhcn": "烟色红菇",
+   "img": "Russula_adusta_1_CC BY-NC_Samra Chang.jpg"
   },
   {
    "name": "Russula ochroleuca",
@@ -224,6 +236,9 @@
    "name": "Russula puiggarii complex",
    "zhtw": "普氏紅菇複合群",
    "zhcn": "普氏红菇复合群",
+   "current": "Clitocybe puiggarii complex",
+   "current_zhtw": "普氏杯傘",
+   "current_zhcn": "普氏杯伞",
    "img": "Russula_puiggarii complex_c0e8f0d0-7a54-10d9-943a-b3743c54e38c_1.jpg"
   },
   {
@@ -272,7 +287,10 @@
    "name": "Russula viridirubrolimbata",
    "zhtw": "紅邊綠紅菇",
    "zhcn": "红边绿红菇",
-   "img": "Russula_viridirubrolimbata_e43db070-393c-1065-9a59-857932502694_1.jpg"
+   "current": "Russula virescens",
+   "current_zhtw": "綠紅菇",
+   "current_zhcn": "绿红菇",
+   "img": "Russula_virescens_6_CC BY-NC_柯文俊.jpg"
   }
  ]
 }

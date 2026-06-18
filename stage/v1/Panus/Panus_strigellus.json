@@ -191,8 +191,8 @@
   "LookAlikes": "Panus neostrigosus,Panus velutinus,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "新粗毛革耳,絨毛革耳,",
-  "la_zhcn": "新粗毛革耳,绒毛革耳,"
+  "la_zhtw": "新粗毛革耳,,",
+  "la_zhcn": "新粗毛革耳,,"
  },
  "inaturalist": [
   {
@@ -202,5 +202,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89517534/thumb.jpg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

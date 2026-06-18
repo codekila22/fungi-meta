@@ -2,7 +2,7 @@
  "name": "Cystoderma",
  "zhtw": "囊皮傘屬",
  "zhcn": "囊皮伞属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Cystoderma amianthinum",
@@ -26,6 +26,9 @@
    "name": "Cystoderma granulosum",
    "zhtw": "疣蓋囊皮傘",
    "zhcn": "疣盖囊皮伞",
+   "current": "Cystodermella granulosa",
+   "current_zhtw": "顆粒小囊皮傘",
+   "current_zhcn": "颗粒小囊皮伞",
    "img": "Cystoderma_cf. granulosum_1_CC BY-NC_Hannah Wang.jpg"
   }
  ]

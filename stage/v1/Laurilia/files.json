@@ -2,7 +2,7 @@
  "name": "Laurilia",
  "zhtw": "杉勞氏菌屬",
  "zhcn": "杉劳氏菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Laurilia sulcata",
@@ -14,6 +14,9 @@
    "name": "Laurilia taxodii",
    "zhtw": "落羽杉勞氏菌",
    "zhcn": "落羽杉劳氏菌",
+   "current": "Lauriliella taxodii",
+   "current_zhtw": "落羽杉小勞氏菌",
+   "current_zhcn": "落羽杉小劳氏菌",
    "img": "Laurilia_taxodii_2_CC BY-NC_陳雅德.jpg"
   }
  ]

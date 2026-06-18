@@ -2,7 +2,7 @@
  "name": "Cordyceps",
  "zhtw": "蟲草屬",
  "zhcn": "虫草属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Cordyceps cylindrica",
@@ -41,6 +41,9 @@
    "name": "Cordyceps martialis",
    "zhtw": "珊瑚蟲草",
    "zhcn": "珊瑚虫草",
+   "current": "Nigelia martialis",
+   "current_zhtw": "珊瑚尼氏蟲草",
+   "current_zhcn": "珊瑚尼氏虫草",
    "img": "Cordyceps_martialis_1_CC BY-NC_蔡古媧.jpg"
   },
   {

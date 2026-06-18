@@ -2,12 +2,15 @@
  "name": "Monographella",
  "zhtw": "雪黴專病菌屬",
  "zhcn": "雪霉专病菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Monographella nivalis",
-   "zhtw": "粉紅雪黴病",
-   "zhcn": "粉红雪霉病",
+   "zhtw": "粉紅雪黴病/雪腐镰刀菌/紅色雪腐病",
+   "zhcn": "粉红雪霉病/雪腐镰刀菌/红色雪腐病",
+   "current": "Microdochium nivale",
+   "current_zhtw": "雪腐小殼孢菌",
+   "current_zhcn": "雪腐小壳孢菌",
    "img": "Monographella_nivalis_499ae8f0-621c-11ef-8f02-69e3d7fe61d6_1.jpg"
   }
  ]

@@ -6,12 +6,18 @@
    "name": "Pseudoplectania vogesiaca",
    "zhtw": "黑赭假暗盤菌",
    "zhcn": "黑赭假暗盘菌"
+  },
+  {
+   "name": "Plectania melaena",
+   "zhtw": "黑褐暗盤菌",
+   "zhcn": "黑褐暗盘菌"
   }
  ],
  "date": [
   "05/18/2026,26853603484323395",
   "03/25/2025,9279626832147665",
-  "09/25/2021,4289379047839160"
+  "09/25/2021,4289379047839160",
+  "01/01/0001"
  ],
  "names_zhtw": [
   "黑褐假暗盤菌"
@@ -210,6 +216,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Pseudoplectania_melaena_bae22850-6316-11f1-83b2-a1dd343f431f_11.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_2_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_1_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_3_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_4_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_5_CC BY-NC_Samra Chang.jpg"
+  },
+  {
+   "author": "Samra Chang",
+   "image_src": "Plectania_melaena_6_CC BY-NC_Samra Chang.jpg"
   }
  ],
  "names_zhcn": [
@@ -258,5 +288,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14792131/thumb.jpg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

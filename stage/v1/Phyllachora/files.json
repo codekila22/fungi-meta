@@ -2,7 +2,7 @@
  "name": "Phyllachora",
  "zhtw": "黑痣菌屬",
  "zhcn": "黑痣菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Phyllachora miscanthi",
@@ -14,6 +14,9 @@
    "name": "Phyllachora pazschkeana",
    "zhtw": "棕葉狗尾草黑痣菌",
    "zhcn": "棕叶狗尾草黑痣菌",
+   "current": "Phyllachora setariicola",
+   "current_zhtw": "狗尾草黑痣菌",
+   "current_zhcn": "狗尾草黑痣菌",
    "img": "Phyllachora_pazschkeana_9494e960-d0c0-11ef-94dc-61cf3cd0aee9_1.jpg"
   },
   {
@@ -21,6 +24,12 @@
    "zhtw": "菩提樹黑痣菌",
    "zhcn": "菩提树黑痣菌",
    "img": "Phyllachora_repens_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Phyllachora setariicola",
+   "zhtw": "狗尾草黑痣菌",
+   "zhcn": "狗尾草黑痣菌",
+   "img": "Phyllachora_pazschkeana_9494e960-d0c0-11ef-94dc-61cf3cd0aee9_1.jpg"
   },
   {
    "name": "Phyllachora shiraiana",

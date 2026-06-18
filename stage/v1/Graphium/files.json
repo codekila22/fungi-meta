@@ -2,12 +2,15 @@
  "name": "Graphium",
  "zhtw": "黏束孢屬",
  "zhcn": "黏束孢属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Graphium putredinis",
    "zhtw": "腐生黏束孢黴",
    "zhcn": "腐生黏束孢霉",
+   "current": "Parascedosporium putredinis",
+   "current_zhtw": "腐生擬帚黴",
+   "current_zhcn": "腐生拟帚霉",
    "img": "Graphium_putredinis_f4673f40-f731-11ef-abb1-23cbe2f066e9_1.jpg"
   }
  ]

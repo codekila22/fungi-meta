@@ -1,0 +1,20 @@
+{
+ "name": "Lepra",
+ "zhtw": "鱗粉衣屬",
+ "zhcn": "鳞粉衣属",
+ "timestamp": "20260618-211326",
+ "list": [
+  {
+   "name": "Lepra commutata",
+   "zhtw": "變雞皮衣",
+   "zhcn": "变鸡皮衣",
+   "img": "Pertusaria_commutata_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Lepra multipuncta",
+   "zhtw": "多斑雞皮衣",
+   "zhcn": "多斑鸡皮衣",
+   "img": "Pertusaria_multipuncta_1_CC BY-NC_江志緯.jpg"
+  }
+ ]
+}

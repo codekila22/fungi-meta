@@ -2,7 +2,7 @@
  "name": "Coprinopsis",
  "zhtw": "擬鬼傘屬",
  "zhcn": "拟鬼伞属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Coprinopsis aff. friesii",
@@ -21,6 +21,12 @@
    "zhtw": "墨汁擬鬼傘",
    "zhcn": "墨汁拟鬼伞",
    "img": "Coprinopsis_atramentaria_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Coprinopsis cineraria",
+   "zhtw": "鼠灰擬鬼傘",
+   "zhcn": "鼠灰拟鬼伞",
+   "img": "Psathyrella_cineraria_3c6ab1b0-c62c-11ee-9072-159421035d8c_1.jpg"
   },
   {
    "name": "Coprinopsis cinerea",

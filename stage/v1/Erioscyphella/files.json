@@ -2,8 +2,14 @@
  "name": "Erioscyphella",
  "zhtw": "粒毛盤菌屬",
  "zhcn": "粒毛盘菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
+  {
+   "name": "Erioscyphella abnormis",
+   "zhtw": "異常粒毛盤菌",
+   "zhcn": "异常粒毛盘菌",
+   "img": "Lachnum_abnorme_1_CC BY-NC_James Ho.jpg"
+  },
   {
    "name": "Erioscyphella ailaoensis",
    "zhtw": "哀牢山粒毛盤菌",
@@ -21,6 +27,12 @@
    "zhtw": "月狀粒毛盤菌",
    "zhcn": "月状粒毛盘菌",
    "img": "Erioscyphella_lunata_cfbe98a0-3fd3-11f1-92a7-41067c4fc4f6_1.jpg"
+  },
+  {
+   "name": "Erioscyphella lushanensis",
+   "zhtw": "廬山粒毛盤菌",
+   "zhcn": "庐山粒毛盘菌",
+   "img": "Lachnum_lushanense_1_CC BY-NC_Sunny Wang.jpg"
   },
   {
    "name": "Erioscyphella sclerotii",

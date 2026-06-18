@@ -244,8 +244,8 @@
   "LookAlikes": "Polyporus hapalopus,,",
   "Note": "無菌柄或短柄，菌蓋放射條紋狀，表面會從乳白色慢慢變化成褐色。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "軟肉多孔菌,,",
-  "la_zhcn": "软肉多孔菌,,"
+  "la_zhtw": ",,",
+  "la_zhcn": ",,"
  },
  "inaturalist": [
   {
@@ -261,5 +261,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253492089/thumb.jpg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

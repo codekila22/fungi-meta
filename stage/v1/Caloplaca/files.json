@@ -2,7 +2,7 @@
  "name": "Caloplaca",
  "zhtw": "橙衣屬",
  "zhcn": "橙衣属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Caloplaca ceracea",
@@ -23,6 +23,9 @@
    "name": "Caloplaca flavovirescens",
    "zhtw": "黃綠橙衣",
    "zhcn": "黄绿橙衣",
+   "current": "Gyalolechia flavovirescens",
+   "current_zhtw": "黃綠金盤衣",
+   "current_zhcn": "黄绿金盘衣",
    "img": "Caloplaca_flavovirescens_1_CC BY-NC_陳麗紅.jpg"
   }
  ]

@@ -2,7 +2,7 @@
  "name": "Leotia",
  "zhtw": "錘舌菌屬",
  "zhcn": "锤舌菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Leotia chlorocephala",
@@ -26,7 +26,10 @@
    "name": "Leotia viscosa",
    "zhtw": "綠頭潤滑錘舌菌",
    "zhcn": "绿头润滑锤舌菌",
-   "img": "Leotia_viscosa_1_CC BY-NC_James Ho.jpg"
+   "current": "Leotia lubrica",
+   "current_zhtw": "潤滑錘舌菌",
+   "current_zhcn": "润滑锤舌菌",
+   "img": "Leotia_lubrica_1_CC BY-NC_James Ho.jpg"
   }
  ]
 }

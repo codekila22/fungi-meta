@@ -2,12 +2,15 @@
  "name": "Trichia",
  "zhtw": "團毛黏菌屬",
  "zhcn": "团毛黏菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Trichia affinis",
    "zhtw": "光絲團毛黏菌",
    "zhcn": "光丝团毛黏菌",
+   "current": "Oligonema affine",
+   "current_zhtw": "近緣少絲黏菌",
+   "current_zhcn": "近缘少丝黏菌",
    "img": "Trichia_affinis_41c4d360-a02f-11ef-ada2-7528d83fa5c1_1.jpg"
   },
   {
@@ -32,12 +35,18 @@
    "name": "Trichia decipiens",
    "zhtw": "長尖團毛黏菌",
    "zhcn": "长尖团毛黏菌",
+   "current": "Hemitrichia decipiens",
+   "current_zhtw": "長尖半毛黏菌",
+   "current_zhcn": "长尖半毛黏菌",
    "img": "Trichia_decipiens_1_CC BY-NC_江志緯.jpg"
   },
   {
    "name": "Trichia decipiens var. olivacea",
    "zhtw": "長尖團毛黏菌橄欖色變種",
    "zhcn": "长尖团毛黏菌橄榄色变种",
+   "current": "Hemitrichia decipiens var. olivacea",
+   "current_zhtw": "長尖半毛黏菌橄欖色變種",
+   "current_zhcn": "长尖半毛黏菌橄榄色变种",
    "img": "Trichia_decipiens var. olivacea_1_CC BY-NC_蔣珮瑩.jpg"
   },
   {
@@ -50,6 +59,9 @@
    "name": "Trichia verrucosa",
    "zhtw": "疣壁團毛黏菌",
    "zhcn": "疣壁团毛黏菌",
+   "current": "Oligonema verrucosum",
+   "current_zhtw": "疣壁少絲黏菌",
+   "current_zhcn": "疣壁少丝黏菌",
    "img": "Trichia_verrucosa_2_CC BY-NC_James Ho.jpg"
   }
  ]

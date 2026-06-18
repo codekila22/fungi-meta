@@ -2,7 +2,7 @@
  "name": "Puccinia",
  "zhtw": "柄銹菌屬",
  "zhcn": "柄锈菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Puccinia allii",
@@ -74,6 +74,9 @@
    "name": "Puccinia lophatheri",
    "zhtw": "淡竹葉柄銹菌",
    "zhcn": "淡竹叶柄锈菌",
+   "current": "Diorchidium lophatheri",
+   "current_zhtw": "淡竹葉雙叉銹菌",
+   "current_zhcn": "淡竹叶双叉锈菌",
    "img": "Puccinia_lophatheri_bb8c9270-445b-11f0-b0d3-2f23f1e558fb_1.jpg"
   },
   {
@@ -87,6 +90,12 @@
    "zhtw": "酢漿草柄銹菌",
    "zhcn": "酢浆草柄锈菌",
    "img": "Puccinia_oxalidis_a1691610-f650-11ef-a0ef-579d22f52075_1.jpg"
+  },
+  {
+   "name": "Puccinia paederiae",
+   "zhtw": "雞屎藤柄銹菌",
+   "zhcn": "鸡屎藤柄锈菌",
+   "img": "Aecidium_paederiae_00acd660-886b-11ef-be38-335f10af7160_1.jpg"
   },
   {
    "name": "Puccinia spegazzinii",

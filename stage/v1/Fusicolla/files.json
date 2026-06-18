@@ -2,8 +2,14 @@
  "name": "Fusicolla",
  "zhtw": "鐮孢菌屬",
  "zhcn": "镰孢菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
+  {
+   "name": "Fusicolla aquaeductuum",
+   "zhtw": "溝渠黏鐮孢菌",
+   "zhcn": "沟渠黏镰孢菌",
+   "img": "Fusarium_aquaeductuum_f9615aa0-182c-11f0-b48e-0fe1c4c9438e_1.jpg"
+  },
   {
    "name": "Fusicolla merismoides",
    "zhtw": "節狀鐮孢",

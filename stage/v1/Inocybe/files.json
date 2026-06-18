@@ -2,7 +2,7 @@
  "name": "Inocybe",
  "zhtw": "絲蓋傘屬",
  "zhcn": "丝盖伞属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Inocybe asterospora",
@@ -14,6 +14,9 @@
    "name": "Inocybe aureostipes",
    "zhtw": "金柄絲蓋傘",
    "zhcn": "金柄丝盖伞",
+   "current": "Inosperma aureostipes",
+   "current_zhtw": "金柄纖維蓋傘",
+   "current_zhcn": "金柄纤维盖伞",
    "img": "Inocybe_aureostipes_6_CC BY-NC_柯文俊.jpg"
   },
   {
@@ -35,15 +38,6 @@
    "img": "Inocybe_geophylla_78d04c20-eceb-11ed-8122-7b6a4b1090f4_1.jpg"
   },
   {
-   "name": "Inocybe geophylla var. lilacina",
-   "zhtw": "土味絲蓋傘淡紫色變種",
-   "zhcn": "土味丝盖伞淡紫色变种",
-   "current": "Inocybe lilacina",
-   "current_zhtw": "淡紫絲蓋傘",
-   "current_zhcn": "淡紫丝盖伞",
-   "img": "Inocybe_lilacina_3_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
    "name": "Inocybe lanuginosa",
    "zhtw": "綿毛絲蓋傘",
    "zhcn": "绵毛丝盖伞",
@@ -53,7 +47,10 @@
    "name": "Inocybe lilacina",
    "zhtw": "淡紫絲蓋傘",
    "zhcn": "淡紫丝盖伞",
-   "img": "Inocybe_lilacina_3_CC BY-NC_Hannah Wang.jpg"
+   "current": "Inocybe geophylla",
+   "current_zhtw": "土味絲蓋傘",
+   "current_zhcn": "土味丝盖伞",
+   "img": "Inocybe_geophylla_78d04c20-eceb-11ed-8122-7b6a4b1090f4_1.jpg"
   },
   {
    "name": "Inocybe lutea",

@@ -2,24 +2,33 @@
  "name": "Albatrellus",
  "zhtw": "地花菌屬",
  "zhcn": "地花菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Albatrellus cristatus",
    "zhtw": "毛地花菌",
    "zhcn": "毛地花菌",
+   "current": "Laeticutis cristata",
+   "current_zhtw": "雞冠麗皮孔菌",
+   "current_zhcn": "鸡冠丽皮孔菌",
    "img": "Albatrellus_cristatus_1_CC BY-NC.jpg"
   },
   {
    "name": "Albatrellus dispansus",
    "zhtw": "散放地花菌",
    "zhcn": "散放地花菌",
+   "current": "Polypus dispansus",
+   "current_zhtw": "散放多足孔菌",
+   "current_zhcn": "散放多足孔菌",
    "img": "Albatrellus_dispansus_1_CC BY-NC_黃淑恩.jpg"
   },
   {
    "name": "Albatrellus syringae",
    "zhtw": "丁香地花菌",
    "zhcn": "丁香地花菌",
+   "current": "Xanthoporus syringae",
+   "current_zhtw": "丁香黃孔菌",
+   "current_zhcn": "丁香黄孔菌",
    "img": "Albatrellus_syringae_adf62af0-9dd9-11ef-a8a3-297914b92d7b_1.jpg"
   }
  ]

@@ -1,0 +1,103 @@
+{
+ "genus": "Phaeohelotium",
+ "name": "carneum",
+ "date": [
+  "02/10/2025,9020900688020282",
+  "01/06/2016,830872100356556"
+ ],
+ "names_zhtw": [
+  "肉色暗柔膜菌",
+  "肉色暗盤菌"
+ ],
+ "names_en": [],
+ "url": "9020900688020282",
+ "images": [
+  {
+   "author": "陳啟仁",
+   "image_src": "Phaeohelotium_subcarneum_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Phaeohelotium_subcarneum_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Phaeohelotium_subcarneum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Phaeohelotium_subcarneum_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Phaeohelotium_subcarneum_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeohelotium_subcarneum_5512c020-fcbf-11ef-829a-dbdc6ccc24b6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeohelotium_subcarneum_5512c020-fcbf-11ef-829a-dbdc6ccc24b6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeohelotium_subcarneum_5512c020-fcbf-11ef-829a-dbdc6ccc24b6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeohelotium_subcarneum_5512c020-fcbf-11ef-829a-dbdc6ccc24b6_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeohelotium_subcarneum_5512c020-fcbf-11ef-829a-dbdc6ccc24b6_5.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Phaeohelotium subcarneum",
+   "zhtw": "淡肉色暗柔膜菌",
+   "zhcn": "淡肉色暗柔膜菌"
+  }
+ ],
+ "names_zhcn": [
+  "肉色暗柔膜菌",
+  "肉色暗盘菌"
+ ],
+ "meta": {
+  "CapColors": "4294303411",
+  "CapDiamRangeValues": "0,3",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260618-211326"
+}

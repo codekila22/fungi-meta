@@ -1,0 +1,111 @@
+{
+ "genus": "Aspropaxillus",
+ "name": "giganteus",
+ "date": [
+  "08/12/2023,7938682846242077",
+  "08/27/2019,2268411939935891"
+ ],
+ "names_zhtw": [
+  "巨白椿菇",
+  "巨大白椿菇"
+ ],
+ "names_en": [],
+ "url": "2268411939935891",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Leucopaxillus_giganteus_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leucopaxillus_giganteus_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leucopaxillus_giganteus_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leucopaxillus_giganteus_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leucopaxillus_giganteus_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leucopaxillus_giganteus_6_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_giganteus_5def6d20-6600-11ef-83d8-bf991df02d0e_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_giganteus_5def6d20-6600-11ef-83d8-bf991df02d0e_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_giganteus_5def6d20-6600-11ef-83d8-bf991df02d0e_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_giganteus_5def6d20-6600-11ef-83d8-bf991df02d0e_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_giganteus_5def6d20-6600-11ef-83d8-bf991df02d0e_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_giganteus_5def6d20-6600-11ef-83d8-bf991df02d0e_6.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Leucopaxillus giganteus",
+   "zhtw": "巨白樁菇/巨大白樁菇",
+   "zhcn": "巨白桩菇/巨大白桩菇"
+  }
+ ],
+ "names_zhcn": [
+  "巨白椿菇",
+  "巨大白椿菇"
+ ],
+ "meta": {
+  "CapColors": "4291998860,4290547599",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260618-211326"
+}

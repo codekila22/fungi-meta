@@ -2,7 +2,7 @@
  "name": "Hexagonia",
  "zhtw": "蜂窩菌屬",
  "zhcn": "蜂窝菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Hexagonia apiaria",
@@ -14,6 +14,9 @@
    "name": "Hexagonia hirta",
    "zhtw": "多毛蜂窩菌",
    "zhcn": "多毛蜂窝菌",
+   "current": "Trametes hirta",
+   "current_zhtw": "多毛栓菌",
+   "current_zhcn": "多毛栓菌",
    "img": "Hexagonia_hirta_3_CC BY-NC.jpg"
   },
   {

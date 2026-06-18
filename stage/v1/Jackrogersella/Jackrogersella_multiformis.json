@@ -1,0 +1,78 @@
+{
+ "genus": "Jackrogersella",
+ "name": "multiformis",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "多形傑氏炭團菌",
+  "多形炭團菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/814",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Hypoxylon_multiforme_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hypoxylon_multiforme_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hypoxylon_multiforme_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hypoxylon_multiforme_4_CC BY-NC.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Hypoxylon multiforme",
+   "zhtw": "多形炭團菌",
+   "zhcn": "多形炭团菌"
+  }
+ ],
+ "names_zhcn": [
+  "多形杰氏炭团菌",
+  "多形炭团菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080",
+  "CapDiamRangeValues": "5,17",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260618-211326"
+}

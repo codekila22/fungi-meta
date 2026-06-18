@@ -2,13 +2,16 @@
  "name": "Xylobolus",
  "zhtw": "木丸菌屬",
  "zhcn": "木丸菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Xylobolus annosus",
    "zhtw": "一年生木丸菌",
    "zhcn": "一年生木丸菌",
-   "img": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_1.jpg"
+   "current": "Xylobolus princeps",
+   "current_zhtw": "領先木丸菌",
+   "current_zhcn": "领先木丸菌",
+   "img": "Xylobolus_princeps_2_CC BY-NC_Samra Chang.jpg"
   },
   {
    "name": "Xylobolus frustulatus",

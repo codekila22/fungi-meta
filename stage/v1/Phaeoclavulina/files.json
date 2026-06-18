@@ -2,7 +2,7 @@
  "name": "Phaeoclavulina",
  "zhtw": "褐鎖瑚菌屬",
  "zhcn": "褐锁瑚菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Phaeoclavulina abietina",
@@ -15,6 +15,12 @@
    "zhtw": "藍頂褐鎖瑚菌",
    "zhcn": "蓝顶褐锁瑚菌",
    "img": "Phaeoclavulina_cyanocephala_6c9e2130-be5a-11ed-9954-a92361b572e0_1.jpg"
+  },
+  {
+   "name": "Phaeoclavulina flaccida",
+   "zhtw": "萎垂褐枝瑚菌",
+   "zhcn": "萎垂褐枝瑚菌",
+   "img": "Ramaria_flaccida_1_CC BY-NC_James Ho.jpg"
   }
  ]
 }

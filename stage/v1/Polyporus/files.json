@@ -2,7 +2,7 @@
  "name": "Polyporus",
  "zhtw": "多孔菌屬",
  "zhcn": "多孔菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Polyporus admirabilis",
@@ -26,6 +26,9 @@
    "name": "Polyporus arcularius",
    "zhtw": "漏斗多孔菌",
    "zhcn": "漏斗多孔菌",
+   "current": "Lentinus arcularius",
+   "current_zhtw": "漏斗香菇",
+   "current_zhcn": "漏斗香菇",
    "img": "Polyporus_arcularius_16_CC BY-NC_Hannah Wang.jpg"
   },
   {
@@ -53,6 +56,9 @@
    "name": "Polyporus curtipes",
    "zhtw": "卷邊花孔菌",
    "zhcn": "卷边花孔菌",
+   "current": "Favolus curtipes",
+   "current_zhtw": "短柄花瓣菌",
+   "current_zhcn": "短柄花瓣菌",
    "img": "Polyporus_curtipes_5253f1f0-5a0a-11ee-8cb9-c19f96b4fa42_1.jpg"
   },
   {
@@ -68,6 +74,9 @@
    "name": "Polyporus hapalopus",
    "zhtw": "軟肉多孔菌",
    "zhcn": "软肉多孔菌",
+   "current": "Bresadolia hapalopus",
+   "current_zhtw": "軟肉布氏孔菌",
+   "current_zhcn": "软肉布氏孔菌",
    "img": "Bresadolia_hapalopus_268c0340-d112-11ed-96a5-f9c09493618b_1.jpg"
   },
   {

@@ -2,7 +2,7 @@
  "name": "Gymnopus",
  "zhtw": "金錢菌屬",
  "zhcn": "金钱菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Gymnopus albipes",
@@ -11,9 +11,18 @@
    "img": "Gymnopus_albipes_1_CC BY-NC_陳雅芬.jpg"
   },
   {
+   "name": "Gymnopus androsaceus",
+   "zhtw": "安絡裸柄菇",
+   "zhcn": "安络裸柄菇",
+   "img": "Marasmius_androsaceus_5_CC BY-NC_向高世.jpg"
+  },
+  {
    "name": "Gymnopus biformis",
    "zhtw": "雙型金錢菌",
    "zhcn": "双型金钱菌",
+   "current": "Collybiopsis biformis",
+   "current_zhtw": "雙型擬金錢菌",
+   "current_zhcn": "双型拟金钱菌",
    "img": "Gymnopus_biformis_4ef22400-fa55-11ee-9659-216d70eb19e8_1.jpg"
   },
   {
@@ -24,8 +33,11 @@
   },
   {
    "name": "Gymnopus confluens",
-   "zhtw": "簇生金錢菌",
-   "zhcn": "簇生金钱菌",
+   "zhtw": "簇生金錢菌/簇生小皮傘/毛柄小皮傘",
+   "zhcn": "簇生金钱菌/簇生小皮伞/毛柄小皮伞",
+   "current": "Collybiopsis confluens",
+   "current_zhtw": "簇生擬金錢菌",
+   "current_zhcn": "簇生拟金钱菌",
    "img": "Gymnopus_confluens_2_CC BY-NC_柯文俊.jpg"
   },
   {
@@ -65,6 +77,9 @@
    "name": "Gymnopus subnudus",
    "zhtw": "近裸金錢菌",
    "zhcn": "近裸金钱菌",
+   "current": "Collybiopsis subnuda",
+   "current_zhtw": "近裸擬金錢菌",
+   "current_zhcn": "近裸拟金钱菌",
    "img": "Gymnopus_subnudus_9_CC BY-NC_陳雅芬.jpg"
   },
   {

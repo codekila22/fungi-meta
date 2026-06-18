@@ -1,0 +1,96 @@
+{
+ "genus": "Neophysopella",
+ "name": "ampelopsidis",
+ "date": [
+  "01/21/2026,25576817915335298"
+ ],
+ "names_zhtw": [
+  "山葡萄新泡銹菌",
+  "山葡萄新層銹菌"
+ ],
+ "names_en": [],
+ "url": "25576817915335298",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_8.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Phakopsora ampelopsidis",
+   "zhtw": "山葡萄層銹菌",
+   "zhcn": "山葡萄层锈菌"
+  }
+ ],
+ "names_zhcn": [
+  "山葡萄新泡锈菌",
+  "山葡萄新层锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Phakopsora euvitis,,",
+  "Note": "生長在山葡萄葉片上。",
+  "la_zhtw": "亞洲葡萄層銹菌,,",
+  "la_zhcn": "亚洲葡萄层锈菌,,"
+ },
+ "timestamp": "20260618-211326"
+}

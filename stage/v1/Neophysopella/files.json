@@ -1,0 +1,20 @@
+{
+ "name": "Neophysopella",
+ "zhtw": "新泡銹菌屬",
+ "zhcn": "新泡锈菌属",
+ "timestamp": "20260618-211326",
+ "list": [
+  {
+   "name": "Neophysopella ampelopsidis",
+   "zhtw": "山葡萄新泡銹菌",
+   "zhcn": "山葡萄新泡锈菌",
+   "img": "Phakopsora_ampelopsidis_16fd7fe0-fa5d-11f0-8a2b-cd87cd28b07c_1.jpg"
+  },
+  {
+   "name": "Neophysopella meliosmae",
+   "zhtw": "泡花樹新泡銹菌",
+   "zhcn": "泡花树新泡锈菌",
+   "img": "Phakopsora_meliosmae_6baab410-1042-11ef-a142-2d88a1b66544_1.jpg"
+  }
+ ]
+}

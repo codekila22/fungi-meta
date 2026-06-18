@@ -2,7 +2,7 @@
  "name": "Calvatia",
  "zhtw": "禿馬勃屬",
  "zhcn": "秃马勃属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Calvatia bicolor",
@@ -32,6 +32,9 @@
    "name": "Calvatia excipuliformis",
    "zhtw": "長柄禿馬勃",
    "zhcn": "长柄秃马勃",
+   "current": "Lycoperdon excipuliforme",
+   "current_zhtw": "長柄馬勃",
+   "current_zhcn": "长柄马勃",
    "img": "Calvatia_excipuliformis_1_CC BY-NC_陳雅芬.jpg"
   },
   {

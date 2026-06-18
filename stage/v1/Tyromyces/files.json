@@ -2,12 +2,15 @@
  "name": "Tyromyces",
  "zhtw": "乾酪菌屬",
  "zhcn": "干酪菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Tyromyces aurantilaetus",
    "zhtw": "橙色乾酪菌",
    "zhcn": "橙色干酪菌",
+   "current": "Steccherinum aurantilaetum",
+   "current_zhtw": "橙色齒耳菌",
+   "current_zhcn": "橙色齿耳菌",
    "img": "Tyromyces_aurantilaetus_1_CC BY-NC_向高世.jpg"
   },
   {
@@ -21,6 +24,12 @@
    "zhtw": "肉紅乾酪菌",
    "zhcn": "肉红干酪菌",
    "img": "Tyromyces_incarnatus_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Tyromyces odorus",
+   "zhtw": "香味乾酪菌",
+   "zhcn": "香味干酪菌",
+   "img": "Skeletocutis_odora_97d4a090-95bc-11f0-8344-c165790a5dc4_1.jpg"
   },
   {
    "name": "Tyromyces pulcherrimus",

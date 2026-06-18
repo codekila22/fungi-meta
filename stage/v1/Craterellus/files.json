@@ -2,7 +2,7 @@
  "name": "Craterellus",
  "zhtw": "喇叭菌屬",
  "zhcn": "喇叭菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Craterellus aureus",
@@ -24,6 +24,18 @@
    "zhtw": "灰黑喇叭菌",
    "zhcn": "灰黑喇叭菌",
    "img": "Craterellus_cornucopioides_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Craterellus ignicolor",
+   "zhtw": "火色喇叭菌",
+   "zhcn": "火色喇叭菌",
+   "img": "Cantharellus_ignicolor_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Craterellus lutescens",
+   "zhtw": "黃喇叭菌",
+   "zhcn": "黄喇叭菌",
+   "img": "Cantharellus_lutescens_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Craterellus minor",

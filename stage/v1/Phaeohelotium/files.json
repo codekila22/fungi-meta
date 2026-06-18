@@ -2,8 +2,14 @@
  "name": "Phaeohelotium",
  "zhtw": "暗柔膜菌屬",
  "zhcn": "暗柔膜菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
+  {
+   "name": "Phaeohelotium carneum",
+   "zhtw": "肉色暗柔膜菌",
+   "zhcn": "肉色暗柔膜菌",
+   "img": "Phaeohelotium_subcarneum_1_CC BY-NC.jpg"
+  },
   {
    "name": "Phaeohelotium lilacinum",
    "zhtw": "淡紫暗柔膜菌",
@@ -14,6 +20,9 @@
    "name": "Phaeohelotium subcarneum",
    "zhtw": "淡肉色暗柔膜菌",
    "zhcn": "淡肉色暗柔膜菌",
+   "current": "Phaeohelotium carneum",
+   "current_zhtw": "肉色暗柔膜菌",
+   "current_zhcn": "肉色暗柔膜菌",
    "img": "Phaeohelotium_subcarneum_1_CC BY-NC.jpg"
   }
  ]

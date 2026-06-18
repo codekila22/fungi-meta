@@ -1,0 +1,90 @@
+{
+ "genus": "Thaxterogaster",
+ "name": "occidentalis",
+ "date": [
+  "07/11/2021,3934757983301270"
+ ],
+ "names_zhtw": [
+  "西方塔氏腹菌",
+  "西方絲膜菌"
+ ],
+ "names_en": [],
+ "url": "3934757983301270",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cortinarius_occidentalis_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cortinarius_occidentalis_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cortinarius_occidentalis_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cortinarius_occidentalis_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cortinarius_occidentalis_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cortinarius_occidentalis_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cortinarius_occidentalis_7_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Cortinarius occidentalis",
+   "zhtw": "西方絲膜菌",
+   "zhcn": "西方丝膜菌"
+  }
+ ],
+ "names_zhcn": [
+  "西方塔氏腹菌",
+  "西方丝膜菌"
+ ],
+ "meta": {
+  "CapColors": "4291611903,4290290127",
+  "CapDiamRangeValues": "30,56",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "timestamp": "20260618-211326"
+}

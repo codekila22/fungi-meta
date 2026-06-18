@@ -198,8 +198,8 @@
   "Taste": "",
   "LookAlikes": "Phakopsora ampelopsidis,,",
   "Note": "",
-  "la_zhtw": "山葡萄層銹菌,,",
-  "la_zhcn": "山葡萄层锈菌,,"
+  "la_zhtw": ",,",
+  "la_zhcn": ",,"
  },
  "inaturalist": [
   {
@@ -209,5 +209,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/336006513/thumb.jpeg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

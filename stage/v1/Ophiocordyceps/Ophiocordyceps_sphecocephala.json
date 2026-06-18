@@ -202,8 +202,8 @@
   "Taste": "",
   "LookAlikes": "Hirsutella saussurei,,",
   "Note": "索緒爾被毛孢黴(Hirsutella saussurei)為其無性世代。",
-  "la_zhtw": "索緒爾被毛孢黴,,",
-  "la_zhcn": "索绪尔被毛孢霉,,"
+  "la_zhtw": ",,",
+  "la_zhcn": ",,"
  },
  "inaturalist": [
   {
@@ -213,5 +213,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30668698/thumb.jpg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

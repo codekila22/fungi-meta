@@ -2,7 +2,7 @@
  "name": "Erysiphe",
  "zhtw": "白粉菌屬",
  "zhcn": "白粉菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Erysiphe ipomoeae",
@@ -14,6 +14,9 @@
    "name": "Erysiphe sordida",
    "zhtw": "車前草白粉病",
    "zhcn": "车前草白粉病",
+   "current": "Golovinomyces sordidus",
+   "current_zhtw": "車前高氏白粉菌",
+   "current_zhcn": "车前高氏白粉菌",
    "img": "Erysiphe_sordida_5b644790-e0e3-11ed-a351-19e39d67a5c9_1.jpg"
   }
  ]

@@ -2,12 +2,15 @@
  "name": "Amauroderma",
  "zhtw": "假芝屬",
  "zhcn": "假芝属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Amauroderma austrosinense",
    "zhtw": "華南假芝",
    "zhcn": "华南假芝",
+   "current": "Foraminispora austrosinensis",
+   "current_zhtw": "華南孔孢芝",
+   "current_zhcn": "华南孔孢芝",
    "img": "Amauroderma_austrosinense_65bc3940-a26b-11f0-80e0-b9b083566b24_1.jpg"
   },
   {

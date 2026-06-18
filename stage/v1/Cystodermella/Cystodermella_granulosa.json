@@ -1,0 +1,93 @@
+{
+ "genus": "Cystodermella",
+ "name": "granulosa",
+ "date": [
+  "03/21/2021,3618373671606371"
+ ],
+ "names_zhtw": [
+  "顆粒小囊皮傘",
+  "疣蓋小囊皮傘"
+ ],
+ "names_en": [],
+ "url": "3618373671606371",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cystoderma_cf. granulosum_7_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Cystoderma granulosum",
+   "zhtw": "疣蓋囊皮傘",
+   "zhcn": "疣盖囊皮伞"
+  }
+ ],
+ "names_zhcn": [
+  "颗粒小囊皮伞",
+  "疣盖小囊皮伞"
+ ],
+ "meta": {
+  "CapColors": "4283244288,4294083840",
+  "CapDiamRangeValues": "10,50",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "3,10",
+  "StalkLengthRangeValuess": "20,60",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Leucopholiota lignicola,Leucopholiota decorosa,Echinoderma calcicola",
+  "Note": "",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "木生白鱗傘,華美白鱗傘,灰岩棘皮菌",
+  "la_zhcn": "木生白鳞伞,华美白鳞伞,灰岩棘皮菌"
+ },
+ "timestamp": "20260618-211326"
+}

@@ -2,7 +2,7 @@
  "name": "Hypoxylon",
  "zhtw": "炭團菌屬",
  "zhcn": "炭团菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Hypoxylon annulatum",
@@ -50,6 +50,9 @@
    "name": "Hypoxylon multiforme",
    "zhtw": "多形炭團菌",
    "zhcn": "多形炭团菌",
+   "current": "Jackrogersella multiformis",
+   "current_zhtw": "多形傑氏炭團菌",
+   "current_zhcn": "多形杰氏炭团菌",
    "img": "Hypoxylon_multiforme_1_CC BY-NC.jpg"
   },
   {
@@ -83,6 +86,9 @@
    "name": "Hypoxylon truncatum",
    "zhtw": "截孔炭團菌",
    "zhcn": "截孔炭团菌",
+   "current": "Annulohypoxylon truncatum",
+   "current_zhtw": "截孢環炭團菌",
+   "current_zhcn": "截孢环炭团菌",
    "img": "Hypoxylon_truncatum_4_CC BY-NC.jpg"
   }
  ]

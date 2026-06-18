@@ -9,11 +9,14 @@
   "09/10/2023,6399147430195634",
   "08/20/2023,6317712135005831",
   "08/20/2023,6335296909914020",
+  "06/16/2023,6096472293796484",
   "07/15/2022,5070860396357684",
   "07/07/2022,5085300731580317",
   "07/03/2022,5778612085582508",
+  "05/21/2022,4946303972146661",
   "05/19/2022,4908866179223774",
   "09/17/2021,4140420406068359",
+  "09/17/2021,4143676525742747",
   "09/09/2021,4116289735148093",
   "08/15/2021,4038200786290322",
   "08/14/2021,4037110946399306",
@@ -26,7 +29,8 @@
   "07/25/2020,2956019801175098",
   "07/18/2020,2937086429735102",
   "07/15/2020,2985207244923020",
-  "10/08/2017,2746620772115003"
+  "10/08/2017,2746620772115003",
+  "06/25/2017,1264716920305403"
  ],
  "names_zhtw": [
   "潤滑錘舌菌"
@@ -171,6 +175,89 @@
   {
    "author": "向高世",
    "image_src": "Leotia_lubrica_0e33c380-8d32-11f0-bf43-5d0ebef1c3f3_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leotia_viscosa_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leotia_viscosa_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leotia_viscosa_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leotia_viscosa_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leotia_viscosa_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "張敏華",
+   "image_src": "Leotia_viscosa_1_CC BY-NC_張敏華.jpg"
+  },
+  {
+   "author": "張敏華",
+   "image_src": "Leotia_viscosa_2_CC BY-NC_張敏華.jpg"
+  },
+  {
+   "author": "張敏華",
+   "image_src": "Leotia_viscosa_3_CC BY-NC_張敏華.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leotia_viscosa_df833c10-0c54-11ee-8268-998a56724539_11.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Leotia viscosa",
+   "zhtw": "綠頭潤滑錘舌菌",
+   "zhcn": "绿头润滑锤舌菌"
   }
  ],
  "names_zhcn": [
@@ -219,5 +306,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254164000/thumb.jpg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

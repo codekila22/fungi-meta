@@ -2,7 +2,7 @@
  "name": "Ascobolus",
  "zhtw": "糞盤菌屬",
  "zhcn": "粪盘菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Ascobolus carbonarius",
@@ -15,6 +15,12 @@
    "zhtw": "細齒糞盤菌",
    "zhcn": "细齿粪盘菌",
    "img": "Ascobolus_crenulatus_bc13a880-0f19-11f1-bc56-1143e7374c6e_1.jpg"
+  },
+  {
+   "name": "Ascobolus furfuraceus",
+   "zhtw": "麩皮糞盤菌",
+   "zhcn": "麸皮粪盘菌",
+   "img": "Ascobolus_stercorarius_3_CC BY-NC.jpg"
   },
   {
    "name": "Ascobolus fushanus",
@@ -32,6 +38,9 @@
    "name": "Ascobolus stercorarius",
    "zhtw": "喜糞糞盤菌",
    "zhcn": "喜粪粪盘菌",
+   "current": "Ascobolus furfuraceus",
+   "current_zhtw": "麩皮糞盤菌",
+   "current_zhcn": "麸皮粪盘菌",
    "img": "Ascobolus_stercorarius_3_CC BY-NC.jpg"
   }
  ]

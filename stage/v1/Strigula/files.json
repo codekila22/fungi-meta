@@ -2,18 +2,24 @@
  "name": "Strigula",
  "zhtw": "葉上衣屬",
  "zhcn": "叶上衣属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Strigula cf. melanobapha",
    "zhtw": "疑似黑色素葉上衣",
    "zhcn": "疑似黑色素叶上衣",
+   "current": "Racoplaca cf. melanobapha",
+   "current_zhtw": "黑斑碎斑衣",
+   "current_zhcn": "黑斑碎斑衣",
    "img": "Strigula_cf. melanobapha_2d652ed0-b1ef-11ee-ba10-51d67188c7ca_1.jpg"
   },
   {
    "name": "Strigula elegans",
    "zhtw": "雅緻葉上衣",
    "zhcn": "雅致叶上衣",
+   "current": "Strigula smaragdula",
+   "current_zhtw": "翠綠葉上衣",
+   "current_zhcn": "翠绿叶上衣",
    "img": "Strigula_elegans_1_CC BY-NC_陳雅芬.jpg"
   },
   {
@@ -21,6 +27,12 @@
    "zhtw": "黑橄欖葉上衣",
    "zhcn": "黑橄榄叶上衣",
    "img": "Strigula_oleistrata_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Strigula smaragdula",
+   "zhtw": "翠綠葉上衣",
+   "zhcn": "翠绿叶上衣",
+   "img": "Strigula_elegans_1_CC BY-NC_陳雅芬.jpg"
   }
  ]
 }

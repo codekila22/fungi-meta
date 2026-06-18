@@ -2,7 +2,7 @@
  "name": "Climacodon",
  "zhtw": "小肉齒菌屬",
  "zhcn": "小肉齿菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Climacodon pulcherrimus",
@@ -15,6 +15,12 @@
    "zhtw": "玫瑰小肉齒菌",
    "zhcn": "玫瑰小肉齿菌",
    "img": "Climacodon_roseomaculatus_97e02470-06cf-11ee-bcf1-95a449f291bf_12.jpg"
+  },
+  {
+   "name": "Climacodon septentrionalis",
+   "zhtw": "北方梯囊齒菌",
+   "zhcn": "北方梯囊齿菌",
+   "img": "Steccherinum_septentrionale_2_CC BY-NC.jpg"
   }
  ]
 }

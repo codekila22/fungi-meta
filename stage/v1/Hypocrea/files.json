@@ -2,18 +2,24 @@
  "name": "Hypocrea",
  "zhtw": "肉座菌屬",
  "zhcn": "肉座菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Hypocrea cf. rogersonii",
    "zhtw": "疑似羅傑森肉座菌",
    "zhcn": "疑似罗杰森肉座菌",
+   "current": "Trichoderma cf. rogersonii",
+   "current_zhtw": "羅氏木黴",
+   "current_zhcn": "罗氏木霉",
    "img": "Hypocrea_cf. rogersonii_1_CC BY-NC_Sunny Wang.jpg"
   },
   {
    "name": "Hypocrea dacrymycella",
    "zhtw": "白黃肉座菌",
    "zhcn": "白黄肉座菌",
+   "current": "Trichoderma dacrymycellum",
+   "current_zhtw": "花耳生木黴",
+   "current_zhcn": "花耳生木霉",
    "img": "Hypocrea_dacrymycella_10_CC BY-NC_柯文俊.jpg"
   },
   {
@@ -53,6 +59,9 @@
    "name": "Hypocrea peltata",
    "zhtw": "盾形肉座菌",
    "zhcn": "盾形肉座菌",
+   "current": "Trichoderma peltatum",
+   "current_zhtw": "盾形木黴",
+   "current_zhcn": "盾形木霉",
    "img": "Hypocrea_peltata_1_CC BY-NC_向高世.jpg"
   },
   {

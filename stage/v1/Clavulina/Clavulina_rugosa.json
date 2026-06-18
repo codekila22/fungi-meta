@@ -130,8 +130,8 @@
   "LookAlikes": "Clavulina cinerea,Clavulina cristata,",
   "Note": "",
   "GrowthEco": "mycorrhizal",
-  "la_zhtw": "灰鎖瑚菌,冠鎖瑚菌,",
-  "la_zhcn": "灰锁瑚菌,冠锁瑚菌,"
+  "la_zhtw": "灰鎖瑚菌,,",
+  "la_zhcn": "灰锁瑚菌,,"
  },
  "inaturalist": [
   {
@@ -147,5 +147,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

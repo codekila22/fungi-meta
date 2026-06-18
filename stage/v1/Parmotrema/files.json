@@ -2,13 +2,19 @@
  "name": "Parmotrema",
  "zhtw": "裸緣梅衣屬",
  "zhcn": "裸缘梅衣属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Parmotrema perlatum",
    "zhtw": "珠光大葉梅衣",
    "zhcn": "珠光大叶梅衣",
    "img": "Parmotrema_perlatum_1_CC BY-NC_邱澤峯.jpg"
+  },
+  {
+   "name": "Parmotrema reticulatum",
+   "zhtw": "網紋梅衣",
+   "zhcn": "网纹梅衣",
+   "img": "Rimelia_reticulata_2_CC BY-NC_Sunny Wang.jpg"
   },
   {
    "name": "Parmotrema tinctorum",

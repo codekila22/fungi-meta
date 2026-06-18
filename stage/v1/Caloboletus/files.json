@@ -2,8 +2,14 @@
  "name": "Caloboletus",
  "zhtw": "美柄牛肝菌屬",
  "zhcn": "美柄牛肝菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
+  {
+   "name": "Caloboletus calopus",
+   "zhtw": "美柄麗柄牛肝菌",
+   "zhcn": "美柄丽柄牛肝菌",
+   "img": "Boletus_calopus_4cd9cc60-1679-11ee-a4b2-2f6e997751c5_3.jpg"
+  },
   {
    "name": "Caloboletus inedulis",
    "zhtw": "非美味美柄牛肝菌",

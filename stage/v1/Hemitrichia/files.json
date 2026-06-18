@@ -2,7 +2,7 @@
  "name": "Hemitrichia",
  "zhtw": "半網黏菌屬",
  "zhcn": "半网黏菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Hemitrichia calyculata",
@@ -15,6 +15,24 @@
    "zhtw": "棒形半網黏菌",
    "zhcn": "棒形半网黏菌",
    "img": "Hemitrichia_clavata_5f073080-142b-11ee-9cba-bff5ce20ce20_1.jpg"
+  },
+  {
+   "name": "Hemitrichia decipiens",
+   "zhtw": "長尖半毛黏菌",
+   "zhcn": "长尖半毛黏菌",
+   "img": "Trichia_decipiens_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Hemitrichia decipiens var. olivacea",
+   "zhtw": "長尖半毛黏菌橄欖色變種",
+   "zhcn": "长尖半毛黏菌橄榄色变种",
+   "img": "Trichia_decipiens var. olivacea_1_CC BY-NC_蔣珮瑩.jpg"
+  },
+  {
+   "name": "Hemitrichia minor",
+   "zhtw": "小半毛黏菌",
+   "zhcn": "小半毛黏菌",
+   "img": "Perichaena_minor_2ee0c740-062e-11ef-90ec-17c2999530c7_1.jpg"
   },
   {
    "name": "Hemitrichia serpula",

@@ -2,7 +2,7 @@
  "name": "Suillus",
  "zhtw": "乳牛肝菌屬",
  "zhcn": "乳牛肝菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Suillus americanus",
@@ -47,7 +47,10 @@
    "name": "Suillus sibiricus",
    "zhtw": "污黃乳牛肝菌",
    "zhcn": "污黄乳牛肝菌",
-   "img": "Suillus_sibiricus_a0a03080-6152-11ef-83e8-5f1b8ef246ae_1.jpg"
+   "current": "Suillus americanus",
+   "current_zhtw": "美洲乳牛肝菌",
+   "current_zhcn": "美洲乳牛肝菌",
+   "img": "Suillus_americanus_4_CC BY-NC.jpg"
   },
   {
    "name": "Suillus spraguei",

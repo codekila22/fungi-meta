@@ -1,0 +1,82 @@
+{
+ "genus": "Annulohypoxylon",
+ "name": "truncatum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "截孢環炭團菌",
+  "截孔輪炭團菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/815",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Hypoxylon_truncatum_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hypoxylon_truncatum_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hypoxylon_truncatum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hypoxylon_truncatum_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Hypoxylon_truncatum_5_CC BY-NC.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Hypoxylon truncatum",
+   "zhtw": "截孔炭團菌",
+   "zhcn": "截孔炭团菌"
+  }
+ ],
+ "names_zhcn": [
+  "截孢环炭团菌",
+  "截孔轮炭团菌"
+ ],
+ "meta": {
+  "CapColors": "4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260618-211326"
+}

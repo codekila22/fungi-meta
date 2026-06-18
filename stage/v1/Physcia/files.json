@@ -2,7 +2,7 @@
  "name": "Physcia",
  "zhtw": "蜈蚣衣屬",
  "zhcn": "蜈蚣衣属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Physcia aff. aipolia",
@@ -26,6 +26,9 @@
    "name": "Physcia orientalis",
    "zhtw": "東方蜈蚣衣",
    "zhcn": "东方蜈蚣衣",
+   "current": "Kashiwadia orientalis",
+   "current_zhtw": "東方柏原衣",
+   "current_zhcn": "东方柏原衣",
    "img": "Physcia_orientalis_b9dda1d0-b848-11ee-9863-3b54840013f0_1.jpg"
   },
   {

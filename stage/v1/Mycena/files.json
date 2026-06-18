@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -242,6 +242,9 @@
    "name": "Mycena hiemalis",
    "zhtw": "冬生小菇",
    "zhcn": "冬生小菇",
+   "current": "Phloeomana hiemalis",
+   "current_zhtw": "冬生樹生小菇",
+   "current_zhcn": "冬生树生小菇",
    "img": "Mycena_hiemalis_2bbfb0e0-d388-11ee-b997-73bf3d26d667_1.jpg"
   },
   {
@@ -320,6 +323,9 @@
    "name": "Mycena manipularis",
    "zhtw": "叢傘小菇",
    "zhcn": "丛伞小菇",
+   "current": "Filoboletus manipularis",
+   "current_zhtw": "叢傘絲孔菌",
+   "current_zhcn": "丛伞丝孔菌",
    "img": "Favolaschia_manipularis_2_CC BY-NC_James Ho.jpg"
   },
   {

@@ -1,0 +1,95 @@
+{
+ "genus": "Inosperma",
+ "name": "aureostipes",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "金柄纖維蓋傘",
+  "金柄絲蓋傘"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3593",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Inocybe_aureostipes_8_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Inocybe aureostipes",
+   "zhtw": "金柄絲蓋傘",
+   "zhcn": "金柄丝盖伞"
+  }
+ ],
+ "names_zhcn": [
+  "金柄纤维盖伞",
+  "金柄丝盖伞"
+ ],
+ "meta": {
+  "CapColors": "4283250944,4291605388,4290283019",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "toxic",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "timestamp": "20260618-211326"
+}

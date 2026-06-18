@@ -2,7 +2,7 @@
  "name": "Clitocybe",
  "zhtw": "杯傘屬",
  "zhcn": "杯伞属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Clitocybe fragrans",
@@ -24,6 +24,12 @@
    "zhtw": "白杯傘",
    "zhcn": "白杯伞",
    "img": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_1.jpg"
+  },
+  {
+   "name": "Clitocybe puiggarii complex",
+   "zhtw": "普氏杯傘",
+   "zhcn": "普氏杯伞",
+   "img": "Russula_puiggarii complex_c0e8f0d0-7a54-10d9-943a-b3743c54e38c_1.jpg"
   },
   {
    "name": "Clitocybe robusta",

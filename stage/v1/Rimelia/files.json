@@ -2,7 +2,7 @@
  "name": "Rimelia",
  "zhtw": "網裂梅衣屬",
  "zhcn": "网裂梅衣属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Rimelia Clavulifera",
@@ -14,6 +14,9 @@
    "name": "Rimelia reticulata",
    "zhtw": "黑腹網裂梅衣",
    "zhcn": "黑腹网裂梅衣",
+   "current": "Parmotrema reticulatum",
+   "current_zhtw": "網紋梅衣",
+   "current_zhcn": "网纹梅衣",
    "img": "Rimelia_reticulata_2_CC BY-NC_Sunny Wang.jpg"
   }
  ]

@@ -1,0 +1,76 @@
+{
+ "genus": "Craterellus",
+ "name": "ignicolor",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "火色喇叭菌",
+  "火色雞油菌"
+ ],
+ "names_en": [
+  "Flame-colored Chanterelle"
+ ],
+ "url": "3772314339545636",
+ "images": [
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cantharellus_ignicolor_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cantharellus_ignicolor_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Cantharellus_ignicolor_3_CC BY-NC_Hannah Wang.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Cantharellus ignicolor",
+   "zhtw": "火色雞油菌",
+   "zhcn": "火色鸡油菌"
+  }
+ ],
+ "names_zhcn": [
+  "火色喇叭菌",
+  "火色鸡油菌"
+ ],
+ "meta": {
+  "CapColors": "4291605388,4294956800",
+  "CapDiamRangeValues": "15,50",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "timestamp": "20260618-211326"
+}

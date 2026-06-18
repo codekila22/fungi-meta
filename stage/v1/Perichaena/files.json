@@ -2,7 +2,7 @@
  "name": "Perichaena",
  "zhtw": "蓋碗黏菌屬",
  "zhcn": "盖碗黏菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Perichaena chrysosperma",
@@ -20,18 +20,27 @@
    "name": "Perichaena minor",
    "zhtw": "小蓋碗黏菌",
    "zhcn": "小盖碗黏菌",
+   "current": "Hemitrichia minor",
+   "current_zhtw": "小半毛黏菌",
+   "current_zhcn": "小半毛黏菌",
    "img": "Perichaena_minor_2ee0c740-062e-11ef-90ec-17c2999530c7_1.jpg"
   },
   {
    "name": "Perichaena pedata",
    "zhtw": "柄蓋碗黏菌",
    "zhcn": "柄盖碗黏菌",
+   "current": "Ophiotheca pedata",
+   "current_zhtw": "柄蛇鞘黏菌",
+   "current_zhcn": "柄蛇鞘黏菌",
    "img": "Perichaena_pedata_7_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Perichaena vermicularis",
    "zhtw": "蟲蓋碗黏菌",
    "zhcn": "虫盖碗黏菌",
+   "current": "Gulielmina vermicularis",
+   "current_zhtw": "蟲形古氏黏菌",
+   "current_zhcn": "虫形古氏黏菌",
    "img": "Perichaena_vermicularis_1_CC BY-NC_陳雅芬.jpg"
   }
  ]

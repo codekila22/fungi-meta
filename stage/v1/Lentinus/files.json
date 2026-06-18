@@ -2,8 +2,14 @@
  "name": "Lentinus",
  "zhtw": "斗菇屬",
  "zhcn": "斗菇属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
+  {
+   "name": "Lentinus arcularius",
+   "zhtw": "漏斗香菇",
+   "zhcn": "漏斗香菇",
+   "img": "Polyporus_arcularius_16_CC BY-NC_Hannah Wang.jpg"
+  },
   {
    "name": "Lentinus badius",
    "zhtw": "栗褐斗菇",
@@ -66,6 +72,12 @@
    "zhtw": "虎皮斗菇",
    "zhcn": "虎皮斗菇",
    "img": "Lentinus_tigrinus_1_CC BY-NC.jpg"
+  },
+  {
+   "name": "Lentinus velutinus",
+   "zhtw": "絨毛斗菇",
+   "zhcn": "绒毛斗菇",
+   "img": "Panus_fulvus_4_CC BY-NC_陳麗紅.jpg"
   }
  ]
 }

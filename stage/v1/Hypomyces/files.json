@@ -2,12 +2,21 @@
  "name": "Hypomyces",
  "zhtw": "菌寄生屬",
  "zhcn": "菌寄生属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Hypomyces cervinigenus",
    "zhtw": "橘粉馬鞍菌寄生",
    "zhcn": "橘粉马鞍菌寄生",
+   "current": "Hypomyces cervinus",
+   "current_zhtw": "鹿色菌寄生",
+   "current_zhcn": "鹿色菌寄生",
+   "img": "Hypomyces_cervinigenus_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Hypomyces cervinus",
+   "zhtw": "鹿色菌寄生",
+   "zhcn": "鹿色菌寄生",
    "img": "Hypomyces_cervinigenus_1_CC BY-NC_Sunny Wang.jpg"
   },
   {
