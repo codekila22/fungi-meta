@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "noctilucens",
  "date": [
+  "06/17/2026,27257478127269260",
   "11/01/2025,24922437297440033",
   "05/27/2025,24955870260763403",
   "09/13/2016,24955870260763403"
@@ -111,6 +112,30 @@
   {
    "author": "向高世",
    "image_src": "Mycena_noctilucens_ac32c250-c2cc-11f0-8a8a-47e8036b5ad7_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_noctilucens_50f9c800-6a9e-11f1-a03d-a35250e20656_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_noctilucens_50f9c800-6a9e-11f1-a03d-a35250e20656_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_noctilucens_50f9c800-6a9e-11f1-a03d-a35250e20656_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_noctilucens_50f9c800-6a9e-11f1-a03d-a35250e20656_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_noctilucens_50f9c800-6a9e-11f1-a03d-a35250e20656_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_noctilucens_50f9c800-6a9e-11f1-a03d-a35250e20656_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -172,5 +197,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260617-134659"
+ "timestamp": "20260618-142157"
 }

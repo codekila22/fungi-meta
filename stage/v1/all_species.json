@@ -1,5 +1,5 @@
 {
- "timestamp": "20260617-134659",
+ "timestamp": "20260618-142157",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -779,6 +779,7 @@
    "Pisolithus,豆馬勃屬,豆马勃属",
    "Pseudocolus,假鬼筆屬,假鬼笔属",
    "Rossbeevera,羅葉腹菌屬,罗叶腹菌属",
+   "Satyrus,紅鬼筆屬,红鬼笔属",
    "Scleroderma,硬皮馬勃屬,硬皮马勃属",
    "Sphaerobolus,彈球菌屬,弹球菌属",
    "Tulostoma,柄灰錘菌屬,柄灰锤菌属"
@@ -1100,6 +1101,7 @@
   "Amanita cf. fuligineoides,疑似擬灰花紋鵝膏,疑似拟灰花纹鹅膏",
   "Amanita cf. griseofarinosa,灰絮鱗鵝膏,灰絮鳞鹅膏",
   "Amanita cf. ochrophylla,疑似赭黃鵝膏,疑似赭黄鹅膏",
+  "Amanita cheelii,奇氏鵝膏,奇氏鹅膏",
   "Amanita chepangiana,白條蓋鵝膏,白条盖鹅膏",
   "Amanita esculenta,可食鵝膏,可食鹅膏",
   "Amanita farinosa,粉蓋鵝膏,粉盖鹅膏",
@@ -2957,7 +2959,6 @@
   "Phakopsora ampelopsidis,山葡萄層銹菌,山葡萄层锈菌",
   "Phakopsora euvitis,亞洲葡萄層銹菌,亚洲葡萄层锈菌",
   "Phakopsora meliosmae,泡花層銹菌,泡花层锈菌",
-  "Phallus aurantiacus,黃橙鬼筆,黄橙鬼笔",
   "Phallus dongsun,冬蓀鬼筆,冬荪鬼笔",
   "Phallus echinovolvatus,棘托鬼筆,棘托鬼笔",
   "Phallus flavocostatus,黃重脈鬼筆,黄重脉鬼笔",
@@ -3391,6 +3392,7 @@
   "Sarcoscypha macaronesica,馬克羅尼西亞肉杯菌,马克罗尼西亚肉杯菌",
   "Sarcoscypha occidentalis,小紅肉杯菌,小红肉杯菌",
   "Sarcoscypha ololosokwaniensis,坦尚尼亞肉杯菌,坦尚尼亚肉杯菌",
+  "Satyrus qiandenghuensis,千燈湖紅鬼筆,千灯湖红鬼笔",
   "Schizophyllum commune,裂褶菌,裂褶菌",
   "Schizopora flavipora,淡黃裂孔菌,淡黄裂孔菌",
   "Scleroderma areolatum,龜紋硬皮馬勃,龟纹硬皮马勃",

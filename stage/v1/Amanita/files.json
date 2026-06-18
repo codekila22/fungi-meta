@@ -2,7 +2,7 @@
  "name": "Amanita",
  "zhtw": "鵝膏屬",
  "zhcn": "鹅膏属",
- "timestamp": "20260617-134659",
+ "timestamp": "20260618-142157",
  "list": [
   {
    "name": "Amanita abrupta",
@@ -75,6 +75,12 @@
    "zhtw": "疑似赭黃鵝膏",
    "zhcn": "疑似赭黄鹅膏",
    "img": "Amanita_cf. ochrophylla_2_CC BY-NC_曾黛玲.jpg"
+  },
+  {
+   "name": "Amanita cheelii",
+   "zhtw": "奇氏鵝膏",
+   "zhcn": "奇氏鹅膏",
+   "img": "Amanita_punctata_d5ef4d40-fa58-11ee-9fd5-55396d9f1ccc_5.jpg"
   },
   {
    "name": "Amanita chepangiana",
@@ -326,6 +332,9 @@
    "name": "Amanita punctata",
    "zhtw": "暗灰鵝膏",
    "zhcn": "暗灰鹅膏",
+   "current": "Amanita cheelii",
+   "current_zhtw": "奇氏鵝膏",
+   "current_zhcn": "奇氏鹅膏",
    "img": "Amanita_punctata_d5ef4d40-fa58-11ee-9fd5-55396d9f1ccc_5.jpg"
   },
   {
