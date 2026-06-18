@@ -1,0 +1,82 @@
+{
+ "genus": "Polypus",
+ "name": "dispansus",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "散放多足孔菌",
+  "展生地花菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/593",
+ "images": [
+  {
+   "author": "黃淑恩",
+   "image_src": "Albatrellus_dispansus_1_CC BY-NC_黃淑恩.jpg"
+  },
+  {
+   "author": "黃淑恩",
+   "image_src": "Albatrellus_dispansus_2_CC BY-NC_黃淑恩.jpg"
+  },
+  {
+   "author": "黃淑恩",
+   "image_src": "Albatrellus_dispansus_3_CC BY-NC_黃淑恩.jpg"
+  },
+  {
+   "author": "黃淑恩",
+   "image_src": "Albatrellus_dispansus_4_CC BY-NC_黃淑恩.jpg"
+  },
+  {
+   "author": "黃淑恩",
+   "image_src": "Albatrellus_dispansus_5_CC BY-NC_黃淑恩.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Albatrellus dispansus",
+   "zhtw": "散放地花菌",
+   "zhcn": "散放地花菌"
+  }
+ ],
+ "names_zhcn": [
+  "散放多足孔菌",
+  "展生地花菌"
+ ],
+ "meta": {
+  "CapColors": "4290283019,4293313372",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "mycorrhizal"
+ },
+ "timestamp": "20260618-211326"
+}

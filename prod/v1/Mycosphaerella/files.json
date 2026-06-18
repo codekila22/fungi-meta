@@ -2,7 +2,7 @@
  "name": "Mycosphaerella",
  "zhtw": "球腔菌屬",
  "zhcn": "球腔菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Mycosphaerella caricae",
@@ -14,6 +14,9 @@
    "name": "Mycosphaerella fijiensis",
    "zhtw": "香蕉葉斑病",
    "zhcn": "香蕉叶斑病",
+   "current": "Pseudocercospora fijiensis",
+   "current_zhtw": "斐濟擬尾孢菌",
+   "current_zhcn": "斐济拟尾孢菌",
    "img": "Mycosphaerella_fijiensis_1270c640-0872-11f0-b5c3-9bc44451502b_1.jpg"
   }
  ]

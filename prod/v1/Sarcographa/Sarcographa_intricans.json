@@ -1,0 +1,77 @@
+{
+ "genus": "Sarcographa",
+ "name": "intricans",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "錯綜肉文衣",
+  "錯綜黑文衣"
+ ],
+ "names_en": [],
+ "url": "3724896530954084",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Phaeographis_intricans_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phaeographis_intricans_2_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phaeographis_intricans_3_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phaeographis_intricans_4_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Phaeographis intricans",
+   "zhtw": "錯綜黑文衣",
+   "zhcn": "错综黑文衣"
+  }
+ ],
+ "names_zhcn": [
+  "错综肉文衣",
+  "错综黑文衣"
+ ],
+ "meta": {
+  "CapColors": "4278190080,4286611456",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "timestamp": "20260618-211326"
+}

@@ -2,7 +2,7 @@
  "name": "Ganoderma",
  "zhtw": "靈芝屬",
  "zhcn": "灵芝属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Ganoderma applanatum",
@@ -63,8 +63,11 @@
   },
   {
    "name": "Ganoderma lingzhi",
-   "zhtw": "靈芝",
-   "zhcn": "灵芝",
+   "zhtw": "靈芝/亮蓋靈芝/赤芝",
+   "zhcn": "灵芝/亮盖灵芝/赤芝",
+   "current": "Ganoderma sichuanense",
+   "current_zhtw": "四川靈芝",
+   "current_zhcn": "四川灵芝",
    "img": "Ganoderma_lucidum_786c28e0-7e03-11ee-8401-7b47ce989191_1.jpg"
   },
   {
@@ -87,6 +90,18 @@
    "zhtw": "拱狀靈芝",
    "zhcn": "拱状灵芝",
    "img": "Ganoderma_orbiforme_7bc324a0-808b-11ee-87e1-bbc408d3721c_1.jpg"
+  },
+  {
+   "name": "Ganoderma sichuanense",
+   "zhtw": "四川靈芝",
+   "zhcn": "四川灵芝",
+   "img": "Ganoderma_lucidum_786c28e0-7e03-11ee-8401-7b47ce989191_1.jpg"
+  },
+  {
+   "name": "Ganoderma subresinosum",
+   "zhtw": "亞樹脂靈芝",
+   "zhcn": "亚树脂灵芝",
+   "img": "Magoderna_subresinosum_4_CC BY-NC.jpg"
   },
   {
    "name": "Ganoderma tropicum",

@@ -2,7 +2,7 @@
  "name": "Heterodermia",
  "zhtw": "鈴孢衣屬",
  "zhcn": "铃孢衣属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Heterodermia angustiloba",
@@ -35,6 +35,9 @@
    "name": "Heterodermia flabellata",
    "zhtw": "扇亞鈴孢衣",
    "zhcn": "扇亚铃孢衣",
+   "current": "Klauskalbia flabellata",
+   "current_zhtw": "扇形克氏衣",
+   "current_zhcn": "扇形克氏衣",
    "img": "Heterodermia_flabellata_1_CC BY-NC_陳麗紅.jpg"
   },
   {

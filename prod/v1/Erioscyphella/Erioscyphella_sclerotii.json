@@ -238,8 +238,8 @@
   "LookAlikes": "Lachnum abnorme,,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "異常粒毛盤菌,,",
-  "la_zhcn": "异常粒毛盘菌,,"
+  "la_zhtw": ",,",
+  "la_zhcn": ",,"
  },
  "inaturalist": [
   {
@@ -249,5 +249,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254741874/thumb.jpg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

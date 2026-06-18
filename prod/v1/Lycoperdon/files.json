@@ -2,7 +2,7 @@
  "name": "Lycoperdon",
  "zhtw": "馬勃屬",
  "zhcn": "马勃属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Lycoperdon bispinosum",
@@ -15,6 +15,12 @@
    "zhtw": "柯氏馬勃",
    "zhcn": "柯氏马勃",
    "img": "Lycoperdon_curtisii_fac007d0-7bb5-11ee-8359-e7dc7bfc7c01_1.jpg"
+  },
+  {
+   "name": "Lycoperdon excipuliforme",
+   "zhtw": "長柄馬勃",
+   "zhcn": "长柄马勃",
+   "img": "Calvatia_excipuliformis_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Lycoperdon hiemale",

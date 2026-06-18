@@ -1,0 +1,82 @@
+{
+ "genus": "Legaliana",
+ "name": "badia",
+ "date": [
+  "09/26/2015,791891944254572"
+ ],
+ "names_zhtw": [
+  "褐勒氏盤菌",
+  "疣孢褐盤菌"
+ ],
+ "names_en": [],
+ "url": "791891944254572",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Peziza_badia_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peziza_badia_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peziza_badia_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peziza_badia_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Peziza_badia_5_CC BY-NC.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Peziza badia",
+   "zhtw": "疣孢褐盤菌",
+   "zhcn": "疣孢褐盘菌"
+  }
+ ],
+ "names_zhcn": [
+  "褐勒氏盘菌",
+  "疣孢褐盘菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "20,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "在台灣為高山物種。",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260618-211326"
+}

@@ -2,7 +2,7 @@
  "name": "Aschersonia",
  "zhtw": "座殼孢屬",
  "zhcn": "座壳孢属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Aschersonia badia",
@@ -20,6 +20,9 @@
    "name": "Aschersonia samoensis",
    "zhtw": "薩摩亞座殼菌",
    "zhcn": "萨摩亚座壳菌",
+   "current": "Hypocrella discoidea",
+   "current_zhtw": "盤狀隔孢殼菌",
+   "current_zhcn": "盘状隔孢壳菌",
    "img": "Aschersonia_samoensis_c1b02050-b5fe-11ee-955d-59133d4dfa91_1.jpg"
   }
  ]

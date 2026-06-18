@@ -2,13 +2,19 @@
  "name": "Tricholomopsis",
  "zhtw": "擬口蘑屬",
  "zhcn": "拟口蘑属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Tricholomopsis aff. sasae",
    "zhtw": "土黃擬口蘑之相似種",
    "zhcn": "土黄拟口蘑之相似种",
    "img": "Tricholomopsis_aff. sasae_2_CC BY-NC_邱嫊惠.jpg"
+  },
+  {
+   "name": "Tricholomopsis aurea",
+   "zhtw": "金黃擬口蘑",
+   "zhcn": "金黄拟口蘑",
+   "img": "Collybia_aurea_1_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Tricholomopsis bambusina",

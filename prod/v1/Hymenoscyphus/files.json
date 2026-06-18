@@ -2,7 +2,7 @@
  "name": "Hymenoscyphus",
  "zhtw": "膜盤菌屬",
  "zhcn": "膜盘菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Hymenoscyphus albopunctus",
@@ -56,6 +56,9 @@
    "name": "Hymenoscyphus vacini",
    "zhtw": "瓦氏膜盤菌",
    "zhcn": "瓦氏膜盘菌",
+   "current": "Lanzia vacini",
+   "current_zhtw": "瓦氏蘭氏盤菌",
+   "current_zhcn": "瓦氏兰氏盘菌",
    "img": "Hymenoscyphus_vacini_2_CC BY-NC_陳麗紅.jpg"
   },
   {

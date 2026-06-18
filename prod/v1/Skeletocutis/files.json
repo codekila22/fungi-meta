@@ -2,7 +2,7 @@
  "name": "Skeletocutis",
  "zhtw": "骨皮菌屬",
  "zhcn": "骨皮菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Skeletocutis carneogrisea",
@@ -14,6 +14,9 @@
    "name": "Skeletocutis odora",
    "zhtw": "香味骨皮菌",
    "zhcn": "香味骨皮菌",
+   "current": "Tyromyces odorus",
+   "current_zhtw": "香味乾酪菌",
+   "current_zhcn": "香味干酪菌",
    "img": "Skeletocutis_odora_97d4a090-95bc-11f0-8344-c165790a5dc4_1.jpg"
   }
  ]

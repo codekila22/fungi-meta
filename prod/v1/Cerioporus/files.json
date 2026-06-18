@@ -2,13 +2,19 @@
  "name": "Cerioporus",
  "zhtw": "蠟孔菌屬",
  "zhcn": "蜡孔菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Cerioporus leptocephalus",
    "zhtw": "薄蓋蠟孔菌",
    "zhcn": "薄盖蜡孔菌",
    "img": "Cerioporus_leptocephalus_2643a710-66f3-11f1-a786-5d18feaced83_1.jpg"
+  },
+  {
+   "name": "Cerioporus scutellatus",
+   "zhtw": "盾形蜂窩孔菌",
+   "zhcn": "盾形蜂窝孔菌",
+   "img": "Datronia_scutellata_c3572c70-b97f-11ef-ab80-0bd697e298ae_1.jpg"
   },
   {
    "name": "Cerioporus squamosus",

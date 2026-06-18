@@ -2,12 +2,15 @@
  "name": "Collybia",
  "zhtw": "金錢菇屬",
  "zhcn": "金钱菇属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Collybia aurea",
    "zhtw": "金黃金錢菇",
    "zhcn": "金黄金钱菇",
+   "current": "Tricholomopsis aurea",
+   "current_zhtw": "金黃擬口蘑",
+   "current_zhcn": "金黄拟口蘑",
    "img": "Collybia_aurea_1_CC BY-NC_柯文俊.jpg"
   },
   {

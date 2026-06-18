@@ -2,13 +2,19 @@
  "name": "Pterulicium",
  "zhtw": "羽囊菌屬",
  "zhcn": "羽囊菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Pterulicium fasciculare",
    "zhtw": "簇生羽囊菌",
    "zhcn": "簇生羽囊菌",
    "img": "Deflexula_fascicularis_4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Pterulicium gracile",
+   "zhtw": "細小鬚瑚菌",
+   "zhcn": "细小须瑚菌",
+   "img": "Pterula_gracilis_1_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Pterulicium subsimplex",

@@ -2,6 +2,7 @@
  "genus": "Nectria",
  "name": "cinnabarina",
  "date": [
+  "01/01/2023,5622806874496364",
   "01/01/2023,5622806874496364"
  ],
  "names_zhtw": [
@@ -29,6 +30,21 @@
   {
    "author": "陳雅芬",
    "image_src": "Nectria_cinnabarina_5_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tubercularia_vulgaris_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Tubercularia_vulgaris_2_CC BY-NC_陳雅芬.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Tubercularia vulgaris",
+   "zhtw": "普通瘤座孢",
+   "zhcn": "普通瘤座孢"
   }
  ],
  "names_zhcn": [
@@ -86,5 +102,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

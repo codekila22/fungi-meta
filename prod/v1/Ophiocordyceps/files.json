@@ -2,7 +2,7 @@
  "name": "Ophiocordyceps",
  "zhtw": "蛇形蟲草屬",
  "zhcn": "蛇形虫草属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Ophiocordyceps buquetii",
@@ -33,6 +33,12 @@
    "zhtw": "尺蠖蛇形蟲草",
    "zhcn": "尺蠖蛇形虫草",
    "img": "Ophiocordyceps_sp.1_6aba8880-ce27-11ee-ba75-f3ee0a982f50_1.jpg"
+  },
+  {
+   "name": "Ophiocordyceps humbertii",
+   "zhtw": "洪氏線蟲草",
+   "zhcn": "洪氏线虫草",
+   "img": "Hirsutella_saussurei_2_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Ophiocordyceps jiangxiensis",

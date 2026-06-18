@@ -2,12 +2,15 @@
  "name": "Leprocaulon",
  "zhtw": "絨枝屬",
  "zhcn": "绒枝属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Leprocaulon pseudoarbuscula",
-   "zhtw": "擬樹絨枝",
-   "zhcn": "拟树绒枝",
+   "zhtw": "擬樹絨枝/擬麗絨枝衣",
+   "zhcn": "拟树绒枝/拟丽绒枝衣",
+   "current": "Lepraria pseudoarbuscula",
+   "current_zhtw": "擬樹粉衣",
+   "current_zhcn": "拟树粉衣",
    "img": "Leprocaulon_pseudoarbuscula_1_CC BY-NC_陳雅芬.jpg"
   }
  ]

@@ -2,7 +2,7 @@
  "name": "Gliophorus",
  "zhtw": "濕黏傘屬",
  "zhcn": "湿黏伞属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Gliophorus irrigatus",
@@ -14,6 +14,9 @@
    "name": "Gliophorus minutulus",
    "zhtw": "小濕黏傘",
    "zhcn": "小湿黏伞",
+   "current": "Hygrocybe minutula",
+   "current_zhtw": "小濕傘",
+   "current_zhcn": "小湿伞",
    "img": "Gliophorus_minutulus_1_CC BY-NC_James Ho.jpg"
   },
   {

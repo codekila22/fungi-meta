@@ -2,7 +2,9 @@
  "genus": "Lyophyllum",
  "name": "decastes",
  "date": [
-  "02/14/2024,6984248888352149"
+  "02/14/2024,6984248888352149",
+  "10/10/2021,7675993542511010",
+  "07/12/2017,1269886529788442"
  ],
  "names_zhtw": [
   "荷葉離褶傘",
@@ -44,6 +46,65 @@
   {
    "author": "蔡淑麗",
    "image_src": "Lyophyllum_decastes_d3434fa0-ce30-11ee-9db0-9559b651587d_7.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Lyophyllum_fumosum_1_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Lyophyllum_fumosum_2_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Lyophyllum_fumosum_3_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Lyophyllum_fumosum_4_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Lyophyllum_fumosum_5_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "陳啟仁",
+   "image_src": "Lyophyllum_fumosum_6_CC BY-NC_陳啟仁.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lyophyllum_fumosum_69105f70-9c6c-109e-b63b-3f0b64c93814_7.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Lyophyllum fumosum",
+   "zhtw": "煙色離褶傘",
+   "zhcn": "烟色离褶伞"
   }
  ],
  "names_zhcn": [
@@ -104,5 +165,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/237407595/thumb.jpeg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

@@ -2,7 +2,7 @@
  "name": "Phaeographis",
  "zhtw": "黑文衣屬",
  "zhcn": "黑文衣属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Phaeographis dendritica",
@@ -14,6 +14,9 @@
    "name": "Phaeographis intricans",
    "zhtw": "錯綜黑文衣",
    "zhcn": "错综黑文衣",
+   "current": "Sarcographa intricans",
+   "current_zhtw": "錯綜肉文衣",
+   "current_zhcn": "错综肉文衣",
    "img": "Phaeographis_intricans_1_CC BY-NC_陳雅芬.jpg"
   },
   {

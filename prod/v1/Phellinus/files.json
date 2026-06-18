@@ -2,12 +2,15 @@
  "name": "Phellinus",
  "zhtw": "木層孔菌屬",
  "zhcn": "木层孔菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Phellinus fushanianus",
    "zhtw": "福山木層孔菌",
    "zhcn": "福山木层孔菌",
+   "current": "Fulvifomes fushanianus",
+   "current_zhtw": "福山黃褐木層孔菌",
+   "current_zhcn": "福山黄褐木层孔菌",
    "img": "Phellinus_fushanus_3_CC BY-NC_陳啟仁.jpg"
   },
   {
@@ -20,6 +23,9 @@
    "name": "Phellinus hoehnelii",
    "zhtw": "賀尼木層孔菌",
    "zhcn": "贺尼木层孔菌",
+   "current": "Ochrosporellus hoehnelii",
+   "current_zhtw": "賀氏赭孢孔菌",
+   "current_zhcn": "贺氏赭孢孔菌",
    "img": "Phellinus_hoehnelii_1_CC BY-NC_柯文俊.jpg"
   },
   {

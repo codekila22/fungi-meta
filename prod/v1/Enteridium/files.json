@@ -2,12 +2,15 @@
  "name": "Enteridium",
  "zhtw": "孔膜黏菌屬",
  "zhcn": "孔膜黏菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Enteridium intermedium",
    "zhtw": "中間型孔膜黏菌",
    "zhcn": "中间型孔膜黏菌",
+   "current": "Reticularia intermedia",
+   "current_zhtw": "中間型網孢黏菌",
+   "current_zhcn": "中间型网孢黏菌",
    "img": "Enteridium_intermedium_1_CC BY-NC_陳雅芬.jpg"
   },
   {

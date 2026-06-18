@@ -2,7 +2,7 @@
  "name": "Stropharia",
  "zhtw": "球蓋菇屬",
  "zhcn": "球盖菇属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Stropharia aeruginosa",
@@ -14,6 +14,9 @@
    "name": "Stropharia aff. riparia",
    "zhtw": "灰裂環球蓋菇之近似種",
    "zhcn": "灰裂环球盖菇之近似种",
+   "current": "Leratiomyces aff. riparius",
+   "current_zhtw": "河岸萊氏菇",
+   "current_zhcn": "河岸莱氏菇",
    "img": "Stropharia_aff. riparia_2_CC BY-NC_柯文俊.jpg"
   },
   {

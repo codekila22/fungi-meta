@@ -2,12 +2,15 @@
  "name": "Chromelosporium",
  "zhtw": "孢菌屬",
  "zhcn": "孢菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Chromelosporium coerulescens",
    "zhtw": "白藍孢菌",
    "zhcn": "白蓝孢菌",
+   "current": "Chromelosporiopsis coerulescens",
+   "current_zhtw": "藍變擬色孢黴",
+   "current_zhcn": "蓝变拟色孢霉",
    "img": "Chromelosporium_coerulescens_1_CC BY-NC_向高世.jpg"
   },
   {

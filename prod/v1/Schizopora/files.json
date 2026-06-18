@@ -2,12 +2,15 @@
  "name": "Schizopora",
  "zhtw": "裂孔菌屬",
  "zhcn": "裂孔菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Schizopora flavipora",
    "zhtw": "淡黃裂孔菌",
    "zhcn": "淡黄裂孔菌",
+   "current": "Xylodon flaviporus",
+   "current_zhtw": "淡黃木齒菌",
+   "current_zhcn": "淡黄木齿菌",
    "img": "Neoantrodia_serrata_1_CC BY-NC_陳雅芬.jpg"
   }
  ]

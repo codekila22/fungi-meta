@@ -2,12 +2,15 @@
  "name": "Hirschioporus",
  "zhtw": "囊孔菌屬",
  "zhcn": "囊孔菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Hirschioporus abietinus",
    "zhtw": "冷杉囊孔菌",
    "zhcn": "冷杉囊孔菌",
+   "current": "Trichaptum abietinum",
+   "current_zhtw": "冷杉附毛菌",
+   "current_zhcn": "冷杉附毛菌",
    "img": "Trichaptum_abietinum_f8aa7ca0-8d2e-11f0-bf43-5d0ebef1c3f3_2.jpg"
   }
  ]

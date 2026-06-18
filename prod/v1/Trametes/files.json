@@ -2,7 +2,7 @@
  "name": "Trametes",
  "zhtw": "栓菌屬",
  "zhcn": "栓菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Trametes betulina",
@@ -29,6 +29,9 @@
    "name": "Trametes feei",
    "zhtw": "粉紅栓菌",
    "zhcn": "粉红栓菌",
+   "current": "Rhodofomitopsis feei",
+   "current_zhtw": "費氏紅擬層孔菌",
+   "current_zhcn": "费氏红拟层孔菌",
    "img": "Trametes_feei_4_CC BY-NC.jpg"
   },
   {
@@ -47,9 +50,6 @@
    "name": "Trametes hirta",
    "zhtw": "多毛栓菌",
    "zhcn": "多毛栓菌",
-   "current": "Hexagonia hirta",
-   "current_zhtw": "多毛蜂窩菌",
-   "current_zhcn": "多毛蜂窝菌",
    "img": "Hexagonia_hirta_3_CC BY-NC.jpg"
   },
   {

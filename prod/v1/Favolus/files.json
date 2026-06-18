@@ -2,7 +2,7 @@
  "name": "Favolus",
  "zhtw": "菱孔菌屬",
  "zhcn": "菱孔菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Favolus acervatus",
@@ -21,6 +21,12 @@
    "current_zhtw": "略薄菱孔菌",
    "current_zhcn": "略薄菱孔菌",
    "img": "Favolus_tenuiculus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Favolus curtipes",
+   "zhtw": "短柄花瓣菌",
+   "zhcn": "短柄花瓣菌",
+   "img": "Polyporus_curtipes_5253f1f0-5a0a-11ee-8cb9-c19f96b4fa42_1.jpg"
   },
   {
    "name": "Favolus emerici",

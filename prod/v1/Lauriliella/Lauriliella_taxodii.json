@@ -1,0 +1,74 @@
+{
+ "genus": "Lauriliella",
+ "name": "taxodii",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "落羽杉小勞氏菌",
+  "落羽杉勞氏革菌"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3263",
+ "images": [
+  {
+   "author": "陳雅德",
+   "image_src": "Laurilia_taxodii_2_CC BY-NC_陳雅德.jpg"
+  },
+  {
+   "author": "陳雅德",
+   "image_src": "Laurilia_taxodii_1_CC BY-NC_陳雅德.jpg"
+  },
+  {
+   "author": "陳雅德",
+   "image_src": "Laurilia_taxodii_3_CC BY-NC_陳雅德.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Laurilia taxodii",
+   "zhtw": "落羽杉勞氏菌",
+   "zhcn": "落羽杉劳氏菌"
+  }
+ ],
+ "names_zhcn": [
+  "落羽杉小劳氏菌",
+  "落羽杉劳氏革菌"
+ ],
+ "meta": {
+  "CapColors": "4286611584,4284635991,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260618-211326"
+}

@@ -2,7 +2,7 @@
  "name": "Panus",
  "zhtw": "革耳屬",
  "zhcn": "革耳属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Panus conchatus",
@@ -14,9 +14,9 @@
    "name": "Panus fulvus",
    "zhtw": "褐絨革耳",
    "zhcn": "褐绒革耳",
-   "current": "Panus velutinus",
-   "current_zhtw": "絨毛革耳",
-   "current_zhcn": "绒毛革耳",
+   "current": "Lentinus velutinus",
+   "current_zhtw": "絨毛斗菇",
+   "current_zhcn": "绒毛斗菇",
    "img": "Panus_fulvus_4_CC BY-NC_陳麗紅.jpg"
   },
   {
@@ -56,6 +56,9 @@
    "name": "Panus velutinus",
    "zhtw": "絨毛革耳",
    "zhcn": "绒毛革耳",
+   "current": "Lentinus velutinus",
+   "current_zhtw": "絨毛斗菇",
+   "current_zhcn": "绒毛斗菇",
    "img": "Panus_fulvus_4_CC BY-NC_陳麗紅.jpg"
   }
  ]

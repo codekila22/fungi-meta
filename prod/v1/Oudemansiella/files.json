@@ -2,7 +2,7 @@
  "name": "Oudemansiella",
  "zhtw": "小奧德蘑屬",
  "zhcn": "小奥德蘑属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Oudemansiella australis",
@@ -32,6 +32,9 @@
    "name": "Oudemansiella pudens",
    "zhtw": "絨毛小奧德蘑",
    "zhcn": "绒毛小奥德蘑",
+   "current": "Xerula pudens",
+   "current_zhtw": "絨毛干蘑",
+   "current_zhcn": "绒毛干蘑",
    "img": "Oudemansiella_pudens_6_CC BY-NC_柯文俊.jpg"
   }
  ]

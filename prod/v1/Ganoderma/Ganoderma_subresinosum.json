@@ -1,0 +1,78 @@
+{
+ "genus": "Ganoderma",
+ "name": "subresinosum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "亞樹脂靈芝",
+  "樹脂大孢芝"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/871",
+ "images": [
+  {
+   "author": "",
+   "image_src": "Magoderna_subresinosum_4_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Magoderna_subresinosum_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Magoderna_subresinosum_3_CC BY-NC.jpg"
+  },
+  {
+   "author": "",
+   "image_src": "Magoderna_subresinosum_1_CC BY-NC.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Magoderna subresinosum",
+   "zhtw": "樹脂大孢芝",
+   "zhcn": "树脂大孢芝"
+  }
+ ],
+ "names_zhcn": [
+  "亚树脂灵芝",
+  "树脂大孢芝"
+ ],
+ "meta": {
+  "CapColors": "4285098345,4278190080",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260618-211326"
+}

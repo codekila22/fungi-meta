@@ -2,8 +2,20 @@
  "name": "Leccinellum",
  "zhtw": "小疣柄牛肝菌屬",
  "zhcn": "小疣柄牛肝菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
+  {
+   "name": "Leccinellum griseum",
+   "zhtw": "灰小疣柄牛肝菌",
+   "zhcn": "灰小疣柄牛肝菌",
+   "img": "Leccinum_griseum_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Leccinellum rugosiceps",
+   "zhtw": "皺蓋小疣柄牛肝菌",
+   "zhcn": "皱盖小疣柄牛肝菌",
+   "img": "Leccinum_rugosiceps_7f2533b0-a742-11f0-8ad5-f7ad3eedbac3_2.jpg"
+  },
   {
    "name": "Leccinellum sinoaurantiacum",
    "zhtw": "華金黃小疣柄牛肝菌",

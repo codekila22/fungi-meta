@@ -2,7 +2,7 @@
  "name": "Cortinarius",
  "zhtw": "絲膜菌屬",
  "zhcn": "丝膜菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Cortinarius alboviolaceus",
@@ -74,12 +74,18 @@
    "name": "Cortinarius occidentalis",
    "zhtw": "西方絲膜菌",
    "zhcn": "西方丝膜菌",
+   "current": "Thaxterogaster occidentalis",
+   "current_zhtw": "西方塔氏腹菌",
+   "current_zhcn": "西方塔氏腹菌",
    "img": "Cortinarius_occidentalis_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Cortinarius purpurascens",
    "zhtw": "紫絲膜菌",
    "zhcn": "紫丝膜菌",
+   "current": "Thaxterogaster purpurascens",
+   "current_zhtw": "紫塔氏腹菌",
+   "current_zhcn": "紫塔氏腹菌",
    "img": "Cortinarius_purpurascens_a5d16e10-271f-11ef-a198-39d77cbbcca7_1.jpg"
   },
   {

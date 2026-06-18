@@ -2,7 +2,7 @@
  "name": "Nectria",
  "zhtw": "叢赤殼菌屬",
  "zhcn": "丛赤壳菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Nectria balansae",
@@ -29,6 +29,9 @@
    "name": "Nectria pseudopeziza",
    "zhtw": "擬盤菌叢赤殼菌",
    "zhcn": "拟盘菌丛赤壳菌",
+   "current": "Xanthonectria pseudopeziza",
+   "current_zhtw": "擬盤黃叢赤殼菌",
+   "current_zhcn": "拟盘黄丛赤壳菌",
    "img": "Nectria_pseudopeziza_1_CC BY-NC_陳雅芬.jpg"
   },
   {

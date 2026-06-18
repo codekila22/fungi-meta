@@ -2,7 +2,7 @@
  "name": "Marasmiellus",
  "zhtw": "微皮傘屬",
  "zhcn": "微皮伞属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Marasmiellus aff. pilosus",
@@ -77,6 +77,9 @@
    "name": "Marasmiellus ramealis",
    "zhtw": "枝生微皮傘",
    "zhcn": "枝生微皮伞",
+   "current": "Collybiopsis ramealis",
+   "current_zhtw": "枝生擬金錢菌",
+   "current_zhcn": "枝生拟金钱菌",
    "img": "Marasmiellus_ramealis_1_CC BY-NC_Sunny Wang.jpg"
   },
   {
@@ -95,6 +98,9 @@
    "name": "Marasmiellus stenophyllus",
    "zhtw": "狹褶微皮傘",
    "zhcn": "狭褶微皮伞",
+   "current": "Collybiopsis stenophylla",
+   "current_zhtw": "狹褶擬金錢菌",
+   "current_zhcn": "狭褶拟金钱菌",
    "img": "Marasmiellus_stenophyllus_a8ce7d10-ab30-11f0-9c8b-ef5c4f1388cb_6.jpg"
   },
   {

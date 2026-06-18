@@ -2,13 +2,19 @@
  "name": "Cheilymenia",
  "zhtw": "緣刺盤菌屬",
  "zhcn": "缘刺盘菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Cheilymenia aff. magnipila",
    "zhtw": "大蓋緣刺盤菌之相似種",
    "zhcn": "大盖缘刺盘菌之相似种",
    "img": "Cheilymenia_aff. magnipila_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Cheilymenia crucipila",
+   "zhtw": "十字毛緣盤菌",
+   "zhcn": "十字毛缘盘菌",
+   "img": "Scutellinia_crucipila_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Cheilymenia fimicola",

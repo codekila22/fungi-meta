@@ -2,12 +2,15 @@
  "name": "Gibberella",
  "zhtw": "赤黴屬",
  "zhcn": "赤霉属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Gibberella zeae",
    "zhtw": "玉米赤黴菌",
    "zhcn": "玉米赤霉菌",
+   "current": "Fusarium graminearum",
+   "current_zhtw": "禾穀鐮孢菌",
+   "current_zhcn": "禾谷镰孢菌",
    "img": "Gibberella_zeae_bd42cfa0-9cda-11ee-b24c-09e3c104fb6e_1.jpg"
   }
  ]

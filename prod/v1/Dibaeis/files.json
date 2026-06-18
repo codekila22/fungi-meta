@@ -2,13 +2,19 @@
  "name": "Dibaeis",
  "zhtw": "假羊角衣屬",
  "zhcn": "假羊角衣属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Dibaeis absoluta",
    "zhtw": "小羊角衣",
    "zhcn": "小羊角衣",
    "img": "Baeomyces_absolutus_2_CC BY-NC.jpg"
+  },
+  {
+   "name": "Dibaeis arcuata",
+   "zhtw": "弓形雙球衣",
+   "zhcn": "弓形双球衣",
+   "img": "Baeomyces_fungoides_3_CC BY-NC_Hannah Wang.jpg"
   }
  ]
 }

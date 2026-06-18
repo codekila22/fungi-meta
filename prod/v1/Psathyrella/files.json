@@ -2,7 +2,7 @@
  "name": "Psathyrella",
  "zhtw": "小脆柄菇屬",
  "zhcn": "小脆柄菇属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Psathyrella albipes",
@@ -26,12 +26,18 @@
    "name": "Psathyrella cineraria",
    "zhtw": "鼠灰小脆柄菇",
    "zhcn": "鼠灰小脆柄菇",
+   "current": "Coprinopsis cineraria",
+   "current_zhtw": "鼠灰擬鬼傘",
+   "current_zhcn": "鼠灰拟鬼伞",
    "img": "Psathyrella_cineraria_3c6ab1b0-c62c-11ee-9072-159421035d8c_1.jpg"
   },
   {
    "name": "Psathyrella delineata",
-   "zhtw": "凸紋小脆柄菇",
-   "zhcn": "凸纹小脆柄菇",
+   "zhtw": "凸紋小脆柄菇/皺紋小脆柄菇",
+   "zhcn": "凸纹小脆柄菇/皱纹小脆柄菇",
+   "current": "Typhrasa delineata",
+   "current_zhtw": "凸紋小脆柄菇",
+   "current_zhcn": "凸纹小脆柄菇",
    "img": "Psathyrella_delineata_1_CC BY-NC_James Ho.jpg"
   },
   {

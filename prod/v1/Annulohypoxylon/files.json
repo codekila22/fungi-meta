@@ -2,7 +2,7 @@
  "name": "Annulohypoxylon",
  "zhtw": "環紋炭團菌屬",
  "zhcn": "环纹炭团菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Annulohypoxylon annulatum",
@@ -33,6 +33,12 @@
    "zhtw": "幽隱環紋炭團菌",
    "zhcn": "幽隐环纹炭团菌",
    "img": "Annulohypoxylon_stygium_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Annulohypoxylon truncatum",
+   "zhtw": "截孢環炭團菌",
+   "zhcn": "截孢环炭团菌",
+   "img": "Hypoxylon_truncatum_4_CC BY-NC.jpg"
   }
  ]
 }

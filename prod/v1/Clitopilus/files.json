@@ -2,12 +2,15 @@
  "name": "Clitopilus",
  "zhtw": "斜蓋傘屬",
  "zhcn": "斜盖伞属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Clitopilus cf. tillii",
    "zhtw": "疑似帝爾斜蓋傘",
    "zhcn": "疑似帝尔斜盖伞",
+   "current": "Arrhenia cf. tillii",
+   "current_zhtw": "提爾氏亞臍菇",
+   "current_zhcn": "提尔氏亚脐菇",
    "img": "Clitopilus_cf. tillii_1_CC BY-NC_陳雅芬.jpg"
   },
   {

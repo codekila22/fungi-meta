@@ -2,13 +2,19 @@
  "name": "Arrhenia",
  "zhtw": "蘚臍菇屬",
  "zhcn": "藓脐菇属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Arrhenia acerosa",
    "zhtw": "銳葉蘚臍菇",
    "zhcn": "锐叶藓脐菇",
    "img": "Arrhenia_acerosa_7a59e3f0-8392-11ef-ab76-b36c61a1995a_1.jpg"
+  },
+  {
+   "name": "Arrhenia cf. tillii",
+   "zhtw": "提爾氏亞臍菇",
+   "zhcn": "提尔氏亚脐菇",
+   "img": "Clitopilus_cf. tillii_1_CC BY-NC_陳雅芬.jpg"
   },
   {
    "name": "Arrhenia discorosea",

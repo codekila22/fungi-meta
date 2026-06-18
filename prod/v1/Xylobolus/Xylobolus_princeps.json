@@ -2,7 +2,9 @@
  "genus": "Xylobolus",
  "name": "princeps",
  "date": [
+  "03/16/2026,26106706415679776",
   "02/18/2024,7004360989674272",
+  "11/05/2023,6614327602010948",
   "05/02/2015,730037400440027"
  ],
  "names_zhtw": [
@@ -51,6 +53,109 @@
   {
    "author": "蔡古媧",
    "image_src": "Xylobolus_princeps_f0659630-d383-11ee-874d-9b29198c348b_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylobolus_annosus_b0fc0ab0-7ef1-11ee-83c7-672b1fb7aceb_11.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Xylobolus_annosus_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Xylobolus_annosus_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Xylobolus_annosus_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Xylobolus_annosus_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Xylobolus_annosus_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Xylobolus_annosus_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylobolus_annosus_48eb4f30-259d-11f1-b0b0-0b212383b427_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylobolus_annosus_48eb4f30-259d-11f1-b0b0-0b212383b427_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylobolus_annosus_48eb4f30-259d-11f1-b0b0-0b212383b427_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylobolus_annosus_48eb4f30-259d-11f1-b0b0-0b212383b427_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylobolus_annosus_48eb4f30-259d-11f1-b0b0-0b212383b427_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylobolus_annosus_48eb4f30-259d-11f1-b0b0-0b212383b427_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylobolus_annosus_48eb4f30-259d-11f1-b0b0-0b212383b427_7.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Xylobolus annosus",
+   "zhtw": "一年生木丸菌",
+   "zhcn": "一年生木丸菌"
   }
  ],
  "names_zhcn": [
@@ -100,5 +205,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112066992/thumb.jpeg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

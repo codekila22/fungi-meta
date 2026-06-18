@@ -1,0 +1,98 @@
+{
+ "genus": "Leratiomyces",
+ "name": "aff. riparius",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "河岸萊氏菇",
+  "河岸球蓋菇"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/3385",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_7_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_8_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Stropharia_aff. riparia_9_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Stropharia aff. riparia",
+   "zhtw": "灰裂環球蓋菇之近似種",
+   "zhcn": "灰裂环球盖菇之近似种"
+  }
+ ],
+ "names_zhcn": [
+  "河岸莱氏菇",
+  "河岸球盖菇"
+ ],
+ "meta": {
+  "CapColors": "4290822336,4291605388",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "timestamp": "20260618-211326"
+}

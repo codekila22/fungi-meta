@@ -8,7 +8,8 @@
   "07/29/2023,6248896738554038",
   "07/03/2023,6164279203682459",
   "09/07/2022,5229615907148798",
-  "07/13/2017,1254716987972063"
+  "07/13/2017,1254716987972063",
+  "09/05/2015,781438515299915"
  ],
  "names_zhtw": [
   "變綠褐鎖瑚菌"
@@ -191,6 +192,29 @@
   {
    "author": "Sunny Wang",
    "image_src": "Phaeoclavulina_abietina_036ce600-6cba-11ef-ae9a-53e3fd112411_10.jpg"
+  },
+  {
+   "author": "Reckon Yang",
+   "image_src": "Ramaria_abietina_4_CC BY-NC_Reckon Yang.jpg"
+  },
+  {
+   "author": "Reckon Yang",
+   "image_src": "Ramaria_abietina_2_CC BY-NC_Reckon Yang.jpg"
+  },
+  {
+   "author": "Reckon Yang",
+   "image_src": "Ramaria_abietina_3_CC BY-NC_Reckon Yang.jpg"
+  },
+  {
+   "author": "Reckon Yang",
+   "image_src": "Ramaria_abietina_1_CC BY-NC_Reckon Yang.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Ramaria abietina",
+   "zhtw": "變綠枝瑚菌",
+   "zhcn": "变绿枝瑚菌"
   }
  ],
  "names_zhcn": [
@@ -239,5 +263,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/79406316/thumb.jpg"
   }
  ],
- "timestamp": "20260618-144357"
+ "timestamp": "20260618-211326"
 }

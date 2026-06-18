@@ -2,7 +2,7 @@
  "name": "Leccinum",
  "zhtw": "疣柄牛肝菌屬",
  "zhcn": "疣柄牛肝菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Leccinum extremiorientale",
@@ -17,6 +17,9 @@
    "name": "Leccinum griseum",
    "zhtw": "灰疣柄牛肝菌",
    "zhcn": "灰疣柄牛肝菌",
+   "current": "Leccinellum griseum",
+   "current_zhtw": "灰小疣柄牛肝菌",
+   "current_zhcn": "灰小疣柄牛肝菌",
    "img": "Leccinum_griseum_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
@@ -35,6 +38,9 @@
    "name": "Leccinum rugosiceps",
    "zhtw": "皺蓋疣柄牛肝菌",
    "zhcn": "皱盖疣柄牛肝菌",
+   "current": "Leccinellum rugosiceps",
+   "current_zhtw": "皺蓋小疣柄牛肝菌",
+   "current_zhcn": "皱盖小疣柄牛肝菌",
    "img": "Leccinum_rugosiceps_7f2533b0-a742-11f0-8ad5-f7ad3eedbac3_2.jpg"
   },
   {

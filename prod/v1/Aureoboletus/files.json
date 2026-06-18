@@ -2,8 +2,14 @@
  "name": "Aureoboletus",
  "zhtw": "金牛肝菌屬",
  "zhcn": "金牛肝菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
+  {
+   "name": "Aureoboletus auriflammeus",
+   "zhtw": "金焰金牛肝菌",
+   "zhcn": "金焰金牛肝菌",
+   "img": "Pulveroboletus_auriflammeus_1_CC BY-NC_Ali Tam.jpg"
+  },
   {
    "name": "Aureoboletus longicollis",
    "zhtw": "長柄金牛肝菌",
@@ -15,6 +21,12 @@
    "zhtw": "奇異金牛肝菌",
    "zhcn": "奇异金牛肝菌",
    "img": "Aureoboletus_mirabilis_69bee510-20bd-11ee-aa66-2901cae35422_1.jpg"
+  },
+  {
+   "name": "Aureoboletus shichianus",
+   "zhtw": "小條金牛肝菌",
+   "zhcn": "小条金牛肝菌",
+   "img": "Boletellus_shichianus_19333260-5fcf-11f0-8c1d-5305a4eaaea1_1.jpg"
   },
   {
    "name": "Aureoboletus tenuis",

@@ -2,7 +2,7 @@
  "name": "Phlebia",
  "zhtw": "射脈菌屬",
  "zhcn": "射脉菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Phlebia chrysocreas",
@@ -35,6 +35,9 @@
    "name": "Phlebia subochracea",
    "zhtw": "近赭黃射脈菌",
    "zhcn": "近赭黄射脉菌",
+   "current": "Phlebiodontia subochracea",
+   "current_zhtw": "近赭黃射齒菌",
+   "current_zhcn": "近赭黄射齿菌",
    "img": "Phlebia_subochracea_9fbe7e70-e286-11ed-ab12-bbf7b573ce6c_1.jpg"
   },
   {

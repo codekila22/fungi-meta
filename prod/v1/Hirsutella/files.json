@@ -2,12 +2,15 @@
  "name": "Hirsutella",
  "zhtw": "被毛孢黴屬",
  "zhcn": "被毛孢霉属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Hirsutella saussurei",
    "zhtw": "索緒爾被毛孢黴",
    "zhcn": "索绪尔被毛孢霉",
+   "current": "Ophiocordyceps humbertii",
+   "current_zhtw": "洪氏線蟲草",
+   "current_zhcn": "洪氏线虫草",
    "img": "Hirsutella_saussurei_2_CC BY-NC_向高世.jpg"
   }
  ]

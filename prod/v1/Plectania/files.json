@@ -2,7 +2,7 @@
  "name": "Plectania",
  "zhtw": "暗盤菌屬",
  "zhcn": "暗盘菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Plectania campylospora",
@@ -20,7 +20,10 @@
    "name": "Plectania melaena",
    "zhtw": "黑褐暗盤菌",
    "zhcn": "黑褐暗盘菌",
-   "img": "Plectania_melaena_2_CC BY-NC_Samra Chang.jpg"
+   "current": "Pseudoplectania melaena",
+   "current_zhtw": "黑褐假暗盤菌",
+   "current_zhcn": "黑褐假暗盘菌",
+   "img": "Pseudoplectania_melaena_1_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Plectania melastoma",

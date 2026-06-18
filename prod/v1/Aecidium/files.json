@@ -2,7 +2,7 @@
  "name": "Aecidium",
  "zhtw": "銹孢銹菌屬",
  "zhcn": "锈孢锈菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Aecidium araliae",
@@ -51,8 +51,11 @@
   },
   {
    "name": "Aecidium paederiae",
-   "zhtw": "牛皮凍銹孢銹菌",
-   "zhcn": "牛皮冻锈孢锈菌",
+   "zhtw": "牛皮凍銹孢銹菌/雞屎藤銹孢銹菌",
+   "zhcn": "牛皮冻锈孢锈菌/鸡屎藤锈孢锈菌",
+   "current": "Puccinia paederiae",
+   "current_zhtw": "雞屎藤柄銹菌",
+   "current_zhcn": "鸡屎藤柄锈菌",
    "img": "Aecidium_paederiae_00acd660-886b-11ef-be38-335f10af7160_1.jpg"
   },
   {

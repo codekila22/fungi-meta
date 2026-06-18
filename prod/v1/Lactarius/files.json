@@ -2,7 +2,7 @@
  "name": "Lactarius",
  "zhtw": "乳菇屬",
  "zhcn": "乳菇属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Lactarius aff. scrobiculatus",
@@ -20,7 +20,10 @@
    "name": "Lactarius akahatsu",
    "zhtw": "淡橙紅乳菇",
    "zhcn": "淡橙红乳菇",
-   "img": "Lactarius_akahatsu_1_CC BY-NC_Hannah Wang.jpg"
+   "current": "Lactarius hatsudake",
+   "current_zhtw": "紅汁乳菇",
+   "current_zhcn": "红汁乳菇",
+   "img": "Lactarius_hatsudake_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Lactarius camphoratus",
@@ -50,6 +53,9 @@
    "name": "Lactarius fuscomarginatus",
    "zhtw": "褐緣乳菇",
    "zhcn": "褐缘乳菇",
+   "current": "Lactifluus fuscomarginatus",
+   "current_zhtw": "褐緣多汁乳菇",
+   "current_zhcn": "褐缘多汁乳菇",
    "img": "Lactarius_fuscomarginatus_1_CC BY-NC_陳麗紅.jpg"
   },
   {

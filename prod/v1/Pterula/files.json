@@ -2,7 +2,7 @@
  "name": "Pterula",
  "zhtw": "鬚瑚菌屬",
  "zhcn": "须瑚菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Pterula bambusicola",
@@ -14,6 +14,9 @@
    "name": "Pterula gracilis",
    "zhtw": "細鬚瑚菌",
    "zhcn": "细须瑚菌",
+   "current": "Pterulicium gracile",
+   "current_zhtw": "細小鬚瑚菌",
+   "current_zhcn": "细小须瑚菌",
    "img": "Pterula_gracilis_1_CC BY-NC_James Ho.jpg"
   },
   {

@@ -2,13 +2,19 @@
  "name": "Cystodermella",
  "zhtw": "小囊皮菌屬",
  "zhcn": "小囊皮菌属",
- "timestamp": "20260618-144357",
+ "timestamp": "20260618-211326",
  "list": [
   {
    "name": "Cystodermella aff. cinnabarina",
    "zhtw": "朱紅小囊皮菌的相似種",
    "zhcn": "朱红小囊皮菌的相似种",
    "img": "Cystodermella_aff. cinnabarina_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "name": "Cystodermella granulosa",
+   "zhtw": "顆粒小囊皮傘",
+   "zhcn": "颗粒小囊皮伞",
+   "img": "Cystoderma_cf. granulosum_1_CC BY-NC_Hannah Wang.jpg"
   }
  ]
 }
