@@ -136,5 +136,19 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Skeletocutis odora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/605620",
+   "src": "https://static.inaturalist.org/photos/304212398/square.jpg"
+  },
+  {
+   "name": "Skeletocutis pseudo-odora",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1231533",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

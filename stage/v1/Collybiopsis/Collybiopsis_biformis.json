@@ -172,5 +172,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Collybiopsis biformis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1275325",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/188917653/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

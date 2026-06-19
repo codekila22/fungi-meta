@@ -275,5 +275,13 @@
   "la_zhtw": "頭狀禿馬勃,,",
   "la_zhcn": "头状秃马勃,,"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Lycoperdon excipuliforme",
+   "cname": "Pestle Puffball",
+   "url": "https://www.inaturalist.org/taxa/154675",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/153505537/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

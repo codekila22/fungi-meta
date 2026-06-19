@@ -255,5 +255,13 @@
   "Note": "子實體從一開始的白或藍色，逐漸成熟變成帶肉粉色或淡褐色。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Chromelosporiopsis coerulescens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1253385",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13568885/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

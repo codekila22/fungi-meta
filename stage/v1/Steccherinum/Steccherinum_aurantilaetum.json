@@ -166,5 +166,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Junghuhnia aurantilaeta",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/895576",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

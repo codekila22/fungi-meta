@@ -78,5 +78,13 @@
   "Note": "在台灣為高山物種。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Legaliana badia",
+   "cname": "Bay Cup",
+   "url": "https://www.inaturalist.org/taxa/1110763",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340303/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

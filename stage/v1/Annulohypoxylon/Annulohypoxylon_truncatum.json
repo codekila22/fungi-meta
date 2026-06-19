@@ -78,5 +78,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Annulohypoxylon truncatum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/337046",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249158287/square.jpeg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

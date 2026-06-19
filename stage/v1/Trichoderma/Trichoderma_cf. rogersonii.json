@@ -110,5 +110,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Trichoderma rogersonii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1274573",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156217480/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

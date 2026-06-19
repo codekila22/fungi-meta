@@ -101,5 +101,13 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Aureoboletus auriflammeus",
+   "cname": "flaming gold bolete",
+   "url": "https://www.inaturalist.org/taxa/836531",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/412901922/square.jpeg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

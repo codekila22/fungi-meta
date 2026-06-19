@@ -195,5 +195,13 @@
   "la_zhtw": ",,",
   "la_zhcn": ",,"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Lepra commutata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1024148",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/60567154/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

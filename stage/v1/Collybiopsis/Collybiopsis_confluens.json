@@ -96,5 +96,25 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Collybiopsis confluens",
+   "cname": "clustered toughshank",
+   "url": "https://www.inaturalist.org/taxa/1275338",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135548/square."
+  },
+  {
+   "name": "Collybiopsis confluens campanulata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1411602",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/446955830/square.jpg"
+  },
+  {
+   "name": "Collybiopsis confluens confluens",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1411603",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/215255043/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

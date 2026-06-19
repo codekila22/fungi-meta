@@ -116,5 +116,13 @@
   "Note": "非常小型的牛肝菌。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Parvixerocomus aokii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/931579",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/19927162/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

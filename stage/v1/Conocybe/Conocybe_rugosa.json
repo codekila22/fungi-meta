@@ -163,5 +163,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Pholiotina rugosa",
+   "cname": "Common Conecap",
+   "url": "https://www.inaturalist.org/taxa/877494",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/57024202/square.jpeg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

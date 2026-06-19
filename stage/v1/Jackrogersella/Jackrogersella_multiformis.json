@@ -74,5 +74,19 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Jackrogersella multiformis",
+   "cname": "Birch Woodwart",
+   "url": "https://www.inaturalist.org/taxa/895016",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6235509/square.jpeg"
+  },
+  {
+   "name": "Jackrogersella multiformis alaskensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1224374",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

@@ -73,5 +73,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Reticularia intermedia",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/491513",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12927492/square.jpeg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

@@ -82,5 +82,13 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Russula grata",
+   "cname": "Almond-scented Russula",
+   "url": "https://www.inaturalist.org/taxa/118191",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/107494762/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

@@ -117,5 +117,13 @@
   "la_zhtw": "毛蜂窩菌,,",
   "la_zhcn": "毛蜂窝菌,,"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Hexagonia hirta",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/351002",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/25908516/square.jpeg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

@@ -80,5 +80,13 @@
   "la_zhtw": "雞屎藤鞘銹菌,,",
   "la_zhcn": "鸡屎藤鞘锈菌,,"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Puccinia paederiae",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1204389",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/114059175/square.jpeg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

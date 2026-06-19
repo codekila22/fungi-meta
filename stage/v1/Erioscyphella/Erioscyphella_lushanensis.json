@@ -298,5 +298,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Erioscyphella lushanensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1444182",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253298360/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

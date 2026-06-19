@@ -224,5 +224,25 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Hygrocybe minutula",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/499792",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5496292/square.jpg"
+  },
+  {
+   "name": "Hygrocybe minutula nanangensis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/499793",
+   "src": ""
+  },
+  {
+   "name": "Hygrocybe minutula minutula",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1059188",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

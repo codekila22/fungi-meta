@@ -335,5 +335,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Collybiopsis ramealis",
+   "cname": "Twig Parachute",
+   "url": "https://www.inaturalist.org/taxa/1275332",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/468289098/square.jpeg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

@@ -83,5 +83,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Russula puiggarii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1254914",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/485463943/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

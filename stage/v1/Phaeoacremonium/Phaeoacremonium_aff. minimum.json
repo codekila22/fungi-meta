@@ -83,5 +83,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Phaeoacremonium aleophilum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1432649",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260619-134856"
 }

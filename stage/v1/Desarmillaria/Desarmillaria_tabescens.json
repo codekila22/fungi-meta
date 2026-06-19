@@ -177,5 +177,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Desarmillaria tabescens",
+   "cname": "ringless honey fungus",
+   "url": "https://www.inaturalist.org/taxa/895035",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/345654444/square.jpg"
+  }
+ ],
+ "timestamp": "20260619-134856"
 }
