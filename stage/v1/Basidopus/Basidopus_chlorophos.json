@@ -2,6 +2,7 @@
  "genus": "Basidopus",
  "name": "chlorophos",
  "date": [
+  "06/20/2026,27295240970159642",
   "06/13/2026,27217134334636973",
   "12/02/2025,25139101849106909",
   "08/03/2025,24054000080950430",
@@ -622,6 +623,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_chlorophos_7953c120-d264-11f0-a463-09d65b3eb824_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Basidopus_chlorophos_2be86db0-6c8c-11f1-8af8-b1515166ffd1_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Basidopus_chlorophos_2be86db0-6c8c-11f1-8af8-b1515166ffd1_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Basidopus_chlorophos_2be86db0-6c8c-11f1-8af8-b1515166ffd1_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Basidopus_chlorophos_2be86db0-6c8c-11f1-8af8-b1515166ffd1_4.jpg"
   }
  ],
  "synonym": [
@@ -691,5 +708,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260619-134856"
+ "timestamp": "20260620-174412"
 }

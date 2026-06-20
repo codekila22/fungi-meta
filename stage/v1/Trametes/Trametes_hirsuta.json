@@ -2,6 +2,7 @@
  "genus": "Trametes",
  "name": "hirsuta",
  "date": [
+  "06/20/2026,27294413623575710",
   "08/29/2025,24249153574768412",
   "01/31/2025,8948364135273938",
   "09/14/2024,8072181742892186",
@@ -254,6 +255,30 @@
   {
    "author": "陳中城",
    "image_src": "Trametes_hirsuta_a8d45770-8d4a-11f0-9bd0-f5d38e147848_15.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trametes_hirsuta_f2575000-6c83-11f1-8af8-b1515166ffd1_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trametes_hirsuta_f2575000-6c83-11f1-8af8-b1515166ffd1_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trametes_hirsuta_f2575000-6c83-11f1-8af8-b1515166ffd1_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trametes_hirsuta_f2575000-6c83-11f1-8af8-b1515166ffd1_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trametes_hirsuta_f2575000-6c83-11f1-8af8-b1515166ffd1_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Trametes_hirsuta_f2575000-6c83-11f1-8af8-b1515166ffd1_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -302,5 +327,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/113603380/thumb.jpeg"
   }
  ],
- "timestamp": "20260619-134856"
+ "timestamp": "20260620-174412"
 }

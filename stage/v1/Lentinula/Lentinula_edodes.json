@@ -2,6 +2,7 @@
  "genus": "Lentinula",
  "name": "edodes",
  "date": [
+  "06/19/2026,27283896917960714",
   "04/11/2026,26401958499487898",
   "11/04/2025,24917803991236697",
   "10/30/2025,24840718708945226",
@@ -471,6 +472,18 @@
   {
    "author": "陳中城",
    "image_src": "Lentinula_edodes_7d8d6990-3735-11f1-9c1c-d336fb174be5_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinula_edodes_39784b60-6bdf-11f1-ae04-fbdb6f058d75_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinula_edodes_39784b60-6bdf-11f1-ae04-fbdb6f058d75_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinula_edodes_39784b60-6bdf-11f1-ae04-fbdb6f058d75_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -522,5 +535,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/116230354/thumb.jpg"
   }
  ],
- "timestamp": "20260619-134856"
+ "timestamp": "20260620-174412"
 }

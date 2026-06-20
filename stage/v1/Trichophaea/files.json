@@ -2,7 +2,7 @@
  "name": "Trichophaea",
  "zhtw": "長毛盤菌屬",
  "zhcn": "长毛盘菌属",
- "timestamp": "20260619-134856",
+ "timestamp": "20260620-174412",
  "list": [
   {
    "name": "Trichophaea gregaria",
@@ -15,6 +15,12 @@
    "zhtw": "擬聚生長毛盤菌",
    "zhcn": "拟聚生长毛盘菌",
    "img": "Trichophaea_pseudogregaria_1_CC BY-NC.jpg"
+  },
+  {
+   "name": "Trichophaea woolhopeia",
+   "zhtw": "束長毛盤菌",
+   "zhcn": "束长毛盘菌",
+   "img": "Trichophaea_woolhopeia_69342830-6c2d-11f1-89ed-a3e8900bac08_1.jpg"
   }
  ]
 }
