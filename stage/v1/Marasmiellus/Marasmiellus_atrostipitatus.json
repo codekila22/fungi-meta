@@ -2,6 +2,7 @@
  "genus": "Marasmiellus",
  "name": "atrostipitatus",
  "date": [
+  "06/12/2026,27303815469302192",
   "06/14/2025,9880712678705741",
   "06/10/2025,9841764469267229",
   "11/21/2024,8556313231145699",
@@ -240,6 +241,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Marasmiellus_atrostipitatus_3fe2c500-4aa9-11f0-b8c0-839c55a5f537_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmiellus_atrostipitatus_ce17f590-6d1a-11f1-969c-7521ace70c26_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmiellus_atrostipitatus_ce17f590-6d1a-11f1-969c-7521ace70c26_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmiellus_atrostipitatus_ce17f590-6d1a-11f1-969c-7521ace70c26_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmiellus_atrostipitatus_ce17f590-6d1a-11f1-969c-7521ace70c26_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -247,7 +264,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "4,12",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -277,9 +294,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Tetrapyrgos nigripes,,",
+  "Note": "此物種比相似種黑柄四角孢傘(Tetrapyrgos nigripes)小上一號。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "黑柄四角孢傘,,",
+  "la_zhcn": "黑柄四角孢伞,,"
  },
  "inaturalist": [
   {
@@ -289,5 +308,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260620-174412"
+ "timestamp": "20260621-110041"
 }
