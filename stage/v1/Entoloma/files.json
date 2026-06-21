@@ -2,7 +2,7 @@
  "name": "Entoloma",
  "zhtw": "粉褶菌屬",
  "zhcn": "粉褶菌属",
- "timestamp": "20260621-133628",
+ "timestamp": "20260621-171431",
  "list": [
   {
    "name": "Entoloma aff. perumbilicatum",
@@ -180,6 +180,12 @@
    "zhtw": "絹毛粉褶菌",
    "zhcn": "绢毛粉褶菌",
    "img": "Entoloma_sericellum_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Entoloma serrulatum",
+   "zhtw": "齒狀粉褶菌",
+   "zhcn": "齿状粉褶菌",
+   "img": "Entoloma_serrulatum_8701a900-6d45-11f1-85c0-b7e446cb4cfb_1.jpg"
   },
   {
    "name": "Entoloma strictius",

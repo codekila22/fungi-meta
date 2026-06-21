@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "subcyanocephala",
  "date": [
+  "06/21/2026,27304938845856521",
   "06/12/2026,27187912744225799",
   "04/11/2026,26405133179170430",
   "04/08/2026,26358276453856103",
@@ -563,6 +564,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_subcyanocephala_0f7c12e0-6637-11f1-92c7-e37cb3fd99b6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_9055bc10-6d38-11f1-85c0-b7e446cb4cfb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_9055bc10-6d38-11f1-85c0-b7e446cb4cfb_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_9055bc10-6d38-11f1-85c0-b7e446cb4cfb_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -611,5 +624,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/260296784/thumb.jpg"
   }
  ],
- "timestamp": "20260621-133628"
+ "timestamp": "20260621-171431"
 }
