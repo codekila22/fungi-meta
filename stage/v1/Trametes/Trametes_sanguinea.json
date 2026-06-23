@@ -2,6 +2,7 @@
  "genus": "Trametes",
  "name": "sanguinea",
  "date": [
+  "06/18/2026,27284830524534020",
   "06/13/2026,27199881499695590",
   "01/25/2026,25624297643920658",
   "04/27/2024,7275510615892640",
@@ -82,6 +83,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Trametes_sanguinea_d5fa4c50-fb63-11f0-9593-613411e1526a_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trametes_sanguinea_99285860-6d52-11f1-81ac-c14f077f2ef5_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trametes_sanguinea_99285860-6d52-11f1-81ac-c14f077f2ef5_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trametes_sanguinea_99285860-6d52-11f1-81ac-c14f077f2ef5_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trametes_sanguinea_99285860-6d52-11f1-81ac-c14f077f2ef5_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trametes_sanguinea_99285860-6d52-11f1-81ac-c14f077f2ef5_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trametes_sanguinea_99285860-6d52-11f1-81ac-c14f077f2ef5_6.jpg"
   }
  ],
  "synonym": [
@@ -142,5 +167,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/78776854/thumb.jpeg"
   }
  ],
- "timestamp": "20260621-171431"
+ "timestamp": "20260623-142046"
 }

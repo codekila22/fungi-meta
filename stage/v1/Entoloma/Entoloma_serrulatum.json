@@ -38,5 +38,49 @@
  "names_zhcn": [
   "齿状粉褶菌"
  ],
- "timestamp": "20260621-171431"
+ "meta": {
+  "CapColors": "4287399290,4282665050",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma serrulatum",
+   "cname": "Blue Edge Pinkgill",
+   "url": "https://www.inaturalist.org/taxa/418614",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245403999/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-142046"
 }
