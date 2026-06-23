@@ -70,5 +70,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Lauriliella taxodii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1367046",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29588770/square.jpeg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

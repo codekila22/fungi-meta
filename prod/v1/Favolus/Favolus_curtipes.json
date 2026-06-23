@@ -124,5 +124,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Polyporus curtipes",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/351916",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

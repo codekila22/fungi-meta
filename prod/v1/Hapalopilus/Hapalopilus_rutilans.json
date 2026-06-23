@@ -111,5 +111,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Hapalopilus rutilans",
+   "cname": "tender nesting polypore",
+   "url": "https://www.inaturalist.org/taxa/130909",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/295638822/square.jpeg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

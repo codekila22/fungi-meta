@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "bambusicola",
  "date": [
+  "06/19/2026,27284555144561558",
   "07/12/2025,10083404711769869",
   "05/31/2025,9779386328838377",
   "06/28/2024,7575177465925952",
@@ -257,6 +258,34 @@
   {
    "author": "江志緯",
    "image_src": "Ganoderma_bambusicola_66e8ca50-5f2b-11f0-9d91-a12b37bfcdbe_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_bambusicola_bf03ee30-6c2d-11f1-89ed-a3e8900bac08_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_bambusicola_bf03ee30-6c2d-11f1-89ed-a3e8900bac08_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_bambusicola_bf03ee30-6c2d-11f1-89ed-a3e8900bac08_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_bambusicola_bf03ee30-6c2d-11f1-89ed-a3e8900bac08_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_bambusicola_bf03ee30-6c2d-11f1-89ed-a3e8900bac08_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_bambusicola_bf03ee30-6c2d-11f1-89ed-a3e8900bac08_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ganoderma_bambusicola_bf03ee30-6c2d-11f1-89ed-a3e8900bac08_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -298,5 +327,5 @@
   "Note": "生長在枯竹靠近竹根的基部。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "timestamp": "20260623-151450"
 }

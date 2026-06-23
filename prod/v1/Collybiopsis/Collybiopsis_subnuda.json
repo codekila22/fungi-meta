@@ -181,5 +181,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Collybiopsis subnuda",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1275362",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13084449/square.jpeg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

@@ -90,5 +90,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Gulielmina vermicularis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1442011",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28312496/square.jpeg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

@@ -324,5 +324,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Nigelia martiale",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/930124",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/426145084/square.jpeg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

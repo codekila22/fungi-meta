@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "castanopsidis",
  "date": [
+  "06/19/2026,27298595729824166",
   "06/22/2024,7543557975754568",
   "07/04/2023,6163254177118295"
  ],
@@ -74,6 +75,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_castanopsidis_04384a00-312a-11ef-99a9-9fb8bd8b6ee2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_castanopsidis_f37c5cb0-6cff-11f1-969c-7521ace70c26_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_castanopsidis_f37c5cb0-6cff-11f1-969c-7521ace70c26_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_castanopsidis_f37c5cb0-6cff-11f1-969c-7521ace70c26_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_castanopsidis_f37c5cb0-6cff-11f1-969c-7521ace70c26_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_castanopsidis_f37c5cb0-6cff-11f1-969c-7521ace70c26_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -123,5 +144,5 @@
    "src": "https://static.inaturalist.org/photos/96738827/thumb.jpg"
   }
  ],
- "timestamp": "20260618-211326"
+ "timestamp": "20260623-151450"
 }

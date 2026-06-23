@@ -106,5 +106,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Physcia orientalis",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1564620",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58726234/square.jpeg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

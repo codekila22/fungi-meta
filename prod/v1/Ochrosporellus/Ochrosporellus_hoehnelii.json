@@ -74,5 +74,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Phellinus hoehnelii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/895611",
+   "src": "https://static.inaturalist.org/photos/512722409/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

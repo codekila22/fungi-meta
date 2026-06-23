@@ -351,5 +351,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Oligonema verrucosum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1442006",
+   "src": "https://static.inaturalist.org/photos/96169119/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

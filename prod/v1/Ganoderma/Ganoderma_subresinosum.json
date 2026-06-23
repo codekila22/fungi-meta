@@ -74,5 +74,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Magoderna subresinosum",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1239280",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/60532533/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

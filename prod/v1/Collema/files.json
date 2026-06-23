@@ -2,7 +2,7 @@
  "name": "Collema",
  "zhtw": "膠衣屬",
  "zhcn": "胶衣属",
- "timestamp": "20260618-211326",
+ "timestamp": "20260623-151450",
  "list": [
   {
    "name": "Collema fasciculare",
@@ -15,6 +15,12 @@
    "zhtw": "粉屑膠衣",
    "zhcn": "粉屑胶衣",
    "img": "Collema_furfuraceum_b98d7e80-f735-11ef-8536-7be98cfe5bf4_1.jpg"
+  },
+  {
+   "name": "Collema leptaleum",
+   "zhtw": "薄膠衣",
+   "zhcn": "薄胶衣",
+   "img": "Collema_leptaleum_04ed6e10-6dc5-11f1-9e36-3d98cc241b49_1.jpg"
   }
  ]
 }

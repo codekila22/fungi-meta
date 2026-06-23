@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "acicula",
  "date": [
+  "06/20/2026,27305289545821451",
   "04/13/2023,7642778529165845",
   "04/10/2023,5869520703158312",
   "12/20/2022,5537010233076029",
@@ -150,6 +151,22 @@
   {
    "author": "蔡古媧",
    "image_src": "Mycena_acicula_680ed090-a9a4-107f-8f76-27c3c5f26f6f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_acicula_639a1890-6d3a-11f1-85c0-b7e446cb4cfb_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_acicula_639a1890-6d3a-11f1-85c0-b7e446cb4cfb_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_acicula_639a1890-6d3a-11f1-85c0-b7e446cb4cfb_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_acicula_639a1890-6d3a-11f1-85c0-b7e446cb4cfb_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -220,5 +237,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260618-211326"
+ "timestamp": "20260623-151450"
 }

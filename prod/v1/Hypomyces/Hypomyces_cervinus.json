@@ -119,5 +119,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Hypomyces cervinus",
+   "cname": "saddle's child",
+   "url": "https://www.inaturalist.org/taxa/872335",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163232787/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

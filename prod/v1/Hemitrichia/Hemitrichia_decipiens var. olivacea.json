@@ -82,5 +82,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Hemitrichia decipiens",
+   "cname": "salmon-eggs",
+   "url": "https://www.inaturalist.org/taxa/1441996",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/240070416/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

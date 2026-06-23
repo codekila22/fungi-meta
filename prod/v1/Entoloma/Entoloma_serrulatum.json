@@ -1,0 +1,86 @@
+{
+ "genus": "Entoloma",
+ "name": "serrulatum",
+ "date": [
+  "06/20/2026,27306948068988932"
+ ],
+ "names_zhtw": [
+  "齒狀粉褶菌"
+ ],
+ "names_en": [],
+ "url": "27306948068988932",
+ "images": [
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_serrulatum_8701a900-6d45-11f1-85c0-b7e446cb4cfb_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_serrulatum_8701a900-6d45-11f1-85c0-b7e446cb4cfb_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_serrulatum_8701a900-6d45-11f1-85c0-b7e446cb4cfb_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_serrulatum_8701a900-6d45-11f1-85c0-b7e446cb4cfb_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_serrulatum_8701a900-6d45-11f1-85c0-b7e446cb4cfb_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_serrulatum_8701a900-6d45-11f1-85c0-b7e446cb4cfb_6.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "齿状粉褶菌"
+ ],
+ "meta": {
+  "CapColors": "4286611584,4278202707,4278190335",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "fine-scales",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "serrated,colored",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "菌褶與菌柄有著跟菌蓋相同的顏色。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Entoloma serrulatum",
+   "cname": "Blue Edge Pinkgill",
+   "url": "https://www.inaturalist.org/taxa/418614",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245403999/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
+}

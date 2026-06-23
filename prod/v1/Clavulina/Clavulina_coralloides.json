@@ -257,5 +257,19 @@
   "la_zhtw": "皺鎖瑚菌,,",
   "la_zhcn": "皱锁瑚菌,,"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Clavulina coralloides",
+   "cname": "White Coral Fungus",
+   "url": "https://www.inaturalist.org/taxa/63260",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109776289/square.jpg"
+  },
+  {
+   "name": "Clavulina sp. 'coralloides-PNW01'",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1679348",
+   "src": "https://static.inaturalist.org/photos/336214100/square.jpeg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

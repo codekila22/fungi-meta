@@ -152,5 +152,13 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Aureoboletus shichianus",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1560541",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/401297191/square.jpeg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

@@ -2,6 +2,7 @@
  "genus": "Roridomyces",
  "name": "roridus",
  "date": [
+  "06/20/2026,27295884690095270",
   "10/31/2025,24876450202038743",
   "11/21/2024,8566196056824083",
   "04/07/2024,7190669184376784",
@@ -130,6 +131,18 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Roridomyces_roridus_0ac5e2d0-b8a9-11f0-a551-670beaa50804_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Roridomyces_roridus_fc8450f0-6d05-11f1-969c-7521ace70c26_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Roridomyces_roridus_fc8450f0-6d05-11f1-969c-7521ace70c26_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Roridomyces_roridus_fc8450f0-6d05-11f1-969c-7521ace70c26_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -179,5 +192,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/107694660/thumb.jpg"
   }
  ],
- "timestamp": "20260618-211326"
+ "timestamp": "20260623-151450"
 }

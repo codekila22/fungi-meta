@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "06/12/2026,27303815469302192",
   "06/10/2026,27169658452717895",
   "09/28/2025,25159188420431585",
   "09/24/2024,8185475238229502",
@@ -349,6 +350,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Tetrapyrgos_nigripes_310fa570-6628-11f1-92c7-e37cb3fd99b6_12.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tetrapyrgos_nigripes_95310b80-6d1b-11f1-969c-7521ace70c26_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tetrapyrgos_nigripes_95310b80-6d1b-11f1-969c-7521ace70c26_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tetrapyrgos_nigripes_95310b80-6d1b-11f1-969c-7521ace70c26_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tetrapyrgos_nigripes_95310b80-6d1b-11f1-969c-7521ace70c26_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -386,11 +403,11 @@
   "Edible": "not-edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Marasmiellus candidus,,",
+  "LookAlikes": "Marasmiellus candidus,Marasmiellus atrostipitatus,",
   "Note": "",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "純白微皮傘,,",
-  "la_zhcn": "纯白微皮伞,,"
+  "la_zhtw": "純白微皮傘,小黑柄微皮傘,",
+  "la_zhcn": "纯白微皮伞,小黑柄微皮伞,"
  },
  "inaturalist": [
   {
@@ -400,5 +417,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4943945/thumb.jpeg"
   }
  ],
- "timestamp": "20260618-211326"
+ "timestamp": "20260623-151450"
 }

@@ -371,5 +371,13 @@
   "la_zhtw": "冬生多孔菌,,",
   "la_zhcn": "冬生多孔菌,,"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Lentinus arcularius",
+   "cname": "Spring Polypore",
+   "url": "https://www.inaturalist.org/taxa/1395761",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/190283137/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

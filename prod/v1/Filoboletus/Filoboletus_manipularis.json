@@ -537,5 +537,13 @@
   "la_zhtw": "焰光小菇,,",
   "la_zhcn": "焰光小菇,,"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Favolaschia manipularis",
+   "cname": "luminous porecap",
+   "url": "https://www.inaturalist.org/taxa/699912",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/451535428/square.jpeg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

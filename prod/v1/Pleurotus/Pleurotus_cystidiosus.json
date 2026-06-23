@@ -2,6 +2,7 @@
  "genus": "Pleurotus",
  "name": "cystidiosus",
  "date": [
+  "06/18/2026,27269278332755906",
   "04/19/2026,26504693949214352",
   "04/05/2026,26325663020450780",
   "11/09/2025,24980158421667920",
@@ -600,6 +601,34 @@
   {
    "author": "江志緯",
    "image_src": "Antromycopsis_broussonetiae_89473620-c2b5-11f0-8a8a-47e8036b5ad7_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4a823700-6b66-11f1-b87b-81d765b89a9f_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4a823700-6b66-11f1-b87b-81d765b89a9f_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4a823700-6b66-11f1-b87b-81d765b89a9f_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4a823700-6b66-11f1-b87b-81d765b89a9f_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4a823700-6b66-11f1-b87b-81d765b89a9f_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4a823700-6b66-11f1-b87b-81d765b89a9f_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4a823700-6b66-11f1-b87b-81d765b89a9f_7.jpg"
   }
  ],
  "synonym": [
@@ -660,5 +689,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40321733/thumb.jpeg"
   }
  ],
- "timestamp": "20260618-211326"
+ "timestamp": "20260623-151450"
 }

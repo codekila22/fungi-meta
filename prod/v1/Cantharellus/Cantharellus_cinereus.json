@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "06/21/2026,27307282552288817",
   "06/26/2025,9973971966046478",
   "07/07/2024,7650850221692009",
   "09/19/2023,6423341574442886",
@@ -248,6 +249,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Cantharellus_cinereus_7679d690-54b7-11f0-9d96-d1425da061c3_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Cantharellus_cinereus_1c6eedd0-6d4c-11f1-85c0-b7e446cb4cfb_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Cantharellus_cinereus_1c6eedd0-6d4c-11f1-85c0-b7e446cb4cfb_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Cantharellus_cinereus_1c6eedd0-6d4c-11f1-85c0-b7e446cb4cfb_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Cantharellus_cinereus_1c6eedd0-6d4c-11f1-85c0-b7e446cb4cfb_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Cantharellus_cinereus_1c6eedd0-6d4c-11f1-85c0-b7e446cb4cfb_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Cantharellus_cinereus_1c6eedd0-6d4c-11f1-85c0-b7e446cb4cfb_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Cantharellus_cinereus_1c6eedd0-6d4c-11f1-85c0-b7e446cb4cfb_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Cantharellus_cinereus_1c6eedd0-6d4c-11f1-85c0-b7e446cb4cfb_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -296,5 +329,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29157267/thumb.jpeg"
   }
  ],
- "timestamp": "20260618-211326"
+ "timestamp": "20260623-151450"
 }

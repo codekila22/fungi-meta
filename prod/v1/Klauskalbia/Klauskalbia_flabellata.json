@@ -254,5 +254,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Heterodermia flabellata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/337381",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/185182391/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

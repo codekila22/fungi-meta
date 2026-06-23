@@ -84,5 +84,13 @@
   "la_zhtw": "蜂頭蛇形蟲草,,",
   "la_zhcn": "蜂头蛇形虫草,,"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Ophiocordyceps humbertii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/701946",
+   "src": "https://static.inaturalist.org/photos/280045439/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

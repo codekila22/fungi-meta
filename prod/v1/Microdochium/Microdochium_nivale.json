@@ -154,5 +154,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Microdochium nivale",
+   "cname": "Pink Snow Mold",
+   "url": "https://www.inaturalist.org/taxa/1061814",
+   "src": "https://static.inaturalist.org/photos/15704283/square.jpeg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

@@ -78,5 +78,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Ombrophila janthina",
+   "cname": "violet jellydisc",
+   "url": "https://www.inaturalist.org/taxa/905007",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250553617/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }

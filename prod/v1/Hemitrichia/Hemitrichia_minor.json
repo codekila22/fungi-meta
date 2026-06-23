@@ -66,5 +66,13 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260618-211326"
+ "inaturalist": [
+  {
+   "name": "Hemitrichia minor",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/382575",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/166395195/square.jpg"
+  }
+ ],
+ "timestamp": "20260623-151450"
 }
