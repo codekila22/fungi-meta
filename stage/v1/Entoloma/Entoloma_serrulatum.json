@@ -39,17 +39,17 @@
   "齿状粉褶菌"
  ],
  "meta": {
-  "CapColors": "4287399290,4282665050",
+  "CapColors": "4286611584,4278202707,4278190335",
   "CapDiamRangeValues": "",
   "CapShape": "",
-  "CapTexture": "",
+  "CapTexture": "fine-scales",
   "CapMargin": "",
   "HymeniumType": "",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
-  "HymeniumGillMarginate": "",
+  "HymeniumGillMarginate": "serrated,colored",
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
@@ -71,7 +71,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌褶與菌柄有著跟菌蓋相同的顏色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -82,5 +82,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245403999/square.jpg"
   }
  ],
- "timestamp": "20260623-142046"
+ "timestamp": "20260623-151450"
 }
