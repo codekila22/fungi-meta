@@ -2,6 +2,7 @@
  "genus": "Lepiota",
  "name": "cristata",
  "date": [
+  "06/25/2026,27355892870761118",
   "10/26/2025,24797862219897542",
   "07/13/2025,10090240374419636",
   "07/22/2024,8354996847944006",
@@ -191,6 +192,46 @@
   {
    "author": "James Ho",
    "image_src": "Lepiota_cristata_eae21550-b223-11f0-9f5a-cfc8cdefcdc3_13.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -245,5 +286,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/300631187/thumb.jpg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260626-223252"
 }

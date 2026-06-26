@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "griseoverrucosa",
  "date": [
+  "06/23/2026,27371020375915034",
   "08/19/2023,7357127364397631",
   "07/06/2023,6175736999203346",
   "06/30/2022,5029570637153327"
@@ -131,6 +132,22 @@
   {
    "author": "蔡古媧",
    "image_src": "Amanita_griseoverrucosa_1d735280-1587-11ef-a963-3d0ed39d8f8a_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_griseoverrucosa_eb3e00d0-7169-11f1-be70-55f71a4f08c5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_griseoverrucosa_eb3e00d0-7169-11f1-be70-55f71a4f08c5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_griseoverrucosa_eb3e00d0-7169-11f1-be70-55f71a4f08c5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_griseoverrucosa_eb3e00d0-7169-11f1-be70-55f71a4f08c5_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -179,5 +196,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40321234/thumb.jpeg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260626-223252"
 }

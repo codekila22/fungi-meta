@@ -2,7 +2,7 @@
  "name": "Inocybe",
  "zhtw": "絲蓋傘屬",
  "zhcn": "丝盖伞属",
- "timestamp": "20260623-151450",
+ "timestamp": "20260626-223252",
  "list": [
   {
    "name": "Inocybe asterospora",
@@ -36,6 +36,12 @@
    "zhtw": "土味絲蓋傘",
    "zhcn": "土味丝盖伞",
    "img": "Inocybe_geophylla_78d04c20-eceb-11ed-8122-7b6a4b1090f4_1.jpg"
+  },
+  {
+   "name": "Inocybe lacera",
+   "zhtw": "暗毛絲蓋傘",
+   "zhcn": "暗毛丝盖伞",
+   "img": "Inocybe_lacera_73527d30-710f-11f1-a16f-0b14e3dad96d_1.jpg"
   },
   {
    "name": "Inocybe lanuginosa",
