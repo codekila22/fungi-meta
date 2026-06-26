@@ -2,7 +2,9 @@
  "genus": "Sarcodon",
  "name": "carbonarius",
  "date": [
-  "06/25/2026,27352426817774390"
+  "06/17/2023,27352426817774390",
+  "05/21/2022,27352426817774390",
+  "12/31/2021,27352426817774390"
  ],
  "names_zhtw": [
   "炭色肉齒菌"
@@ -174,5 +176,13 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260626-223252"
+ "inaturalist": [
+  {
+   "name": "Neosarcodon carbonarius",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1571144",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13873511/square.jpeg"
+  }
+ ],
+ "timestamp": "20260626-230140"
 }
