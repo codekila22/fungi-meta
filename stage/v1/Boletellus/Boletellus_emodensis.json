@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "06/24/2026,27381717711511967",
   "07/31/2025,23997607913256314",
   "06/02/2025,9797700677006942",
   "06/01/2025,9881910558585953",
@@ -301,6 +302,26 @@
   {
    "author": "向高世",
    "image_src": "Boletellus_emodensis_69c82ee0-7bfb-11f0-a87a-57f6dba64b14_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Boletellus_emodensis_5db3a510-7215-11f1-9769-453590eccea1_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Boletellus_emodensis_5db3a510-7215-11f1-9769-453590eccea1_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Boletellus_emodensis_5db3a510-7215-11f1-9769-453590eccea1_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Boletellus_emodensis_5db3a510-7215-11f1-9769-453590eccea1_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Boletellus_emodensis_5db3a510-7215-11f1-9769-453590eccea1_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -353,5 +374,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/850527/thumb.jpg"
   }
  ],
- "timestamp": "20260627-161653"
+ "timestamp": "20260627-184916"
 }

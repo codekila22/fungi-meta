@@ -2,6 +2,7 @@
  "genus": "Simocybe",
  "name": "sumptuosa",
  "date": [
+  "06/22/2026,27335994656084273",
   "04/15/2026,26445614911788923",
   "03/03/2024,7051875564922814",
   "04/18/2023,5893556814088034",
@@ -77,6 +78,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Simocybe_sumptuosa_00aced50-3ac4-11f1-8b29-b557c4aafc4a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Simocybe_sumptuosa_d6bbf7e0-7202-11f1-8e5a-6b1f1cca6ed5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Simocybe_sumptuosa_d6bbf7e0-7202-11f1-8e5a-6b1f1cca6ed5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Simocybe_sumptuosa_d6bbf7e0-7202-11f1-8e5a-6b1f1cca6ed5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Simocybe_sumptuosa_d6bbf7e0-7202-11f1-8e5a-6b1f1cca6ed5_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Simocybe_sumptuosa_d6bbf7e0-7202-11f1-8e5a-6b1f1cca6ed5_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -125,5 +146,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12823568/thumb.jpeg"
   }
  ],
- "timestamp": "20260627-161653"
+ "timestamp": "20260627-184916"
 }
