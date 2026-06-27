@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "06/17/2026,27370778875939184",
   "04/21/2026,26516359944714419",
   "04/12/2025,9383277801782567"
  ],
@@ -81,6 +82,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Vahliella_leucophaea_69666090-3fdf-11f1-92a7-41067c4fc4f6_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Vahliella_leucophaea_59c3eff0-71f7-11f1-b7e5-fd1f1c51b1ac_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Vahliella_leucophaea_59c3eff0-71f7-11f1-b7e5-fd1f1c51b1ac_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Vahliella_leucophaea_59c3eff0-71f7-11f1-b7e5-fd1f1c51b1ac_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Vahliella_leucophaea_59c3eff0-71f7-11f1-b7e5-fd1f1c51b1ac_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -129,5 +146,5 @@
    "src": "https://static.inaturalist.org/photos/233323899/thumb.jpg"
   }
  ],
- "timestamp": "20260626-230140"
+ "timestamp": "20260627-161653"
 }

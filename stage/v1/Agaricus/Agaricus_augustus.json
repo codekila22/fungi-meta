@@ -2,6 +2,7 @@
  "genus": "Agaricus",
  "name": "augustus",
  "date": [
+  "06/20/2026,27347271481623257",
   "12/20/2017,1401064603337300"
  ],
  "names_zhtw": [
@@ -33,6 +34,34 @@
   {
    "author": "Rachel Ding",
    "image_src": "Agaricus_augustus_6_CC BY-NC_Rachel Ding.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_augustus_b937bff0-71f9-11f1-b7e5-fd1f1c51b1ac_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_augustus_b937bff0-71f9-11f1-b7e5-fd1f1c51b1ac_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_augustus_b937bff0-71f9-11f1-b7e5-fd1f1c51b1ac_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_augustus_b937bff0-71f9-11f1-b7e5-fd1f1c51b1ac_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_augustus_b937bff0-71f9-11f1-b7e5-fd1f1c51b1ac_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_augustus_b937bff0-71f9-11f1-b7e5-fd1f1c51b1ac_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_augustus_b937bff0-71f9-11f1-b7e5-fd1f1c51b1ac_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -99,5 +128,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260626-230140"
+ "timestamp": "20260627-161653"
 }

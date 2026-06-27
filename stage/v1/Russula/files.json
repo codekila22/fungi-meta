@@ -2,7 +2,7 @@
  "name": "Russula",
  "zhtw": "紅菇屬",
  "zhcn": "红菇属",
- "timestamp": "20260626-230140",
+ "timestamp": "20260627-161653",
  "list": [
   {
    "name": "Russula adusta",
@@ -246,6 +246,12 @@
    "zhtw": "玫瑰紅菇",
    "zhcn": "玫瑰红菇",
    "img": "Russula_rosea_1_CC BY-NC.jpg"
+  },
+  {
+   "name": "Russula rufoalbida",
+   "zhtw": "紅蓋白邊紅菇",
+   "zhcn": "红盖白边红菇",
+   "img": "Russula_rufoalbida_7ccfc240-71f6-11f1-b7e5-fd1f1c51b1ac_1.jpg"
   },
   {
    "name": "Russula ryukokuensis",
