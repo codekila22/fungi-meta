@@ -75,8 +75,8 @@
   "红盖白边红菇"
  ],
  "meta": {
-  "CapColors": "4291574350,4294109912",
-  "CapDiamRangeValues": "",
+  "CapColors": "4292613180,4294833638",
+  "CapDiamRangeValues": "40,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -110,5 +110,5 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260627-224819"
+ "timestamp": "20260628-040036"
 }
