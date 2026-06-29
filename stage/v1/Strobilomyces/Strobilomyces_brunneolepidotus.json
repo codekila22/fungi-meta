@@ -2,6 +2,7 @@
  "genus": "Strobilomyces",
  "name": "brunneolepidotus",
  "date": [
+  "06/24/2026,27407127462304325",
   "08/01/2025,24011326428551129",
   "06/20/2025,9914559405321068",
   "08/26/2024,7943961925714169",
@@ -242,6 +243,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Strobilomyces_polypyramis_e3be30f0-6f4e-11f0-9185-7f7812de18da_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_brunneolepidotus_3a0bddc0-73bf-11f1-babc-45e4824c247c_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_brunneolepidotus_3a0bddc0-73bf-11f1-babc-45e4824c247c_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_brunneolepidotus_3a0bddc0-73bf-11f1-babc-45e4824c247c_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_brunneolepidotus_3a0bddc0-73bf-11f1-babc-45e4824c247c_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_brunneolepidotus_3a0bddc0-73bf-11f1-babc-45e4824c247c_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_brunneolepidotus_3a0bddc0-73bf-11f1-babc-45e4824c247c_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -290,5 +315,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251574833/thumb.jpg"
   }
  ],
- "timestamp": "20260629-040024"
+ "timestamp": "20260630-040036"
 }
