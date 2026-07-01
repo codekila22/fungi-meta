@@ -2,6 +2,7 @@
  "genus": "Chiua",
  "name": "virens",
  "date": [
+  "07/01/2026,27431543083196096",
   "06/30/2026,27419266604423744",
   "08/14/2024,7845936215516741",
   "07/08/2024,7626850550758643",
@@ -155,6 +156,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Chiua_virens_e96250d0-747b-11f1-bf31-21d8c981c20c_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chiua_virens_24f684b0-7538-11f1-ad8d-814b59be874e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chiua_virens_24f684b0-7538-11f1-ad8d-814b59be874e_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chiua_virens_24f684b0-7538-11f1-ad8d-814b59be874e_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chiua_virens_24f684b0-7538-11f1-ad8d-814b59be874e_4.jpg"
   }
  ],
  "synonym": [
@@ -212,5 +229,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/210958992/thumb.jpg"
   }
  ],
- "timestamp": "20260701-040100"
+ "timestamp": "20260702-040043"
 }

@@ -2,6 +2,7 @@
  "genus": "Agaricus",
  "name": "flammicolor",
  "date": [
+  "05/23/2026,27419141264436278",
   "04/15/2026,26435567309460350",
   "06/06/2025,9821643767945966",
   "08/17/2024,7951666518277043",
@@ -199,6 +200,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Agaricus_flammicolor_c456db30-3bd7-11f1-ad52-afbc234cb4a7_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Agaricus_flammicolor_84a0b220-74e6-11f1-a5ff-1b0cc88a8eef_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Agaricus_flammicolor_84a0b220-74e6-11f1-a5ff-1b0cc88a8eef_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Agaricus_flammicolor_84a0b220-74e6-11f1-a5ff-1b0cc88a8eef_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Agaricus_flammicolor_84a0b220-74e6-11f1-a5ff-1b0cc88a8eef_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Agaricus_flammicolor_84a0b220-74e6-11f1-a5ff-1b0cc88a8eef_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Agaricus_flammicolor_84a0b220-74e6-11f1-a5ff-1b0cc88a8eef_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Agaricus_flammicolor_84a0b220-74e6-11f1-a5ff-1b0cc88a8eef_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -240,5 +269,5 @@
   "Note": "台灣北部低海拔山區紀錄。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260701-040100"
+ "timestamp": "20260702-040043"
 }

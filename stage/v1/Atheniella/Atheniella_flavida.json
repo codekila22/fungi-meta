@@ -2,6 +2,7 @@
  "genus": "Atheniella",
  "name": "flavida",
  "date": [
+  "06/29/2026,27425694073780997",
   "06/07/2026,27202924772724596",
   "05/18/2026,26859097010440709",
   "09/26/2025,24499475656402868",
@@ -217,6 +218,14 @@
   {
    "author": "江志緯",
    "image_src": "Atheniella_flavida_e1f044b0-6715-11f1-81ed-0d648da220a2_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Atheniella_flavida_8889c7a0-74f0-11f1-ad8d-814b59be874e_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Atheniella_flavida_8889c7a0-74f0-11f1-ad8d-814b59be874e_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -258,5 +267,5 @@
   "Note": "發現於樹幹上。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260701-040100"
+ "timestamp": "20260702-040043"
 }
