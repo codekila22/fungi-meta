@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "06/30/2026,27433817072968697",
   "06/11/2025,9858112704299072",
   "04/08/2025,9357420714368276",
   "09/30/2023,6925422970901408",
@@ -235,6 +236,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_battarrae_579843d0-48c1-11f0-901e-4f4b16ab7ded_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_50bbaa40-75e6-11f1-bdb9-0b06595e64af_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_50bbaa40-75e6-11f1-bdb9-0b06595e64af_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_50bbaa40-75e6-11f1-bdb9-0b06595e64af_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_50bbaa40-75e6-11f1-bdb9-0b06595e64af_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_50bbaa40-75e6-11f1-bdb9-0b06595e64af_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_50bbaa40-75e6-11f1-bdb9-0b06595e64af_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -285,5 +310,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/151475816/thumb.jpg"
   }
  ],
- "timestamp": "20260702-040043"
+ "timestamp": "20260703-040036"
 }
