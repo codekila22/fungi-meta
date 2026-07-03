@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "fuliginea",
  "date": [
+  "06/30/2026,27454314634252274",
   "06/18/2026,27266828356334237",
   "08/03/2025,24021847364165702",
   "07/31/2025,23997607913256314",
@@ -283,6 +284,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_fuliginea_8384cf90-6ada-11f1-9047-4955cdcb103f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_fuliginea_9e7d1a30-76d0-11f1-819e-9fa32b2d6e9d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_fuliginea_9e7d1a30-76d0-11f1-819e-9fa32b2d6e9d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_fuliginea_9e7d1a30-76d0-11f1-819e-9fa32b2d6e9d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_fuliginea_9e7d1a30-76d0-11f1-819e-9fa32b2d6e9d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_fuliginea_9e7d1a30-76d0-11f1-819e-9fa32b2d6e9d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -334,5 +355,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40321093/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260703-211203"
 }
