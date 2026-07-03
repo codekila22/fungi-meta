@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "06/28/2026,27391791793837892",
   "07/12/2025,10084659204977753",
   "11/17/2023,6667039093406465",
   "07/20/2022,5085918251518565",
@@ -144,6 +145,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Geastrum_fimbriatum_811ac650-7b49-11f0-82e5-db829d3cb073_9.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_fimbriatum_1da6b1a0-72ca-11f1-ba2e-3b972c8fe83b_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_fimbriatum_1da6b1a0-72ca-11f1-ba2e-3b972c8fe83b_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_fimbriatum_1da6b1a0-72ca-11f1-ba2e-3b972c8fe83b_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Geastrum_fimbriatum_1da6b1a0-72ca-11f1-ba2e-3b972c8fe83b_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -205,5 +222,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

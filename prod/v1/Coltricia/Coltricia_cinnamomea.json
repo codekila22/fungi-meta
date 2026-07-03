@@ -2,6 +2,7 @@
  "genus": "Coltricia",
  "name": "cinnamomea",
  "date": [
+  "06/30/2026,27429166866767051",
   "08/04/2025,24074748938875544",
   "07/02/2025,10043097859133888",
   "06/28/2024,7575942495849449",
@@ -216,6 +217,18 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Coltricia_cinnamomea_354b2220-7b4d-11f0-82e5-db829d3cb073_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Coltricia_cinnamomea_c2c922e0-7549-11f1-ad8d-814b59be874e_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Coltricia_cinnamomea_c2c922e0-7549-11f1-ad8d-814b59be874e_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Coltricia_cinnamomea_c2c922e0-7549-11f1-ad8d-814b59be874e_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -265,5 +278,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/76566/thumb.jpg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

@@ -2,6 +2,7 @@
  "genus": "Arrhenia",
  "name": "epichysium",
  "date": [
+  "06/24/2026,27364979483185790",
   "07/03/2025,10035369386573402"
  ],
  "names_zhtw": [
@@ -30,6 +31,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Arrhenia_epichysium_930acd40-5a44-11f0-bc07-3d3ad3fa6372_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Arrhenia_epichysium_b4fc7d90-7104-11f1-a16f-0b14e3dad96d_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Arrhenia_epichysium_b4fc7d90-7104-11f1-a16f-0b14e3dad96d_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Arrhenia_epichysium_b4fc7d90-7104-11f1-a16f-0b14e3dad96d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -79,5 +92,5 @@
    "src": "https://static.inaturalist.org/photos/44025455/thumb.jpg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

@@ -2,7 +2,10 @@
  "genus": "Dicephalospora",
  "name": "huangshanica",
  "date": [
+  "05/01/2026,27340405375643201",
+  "07/18/2025,27340405375643201",
   "08/18/2024,7868890589887970",
+  "12/31/2021,27340405375643201",
   "06/30/2021,3964471146996620",
   "05/10/2021,8338501286260229",
   "04/03/2021,3651252791651792",
@@ -76,6 +79,34 @@
   {
    "author": "蔡古媧",
    "image_src": "Dicephalospora_huangshanica_8f7093f0-8c8a-11ef-9421-870555703809_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Dicephalospora_huangshanica_a77c7100-6f85-11f1-95ca-39b2ed0a22ae_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Dicephalospora_huangshanica_a77c7100-6f85-11f1-95ca-39b2ed0a22ae_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Dicephalospora_huangshanica_a77c7100-6f85-11f1-95ca-39b2ed0a22ae_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Dicephalospora_huangshanica_a77c7100-6f85-11f1-95ca-39b2ed0a22ae_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Dicephalospora_huangshanica_a77c7100-6f85-11f1-95ca-39b2ed0a22ae_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Dicephalospora_huangshanica_a77c7100-6f85-11f1-95ca-39b2ed0a22ae_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Dicephalospora_huangshanica_a77c7100-6f85-11f1-95ca-39b2ed0a22ae_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,5 +158,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16512858/thumb.jpeg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "haematopus",
  "date": [
+  "06/28/2026,27426131667070571",
   "02/19/2026,25850836221266798",
   "12/29/2025,25390054934011598",
   "08/22/2025,24191070003910103",
@@ -356,6 +357,18 @@
   {
    "author": "朱艷",
    "image_src": "Mycena_haematopus_063d8550-0fad-11f1-8719-c1ab0b46d25d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_15660e30-74f7-11f1-ad8d-814b59be874e_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_15660e30-74f7-11f1-ad8d-814b59be874e_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_15660e30-74f7-11f1-ad8d-814b59be874e_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -385,6 +398,7 @@
   "StalkBase": "equal",
   "StalkDiamRangeValuess": "2,4",
   "StalkLengthRangeValuess": "60,90",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,winter",
   "GrowthType": "scattered,grouped,clustered",
@@ -395,7 +409,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌體受傷會流出紅色汁液。\n\n菌柄披著白色粉末狀顆粒，基部有白毛狀菌絲體。",
+  "Note": "菌體受傷會流出紅色汁液。菌柄披著白色粉末狀顆粒，基部有白毛狀菌絲體。\n此物種雖全年可見，但以秋冬時節較常見。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -436,5 +450,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

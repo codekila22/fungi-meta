@@ -3,6 +3,7 @@
  "name": "clypeolaria",
  "date": [
   "06/19/2026,27284337011250038",
+  "06/18/2026,27347527078264364",
   "09/27/2024,8169214026522290",
   "07/15/2024,7671909872919377",
   "09/27/2023,6463342770442766"
@@ -172,6 +173,26 @@
   {
    "author": "陳中城",
    "image_src": "Lepiota_clypeolaria_b30506a0-6c5f-11f1-89ed-a3e8900bac08_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_clypeolaria_6c28bed0-7109-11f1-a16f-0b14e3dad96d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_clypeolaria_6c28bed0-7109-11f1-a16f-0b14e3dad96d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_clypeolaria_6c28bed0-7109-11f1-a16f-0b14e3dad96d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_clypeolaria_6c28bed0-7109-11f1-a16f-0b14e3dad96d_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_clypeolaria_6c28bed0-7109-11f1-a16f-0b14e3dad96d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -229,5 +250,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/235586506/thumb.jpeg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

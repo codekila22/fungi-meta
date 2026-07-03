@@ -2,6 +2,7 @@
  "genus": "Coprinopsis",
  "name": "insignis",
  "date": [
+  "06/18/2026,27318583051158767",
   "12/04/2025,25163842516632842",
   "05/24/2020,2797525813691165"
  ],
@@ -51,6 +52,22 @@
   {
    "author": "James Ho",
    "image_src": "Coprinopsis_insignis_9ef15ed0-d348-11f0-bcd6-776de15eac50_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Coprinopsis_insignis_a19160f0-7360-11f1-babc-45e4824c247c_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Coprinopsis_insignis_a19160f0-7360-11f1-babc-45e4824c247c_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Coprinopsis_insignis_a19160f0-7360-11f1-babc-45e4824c247c_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Coprinopsis_insignis_a19160f0-7360-11f1-babc-45e4824c247c_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -101,5 +118,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5742932/thumb.jpeg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

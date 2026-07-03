@@ -2,6 +2,8 @@
  "genus": "Amanita",
  "name": "vestita",
  "date": [
+  "06/30/2026,27420065204343884",
+  "06/29/2026,27405305489153189",
   "08/01/2025,24011326428551129",
   "06/21/2025,9922547761188899",
   "05/28/2025,9736698553107155",
@@ -329,6 +331,54 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_vestita_b73e6fe0-6f4e-11f0-b6fa-6598a2d6358d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_d14fcc40-73a2-11f1-babc-45e4824c247c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_d14fcc40-73a2-11f1-babc-45e4824c247c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_d14fcc40-73a2-11f1-babc-45e4824c247c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_d14fcc40-73a2-11f1-babc-45e4824c247c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_d14fcc40-73a2-11f1-babc-45e4824c247c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_d14fcc40-73a2-11f1-babc-45e4824c247c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_d14fcc40-73a2-11f1-babc-45e4824c247c_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_vestita_d14fcc40-73a2-11f1-babc-45e4824c247c_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_vestita_0a75bc40-7480-11f1-bf31-21d8c981c20c_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_vestita_0a75bc40-7480-11f1-bf31-21d8c981c20c_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_vestita_0a75bc40-7480-11f1-bf31-21d8c981c20c_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_vestita_0a75bc40-7480-11f1-bf31-21d8c981c20c_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -377,5 +427,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253549348/thumb.jpg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

@@ -370,11 +370,11 @@
   "GrowthEnv": "wood",
   "Bruising": "no",
   "Bioluminescent": "no",
-  "Edible": "",
+  "Edible": "edible",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "只有幼嫩時期可食，長大之後又韌又硬，無法食用。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -385,5 +385,5 @@
    "src": "https://static.inaturalist.org/photos/102975356/thumb.jpeg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

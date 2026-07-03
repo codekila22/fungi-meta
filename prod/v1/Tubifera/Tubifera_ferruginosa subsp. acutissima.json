@@ -2,6 +2,7 @@
  "genus": "Tubifera",
  "name": "ferruginosa subsp. acutissima",
  "date": [
+  "06/22/2026,27335705439446528",
   "06/29/2025,10009377389172602",
   "05/08/2024,7412364315540602",
   "03/31/2024,7165299173580452",
@@ -216,6 +217,54 @@
   {
    "author": "江志緯",
    "image_src": "Tubifera_ferruginosa subsp. acutissima_9c3ade70-5943-11f0-8000-cfd41c5889a3_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -258,5 +307,43 @@
   "la_zhtw": "筒黏菌,,",
   "la_zhcn": "筒黏菌,,"
  },
- "timestamp": "20260623-151450"
+ "inaturalist": [
+  {
+   "name": "Tubifera ferruginosa",
+   "cname": "Red Raspberry Slime Mold",
+   "url": "https://www.inaturalist.org/taxa/126522",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/270094506/square.jpg"
+  },
+  {
+   "name": "Tubifera ferruginosa acutissima",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1150227",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89335916/square.jpeg"
+  },
+  {
+   "name": "Tubifera ferruginosa ferruginosa",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/126524",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109551064/square.jpeg"
+  },
+  {
+   "name": "Tubifera ferruginosa complanata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/126520",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/167722090/square.jpg"
+  },
+  {
+   "name": "Tubifera ferruginosa subungulata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/126521",
+   "src": ""
+  },
+  {
+   "name": "Tubifera ferruginosa albostipitata",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/126523",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260703-181142"
 }

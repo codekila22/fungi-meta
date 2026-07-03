@@ -2,6 +2,8 @@
  "genus": "Inocybe",
  "name": "cincinnata",
  "date": [
+  "06/16/2026,27347651518251920",
+  "05/24/2026,27365362176480854",
   "06/15/2024,7507295486047484",
   "07/14/2023,6211450712298641",
   "01/25/2017,1114713671972396"
@@ -63,6 +65,42 @@
   {
    "author": "徐秀團",
    "image_src": "Inocybe_cincinnata_ceb13140-2ade-11ef-ac64-2b9202a1cff8_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Inocybe_cincinnata_7e6d10b0-7108-11f1-a16f-0b14e3dad96d_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Inocybe_cincinnata_7e6d10b0-7108-11f1-a16f-0b14e3dad96d_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Inocybe_cincinnata_7e6d10b0-7108-11f1-a16f-0b14e3dad96d_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Inocybe_cincinnata_7e6d10b0-7108-11f1-a16f-0b14e3dad96d_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Inocybe_cincinnata_7e6d10b0-7108-11f1-a16f-0b14e3dad96d_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Inocybe_cincinnata_7e6d10b0-7108-11f1-a16f-0b14e3dad96d_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_d2f78570-7108-11f1-a16f-0b14e3dad96d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_d2f78570-7108-11f1-a16f-0b14e3dad96d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_d2f78570-7108-11f1-a16f-0b14e3dad96d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -70,7 +108,7 @@
  ],
  "meta": {
   "CapColors": "4288768839,4290547599",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "raised-scales",
   "CapMargin": "",
@@ -89,7 +127,7 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -118,5 +156,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

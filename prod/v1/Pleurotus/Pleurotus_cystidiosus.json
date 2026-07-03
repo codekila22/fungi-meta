@@ -2,6 +2,7 @@
  "genus": "Pleurotus",
  "name": "cystidiosus",
  "date": [
+  "06/25/2026,27353775200972885",
   "06/18/2026,27269278332755906",
   "04/19/2026,26504693949214352",
   "04/05/2026,26325663020450780",
@@ -629,6 +630,30 @@
   {
    "author": "何俊霖",
    "image_src": "Pleurotus_cystidiosus_4a823700-6b66-11f1-b87b-81d765b89a9f_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4eb620d0-7105-11f1-a16f-0b14e3dad96d_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4eb620d0-7105-11f1-a16f-0b14e3dad96d_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4eb620d0-7105-11f1-a16f-0b14e3dad96d_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4eb620d0-7105-11f1-a16f-0b14e3dad96d_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4eb620d0-7105-11f1-a16f-0b14e3dad96d_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_cystidiosus_4eb620d0-7105-11f1-a16f-0b14e3dad96d_6.jpg"
   }
  ],
  "synonym": [
@@ -689,5 +714,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40321733/thumb.jpeg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

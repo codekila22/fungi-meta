@@ -293,17 +293,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "Bruising": "red,brown",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。\n菌蓋呈現扇形、半圓形或漏斗狀。常聚集成玫瑰花瓣狀的簇群且表面覆有絨毛。\n顏色為淺肉色、茶褐色至紅褐色。菌孔表面初期為白色或淡黃色並會分泌紅色汁液另觸碰受傷時變成紅褐色。\n菌孔形狀呈多角但隨成熟逐漸變成迷宮狀或齒狀。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -314,5 +315,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24572843/thumb.jpeg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

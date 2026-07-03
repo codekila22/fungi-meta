@@ -3,6 +3,7 @@
  "name": "manipularis",
  "date": [
   "05/21/2026,27143777661972641",
+  "05/16/2026,27336088326074906",
   "05/01/2026,26630635886620157",
   "11/01/2025,24857995150550915",
   "10/09/2025,24617306307953135",
@@ -481,6 +482,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_manipularis_26a3fa40-6719-11f1-81ed-0d648da220a2_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Filoboletus_manipularis_480f6150-6f8f-11f1-95ca-39b2ed0a22ae_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Filoboletus_manipularis_480f6150-6f8f-11f1-95ca-39b2ed0a22ae_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Filoboletus_manipularis_480f6150-6f8f-11f1-95ca-39b2ed0a22ae_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Filoboletus_manipularis_480f6150-6f8f-11f1-95ca-39b2ed0a22ae_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Filoboletus_manipularis_480f6150-6f8f-11f1-95ca-39b2ed0a22ae_5.jpg"
   }
  ],
  "synonym": [
@@ -545,5 +566,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/451535428/square.jpeg"
   }
  ],
- "timestamp": "20260623-151450"
+ "timestamp": "20260703-181142"
 }

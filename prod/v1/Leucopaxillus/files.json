@@ -2,8 +2,14 @@
  "name": "Leucopaxillus",
  "zhtw": "白椿菇屬",
  "zhcn": "白椿菇属",
- "timestamp": "20260623-151450",
+ "timestamp": "20260703-181142",
  "list": [
+  {
+   "name": "Leucopaxillus brasiliensis",
+   "zhtw": "巴西白樁菇",
+   "zhcn": "巴西白桩菇",
+   "img": "Leucopaxillus_brasiliensis_9603a980-6fa7-11f1-95ca-39b2ed0a22ae_1.jpg"
+  },
   {
    "name": "Leucopaxillus giganteus",
    "zhtw": "巨白樁菇/巨大白樁菇",

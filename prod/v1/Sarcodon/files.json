@@ -2,8 +2,14 @@
  "name": "Sarcodon",
  "zhtw": "肉齒菌屬",
  "zhcn": "肉齿菌属",
- "timestamp": "20260623-151450",
+ "timestamp": "20260703-181142",
  "list": [
+  {
+   "name": "Sarcodon carbonarius",
+   "zhtw": "炭色肉齒菌",
+   "zhcn": "炭色肉齿菌",
+   "img": "Sarcodon_carbonarius_0aa0c400-7087-11f1-9e42-c36bb484db09_1.jpg"
+  },
   {
    "name": "Sarcodon imbricatus",
    "zhtw": "翹鱗肉齒菌",
