@@ -2,6 +2,7 @@
  "genus": "Cortinarius",
  "name": "violaceus",
  "date": [
+  "07/02/2026,27447963098220761",
   "06/20/2026,27297894653227607",
   "07/08/2025,10053111178132556",
   "06/15/2025,23893183250365448",
@@ -295,6 +296,42 @@
   {
    "author": "何俊霖",
    "image_src": "Cortinarius_violaceus_de78f590-6f3e-11f0-9d73-13db89300dfc_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_violaceus_145dbc70-7698-11f1-93ae-a395ac7c01cf_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_violaceus_145dbc70-7698-11f1-93ae-a395ac7c01cf_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_violaceus_145dbc70-7698-11f1-93ae-a395ac7c01cf_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_violaceus_145dbc70-7698-11f1-93ae-a395ac7c01cf_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_violaceus_145dbc70-7698-11f1-93ae-a395ac7c01cf_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_violaceus_145dbc70-7698-11f1-93ae-a395ac7c01cf_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_violaceus_145dbc70-7698-11f1-93ae-a395ac7c01cf_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_violaceus_145dbc70-7698-11f1-93ae-a395ac7c01cf_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_violaceus_145dbc70-7698-11f1-93ae-a395ac7c01cf_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -343,5 +380,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/119988828/thumb.jpg"
   }
  ],
- "timestamp": "20260703-114314"
+ "timestamp": "20260703-180137"
 }
