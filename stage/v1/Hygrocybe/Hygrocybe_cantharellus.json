@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "cantharellus",
  "date": [
+  "07/05/2026,27505593932457677",
   "07/07/2023,6169815323128847",
   "11/29/2022,5462708480506205",
   "07/05/2022,5088385487938508",
@@ -69,6 +70,38 @@
   {
    "author": "James Ho",
    "image_src": "Hygrocybe_cantharellus_6_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_53004080-7a6f-11f1-9f37-11da2773397a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_53004080-7a6f-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_53004080-7a6f-11f1-9f37-11da2773397a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_53004080-7a6f-11f1-9f37-11da2773397a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_53004080-7a6f-11f1-9f37-11da2773397a_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_53004080-7a6f-11f1-9f37-11da2773397a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_53004080-7a6f-11f1-9f37-11da2773397a_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_53004080-7a6f-11f1-9f37-11da2773397a_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -106,9 +139,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Hygrocybe coccineocrenata,,",
   "Note": "",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "緋紅齒濕傘,,",
+  "la_zhcn": "绯红齿湿伞,,"
  },
  "inaturalist": [
   {
@@ -130,5 +165,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260703-211203"
+ "timestamp": "20260709-062636"
 }

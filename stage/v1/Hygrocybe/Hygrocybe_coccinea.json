@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "coccinea",
  "date": [
+  "07/03/2026,27493665776983826",
   "07/30/2025,23999519449731827",
   "03/14/2021,23999519449731827"
  ],
@@ -70,6 +71,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Hygrocybe_coccinea_8c96a520-6f38-11f0-96a2-6df83981879c_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -130,5 +155,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24392890/thumb.jpg"
   }
  ],
- "timestamp": "20260703-211203"
+ "timestamp": "20260709-062636"
 }

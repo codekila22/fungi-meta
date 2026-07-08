@@ -53,7 +53,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "18,35",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -70,9 +70,9 @@
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
-  "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkBase": "mycelium",
+  "StalkDiamRangeValuess": "4,7",
+  "StalkLengthRangeValuess": "55,65",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -84,7 +84,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌蓋邊緣有菌幕裂片懸垂。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -95,5 +95,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260703-211203"
+ "timestamp": "20260709-062636"
 }

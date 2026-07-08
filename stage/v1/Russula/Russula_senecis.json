@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "senecis",
  "date": [
+  "07/07/2026,27501594889524248",
   "06/28/2026,27426296497054088",
   "06/16/2026,27347606294923109",
   "06/29/2025,10002509633192711",
@@ -252,6 +253,34 @@
   {
    "author": "吳湯姆",
    "image_src": "Russula_senecis_9c8a6f80-74ef-11f1-ad8d-814b59be874e_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_senecis_f36e2ad0-7a03-11f1-bef5-4bf57cd7d16b_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_senecis_f36e2ad0-7a03-11f1-bef5-4bf57cd7d16b_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_senecis_f36e2ad0-7a03-11f1-bef5-4bf57cd7d16b_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_senecis_f36e2ad0-7a03-11f1-bef5-4bf57cd7d16b_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_senecis_f36e2ad0-7a03-11f1-bef5-4bf57cd7d16b_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_senecis_f36e2ad0-7a03-11f1-bef5-4bf57cd7d16b_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_senecis_f36e2ad0-7a03-11f1-bef5-4bf57cd7d16b_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -304,5 +333,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163088866/thumb.jpg"
   }
  ],
- "timestamp": "20260703-211203"
+ "timestamp": "20260709-062636"
 }

@@ -232,7 +232,7 @@
   "CapDiamRangeValues": "40,70",
   "CapShape": "",
   "CapTexture": "",
-  "CapMargin": "",
+  "CapMargin": "appendiculate",
   "HymeniumType": "",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
@@ -249,6 +249,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -259,7 +260,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "傘蓋外緣常有一圈白色的蕈幕殘留物。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -270,5 +271,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2391186/thumb.jpg"
   }
  ],
- "timestamp": "20260703-211203"
+ "timestamp": "20260709-062636"
 }

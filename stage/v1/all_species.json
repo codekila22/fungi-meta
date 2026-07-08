@@ -1,5 +1,5 @@
 {
- "timestamp": "20260703-211203",
+ "timestamp": "20260709-062636",
  "config": {
   "cover": {
    "image": "cover-photo.jpg",
@@ -1707,6 +1707,7 @@
   "Coprinellus aureogranulatus,金粒小鬼傘,金粒小鬼伞",
   "Coprinellus disseminatus subsp. orientalis,簇生小鬼傘東方亞種,簇生小鬼伞东方亚种",
   "Coprinellus disseminatus,簇生小鬼傘,簇生小鬼伞",
+  "Coprinellus domesticus,家園小鬼傘,家园小鬼伞",
   "Coprinellus heptemerus,柔碎小鬼傘,柔碎小鬼伞",
   "Coprinellus impatiens,急躁小鬼傘,急躁小鬼伞",
   "Coprinellus micaceus,晶粒小鬼傘,晶粒小鬼伞",
@@ -2537,6 +2538,7 @@
   "Lecanora hagenii,小茶漬衣,小茶渍衣",
   "Lecanora leprosa,癩屑茶漬衣,癞屑茶渍衣",
   "Lecanora marginata,飾緣茶漬衣,饰缘茶渍衣",
+  "Lecanora subimmergens,半埋茶漬衣,半埋茶渍衣",
   "Leccinellum griseum,灰小疣柄牛肝菌,灰小疣柄牛肝菌",
   "Leccinellum rugosiceps,皺蓋小疣柄牛肝菌,皱盖小疣柄牛肝菌",
   "Leccinellum sinoaurantiacum,華金黃小疣柄牛肝菌,华金黄小疣柄牛肝菌",
@@ -3485,6 +3487,7 @@
   "Rosellinia corticium,類附胞炭豆菌,类附胞炭豆菌",
   "Rosellinia longispora,長孢炭豆菌,长孢炭豆菌",
   "Roseodiscus rhodoleucus,紅白玫瑰盤菌,红白玫瑰盘菌",
+  "Rossbeevera bispora,雙孢羅葉腹菌,双孢罗叶腹菌",
   "Rossbeevera griseovelutina,灰絨羅葉腹菌,灰绒罗叶腹菌",
   "Roussoella pseudohysterioides,假擬縫裂殼盧梭氏菌,假拟缝裂壳卢梭氏菌",
   "Rubroboletus dupainii,杜潘紅孔牛肝菌,杜潘红孔牛肝菌",
@@ -3602,6 +3605,7 @@
   "Sparassis crispa,繡球菌,绣球菌",
   "Sparassis cystidiosa,囊狀體繡球菌,囊状体绣球菌",
   "Sparassis latifolia,廣葉繡球菌,广叶绣球菌",
+  "Sparassis spathulata,匙狀繡球菌,匙状绣球菌",
   "Sparassis subalpine,亞高山繡球菌(暫名),亚高山绣球菌(暂名)",
   "Spathularia flavida,黃地匙菌,黄地匙菌",
   "Spathularia velutipes,絨柄地匙菌,绒柄地匙菌",

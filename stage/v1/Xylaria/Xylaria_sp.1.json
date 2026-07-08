@@ -2,6 +2,7 @@
  "genus": "Xylaria",
  "name": "sp.1",
  "date": [
+  "07/04/2026,27469471909403213",
   "06/26/2026,27404563325894072",
   "07/15/2025,23988261964190909",
   "07/12/2024,7683943631716001",
@@ -231,6 +232,46 @@
   {
    "author": "陳麗紅",
    "image_src": "Xylaria_sp.1_0d5b7a20-739b-11f1-babc-45e4824c247c_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_sp.1_bdffabf0-7a83-11f1-9f37-11da2773397a_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_sp.1_bdffabf0-7a83-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_sp.1_bdffabf0-7a83-11f1-9f37-11da2773397a_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_sp.1_bdffabf0-7a83-11f1-9f37-11da2773397a_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_sp.1_bdffabf0-7a83-11f1-9f37-11da2773397a_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_sp.1_bdffabf0-7a83-11f1-9f37-11da2773397a_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_sp.1_bdffabf0-7a83-11f1-9f37-11da2773397a_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_sp.1_bdffabf0-7a83-11f1-9f37-11da2773397a_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_sp.1_bdffabf0-7a83-11f1-9f37-11da2773397a_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_sp.1_bdffabf0-7a83-11f1-9f37-11da2773397a_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -258,7 +299,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -272,5 +313,5 @@
   "Note": "生長於小葉欖仁果實上，一種尚未被命名的炭角菌。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260703-211203"
+ "timestamp": "20260709-062636"
 }

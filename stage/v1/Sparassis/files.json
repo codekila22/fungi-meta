@@ -2,7 +2,7 @@
  "name": "Sparassis",
  "zhtw": "繡球菌屬",
  "zhcn": "绣球菌属",
- "timestamp": "20260703-211203",
+ "timestamp": "20260709-062636",
  "list": [
   {
    "name": "Sparassis brevipes",
@@ -27,6 +27,12 @@
    "zhtw": "廣葉繡球菌",
    "zhcn": "广叶绣球菌",
    "img": "Sparassis_latifolia_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Sparassis spathulata",
+   "zhtw": "匙狀繡球菌",
+   "zhcn": "匙状绣球菌",
+   "img": "Sparassis_spathulata_cb51b920-79dd-11f1-8f5f-af74aa3a7189_1.jpg"
   },
   {
    "name": "Sparassis subalpine",

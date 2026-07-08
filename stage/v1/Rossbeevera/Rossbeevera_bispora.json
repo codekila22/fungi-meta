@@ -1,0 +1,66 @@
+{
+ "genus": "Rossbeevera",
+ "name": "bispora",
+ "date": [
+  "08/02/2020,3116975021746241"
+ ],
+ "names_zhtw": [
+  "雙孢羅葉腹菌"
+ ],
+ "names_en": [],
+ "url": "3116975021746241",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Rossbeevera_bispora_d0288b00-79dc-11f1-8f5f-af74aa3a7189_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rossbeevera_bispora_d0288b00-79dc-11f1-8f5f-af74aa3a7189_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Rossbeevera_bispora_d0288b00-79dc-11f1-8f5f-af74aa3a7189_3.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "双孢罗叶腹菌"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4280563325",
+  "CapDiamRangeValues": "10,40",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gasteroid",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "rooting",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
+  "Bruising": "blue",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "擔子通常僅產生兩個擔孢子（bi-spored）；外皮初期白色，切割後顯現深藍紫色，是本種重要鑑別特徵。",
+  "GrowthEco": "mycorrhizal"
+ },
+ "timestamp": "20260709-062636"
+}

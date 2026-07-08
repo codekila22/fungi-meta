@@ -2,6 +2,7 @@
  "genus": "Cantharellus",
  "name": "koreanus",
  "date": [
+  "07/03/2026,27456654970684907",
   "06/30/2026,27419079687775769",
   "08/07/2025,24214576111559492",
   "08/19/2024,7874978199279209"
@@ -143,6 +144,18 @@
   {
    "author": "徐秀團",
    "image_src": "Cantharellus_koreanus_289a5c40-7470-11f1-bf31-21d8c981c20c_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_bcac9630-76ed-11f1-9862-b327dcab099d_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_bcac9630-76ed-11f1-9862-b327dcab099d_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_bcac9630-76ed-11f1-9862-b327dcab099d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -192,5 +205,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260703-211203"
+ "timestamp": "20260709-062636"
 }
