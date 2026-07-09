@@ -2,6 +2,7 @@
  "genus": "Trichoglossum",
  "name": "hirsutum",
  "date": [
+  "07/06/2026,27525644230452647",
   "06/16/2024,7543576382419394",
   "08/25/2023,6332380226872355",
   "08/20/2023,6362044660572578",
@@ -119,6 +120,18 @@
   {
    "author": "Sunny Wang",
    "image_src": "Trichoglossum_hirsutum_c119ea00-30f0-11ef-bc1c-5b0a1be85c8f_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichoglossum_hirsutum_75e2ee00-7b81-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichoglossum_hirsutum_75e2ee00-7b81-11f1-b69b-29ba5035f45b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichoglossum_hirsutum_75e2ee00-7b81-11f1-b69b-29ba5035f45b_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -188,5 +201,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260709-062636"
+ "timestamp": "20260709-212246"
 }

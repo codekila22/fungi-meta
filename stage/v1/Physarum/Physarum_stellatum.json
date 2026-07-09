@@ -2,6 +2,7 @@
  "genus": "Physarum",
  "name": "stellatum",
  "date": [
+  "07/06/2026,27525995660417504",
   "11/17/2024,8596900293753659",
   "11/17/2024,8635140369929651",
   "10/13/2024,8342612955849062",
@@ -371,6 +372,46 @@
   {
    "author": "江志緯",
    "image_src": "Physarum_stellatum_0fd958f0-b996-11ef-9942-af941b6f50bd_18.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_stellatum_c5392410-7b81-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_stellatum_c5392410-7b81-11f1-b69b-29ba5035f45b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_stellatum_c5392410-7b81-11f1-b69b-29ba5035f45b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_stellatum_c5392410-7b81-11f1-b69b-29ba5035f45b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_stellatum_c5392410-7b81-11f1-b69b-29ba5035f45b_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_stellatum_c6a229f0-7b81-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_stellatum_c6a229f0-7b81-11f1-b69b-29ba5035f45b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_stellatum_c6a229f0-7b81-11f1-b69b-29ba5035f45b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_stellatum_c6a229f0-7b81-11f1-b69b-29ba5035f45b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_stellatum_c6a229f0-7b81-11f1-b69b-29ba5035f45b_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -421,5 +462,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32304638/thumb.jpeg"
   }
  ],
- "timestamp": "20260709-062636"
+ "timestamp": "20260709-212246"
 }

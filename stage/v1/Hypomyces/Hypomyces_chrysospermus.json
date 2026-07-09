@@ -2,6 +2,7 @@
  "genus": "Hypomyces",
  "name": "chrysospermus",
  "date": [
+  "07/02/2026,27527379836945753",
   "06/07/2025,9866209993489343",
   "06/01/2025,9794399424003734",
   "08/25/2024,7912428772200818",
@@ -257,6 +258,14 @@
   {
    "author": "江志緯",
    "image_src": "Hypomyces_chrysospermus_ec933590-49c9-11f0-b47d-23b6338a2d92_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hypomyces_chrysospermus_d457d480-7b97-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hypomyces_chrysospermus_d457d480-7b97-11f1-b69b-29ba5035f45b_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -304,5 +313,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12154069/thumb.jpg"
   }
  ],
- "timestamp": "20260709-062636"
+ "timestamp": "20260709-212246"
 }

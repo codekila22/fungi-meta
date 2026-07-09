@@ -84,5 +84,13 @@
   "la_zhtw": "輻毛小鬼傘,,",
   "la_zhcn": "辐毛小鬼伞,,"
  },
- "timestamp": "20260709-062636"
+ "inaturalist": [
+  {
+   "name": "Coprinellus domesticus",
+   "cname": "Firerug Inkcap",
+   "url": "https://www.inaturalist.org/taxa/203062",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3873632/square.jpg"
+  }
+ ],
+ "timestamp": "20260709-212246"
 }

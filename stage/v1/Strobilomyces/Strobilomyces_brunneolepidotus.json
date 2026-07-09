@@ -4,6 +4,7 @@
  "date": [
   "07/03/2026,27470268342656903",
   "07/02/2026,27456824187334652",
+  "07/01/2026,27517466101270460",
   "06/24/2026,27407127462304325",
   "08/01/2025,24011326428551129",
   "06/20/2025,9914559405321068",
@@ -297,6 +298,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Strobilomyces_brunneolepidotus_637c62b0-7a04-11f1-bef5-4bf57cd7d16b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Strobilomyces_brunneolepidotus_52c04810-7b71-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Strobilomyces_brunneolepidotus_52c04810-7b71-11f1-b69b-29ba5035f45b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Strobilomyces_brunneolepidotus_52c04810-7b71-11f1-b69b-29ba5035f45b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Strobilomyces_brunneolepidotus_52c04810-7b71-11f1-b69b-29ba5035f45b_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -346,5 +363,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251574833/thumb.jpg"
   }
  ],
- "timestamp": "20260709-062636"
+ "timestamp": "20260709-212246"
 }

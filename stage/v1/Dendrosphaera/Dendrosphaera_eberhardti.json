@@ -247,5 +247,13 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260709-062636"
+ "inaturalist": [
+  {
+   "name": "Dendrosphaera eberhardtii",
+   "cname": "",
+   "url": "https://www.inaturalist.org/taxa/1038627",
+   "src": "https://static.inaturalist.org/photos/396341229/square.jpeg"
+  }
+ ],
+ "timestamp": "20260709-212246"
 }

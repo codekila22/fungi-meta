@@ -2,6 +2,7 @@
  "genus": "Hypomyces",
  "name": "papulasporae",
  "date": [
+  "07/06/2026,27525644230452647",
   "07/02/2023,6182848798492166",
   "09/14/2022,6652927561484285",
   "08/15/2021,4074607279316339"
@@ -59,6 +60,14 @@
   {
    "author": "江志緯",
    "image_src": "Hypomyces_papulasporae_7bf20ae0-8680-11ee-9d78-d3686b1c9a76_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypomyces_papulasporae_90ade870-7b81-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypomyces_papulasporae_90ade870-7b81-11f1-b69b-29ba5035f45b_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -121,5 +130,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260709-062636"
+ "timestamp": "20260709-212246"
 }
