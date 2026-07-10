@@ -228,6 +228,7 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "台灣中高海拔地區紀錄。",
+  "Elevation": "mid,high",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -238,5 +239,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/238215162/thumb.jpg"
   }
  ],
- "timestamp": "20260710-183200"
+ "timestamp": "20260710-213543"
 }

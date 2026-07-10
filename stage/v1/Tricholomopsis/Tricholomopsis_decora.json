@@ -271,6 +271,7 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "常生長於中高海拔針葉木的枯木上。",
+  "Elevation": "mid,high",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -293,5 +294,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260710-183200"
+ "timestamp": "20260710-213543"
 }

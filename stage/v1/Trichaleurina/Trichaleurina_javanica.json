@@ -231,6 +231,7 @@
   "Taste": "",
   "LookAlikes": "Trichaleurina tenuispora,,",
   "Note": "熱帶物種，台灣多發現於南部地區，綠島也有紀錄。",
+  "Tropical": "yes",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "瘦孢長毛飾孢盤菌,,",
   "la_zhcn": "瘦孢长毛饰孢盘菌,,"
@@ -243,5 +244,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/228114091/thumb.jpg"
   }
  ],
- "timestamp": "20260710-183200"
+ "timestamp": "20260710-213543"
 }

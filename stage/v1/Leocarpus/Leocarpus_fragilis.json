@@ -55,7 +55,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "台灣高海拔拍攝記錄。"
+  "Note": "台灣高海拔拍攝記錄。",
+  "Elevation": "high"
  },
  "inaturalist": [
   {
@@ -77,5 +78,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260710-183200"
+ "timestamp": "20260710-213543"
 }

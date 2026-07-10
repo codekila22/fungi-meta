@@ -376,6 +376,7 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "夏秋時節常生長在中高海拔針葉木腐爛的枯木或附近地上，菌柄與菌蓋同色。",
+  "Elevation": "mid,high",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -410,5 +411,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260710-183200"
+ "timestamp": "20260710-213543"
 }

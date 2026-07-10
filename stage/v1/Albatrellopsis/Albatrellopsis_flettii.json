@@ -142,6 +142,7 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "高海拔地區物種。",
+  "Elevation": "high",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -152,5 +153,5 @@
    "src": "https://static.inaturalist.org/photos/1378367/thumb.jpg"
   }
  ],
- "timestamp": "20260710-183200"
+ "timestamp": "20260710-213543"
 }

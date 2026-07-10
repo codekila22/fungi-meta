@@ -248,7 +248,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "屬於熱帶物種，目前皆發現於竹林下之竹枝與竹葉上。"
+  "Note": "屬於熱帶物種，目前皆發現於竹林下之竹枝與竹葉上。",
+  "Tropical": "yes"
  },
  "inaturalist": [
   {
@@ -258,5 +259,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164177437/thumb.jpg"
   }
  ],
- "timestamp": "20260710-183200"
+ "timestamp": "20260710-213543"
 }
