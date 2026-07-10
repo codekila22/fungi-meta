@@ -52,7 +52,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -84,5 +84,5 @@
   "la_zhtw": "東方褐蓋鵝膏,,",
   "la_zhcn": "东方褐盖鹅膏,,"
  },
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

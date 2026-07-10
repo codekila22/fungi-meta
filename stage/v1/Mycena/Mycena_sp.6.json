@@ -86,7 +86,7 @@
   "CapShape": "depressed",
   "CapTexture": "",
   "CapMargin": "striated",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -116,5 +116,5 @@
   "Note": "傘面線條凹處有糖霜粉狀物的一種未知名小菇。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

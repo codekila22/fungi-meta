@@ -343,7 +343,7 @@
   "CapShape": "",
   "CapTexture": "dry,fine-scales",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -380,5 +380,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/119988828/thumb.jpg"
   }
  ],
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

@@ -2,7 +2,6 @@
  "genus": "Tricholomopsis",
  "name": "rutilans",
  "date": [
-  "06/20/2026,27468455596171511",
   "07/23/2025,23982894011394371",
   "06/11/2025,9843720989071577",
   "07/07/2024,7638376692939362",
@@ -338,14 +337,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Tricholomopsis_rutilans_7abd0050-6f57-11f0-b6d6-8fc4b777ac9e_15.jpg"
-  },
-  {
-   "author": "黃金興",
-   "image_src": "Tricholomopsis_rutilans_e13701c0-7b98-11f1-b69b-29ba5035f45b_1.jpg"
-  },
-  {
-   "author": "黃金興",
-   "image_src": "Tricholomopsis_rutilans_e13701c0-7b98-11f1-b69b-29ba5035f45b_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -419,5 +410,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

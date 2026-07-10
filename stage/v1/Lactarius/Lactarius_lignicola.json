@@ -61,7 +61,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -91,5 +91,5 @@
   "Note": "少數木生的乳菇。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

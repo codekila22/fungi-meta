@@ -247,7 +247,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -292,5 +292,5 @@
    "src": "https://static.inaturalist.org/photos/189310415/thumb.jpeg"
   }
  ],
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

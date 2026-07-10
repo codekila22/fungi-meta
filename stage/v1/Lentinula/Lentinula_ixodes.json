@@ -44,7 +44,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -74,5 +74,5 @@
   "Note": "台灣有分佈，本紀錄為印尼中爪哇拍攝。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

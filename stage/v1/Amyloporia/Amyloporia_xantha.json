@@ -73,7 +73,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -110,5 +110,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20724350/thumb.jpg"
   }
  ],
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

@@ -14,6 +14,7 @@
   }
  ],
  "date": [
+  "07/03/2026,27527483266935410",
   "06/29/2026,27416364744713930",
   "06/22/2026,27321153407568398",
   "08/05/2025,24163847016632402",
@@ -247,6 +248,22 @@
   {
    "author": "黃金興",
    "image_src": "Tapinella_atrotomentosa_f1e61960-745f-11f1-82bc-c9333ff88e97_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tapinella_atrotomentosa_da1e60c0-7b9a-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tapinella_atrotomentosa_da1e60c0-7b9a-11f1-b69b-29ba5035f45b_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tapinella_atrotomentosa_da1e60c0-7b9a-11f1-b69b-29ba5035f45b_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tapinella_atrotomentosa_da1e60c0-7b9a-11f1-b69b-29ba5035f45b_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -258,7 +275,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -296,5 +313,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27334337/thumb.jpg"
   }
  ],
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

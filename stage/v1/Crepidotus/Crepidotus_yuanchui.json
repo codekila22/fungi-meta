@@ -180,7 +180,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -212,5 +212,5 @@
   "la_zhtw": "硫磺色靴耳,,",
   "la_zhcn": "硫磺色靴耳,,"
  },
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

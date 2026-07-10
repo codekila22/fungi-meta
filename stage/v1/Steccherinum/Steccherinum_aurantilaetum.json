@@ -136,7 +136,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "toothed",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -174,5 +174,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

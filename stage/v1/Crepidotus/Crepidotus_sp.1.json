@@ -214,7 +214,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -244,5 +244,5 @@
   "Note": "生長在枯藤上，菌褶為裂褶狀。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }

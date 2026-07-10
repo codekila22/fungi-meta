@@ -187,7 +187,7 @@
   "CapShape": "",
   "CapTexture": "patches",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -217,5 +217,5 @@
   "Note": "",
   "GrowthEco": ""
  },
- "timestamp": "20260709-212246"
+ "timestamp": "20260710-183200"
 }
