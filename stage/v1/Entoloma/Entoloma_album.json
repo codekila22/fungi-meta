@@ -164,7 +164,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -185,5 +188,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155838330/thumb.jpg"
   }
  ],
- "timestamp": "20260710-213543"
+ "timestamp": "20260711-064404"
 }

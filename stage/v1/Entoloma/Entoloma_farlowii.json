@@ -124,6 +124,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground,debris",
@@ -144,5 +146,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15333128/thumb.jpg"
   }
  ],
- "timestamp": "20260710-213543"
+ "timestamp": "20260711-064404"
 }

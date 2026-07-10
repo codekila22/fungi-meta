@@ -95,6 +95,8 @@
   "StalkLengthRangeValuess": "28,32",
   "HeightRangeValuess": "",
   "Rareness": "rare",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -109,5 +111,5 @@
   "la_zhtw": "疑似類鐵刀木粉褶菌,,",
   "la_zhcn": "疑似类铁刀木粉褶菌,,"
  },
- "timestamp": "20260710-213543"
+ "timestamp": "20260711-064404"
 }

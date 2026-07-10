@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "gerardii",
  "date": [
+  "07/08/2026,27539398289077241",
   "08/08/2025,24084541224562982",
   "06/21/2024,7538155972961435",
   "08/19/2023,6311572722286439",
@@ -142,6 +143,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Lactarius_gerardii_6a03fd70-7b4d-11f0-82e5-db829d3cb073_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_gerardii_27539398289077241_93f88ed0-7cae-11f1-9d81-594a35f7021d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_gerardii_27539398289077241_93f88ed0-7cae-11f1-9d81-594a35f7021d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_gerardii_27539398289077241_93f88ed0-7cae-11f1-9d81-594a35f7021d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_gerardii_27539398289077241_93f88ed0-7cae-11f1-9d81-594a35f7021d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -171,6 +188,8 @@
   "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -180,7 +199,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "乳汁白色無辛辣味。",
+  "Note": "子實體傘面顏色變化大，從較淺到深褐都能發現，菌柄與傘面顏色相近。乳汁白色無辛辣味。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -203,5 +222,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8967707/thumb.jpeg"
   }
  ],
- "timestamp": "20260710-213543"
+ "timestamp": "20260711-064404"
 }

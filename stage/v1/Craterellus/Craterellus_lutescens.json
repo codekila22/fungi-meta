@@ -82,20 +82,20 @@
   "黄柄鸡油菌"
  ],
  "meta": {
-  "CapColors": "4294961979",
+  "CapColors": "4294962944",
   "CapDiamRangeValues": "30,80",
   "CapShape": "infundibuliform",
   "CapTexture": "",
   "CapMargin": "",
   "HymeniumType": "ridged",
-  "HymeniumColors": "4294961979",
+  "HymeniumColors": "4294962944",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "decurrent",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "central",
-  "StalkColors": "4294961979",
+  "StalkColors": "4294962944",
   "StalkTexture": "smooth",
   "StalkHollow": "hollow",
   "StalkPartialVeil": "none",
@@ -103,7 +103,10 @@
   "StalkBase": "equal",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "40,80",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -142,5 +145,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260710-213543"
+ "timestamp": "20260711-064404"
 }

@@ -240,6 +240,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -260,5 +262,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260710-213543"
+ "timestamp": "20260711-064404"
 }
