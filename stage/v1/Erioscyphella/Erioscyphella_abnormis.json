@@ -159,8 +159,10 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -182,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3215676/square.jpg"
   }
  ],
- "timestamp": "20260711-090713"
+ "timestamp": "20260711-101424"
 }

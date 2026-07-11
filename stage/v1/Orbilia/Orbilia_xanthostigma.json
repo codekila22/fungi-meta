@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/09/2026,27544298798587190",
   "01/25/2025,8924267991016886",
   "01/30/2024,6920495334727505",
   "12/31/2023,6809545559155817",
@@ -161,6 +162,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Orbilia_xanthostigma_2cc71190-dd5f-11ef-82e3-d19bcf2c6f3e_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Orbilia_xanthostigma_27544298798587190_b9584b20-7ccc-11f1-a10a-9f31227dc601_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Orbilia_xanthostigma_27544298798587190_b9584b20-7ccc-11f1-a10a-9f31227dc601_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Orbilia_xanthostigma_27544298798587190_b9584b20-7ccc-11f1-a10a-9f31227dc601_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Orbilia_xanthostigma_27544298798587190_b9584b20-7ccc-11f1-a10a-9f31227dc601_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Orbilia_xanthostigma_27544298798587190_b9584b20-7ccc-11f1-a10a-9f31227dc601_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -188,9 +209,12 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -210,5 +234,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28567180/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-090713"
+ "timestamp": "20260711-101424"
 }
