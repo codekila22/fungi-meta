@@ -2,14 +2,14 @@
  "genus": "Polypus",
  "name": "dispansus",
  "date": [
-  "01/01/0001"
+  "09/13/2015,793217844121982"
  ],
  "names_zhtw": [
   "散放多足孔菌",
   "展生地花菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/593",
+ "url": "793217844121982",
  "images": [
   {
    "author": "黃淑恩",
@@ -87,5 +87,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43574488/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }

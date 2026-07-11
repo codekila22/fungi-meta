@@ -2,7 +2,7 @@
  "genus": "Caloscypha",
  "name": "fulgens",
  "date": [
-  "01/01/0001"
+  "05/03/2021,3743839579059779"
  ],
  "names_zhtw": [
   "金麗杯菌"
@@ -48,10 +48,13 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground,debris",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -70,5 +73,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159805/thumb."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }

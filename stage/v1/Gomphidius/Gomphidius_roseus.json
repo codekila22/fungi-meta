@@ -2,13 +2,13 @@
  "genus": "Gomphidius",
  "name": "roseus",
  "date": [
-  "01/01/0001"
+  "11/03/2015,804913562952410"
  ],
  "names_zhtw": [
   "紅鉚釘菇"
  ],
  "names_en": [],
- "url": "",
+ "url": "804913562952410",
  "images": [
   {
    "author": "",
@@ -89,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10216352/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }

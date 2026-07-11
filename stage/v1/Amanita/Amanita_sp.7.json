@@ -2,7 +2,7 @@
  "genus": "Amanita",
  "name": "sp.7",
  "date": [
-  "01/01/0001"
+  "06/14/2021,3861997287244007"
  ],
  "names_zhtw": [
   "乳頭鵝膏"
@@ -114,6 +114,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -126,5 +128,5 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }

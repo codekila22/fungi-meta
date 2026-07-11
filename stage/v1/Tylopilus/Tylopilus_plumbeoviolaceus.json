@@ -2,7 +2,7 @@
  "genus": "Tylopilus",
  "name": "plumbeoviolaceus",
  "date": [
-  "01/01/0001"
+  "07/19/2020,2953381508105594"
  ],
  "names_zhtw": [
   "灰紫粉孢牛肝菌",
@@ -48,7 +48,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "40,70",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -70,5 +73,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23515086/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }

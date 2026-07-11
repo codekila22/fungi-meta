@@ -158,6 +158,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "80,160",
   "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
@@ -179,5 +181,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }

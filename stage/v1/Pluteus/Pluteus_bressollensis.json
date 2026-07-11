@@ -2,7 +2,7 @@
  "genus": "Pluteus",
  "name": "bressollensis",
  "date": [
-  "01/01/0001"
+  "05/16/2021,3787181278058942"
  ],
  "names_zhtw": [
   "布雷索爾光柄菇"
@@ -84,7 +84,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -106,5 +109,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }

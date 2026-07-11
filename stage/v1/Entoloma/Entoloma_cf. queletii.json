@@ -2,7 +2,7 @@
  "genus": "Entoloma",
  "name": "cf. queletii",
  "date": [
-  "01/01/0001"
+  "07/29/2018,3441835985926808"
  ],
  "names_zhtw": [
   "疑似凱萊粉褶菌"
@@ -60,7 +60,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "2,7",
   "StalkLengthRangeValuess": "30,50",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -82,5 +85,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }

@@ -9,7 +9,7 @@
   }
  ],
  "date": [
-  "01/01/0001"
+  "05/28/2021,3812785102165226"
  ],
  "names_zhtw": [
   "黑斑牛肝菌"
@@ -63,7 +63,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -85,5 +88,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157476327/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }

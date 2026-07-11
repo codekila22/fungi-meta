@@ -2,7 +2,7 @@
  "genus": "Marasmius",
  "name": "campestris",
  "date": [
-  "01/01/0001"
+  "06/05/2021,3887381908038878"
  ],
  "names_zhtw": [
   "草地小皮傘"
@@ -70,6 +70,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground,meadow",
@@ -84,5 +86,5 @@
   "la_zhtw": "紫條溝小皮傘,,",
   "la_zhcn": "紫条沟小皮伞,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }

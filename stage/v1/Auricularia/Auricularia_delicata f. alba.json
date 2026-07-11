@@ -78,8 +78,10 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "70,180",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -92,5 +94,5 @@
   "la_zhtw": "皺木耳複合群,,",
   "la_zhcn": "皱木耳复合群,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260711-122339"
 }
