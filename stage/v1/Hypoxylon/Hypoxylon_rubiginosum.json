@@ -70,21 +70,24 @@
   {
    "name": "Hypoxylon rubiginosum",
    "cname": "Rusty Woodwart",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351179-Hypoxylon-rubiginosum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249826525/thumb.jpg"
   },
   {
    "name": "Hypoxylon rubiginosum var. rubiginosum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351181-Hypoxylon-rubiginosum-rubiginosum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/244463620/thumb.jpeg"
   },
   {
    "name": "Hypoxylon rubiginosum var. tropicum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351186-Hypoxylon-rubiginosum-tropicum",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

@@ -66,63 +66,73 @@
   {
    "name": "Coccocarpia pellita",
    "cname": "Salted Shell Lichen",
+   "cname_zh": "麟瓦衣",
    "url": "https://www.inaturalist.org/taxa/369859-Coccocarpia-pellita",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41722324/thumb.jpeg"
   },
   {
    "name": "Coccocarpia palmicola",
    "cname": "Fruiting Shell",
+   "cname_zh": "粗瓦衣",
    "url": "https://www.inaturalist.org/taxa/217270-Coccocarpia-palmicola",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2693387/thumb.jpg"
   },
   {
    "name": "Coccocarpia erythroxyli",
    "cname": "",
+   "cname_zh": "環紋瓦衣",
    "url": "https://www.inaturalist.org/taxa/217269-Coccocarpia-erythroxyli",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41403917/thumb.jpeg"
   },
   {
    "name": "Coccocarpia pellita var. endoferruginea",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/369858-Coccocarpia-pellita-endoferruginea",
    "src": ""
   },
   {
    "name": "Coccocarpia pellita var. erythrocardia",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/369860-Coccocarpia-pellita-erythrocardia",
    "src": ""
   },
   {
    "name": "Coccocarpia pellita var. pellita",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/369861-Coccocarpia-pellita-pellita",
    "src": ""
   },
   {
    "name": "Coccocarpia pellita var. pannosa",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/369863-Coccocarpia-pellita-pannosa",
    "src": ""
   },
   {
    "name": "Coccocarpia pellita var. parmelioides",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/369864-Coccocarpia-pellita-parmelioides",
    "src": ""
   },
   {
    "name": "Coccocarpia pellita var. semiincisa",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/369865-Coccocarpia-pellita-semiincisa",
    "src": ""
   },
   {
    "name": "Coccocarpia pellita var. mesomorpha",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/369866-Coccocarpia-pellita-mesomorpha",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

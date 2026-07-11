@@ -273,15 +273,17 @@
   {
    "name": "Fomitopsis pinicola",
    "cname": "Red-banded Polypores",
+   "cname_zh": "紅緣擬層孔菌複合群",
    "url": "https://www.inaturalist.org/taxa/1098279-Fomitopsis-pinicola",
    "src": "https://static.inaturalist.org/photos/54710253/thumb.jpg"
   },
   {
    "name": "Fomitopsis pinicola",
    "cname": "Red-banded Polypore",
+   "cname_zh": "松生擬層孔菌",
    "url": "https://www.inaturalist.org/taxa/1098280-Fomitopsis-pinicola",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4274437/thumb.jpg"
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

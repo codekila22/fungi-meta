@@ -185,21 +185,24 @@
   {
    "name": "Mycena leptocephala",
    "cname": "Nitrous Bonnet",
+   "cname_zh": "鉛灰色小菇",
    "url": "https://www.inaturalist.org/taxa/63470-Mycena-leptocephala",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/31199121/thumb.jpg"
   },
   {
    "name": "Mycena leptocephala var. leptocephala",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63469-Mycena-leptocephala-leptocephala",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/302813887/thumb.jpg"
   },
   {
    "name": "Mycena leptocephala var. minuta",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63471-Mycena-leptocephala-minuta",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

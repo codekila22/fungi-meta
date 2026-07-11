@@ -181,15 +181,17 @@
   {
    "name": "Pilobolus crystallinus",
    "cname": "Dung Cannon",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/383679-Pilobolus-crystallinus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1312642/thumb.jpg"
   },
   {
    "name": "Pilobolus lentiger var. lentiger",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/332897-Pilobolus-lentiger-lentiger",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

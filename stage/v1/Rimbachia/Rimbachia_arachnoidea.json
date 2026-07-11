@@ -198,21 +198,24 @@
   {
    "name": "Rimbachia arachnoidea",
    "cname": "Spidery Mossear",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/803161-Rimbachia-arachnoidea",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28435744/thumb.jpg"
   },
   {
    "name": "Rimbachia arachnoidea var. arachnoidea",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1181366-Rimbachia-arachnoidea-arachnoidea",
    "src": ""
   },
   {
    "name": "Rimbachia arachnoidea var. bispora",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1181367-Rimbachia-arachnoidea-bispora",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

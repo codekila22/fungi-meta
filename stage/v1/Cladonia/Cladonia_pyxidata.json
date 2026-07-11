@@ -217,15 +217,17 @@
   {
    "name": "Cladonia pyxidata",
    "cname": "Pebbled Pixie Cup",
+   "cname_zh": "喇叭石蕊",
    "url": "https://www.inaturalist.org/taxa/123894-Cladonia-pyxidata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37611636/thumb.jpg"
   },
   {
    "name": "Cladonia chlorophaea",
    "cname": "Mealy Pixie Cup",
+   "cname_zh": "喇叭粉石蕊",
    "url": "https://www.inaturalist.org/taxa/49488-Cladonia-chlorophaea",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2339782/thumb.jpg"
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

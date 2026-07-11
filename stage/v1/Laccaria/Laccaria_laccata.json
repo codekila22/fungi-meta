@@ -200,63 +200,73 @@
   {
    "name": "Laccaria laccata",
    "cname": "Deceiver",
+   "cname_zh": "漆蠟蘑",
    "url": "https://www.inaturalist.org/taxa/63236-Laccaria-laccata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135349/thumb."
   },
   {
    "name": "Laccaria amethystina",
    "cname": "Amethyst Deceiver",
+   "cname_zh": "紫蠟蘑",
    "url": "https://www.inaturalist.org/taxa/55899-Laccaria-amethystina",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/100850899/thumb.jpeg"
   },
   {
    "name": "Laccaria bicolor",
    "cname": "Bicoloured Deceiver",
+   "cname_zh": "雙色蠟蘑",
    "url": "https://www.inaturalist.org/taxa/63238-Laccaria-bicolor",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9637967/thumb.jpeg"
   },
   {
    "name": "Laccaria laccata var. pallidifolia",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194366-Laccaria-laccata-pallidifolia",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41081083/thumb.jpg"
   },
   {
    "name": "Laccaria laccata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1366732-Laccaria-laccata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4097618/thumb.jpg"
   },
   {
    "name": "Laccaria laccata laccata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63233-Laccaria-laccata-laccata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2716165/thumb.jpg"
   },
   {
    "name": "Laccaria laccata var. affinis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63234-Laccaria-laccata-affinis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251703408/thumb.jpg"
   },
   {
    "name": "Laccaria macrocystidiata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1441359-Laccaria-macrocystidiata",
    "src": ""
   },
   {
    "name": "Laccaria laccata bispora",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63239-Laccaria-laccata-bispora",
    "src": ""
   },
   {
    "name": "Laccaria laccata var. anglica",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194365-Laccaria-laccata-anglica",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

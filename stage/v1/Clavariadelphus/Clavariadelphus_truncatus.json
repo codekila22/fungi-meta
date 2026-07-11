@@ -104,21 +104,24 @@
   {
    "name": "Clavariadelphus truncatus",
    "cname": "Truncated Club",
+   "cname_zh": "平截棒瑚菌",
    "url": "https://www.inaturalist.org/taxa/55160-Clavariadelphus-truncatus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8400/thumb.jpg"
   },
   {
    "name": "Clavariadelphus truncatus var. lovejoyae",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/350357-Clavariadelphus-truncatus-lovejoyae",
    "src": "https://static.inaturalist.org/photos/221908102/thumb.jpg"
   },
   {
    "name": "Clavariadelphus truncatus var. truncatus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1055726-Clavariadelphus-truncatus-truncatus",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

@@ -101,15 +101,17 @@
   {
    "name": "Aspergillus flavus",
    "cname": "",
+   "cname_zh": "黃麴霉",
    "url": "https://www.inaturalist.org/taxa/350136-Aspergillus-flavus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8474722/thumb.jpg"
   },
   {
    "name": "Aspergillus oryzae",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1148191-Aspergillus-oryzae",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

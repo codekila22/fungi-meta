@@ -101,15 +101,17 @@
   {
    "name": "Usnea cornuta",
    "cname": "Inflated Beard",
+   "cname_zh": "角狀松蘿",
    "url": "https://www.inaturalist.org/taxa/117901-Usnea-cornuta",
    "src": "https://static.inaturalist.org/photos/72786767/thumb.jpeg"
   },
   {
    "name": "Usnea brasiliensis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/532448-Usnea-brasiliensis",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "rubrovolvata",
  "date": [
+  "07/08/2026,27538587332491670",
   "06/28/2026,27426059960411075",
   "06/19/2026,27298451599838579",
   "09/16/2025,24400344082982693",
@@ -310,6 +311,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_rubrovolvata_b5127aa0-74f6-11f1-ad8d-814b59be874e_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27538587332491670_436c4f20-7cc1-11f1-9d81-594a35f7021d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27538587332491670_436c4f20-7cc1-11f1-9d81-594a35f7021d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27538587332491670_436c4f20-7cc1-11f1-9d81-594a35f7021d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27538587332491670_436c4f20-7cc1-11f1-9d81-594a35f7021d_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27538587332491670_436c4f20-7cc1-11f1-9d81-594a35f7021d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -354,9 +375,10 @@
   {
    "name": "Amanita rubrovolvata",
    "cname": "Red Volva Amanita",
+   "cname_zh": "紅鵝膏菌",
    "url": "https://www.inaturalist.org/taxa/706627-Amanita-rubrovolvata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163434722/thumb.jpg"
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

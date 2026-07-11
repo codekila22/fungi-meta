@@ -134,27 +134,31 @@
   {
    "name": "Lactarius scrobiculatus",
    "cname": "Spotted Milkcap",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351305-Lactarius-scrobiculatus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/232879464/thumb.jpg"
   },
   {
    "name": "Lactarius scrobiculatus var. canadensis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/559720-Lactarius-scrobiculatus-canadensis",
    "src": "https://static.inaturalist.org/photos/105359333/thumb.jpg"
   },
   {
    "name": "Lactarius scrobiculatus ssp. pubescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351306-Lactarius-scrobiculatus-pubescens",
    "src": ""
   },
   {
    "name": "Lactarius insulsus scrobiculatus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/344531-Lactarius-insulsus-scrobiculatus",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

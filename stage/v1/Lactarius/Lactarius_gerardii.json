@@ -206,21 +206,24 @@
   {
    "name": "Lactifluus gerardii",
    "cname": "",
+   "cname_zh": "寬褶黑乳菇",
    "url": "https://www.inaturalist.org/taxa/351319-Lactifluus-gerardii",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21925917/thumb.jpeg"
   },
   {
    "name": "Lactarius gerardii var. subrubescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/325958-Lactarius-gerardii-subrubescens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/226048342/thumb.jpeg"
   },
   {
    "name": "Lactarius gerardii var. fagicola",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/325957-Lactarius-gerardii-fagicola",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8967707/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

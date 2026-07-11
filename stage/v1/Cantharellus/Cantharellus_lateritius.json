@@ -230,27 +230,31 @@
   {
    "name": "Cantharellus lateritius",
    "cname": "Smooth Chanterelle",
+   "cname_zh": "薄黃雞油菌",
    "url": "https://www.inaturalist.org/taxa/143270-Cantharellus-lateritius",
    "src": "https://static.inaturalist.org/photos/23237875/thumb.jpg"
   },
   {
    "name": "Sublaeves",
    "cname": "Cantharellus Sect. Sublaeves",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1199076-Sublaeves",
    "src": "https://static.inaturalist.org/photos/81616753/thumb.jpeg"
   },
   {
    "name": "Cantharellus lateritius var. lateritius",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/143269-Cantharellus-lateritius-lateritius",
    "src": "https://static.inaturalist.org/photos/76893755/thumb.jpg"
   },
   {
    "name": "Cantharellus lateritius var. colombianus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/143271-Cantharellus-lateritius-colombianus",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

@@ -348,15 +348,17 @@
   {
    "name": "Lycogala epidendrum",
    "cname": "Wolf's Milk",
+   "cname_zh": "粉瘤黏菌 (粉瘤菌)",
    "url": "https://www.inaturalist.org/taxa/1428454-Lycogala-epidendrum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5914975/thumb.jpeg"
   },
   {
    "name": "Lycogala epidendrum",
    "cname": "",
+   "cname_zh": "粉瘤黏菌 (粉瘤菌)",
    "url": "https://www.inaturalist.org/taxa/47680-Lycogala-epidendrum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1140317/thumb.jpg"
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

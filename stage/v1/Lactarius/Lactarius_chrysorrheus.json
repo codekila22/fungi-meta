@@ -240,21 +240,24 @@
   {
    "name": "Lactarius chrysorrheus",
    "cname": "Yellowdrop Milkcap",
+   "cname_zh": "鮭色黃汁乳菇",
    "url": "https://www.inaturalist.org/taxa/194433-Lactarius-chrysorrheus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6993818/thumb.jpg"
   },
   {
    "name": "Lactarius chrysorrheus chrysorrheus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194435-Lactarius-chrysorrheus-chrysorrheus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5575170/thumb.jpeg"
   },
   {
    "name": "Lactarius chrysorrheus immutabilis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194434-Lactarius-chrysorrheus-immutabilis",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

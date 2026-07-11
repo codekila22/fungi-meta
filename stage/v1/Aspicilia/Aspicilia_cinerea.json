@@ -130,39 +130,45 @@
   {
    "name": "Aspicilia cinerea",
    "cname": "Cinder Lichen",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182439-Aspicilia-cinerea",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24226626/thumb.jpg"
   },
   {
    "name": "Aspicilia cinerea cinereopallida",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182435-Aspicilia-cinerea-cinereopallida",
    "src": ""
   },
   {
    "name": "Aspicilia cinerea var. cinerea",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182436-Aspicilia-cinerea-cinerea",
    "src": ""
   },
   {
    "name": "Aspicilia cinerea caesiascens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182437-Aspicilia-cinerea-caesiascens",
    "src": ""
   },
   {
    "name": "Aspicilia cinerea var. atroalba",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182438-Aspicilia-cinerea-atroalba",
    "src": ""
   },
   {
    "name": "Aspicilia cinerea corticola",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182440-Aspicilia-cinerea-corticola",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

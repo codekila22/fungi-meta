@@ -311,33 +311,38 @@
   {
    "name": "Mycena epipterygia",
    "cname": "Yellowleg Bonnet",
+   "cname_zh": "黃柄小菇",
    "url": "https://www.inaturalist.org/taxa/179107-Mycena-epipterygia",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5638899/thumb.jpg"
   },
   {
    "name": "Mycena epipterygia var. lignicola",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/906235-Mycena-epipterygia-lignicola",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/244078421/thumb.jpg"
   },
   {
    "name": "Mycena epipterygia var. epipterygia",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351603-Mycena-epipterygia-epipterygia",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12345158/thumb.jpg"
   },
   {
    "name": "Mycena epipterygia var. viscosa",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/964962-Mycena-epipterygia-viscosa",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/59602937/thumb.jpg"
   },
   {
    "name": "Mycena epipterygia",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1366800-Mycena-epipterygia",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

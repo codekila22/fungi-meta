@@ -244,15 +244,17 @@
   {
    "name": "Lactarius gracilis",
    "cname": "",
+   "cname_zh": "纖細乳菇",
    "url": "https://www.inaturalist.org/taxa/1280321-Lactarius-gracilis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156418464/thumb.jpg"
   },
   {
    "name": "Lactarius lignyotus gracilis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194380-Lactarius-lignyotus-gracilis",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

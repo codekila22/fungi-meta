@@ -97,33 +97,38 @@
   {
    "name": "Pseudocyphellaria crocata",
    "cname": "Yellow Specklebelly",
+   "cname_zh": "金緣假杯點衣",
    "url": "https://www.inaturalist.org/taxa/179761-Pseudocyphellaria-crocata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/219891/thumb.jpg"
   },
   {
    "name": "Pseudocyphellaria neglecta",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/355337-Pseudocyphellaria-neglecta",
    "src": "https://static.inaturalist.org/photos/4655790/thumb.jpeg"
   },
   {
    "name": "Pseudocyphellaria crocata leucosticta",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/179757-Pseudocyphellaria-crocata-leucosticta",
    "src": ""
   },
   {
    "name": "Pseudocyphellaria crocata crocata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/179758-Pseudocyphellaria-crocata-crocata",
    "src": ""
   },
   {
    "name": "Pseudocyphellaria crocata var. isidiotyla",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/179759-Pseudocyphellaria-crocata-isidiotyla",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

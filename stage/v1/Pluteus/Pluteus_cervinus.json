@@ -160,27 +160,31 @@
   {
    "name": "Pluteus cervinus",
    "cname": "Deer Mushroom",
+   "cname_zh": "暗色光柄菇",
    "url": "https://www.inaturalist.org/taxa/60782-Pluteus-cervinus",
    "src": "https://static.inaturalist.org/photos/163162725/thumb.jpg"
   },
   {
    "name": "Pluteus atromarginatus",
    "cname": "Blackedged Shield",
+   "cname_zh": "黑邊光柄菇",
    "url": "https://www.inaturalist.org/taxa/118268-Pluteus-atromarginatus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672198/thumb.jpeg"
   },
   {
    "name": "Pluteus cervinus ssp. cervinus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351887-Pluteus-cervinus-cervinus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13077776/thumb.jpeg"
   },
   {
    "name": "Pluteus cervinus ssp. eximius",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1061509-Pluteus-cervinus-eximius",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

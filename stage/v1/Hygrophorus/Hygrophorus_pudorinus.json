@@ -86,15 +86,17 @@
   {
    "name": "Hygrophorus pudorinus",
    "cname": "Rosy Woodwax",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118323-Hygrophorus-pudorinus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24569384/thumb.jpeg"
   },
   {
    "name": "Hygrophorus pudorinus viridis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1452843-Hygrophorus-pudorinus-viridis",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

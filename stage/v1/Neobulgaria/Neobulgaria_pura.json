@@ -292,21 +292,24 @@
   {
    "name": "Neobulgaria pura",
    "cname": "Beech Jelly-Disc",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63068-Neobulgaria-pura",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/57959241/thumb.jpeg"
   },
   {
    "name": "Neobulgaria pura var. pura",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63069-Neobulgaria-pura-pura",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/104115964/thumb.jpeg"
   },
   {
    "name": "Neobulgaria pura var. foliacea",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63067-Neobulgaria-pura-foliacea",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94273056/thumb.jpg"
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

@@ -73,27 +73,31 @@
   {
    "name": "Russula cyanoxantha",
    "cname": "Charcoal Burner",
+   "cname_zh": "藍黃紅菇",
    "url": "https://www.inaturalist.org/taxa/194437-Russula-cyanoxantha",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/128039200/thumb.jpg"
   },
   {
    "name": "Russula cyanoxantha cyanoxantha",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194438-Russula-cyanoxantha-cyanoxantha",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11602876/thumb.jpg"
   },
   {
    "name": "Russula cyanoxantha var. cutefracta",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194439-Russula-cyanoxantha-cutefracta",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12744601/thumb.jpg"
   },
   {
    "name": "Russula cyanoxantha atroviolacea",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194436-Russula-cyanoxantha-atroviolacea",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

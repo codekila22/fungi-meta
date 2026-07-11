@@ -73,33 +73,38 @@
   {
    "name": "Marasmius cohaerens",
    "cname": "Bristled Parachute",
+   "cname_zh": "聯柄小皮傘",
    "url": "https://www.inaturalist.org/taxa/324151-Marasmius-cohaerens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15055505/thumb.jpg"
   },
   {
    "name": "Marasmius cohaerens var. lachnophyllus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/324153-Marasmius-cohaerens-lachnophyllus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5772825/thumb.jpeg"
   },
   {
    "name": "Marasmius cohaerens var. cohaerens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/324154-Marasmius-cohaerens-cohaerens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/124921598/thumb.jpeg"
   },
   {
    "name": "Marasmius cohaerens var. americanus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/324152-Marasmius-cohaerens-americanus",
    "src": ""
   },
   {
    "name": "Marasmius cohaerens var. orientalis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/324155-Marasmius-cohaerens-orientalis",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

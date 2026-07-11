@@ -85,15 +85,17 @@
   {
    "name": "Hygrocybe flavescens",
    "cname": "Golden Waxy Cap",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1134097-Hygrocybe-flavescens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108132202/thumb.jpg"
   },
   {
    "name": "Hygrocybe flavescens",
    "cname": "",
+   "cname_zh": "浅黃褐濕傘",
    "url": "https://www.inaturalist.org/taxa/53475-Hygrocybe-flavescens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1451471/thumb.jpg"
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

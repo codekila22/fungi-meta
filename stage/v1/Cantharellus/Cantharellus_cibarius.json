@@ -264,27 +264,31 @@
   {
    "name": "Cantharellus cibarius",
    "cname": "Golden Chanterelle",
+   "cname_zh": "雞油菇",
    "url": "https://www.inaturalist.org/taxa/47347-Cantharellus-cibarius",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/49334197/thumb.jpeg"
   },
   {
    "name": "Cantharellus roseocanus",
    "cname": "Rainbow Chanterelle",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/499666-Cantharellus-roseocanus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4161181/thumb."
   },
   {
    "name": "Cantharellus pallens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/626851-Cantharellus-pallens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18167106/thumb.jpeg"
   },
   {
    "name": "Cantharellus amethysteus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/566555-Cantharellus-amethysteus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/169080956/thumb.jpg"
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

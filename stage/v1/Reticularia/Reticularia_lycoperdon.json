@@ -221,21 +221,24 @@
   {
    "name": "Reticularia lycoperdon",
    "cname": "False Puffball",
+   "cname_zh": "假絲菌",
    "url": "https://www.inaturalist.org/taxa/145366-Reticularia-lycoperdon",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10326791/thumb.jpeg"
   },
   {
    "name": "Reticularia lycoperdon var. americanum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/494556-Reticularia-lycoperdon-americanum",
    "src": "https://static.inaturalist.org/photos/46823268/thumb.jpeg"
   },
   {
    "name": "Reticularia lycoperdon var. lycoperdon",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/494557-Reticularia-lycoperdon-lycoperdon",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

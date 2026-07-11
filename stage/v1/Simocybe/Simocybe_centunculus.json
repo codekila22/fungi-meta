@@ -242,21 +242,24 @@
   {
    "name": "Simocybe centunculus",
    "cname": "Dingy Twiglet",
+   "cname_zh": "密絨蓋傘",
    "url": "https://www.inaturalist.org/taxa/343174-Simocybe-centunculus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4137518/thumb."
   },
   {
    "name": "Simocybe centunculus var. centunculus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/500094-Simocybe-centunculus-centunculus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11142800/thumb.jpg"
   },
   {
    "name": "Simocybe centunculus var. laevigata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1062086-Simocybe-centunculus-laevigata",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

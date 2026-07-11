@@ -147,57 +147,66 @@
   {
    "name": "Peltigera canina",
    "cname": "Dog Pelt Lichen",
+   "cname_zh": "犬地卷",
    "url": "https://www.inaturalist.org/taxa/180500-Peltigera-canina",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/541265/thumb.JPG"
   },
   {
    "name": "Peltigera rufescens",
    "cname": "Field Dog Lichen",
+   "cname_zh": "地卷",
    "url": "https://www.inaturalist.org/taxa/180448-Peltigera-rufescens",
    "src": "https://static.inaturalist.org/photos/2596956/thumb.jpg"
   },
   {
    "name": "Peltigera didactyla",
    "cname": "Alternating Dog Lichen",
+   "cname_zh": "分指地卷",
    "url": "https://www.inaturalist.org/taxa/180444-Peltigera-didactyla",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/153397150/thumb.jpeg"
   },
   {
    "name": "Peltigera extenuata",
    "cname": "Sheepish Pelt Lichen",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/227386-Peltigera-extenuata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/143186813/thumb.jpeg"
   },
   {
    "name": "Peltigera canina var. attenuata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/180496-Peltigera-canina-attenuata",
    "src": ""
   },
   {
    "name": "Peltigera canina cylindrica",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/180497-Peltigera-canina-cylindrica",
    "src": ""
   },
   {
    "name": "Peltigera canina var. canina",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/180498-Peltigera-canina-canina",
    "src": ""
   },
   {
    "name": "Peltigera canina cyatheum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/180499-Peltigera-canina-cyatheum",
    "src": ""
   },
   {
    "name": "Peltigera canina albidula",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/180501-Peltigera-canina-albidula",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

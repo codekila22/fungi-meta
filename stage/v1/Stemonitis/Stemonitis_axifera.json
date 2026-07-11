@@ -133,27 +133,31 @@
   {
    "name": "Stemonitis axifera",
    "cname": "",
+   "cname_zh": "光孢髮網黏菌",
    "url": "https://www.inaturalist.org/taxa/322311-Stemonitis-axifera",
    "src": "https://static.inaturalist.org/photos/2002024/thumb.jpg"
   },
   {
    "name": "Stemonitis axifera var. smithii",
    "cname": "",
+   "cname_zh": "光孢髮網黏菌亞小變種",
    "url": "https://www.inaturalist.org/taxa/322314-Stemonitis-axifera-smithii",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112841263/thumb.jpeg"
   },
   {
    "name": "Stemonitis axifera var. axifera",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/322312-Stemonitis-axifera-axifera",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/223731242/thumb.jpg"
   },
   {
    "name": "Stemonitis axifera violacea",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/322313-Stemonitis-axifera-violacea",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

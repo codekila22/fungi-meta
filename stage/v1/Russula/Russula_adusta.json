@@ -336,39 +336,45 @@
   {
    "name": "Russula adusta",
    "cname": "Blackening Russula",
+   "cname_zh": "煙色紅菇",
    "url": "https://www.inaturalist.org/taxa/194408-Russula-adusta",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/105048597/thumb.jpg"
   },
   {
    "name": "Russula albonigra",
    "cname": "Blackening Russula",
+   "cname_zh": "白黑紅菇",
    "url": "https://www.inaturalist.org/taxa/202417-Russula-albonigra",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12705358/thumb.jpg"
   },
   {
    "name": "Russula adusta var. coerulescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194409-Russula-adusta-coerulescens",
    "src": ""
   },
   {
    "name": "Russula adusta var. adusta",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194410-Russula-adusta-adusta",
    "src": ""
   },
   {
    "name": "Russula adusta rubens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194411-Russula-adusta-rubens",
    "src": ""
   },
   {
    "name": "Russula adusta var. sabulosa",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194412-Russula-adusta-sabulosa",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

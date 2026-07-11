@@ -70,27 +70,31 @@
   {
    "name": "Mycena citrinomarginata",
    "cname": "",
+   "cname_zh": "桔色凹小菇",
    "url": "https://www.inaturalist.org/taxa/63436-Mycena-citrinomarginata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/243665469/thumb.jpg"
   },
   {
    "name": "Mycena citrinomarginata var. vestita",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63438-Mycena-citrinomarginata-vestita",
    "src": ""
   },
   {
    "name": "Mycena citrinomarginata var. citrinomarginata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63440-Mycena-citrinomarginata-citrinomarginata",
    "src": ""
   },
   {
    "name": "Mycena citrinomarginata var. truncigena",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63442-Mycena-citrinomarginata-truncigena",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

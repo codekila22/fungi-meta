@@ -78,51 +78,59 @@
   {
    "name": "Leccinum scabrum",
    "cname": "Brown Birch-Bolete",
+   "cname_zh": "褐疣柄牛肝菌",
    "url": "https://www.inaturalist.org/taxa/63232-Leccinum-scabrum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239679/thumb.jpg"
   },
   {
    "name": "Leccinum versipelle",
    "cname": "Orange Birch Bolete",
+   "cname_zh": "異色疣柄牛肝菌",
    "url": "https://www.inaturalist.org/taxa/343661-Leccinum-versipelle",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340535/thumb.jpg"
   },
   {
    "name": "Leccinum melaneum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1521478-Leccinum-melaneum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28212496/thumb.jpg"
   },
   {
    "name": "Leccinum scabrum ssp. niveum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63228-Leccinum-scabrum-niveum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/95846350/thumb.jpg"
   },
   {
    "name": "Leccinum chalybaeum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1339760-Leccinum-chalybaeum",
    "src": ""
   },
   {
    "name": "Leccinum scabrum ssp. scabrum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63226-Leccinum-scabrum-scabrum",
    "src": ""
   },
   {
    "name": "Leccinum scabrum ssp. tundrae",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63227-Leccinum-scabrum-tundrae",
    "src": ""
   },
   {
    "name": "Leccinum scabrum var. cinnamomeum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1521477-Leccinum-scabrum-cinnamomeum",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

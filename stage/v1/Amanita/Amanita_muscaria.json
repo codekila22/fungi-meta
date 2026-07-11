@@ -135,63 +135,73 @@
   {
    "name": "Amanita muscaria",
    "cname": "Fly Agaric",
+   "cname_zh": "毒蠅鵝膏菌",
    "url": "https://www.inaturalist.org/taxa/48715-Amanita-muscaria",
    "src": "https://static.inaturalist.org/photos/26555709/thumb.jpg"
   },
   {
    "name": "Amanita muscaria var. guessowii",
    "cname": "American Yellow Fly Agaric",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/321524-Amanita-muscaria-guessowii",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7073368/thumb.jpeg"
   },
   {
    "name": "Amanita muscaria ssp. flavivolvata",
    "cname": "American Fly Agaric",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/335932-Amanita-muscaria-flavivolvata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5582261/thumb.jpeg"
   },
   {
    "name": "Amanita pantherina",
    "cname": "Panthercap",
+   "cname_zh": "豹斑鵝膏",
    "url": "https://www.inaturalist.org/taxa/48418-Amanita-pantherina",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112768591/thumb.jpg"
   },
   {
    "name": "Amanita persicina",
    "cname": "Peach-Colored Fly Agaric",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/504587-Amanita-persicina",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/98976348/thumb.jpg"
   },
   {
    "name": "Amanita muscaria ssp. muscaria",
    "cname": "Eurasian Fly Agaric",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48706-Amanita-muscaria-muscaria",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18784/thumb.jpg"
   },
   {
    "name": "Amanita muscaria var. formosa",
    "cname": "Yellow-orange Fly Agaric",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1099136-Amanita-muscaria-formosa",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/51771902/thumb.jpeg"
   },
   {
    "name": "Amanita muscaria var. aureola",
    "cname": "Inzenga's Fly Agaric",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/244732-Amanita-muscaria-aureola",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94682502/thumb.jpeg"
   },
   {
    "name": "Amanita inzengae",
    "cname": "White Fly Agaric",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1149199-Amanita-inzengae",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12719555/thumb.jpg"
   },
   {
    "name": "Amanita muscaria var. alba",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1298249-Amanita-muscaria-alba",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/182600647/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

@@ -237,21 +237,24 @@
   {
    "name": "Rhizocarpon geographicum",
    "cname": "Complex Rhizocarpon Geographicum",
+   "cname_zh": "地圖衣",
    "url": "https://www.inaturalist.org/taxa/1424333-Rhizocarpon-geographicum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2681423/thumb.jpg"
   },
   {
    "name": "Rhizocarpon geographicum",
    "cname": "Yellow Map Lichen",
+   "cname_zh": "地圖衣",
    "url": "https://www.inaturalist.org/taxa/119888-Rhizocarpon-geographicum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2681423/thumb.jpg"
   },
   {
    "name": "Rhizocarpon lecanorinum",
    "cname": "Crescent Map Lichen",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/229961-Rhizocarpon-lecanorinum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5199855/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

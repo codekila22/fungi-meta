@@ -257,21 +257,24 @@
   {
    "name": "Tapinella panuoides",
    "cname": "Oyster Rollrim",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118202-Tapinella-panuoides",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/175119141/thumb.jpg"
   },
   {
    "name": "Tapinella panuoides ionipus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1464038-Tapinella-panuoides-ionipus",
    "src": ""
   },
   {
    "name": "Tapinella panuoides panuoides",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1464039-Tapinella-panuoides-panuoides",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

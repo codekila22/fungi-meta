@@ -192,21 +192,24 @@
   {
    "name": "Truncospora ochroleuca",
    "cname": "",
+   "cname_zh": "蒼白赭孔多年臥孔菌",
    "url": "https://www.inaturalist.org/taxa/1442625-Truncospora-ochroleuca",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/260474044/thumb.jpg"
   },
   {
    "name": "Truncospora ochroleuca var. brevispora",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1442627-Truncospora-ochroleuca-brevispora",
    "src": ""
   },
   {
    "name": "Truncospora ochroleuca var. ochroleuca",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1442628-Truncospora-ochroleuca-ochroleuca",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

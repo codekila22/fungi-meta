@@ -181,39 +181,45 @@
   {
    "name": "Leucocoprinus cepistipes",
    "cname": "Onion-stalk Parasol",
+   "cname_zh": "純黃白鬼傘",
    "url": "https://www.inaturalist.org/taxa/328202-Leucocoprinus-cepistipes",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22546359/thumb.jpeg"
   },
   {
    "name": "Leucocoprinus cretaceus",
    "cname": "",
+   "cname_zh": "白堊白鬼傘",
    "url": "https://www.inaturalist.org/taxa/525049-Leucocoprinus-cretaceus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110450191/thumb.jpg"
   },
   {
    "name": "Leucocoprinus cepistipes var. cepaestipes",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/496358-Leucocoprinus-cepistipes-cepaestipes",
    "src": ""
   },
   {
    "name": "Leucocoprinus cepistipes var. rorulentus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/496359-Leucocoprinus-cepistipes-rorulentus",
    "src": ""
   },
   {
    "name": "Leucocoprinus cepistipes var. hiatuloides",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/496360-Leucocoprinus-cepistipes-hiatuloides",
    "src": ""
   },
   {
    "name": "Leucocoprinus cepistipes macrosporus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/496361-Leucocoprinus-cepistipes-macrosporus",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

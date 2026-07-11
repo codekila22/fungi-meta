@@ -123,27 +123,31 @@
   {
    "name": "Craterellus lutescens",
    "cname": "Yellow Foot",
+   "cname_zh": "黃柄喇叭菌",
    "url": "https://www.inaturalist.org/taxa/514218-Craterellus-lutescens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254486691/thumb.jpeg"
   },
   {
    "name": "Craterellus lutescens niveipes",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1408797-Craterellus-lutescens-niveipes",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/342913345/thumb.jpg"
   },
   {
    "name": "Craterellus lutescens lutescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1408798-Craterellus-lutescens-lutescens",
    "src": ""
   },
   {
    "name": "Craterellus lutescens var. albidus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1408801-Craterellus-lutescens-albidus",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

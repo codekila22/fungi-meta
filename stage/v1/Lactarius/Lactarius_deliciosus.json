@@ -129,57 +129,66 @@
   {
    "name": "Lactarius deliciosus",
    "cname": "Saffron Milkcap",
+   "cname_zh": "松乳菇",
    "url": "https://www.inaturalist.org/taxa/155197-Lactarius-deliciosus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/235753421/thumb.jpeg"
   },
   {
    "name": "Lactarius deterrimus",
    "cname": "Orange-latex Milky",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194385-Lactarius-deterrimus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/172926337/thumb.jpeg"
   },
   {
    "name": "Lactarius deliciosus var. olivaceosordidus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/155199-Lactarius-deliciosus-olivaceosordidus",
    "src": "https://static.inaturalist.org/photos/164607708/thumb.jpg"
   },
   {
    "name": "Lactarius deliciosus var. areolatus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1370558-Lactarius-deliciosus-areolatus",
    "src": "https://static.inaturalist.org/photos/222110350/thumb.jpg"
   },
   {
    "name": "Lactarius deliciosus laeticolor",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/155198-Lactarius-deliciosus-laeticolor",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/234785228/thumb.jpg"
   },
   {
    "name": "Lactarius quieticolor var. hemicyaneus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1419287-Lactarius-quieticolor-hemicyaneus",
    "src": ""
   },
   {
    "name": "Lactarius deliciosus deliciosus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/155200-Lactarius-deliciosus-deliciosus",
    "src": ""
   },
   {
    "name": "Lactarius deliciosus rubescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/155201-Lactarius-deliciosus-rubescens",
    "src": ""
   },
   {
    "name": "Lactarius deliciosus virescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/155202-Lactarius-deliciosus-virescens",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

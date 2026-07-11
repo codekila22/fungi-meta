@@ -105,27 +105,31 @@
   {
    "name": "Tricholoma saponaceum",
    "cname": "Soapy Trich",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118213-Tricholoma-saponaceum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23601896/thumb.jpg"
   },
   {
    "name": "Tricholoma saponaceum var. ardosiacum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/752321-Tricholoma-saponaceum-ardosiacum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22672874/thumb.jpeg"
   },
   {
    "name": "Tricholoma boudieri",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1437033-Tricholoma-boudieri",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/111797426/thumb.jpg"
   },
   {
    "name": "Tricholoma saponaceum var. saponaceum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118208-Tricholoma-saponaceum-saponaceum",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

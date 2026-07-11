@@ -553,33 +553,38 @@
   {
    "name": "Pholiota aurivella",
    "cname": "Golden Pholiota",
+   "cname_zh": "金毛鱗傘",
    "url": "https://www.inaturalist.org/taxa/124705-Pholiota-aurivella",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2548885/thumb.JPG"
   },
   {
    "name": "Pholiota adiposa",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351817-Pholiota-adiposa",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4282429/thumb.jpg"
   },
   {
    "name": "Pholiota cerifera",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1145090-Pholiota-cerifera",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32967275/thumb.jpg"
   },
   {
    "name": "Pholiota aurivella var. aurivella",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/124708-Pholiota-aurivella-aurivella",
    "src": ""
   },
   {
    "name": "Pholiota aurivella var. squarrosipes",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/124707-Pholiota-aurivella-squarrosipes",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

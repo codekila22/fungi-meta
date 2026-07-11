@@ -99,33 +99,38 @@
   {
    "name": "Agaricus placomyces",
    "cname": "Inky Mushroom",
+   "cname_zh": "雙環林地蘑菇",
    "url": "https://www.inaturalist.org/taxa/194251-Agaricus-placomyces",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18562953/thumb.jpeg"
   },
   {
    "name": "Agaricus moelleri",
    "cname": "Inky Agaricus",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118382-Agaricus-moelleri",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245302422/thumb.jpeg"
   },
   {
    "name": "Agaricus placomyces var. microsporus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194252-Agaricus-placomyces-microsporus",
    "src": ""
   },
   {
    "name": "Agaricus placomyces var. flavescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194253-Agaricus-placomyces-flavescens",
    "src": ""
   },
   {
    "name": "Agaricus placomyces var. placomyces",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194254-Agaricus-placomyces-placomyces",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

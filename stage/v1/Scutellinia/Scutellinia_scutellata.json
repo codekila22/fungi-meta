@@ -262,15 +262,17 @@
   {
    "name": "Scutellinia scutellata",
    "cname": "Common Eyelash",
+   "cname_zh": "盾盤菌",
    "url": "https://www.inaturalist.org/taxa/49137-Scutellinia-scutellata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1454/thumb.jpg"
   },
   {
    "name": "Scutellinia crinita var. discreta",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/867800-Scutellinia-crinita-discreta",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }

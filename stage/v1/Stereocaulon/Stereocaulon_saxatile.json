@@ -147,39 +147,45 @@
   {
    "name": "Stereocaulon saxatile",
    "cname": "Rock Foam",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182534-Stereocaulon-saxatile",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2241374/thumb.JPG"
   },
   {
    "name": "Stereocaulon saxatile var. evolutoides",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182530-Stereocaulon-saxatile-evolutoides",
    "src": ""
   },
   {
    "name": "Stereocaulon saxatile var. serpens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182531-Stereocaulon-saxatile-serpens",
    "src": ""
   },
   {
    "name": "Stereocaulon saxatile sorediatum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182532-Stereocaulon-saxatile-sorediatum",
    "src": ""
   },
   {
    "name": "Stereocaulon saxatile paschaleoides",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182533-Stereocaulon-saxatile-paschaleoides",
    "src": ""
   },
   {
    "name": "Stereocaulon saxatile var. saxatile",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/182535-Stereocaulon-saxatile-saxatile",
    "src": ""
   }
  ],
- "timestamp": "20260711-064404"
+ "timestamp": "20260711-090713"
 }
