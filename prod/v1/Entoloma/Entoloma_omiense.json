@@ -185,6 +185,8 @@
   "StalkLengthRangeValuess": "40,120",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -201,15 +203,17 @@
   {
    "name": "Entoloma omiense",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/854749-Entoloma-omiense",
    "src": "https://static.inaturalist.org/photos/30298327/thumb.jpg"
   },
   {
    "name": "Entoloma omiense",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1431787-Entoloma-omiense",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

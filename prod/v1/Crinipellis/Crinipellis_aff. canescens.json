@@ -48,7 +48,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -83,9 +83,10 @@
   {
    "name": "Crinipellis canescens",
    "cname": "",
+   "cname_zh": "灰毛皮傘",
    "url": "https://www.inaturalist.org/taxa/1279969-Crinipellis-canescens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155117268/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

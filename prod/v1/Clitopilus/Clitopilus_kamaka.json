@@ -281,7 +281,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -315,9 +315,10 @@
   {
    "name": "Clitopilus kamaka",
    "cname": "",
+   "cname_zh": "岩生斜蓋傘",
    "url": "https://www.inaturalist.org/taxa/417585-Clitopilus-kamaka",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1326224/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

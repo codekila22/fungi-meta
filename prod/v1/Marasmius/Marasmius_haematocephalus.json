@@ -493,7 +493,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -527,21 +527,24 @@
   {
    "name": "Marasmius haematocephalus",
    "cname": "Purple Pinwheel",
+   "cname_zh": "紅蓋小皮傘",
    "url": "https://www.inaturalist.org/taxa/328225-Marasmius-haematocephalus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/680341/thumb.jpg"
   },
   {
    "name": "Marasmius haematocephalus var. pseudotageticolor",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351473-Marasmius-haematocephalus-pseudotageticolor",
    "src": "https://static.inaturalist.org/photos/141557480/thumb.jpg"
   },
   {
    "name": "Marasmius haematocephalus var. leucophyllus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351472-Marasmius-haematocephalus-leucophyllus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

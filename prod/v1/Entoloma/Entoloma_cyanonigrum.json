@@ -14,6 +14,7 @@
   }
  ],
  "date": [
+  "07/09/2026,27538622129154857",
   "08/03/2025,24022758217407950",
   "07/08/2025,10053131464797194",
   "09/09/2024,8009960622447632",
@@ -221,6 +222,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Entoloma_cyanonigrum_ca408f40-5c90-11f0-9856-f1a1b0884d50_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_cyanonigrum_27538622129154857_8f602420-7c70-11f1-80da-a3de4c005827_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_cyanonigrum_27538622129154857_8f602420-7c70-11f1-80da-a3de4c005827_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_cyanonigrum_27538622129154857_8f602420-7c70-11f1-80da-a3de4c005827_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_cyanonigrum_27538622129154857_8f602420-7c70-11f1-80da-a3de4c005827_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_cyanonigrum_27538622129154857_8f602420-7c70-11f1-80da-a3de4c005827_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -232,7 +253,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -248,7 +269,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -265,9 +289,10 @@
   {
    "name": "Entoloma cyanonigrum",
    "cname": "",
+   "cname_zh": "藍黑粉褶菌",
    "url": "https://www.inaturalist.org/taxa/1280322-Entoloma-cyanonigrum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156067477/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

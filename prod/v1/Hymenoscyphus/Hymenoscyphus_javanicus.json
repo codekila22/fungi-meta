@@ -227,7 +227,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -260,9 +260,10 @@
   {
    "name": "Hymenoscyphus javanicus",
    "cname": "",
+   "cname_zh": "爪哇膜盤菌",
    "url": "https://www.inaturalist.org/taxa/1239118-Hymenoscyphus-javanicus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

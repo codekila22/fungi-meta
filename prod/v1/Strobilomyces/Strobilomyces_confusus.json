@@ -2,6 +2,7 @@
  "genus": "Strobilomyces",
  "name": "confusus",
  "date": [
+  "06/29/2026,27505653022451768",
   "06/25/2025,9959941064116235",
   "08/08/2024,7856436307800065",
   "06/09/2024,7479341852176181",
@@ -311,7 +312,7 @@
   "CapShape": "",
   "CapTexture": "raised-scales",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -347,9 +348,10 @@
   {
    "name": "Strobilomyces confusus",
    "cname": "",
+   "cname_zh": "混淆松塔牛肝菌",
    "url": "https://www.inaturalist.org/taxa/127011-Strobilomyces-confusus",
    "src": "https://static.inaturalist.org/photos/24056041/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -36,7 +36,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -69,9 +69,10 @@
   {
    "name": "Descolea quercina",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1463827-Descolea-quercina",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

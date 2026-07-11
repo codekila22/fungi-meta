@@ -80,7 +80,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -116,9 +116,10 @@
   {
    "name": "Diaporthe arctii",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/407827-Diaporthe-arctii",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

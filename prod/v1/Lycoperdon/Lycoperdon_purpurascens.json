@@ -68,7 +68,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gasteroid",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -102,9 +102,10 @@
   {
    "name": "Lycoperdon purpurascens",
    "cname": "",
+   "cname_zh": "紫色摩根氏馬勃",
    "url": "https://www.inaturalist.org/taxa/765767",
    "src": "https://static.inaturalist.org/photos/40796260/square.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

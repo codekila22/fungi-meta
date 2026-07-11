@@ -71,7 +71,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -107,9 +107,10 @@
   {
    "name": "Panaeolus antillarum",
    "cname": "",
+   "cname_zh": "無環斑褶菇",
    "url": "https://www.inaturalist.org/taxa/348989-Panaeolus-antillarum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/86342115/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

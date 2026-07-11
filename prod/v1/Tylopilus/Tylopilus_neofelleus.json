@@ -138,7 +138,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -172,9 +172,10 @@
   {
    "name": "Tylopilus neofelleus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1400548-Tylopilus-neofelleus",
    "src": "https://static.inaturalist.org/photos/216714060/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

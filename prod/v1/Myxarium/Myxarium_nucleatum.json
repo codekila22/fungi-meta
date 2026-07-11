@@ -46,7 +46,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "jelly",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -79,9 +79,10 @@
   {
    "name": "Myxarium nucleatum",
    "cname": "Crystal Brain Fungus",
+   "cname_zh": "水晶腦",
    "url": "https://www.inaturalist.org/taxa/742831-Myxarium-nucleatum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/256326217/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

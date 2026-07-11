@@ -60,7 +60,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -94,33 +94,38 @@
   {
    "name": "Ramaria botrytis",
    "cname": "Rosso Coral",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48800-Ramaria-botrytis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/183302941/thumb.jpg"
   },
   {
    "name": "Ramaria botrytis var. aurantiiramosa",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/242525-Ramaria-botrytis-aurantiiramosa",
    "src": ""
   },
   {
    "name": "Ramaria botrytis var. botrytis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1051911-Ramaria-botrytis-botrytis",
    "src": ""
   },
   {
    "name": "Ramaria botrytis var. compactospora",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1497352-Ramaria-botrytis-compactospora",
    "src": ""
   },
   {
    "name": "Ramaria botrytis var. inquinata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1497353-Ramaria-botrytis-inquinata",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

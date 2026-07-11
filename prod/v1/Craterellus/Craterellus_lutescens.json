@@ -82,20 +82,20 @@
   "黄柄鸡油菌"
  ],
  "meta": {
-  "CapColors": "4294961979",
+  "CapColors": "4294962944",
   "CapDiamRangeValues": "30,80",
   "CapShape": "infundibuliform",
   "CapTexture": "",
   "CapMargin": "",
   "HymeniumType": "ridged",
-  "HymeniumColors": "4294961979",
+  "HymeniumColors": "4294962944",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "decurrent",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "central",
-  "StalkColors": "4294961979",
+  "StalkColors": "4294962944",
   "StalkTexture": "smooth",
   "StalkHollow": "hollow",
   "StalkPartialVeil": "none",
@@ -103,7 +103,10 @@
   "StalkBase": "equal",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "40,80",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -120,27 +123,31 @@
   {
    "name": "Craterellus lutescens",
    "cname": "Yellow Foot",
+   "cname_zh": "黃柄喇叭菌",
    "url": "https://www.inaturalist.org/taxa/514218-Craterellus-lutescens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254486691/thumb.jpeg"
   },
   {
    "name": "Craterellus lutescens niveipes",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1408797-Craterellus-lutescens-niveipes",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/342913345/thumb.jpg"
   },
   {
    "name": "Craterellus lutescens lutescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1408798-Craterellus-lutescens-lutescens",
    "src": ""
   },
   {
    "name": "Craterellus lutescens var. albidus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1408801-Craterellus-lutescens-albidus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

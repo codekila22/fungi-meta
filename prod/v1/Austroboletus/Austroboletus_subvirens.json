@@ -157,7 +157,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -190,9 +190,10 @@
   {
    "name": "Austroboletus subvirens",
    "cname": "",
+   "cname_zh": "淡黃綠南牛肝菌",
    "url": "https://www.inaturalist.org/taxa/895604-Austroboletus-subvirens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250431694/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

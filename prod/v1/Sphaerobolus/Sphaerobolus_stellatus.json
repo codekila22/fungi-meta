@@ -222,7 +222,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gasteroid",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -255,9 +255,10 @@
   {
    "name": "Sphaerobolus stellatus",
    "cname": "Cannonball Fungus",
+   "cname_zh": "星狀彈球菌",
    "url": "https://www.inaturalist.org/taxa/55012-Sphaerobolus-stellatus",
    "src": "https://static.inaturalist.org/photos/60104007/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

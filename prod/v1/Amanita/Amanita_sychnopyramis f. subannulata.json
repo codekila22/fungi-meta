@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "sychnopyramis f. subannulata",
  "date": [
+  "07/01/2026,27454183547598716",
   "06/11/2026,27197817559901984",
   "07/23/2025,23989434967406942",
   "06/21/2025,9945305562246452",
@@ -305,6 +306,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_sychnopyramis f. subannulata_eb8dea90-76c4-11f1-a8f2-7d719495f4b5_16.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sychnopyramis f. subannulata_d7113fa0-76eb-11f1-819e-9fa32b2d6e9d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sychnopyramis f. subannulata_d7113fa0-76eb-11f1-819e-9fa32b2d6e9d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sychnopyramis f. subannulata_d7113fa0-76eb-11f1-819e-9fa32b2d6e9d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sychnopyramis f. subannulata_d7113fa0-76eb-11f1-819e-9fa32b2d6e9d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sychnopyramis f. subannulata_d7113fa0-76eb-11f1-819e-9fa32b2d6e9d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -316,7 +337,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -352,9 +373,10 @@
   {
    "name": "Amanita sychnopyramis subannulata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1358202-Amanita-sychnopyramis-subannulata",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

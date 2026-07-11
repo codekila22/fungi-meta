@@ -53,7 +53,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -88,9 +88,10 @@
   {
    "name": "Ophiocordyceps humbertii",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/701946",
    "src": "https://static.inaturalist.org/photos/280045439/square.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

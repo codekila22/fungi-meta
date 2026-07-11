@@ -44,7 +44,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -78,21 +78,24 @@
   {
    "name": "Astrosphaeriella stellata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/350147-Astrosphaeriella-stellata",
    "src": ""
   },
   {
    "name": "Astrosphaeriella stellata var. palmicola",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/350148-Astrosphaeriella-stellata-palmicola",
    "src": ""
   },
   {
    "name": "Astrosphaeriella stellata var. stellata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1058935-Astrosphaeriella-stellata-stellata",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

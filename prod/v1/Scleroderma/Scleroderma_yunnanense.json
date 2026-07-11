@@ -139,7 +139,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gasteroid",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -172,9 +172,10 @@
   {
    "name": "Scleroderma yunnanense",
    "cname": "",
+   "cname_zh": "雲南硬皮馬勃",
    "url": "https://www.inaturalist.org/taxa/1156532-Scleroderma-yunnanense",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

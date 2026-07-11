@@ -377,21 +377,24 @@
   {
    "name": "Craterium leucocephalum",
    "cname": "",
+   "cname_zh": "白頭高杯黏菌",
    "url": "https://www.inaturalist.org/taxa/327931-Craterium-leucocephalum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12946489/thumb.jpeg"
   },
   {
    "name": "Craterium leucocephalum ssp. scyphoides",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1020776-Craterium-leucocephalum-scyphoides",
    "src": ""
   },
   {
    "name": "Craterium leucocephalum ssp. leucocephalum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1057214-Craterium-leucocephalum-leucocephalum",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

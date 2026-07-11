@@ -2,6 +2,7 @@
  "genus": "Cookeina",
  "name": "tricholoma",
  "date": [
+  "07/05/2026,27515402221476848",
   "10/23/2025,24770157672667997",
   "08/23/2025,24219732084377228",
   "07/10/2025,10068991456544528",
@@ -295,6 +296,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Cookeina_tricholoma_28f12250-b071-11f0-a962-097cbeb94eee_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cookeina_tricholoma_0213beb0-7b4e-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cookeina_tricholoma_0213beb0-7b4e-11f1-b69b-29ba5035f45b_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cookeina_tricholoma_0213beb0-7b4e-11f1-b69b-29ba5035f45b_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cookeina_tricholoma_0213beb0-7b4e-11f1-b69b-29ba5035f45b_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cookeina_tricholoma_0213beb0-7b4e-11f1-b69b-29ba5035f45b_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cookeina_tricholoma_0213beb0-7b4e-11f1-b69b-29ba5035f45b_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cookeina_tricholoma_0213beb0-7b4e-11f1-b69b-29ba5035f45b_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Cookeina_tricholoma_0213beb0-7b4e-11f1-b69b-29ba5035f45b_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -306,7 +339,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -342,9 +375,10 @@
   {
    "name": "Cookeina tricholoma",
    "cname": "Bristly Tropical Cup",
+   "cname_zh": "毛緣毛杯菌",
    "url": "https://www.inaturalist.org/taxa/204575-Cookeina-tricholoma",
    "src": "https://static.inaturalist.org/photos/66678002/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

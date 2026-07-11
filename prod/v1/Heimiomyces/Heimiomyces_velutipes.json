@@ -309,7 +309,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -345,9 +345,10 @@
   {
    "name": "Heimiomyces velutipes",
    "cname": "",
+   "cname_zh": "絨柄半皮傘",
    "url": "https://www.inaturalist.org/taxa/482114-Heimiomyces-velutipes",
    "src": "https://static.inaturalist.org/photos/1214886/thumb."
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

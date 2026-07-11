@@ -146,51 +146,59 @@
   {
    "name": "Graphis scripta",
    "cname": "Common Script Lichen",
+   "cname_zh": "文字衣",
    "url": "https://www.inaturalist.org/taxa/117987-Graphis-scripta",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/188198/thumb.jpg"
   },
   {
    "name": "Graphis scripta var. scripta",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/599493-Graphis-scripta-scripta",
    "src": ""
   },
   {
    "name": "Graphis scripta var. eutypa",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/117981-Graphis-scripta-eutypa",
    "src": ""
   },
   {
    "name": "Graphis scripta divaricata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/117982-Graphis-scripta-divaricata",
    "src": ""
   },
   {
    "name": "Graphis scripta var. abietina",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/117983-Graphis-scripta-abietina",
    "src": ""
   },
   {
    "name": "Graphis scripta diffusa",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/117984-Graphis-scripta-diffusa",
    "src": ""
   },
   {
    "name": "Graphis scripta acerina",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/117985-Graphis-scripta-acerina",
    "src": ""
   },
   {
    "name": "Graphis scripta var. cerasi",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/117986-Graphis-scripta-cerasi",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

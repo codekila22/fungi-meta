@@ -253,7 +253,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -286,39 +286,45 @@
   {
    "name": "Daedaleopsis confragosa",
    "cname": "Thin-walled Maze Polypore",
+   "cname_zh": "粗糙擬迷孔菌",
    "url": "https://www.inaturalist.org/taxa/124102-Daedaleopsis-confragosa",
    "src": "https://static.inaturalist.org/photos/242695040/thumb.jpg"
   },
   {
    "name": "Daedaleopsis tricolor",
    "cname": "",
+   "cname_zh": "三色擬迷孔菌",
    "url": "https://www.inaturalist.org/taxa/940416-Daedaleopsis-tricolor",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108638089/thumb.jpeg"
   },
   {
    "name": "Daedaleopsis confragosa sibirica",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/154743-Daedaleopsis-confragosa-sibirica",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/68439548/thumb.jpeg"
   },
   {
    "name": "Daedaleopsis confragosa confragosa",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/154744-Daedaleopsis-confragosa-confragosa",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/266883/thumb.jpg"
   },
   {
    "name": "Daedaleopsis confragosa var. bulliardii",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/154747-Daedaleopsis-confragosa-bulliardii",
    "src": ""
   },
   {
    "name": "Daedaleopsis confragosa var. rubescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/154748-Daedaleopsis-confragosa-rubescens",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

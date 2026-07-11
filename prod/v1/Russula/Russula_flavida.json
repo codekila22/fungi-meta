@@ -166,7 +166,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -199,9 +199,10 @@
   {
    "name": "Russula flavida",
    "cname": "",
+   "cname_zh": "淡黃紅菇",
    "url": "https://www.inaturalist.org/taxa/348994-Russula-flavida",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/79878163/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

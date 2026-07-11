@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "vestita",
  "date": [
+  "07/08/2026,27538881089128961",
   "06/30/2026,27420065204343884",
   "06/29/2026,27405305489153189",
   "08/01/2025,24011326428551129",
@@ -379,6 +380,42 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_vestita_0a75bc40-7480-11f1-bf31-21d8c981c20c_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_vestita_27538881089128961_134d6790-7c6f-11f1-80da-a3de4c005827_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_vestita_27538881089128961_134d6790-7c6f-11f1-80da-a3de4c005827_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_vestita_27538881089128961_134d6790-7c6f-11f1-80da-a3de4c005827_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_vestita_27538881089128961_134d6790-7c6f-11f1-80da-a3de4c005827_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_vestita_27538881089128961_134d6790-7c6f-11f1-80da-a3de4c005827_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_vestita_27538881089128961_134d6790-7c6f-11f1-80da-a3de4c005827_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_vestita_27538881089128961_134d6790-7c6f-11f1-80da-a3de4c005827_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_vestita_27538881089128961_134d6790-7c6f-11f1-80da-a3de4c005827_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_vestita_27538881089128961_134d6790-7c6f-11f1-80da-a3de4c005827_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -390,7 +427,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -423,9 +460,10 @@
   {
    "name": "Amanita vestita",
    "cname": "",
+   "cname_zh": "絨毯鵝膏",
    "url": "https://www.inaturalist.org/taxa/1425605-Amanita-vestita",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253549348/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

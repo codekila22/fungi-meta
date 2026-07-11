@@ -2,6 +2,7 @@
  "genus": "Thelephora",
  "name": "fuscella",
  "date": [
+  "07/03/2026,27492346603782410",
   "07/13/2025,10090312544412419",
   "06/20/2025,9914530595323949",
   "08/28/2023,6343005639143147",
@@ -243,7 +244,7 @@
   "CapShape": "",
   "CapTexture": "smooth",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -275,5 +276,5 @@
   "la_zhtw": "蓮座革菌,,",
   "la_zhcn": "莲座革菌,,"
  },
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

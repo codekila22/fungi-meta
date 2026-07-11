@@ -90,7 +90,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -124,9 +124,10 @@
   {
    "name": "Coltriciella dependens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/350405-Coltriciella-dependens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10170968/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

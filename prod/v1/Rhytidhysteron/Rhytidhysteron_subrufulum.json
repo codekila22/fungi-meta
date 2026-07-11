@@ -52,7 +52,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -86,9 +86,10 @@
   {
    "name": "Rhytidhysteron subrufulum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1521569",
    "src": "https://static.inaturalist.org/photos/343258811/square.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

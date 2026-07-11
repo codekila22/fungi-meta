@@ -226,7 +226,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -259,9 +259,10 @@
   {
    "name": "Phaeoclavulina abietina",
    "cname": "Green-staining Coral Mushroom",
+   "cname_zh": "變綠褐鎖瑚菌",
    "url": "https://www.inaturalist.org/taxa/351744-Phaeoclavulina-abietina",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/79406316/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

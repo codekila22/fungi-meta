@@ -147,15 +147,17 @@
   {
    "name": "Gymnopilus aeruginosus",
    "cname": "Magic Blue Gym",
+   "cname_zh": "綠褐裸傘",
    "url": "https://www.inaturalist.org/taxa/336814-Gymnopilus-aeruginosus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340269/thumb.jpg"
   },
   {
    "name": "Gymnopilus aeruginosus-luteofolius",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1474366-Gymnopilus-aeruginosus-luteofolius",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17208328/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

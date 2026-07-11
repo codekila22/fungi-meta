@@ -106,7 +106,7 @@
   "CapShape": "depressed",
   "CapTexture": "velvety",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -139,27 +139,31 @@
   {
    "name": "Lactarius torminosus",
    "cname": "Woolly Milkcap",
+   "cname_zh": "絨毛乳菇",
    "url": "https://www.inaturalist.org/taxa/351313-Lactarius-torminosus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239661/thumb.jpeg"
   },
   {
    "name": "Lactarius torminosus var. nordmanensis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1116402-Lactarius-torminosus-nordmanensis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63576070/thumb.jpeg"
   },
   {
    "name": "Lactarius torminosus var. sublateritius",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/993237-Lactarius-torminosus-sublateritius",
    "src": ""
   },
   {
    "name": "Lactarius torminosus var. torminosus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1057175-Lactarius-torminosus-torminosus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -2,6 +2,7 @@
  "genus": "Lactocollybia",
  "name": "epia",
  "date": [
+  "07/05/2026,27531391313211272",
   "06/11/2026,27174987218851685",
   "10/26/2025,24798677516482679",
   "10/05/2025,24608459325504500",
@@ -326,6 +327,42 @@
   {
    "author": "陳中城",
    "image_src": "Lactocollybia_epia_c5f771e0-66c3-11f1-9925-15ccffdc628d_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_bad90120-7bef-11f1-9fee-bf45064dbab9_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_bad90120-7bef-11f1-9fee-bf45064dbab9_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_bad90120-7bef-11f1-9fee-bf45064dbab9_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_bad90120-7bef-11f1-9fee-bf45064dbab9_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_bad90120-7bef-11f1-9fee-bf45064dbab9_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_bad90120-7bef-11f1-9fee-bf45064dbab9_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_bad90120-7bef-11f1-9fee-bf45064dbab9_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_bad90120-7bef-11f1-9fee-bf45064dbab9_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lactocollybia_epia_bad90120-7bef-11f1-9fee-bf45064dbab9_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -338,7 +375,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -372,9 +409,10 @@
   {
    "name": "Lactocollybia epia",
    "cname": "",
+   "cname_zh": "歪足乳金錢菌",
    "url": "https://www.inaturalist.org/taxa/179132-Lactocollybia-epia",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239006/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -213,7 +213,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "toothed",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -246,9 +246,10 @@
   {
    "name": "Steccherinum ochraceum",
    "cname": "Ochre Spreading Tooth",
+   "cname_zh": "赭黄齒耳菌",
    "url": "https://www.inaturalist.org/taxa/118096-Steccherinum-ochraceum",
    "src": "https://static.inaturalist.org/photos/59335984/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

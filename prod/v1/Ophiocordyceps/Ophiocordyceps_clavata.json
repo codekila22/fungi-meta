@@ -90,7 +90,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -123,9 +123,10 @@
   {
    "name": "Ophiocordyceps satoi",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/960308-Ophiocordyceps-satoi",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

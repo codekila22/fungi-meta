@@ -129,7 +129,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -162,9 +162,10 @@
   {
    "name": "Lactarius subzonarius",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1494136-Lactarius-subzonarius",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/317401917/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

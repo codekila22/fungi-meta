@@ -274,7 +274,7 @@
   "CapShape": "depressed,infundibuliform",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -310,21 +310,24 @@
   {
    "name": "Lactifluus volemus",
    "cname": "Weeping Milk Cap",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1366740-Lactifluus-volemus",
    "src": "https://static.inaturalist.org/photos/85314467/thumb.jpeg"
   },
   {
    "name": "Lactifluus volemus",
    "cname": "",
+   "cname_zh": "多汁乳菇",
    "url": "https://www.inaturalist.org/taxa/503241-Lactifluus-volemus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/173010349/thumb.jpg"
   },
   {
    "name": "Lactarius volemus var. flavus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/790319-Lactarius-volemus-flavus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13065706/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

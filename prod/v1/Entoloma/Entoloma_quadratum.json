@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "quadratum",
  "date": [
+  "07/09/2026,27538655462484857",
   "06/11/2025,9843763425734000",
   "10/14/2024,8322154197894938",
   "10/06/2024,8255448787898813",
@@ -283,6 +284,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Entoloma_quadratum_9b5830d0-8ad5-11ef-833b-379880fc41b0_21.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_quadratum_27538655462484857_5ef24c40-7cad-11f1-a3cd-67c289d55ca4_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_quadratum_27538655462484857_5ef24c40-7cad-11f1-a3cd-67c289d55ca4_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_quadratum_27538655462484857_5ef24c40-7cad-11f1-a3cd-67c289d55ca4_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_quadratum_27538655462484857_5ef24c40-7cad-11f1-a3cd-67c289d55ca4_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_quadratum_27538655462484857_5ef24c40-7cad-11f1-a3cd-67c289d55ca4_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_quadratum_27538655462484857_5ef24c40-7cad-11f1-a3cd-67c289d55ca4_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_quadratum_27538655462484857_5ef24c40-7cad-11f1-a3cd-67c289d55ca4_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_quadratum_27538655462484857_5ef24c40-7cad-11f1-a3cd-67c289d55ca4_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_quadratum_27538655462484857_5ef24c40-7cad-11f1-a3cd-67c289d55ca4_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -312,6 +349,8 @@
   "StalkLengthRangeValuess": "30,50",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -330,9 +369,10 @@
   {
    "name": "Entoloma quadratum",
    "cname": "Salmon Pinkgill",
+   "cname_zh": "方孢粉褶菌",
    "url": "https://www.inaturalist.org/taxa/362917-Entoloma-quadratum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/90070251/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

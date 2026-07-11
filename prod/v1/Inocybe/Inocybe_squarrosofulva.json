@@ -123,7 +123,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -155,5 +155,5 @@
   "la_zhtw": "蛋黃絲蓋傘,,",
   "la_zhcn": "蛋黄丝盖伞,,"
  },
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

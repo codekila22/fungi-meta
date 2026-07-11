@@ -146,7 +146,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -180,9 +180,10 @@
   {
    "name": "Gerronema strombodes",
    "cname": "Golden-gilled Gerronema",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/204813-Gerronema-strombodes",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9290104/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

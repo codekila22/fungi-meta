@@ -69,7 +69,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -103,21 +103,24 @@
   {
    "name": "Ramaria stricta",
    "cname": "Upright Coral Fungus",
+   "cname_zh": "密枝瑚菌",
    "url": "https://www.inaturalist.org/taxa/54228-Ramaria-stricta",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4162738/thumb.JPG"
   },
   {
    "name": "Ramaria stricta var. stricta",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1053127-Ramaria-stricta-stricta",
    "src": ""
   },
   {
    "name": "Ramaria stricta var. concolor",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/935805-Ramaria-stricta-concolor",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

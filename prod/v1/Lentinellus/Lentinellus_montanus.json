@@ -77,7 +77,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -111,9 +111,10 @@
   {
    "name": "Lentinellus montanus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/496915-Lentinellus-montanus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/81386630/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -144,7 +144,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "2,4",
   "StalkLengthRangeValuess": "40,50",
+  "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -161,9 +164,10 @@
   {
    "name": "Entoloma murrayi",
    "cname": "Yellow Unicorn Entoloma",
+   "cname_zh": "尖頂粉褶菌",
    "url": "https://www.inaturalist.org/taxa/203674-Entoloma-murrayi",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/414882/thumb.JPG"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

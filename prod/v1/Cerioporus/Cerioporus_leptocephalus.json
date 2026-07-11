@@ -52,7 +52,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -86,9 +86,10 @@
   {
    "name": "Cerioporus leptocephalus",
    "cname": "Blackfoot Polypore",
+   "cname_zh": "雅緻多孔菌",
    "url": "https://www.inaturalist.org/taxa/928232",
    "src": "https://static.inaturalist.org/photos/59160825/square.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

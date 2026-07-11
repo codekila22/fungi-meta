@@ -60,7 +60,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -94,27 +94,31 @@
   {
    "name": "Inocybe lacera",
    "cname": "torn fibrecap",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/179766",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/402577337/square.jpg"
   },
   {
    "name": "Inocybe helobia",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1593824",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/595410512/square.jpg"
   },
   {
    "name": "Inocybe lacera rhacodes",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1021256",
    "src": ""
   },
   {
    "name": "Inocybe lacera aberrans",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/179765",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

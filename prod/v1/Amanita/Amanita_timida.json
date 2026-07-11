@@ -89,7 +89,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -125,9 +125,10 @@
   {
    "name": "Amanita timida",
    "cname": "Timid Lepidella",
+   "cname_zh": "泛紅鵝膏",
    "url": "https://www.inaturalist.org/taxa/895597-Amanita-timida",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

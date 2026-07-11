@@ -2,7 +2,7 @@
  "name": "Coprinellus",
  "zhtw": "小鬼傘屬",
  "zhcn": "小鬼伞属",
- "timestamp": "20260703-181142",
+ "timestamp": "20260711-101424",
  "list": [
   {
    "name": "Coprinellus aureogranulatus",
@@ -21,6 +21,12 @@
    "zhtw": "簇生小鬼傘東方亞種",
    "zhcn": "簇生小鬼伞东方亚种",
    "img": "Coprinellus_disseminatus subsp. orientalis_be28b590-3fdc-11f1-92a7-41067c4fc4f6_1.jpg"
+  },
+  {
+   "name": "Coprinellus domesticus",
+   "zhtw": "家園小鬼傘",
+   "zhcn": "家园小鬼伞",
+   "img": "Coprinellus_domesticus_5a98c310-7a71-11f1-9f37-11da2773397a_1.jpg"
   },
   {
    "name": "Coprinellus heptemerus",

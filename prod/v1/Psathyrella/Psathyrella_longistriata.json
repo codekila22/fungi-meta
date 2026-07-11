@@ -124,7 +124,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -158,15 +158,17 @@
   {
    "name": "Psathyrella longistriata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118274-Psathyrella-longistriata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250040938/thumb.jpg"
   },
   {
    "name": "Psathyrella langei",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/340983-Psathyrella-langei",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

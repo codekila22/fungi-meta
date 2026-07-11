@@ -245,15 +245,17 @@
   {
    "name": "Gymnopilus junonius",
    "cname": "Spectacular Rustgill Complex",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1155105-Gymnopilus-junonius",
    "src": "https://static.inaturalist.org/photos/55739033/thumb.jpeg"
   },
   {
    "name": "Gymnopilus junonius",
    "cname": "Spectacular Rustgill",
+   "cname_zh": "黃裸傘",
    "url": "https://www.inaturalist.org/taxa/83196-Gymnopilus-junonius",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63859016/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

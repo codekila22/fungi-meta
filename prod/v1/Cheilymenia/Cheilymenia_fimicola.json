@@ -133,7 +133,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -169,9 +169,10 @@
   {
    "name": "Cheilymenia fimicola",
    "cname": "",
+   "cname_zh": "糞生緣刺盤菌",
    "url": "https://www.inaturalist.org/taxa/350586-Cheilymenia-fimicola",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109181087/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

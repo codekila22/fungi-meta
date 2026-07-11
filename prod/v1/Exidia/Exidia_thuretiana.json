@@ -106,7 +106,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "jelly",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -139,9 +139,10 @@
   {
    "name": "Exidia thuretiana",
    "cname": "White Brain",
+   "cname_zh": "腦白膠耳",
    "url": "https://www.inaturalist.org/taxa/467931-Exidia-thuretiana",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6261089/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

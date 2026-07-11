@@ -2,6 +2,7 @@
  "genus": "Cyptotrama",
  "name": "asprata",
  "date": [
+  "07/06/2026,27481232154893855",
   "06/16/2026,27245191861831220",
   "10/31/2025,24849354708081626",
   "07/30/2025,23995848113432294",
@@ -374,9 +375,10 @@
   {
    "name": "Cyptotrama asprata",
    "cname": "Golden-scruffy Collybia",
+   "cname_zh": "粗糙鱗蓋傘",
    "url": "https://www.inaturalist.org/taxa/179194-Cyptotrama-asprata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/850509/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

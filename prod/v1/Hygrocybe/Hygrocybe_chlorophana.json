@@ -58,7 +58,7 @@
   "CapShape": "",
   "CapTexture": "slimy",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -92,15 +92,17 @@
   {
    "name": "Hygrocybe chlorophana",
    "cname": "Golden Waxcap",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/53474-Hygrocybe-chlorophana",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/440214/thumb.jpg"
   },
   {
    "name": "Chlorophanae",
    "cname": "Hygrocybe Sect. Chlorophanae",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1135484-Chlorophanae",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/102271642/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

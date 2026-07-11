@@ -316,7 +316,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -349,9 +349,10 @@
   {
    "name": "Chrysomphalina aurantiaca",
    "cname": "Orange Chrysomphalina",
+   "cname_zh": "褐黃臍蓋菇",
    "url": "https://www.inaturalist.org/taxa/343259-Chrysomphalina-aurantiaca",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12439064/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

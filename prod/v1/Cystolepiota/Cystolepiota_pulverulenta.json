@@ -318,7 +318,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -351,9 +351,10 @@
   {
    "name": "Cystolepiota pulverulenta",
    "cname": "",
+   "cname_zh": "粉柄囊小傘",
    "url": "https://www.inaturalist.org/taxa/516118-Cystolepiota-pulverulenta",
    "src": "https://static.inaturalist.org/photos/5570435/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

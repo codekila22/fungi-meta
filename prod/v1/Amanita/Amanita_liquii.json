@@ -4,6 +4,7 @@
  "date": [
   "06/28/2026,27426100693740335",
   "06/24/2026,27356101107406961",
+  "06/19/2026,27477772388573165",
   "09/14/2025,24424404753909959",
   "06/11/2025,9850250371751972",
   "06/10/2025,9841973989246277",
@@ -427,6 +428,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_liquii_25a465a0-74f0-11f1-ad8d-814b59be874e_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_liquii_ad390c50-7a77-11f1-9f37-11da2773397a_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_liquii_ad390c50-7a77-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_liquii_ad390c50-7a77-11f1-9f37-11da2773397a_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_liquii_ad390c50-7a77-11f1-9f37-11da2773397a_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_liquii_ad390c50-7a77-11f1-9f37-11da2773397a_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_liquii_ad390c50-7a77-11f1-9f37-11da2773397a_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_liquii_ad390c50-7a77-11f1-9f37-11da2773397a_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_liquii_ad390c50-7a77-11f1-9f37-11da2773397a_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Amanita_liquii_ad390c50-7a77-11f1-9f37-11da2773397a_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -438,7 +475,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -472,9 +509,10 @@
   {
    "name": "Amanita liquii",
    "cname": "Dark-Faced Ringless Amanita",
+   "cname_zh": "李逵鵝膏",
    "url": "https://www.inaturalist.org/taxa/895591-Amanita-liquii",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2054364/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

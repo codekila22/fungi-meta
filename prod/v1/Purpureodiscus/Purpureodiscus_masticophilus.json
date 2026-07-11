@@ -2,6 +2,7 @@
  "genus": "Purpureodiscus",
  "name": "masticophilus",
  "date": [
+  "07/02/2026,27489210620762675",
   "06/27/2026,27382994118050993",
   "06/16/2026,27241771395506600",
   "06/16/2026,27269708076046265",
@@ -269,6 +270,30 @@
   {
    "author": "陳中城",
    "image_src": "Purpureodiscus_masticophilus_5d32af70-727c-11f1-ba2e-3b972c8fe83b_7.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Purpureodiscus_masticophilus_f1d02030-791c-11f1-9bac-25118943d88e_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Purpureodiscus_masticophilus_f1d02030-791c-11f1-9bac-25118943d88e_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Purpureodiscus_masticophilus_f1d02030-791c-11f1-9bac-25118943d88e_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Purpureodiscus_masticophilus_f1d02030-791c-11f1-9bac-25118943d88e_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Purpureodiscus_masticophilus_f1d02030-791c-11f1-9bac-25118943d88e_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Purpureodiscus_masticophilus_f1d02030-791c-11f1-9bac-25118943d88e_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -280,7 +305,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -314,9 +339,10 @@
   {
    "name": "Purpureodiscus masticophilus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1657811-Purpureodiscus-masticophilus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

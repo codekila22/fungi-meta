@@ -171,7 +171,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -205,9 +205,10 @@
   {
    "name": "Rhytisma acerinum",
    "cname": "Black Tar Spot",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/130935-Rhytisma-acerinum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/51320677/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

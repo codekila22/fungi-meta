@@ -2,6 +2,7 @@
  "genus": "Lepiota",
  "name": "fusciceps",
  "date": [
+  "07/03/2026,27493307330353004",
   "08/17/2024,7861758587267837",
   "08/12/2015,767644833345950"
  ],
@@ -38,6 +39,18 @@
   {
    "author": "陳雅芬",
    "image_src": "Lepiota_fusciceps_7_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_fusciceps_5983fd90-7946-11f1-8bd6-8f99c03357d7_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_fusciceps_5983fd90-7946-11f1-8bd6-8f99c03357d7_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lepiota_fusciceps_5983fd90-7946-11f1-8bd6-8f99c03357d7_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -82,9 +95,10 @@
   {
    "name": "Lepiota fusciceps",
    "cname": "",
+   "cname_zh": "暗褐鱗環柄菇 (灰褐鱗環柄菇)",
    "url": "https://www.inaturalist.org/taxa/1130503-Lepiota-fusciceps",
    "src": "https://static.inaturalist.org/photos/96002730/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

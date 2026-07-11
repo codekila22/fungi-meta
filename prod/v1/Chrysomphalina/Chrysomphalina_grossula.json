@@ -359,7 +359,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -392,9 +392,10 @@
   {
    "name": "Chrysomphalina grossula",
    "cname": "Green Navel",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/216850-Chrysomphalina-grossula",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4482547/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

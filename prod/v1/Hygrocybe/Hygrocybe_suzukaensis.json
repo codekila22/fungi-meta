@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "suzukaensis",
  "date": [
+  "07/08/2026,27514290474921356",
   "07/31/2025,23990518103965295",
   "08/23/2024,8294550237322001",
   "07/18/2024,7684228638354167",
@@ -219,6 +220,22 @@
   {
    "author": "徐秀團",
    "image_src": "Hygrocybe_suzukaensis_ddac9720-6f39-11f0-928c-69061c1a8caa_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_b33bb890-7ab9-11f1-9f37-11da2773397a_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_b33bb890-7ab9-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_b33bb890-7ab9-11f1-9f37-11da2773397a_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_suzukaensis_b33bb890-7ab9-11f1-9f37-11da2773397a_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -230,7 +247,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -263,9 +280,10 @@
   {
    "name": "Hygrocybe suzukaensis",
    "cname": "",
+   "cname_zh": "朱黃濕傘",
    "url": "https://www.inaturalist.org/taxa/1279965-Hygrocybe-suzukaensis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/147127915/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

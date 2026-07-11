@@ -255,7 +255,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "jelly",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -289,9 +289,10 @@
   {
    "name": "Tremella mesenterica",
    "cname": "Witch's Butter",
+   "cname_zh": "金黃銀耳",
    "url": "https://www.inaturalist.org/taxa/48529-Tremella-mesenterica",
    "src": "https://static.inaturalist.org/photos/56108682/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

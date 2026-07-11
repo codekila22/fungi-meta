@@ -121,7 +121,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -154,9 +154,10 @@
   {
    "name": "Flabellophora superposita",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1419852-Flabellophora-superposita",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

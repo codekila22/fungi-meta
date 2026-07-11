@@ -56,7 +56,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gasteroid",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -90,9 +90,10 @@
   {
    "name": "Lycoperdon mammiforme",
    "cname": "Flaky Puffball",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/856498-Lycoperdon-mammiforme",
    "src": "https://static.inaturalist.org/photos/32682062/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

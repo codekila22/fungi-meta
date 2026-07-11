@@ -100,21 +100,24 @@
   {
    "name": "Collybiopsis confluens",
    "cname": "clustered toughshank",
+   "cname_zh": "絨柄小皮傘",
    "url": "https://www.inaturalist.org/taxa/1275338",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135548/square."
   },
   {
    "name": "Collybiopsis confluens campanulata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1411602",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/446955830/square.jpg"
   },
   {
    "name": "Collybiopsis confluens confluens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1411603",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/215255043/square.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

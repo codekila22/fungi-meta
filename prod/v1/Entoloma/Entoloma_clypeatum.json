@@ -40,7 +40,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "4294951115",
   "HymeniumGillArrangement": "",
@@ -73,39 +73,45 @@
   {
    "name": "Entoloma clypeatum",
    "cname": "Shield Pinkgill",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/344650-Entoloma-clypeatum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/275868650/thumb.jpeg"
   },
   {
    "name": "Entoloma clypeatum var. defibulatum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/344651-Entoloma-clypeatum-defibulatum",
    "src": "https://static.inaturalist.org/photos/280290929/thumb.jpg"
   },
   {
    "name": "Entoloma clypeatum xanthophyllum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/344652-Entoloma-clypeatum-xanthophyllum",
    "src": ""
   },
   {
    "name": "Entoloma clypeatum hybridum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/344653-Entoloma-clypeatum-hybridum",
    "src": ""
   },
   {
    "name": "Entoloma clypeatum var. clypeatum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/344654-Entoloma-clypeatum-clypeatum",
    "src": ""
   },
   {
    "name": "Entoloma clypeatum pallidogriseum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/344655-Entoloma-clypeatum-pallidogriseum",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

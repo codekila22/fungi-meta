@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "coccinea",
  "date": [
+  "07/03/2026,27493665776983826",
   "07/30/2025,23999519449731827",
   "03/14/2021,23999519449731827"
  ],
@@ -70,6 +71,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Hygrocybe_coccinea_8c96a520-6f38-11f0-96a2-6df83981879c_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hygrocybe_coccinea_70a04cd0-79d3-11f1-b132-ff6aeba1b5da_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -81,7 +106,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -114,21 +139,24 @@
   {
    "name": "Hygrocybe coccinea",
    "cname": "Scarlet Waxy Cap",
+   "cname_zh": "緋紅濕傘",
    "url": "https://www.inaturalist.org/taxa/55245-Hygrocybe-coccinea",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5736398/thumb.jpeg"
   },
   {
    "name": "Coccineae",
    "cname": "Hygrocybe Sect. Coccineae",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1135487-Coccineae",
    "src": "https://static.inaturalist.org/photos/101619628/thumb.jpg"
   },
   {
    "name": "Coccineae",
    "cname": "Hygrocybe Subsect. Coccineae",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1135488-Coccineae",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24392890/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -48,7 +48,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -81,9 +81,10 @@
   {
    "name": "Amanita hamadae",
    "cname": "Hamada's Ringless Amanita",
+   "cname_zh": "黃邊鵝膏",
    "url": "https://www.inaturalist.org/taxa/895586-Amanita-hamadae",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

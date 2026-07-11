@@ -57,7 +57,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -90,9 +90,10 @@
   {
    "name": "Neofomitella rhodophaea",
    "cname": "",
+   "cname_zh": "半漆擬層孔菌",
    "url": "https://www.inaturalist.org/taxa/895613",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

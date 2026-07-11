@@ -118,7 +118,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -152,21 +152,24 @@
   {
    "name": "Cortinarius anomalus",
    "cname": "Variable Webcap",
+   "cname_zh": "煙灰褐絲膜菌",
    "url": "https://www.inaturalist.org/taxa/359896-Cortinarius-anomalus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/101852213/thumb.jpg"
   },
   {
    "name": "Cortinarius myxo-anomalus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1304604-Cortinarius-myxo-anomalus",
    "src": ""
   },
   {
    "name": "Cortinarius lebretonii",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1447116-Cortinarius-lebretonii",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

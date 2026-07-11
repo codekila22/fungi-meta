@@ -65,7 +65,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -101,27 +101,31 @@
   {
    "name": "Amanita hemibapha",
    "cname": "Half-Dyed Slender Caesar",
+   "cname_zh": "花柄橙紅鵝膏菌",
    "url": "https://www.inaturalist.org/taxa/350045-Amanita-hemibapha",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2069631/thumb.jpg"
   },
   {
    "name": "Amanita javanica",
    "cname": "Javan Slender Caesar",
+   "cname_zh": "爪哇鵝膏",
    "url": "https://www.inaturalist.org/taxa/371565-Amanita-javanica",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14677835/thumb.jpeg"
   },
   {
    "name": "Amanita similis",
    "cname": "Boedijn's Slender Caesar",
+   "cname_zh": "紅黃鵝膏類似亞種",
    "url": "https://www.inaturalist.org/taxa/706606-Amanita-similis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14759208/thumb.jpg"
   },
   {
    "name": "Amanita ochracea",
    "cname": "Ochraceous Slender Caesar",
+   "cname_zh": "紅黃鵝膏",
    "url": "https://www.inaturalist.org/taxa/1142828-Amanita-ochracea",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163047456/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

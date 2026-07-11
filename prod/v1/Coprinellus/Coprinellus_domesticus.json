@@ -1,0 +1,97 @@
+{
+ "genus": "Coprinellus",
+ "name": "domesticus",
+ "date": [
+  "07/04/2026,27465733496443721"
+ ],
+ "names_zhtw": [
+  "家園小鬼傘"
+ ],
+ "names_en": [],
+ "url": "27465733496443721",
+ "images": [
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinellus_domesticus_5a98c310-7a71-11f1-9f37-11da2773397a_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinellus_domesticus_5a98c310-7a71-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinellus_domesticus_5a98c310-7a71-11f1-9f37-11da2773397a_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinellus_domesticus_5a98c310-7a71-11f1-9f37-11da2773397a_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinellus_domesticus_5a98c310-7a71-11f1-9f37-11da2773397a_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinellus_domesticus_5a98c310-7a71-11f1-9f37-11da2773397a_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinellus_domesticus_5a98c310-7a71-11f1-9f37-11da2773397a_7.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Coprinellus_domesticus_5a98c310-7a71-11f1-9f37-11da2773397a_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "家园小鬼伞"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4290822336,4286141768",
+  "CapDiamRangeValues": "15,40",
+  "CapShape": "campanulate,convex",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "4286141768",
+  "HymeniumSporePrints": "4278190080",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "sinuate",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "wood",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Coprinellus radians,,",
+  "Note": "基部常有明顯的磚紅至鐵鏽色地毯狀菌絲體（ozonium）；菌蓋灰褐色，具放射狀條紋，成熟後自溶為墨汁狀液體。多生於室內腐朽木材或枯木上。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "輻毛小鬼傘,,",
+  "la_zhcn": "辐毛小鬼伞,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Coprinellus domesticus",
+   "cname": "Firerug Inkcap",
+   "cname_zh": "家園鬼傘",
+   "url": "https://www.inaturalist.org/taxa/203062",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3873632/square.jpg"
+  }
+ ],
+ "timestamp": "20260711-101424"
+}

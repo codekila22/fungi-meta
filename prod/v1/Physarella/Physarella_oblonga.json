@@ -2,6 +2,7 @@
  "genus": "Physarella",
  "name": "oblonga",
  "date": [
+  "07/07/2026,27512389691778101",
   "06/26/2026,27408126068871131",
   "12/31/2025,25387147474302344",
   "12/07/2025,25185046157845811",
@@ -704,6 +705,42 @@
   {
    "author": "江志緯",
    "image_src": "Physarella_oblonga_316a6520-7409-11f1-9416-1d75a2d94fb9_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_69b4bdf0-7a93-11f1-9f37-11da2773397a_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_69b4bdf0-7a93-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_69b4bdf0-7a93-11f1-9f37-11da2773397a_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_69b4bdf0-7a93-11f1-9f37-11da2773397a_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_69b4bdf0-7a93-11f1-9f37-11da2773397a_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_69b4bdf0-7a93-11f1-9f37-11da2773397a_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_69b4bdf0-7a93-11f1-9f37-11da2773397a_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_69b4bdf0-7a93-11f1-9f37-11da2773397a_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Physarella_oblonga_69b4bdf0-7a93-11f1-9f37-11da2773397a_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -747,9 +784,10 @@
   {
    "name": "Physarella oblonga",
    "cname": "",
+   "cname_zh": "針箍黏菌",
    "url": "https://www.inaturalist.org/taxa/327933-Physarella-oblonga",
    "src": "https://static.inaturalist.org/photos/21486829/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

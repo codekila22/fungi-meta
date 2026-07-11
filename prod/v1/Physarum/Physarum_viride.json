@@ -2,6 +2,7 @@
  "genus": "Physarum",
  "name": "viride",
  "date": [
+  "07/08/2026,27537931145890622",
   "06/01/2025,9854282574682085",
   "10/13/2024,8536303733146649",
   "10/05/2024,8238549636255395",
@@ -384,6 +385,18 @@
   {
    "author": "江志緯",
    "image_src": "Physarum_viride_953acf40-48c2-11f0-9774-edad2eebc778_13.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Physarum_viride_27537931145890622_465c3c60-7c6f-11f1-80da-a3de4c005827_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Physarum_viride_27537931145890622_465c3c60-7c6f-11f1-80da-a3de4c005827_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Physarum_viride_27537931145890622_465c3c60-7c6f-11f1-80da-a3de4c005827_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -430,9 +443,10 @@
   {
    "name": "Physarum viride",
    "cname": "",
+   "cname_zh": "綠絨泡黏菌",
    "url": "https://www.inaturalist.org/taxa/383670-Physarum-viride",
    "src": "https://static.inaturalist.org/photos/127932920/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

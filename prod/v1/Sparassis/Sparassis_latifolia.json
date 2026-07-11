@@ -74,7 +74,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -110,9 +110,10 @@
   {
    "name": "Sparassis latifolia",
    "cname": "Asian Cauliflower Mushroom",
+   "cname_zh": "廣葉繡球菌",
    "url": "https://www.inaturalist.org/taxa/781118-Sparassis-latifolia",
    "src": "https://static.inaturalist.org/photos/51103074/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

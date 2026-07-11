@@ -202,7 +202,7 @@
   "CapShape": "umbontae,conical",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "4294951115",
   "HymeniumGillArrangement": "",
@@ -220,6 +220,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -238,9 +240,10 @@
   {
    "name": "Entoloma mengsongense",
    "cname": "",
+   "cname_zh": "勐宋粉褶菌",
    "url": "https://www.inaturalist.org/taxa/1425483-Entoloma-mengsongense",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

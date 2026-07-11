@@ -106,27 +106,31 @@
   {
    "name": "Agaricus augustus",
    "cname": "The Prince",
+   "cname_zh": "大紫蘑菇",
    "url": "https://www.inaturalist.org/taxa/49547-Agaricus-augustus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22093962/thumb.jpg"
   },
   {
    "name": "Agaricus augustus var. augustus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/371459-Agaricus-augustus-augustus",
    "src": "https://static.inaturalist.org/photos/12836958/thumb.jpg"
   },
   {
    "name": "Agaricus augustus var. perrarus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/371460-Agaricus-augustus-perrarus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8823853/thumb.jpeg"
   },
   {
    "name": "Agaricus augustus var. albus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/371458-Agaricus-augustus-albus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -150,7 +150,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -183,9 +183,10 @@
   {
    "name": "Sulzbacheromyces sinensis",
    "cname": "",
+   "cname_zh": "中華麗燭衣",
    "url": "https://www.inaturalist.org/taxa/1245660-Sulzbacheromyces-sinensis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157486265/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

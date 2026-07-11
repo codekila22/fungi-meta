@@ -93,6 +93,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -111,9 +113,10 @@
   {
    "name": "Entoloma quadratum",
    "cname": "Salmon Pinkgill",
+   "cname_zh": "方孢粉褶菌",
    "url": "https://www.inaturalist.org/taxa/362917-Entoloma-quadratum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/90070251/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

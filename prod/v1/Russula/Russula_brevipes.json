@@ -54,7 +54,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -88,27 +88,31 @@
   {
    "name": "Russula brevipes",
    "cname": "Short-stemmed Russula",
+   "cname_zh": "短柄紅菇",
    "url": "https://www.inaturalist.org/taxa/118179-Russula-brevipes",
    "src": "https://static.inaturalist.org/photos/23537342/thumb.jpg"
   },
   {
    "name": "Russula brevipes var. acrior",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118178-Russula-brevipes-acrior",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/233404709/thumb.jpg"
   },
   {
    "name": "Russula brevipes var. brevipes",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118177-Russula-brevipes-brevipes",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55199455/thumb.jpg"
   },
   {
    "name": "Russula brevipes var. megaspora",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118180-Russula-brevipes-megaspora",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/165241861/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

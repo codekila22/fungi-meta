@@ -162,7 +162,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -196,9 +196,10 @@
   {
    "name": "Volvopluteus gloiocephalus",
    "cname": "Stubble Rosegill",
+   "cname_zh": "美麗黏草菇",
    "url": "https://www.inaturalist.org/taxa/348720-Volvopluteus-gloiocephalus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22624144/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

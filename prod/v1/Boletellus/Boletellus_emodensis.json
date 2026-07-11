@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/03/2026,27469968526020218",
   "07/02/2026,27444843178532753",
   "06/30/2026,27416147101402361",
   "06/24/2026,27381717711511967",
@@ -361,6 +362,14 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Boletellus_emodensis_58da49b0-745c-11f1-82bc-c9333ff88e97_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletellus_emodensis_5b9709a0-7947-11f1-8bd6-8f99c03357d7_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletellus_emodensis_5b9709a0-7947-11f1-8bd6-8f99c03357d7_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -409,9 +418,10 @@
   {
    "name": "Boletellus emodensis",
    "cname": "Shaggy Cap",
+   "cname_zh": "酒色條孢牛肝菌",
    "url": "https://www.inaturalist.org/taxa/355921-Boletellus-emodensis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/850527/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -178,7 +178,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "20,50",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -195,51 +198,59 @@
   {
    "name": "Craterellus cornucopioides",
    "cname": "Horn-of-Plenty",
+   "cname_zh": "灰喇叭菌",
    "url": "https://www.inaturalist.org/taxa/48607-Craterellus-cornucopioides",
    "src": "https://static.inaturalist.org/photos/18877/thumb.jpg"
   },
   {
    "name": "Craterellus cornucopioides var. roseus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48603-Craterellus-cornucopioides-roseus",
    "src": ""
   },
   {
    "name": "Craterellus cornucopioides var. mediosporus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48604-Craterellus-cornucopioides-mediosporus",
    "src": ""
   },
   {
    "name": "Craterellus cornucopioides var. flavicans",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48605-Craterellus-cornucopioides-flavicans",
    "src": ""
   },
   {
    "name": "Craterellus cornucopioides var. multiplex",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48606-Craterellus-cornucopioides-multiplex",
    "src": ""
   },
   {
    "name": "Craterellus cornucopioides var. parvisporus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48608-Craterellus-cornucopioides-parvisporus",
    "src": ""
   },
   {
    "name": "Craterellus cornucopioides var. cornucopioides",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48609-Craterellus-cornucopioides-cornucopioides",
    "src": ""
   },
   {
    "name": "Craterellus cornucopioides var. crispus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48610-Craterellus-cornucopioides-crispus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

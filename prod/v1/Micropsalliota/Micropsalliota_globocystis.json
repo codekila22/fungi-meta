@@ -154,7 +154,7 @@
   "CapShape": "umbontae",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -188,9 +188,10 @@
   {
    "name": "Micropsalliota globocystis",
    "cname": "",
+   "cname_zh": "球囊小蘑菇",
    "url": "https://www.inaturalist.org/taxa/1552465-Micropsalliota-globocystis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/382206200/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

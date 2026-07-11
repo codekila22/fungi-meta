@@ -192,7 +192,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -226,9 +226,10 @@
   {
    "name": "Hymenochaete floridea",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/382641-Hymenochaete-floridea",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

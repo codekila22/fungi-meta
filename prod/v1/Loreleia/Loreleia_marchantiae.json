@@ -69,7 +69,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -103,9 +103,10 @@
   {
    "name": "Loreleia marchantiae",
    "cname": "Liverwort Navel",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/850982-Loreleia-marchantiae",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/406835973/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

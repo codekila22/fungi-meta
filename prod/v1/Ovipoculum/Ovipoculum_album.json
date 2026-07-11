@@ -276,7 +276,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "jelly",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -304,7 +304,8 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "高海拔地區物種。",
+  "Elevation": "high",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

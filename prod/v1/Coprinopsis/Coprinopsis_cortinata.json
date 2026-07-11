@@ -59,7 +59,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -95,9 +95,10 @@
   {
    "name": "Coprinopsis cortinata",
    "cname": "",
+   "cname_zh": "絲膜似鬼傘",
    "url": "https://www.inaturalist.org/taxa/874945-Coprinopsis-cortinata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156356553/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -2,6 +2,7 @@
  "genus": "Perichaena",
  "name": "depressa",
  "date": [
+  "07/05/2026,27533678996315837",
   "12/07/2025,25202301896120237",
   "11/24/2025,25075096468840781",
   "11/09/2025,24935836876100075",
@@ -250,6 +251,58 @@
   {
    "author": "江志緯",
    "image_src": "Perichaena_depressa_29ba44a0-d592-11f0-9a1d-e76a7210304d_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Perichaena_depressa_67192c60-7c10-11f1-85b9-ad74874ac48f_13.jpg"
   }
  ],
  "names_zhcn": [
@@ -294,9 +347,10 @@
   {
    "name": "Perichaena depressa",
    "cname": "",
+   "cname_zh": "扁蓋碗黏菌",
    "url": "https://www.inaturalist.org/taxa/327949-Perichaena-depressa",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13379435/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

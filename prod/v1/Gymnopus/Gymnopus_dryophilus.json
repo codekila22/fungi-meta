@@ -188,21 +188,24 @@
   {
    "name": "Gymnopus dryophilus",
    "cname": "Oak-loving Gymnopus",
+   "cname_zh": "櫟生金錢菌",
    "url": "https://www.inaturalist.org/taxa/130915-Gymnopus-dryophilus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11990816/thumb.jpg"
   },
   {
    "name": "Gymnopus dryophilus var. dryophilus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1053773-Gymnopus-dryophilus-dryophilus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24572928/thumb.jpeg"
   },
   {
    "name": "Gymnopus dryophilus var. lanipes",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/130916-Gymnopus-dryophilus-lanipes",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

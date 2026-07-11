@@ -2,6 +2,7 @@
  "genus": "Megacollybia",
  "name": "clitocyboidea",
  "date": [
+  "07/03/2026,27492505420433195",
   "10/25/2025,24791680417182389",
   "08/29/2025,25372537039096721",
   "05/29/2024,7432450506865316",
@@ -198,6 +199,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Megacollybia_clitocyboidea_6063ddd0-e574-11f0-8312-45dd2dbdc240_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Megacollybia_clitocyboidea_9c5eb4c0-7946-11f1-8bd6-8f99c03357d7_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Megacollybia_clitocyboidea_9c5eb4c0-7946-11f1-8bd6-8f99c03357d7_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Megacollybia_clitocyboidea_9c5eb4c0-7946-11f1-8bd6-8f99c03357d7_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Megacollybia_clitocyboidea_9c5eb4c0-7946-11f1-8bd6-8f99c03357d7_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Megacollybia_clitocyboidea_9c5eb4c0-7946-11f1-8bd6-8f99c03357d7_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -209,7 +230,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -245,9 +266,10 @@
   {
    "name": "Megacollybia clitocyboidea",
    "cname": "",
+   "cname_zh": "杯粉孢大金錢菇",
    "url": "https://www.inaturalist.org/taxa/1097549-Megacollybia-clitocyboidea",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/85863927/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

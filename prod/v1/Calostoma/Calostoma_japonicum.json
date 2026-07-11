@@ -2,6 +2,8 @@
  "genus": "Calostoma",
  "name": "japonicum",
  "date": [
+  "07/07/2026,27492458483771222",
+  "06/30/2026,27454926484191089",
   "06/16/2026,27244771025206637",
   "11/03/2025,24928434016840361",
   "09/27/2025,25325873573763068",
@@ -331,6 +333,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Calostoma_japonicum_90838d70-6a04-11f1-8183-a136ae3cbbfa_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calostoma_japonicum_45c8cbb0-76ed-11f1-9862-b327dcab099d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calostoma_japonicum_45c8cbb0-76ed-11f1-9862-b327dcab099d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calostoma_japonicum_45c8cbb0-76ed-11f1-9862-b327dcab099d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calostoma_japonicum_45c8cbb0-76ed-11f1-9862-b327dcab099d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calostoma_japonicum_45c8cbb0-76ed-11f1-9862-b327dcab099d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calostoma_japonicum_45c8cbb0-76ed-11f1-9862-b327dcab099d_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_1c1b4390-7a05-11f1-bef5-4bf57cd7d16b_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_1c1b4390-7a05-11f1-bef5-4bf57cd7d16b_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_1c1b4390-7a05-11f1-bef5-4bf57cd7d16b_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -376,9 +414,10 @@
   {
    "name": "Calostoma japonicum",
    "cname": "",
+   "cname_zh": "日本麗口包",
    "url": "https://www.inaturalist.org/taxa/604043-Calostoma-japonicum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11055950/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

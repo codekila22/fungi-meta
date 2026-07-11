@@ -244,27 +244,31 @@
   {
    "name": "Pleurotus djamor",
    "cname": "Pink Oyster Mushroom",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1352662-Pleurotus-djamor",
    "src": "https://static.inaturalist.org/photos/42476189/thumb.jpg"
   },
   {
    "name": "Pleurotus djamor",
    "cname": "",
+   "cname_zh": "桃紅側耳",
    "url": "https://www.inaturalist.org/taxa/328233-Pleurotus-djamor",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340362/thumb.jpg"
   },
   {
    "name": "Pleurotus djamor var. roseus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/559205-Pleurotus-djamor-roseus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13064477/thumb.jpeg"
   },
   {
    "name": "Pleurotus djamor var. djamor",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1055898-Pleurotus-djamor-djamor",
    "src": "https://static.inaturalist.org/photos/127650465/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

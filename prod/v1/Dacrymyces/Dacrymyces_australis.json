@@ -171,7 +171,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "jelly",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -205,9 +205,10 @@
   {
    "name": "Dacrymyces australis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1305885-Dacrymyces-australis",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

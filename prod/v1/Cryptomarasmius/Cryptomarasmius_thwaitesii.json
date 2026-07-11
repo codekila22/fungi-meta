@@ -245,7 +245,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -279,9 +279,10 @@
   {
    "name": "Cryptomarasmius thwaitesii",
    "cname": "",
+   "cname_zh": "思韋茨隱皮傘",
    "url": "https://www.inaturalist.org/taxa/936582-Cryptomarasmius-thwaitesii",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

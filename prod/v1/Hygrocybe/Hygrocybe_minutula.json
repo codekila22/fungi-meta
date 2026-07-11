@@ -228,7 +228,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -261,21 +261,24 @@
   {
    "name": "Hygrocybe minutula",
    "cname": "",
+   "cname_zh": "小濕黏傘",
    "url": "https://www.inaturalist.org/taxa/499792",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5496292/square.jpg"
   },
   {
    "name": "Hygrocybe minutula nanangensis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/499793",
    "src": ""
   },
   {
    "name": "Hygrocybe minutula minutula",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1059188",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

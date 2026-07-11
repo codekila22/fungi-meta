@@ -52,7 +52,7 @@
   "CapShape": "",
   "CapTexture": "fine-scales",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -86,9 +86,10 @@
   {
    "name": "Cortinarius nigrosquamosus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1362726-Cortinarius-nigrosquamosus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -28,7 +28,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -61,9 +61,10 @@
   {
    "name": "Daedaleopsis nipponica",
    "cname": "",
+   "cname_zh": "紫帶擬迷孔菌",
    "url": "https://www.inaturalist.org/taxa/1426727-Daedaleopsis-nipponica",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

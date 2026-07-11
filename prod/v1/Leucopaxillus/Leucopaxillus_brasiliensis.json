@@ -2,7 +2,8 @@
  "genus": "Leucopaxillus",
  "name": "brasiliensis",
  "date": [
-  "05/02/2026,27331813456502393"
+  "05/02/2026,27331813456502393",
+  "05/02/2026,27510397938643943"
  ],
  "names_zhtw": [
   "巴西白樁菇"
@@ -49,6 +50,54 @@
   {
    "author": "向高世",
    "image_src": "Leucopaxillus_brasiliensis_9603a980-6fa7-11f1-95ca-39b2ed0a22ae_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -60,7 +109,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -94,9 +143,10 @@
   {
    "name": "Leucopaxillus brasiliensis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1414364",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/158199549/square.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

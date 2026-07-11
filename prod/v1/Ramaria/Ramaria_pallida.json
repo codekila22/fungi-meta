@@ -48,7 +48,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -82,21 +82,24 @@
   {
    "name": "Ramaria pallida",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/847830-Ramaria-pallida",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/114844438/thumb.jpg"
   },
   {
    "name": "Ramaria rubricarnata var. pallida",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/204728-Ramaria-rubricarnata-pallida",
    "src": ""
   },
   {
    "name": "Ramaria pallida lactea",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1497370-Ramaria-pallida-lactea",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

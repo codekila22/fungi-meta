@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "chrysorrheus",
  "date": [
+  "07/02/2026,27490112807339123",
   "07/22/2024,7705785939531770",
   "09/23/2023,6855900884520284",
   "08/22/2021,4064505896993144"
@@ -175,6 +176,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Lactarius_chrysorrheus_6ddbba30-93b1-109f-a7f5-5d1b76e45e04_17.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_chrysorrheus_f9ad97d0-791a-11f1-9bac-25118943d88e_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_chrysorrheus_f9ad97d0-791a-11f1-9bac-25118943d88e_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_chrysorrheus_f9ad97d0-791a-11f1-9bac-25118943d88e_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_chrysorrheus_f9ad97d0-791a-11f1-9bac-25118943d88e_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_chrysorrheus_f9ad97d0-791a-11f1-9bac-25118943d88e_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -186,7 +207,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -219,21 +240,24 @@
   {
    "name": "Lactarius chrysorrheus",
    "cname": "Yellowdrop Milkcap",
+   "cname_zh": "鮭色黃汁乳菇",
    "url": "https://www.inaturalist.org/taxa/194433-Lactarius-chrysorrheus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6993818/thumb.jpg"
   },
   {
    "name": "Lactarius chrysorrheus chrysorrheus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194435-Lactarius-chrysorrheus-chrysorrheus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5575170/thumb.jpeg"
   },
   {
    "name": "Lactarius chrysorrheus immutabilis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194434-Lactarius-chrysorrheus-immutabilis",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

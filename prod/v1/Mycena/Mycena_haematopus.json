@@ -416,39 +416,45 @@
   {
    "name": "Mycena haematopus",
    "cname": "Bleeding Fairy Helmet",
+   "cname_zh": "紅汁小菇",
    "url": "https://www.inaturalist.org/taxa/63460-Mycena-haematopus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/162166136/thumb.jpeg"
   },
   {
    "name": "Mycena haematopus var. marginata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63463-Mycena-haematopus-marginata",
    "src": "https://static.inaturalist.org/photos/8528848/thumb.jpg"
   },
   {
    "name": "Mycena haematopus var. chilensis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63462-Mycena-haematopus-chilensis",
    "src": ""
   },
   {
    "name": "Mycena haematopus var. cuspidata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63465-Mycena-haematopus-cuspidata",
    "src": ""
   },
   {
    "name": "Mycena haematopus var. haematopus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63461-Mycena-haematopus-haematopus",
    "src": ""
   },
   {
    "name": "Mycena haematopus var. umbilicata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63464-Mycena-haematopus-umbilicata",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -61,7 +61,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -94,9 +94,10 @@
   {
    "name": "Fuscoporia formosana",
    "cname": "",
+   "cname_zh": "福爾摩沙纖孔菌",
    "url": "https://www.inaturalist.org/taxa/895564-Fuscoporia-formosana",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

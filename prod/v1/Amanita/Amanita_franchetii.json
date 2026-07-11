@@ -123,21 +123,24 @@
   {
    "name": "Amanita franchetii",
    "cname": "Franchet's Amanita",
+   "cname_zh": "黃疣膜鵝膏",
    "url": "https://www.inaturalist.org/taxa/118396-Amanita-franchetii",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109638429/thumb.jpg"
   },
   {
    "name": "Amanita franchetii var. lactella",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/424822-Amanita-franchetii-lactella",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5928421/thumb.jpeg"
   },
   {
    "name": "Amanita franchetii var. franchetii",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/424823-Amanita-franchetii-franchetii",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

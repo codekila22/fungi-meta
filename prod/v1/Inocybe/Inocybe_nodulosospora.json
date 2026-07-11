@@ -44,7 +44,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -78,9 +78,10 @@
   {
    "name": "Inocybe nodulosospora",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1473651-Inocybe-nodulosospora",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

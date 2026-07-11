@@ -178,7 +178,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -211,9 +211,10 @@
   {
    "name": "Kretzschmaria neocaledonica",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/897926-Kretzschmaria-neocaledonica",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

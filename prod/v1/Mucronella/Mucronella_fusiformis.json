@@ -183,7 +183,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "toothed",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -216,9 +216,10 @@
   {
    "name": "Mucronella fusiformis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/499685-Mucronella-fusiformis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4136982/thumb."
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

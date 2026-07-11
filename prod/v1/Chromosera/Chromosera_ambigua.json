@@ -36,7 +36,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -70,9 +70,10 @@
   {
    "name": "Chromosera ambigua",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1228425-Chromosera-ambigua",
    "src": "https://static.inaturalist.org/photos/253408633/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

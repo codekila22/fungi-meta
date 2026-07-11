@@ -382,7 +382,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -414,9 +414,10 @@
   {
    "name": "Pyrrhoglossum stipitatum",
    "cname": "",
+   "cname_zh": "柄多舌菌",
    "url": "https://www.inaturalist.org/taxa/1161201-Pyrrhoglossum-stipitatum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/107845215/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

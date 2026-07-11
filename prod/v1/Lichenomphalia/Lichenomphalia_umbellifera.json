@@ -3,6 +3,7 @@
  "name": "umbellifera",
  "date": [
   "04/05/2025,9339362196174128",
+  "05/29/2024,27544561555227581",
   "08/01/2023,6261949920582053",
   "05/21/2022,7820135244763505",
   "03/14/2021,3596250993818639"
@@ -124,6 +125,54 @@
   {
    "author": "吳湯姆",
    "image_src": "Lichenomphalia_umbellifera_2960a020-181a-11f0-9a5c-1b9618bccf0e_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -135,7 +184,7 @@
   "CapShape": "depressed",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "subdistant",
@@ -152,12 +201,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "10,20",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground,moss",
   "Bruising": "",
-  "Bioluminescent": "",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -170,9 +221,10 @@
   {
    "name": "Lichenomphalia umbellifera",
    "cname": "Lichen Agaric",
+   "cname_zh": "傘形地衣臍菇",
    "url": "https://www.inaturalist.org/taxa/118245-Lichenomphalia-umbellifera",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176457235/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

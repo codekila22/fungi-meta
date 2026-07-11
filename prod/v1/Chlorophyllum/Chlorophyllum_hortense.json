@@ -186,7 +186,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -222,9 +222,10 @@
   {
    "name": "Chlorophyllum hortense",
    "cname": "",
+   "cname_zh": "庭院青褶傘",
    "url": "https://www.inaturalist.org/taxa/179126-Chlorophyllum-hortense",
    "src": "https://static.inaturalist.org/photos/30117443/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

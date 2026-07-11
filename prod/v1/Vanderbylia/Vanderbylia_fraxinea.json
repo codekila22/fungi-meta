@@ -49,7 +49,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -82,9 +82,10 @@
   {
    "name": "Vanderbylia fraxinea",
    "cname": "",
+   "cname_zh": "白蠟多年臥孔菌",
    "url": "https://www.inaturalist.org/taxa/1124968",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/244849195/square.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

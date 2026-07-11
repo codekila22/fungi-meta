@@ -135,7 +135,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -169,15 +169,17 @@
   {
    "name": "Xylaria flabelliformis",
    "cname": "",
+   "cname_zh": "古巴炭角菌",
    "url": "https://www.inaturalist.org/taxa/973344-Xylaria-flabelliformis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156815725/thumb.jpg"
   },
   {
    "name": "Xylaria cubensis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1366851-Xylaria-cubensis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/184246677/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

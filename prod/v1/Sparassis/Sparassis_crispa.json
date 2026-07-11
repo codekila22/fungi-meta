@@ -176,7 +176,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -212,15 +212,17 @@
   {
    "name": "Sparassis crispa",
    "cname": "Cauliflower Fungus",
+   "cname_zh": "繡球菌",
    "url": "https://www.inaturalist.org/taxa/63014-Sparassis-crispa",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/177899698/thumb.jpg"
   },
   {
    "name": "Sparassis brevipes",
    "cname": "",
+   "cname_zh": "短柄繡球菌",
    "url": "https://www.inaturalist.org/taxa/875165-Sparassis-brevipes",
    "src": "https://static.inaturalist.org/photos/49782356/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

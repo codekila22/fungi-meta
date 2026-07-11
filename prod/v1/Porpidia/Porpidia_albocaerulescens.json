@@ -333,21 +333,24 @@
   {
    "name": "Porpidia albocaerulescens",
    "cname": "Smokey-eyed Boulder Lichen",
+   "cname_zh": "白藍假網衣",
    "url": "https://www.inaturalist.org/taxa/125773-Porpidia-albocaerulescens",
    "src": "https://static.inaturalist.org/photos/185877972/thumb.jpeg"
   },
   {
    "name": "Porpidia albocaerulescens var. polycarpiza",
    "cname": "",
+   "cname_zh": "白藍假網衣多果變種",
    "url": "https://www.inaturalist.org/taxa/463865-Porpidia-albocaerulescens-polycarpiza",
    "src": ""
   },
   {
    "name": "Porpidia albocaerulescens var. albocaerulescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/125726-Porpidia-albocaerulescens-albocaerulescens",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -32,7 +32,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -65,9 +65,10 @@
   {
    "name": "Laricifomes officinalis",
    "cname": "Quinine Conk",
+   "cname_zh": "药用拟层孔菌",
    "url": "https://www.inaturalist.org/taxa/135216-Laricifomes-officinalis",
    "src": "https://static.inaturalist.org/photos/772008/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

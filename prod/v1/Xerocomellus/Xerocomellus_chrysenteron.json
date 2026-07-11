@@ -142,7 +142,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -175,9 +175,10 @@
   {
    "name": "Xerocomellus chrysenteron",
    "cname": "Red-cracking Bolete",
+   "cname_zh": "光柄絨蓋牛肝菌",
    "url": "https://www.inaturalist.org/taxa/438013-Xerocomellus-chrysenteron",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/102882001/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

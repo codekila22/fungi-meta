@@ -82,7 +82,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -118,9 +118,10 @@
   {
    "name": "Xylaria furcata",
    "cname": "",
+   "cname_zh": "叉狀炭角菌",
    "url": "https://www.inaturalist.org/taxa/384766-Xylaria-furcata",
    "src": "https://static.inaturalist.org/photos/94536546/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

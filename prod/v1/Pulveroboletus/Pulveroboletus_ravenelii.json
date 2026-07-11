@@ -276,7 +276,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -310,9 +310,10 @@
   {
    "name": "Pulveroboletus ravenelii",
    "cname": "Powdery Sulfur Bolete",
+   "cname_zh": "黃粉末牛肝菌",
    "url": "https://www.inaturalist.org/taxa/352159-Pulveroboletus-ravenelii",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13989797/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

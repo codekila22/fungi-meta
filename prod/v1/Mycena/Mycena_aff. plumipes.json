@@ -48,7 +48,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "striated",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -82,9 +82,10 @@
   {
    "name": "Mycena plumipes",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1000600-Mycena-plumipes",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250074043/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

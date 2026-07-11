@@ -136,7 +136,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "toothed",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -170,9 +170,10 @@
   {
    "name": "Junghuhnia aurantilaeta",
    "cname": "",
+   "cname_zh": "紅黃容氏菌",
    "url": "https://www.inaturalist.org/taxa/895576",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

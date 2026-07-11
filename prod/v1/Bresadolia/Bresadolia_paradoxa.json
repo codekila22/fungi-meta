@@ -44,7 +44,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -80,9 +80,10 @@
   {
    "name": "Bresadolia paradoxa",
    "cname": "",
+   "cname_zh": "奇異布氏孔菌",
    "url": "https://www.inaturalist.org/taxa/965533-Bresadolia-paradoxa",
    "src": "https://static.inaturalist.org/photos/53981811/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

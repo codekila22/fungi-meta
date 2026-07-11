@@ -69,7 +69,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -103,9 +103,10 @@
   {
    "name": "Multiclavula petricola",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1647243-Multiclavula-petricola",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

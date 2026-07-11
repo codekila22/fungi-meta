@@ -100,7 +100,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -133,27 +133,31 @@
   {
    "name": "Panaeolus papilionaceus",
    "cname": "Petticoat Mottlegill",
+   "cname_zh": "蝶型斑褶菇",
    "url": "https://www.inaturalist.org/taxa/118263-Panaeolus-papilionaceus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/93607814/thumb.jpg"
   },
   {
    "name": "Panaeolus papilionaceus var. parvisporus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/179101-Panaeolus-papilionaceus-parvisporus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6081397/thumb.jpeg"
   },
   {
    "name": "Panaeolus papilionaceus var. capitatocystis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1451926-Panaeolus-papilionaceus-capitatocystis",
    "src": "https://static.inaturalist.org/photos/167065867/thumb.jpg"
   },
   {
    "name": "Panaeolus papilionaceus var. papilionaceus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118260-Panaeolus-papilionaceus-papilionaceus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

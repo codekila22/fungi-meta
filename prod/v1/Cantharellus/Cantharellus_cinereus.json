@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/09/2026,27538530892497314",
   "06/25/2026,27352096967807375",
   "06/21/2026,27307282552288817",
   "06/26/2025,9973971966046478",
@@ -282,6 +283,26 @@
   {
    "author": "何俊霖",
    "image_src": "Cantharellus_cinereus_1c6eedd0-6d4c-11f1-85c0-b7e446cb4cfb_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cinereus_27538530892497314_979e8b00-7c6f-11f1-80da-a3de4c005827_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cinereus_27538530892497314_979e8b00-7c6f-11f1-80da-a3de4c005827_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cinereus_27538530892497314_979e8b00-7c6f-11f1-80da-a3de4c005827_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cinereus_27538530892497314_979e8b00-7c6f-11f1-80da-a3de4c005827_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cinereus_27538530892497314_979e8b00-7c6f-11f1-80da-a3de4c005827_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -309,7 +330,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
@@ -326,9 +350,10 @@
   {
    "name": "Craterellus cinereus",
    "cname": "Ashen Chanterelle",
+   "cname_zh": "灰色雞油菌",
    "url": "https://www.inaturalist.org/taxa/350509-Craterellus-cinereus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29157267/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

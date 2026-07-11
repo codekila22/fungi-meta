@@ -40,7 +40,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -73,9 +73,10 @@
   {
    "name": "Hohenbuehelia myxotricha",
    "cname": "",
+   "cname_zh": "粘毛亞側耳",
    "url": "https://www.inaturalist.org/taxa/875040-Hohenbuehelia-myxotricha",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

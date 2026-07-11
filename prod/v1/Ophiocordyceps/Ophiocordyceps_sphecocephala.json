@@ -174,7 +174,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -209,9 +209,10 @@
   {
    "name": "Ophiocordyceps sphecocephala",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/353218-Ophiocordyceps-sphecocephala",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30668698/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

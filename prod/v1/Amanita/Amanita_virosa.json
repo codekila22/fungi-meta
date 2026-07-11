@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "virosa",
  "date": [
+  "07/08/2026,27539095642440839",
   "08/03/2025,24022827600734345",
   "09/05/2024,7982925795151115",
   "07/06/2024,7631534413623590",
@@ -187,6 +188,54 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_virosa_a92c73d0-7051-11f0-8902-73e605cc6b50_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_virosa_27539095642440839_f7aa5370-7cac-11f1-a3cd-67c289d55ca4_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -217,6 +266,8 @@
   "StalkLengthRangeValuess": "70,100",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -235,9 +286,10 @@
   {
    "name": "Amanita virosa",
    "cname": "European Destroying Angel",
+   "cname_zh": "鱗柄白鵝膏",
    "url": "https://www.inaturalist.org/taxa/58685-Amanita-virosa",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110521312/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

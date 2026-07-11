@@ -91,7 +91,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -127,21 +127,24 @@
   {
    "name": "Amanita sychnopyramis",
    "cname": "Forest of Pyramids Amanita",
+   "cname_zh": "殘托鵝膏",
    "url": "https://www.inaturalist.org/taxa/895600-Amanita-sychnopyramis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40321669/thumb.jpeg"
   },
   {
    "name": "Amanita sychnopyramis subannulata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1358202-Amanita-sychnopyramis-subannulata",
    "src": ""
   },
   {
    "name": "Amanita sychnopyramis sychnopyramis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1358203-Amanita-sychnopyramis-sychnopyramis",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

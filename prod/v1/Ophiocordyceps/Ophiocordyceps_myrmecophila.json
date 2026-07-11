@@ -247,7 +247,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -282,15 +282,17 @@
   {
    "name": "Ophiocordyceps myrmecophila",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1290504-Ophiocordyceps-myrmecophila",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/150167944/thumb.jpg"
   },
   {
    "name": "Ophiocordyceps myrmecophila",
    "cname": "",
+   "cname_zh": "蟻蟲草、蟻蛇形蟲草",
    "url": "https://www.inaturalist.org/taxa/976242-Ophiocordyceps-myrmecophila",
    "src": "https://static.inaturalist.org/photos/189310415/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

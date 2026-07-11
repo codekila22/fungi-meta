@@ -146,7 +146,7 @@
   "CapShape": "",
   "CapTexture": "slimy",
   "CapMargin": "striated",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -179,9 +179,10 @@
   {
    "name": "Bolbitius reticulatus",
    "cname": "Netted Fieldcap",
+   "cname_zh": "網狀糞傘",
    "url": "https://www.inaturalist.org/taxa/205149-Bolbitius-reticulatus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/252875/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

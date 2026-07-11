@@ -2,6 +2,7 @@
  "genus": "Dendrosphaera",
  "name": "eberhardti",
  "date": [
+  "07/03/2026,27464197029930701",
   "11/07/2025,24939132309103865",
   "06/25/2023,6168430143267365",
   "11/19/2021,4337805452996519",
@@ -192,6 +193,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Dendrosphaera_eberhardti_bc4a03a0-bfad-11f0-ba8e-5f131e52296a_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dendrosphaera_eberhardti_1bf49ad0-776a-11f1-a234-5f544a904c7f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dendrosphaera_eberhardti_1bf49ad0-776a-11f1-a234-5f544a904c7f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dendrosphaera_eberhardti_1bf49ad0-776a-11f1-a234-5f544a904c7f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dendrosphaera_eberhardti_1bf49ad0-776a-11f1-a234-5f544a904c7f_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -203,7 +220,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -230,5 +247,14 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260703-181142"
+ "inaturalist": [
+  {
+   "name": "Dendrosphaera eberhardtii",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1038627",
+   "src": "https://static.inaturalist.org/photos/396341229/square.jpeg"
+  }
+ ],
+ "timestamp": "20260711-101424"
 }

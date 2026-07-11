@@ -78,7 +78,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -111,9 +111,10 @@
   {
    "name": "Daedaleopsis tricolor",
    "cname": "",
+   "cname_zh": "三色擬迷孔菌",
    "url": "https://www.inaturalist.org/taxa/940416-Daedaleopsis-tricolor",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108638089/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

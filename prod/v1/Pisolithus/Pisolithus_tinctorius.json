@@ -248,7 +248,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gasteroid",
   "HymeniumColors": "",
   "HymeniumSporePrints": "4286141768,4288423856",
   "HymeniumGillArrangement": "",
@@ -281,45 +281,52 @@
   {
    "name": "Pisolithus tinctorius",
    "cname": "Dead Man's Foot",
+   "cname_zh": "彩色豆馬勃",
    "url": "https://www.inaturalist.org/taxa/63833-Pisolithus-tinctorius",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12529997/thumb.jpg"
   },
   {
    "name": "Pisolithus arhizus",
    "cname": "Dyeball",
+   "cname_zh": "豆包菌",
    "url": "https://www.inaturalist.org/taxa/179044-Pisolithus-arhizus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9150480/thumb.jpeg"
   },
   {
    "name": "Pisolithus tinctorius tinctorius",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63834-Pisolithus-tinctorius-tinctorius",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/100634349/thumb.jpg"
   },
   {
    "name": "Pisolithus tinctorius clavatus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63831-Pisolithus-tinctorius-clavatus",
    "src": ""
   },
   {
    "name": "Pisolithus tinctorius conglomeratus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63832-Pisolithus-tinctorius-conglomeratus",
    "src": ""
   },
   {
    "name": "Pisolithus tinctorius tuberosus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63835-Pisolithus-tinctorius-tuberosus",
    "src": ""
   },
   {
    "name": "Pisolithus tinctorius turgidus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63837-Pisolithus-tinctorius-turgidus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

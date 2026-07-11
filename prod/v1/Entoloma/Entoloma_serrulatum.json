@@ -44,7 +44,7 @@
   "CapShape": "",
   "CapTexture": "fine-scales",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -62,6 +62,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -78,9 +80,10 @@
   {
    "name": "Entoloma serrulatum",
    "cname": "Blue Edge Pinkgill",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/418614",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245403999/square.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

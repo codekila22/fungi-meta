@@ -131,21 +131,24 @@
   {
    "name": "Stereocaulon sorediiferum",
    "cname": "",
+   "cname_zh": "大珊瑚枝",
    "url": "https://www.inaturalist.org/taxa/904330-Stereocaulon-sorediiferum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43358130/thumb.jpeg"
   },
   {
    "name": "Stereocaulon sorediiferum var. esorediosum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/904331-Stereocaulon-sorediiferum-esorediosum",
    "src": ""
   },
   {
    "name": "Stereocaulon sorediiferum var. sorediiferum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1059070-Stereocaulon-sorediiferum-sorediiferum",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

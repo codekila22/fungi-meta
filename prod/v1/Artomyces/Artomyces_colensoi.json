@@ -105,7 +105,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -141,9 +141,10 @@
   {
    "name": "Artomyces colensoi",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/381285-Artomyces-colensoi",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/38126599/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

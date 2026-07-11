@@ -2,6 +2,7 @@
  "genus": "Cyathus",
  "name": "striatus",
  "date": [
+  "07/07/2026,27494068993610171",
   "06/16/2026,27243615475322192",
   "09/24/2025,24469797462704021",
   "09/27/2024,https://www.facebook.com/100000395779127/posts/pfbid026QeWbtXguZs6hvWDx7JrqTHpE5wj3Wi1HMD7df76t4XvkeSk2T52z8QeBSrw5QBZl/",
@@ -325,7 +326,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gasteroid",
   "HymeniumColors": "4278190080",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -359,9 +360,10 @@
   {
    "name": "Cyathus striatus",
    "cname": "Fluted Bird's Nest Fungus",
+   "cname_zh": "隆紋黑蛋巢菌",
    "url": "https://www.inaturalist.org/taxa/120242-Cyathus-striatus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2324355/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

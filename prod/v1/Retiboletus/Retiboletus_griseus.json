@@ -97,7 +97,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -131,9 +131,10 @@
   {
    "name": "Retiboletus griseus",
    "cname": "Grey Bolete",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/499627-Retiboletus-griseus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23885335/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

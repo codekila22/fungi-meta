@@ -227,21 +227,24 @@
   {
    "name": "Cribraria cancellata",
    "cname": "",
+   "cname_zh": "篩黏菌",
    "url": "https://www.inaturalist.org/taxa/327914-Cribraria-cancellata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/83780/thumb.JPG"
   },
   {
    "name": "Cribraria cancellata ssp. fusca",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/782327-Cribraria-cancellata-fusca",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/25766669/thumb.jpeg"
   },
   {
    "name": "Cribraria cancellata ssp. cancellata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1056017-Cribraria-cancellata-cancellata",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

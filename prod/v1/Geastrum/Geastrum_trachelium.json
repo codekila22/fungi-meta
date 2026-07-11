@@ -52,7 +52,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gasteroid",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -82,5 +82,5 @@
   "Note": "叢生、長頸、梨形，帶有淡淡粉紅。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -65,7 +65,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -99,15 +99,17 @@
   {
    "name": "Tubaria furfuracea",
    "cname": "Scurfy Twiglet",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1462139-Tubaria-furfuracea",
    "src": "https://static.inaturalist.org/photos/29338217/thumb.jpeg"
   },
   {
    "name": "Tubaria furfuracea",
    "cname": "",
+   "cname_zh": "鱗皮假臍菇",
    "url": "https://www.inaturalist.org/taxa/55573-Tubaria-furfuracea",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29470374/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

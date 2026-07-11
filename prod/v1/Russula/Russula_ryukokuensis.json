@@ -32,7 +32,7 @@
   "CapShape": "",
   "CapTexture": "velvety",
   "CapMargin": "striated",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -66,9 +66,10 @@
   {
    "name": "Russula ryukokuensis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1396339-Russula-ryukokuensis",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

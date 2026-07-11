@@ -101,7 +101,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -135,15 +135,17 @@
   {
    "name": "Psathyrella obtusata",
    "cname": "Psathyrella Sect. Obtusatae",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/882471-Psathyrella-obtusata",
    "src": "https://static.inaturalist.org/photos/34575710/thumb.jpg"
   },
   {
    "name": "Obtusatae",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1179782-Obtusatae",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/53748199/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

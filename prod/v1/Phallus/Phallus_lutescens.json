@@ -116,17 +116,20 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Phallus luteus,,",
   "Note": "",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "純黃竹蓀,,",
+  "la_zhcn": "纯黄竹荪,,"
  },
  "inaturalist": [
   {
    "name": "Phallus lutescens",
    "cname": "",
+   "cname_zh": "變黃鬼筆",
    "url": "https://www.inaturalist.org/taxa/1338725-Phallus-lutescens",
    "src": "https://static.inaturalist.org/photos/101457193/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

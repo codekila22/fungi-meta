@@ -111,7 +111,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -145,9 +145,10 @@
   {
    "name": "Pleurotus australis",
    "cname": "Brown Oyster Mushroom",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/383719-Pleurotus-australis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2328007/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

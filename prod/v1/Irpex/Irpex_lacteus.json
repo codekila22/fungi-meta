@@ -2,6 +2,7 @@
  "genus": "Irpex",
  "name": "lacteus",
  "date": [
+  "07/04/2026,27481107234906347",
   "10/18/2025,24742574625426302",
   "09/13/2025,24381750991508669",
   "03/16/2025,9213321068778242",
@@ -344,6 +345,38 @@
   {
    "author": "江志緯",
    "image_src": "Irpex_lacteus_36f0a510-aef0-11f0-94c6-799b8614c1f5_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Irpex_lacteus_b70bd330-7a94-11f1-9f37-11da2773397a_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Irpex_lacteus_b70bd330-7a94-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Irpex_lacteus_b70bd330-7a94-11f1-9f37-11da2773397a_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Irpex_lacteus_b70bd330-7a94-11f1-9f37-11da2773397a_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Irpex_lacteus_b70bd330-7a94-11f1-9f37-11da2773397a_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Irpex_lacteus_b70bd330-7a94-11f1-9f37-11da2773397a_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Irpex_lacteus_b70bd330-7a94-11f1-9f37-11da2773397a_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Irpex_lacteus_b70bd330-7a94-11f1-9f37-11da2773397a_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -389,9 +422,10 @@
   {
    "name": "Irpex lacteus",
    "cname": "Milk-white Toothed Polypore",
+   "cname_zh": "乳白耙菌",
    "url": "https://www.inaturalist.org/taxa/130910-Irpex-lacteus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/136688/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -92,7 +92,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -126,45 +126,52 @@
   {
    "name": "Cuphophyllus pratensis",
    "cname": "Meadow Waxcap",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/361641-Cuphophyllus-pratensis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/240722/thumb.jpg"
   },
   {
    "name": "Cuphophyllus pratensis var. pallidus",
    "cname": "Pale Waxcap",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/348699-Cuphophyllus-pratensis-pallidus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94150846/thumb.jpeg"
   },
   {
    "name": "Cuphophyllus pratensis var. pratensis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/348698-Cuphophyllus-pratensis-pratensis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/240718/thumb.jpg"
   },
   {
    "name": "Cuphophyllus pratensis var. robustus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/348695-Cuphophyllus-pratensis-robustus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12922984/thumb.jpeg"
   },
   {
    "name": "Cuphophyllus pratensis var. vitulinus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/348693-Cuphophyllus-pratensis-vitulinus",
    "src": ""
   },
   {
    "name": "Cuphophyllus pratensis var. donadinii",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/348694-Cuphophyllus-pratensis-donadinii",
    "src": ""
   },
   {
    "name": "Cuphophyllus pratensis var. fulvolamellatus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/348696-Cuphophyllus-pratensis-fulvolamellatus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

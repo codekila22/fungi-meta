@@ -2,6 +2,8 @@
  "genus": "Cantharellus",
  "name": "cibarius",
  "date": [
+  "07/07/2026,27501364932880577",
+  "07/03/2026,27456654970684907",
   "06/15/2026,27267021939648212",
   "08/26/2024,7921967791246916",
   "08/13/2023,6292708057506239",
@@ -195,26 +197,46 @@
   {
    "author": "陳麗紅",
    "image_src": "Cantharellus_cibarius_cd0e48c0-6ae0-11f1-9313-cf43f9ce2c46_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius_d5c6fa70-76ed-11f1-9862-b327dcab099d_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius_d5c6fa70-76ed-11f1-9862-b327dcab099d_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius_d5c6fa70-76ed-11f1-9862-b327dcab099d_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius_cc5cd5d0-7a04-11f1-bef5-4bf57cd7d16b_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_cibarius_cc5cd5d0-7a04-11f1-bef5-4bf57cd7d16b_2.jpg"
   }
  ],
  "names_zhcn": [
   "鸡油菌"
  ],
  "meta": {
-  "CapColors": "4294961979",
+  "CapColors": "4294962944",
   "CapDiamRangeValues": "40,120",
   "CapShape": "infundibuliform",
   "CapTexture": "",
   "CapMargin": "",
   "HymeniumType": "ridged",
-  "HymeniumColors": "4294961979",
+  "HymeniumColors": "4294962944",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "decurrent",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "central",
-  "StalkColors": "4294961979",
+  "StalkColors": "4294962944",
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "none",
@@ -222,7 +244,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "8,20",
   "StalkLengthRangeValuess": "20,80",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -239,27 +264,31 @@
   {
    "name": "Cantharellus cibarius",
    "cname": "Golden Chanterelle",
+   "cname_zh": "雞油菇",
    "url": "https://www.inaturalist.org/taxa/47347-Cantharellus-cibarius",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/49334197/thumb.jpeg"
   },
   {
    "name": "Cantharellus roseocanus",
    "cname": "Rainbow Chanterelle",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/499666-Cantharellus-roseocanus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4161181/thumb."
   },
   {
    "name": "Cantharellus pallens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/626851-Cantharellus-pallens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18167106/thumb.jpeg"
   },
   {
    "name": "Cantharellus amethysteus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/566555-Cantharellus-amethysteus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/169080956/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

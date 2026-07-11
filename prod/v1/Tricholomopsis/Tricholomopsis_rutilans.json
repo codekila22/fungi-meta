@@ -376,39 +376,45 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "夏秋時節常生長在中高海拔針葉木腐爛的枯木或附近地上，菌柄與菌蓋同色。",
+  "Elevation": "mid,high",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
    "name": "Tricholomopsis rutilans",
    "cname": "Plums-and-Custard",
+   "cname_zh": "赭紅擬口蘑",
    "url": "https://www.inaturalist.org/taxa/63387-Tricholomopsis-rutilans",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11902315/thumb.jpeg"
   },
   {
    "name": "Tricholomopsis rutilans var. splendidissima",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63388-Tricholomopsis-rutilans-splendidissima",
    "src": ""
   },
   {
    "name": "Tricholomopsis rutilans var. rutilans",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63389-Tricholomopsis-rutilans-rutilans",
    "src": ""
   },
   {
    "name": "Tricholomopsis rutilans var. variegata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63390-Tricholomopsis-rutilans-variegata",
    "src": ""
   },
   {
    "name": "Tricholomopsis rutilans var. albofimbriata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63391-Tricholomopsis-rutilans-albofimbriata",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

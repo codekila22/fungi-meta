@@ -44,7 +44,7 @@
   "CapShape": "",
   "CapTexture": "slimy",
   "CapMargin": "striated",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -78,9 +78,10 @@
   {
    "name": "Gliophorus irrigatus",
    "cname": "Slimy Waxcap",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/499663-Gliophorus-irrigatus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4134249/thumb."
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

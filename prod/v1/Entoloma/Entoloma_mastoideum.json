@@ -180,7 +180,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "4294951115",
   "HymeniumGillArrangement": "",
@@ -196,7 +196,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "3,8",
   "StalkLengthRangeValuess": "35,90",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -213,9 +216,10 @@
   {
    "name": "Entoloma mastoideum",
    "cname": "",
+   "cname_zh": "乳突粉褶菌",
    "url": "https://www.inaturalist.org/taxa/859284-Entoloma-mastoideum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254532637/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

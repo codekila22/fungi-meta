@@ -50,7 +50,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -84,21 +84,24 @@
   {
    "name": "Boletus sensibilis",
    "cname": "Curry Bolete",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/461639-Boletus-sensibilis",
    "src": "https://static.inaturalist.org/photos/22728264/thumb.jpg"
   },
   {
    "name": "Boletus sensibilis var. sensibilis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/461641-Boletus-sensibilis-sensibilis",
    "src": ""
   },
   {
    "name": "Boletus sensibilis var. subviscidus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/461640-Boletus-sensibilis-subviscidus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

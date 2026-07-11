@@ -53,11 +53,11 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "18,35",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -70,9 +70,9 @@
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
-  "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkBase": "mycelium",
+  "StalkDiamRangeValuess": "4,7",
+  "StalkLengthRangeValuess": "55,65",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -84,16 +84,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌蓋邊緣有菌幕裂片懸垂。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
   {
    "name": "Veloporphyrellus alpinus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1407657-Veloporphyrellus-alpinus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

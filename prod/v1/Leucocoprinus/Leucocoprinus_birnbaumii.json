@@ -390,7 +390,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -424,21 +424,24 @@
   {
    "name": "Leucocoprinus birnbaumii",
    "cname": "Flowerpot Parasol",
+   "cname_zh": "純黃白鬼傘",
    "url": "https://www.inaturalist.org/taxa/85398-Leucocoprinus-birnbaumii",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24946257/thumb.jpg"
   },
   {
    "name": "Leucocoprinus birnbaumii var. birnbaumii",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1053027-Leucocoprinus-birnbaumii-birnbaumii",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/78598291/thumb.jpg"
   },
   {
    "name": "Leucocoprinus birnbaumii var. salvadorianus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/372168-Leucocoprinus-birnbaumii-salvadorianus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

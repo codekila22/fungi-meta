@@ -229,7 +229,7 @@
   "CapShape": "infundibuliform",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -257,6 +257,7 @@
   "Taste": "",
   "LookAlikes": ",,",
   "Note": "熱帶物種，發現與台灣高屏地區。基部有明顯的白色菌絲體。",
+  "Tropical": "yes",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -265,9 +266,10 @@
   {
    "name": "Trogia infundibuliformis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1075784-Trogia-infundibuliformis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/150015713/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

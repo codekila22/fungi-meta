@@ -378,7 +378,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -411,21 +411,24 @@
   {
    "name": "Chlorociboria aeruginascens",
    "cname": "Green Wood Cup",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/122329-Chlorociboria-aeruginascens",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32471764/thumb.jpg"
   },
   {
    "name": "Chlorociboria aeruginascens ssp. australis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/411427-Chlorociboria-aeruginascens-australis",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18340240/thumb.jpeg"
   },
   {
    "name": "Chlorociboria aeruginascens ssp. aeruginascens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1057617-Chlorociboria-aeruginascens-aeruginascens",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

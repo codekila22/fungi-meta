@@ -295,7 +295,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -331,9 +331,10 @@
   {
    "name": "Mycena flammifera",
    "cname": "",
+   "cname_zh": "焰光小菇",
    "url": "https://www.inaturalist.org/taxa/1441371-Mycena-flammifera",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

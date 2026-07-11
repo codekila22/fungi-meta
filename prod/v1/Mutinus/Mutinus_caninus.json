@@ -233,27 +233,31 @@
   {
    "name": "Mutinus caninus",
    "cname": "Dog Stinkhorn",
+   "cname_zh": "狗蛇頭菌",
    "url": "https://www.inaturalist.org/taxa/63580-Mutinus-caninus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/182832277/thumb.jpeg"
   },
   {
    "name": "Mutinus caninus var. albus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63579-Mutinus-caninus-albus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20308082/thumb.jpg"
   },
   {
    "name": "Mutinus caninus var. caninus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63578-Mutinus-caninus-caninus",
    "src": ""
   },
   {
    "name": "Mutinus caninus var. levonensis",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63581-Mutinus-caninus-levonensis",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

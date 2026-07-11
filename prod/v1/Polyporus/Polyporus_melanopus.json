@@ -60,7 +60,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -96,9 +96,10 @@
   {
    "name": "Picipes melanopus",
    "cname": "",
+   "cname_zh": "黑柄多孔菌",
    "url": "https://www.inaturalist.org/taxa/510856-Picipes-melanopus",
    "src": "https://static.inaturalist.org/photos/207912/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

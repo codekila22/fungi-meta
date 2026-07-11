@@ -4,6 +4,7 @@
  "date": [
   "06/15/2026,27230404653309941",
   "06/12/2026,27187700074247066",
+  "06/11/2026,27517790241238046",
   "04/19/2026,26479396165077464",
   "10/27/2025,24818952751121822",
   "09/27/2025,24519993864351047",
@@ -472,6 +473,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Marasmius_nigrobrunneus_56527ec0-6916-11f1-bb81-eb456ca0aee2_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_nigrobrunneus_57a20480-7b72-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_nigrobrunneus_57a20480-7b72-11f1-b69b-29ba5035f45b_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_nigrobrunneus_57a20480-7b72-11f1-b69b-29ba5035f45b_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_nigrobrunneus_57a20480-7b72-11f1-b69b-29ba5035f45b_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -483,7 +500,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "crossconnected,subdistant",
@@ -519,9 +536,10 @@
   {
    "name": "Marasmius nigrobrunneus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1405531-Marasmius-nigrobrunneus",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -156,7 +156,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -188,9 +188,10 @@
   {
    "name": "Lachnocladium schweinfurthianum",
    "cname": "",
+   "cname_zh": "施氏茸瑚菌",
    "url": "https://www.inaturalist.org/taxa/973962-Lachnocladium-schweinfurthianum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/62678242/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

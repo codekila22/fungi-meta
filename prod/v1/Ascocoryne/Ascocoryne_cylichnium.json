@@ -104,7 +104,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -137,9 +137,10 @@
   {
    "name": "Ascocoryne cylichnium",
    "cname": "",
+   "cname_zh": "杯紫膠盤菌",
    "url": "https://www.inaturalist.org/taxa/155165-Ascocoryne-cylichnium",
    "src": "https://static.inaturalist.org/photos/622847/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

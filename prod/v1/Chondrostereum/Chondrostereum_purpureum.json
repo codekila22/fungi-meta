@@ -191,7 +191,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -224,9 +224,10 @@
   {
    "name": "Chondrostereum purpureum",
    "cname": "Silverleaf Fungus",
+   "cname_zh": "紫韌革菌",
    "url": "https://www.inaturalist.org/taxa/118036-Chondrostereum-purpureum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/388071/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

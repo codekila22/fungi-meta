@@ -253,27 +253,31 @@
   {
    "name": "Geastrum triplex",
    "cname": "Collared Earthstar",
+   "cname_zh": "尖頂地星",
    "url": "https://www.inaturalist.org/taxa/63076-Geastrum-triplex",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/26780114/thumb.jpeg"
   },
   {
    "name": "Geastrum triplex roseum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63073-Geastrum-triplex-roseum",
    "src": ""
   },
   {
    "name": "Geastrum triplex triplex",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63074-Geastrum-triplex-triplex",
    "src": ""
   },
   {
    "name": "Geastrum triplex pedicellatum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/63075-Geastrum-triplex-pedicellatum",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -191,7 +191,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -224,9 +224,10 @@
   {
    "name": "Xylaria liquidambar",
    "cname": "Sweetgum Xylaria",
+   "cname_zh": "楓香炭角菌",
    "url": "https://www.inaturalist.org/taxa/1366854-Xylaria-liquidambar",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2339698/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

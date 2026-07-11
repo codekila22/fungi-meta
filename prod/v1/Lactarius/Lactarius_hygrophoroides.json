@@ -53,7 +53,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -86,15 +86,17 @@
   {
    "name": "Lactifluus hygrophoroides",
    "cname": "Hygrophorus Milkcap",
+   "cname_zh": "蠟傘狀多汁乳菇",
    "url": "https://www.inaturalist.org/taxa/351320-Lactifluus-hygrophoroides",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4471368/thumb.jpeg"
   },
   {
    "name": "Lactifluus rugatus",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/823802-Lactifluus-rugatus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29587430/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

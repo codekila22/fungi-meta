@@ -232,8 +232,8 @@
   "CapDiamRangeValues": "40,70",
   "CapShape": "",
   "CapTexture": "",
-  "CapMargin": "",
-  "HymeniumType": "",
+  "CapMargin": "appendiculate",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -249,6 +249,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -259,16 +260,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "傘蓋外緣常有一圈白色的蕈幕殘留物。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
   {
    "name": "Amanita pseudoporphyria",
    "cname": "Hongo's False Death Cap",
+   "cname_zh": "假褐雲斑鵝膏菌",
    "url": "https://www.inaturalist.org/taxa/474001-Amanita-pseudoporphyria",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2391186/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

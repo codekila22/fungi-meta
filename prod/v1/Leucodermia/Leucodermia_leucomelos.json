@@ -82,27 +82,31 @@
   {
    "name": "Heterodermia leucomelos",
    "cname": "Elegant Fringe Lichen",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/960311-Heterodermia-leucomelos",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/66764693/thumb.jpg"
   },
   {
    "name": "Heterodermia boryi",
    "cname": "",
+   "cname_zh": "卷梢亞鈴孢衣",
    "url": "https://www.inaturalist.org/taxa/221308-Heterodermia-boryi",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176854224/thumb.jpg"
   },
   {
    "name": "Heterodermia leucomelos leucomelos",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/960313-Heterodermia-leucomelos-leucomelos",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6455386/thumb.jpg"
   },
   {
    "name": "Heterodermia leucomelos albociliata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/960312-Heterodermia-leucomelos-albociliata",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

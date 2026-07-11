@@ -95,7 +95,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "coral",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -128,21 +128,24 @@
   {
    "name": "Clavulinopsis laeticolor",
    "cname": "Handsome Club",
+   "cname_zh": "悅色擬鎖瑚菌",
    "url": "https://www.inaturalist.org/taxa/55273-Clavulinopsis-laeticolor",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8536/thumb.jpg"
   },
   {
    "name": "Clavulinopsis laeticolor var. laeticolor",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1057286-Clavulinopsis-laeticolor-laeticolor",
    "src": ""
   },
   {
    "name": "Clavulinopsis laeticolor var. bulbispora",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/350362-Clavulinopsis-laeticolor-bulbispora",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

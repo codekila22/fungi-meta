@@ -226,7 +226,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -259,9 +259,10 @@
   {
    "name": "Lepiota bengalensis",
    "cname": "",
+   "cname_zh": "孟加拉環柄菇",
    "url": "https://www.inaturalist.org/taxa/1234158-Lepiota-bengalensis",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -161,7 +161,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gasteroid",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -195,9 +195,10 @@
   {
    "name": "Bovista pusilla",
    "cname": "Least Puffball",
+   "cname_zh": "小灰球菌",
    "url": "https://www.inaturalist.org/taxa/350238-Bovista-pusilla",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/334750344/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -262,7 +262,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gasteroid",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -296,15 +296,17 @@
   {
    "name": "Geastrum pectinatum",
    "cname": "Geastrum Pectinatum Group",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1246409-Geastrum-pectinatum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/75781790/thumb.jpg"
   },
   {
    "name": "Geastrum pectinatum",
    "cname": "Beaked Earthstar",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/119134-Geastrum-pectinatum",
    "src": "https://static.inaturalist.org/photos/13009167/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

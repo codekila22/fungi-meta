@@ -112,7 +112,7 @@
   "CapShape": "",
   "CapTexture": "raised-scales",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -146,15 +146,17 @@
   {
    "name": "Inocybe cincinnata",
    "cname": "Collared Fibrecap",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/118339-Inocybe-cincinnata",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176238718/thumb.jpg"
   },
   {
    "name": "Inocybe cincinnata",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1366603-Inocybe-cincinnata",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -68,7 +68,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -101,9 +101,10 @@
   {
    "name": "Pluteus bressollensis",
    "cname": "",
+   "cname_zh": "布雷索爾光柄菇",
    "url": "https://www.inaturalist.org/taxa/1129444-Pluteus-bressollensis",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

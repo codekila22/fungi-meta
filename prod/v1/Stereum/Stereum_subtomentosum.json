@@ -93,7 +93,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -129,9 +129,10 @@
   {
    "name": "Stereum subtomentosum",
    "cname": "Yellowing Curtain Crust",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/155081-Stereum-subtomentosum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/154845232/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

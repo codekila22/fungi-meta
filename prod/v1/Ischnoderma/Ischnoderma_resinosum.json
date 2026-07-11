@@ -243,7 +243,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -276,33 +276,38 @@
   {
    "name": "Ischnoderma resinosum",
    "cname": "Resinous Polypore",
+   "cname_zh": "皺皮菌",
    "url": "https://www.inaturalist.org/taxa/130919-Ischnoderma-resinosum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11655956/thumb.jpg"
   },
   {
    "name": "Ischnoderma benzoinum",
    "cname": "Benzoin Bracket",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/490642-Ischnoderma-benzoinum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3218233/thumb.jpg"
   },
   {
    "name": "Ischnoderma fuscum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1008054-Ischnoderma-fuscum",
    "src": ""
   },
   {
    "name": "Ischnoderma resinosum resinosum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/130918-Ischnoderma-resinosum-resinosum",
    "src": ""
   },
   {
    "name": "Ischnoderma resinosum aporum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/130922-Ischnoderma-resinosum-aporum",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

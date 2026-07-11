@@ -2,6 +2,7 @@
  "genus": "Puccinia",
  "name": "spegazzinii",
  "date": [
+  "07/04/2026,27474923632191374",
   "04/19/2026,26555275394156207",
   "04/21/2024,7249481561828879"
  ],
@@ -98,6 +99,42 @@
   {
    "author": "江志緯",
    "image_src": "Puccinia_spegazzinii_2a6a8d00-40aa-11f1-a3c2-556aab972949_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_spegazzinii_f2ff45a0-7b72-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_spegazzinii_f2ff45a0-7b72-11f1-b69b-29ba5035f45b_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_spegazzinii_f2ff45a0-7b72-11f1-b69b-29ba5035f45b_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_spegazzinii_f2ff45a0-7b72-11f1-b69b-29ba5035f45b_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_spegazzinii_f2ff45a0-7b72-11f1-b69b-29ba5035f45b_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_spegazzinii_f2ff45a0-7b72-11f1-b69b-29ba5035f45b_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_spegazzinii_f2ff45a0-7b72-11f1-b69b-29ba5035f45b_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_spegazzinii_f2ff45a0-7b72-11f1-b69b-29ba5035f45b_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_spegazzinii_f2ff45a0-7b72-11f1-b69b-29ba5035f45b_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -142,9 +179,10 @@
   {
    "name": "Puccinia spegazzinii",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1027486-Puccinia-spegazzinii",
    "src": "https://static.inaturalist.org/photos/80198288/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

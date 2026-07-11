@@ -336,7 +336,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -369,9 +369,10 @@
   {
    "name": "Merulius tremellosus",
    "cname": "Trembling Crust",
+   "cname_zh": "膠質乾朽菌",
    "url": "https://www.inaturalist.org/taxa/179113-Merulius-tremellosus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13067765/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -339,7 +339,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "toothed",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -375,9 +375,10 @@
   {
    "name": "Gyrodontium sacchari",
    "cname": "",
+   "cname_zh": "糖圓齒菌",
    "url": "https://www.inaturalist.org/taxa/350940-Gyrodontium-sacchari",
    "src": "https://static.inaturalist.org/photos/171286160/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

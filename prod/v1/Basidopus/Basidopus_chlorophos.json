@@ -5,6 +5,7 @@
   "06/30/2026,27421113000905771",
   "06/20/2026,27295240970159642",
   "06/13/2026,27217134334636973",
+  "06/11/2026,27528583526825384",
   "12/02/2025,25139101849106909",
   "08/03/2025,24054000080950430",
   "08/01/2025,24015162108167561",
@@ -640,6 +641,42 @@
   {
    "author": "陳中城",
    "image_src": "Basidopus_chlorophos_2be86db0-6c8c-11f1-8af8-b1515166ffd1_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Basidopus_chlorophos_7df69f20-7bf3-11f1-b864-732490549f54_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Basidopus_chlorophos_7df69f20-7bf3-11f1-b864-732490549f54_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Basidopus_chlorophos_7df69f20-7bf3-11f1-b864-732490549f54_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Basidopus_chlorophos_7df69f20-7bf3-11f1-b864-732490549f54_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Basidopus_chlorophos_7df69f20-7bf3-11f1-b864-732490549f54_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Basidopus_chlorophos_7df69f20-7bf3-11f1-b864-732490549f54_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Basidopus_chlorophos_7df69f20-7bf3-11f1-b864-732490549f54_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Basidopus_chlorophos_7df69f20-7bf3-11f1-b864-732490549f54_8.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Basidopus_chlorophos_7df69f20-7bf3-11f1-b864-732490549f54_9.jpg"
   }
  ],
  "synonym": [
@@ -693,21 +730,24 @@
   {
    "name": "Mycena chlorophos",
    "cname": "Green Pepe",
+   "cname_zh": "發光小菇",
    "url": "https://www.inaturalist.org/taxa/155173-Mycena-chlorophos",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/100369465/thumb.jpg"
   },
   {
    "name": "Mycena chlorophos var. chlorophos",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/155175-Mycena-chlorophos-chlorophos",
    "src": ""
   },
   {
    "name": "Mycena chlorophos var. virescens",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/155174-Mycena-chlorophos-virescens",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

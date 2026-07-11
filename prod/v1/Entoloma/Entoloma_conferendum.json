@@ -153,7 +153,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -189,9 +189,10 @@
   {
    "name": "Entoloma conferendum",
    "cname": "Star Pinkgill",
+   "cname_zh": "星孢粉褶菌",
    "url": "https://www.inaturalist.org/taxa/929426-Entoloma-conferendum",
    "src": "https://static.inaturalist.org/photos/160175562/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

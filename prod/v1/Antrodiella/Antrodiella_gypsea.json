@@ -151,7 +151,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -187,9 +187,10 @@
   {
    "name": "Cyanotrama gypsea",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1468066-Cyanotrama-gypsea",
    "src": "https://static.inaturalist.org/photos/251075529/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

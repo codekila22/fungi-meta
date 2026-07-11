@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "sculpta",
  "date": [
+  "07/04/2026,27467510112932726",
   "06/30/2026,27431483666535371",
   "08/04/2025,24032980243052414",
   "08/29/2024,7938769809566714",
@@ -329,6 +330,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_sculpta_fe755c90-754a-11f1-ad8d-814b59be874e_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_f894b5d0-7a6f-11f1-9f37-11da2773397a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_f894b5d0-7a6f-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_f894b5d0-7a6f-11f1-9f37-11da2773397a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_f894b5d0-7a6f-11f1-9f37-11da2773397a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_sculpta_f894b5d0-7a6f-11f1-9f37-11da2773397a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -340,7 +361,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -373,9 +394,10 @@
   {
    "name": "Amanita sculpta",
    "cname": "Sculpted Volva Lepidella",
+   "cname_zh": "刻鱗鵝膏",
    "url": "https://www.inaturalist.org/taxa/895595-Amanita-sculpta",
    "src": "https://static.inaturalist.org/photos/101674066/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

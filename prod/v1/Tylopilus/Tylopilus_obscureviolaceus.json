@@ -2,6 +2,7 @@
  "genus": "Tylopilus",
  "name": "obscureviolaceus",
  "date": [
+  "07/06/2026,27502054852811585",
   "07/03/2023,6155472231229823",
   "06/17/2023,6141597945950585",
   "09/20/2022,5254630361314019",
@@ -140,6 +141,14 @@
   {
    "author": "陳麗紅",
    "image_src": "Tylopilus_obscureviolaceus_9de652c0-1a4f-11ee-a7ef-8554ace23ddd_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tylopilus_obscureviolaceus_833685f0-7b98-11f1-b69b-29ba5035f45b_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tylopilus_obscureviolaceus_833685f0-7b98-11f1-b69b-29ba5035f45b_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -151,7 +160,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -187,9 +196,10 @@
   {
    "name": "Tylopilus obscureviolaceus",
    "cname": "",
+   "cname_zh": "堇紫粉孢牛肝菌",
    "url": "https://www.inaturalist.org/taxa/1295671-Tylopilus-obscureviolaceus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159363069/thumb.jpg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

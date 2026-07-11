@@ -2,6 +2,7 @@
  "genus": "Gymnopus",
  "name": "sp.1",
  "date": [
+  "07/08/2026,27514179778265759",
   "09/20/2024,8101906833253010",
   "08/03/2024,7778878155555881",
   "05/24/2024,7404640666312967",
@@ -183,6 +184,14 @@
   {
    "author": "徐秀團",
    "image_src": "Gymnopus_sp.1_e3d24720-77a6-11ef-b05e-9b9e0c24776c_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gymnopus_sp.1_61d571c0-7aba-11f1-9f37-11da2773397a_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gymnopus_sp.1_61d571c0-7aba-11f1-9f37-11da2773397a_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -194,7 +203,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -224,5 +233,5 @@
   "Note": "這種尚未確定種名的真菌，目前只發現生長於姑婆芋的枯莖上。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

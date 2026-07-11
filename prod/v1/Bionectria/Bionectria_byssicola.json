@@ -56,7 +56,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "smooth",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -90,9 +90,10 @@
   {
    "name": "Clonostachys byssicola",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1095627-Clonostachys-byssicola",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

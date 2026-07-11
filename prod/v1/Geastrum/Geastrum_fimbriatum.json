@@ -172,7 +172,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gasteroid",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -206,21 +206,24 @@
   {
    "name": "Geastrum fimbriatum",
    "cname": "Sessile Earthstar",
+   "cname_zh": "毛嘴地星",
    "url": "https://www.inaturalist.org/taxa/179167-Geastrum-fimbriatum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/739690/thumb.jpg"
   },
   {
    "name": "Geastrum fimbriatum pallidum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/332486-Geastrum-fimbriatum-pallidum",
    "src": ""
   },
   {
    "name": "Geastrum fimbriatum fimbriatum",
    "cname": "",
+   "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/332487-Geastrum-fimbriatum-fimbriatum",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

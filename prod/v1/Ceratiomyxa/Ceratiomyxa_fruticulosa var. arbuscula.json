@@ -2,6 +2,7 @@
  "genus": "Ceratiomyxa",
  "name": "fruticulosa var. arbuscula",
  "date": [
+  "07/04/2026,27500905146259889",
   "07/08/2025,10048911538552520",
   "06/15/2025,9913745898735752",
   "10/19/2024,8407833169327040",
@@ -350,6 +351,46 @@
   {
    "author": "江志緯",
    "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_22566c00-5b91-11f0-81e5-6b6a6a36db91_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -393,9 +434,10 @@
   {
    "name": "Ceratiomyxa fruticulosa var. arbuscula",
    "cname": "",
+   "cname_zh": "鵝絨黏菌樹狀變種",
    "url": "https://www.inaturalist.org/taxa/1184352-Ceratiomyxa-fruticulosa-arbuscula",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250419593/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

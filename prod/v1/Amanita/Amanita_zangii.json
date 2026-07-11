@@ -133,7 +133,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -166,9 +166,10 @@
   {
    "name": "Amanita zangii",
    "cname": "Zang's Lepidella",
+   "cname_zh": "臧氏鵝膏",
    "url": "https://www.inaturalist.org/taxa/895587-Amanita-zangii",
    "src": ""
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

@@ -36,7 +36,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "",
+  "HymeniumType": "pored",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -72,15 +72,17 @@
   {
    "name": "Ganoderma applanatum",
    "cname": "Artist's Bracket",
+   "cname_zh": "樹舌靈芝群",
    "url": "https://www.inaturalist.org/taxa/1129535-Ganoderma-applanatum",
    "src": "https://static.inaturalist.org/photos/5051190/thumb.jpg"
   },
   {
    "name": "Ganoderma applanatum",
    "cname": "",
+   "cname_zh": "樹舌靈芝",
    "url": "https://www.inaturalist.org/taxa/48473-Ganoderma-applanatum",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/74280813/thumb.jpeg"
   }
  ],
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }

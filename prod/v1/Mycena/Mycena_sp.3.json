@@ -208,7 +208,7 @@
   "CapShape": "",
   "CapTexture": "slimy",
   "CapMargin": "striated,wavy",
-  "HymeniumType": "",
+  "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -240,5 +240,5 @@
   "la_zhtw": "發光基盤小菇,,",
   "la_zhcn": "发光基盘小菇,,"
  },
- "timestamp": "20260703-181142"
+ "timestamp": "20260711-101424"
 }
