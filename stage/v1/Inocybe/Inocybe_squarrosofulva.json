@@ -2,6 +2,7 @@
  "genus": "Inocybe",
  "name": "squarrosofulva",
  "date": [
+  "07/08/2026,27549608408056229",
   "07/30/2025,23999302093086896",
   "10/13/2024,8332974006812957",
   "09/10/2023,6399227133520997",
@@ -112,6 +113,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Inocybe_squarrosofulva_9acd1ba0-6f52-11f0-85d2-6b1fda558e9f_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_squarrosofulva_27549608408056229_6d7de490-7dac-11f1-be9c-75df4a7b413f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_squarrosofulva_27549608408056229_6d7de490-7dac-11f1-be9c-75df4a7b413f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_squarrosofulva_27549608408056229_6d7de490-7dac-11f1-be9c-75df4a7b413f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_squarrosofulva_27549608408056229_6d7de490-7dac-11f1-be9c-75df4a7b413f_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -141,8 +158,10 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -155,5 +174,5 @@
   "la_zhtw": "蛋黃絲蓋傘,,",
   "la_zhcn": "蛋黄丝盖伞,,"
  },
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

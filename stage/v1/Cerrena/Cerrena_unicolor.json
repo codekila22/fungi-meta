@@ -156,28 +156,7 @@
    "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/959315-Amaropostia-stiptica",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2593004/thumb.jpg"
-  },
-  {
-   "name": "Cerrena unicolor var. irpicoides",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/194473-Cerrena-unicolor-irpicoides",
-   "src": ""
-  },
-  {
-   "name": "Cerrena unicolor resupinata",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/194475-Cerrena-unicolor-resupinata",
-   "src": ""
-  },
-  {
-   "name": "Cerrena unicolor var. unicolor",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/194477-Cerrena-unicolor-unicolor",
-   "src": ""
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

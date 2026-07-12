@@ -138,11 +138,11 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/93607814/thumb.jpg"
   },
   {
-   "name": "Panaeolus papilionaceus var. parvisporus",
+   "name": "Panaeolus retirugis",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/179101-Panaeolus-papilionaceus-parvisporus",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6081397/thumb.jpeg"
+   "url": "https://www.inaturalist.org/taxa/351674",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/378384486/square.jpg"
   },
   {
    "name": "Panaeolus papilionaceus var. capitatocystis",
@@ -159,5 +159,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

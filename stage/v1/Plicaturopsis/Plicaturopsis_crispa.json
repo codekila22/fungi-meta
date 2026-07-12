@@ -443,12 +443,12 @@
  },
  "inaturalist": [
   {
-   "name": "Plicaturopsis crispa",
-   "cname": "Crimped Gill",
+   "name": "Plicatura crispa",
+   "cname": "crimped gill",
    "cname_zh": "皺褶革菌",
-   "url": "https://www.inaturalist.org/taxa/55565-Plicaturopsis-crispa",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13283489/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1503458",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135520/square."
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

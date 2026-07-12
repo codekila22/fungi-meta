@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "franchetii",
  "date": [
+  "07/10/2026,27534946092855794",
   "07/26/2024,7724781537632210",
   "08/15/2021,7507613852682314",
   "08/07/2014,809010855876014"
@@ -106,7 +107,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -142,5 +146,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

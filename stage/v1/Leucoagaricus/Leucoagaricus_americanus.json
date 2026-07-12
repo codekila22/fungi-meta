@@ -317,12 +317,12 @@
  },
  "inaturalist": [
   {
-   "name": "Leucoagaricus americanus",
-   "cname": "Reddening Lepiota",
+   "name": "Macropsalliota americana",
+   "cname": "reddening lepiota",
    "cname_zh": "布雷白環蘑",
-   "url": "https://www.inaturalist.org/taxa/119984-Leucoagaricus-americanus",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314654/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1618816",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314654/square.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

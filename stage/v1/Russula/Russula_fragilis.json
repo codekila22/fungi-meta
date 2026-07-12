@@ -74,11 +74,11 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29240304/thumb.jpeg"
   },
   {
-   "name": "Russula fragilis",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/1366832-Russula-fragilis",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/237164542/thumb.jpeg"
+   "name": "Russula",
+   "cname": "brittlegills",
+   "cname_zh": "紅菇屬",
+   "url": "https://www.inaturalist.org/taxa/48339",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2836248/square.jpg"
   },
   {
    "name": "Russula fragilis pseudoraoultii",
@@ -130,5 +130,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

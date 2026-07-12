@@ -2,6 +2,7 @@
  "genus": "Heterotrichia",
  "name": "obvelata",
  "date": [
+  "07/03/2026,27549923504691386",
   "10/15/2025,24746810195002745",
   "06/28/2025,9975369565906718",
   "06/28/2024,7583670665076632",
@@ -326,6 +327,26 @@
   {
    "author": "何俊霖",
    "image_src": "Heterotrichia_obvelata_cc24ccd0-b088-11f0-8b41-db7d8472d1da_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Heterotrichia_obvelata_27549923504691386_9e044780-7db1-11f1-be9c-75df4a7b413f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Heterotrichia_obvelata_27549923504691386_9e044780-7db1-11f1-be9c-75df4a7b413f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Heterotrichia_obvelata_27549923504691386_9e044780-7db1-11f1-be9c-75df4a7b413f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Heterotrichia_obvelata_27549923504691386_9e044780-7db1-11f1-be9c-75df4a7b413f_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Heterotrichia_obvelata_27549923504691386_9e044780-7db1-11f1-be9c-75df4a7b413f_5.jpg"
   }
  ],
  "synonym": [
@@ -360,9 +381,12 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -382,5 +406,5 @@
    "src": "https://static.inaturalist.org/photos/241894193/thumb.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

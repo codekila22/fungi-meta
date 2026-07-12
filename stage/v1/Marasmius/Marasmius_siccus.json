@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "siccus",
  "date": [
+  "06/13/2026,27547662824917454",
   "10/31/2025,24849283018088795",
   "07/27/2025,24007569612260144",
   "07/15/2025,23997621353254970",
@@ -115,6 +116,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Marasmius_siccus_411ebff0-b7a0-11f0-be1d-67d2f01a87f4_8.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_siccus_27547662824917454_c073f790-7d05-11f1-a10a-9f31227dc601_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_siccus_27547662824917454_c073f790-7d05-11f1-a10a-9f31227dc601_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_siccus_27547662824917454_c073f790-7d05-11f1-a10a-9f31227dc601_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Marasmius_siccus_27547662824917454_c073f790-7d05-11f1-a10a-9f31227dc601_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -146,6 +163,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood,debris,leaves",
@@ -174,5 +193,5 @@
    "src": "https://static.inaturalist.org/photos/111955765/thumb.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

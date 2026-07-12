@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "laevigata",
  "date": [
+  "07/08/2026,27549514811398922",
   "06/13/2026,27480432154973855",
   "01/22/2026,25597268566623566",
   "10/30/2025,24839261479090949",
@@ -490,6 +491,50 @@
   {
    "author": "朱艷",
    "image_src": "Mycena_laevigata_7ec1ca90-7a83-11f1-9f37-11da2773397a_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_laevigata_27549514811398922_f2e64460-7dac-11f1-be9c-75df4a7b413f_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -518,7 +563,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -540,5 +588,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/114233216/thumb.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

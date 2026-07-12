@@ -99,11 +99,11 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/183302941/thumb.jpg"
   },
   {
-   "name": "Ramaria botrytis var. aurantiiramosa",
+   "name": "Ramaria aurantiiramosa",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/242525-Ramaria-botrytis-aurantiiramosa",
-   "src": ""
+   "url": "https://www.inaturalist.org/taxa/1684563",
+   "src": "https://static.inaturalist.org/photos/329241489/square.jpg"
   },
   {
    "name": "Ramaria botrytis var. botrytis",
@@ -127,5 +127,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

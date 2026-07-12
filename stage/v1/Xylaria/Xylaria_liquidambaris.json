@@ -222,12 +222,12 @@
  },
  "inaturalist": [
   {
-   "name": "Xylaria liquidambar",
+   "name": "Xylaria liquidambaris",
    "cname": "Sweetgum Xylaria",
    "cname_zh": "楓香炭角菌",
-   "url": "https://www.inaturalist.org/taxa/1366854-Xylaria-liquidambar",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2339698/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1533033",
+   "src": "https://static.inaturalist.org/photos/369586271/square.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

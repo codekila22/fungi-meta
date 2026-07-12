@@ -79,12 +79,12 @@
  },
  "inaturalist": [
   {
-   "name": "Solorina saccata",
+   "name": "Pseudosolorina saccata",
    "cname": "Common Chocolate Chip Lichen",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/231137-Solorina-saccata",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18731600/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1623773",
+   "src": "https://static.inaturalist.org/photos/18731600/square.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

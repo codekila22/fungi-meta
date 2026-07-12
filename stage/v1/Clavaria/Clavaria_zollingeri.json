@@ -450,12 +450,12 @@
  },
  "inaturalist": [
   {
-   "name": "Clavaria zollingeri",
-   "cname": "Violet Coral Fungus",
+   "name": "Clavulinopsis zollingeri",
+   "cname": "violet coral",
    "cname_zh": "堇紫珊瑚菌",
-   "url": "https://www.inaturalist.org/taxa/126160-Clavaria-zollingeri",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13562101/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1672084",
+   "src": "https://static.inaturalist.org/photos/633459823/square.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

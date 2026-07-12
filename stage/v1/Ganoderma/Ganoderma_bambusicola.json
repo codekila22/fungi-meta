@@ -315,6 +315,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "bamboo",
@@ -327,5 +329,5 @@
   "Note": "生長在枯竹靠近竹根的基部。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

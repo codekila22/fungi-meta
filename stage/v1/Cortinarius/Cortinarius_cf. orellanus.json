@@ -2,6 +2,7 @@
  "genus": "Cortinarius",
  "name": "cf. orellanus",
  "date": [
+  "07/08/2026,27549992824684454",
   "07/08/2025,10053094728134201",
   "07/16/2024,7673191902791174",
   "07/05/2024,7611032872340411",
@@ -173,6 +174,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Cortinarius_cf. orellanus_7aaf7310-5c90-11f0-a019-fb3cd022f37f_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_27549992824684454_37b44010-7dad-11f1-be9c-75df4a7b413f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_27549992824684454_37b44010-7dad-11f1-be9c-75df4a7b413f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_cf. orellanus_27549992824684454_37b44010-7dad-11f1-be9c-75df4a7b413f_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -202,8 +215,10 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -225,5 +240,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/118000376/thumb.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

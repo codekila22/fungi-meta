@@ -2,6 +2,7 @@
  "genus": "Xeromphalina",
  "name": "tenuipes",
  "date": [
+  "06/13/2026,27547641101586293",
   "06/10/2026,27458132237203847",
   "04/17/2026,26460661083617639",
   "06/02/2025,9773763239400686",
@@ -439,6 +440,18 @@
   {
    "author": "何俊霖",
    "image_src": "Xeromphalina_tenuipes_e87d9250-773d-11f1-a701-a9e2fb242c19_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Xeromphalina_tenuipes_27547641101586293_93d2fd70-7d06-11f1-a10a-9f31227dc601_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Xeromphalina_tenuipes_27547641101586293_93d2fd70-7d06-11f1-a10a-9f31227dc601_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Xeromphalina_tenuipes_27547641101586293_93d2fd70-7d06-11f1-a10a-9f31227dc601_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -490,5 +503,5 @@
    "src": "https://static.inaturalist.org/photos/185988383/thumb.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

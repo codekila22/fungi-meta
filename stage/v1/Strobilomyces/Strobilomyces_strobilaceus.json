@@ -2,6 +2,7 @@
  "genus": "Strobilomyces",
  "name": "strobilaceus",
  "date": [
+  "07/09/2026,27549703401380063",
   "08/16/2025,24128303666853404",
   "06/07/2025,9812087242234952",
   "10/14/2024,8332564003520624",
@@ -231,6 +232,18 @@
   {
    "author": "徐秀團",
    "image_src": "Strobilomyces_strobilaceus_00c0a270-7b50-11f0-82e5-db829d3cb073_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_strobilaceus_27549703401380063_91a60a10-7db0-11f1-be9c-75df4a7b413f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_strobilaceus_27549703401380063_91a60a10-7db0-11f1-be9c-75df4a7b413f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_strobilaceus_27549703401380063_91a60a10-7db0-11f1-be9c-75df4a7b413f_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -260,6 +273,8 @@
   "StalkLengthRangeValuess": "80,120",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -283,5 +298,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027090/thumb.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

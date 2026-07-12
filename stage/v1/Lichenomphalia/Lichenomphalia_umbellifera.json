@@ -219,12 +219,12 @@
  },
  "inaturalist": [
   {
-   "name": "Lichenomphalia umbellifera",
+   "name": "Lichenomphalia ericetorum",
    "cname": "Lichen Agaric",
    "cname_zh": "傘形地衣臍菇",
-   "url": "https://www.inaturalist.org/taxa/118245-Lichenomphalia-umbellifera",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176457235/thumb.jpeg"
+   "url": "https://www.inaturalist.org/taxa/1497645",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/480023950/square.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

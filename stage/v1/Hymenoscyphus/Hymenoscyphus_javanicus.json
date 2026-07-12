@@ -258,12 +258,12 @@
  },
  "inaturalist": [
   {
-   "name": "Hymenoscyphus javanicus",
+   "name": "Lachnocudoniella javanica",
    "cname": "",
    "cname_zh": "爪哇膜盤菌",
-   "url": "https://www.inaturalist.org/taxa/1239118-Hymenoscyphus-javanicus",
-   "src": ""
+   "url": "https://www.inaturalist.org/taxa/1689048",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/247356776/square.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

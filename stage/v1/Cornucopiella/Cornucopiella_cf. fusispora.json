@@ -2,6 +2,7 @@
  "genus": "Cornucopiella",
  "name": "cf. fusispora",
  "date": [
+  "07/02/2026,27547732058243864",
   "09/12/2025,24444932261857208",
   "07/02/2025,24476265772057190",
   "07/09/2024,7653382081438823",
@@ -141,6 +142,14 @@
   {
    "author": "Sunny Wang",
    "image_src": "Cornucopiella_cf. fusispora_4e5dba90-2438-11f1-9dbc-939e2d9cedc1_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cornucopiella_cf. fusispora_27547732058243864_ff7a3c40-7d07-11f1-a10a-9f31227dc601_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cornucopiella_cf. fusispora_27547732058243864_ff7a3c40-7d07-11f1-a10a-9f31227dc601_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -170,6 +179,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -190,5 +201,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/50288297/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }

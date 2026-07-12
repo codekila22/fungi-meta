@@ -395,7 +395,9 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground,bamboo,debris",
@@ -417,5 +419,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253748406/thumb.jpg"
   }
  ],
- "timestamp": "20260711-122339"
+ "timestamp": "20260712-135804"
 }
