@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4286611584,4292664540,4291605388",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "60,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -68,7 +68,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -81,5 +84,5 @@
   "Note": "",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260712-135804"
+ "timestamp": "20260713-061748"
 }

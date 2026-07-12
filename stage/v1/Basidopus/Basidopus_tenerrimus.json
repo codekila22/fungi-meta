@@ -344,7 +344,7 @@
  ],
  "meta": {
   "CapColors": "4286611584,4289309097",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,8",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -363,11 +363,13 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "10,20",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -375,7 +377,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Mycena albopilosa,,",
-  "Note": "",
+  "Note": "初生時呈半球形或圓錐形，隨後展開呈凸面。傘面覆滿細小的顆粒，在放大鏡下觀察如同撒上糖霜般閃閃發光。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "白毛小菇,,",
   "la_zhcn": "白毛小菇,,"
@@ -389,5 +391,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/346490716/thumb.jpg"
   }
  ],
- "timestamp": "20260712-135804"
+ "timestamp": "20260713-061748"
 }

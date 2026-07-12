@@ -288,8 +288,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "50,300",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -318,5 +320,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4274437/thumb.jpg"
   }
  ],
- "timestamp": "20260712-135804"
+ "timestamp": "20260713-061748"
 }

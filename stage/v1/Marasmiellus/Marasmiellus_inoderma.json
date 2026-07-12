@@ -226,7 +226,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4294309340",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "flat,convex",
   "CapTexture": "",
   "CapMargin": "",
@@ -248,6 +248,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "leaves",
@@ -271,5 +273,5 @@
    "src": "https://static.inaturalist.org/photos/133319479/thumb.jpg"
   }
  ],
- "timestamp": "20260712-135804"
+ "timestamp": "20260713-061748"
 }

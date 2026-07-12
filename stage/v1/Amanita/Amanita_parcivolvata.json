@@ -114,7 +114,7 @@
  ],
  "meta": {
   "CapColors": "4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -133,11 +133,13 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "50,150",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -159,5 +161,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13078818/thumb.jpeg"
   }
  ],
- "timestamp": "20260712-135804"
+ "timestamp": "20260713-061748"
 }

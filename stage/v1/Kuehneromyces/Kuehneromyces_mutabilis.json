@@ -451,18 +451,23 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "50,90",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "菌環以下的菌柄有深褐色毛茸狀物。\n\n與劇毒性的盔孢傘外觀類似，辨識上必須特別留意。",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Galerina marginata,,",
+  "Note": "菌環以下的菌柄有深褐色毛茸狀物。\n\n與劇毒性的紋緣盔孢傘(Galerina marginata))外觀類似，辨識上必須特別留意。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "紋緣盔孢傘,,",
+  "la_zhcn": "纹缘盔孢伞,,"
  },
  "inaturalist": [
   {
@@ -473,5 +478,5 @@
    "src": "https://static.inaturalist.org/photos/27962808/thumb.jpg"
   }
  ],
- "timestamp": "20260712-135804"
+ "timestamp": "20260713-061748"
 }

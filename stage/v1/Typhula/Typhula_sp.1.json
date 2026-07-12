@@ -229,7 +229,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,10",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "leaves,bamboo",
@@ -242,5 +245,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260712-135804"
+ "timestamp": "20260713-061748"
 }

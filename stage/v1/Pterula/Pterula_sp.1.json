@@ -4,6 +4,7 @@
  "date": [
   "04/22/2026,26526841383666275",
   "01/03/2026,25438694305814327",
+  "12/18/2025,25285126531171106",
   "06/25/2024,7562164490560583",
   "09/28/2023,6453429848100725",
   "09/23/2023,6626223037488071",
@@ -161,6 +162,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Pterula_sp.1_039fdd60-403c-11f1-a6ab-6117c22fbf9f_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_sp.1_25285126531171106_a7953ee0-7dd8-11f1-b11d-55569bc6ae87_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_sp.1_25285126531171106_a7953ee0-7dd8-11f1-b11d-55569bc6ae87_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_sp.1_25285126531171106_a7953ee0-7dd8-11f1-b11d-55569bc6ae87_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_sp.1_25285126531171106_a7953ee0-7dd8-11f1-b11d-55569bc6ae87_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -188,9 +205,12 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,leaves",
   "Bruising": "",
   "Bioluminescent": "",
@@ -201,5 +221,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260712-135804"
+ "timestamp": "20260713-061748"
 }

@@ -44,7 +44,7 @@
  ],
  "meta": {
   "CapColors": "4292519200,4288244511",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,90",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -63,10 +63,13 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "50,160",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid,high",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -86,5 +89,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260712-135804"
+ "timestamp": "20260713-061748"
 }
