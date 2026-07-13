@@ -70,7 +70,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "1,4",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -89,9 +89,11 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "7,15",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood,leaves,bamboo",
@@ -101,7 +103,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "一種典型的濕地型物種，通常生長在濕地、沼澤或湖泊邊緣的草本植物莖稈（如燈心草等）以及腐爛的枯木上，極度依賴潮濕的微氣候。\n\n其菌柄底部有一個明顯膨大的圓盤狀基部，這也是其被稱為「球根」小菇的由來。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -113,5 +115,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1804684/thumb.jpg"
   }
  ],
- "timestamp": "20260713-061748"
+ "timestamp": "20260713-144233"
 }

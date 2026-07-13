@@ -32,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4293313372,4294944000",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -50,10 +50,12 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0,2",
+  "StalkLengthRangeValuess": "10,85",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -63,7 +65,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌褶邊緣帶有鮮明的檸檬黃色或橘黃色，對比中央較淡白的菌蓋與菌柄。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -96,5 +98,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260713-061748"
+ "timestamp": "20260713-144233"
 }

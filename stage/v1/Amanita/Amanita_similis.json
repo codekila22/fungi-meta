@@ -276,7 +276,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -285,9 +288,11 @@
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Amanita hemibapha,,",
   "Note": "菌柄有橘色花紋。",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "花柄橙紅鵝膏,,",
+  "la_zhcn": "花柄橙红鹅膏,,"
  },
  "inaturalist": [
   {
@@ -298,5 +303,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14759208/thumb.jpg"
   }
  ],
- "timestamp": "20260713-061748"
+ "timestamp": "20260713-144233"
 }

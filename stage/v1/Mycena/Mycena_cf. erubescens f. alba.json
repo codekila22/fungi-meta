@@ -35,8 +35,8 @@
   "疑似红晕小菇之偏白副种"
  ],
  "meta": {
-  "CapColors": "4291605388",
-  "CapDiamRangeValues": "",
+  "CapColors": "4294967295,4292786311",
+  "CapDiamRangeValues": "3,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -55,8 +55,11 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "10,65",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -66,8 +69,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "喜好生長在有苔蘚的枯木上。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260713-061748"
+ "timestamp": "20260713-144233"
 }

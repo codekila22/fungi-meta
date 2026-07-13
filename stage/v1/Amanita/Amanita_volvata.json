@@ -50,9 +50,12 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "5,20",
-  "StalkLengthRangeValuess": "40,90",
+  "StalkDiamRangeValuess": "5,10",
+  "StalkLengthRangeValuess": "80,140",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -81,5 +84,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260713-061748"
+ "timestamp": "20260713-144233"
 }
