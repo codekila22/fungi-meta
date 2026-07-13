@@ -97,7 +97,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -116,9 +116,11 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "0,100",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -140,5 +142,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/331117932/thumb.jpg"
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

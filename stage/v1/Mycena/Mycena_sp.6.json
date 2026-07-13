@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "sp.6",
  "date": [
+  "07/12/2026,27569051509445252",
   "06/11/2026,27189487837401623",
   "08/23/2024,7903768276400201",
   "09/05/2022,5213852658725123"
@@ -75,6 +76,38 @@
   {
    "author": "徐秀團",
    "image_src": "Mycena_sp.6_5fefc9d0-66da-11f1-9925-15ccffdc628d_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_27569051509445252_d740af40-7e9a-11f1-9dcc-35f2c7c8deaf_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_27569051509445252_d740af40-7e9a-11f1-9dcc-35f2c7c8deaf_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_27569051509445252_d740af40-7e9a-11f1-9dcc-35f2c7c8deaf_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_27569051509445252_d740af40-7e9a-11f1-9dcc-35f2c7c8deaf_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_27569051509445252_d740af40-7e9a-11f1-9dcc-35f2c7c8deaf_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_27569051509445252_d740af40-7e9a-11f1-9dcc-35f2c7c8deaf_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_27569051509445252_d740af40-7e9a-11f1-9dcc-35f2c7c8deaf_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_sp.6_27569051509445252_d740af40-7e9a-11f1-9dcc-35f2c7c8deaf_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -101,11 +134,13 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "10,20",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -116,5 +151,5 @@
   "Note": "傘面線條凹處有糖霜粉狀物的一種未知名小菇。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

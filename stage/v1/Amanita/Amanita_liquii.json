@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "liquii",
  "date": [
+  "07/01/2026,27558298587187211",
   "06/28/2026,27426100693740335",
   "06/24/2026,27356101107406961",
   "06/19/2026,27477772388573165",
@@ -464,6 +465,26 @@
   {
    "author": "江志緯",
    "image_src": "Amanita_liquii_ad390c50-7a77-11f1-9f37-11da2773397a_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_27558298587187211_17522690-7e96-11f1-9dcc-35f2c7c8deaf_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_27558298587187211_17522690-7e96-11f1-9dcc-35f2c7c8deaf_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_27558298587187211_17522690-7e96-11f1-9dcc-35f2c7c8deaf_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_27558298587187211_17522690-7e96-11f1-9dcc-35f2c7c8deaf_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_liquii_27558298587187211_17522690-7e96-11f1-9dcc-35f2c7c8deaf_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -486,11 +507,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "60,170",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -514,5 +535,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2054364/thumb.jpg"
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

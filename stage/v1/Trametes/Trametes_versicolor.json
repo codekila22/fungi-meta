@@ -277,7 +277,7 @@
  ],
  "meta": {
   "CapColors": "4288768839,4278190080,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -297,7 +297,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -307,7 +310,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌蓋表面帶有細長絨毛與同心環帶。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -326,5 +329,5 @@
    "src": "https://static.inaturalist.org/photos/160331967/thumb.jpg"
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

@@ -535,7 +535,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,3",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -558,7 +558,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "熱帶革質多孔菌，貝殼形，表面漸披紅褐色殼皮而具白邊，孔面每毫米二至三孔，生於闊葉樹枯木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -570,5 +570,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27689893/thumb.jpg"
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "tropicum",
  "date": [
+  "07/12/2026,27561367293547007",
   "08/03/2025,24024583180558787",
   "09/03/2024,7978597292250632",
   "08/20/2024,7954173491359679",
@@ -241,6 +242,62 @@
   {
    "author": "吳湯姆",
    "image_src": "Ganoderma_tropicum_dd7150f0-71ac-11f0-850d-3f8144a68e3b_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_tropicum_27561367293547007_c5b41f30-7e9c-11f1-9dcc-35f2c7c8deaf_14.jpg"
   }
  ],
  "names_zhcn": [
@@ -268,8 +325,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,160",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
@@ -279,7 +338,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於低海拔豆科植物，如相思樹的枯幹上或是活樹的基部。",
+  "Note": "生長於平地低海拔植物如相思樹、鳳凰木、合歡等豆科植物的枯幹上或是活樹的基部。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -291,5 +350,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/72709212/thumb.jpg"
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

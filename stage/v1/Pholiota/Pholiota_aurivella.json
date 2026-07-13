@@ -530,11 +530,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,25",
+  "StalkLengthRangeValuess": "40,150",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "autumn,winter",
@@ -586,5 +586,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

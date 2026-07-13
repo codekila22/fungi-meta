@@ -162,8 +162,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "2,4",
   "Rareness": "",
+  "Elevation": "low,mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "stool",
@@ -173,7 +175,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Pilobolus cf. umbonatus,,",
-  "Note": "",
+  "Note": "屬於專一性的糞生真菌。它們只生長在新鮮的草食性哺乳動物糞便上（例如馬糞、牛糞、兔糞）。",
   "la_zhtw": "疑似乳突水玉黴,,",
   "la_zhcn": "疑似乳突水玉霉,,"
  },
@@ -193,5 +195,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/514983547/square.jpg"
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

@@ -105,7 +105,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "slimy",
   "CapMargin": "",
@@ -124,9 +124,11 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "70,150",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -136,7 +138,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "一種絕對的糞生真菌，主要棲息在草食性動物（如牛、馬）的糞便或肥沃堆肥上。菌蓋初呈凸狀後平展，顏色從淡黃色漸變為半透明或帶粉紅色的灰色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -148,5 +150,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/137369190/thumb.jpg"
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

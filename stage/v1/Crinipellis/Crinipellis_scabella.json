@@ -463,8 +463,8 @@
   "StalkColors": "",
   "StalkTexture": "velvety",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "20,45",
@@ -495,5 +495,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/243794544/thumb.jpg"
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

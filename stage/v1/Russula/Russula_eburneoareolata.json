@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "eburneoareolata",
  "date": [
+  "07/12/2026,27568929589457444",
   "08/10/2025,24306963818987387"
  ],
  "names_zhtw": [
@@ -88,7 +89,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,90",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -106,10 +107,12 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,20",
+  "StalkLengthRangeValuess": "30,60",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -119,7 +122,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌蓋成熟後表面呈現象皮色的厚表皮，並會出現塊狀的龜裂，如同拼貼的「碎皮」狀。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -131,5 +134,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }

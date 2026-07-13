@@ -2,6 +2,7 @@
  "genus": "Gyrodontium",
  "name": "sacchari",
  "date": [
+  "07/09/2026,27569467322737004",
   "07/10/2025,10068884916555182",
   "06/14/2025,9877822408994768",
   "06/07/2025,9813051518805191",
@@ -328,6 +329,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Gyrodontium_sacchari_b0dd2a70-5e59-11f0-b3ca-cbf6b55929eb_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyrodontium_sacchari_27569467322737004_565c8d20-7e9c-11f1-9dcc-35f2c7c8deaf_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyrodontium_sacchari_27569467322737004_565c8d20-7e9c-11f1-9dcc-35f2c7c8deaf_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyrodontium_sacchari_27569467322737004_565c8d20-7e9c-11f1-9dcc-35f2c7c8deaf_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyrodontium_sacchari_27569467322737004_565c8d20-7e9c-11f1-9dcc-35f2c7c8deaf_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyrodontium_sacchari_27569467322737004_565c8d20-7e9c-11f1-9dcc-35f2c7c8deaf_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gyrodontium_sacchari_27569467322737004_565c8d20-7e9c-11f1-9dcc-35f2c7c8deaf_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -382,5 +407,5 @@
    "src": "https://static.inaturalist.org/photos/171286160/thumb.jpeg"
   }
  ],
- "timestamp": "20260713-144233"
+ "timestamp": "20260713-221549"
 }
