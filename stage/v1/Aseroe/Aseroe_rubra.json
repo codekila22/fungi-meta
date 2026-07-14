@@ -217,7 +217,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "100,200",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "100,200",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -240,5 +241,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17444426/thumb.jpg"
   }
  ],
- "timestamp": "20260714-090648"
+ "timestamp": "20260714-110422"
 }

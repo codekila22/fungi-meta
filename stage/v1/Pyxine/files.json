@@ -2,13 +2,19 @@
  "name": "Pyxine",
  "zhtw": "黑盤衣屬",
  "zhcn": "黑盘衣属",
- "timestamp": "20260714-090648",
+ "timestamp": "20260714-110422",
  "list": [
   {
    "name": "Pyxine limbulata",
    "zhtw": "亞橄欖黑盤衣",
    "zhcn": "亚橄榄黑盘衣",
    "img": "Pyxine_limbulata_7_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "name": "Pyxine sorediata",
+   "zhtw": "粉芽黑盤衣",
+   "zhcn": "粉芽黑盘衣",
+   "img": "Pyxine_sorediata_27576597078690695_b9ad8720-7f29-11f1-8846-c3182a86bd03_1.jpg"
   },
   {
    "name": "Pyxine subcinerea",

@@ -158,8 +158,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "30,80",
-  "HeightRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "30,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -205,5 +205,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260714-090648"
+ "timestamp": "20260714-110422"
 }
