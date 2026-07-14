@@ -163,10 +163,10 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "0,2",
   "Rareness": "",
-  "Elevation": "",
+  "Elevation": "low",
   "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "bamboo",
   "Bruising": "",
   "Bioluminescent": "",
@@ -179,5 +179,5 @@
   "la_zhtw": "淚孢膨瑚菌的相似種,,",
   "la_zhcn": "泪孢膨瑚菌的相似种,,"
  },
- "timestamp": "20260713-221549"
+ "timestamp": "20260714-090648"
 }

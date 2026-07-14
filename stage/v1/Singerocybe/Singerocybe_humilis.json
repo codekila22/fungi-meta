@@ -2,6 +2,7 @@
  "genus": "Singerocybe",
  "name": "humilis",
  "date": [
+  "07/13/2026,27569554389394964",
   "01/05/2025,8825929310850755",
   "06/15/2024,7528488987261467",
   "07/25/2023,6229101637200215",
@@ -89,6 +90,46 @@
   {
    "author": "江志緯",
    "image_src": "Singerocybe_humilis_78d35290-d0c3-11ef-94dc-61cf3cd0aee9_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -118,9 +159,11 @@
   "StalkLengthRangeValuess": "10,20",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
+  "GrowthType": "grouped,scattered",
+  "GrowthEnv": "ground,debris",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -141,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/160240617/thumb.jpg"
   }
  ],
- "timestamp": "20260713-221549"
+ "timestamp": "20260714-090648"
 }

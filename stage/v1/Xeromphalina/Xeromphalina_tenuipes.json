@@ -6,7 +6,6 @@
   "06/10/2026,27458132237203847",
   "04/17/2026,26460661083617639",
   "06/02/2025,9773763239400686",
-  "04/27/2025,9485303488246664",
   "04/11/2025,9383399085103772",
   "08/20/2024,7887062718070757",
   "06/07/2024,7469400926503607",
@@ -314,30 +313,6 @@
    "image_src": "Xeromphalina_tenuipes_b8bf2290-1811-11f0-ab49-c35dd08ad6ea_10.jpg"
   },
   {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_1.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_2.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_3.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_4.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_5.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_6.jpg"
-  },
-  {
    "author": "陳中城",
    "image_src": "Xeromphalina_tenuipes_72c2dc70-3f97-11f0-b098-e770e9f5cfbb_1.jpg"
   },
@@ -482,6 +457,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
@@ -503,5 +480,5 @@
    "src": "https://static.inaturalist.org/photos/185988383/thumb.jpg"
   }
  ],
- "timestamp": "20260713-221549"
+ "timestamp": "20260714-090648"
 }

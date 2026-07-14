@@ -714,6 +714,8 @@
   "StalkLengthRangeValuess": "10,16",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood,bamboo",
@@ -723,7 +725,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "成菌傘中央略為凹陷，菌柄基部為盤狀。台灣中部以南的個體較易發光，原因未明。\n基質範圍廣泛，如竹子、相思樹、藤、紅柴、九芎木等。",
+  "Note": "成菌傘中央略為凹陷，菌柄基部為盤狀。台灣中部以南的個體較易發光，原因未明。隨著個體成熟光度會逐漸減弱甚至不發光。\n基質範圍廣泛，如竹子、相思樹、藤、紅柴、九芎木等。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -749,5 +751,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260713-221549"
+ "timestamp": "20260714-090648"
 }
