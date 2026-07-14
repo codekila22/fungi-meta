@@ -159,8 +159,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
   "Rareness": "common",
   "Elevation": "low",
@@ -193,5 +193,5 @@
    "src": "https://static.inaturalist.org/photos/111955765/thumb.jpg"
   }
  ],
- "timestamp": "20260714-135105"
+ "timestamp": "20260714-140547"
 }
