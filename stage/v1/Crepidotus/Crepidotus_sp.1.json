@@ -248,9 +248,9 @@
  "meta": {
   "CapColors": "4293951616,4294606962",
   "CapDiamRangeValues": "2,8",
-  "CapShape": "",
-  "CapTexture": "",
-  "CapMargin": "",
+  "CapShape": "fan",
+  "CapTexture": "velvety",
+  "CapMargin": "wavy,striated",
   "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
@@ -283,5 +283,5 @@
   "Note": "生長在枯藤上，菌褶為裂褶狀。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260714-110422"
+ "timestamp": "20260714-135105"
 }

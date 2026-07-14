@@ -2,7 +2,7 @@
  "name": "Phaeophyscia",
  "zhtw": "黑蜈蚣衣屬",
  "zhcn": "黑蜈蚣衣属",
- "timestamp": "20260714-110422",
+ "timestamp": "20260714-135105",
  "list": [
   {
    "name": "Phaeophyscia endococcina",
@@ -15,6 +15,12 @@
    "zhtw": "內赤黑蜈蚣衣",
    "zhcn": "内赤黑蜈蚣衣",
    "img": "Phaeophyscia_endococcinodes_161b53a0-020f-11f0-8f6b-a3c96d945fc4_1.jpg"
+  },
+  {
+   "name": "Phaeophyscia orbicularis",
+   "zhtw": "圓葉黑蜈蚣衣",
+   "zhcn": "圆叶黑蜈蚣衣",
+   "img": "Phaeophyscia_orbicularis_27315804954769910_649f9740-7f39-11f1-ac1e-d983609ac450_1.jpg"
   }
  ]
 }

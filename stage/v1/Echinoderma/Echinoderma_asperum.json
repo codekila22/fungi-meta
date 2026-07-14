@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/06/2026,27569344712749265",
   "06/30/2026,27415837638099974",
   "01/09/2026,25459933533690404",
   "11/27/2025,25103820515968376",
@@ -257,6 +258,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Echinoderma_asperum_9ed17890-745b-11f1-90c2-7d658c415de2_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinoderma_asperum_27569344712749265_d5bd9070-7f44-11f1-86d2-f13ffc000e6e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinoderma_asperum_27569344712749265_d5bd9070-7f44-11f1-86d2-f13ffc000e6e_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinoderma_asperum_27569344712749265_d5bd9070-7f44-11f1-86d2-f13ffc000e6e_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinoderma_asperum_27569344712749265_d5bd9070-7f44-11f1-86d2-f13ffc000e6e_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinoderma_asperum_27569344712749265_d5bd9070-7f44-11f1-86d2-f13ffc000e6e_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinoderma_asperum_27569344712749265_d5bd9070-7f44-11f1-86d2-f13ffc000e6e_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -267,28 +292,31 @@
   "CapColors": "4286141768,4292786311",
   "CapDiamRangeValues": "40,90",
   "CapShape": "",
-  "CapTexture": "",
+  "CapTexture": "raised-scales",
   "CapMargin": "",
   "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
-  "HymeniumGillArrangement": "",
-  "HymeniumGillAttachment": "",
+  "HymeniumGillArrangement": "close",
+  "HymeniumGillAttachment": "free",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
+  "StalkPartialVeil": "yes",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "4,12",
+  "StalkLengthRangeValuess": "30,120",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "wood,debris",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -307,5 +335,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253686/thumb.JPG"
   }
  ],
- "timestamp": "20260714-110422"
+ "timestamp": "20260714-135105"
 }

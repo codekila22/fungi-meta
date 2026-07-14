@@ -2,6 +2,7 @@
  "genus": "Pseudohydnum",
  "name": "gelatinosum",
  "date": [
+  "07/13/2026,27571332855883784",
   "06/12/2025,9881530598623949",
   "06/11/2025,9843834822393527",
   "09/05/2024,7985203004923394",
@@ -242,7 +243,9 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,debris",
@@ -278,5 +281,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260714-110422"
+ "timestamp": "20260714-135105"
 }

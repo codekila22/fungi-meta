@@ -289,11 +289,11 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "50,300",
-  "Rareness": "",
-  "Elevation": "",
-  "Tropical": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -320,5 +320,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4274437/thumb.jpg"
   }
  ],
- "timestamp": "20260714-110422"
+ "timestamp": "20260714-135105"
 }

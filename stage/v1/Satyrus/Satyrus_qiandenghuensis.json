@@ -2,6 +2,7 @@
  "genus": "Satyrus",
  "name": "qiandenghuensis",
  "date": [
+  "07/14/2026,27578766891807047",
   "06/14/2026,27258183240532082",
   "06/13/2026,27198093563207717",
   "06/14/2025,9864354750341534",
@@ -185,6 +186,34 @@
   {
    "author": "何俊霖",
    "image_src": "Satyrus_qiandenghuensis_0448b0c0-6adf-11f1-9313-cf43f9ce2c46_25.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Satyrus_qiandenghuensis_27578766891807047_8e0e0100-7f36-11f1-ac1e-d983609ac450_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Satyrus_qiandenghuensis_27578766891807047_8e0e0100-7f36-11f1-ac1e-d983609ac450_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Satyrus_qiandenghuensis_27578766891807047_8e0e0100-7f36-11f1-ac1e-d983609ac450_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Satyrus_qiandenghuensis_27578766891807047_8e0e0100-7f36-11f1-ac1e-d983609ac450_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Satyrus_qiandenghuensis_27578766891807047_8e0e0100-7f36-11f1-ac1e-d983609ac450_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Satyrus_qiandenghuensis_27578766891807047_8e0e0100-7f36-11f1-ac1e-d983609ac450_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Satyrus_qiandenghuensis_27578766891807047_8e0e0100-7f36-11f1-ac1e-d983609ac450_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -192,7 +221,7 @@
  ],
  "meta": {
   "CapColors": "4294944000,4294962944",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -212,8 +241,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "90,150",
+  "HeightRangeValuess": "60,110",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground,meadow",
@@ -223,7 +254,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "棲地包含竹林環境以及富含腐植土的土壤，目前台灣紀錄環境大多為公園草地上。過去皆以黃橙鬼筆(Phallus aurantiacus)紀錄，在2026一筆相同環境下的樣本經由DNA確認後更改為現名。頭部3-4cm，柄6-11cm。",
+  "Note": "棲地包含竹林環境以及富含腐植土的土壤，目前台灣紀錄環境大多為公園草地上。\n此物種在台灣過去皆以黃橙鬼筆(Phallus aurantiacus)為名紀錄，在2026一筆相同環境下的樣本經由DNA確認後更改為現名。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -235,5 +266,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260714-110422"
+ "timestamp": "20260714-135105"
 }
