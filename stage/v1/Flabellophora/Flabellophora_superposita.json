@@ -2,6 +2,7 @@
  "genus": "Flabellophora",
  "name": "superposita",
  "date": [
+  "07/14/2026,27581219798228423",
   "09/04/2024,7975087462601615",
   "08/04/2024,7787061384737558",
   "07/12/2024,7650548418388856",
@@ -110,6 +111,30 @@
   {
    "author": "向高世",
    "image_src": "Flabellophora_superposita_1260dbc0-fcc1-11ef-804c-b3a1c6115525_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flabellophora_superposita_27581219798228423_d4ee6350-7f75-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flabellophora_superposita_27581219798228423_d4ee6350-7f75-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flabellophora_superposita_27581219798228423_d4ee6350-7f75-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flabellophora_superposita_27581219798228423_d4ee6350-7f75-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flabellophora_superposita_27581219798228423_d4ee6350-7f75-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Flabellophora_superposita_27581219798228423_d4ee6350-7f75-11f1-a6ae-2d91ec182952_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -117,7 +142,7 @@
  ],
  "meta": {
   "CapColors": "4290278195,4288768839",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -127,7 +152,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -137,9 +162,12 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -147,7 +175,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "子實體具有菌柄，由埋在地下的假菌核長出。菌傘呈現腎形或近圓形，自柄的一側層疊生出。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -159,5 +187,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260714-143153"
+ "timestamp": "20260714-224516"
 }

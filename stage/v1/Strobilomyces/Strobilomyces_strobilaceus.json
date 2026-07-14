@@ -3,6 +3,7 @@
  "name": "strobilaceus",
  "date": [
   "07/09/2026,27549703401380063",
+  "05/23/2026,27582031268147276",
   "08/16/2025,24128303666853404",
   "06/07/2025,9812087242234952",
   "10/14/2024,8332564003520624",
@@ -244,6 +245,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Strobilomyces_strobilaceus_27549703401380063_91a60a10-7db0-11f1-be9c-75df4a7b413f_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_strobilaceus_27582031268147276_27836620-7f75-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_strobilaceus_27582031268147276_27836620-7f75-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_strobilaceus_27582031268147276_27836620-7f75-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_strobilaceus_27582031268147276_27836620-7f75-11f1-a6ae-2d91ec182952_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -298,5 +315,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027090/thumb.jpg"
   }
  ],
- "timestamp": "20260714-143153"
+ "timestamp": "20260714-224516"
 }

@@ -107,7 +107,7 @@
  ],
  "meta": {
   "CapColors": "4288768839",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "60,160",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -126,9 +126,11 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "4,7",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,bamboo",
@@ -138,7 +140,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "擔子果具明顯的菌柄，質地介於木栓質與木質之間。菌蓋呈半圆形或近扇形，表面顏色為鏽褐色至土黃色，且通常不具亮麗的漆狀光澤。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -150,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/122245501/thumb.jpg"
   }
  ],
- "timestamp": "20260714-143153"
+ "timestamp": "20260714-224516"
 }

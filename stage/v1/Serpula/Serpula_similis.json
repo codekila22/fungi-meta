@@ -2,6 +2,7 @@
  "genus": "Serpula",
  "name": "similis",
  "date": [
+  "07/14/2026,27580950034922066",
   "06/28/2025,9975718435871831",
   "06/15/2025,9959227304187611",
   "06/14/2025,9901827909927551",
@@ -379,6 +380,34 @@
   {
    "author": "向高世",
    "image_src": "Serpula_similis_c15cee30-5b11-11f0-93c9-87ba8a93ce4a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Serpula_similis_27580950034922066_694f29e0-7f6b-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Serpula_similis_27580950034922066_694f29e0-7f6b-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Serpula_similis_27580950034922066_694f29e0-7f6b-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Serpula_similis_27580950034922066_694f29e0-7f6b-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Serpula_similis_27580950034922066_694f29e0-7f6b-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Serpula_similis_27580950034922066_694f29e0-7f6b-11f1-a6ae-2d91ec182952_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Serpula_similis_27580950034922066_694f29e0-7f6b-11f1-a6ae-2d91ec182952_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -387,7 +416,7 @@
  ],
  "meta": {
   "CapColors": "4285547028,4293310464,4294956800",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -397,7 +426,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -408,12 +437,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood,bamboo,leaves",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -432,5 +463,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18556041/thumb.jpg"
   }
  ],
- "timestamp": "20260714-143153"
+ "timestamp": "20260714-224516"
 }

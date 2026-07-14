@@ -2,6 +2,7 @@
  "genus": "Stereum",
  "name": "ostrea",
  "date": [
+  "07/14/2026,27580426254974444",
   "06/21/2026,27326720263678379",
   "10/21/2023,6544350435675332",
   "08/23/2023,6334298053347239",
@@ -210,6 +211,22 @@
   {
    "author": "江志緯",
    "image_src": "Stereum_ostrea_80a56e50-6eb4-11f1-bfab-cd55ea4ed017_9.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Stereum_ostrea_27580426254974444_3b393310-7f58-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Stereum_ostrea_27580426254974444_3b393310-7f58-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Stereum_ostrea_27580426254974444_3b393310-7f58-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Stereum_ostrea_27580426254974444_3b393310-7f58-11f1-a6ae-2d91ec182952_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -239,9 +256,11 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "",
-  "GrowthType": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -263,5 +282,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5549292/thumb.jpeg"
   }
  ],
- "timestamp": "20260714-143153"
+ "timestamp": "20260714-224516"
 }

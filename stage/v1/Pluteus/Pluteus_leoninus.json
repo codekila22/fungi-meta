@@ -258,12 +258,14 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "50,90",
+  "StalkDiamRangeValuess": "2,5",
+  "StalkLengthRangeValuess": "30,90",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -299,5 +301,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260714-143153"
+ "timestamp": "20260714-224516"
 }

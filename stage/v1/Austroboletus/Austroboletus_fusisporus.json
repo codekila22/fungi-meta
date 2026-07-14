@@ -2,6 +2,7 @@
  "genus": "Austroboletus",
  "name": "fusisporus",
  "date": [
+  "07/14/2026,27580838028266600",
   "06/07/2025,9828158287294514",
   "05/15/2025,9789805114463165",
   "11/21/2024,8550963808347308",
@@ -243,6 +244,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Austroboletus_fusisporus_967e0450-49d8-11f0-8584-cdf6596514e2_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Austroboletus_fusisporus_27580838028266600_9bcc76a0-7f77-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Austroboletus_fusisporus_27580838028266600_9bcc76a0-7f77-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Austroboletus_fusisporus_27580838028266600_9bcc76a0-7f77-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Austroboletus_fusisporus_27580838028266600_9bcc76a0-7f77-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Austroboletus_fusisporus_27580838028266600_9bcc76a0-7f77-11f1-a6ae-2d91ec182952_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -272,6 +293,8 @@
   "StalkLengthRangeValuess": "40,80",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -295,5 +318,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157482051/thumb.jpg"
   }
  ],
- "timestamp": "20260714-143153"
+ "timestamp": "20260714-224516"
 }
