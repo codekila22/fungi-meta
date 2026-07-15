@@ -2,6 +2,7 @@
  "genus": "Gerronema",
  "name": "strombodes",
  "date": [
+  "07/15/2026,27592261623790907",
   "09/27/2025,24566009566416143",
   "08/16/2024,7857856187658077",
   "05/01/2023,5934397306670651"
@@ -135,6 +136,26 @@
   {
    "author": "江志緯",
    "image_src": "Gerronema_strombodes_7e1d9bf0-a0e5-11f0-be09-2d13a051f7f2_11.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gerronema_strombodes_27592261623790907_f37a4c60-8030-11f1-ad19-23a1d6387027_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gerronema_strombodes_27592261623790907_f37a4c60-8030-11f1-ad19-23a1d6387027_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gerronema_strombodes_27592261623790907_f37a4c60-8030-11f1-ad19-23a1d6387027_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gerronema_strombodes_27592261623790907_f37a4c60-8030-11f1-ad19-23a1d6387027_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gerronema_strombodes_27592261623790907_f37a4c60-8030-11f1-ad19-23a1d6387027_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -142,7 +163,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294083840,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,70",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -160,12 +181,14 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,8",
+  "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -185,5 +208,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9290104/thumb.jpg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

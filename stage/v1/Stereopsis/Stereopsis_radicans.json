@@ -2,6 +2,7 @@
  "genus": "Stereopsis",
  "name": "radicans",
  "date": [
+  "07/14/2026,27590246127325790",
   "08/11/2025,24094430780240693",
   "08/10/2025,24084061634610941",
   "07/08/2025,10060909214019419",
@@ -367,6 +368,38 @@
   {
    "author": "吳湯姆",
    "image_src": "Stereopsis_radicans_cd1cac30-76b2-11f0-8bdb-8bdc22040905_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_radicans_27590246127325790_1a9a9880-800f-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_radicans_27590246127325790_1a9a9880-800f-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_radicans_27590246127325790_1a9a9880-800f-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_radicans_27590246127325790_1a9a9880-800f-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_radicans_27590246127325790_1a9a9880-800f-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_radicans_27590246127325790_1a9a9880-800f-11f1-a6ae-2d91ec182952_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_radicans_27590246127325790_1a9a9880-800f-11f1-a6ae-2d91ec182952_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stereopsis_radicans_27590246127325790_1a9a9880-800f-11f1-a6ae-2d91ec182952_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -374,7 +407,7 @@
  ],
  "meta": {
   "CapColors": "4294309365,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -393,7 +426,7 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "30,60",
   "HeightRangeValuess": "",
   "Rareness": "common",
   "Elevation": "low",
@@ -407,7 +440,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "竹林地上土生。",
+  "Note": "通常生長在竹林地的土壤中，外觀呈現乳白色，菌蓋多為不規則、近杯狀或扇形，並帶有特殊的假根。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -419,5 +452,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253748406/thumb.jpg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

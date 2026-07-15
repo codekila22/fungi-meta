@@ -2,6 +2,7 @@
  "genus": "Cookeina",
  "name": "insititia",
  "date": [
+  "07/14/2026,27582452988105104",
   "09/16/2025,24402662726084162",
   "09/07/2025,24389669397383495",
   "11/22/2024,8554547277988961",
@@ -357,11 +358,11 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "10,50",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -369,7 +370,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "冬季低海拔山區常見。",
+  "Note": "",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -381,5 +382,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23627424/thumb.jpg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

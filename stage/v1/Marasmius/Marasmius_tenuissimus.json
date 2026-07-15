@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "tenuissimus",
  "date": [
+  "07/15/2026,27592155267134876",
   "06/09/2026,27145715565112184",
   "07/07/2025,10043299002447107",
   "06/20/2025,9913790515397957",
@@ -329,6 +330,18 @@
   {
    "author": "陳中城",
    "image_src": "Marasmius_tenuissimus_8ed16e80-66c0-11f1-9925-15ccffdc628d_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_tenuissimus_27592155267134876_5809c6d0-802f-11f1-ad19-23a1d6387027_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_tenuissimus_27592155267134876_5809c6d0-802f-11f1-ad19-23a1d6387027_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_tenuissimus_27592155267134876_5809c6d0-802f-11f1-ad19-23a1d6387027_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -378,5 +391,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/59608361/thumb.jpeg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

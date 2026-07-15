@@ -2,6 +2,7 @@
  "genus": "Lactifluus",
  "name": "brunellus",
  "date": [
+  "07/13/2026,27590495620634174",
   "06/18/2024,7614661711977527"
  ],
  "names_zhtw": [
@@ -45,6 +46,14 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Lactifluus_brunellus_a6b6fce0-af2f-106d-b1da-ed0d979e6f3b_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactifluus_brunellus_27590495620634174_486b69a0-801a-11f1-bcea-43ce8c915e1a_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lactifluus_brunellus_27590495620634174_486b69a0-801a-11f1-bcea-43ce8c915e1a_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -52,7 +61,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,35",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -74,6 +83,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood,ground,rocks",
@@ -95,5 +106,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/171443246/thumb.jpg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

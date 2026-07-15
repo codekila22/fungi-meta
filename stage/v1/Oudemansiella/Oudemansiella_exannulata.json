@@ -2,6 +2,7 @@
  "genus": "Oudemansiella",
  "name": "exannulata",
  "date": [
+  "07/13/2026,27590481080635628",
   "10/26/2025,24815265658157198",
   "09/29/2025,24567680596249040",
   "05/10/2025,9609121552531523",
@@ -355,6 +356,38 @@
   {
    "author": "江志緯",
    "image_src": "Oudemansiella_exannulata_6c993890-b3c7-11f0-8826-2785e89762be_13.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -384,6 +417,8 @@
   "StalkLengthRangeValuess": "25,100",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -392,11 +427,9 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Oudemansiella canarii,,",
+  "LookAlikes": "",
   "Note": "有凹凸不平的膠質黏滑傘面。",
-  "GrowthEco": "saprotrophic",
-  "la_zhtw": ",,",
-  "la_zhcn": ",,"
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
@@ -407,5 +440,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17871732/thumb.jpeg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

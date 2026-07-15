@@ -2,6 +2,7 @@
  "genus": "Laetiporus",
  "name": "sulphureus",
  "date": [
+  "07/13/2026,27580851214931948",
   "08/06/2024,7794776630632700",
   "06/26/2022,5020804734696584",
   "08/26/2021,4080794705364263"
@@ -14,6 +15,10 @@
  ],
  "url": "5020804734696584",
  "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Laetiporus_sulphureus_2_CC BY-NC_柯文俊.jpg"
+  },
   {
    "author": "陳麗紅",
    "image_src": "Laetiporus_sulphureus_edbf3cd0-d55d-1076-8f2a-038c3d9c1715_1.jpg"
@@ -33,10 +38,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Laetiporus_sulphureus_294e6070-d642-1076-8f2a-038c3d9c1715_4.jpg"
-  },
-  {
-   "author": "柯文俊",
-   "image_src": "Laetiporus_sulphureus_2_CC BY-NC_柯文俊.jpg"
   },
   {
    "author": "柯文俊",
@@ -105,6 +106,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Laetiporus_sulphureus_846d28c0-c196-10cc-8cdc-294de133333a_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Laetiporus_sulphureus_27580851214931948_f262dd30-8015-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Laetiporus_sulphureus_27580851214931948_f262dd30-8015-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Laetiporus_sulphureus_27580851214931948_f262dd30-8015-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Laetiporus_sulphureus_27580851214931948_f262dd30-8015-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Laetiporus_sulphureus_27580851214931948_f262dd30-8015-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Laetiporus_sulphureus_27580851214931948_f262dd30-8015-11f1-a6ae-2d91ec182952_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -112,7 +137,7 @@
  ],
  "meta": {
   "CapColors": "4291581184,4293302630",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,300",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -132,7 +157,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
@@ -142,7 +170,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "外觀形狀呈現半圓形或扇形，邊緣柔軟而呈現硫磺色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -154,5 +182,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/42106925/thumb.jpg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

@@ -2,6 +2,7 @@
  "genus": "Tylopilus",
  "name": "neofelleus",
  "date": [
+  "06/24/2026,27582725148077888",
   "06/19/2026,27376944668655938",
   "08/31/2024,8357362831040741",
   "08/30/2024,7968187999958228"
@@ -127,6 +128,26 @@
   {
    "author": "黃金興",
    "image_src": "Tylopilus_neofelleus_b27b85e0-71f2-11f1-b7e5-fd1f1c51b1ac_11.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tylopilus_neofelleus_27582725148077888_b42e4d20-8023-11f1-ad19-23a1d6387027_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tylopilus_neofelleus_27582725148077888_b42e4d20-8023-11f1-ad19-23a1d6387027_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tylopilus_neofelleus_27582725148077888_b42e4d20-8023-11f1-ad19-23a1d6387027_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tylopilus_neofelleus_27582725148077888_b42e4d20-8023-11f1-ad19-23a1d6387027_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tylopilus_neofelleus_27582725148077888_b42e4d20-8023-11f1-ad19-23a1d6387027_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -177,5 +198,5 @@
    "src": "https://static.inaturalist.org/photos/216714060/thumb.jpeg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

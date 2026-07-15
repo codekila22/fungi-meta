@@ -138,6 +138,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "rocks",
@@ -147,7 +149,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "常出現在富含鈣質的岩石、水泥、磚牆上，是適應力極強的岩生性地衣。\n葉狀體呈現輻射狀的蓮座形，邊緣帶有明顯且凸起的分裂葉片，中央部分顏色較深且容易碎裂。\n在葉片的內側邊緣帶有顆粒狀的橙黃色粉芽，子囊盤較為少見。"
  },
  "inaturalist": [
   {
@@ -172,5 +174,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

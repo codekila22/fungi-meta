@@ -2,6 +2,7 @@
  "genus": "Tremella",
  "name": "fuciformis",
  "date": [
+  "07/14/2026,27587851304231939",
   "06/16/2026,27244858271864579",
   "06/14/2025,9867123956731280",
   "01/02/2025,8784559664987720",
@@ -184,6 +185,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Tremella_fuciformis_59997a40-6a04-11f1-8183-a136ae3cbbfa_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tremella_fuciformis_27587851304231939_3468ada0-8015-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tremella_fuciformis_27587851304231939_3468ada0-8015-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tremella_fuciformis_27587851304231939_3468ada0-8015-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tremella_fuciformis_27587851304231939_3468ada0-8015-11f1-a6ae-2d91ec182952_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -192,7 +209,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -212,8 +229,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,150",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood,parasitic",
@@ -235,5 +254,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13274753/thumb.jpg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

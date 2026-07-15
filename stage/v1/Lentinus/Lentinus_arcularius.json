@@ -2,6 +2,7 @@
  "genus": "Lentinus",
  "name": "arcularius",
  "date": [
+  "07/15/2026,27590728797277523",
   "06/16/2026,27244833688533704",
   "03/20/2026,26151842761166141",
   "01/20/2026,25555903584093398",
@@ -320,6 +321,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Polyporus_arcularius_cb298ca0-6a03-11f1-8183-a136ae3cbbfa_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lentinus_arcularius_27590728797277523_6cdb7c50-8018-11f1-bcea-43ce8c915e1a_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lentinus_arcularius_27590728797277523_6cdb7c50-8018-11f1-bcea-43ce8c915e1a_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lentinus_arcularius_27590728797277523_6cdb7c50-8018-11f1-bcea-43ce8c915e1a_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lentinus_arcularius_27590728797277523_6cdb7c50-8018-11f1-bcea-43ce8c915e1a_4.jpg"
   }
  ],
  "synonym": [
@@ -382,5 +399,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/190283137/square.jpg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }

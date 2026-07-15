@@ -355,7 +355,7 @@
  ],
  "meta": {
   "CapColors": "4293977740,4291611725",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -372,12 +372,15 @@
   "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
-  "StalkBase": "",
+  "StalkBase": "mycelium",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "20,30",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -385,7 +388,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "基部通常帶有明顯的白色絨毛狀菌絲體。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -397,5 +400,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4482547/thumb.jpg"
   }
  ],
- "timestamp": "20260714-224516"
+ "timestamp": "20260715-183550"
 }
