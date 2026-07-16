@@ -250,7 +250,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "100,500",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -275,5 +275,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340175/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

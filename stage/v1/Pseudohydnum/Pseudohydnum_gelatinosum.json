@@ -242,7 +242,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,70",
   "Rareness": "common",
   "Elevation": "mid",
   "Tropical": "no",
@@ -281,5 +281,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

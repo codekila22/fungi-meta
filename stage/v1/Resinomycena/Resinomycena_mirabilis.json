@@ -214,8 +214,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -230,8 +230,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "樹脂小菇，種小名mirabilis意為「奇妙的」。子實體微小白色、被膠質或樹脂狀分泌物、菌褶稀疏，生於腐木或蕨類殘體。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

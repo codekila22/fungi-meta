@@ -198,8 +198,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "10,12",
@@ -214,8 +214,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "種小名squamulatus意為「具小鱗片的」，指菌蓋菌柄被小鱗。微小鏽褐色菇、蓋被顆粒狀小鱗片，菌褶鏽褐，柄具鱗，生於闊葉樹細枝或腐木。",
   "GrowthEco": ""
  },
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

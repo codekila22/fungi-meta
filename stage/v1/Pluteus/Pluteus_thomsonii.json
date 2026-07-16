@@ -239,8 +239,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -254,7 +254,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "湯氏光柄菇，帽灰褐具網狀脈紋皺褶、菌褶粉紅，柄白具褐纖絲，生於闊葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -266,5 +266,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13420675/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

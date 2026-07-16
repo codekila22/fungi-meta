@@ -2,13 +2,13 @@
  "genus": "Graphina",
  "name": "ruiziana",
  "date": [
-  "01/01/0001"
+  "01/17/2026,27600266599657076"
  ],
  "names_zhtw": [
   "魯伊斯安納擬文衣"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/1307",
+ "url": "27600266599657076",
  "images": [
   {
    "author": "柯文俊",
@@ -33,6 +33,62 @@
   {
    "author": "柯文俊",
    "image_src": "Graphina_ruiziana_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_12.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_13.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Graphina_ruiziana_27600266599657076_bd988df0-80df-11f1-9a74-d71f6b815e0a_14.jpg"
   }
  ],
  "names_zhcn": [
@@ -60,7 +116,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -70,7 +129,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "菌衣體白色至灰白色，子囊盤單生略彎曲或略呈褶皺狀，黑色有光澤盤狀部分薄而呈唇狀。\n生長於落葉喬木的樹皮，並喜歡非常潮濕的林地。"
  },
  "inaturalist": [
   {
@@ -81,5 +140,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

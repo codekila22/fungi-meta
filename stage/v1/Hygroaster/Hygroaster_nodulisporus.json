@@ -198,8 +198,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -214,7 +214,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "種小名nodulisporus意為「具瘤狀孢子的」，指孢子表面具結節。小型蠟傘狀菇白至灰、菌褶蠟質延生，柄纖細，生於潮濕林地腐土苔蘚間。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -226,5 +226,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/242551152/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

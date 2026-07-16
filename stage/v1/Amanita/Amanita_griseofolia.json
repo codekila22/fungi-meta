@@ -211,11 +211,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "yes",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,15",
+  "StalkLengthRangeValuess": "60,120",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -241,5 +241,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155246876/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

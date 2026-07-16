@@ -252,8 +252,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -270,7 +270,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "微小紅蠟傘，帽凸至平橙紅、菌褶蠟質黃橙，柄細橙黃，草地苔地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -296,5 +296,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

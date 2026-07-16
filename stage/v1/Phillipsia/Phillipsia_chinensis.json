@@ -215,6 +215,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "7,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -225,7 +226,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "中華盤菌，種小名chinensis指模式產地中國。子實體盤狀至淺杯、盤面粉紅至橘紅、革質、具短柄，群生於腐木，色澤鮮明。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -237,5 +238,5 @@
    "src": "https://static.inaturalist.org/photos/225651293/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

@@ -193,8 +193,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -208,7 +208,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "種小名plautus意為「扁平的」。光柄菇類蓋灰褐至黃褐具細絨或皺紋，菌褶離生白轉粉紅，柄白，生於闊葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -220,5 +220,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4136133/thumb."
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

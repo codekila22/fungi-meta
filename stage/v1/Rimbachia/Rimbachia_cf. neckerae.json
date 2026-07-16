@@ -195,8 +195,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -213,7 +213,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Muscinupta laevis,Rimbachia arachnoidea,",
-  "Note": "",
+  "Note": "種小名neckerae指其生於Neckera屬苔蘚上。微小白色杯狀至扇形、子實層平滑或具脈（無真菌褶）、附生於苔蘚葉狀體，質薄，濕生林地。",
   "la_zhtw": "光滑苔傘,蛛絲圓拱菌,",
   "la_zhcn": "光滑苔伞,蛛丝圆拱菌,"
  },
@@ -226,5 +226,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28217042/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

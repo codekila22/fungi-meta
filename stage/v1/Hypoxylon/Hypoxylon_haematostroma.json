@@ -230,6 +230,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -240,7 +241,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "血紅炭殼菌，種小名haematostroma意為「血紅色子座」，指子座表面血紅。平伏樹皮呈墊狀、表面紅褐至暗褐具疣狀子囊殼孔口、KOH滲出色素，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -252,5 +253,5 @@
    "src": "https://static.inaturalist.org/photos/95547230/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

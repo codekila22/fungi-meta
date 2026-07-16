@@ -236,7 +236,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -308,5 +308,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

@@ -117,5 +117,28 @@
   "LookAlikes": "",
   "Note": ""
  },
- "timestamp": "20260716-084545"
+ "inaturalist": [
+  {
+   "name": "Phaeophyscia orbicularis",
+   "cname": "Mealy Shadow Lichen",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/60718",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/45382098/square.jpeg"
+  },
+  {
+   "name": "Phaeophyscia orbicularis hueiana",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/60721",
+   "src": ""
+  },
+  {
+   "name": "Phaeophyscia orbicularis hueana",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/60722",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260716-185032"
 }

@@ -220,8 +220,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "2,5",
   "StalkLengthRangeValuess": "10,30",
@@ -238,7 +238,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "暗綠絲膜傘，種小名centunculus意為「小碎布/百衲衣」。小型菇蓋橄欖褐被細絨如絨布、菌褶褐色，柄同色，孢子褐，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -264,5 +264,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

@@ -196,7 +196,7 @@
  ],
  "meta": {
   "CapColors": "4286611584,4290822336,4291605388",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -206,16 +206,16 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "reticulum",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "20,50",
+  "StalkLengthRangeValuess": "70,150",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -227,7 +227,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "美柄牛肝菌，種小名calopus意為「美麗的足（柄）」，指其紅黃相間、覆網紋的醒目菌柄。蓋灰褐至橄欖色，孔面黃色、傷即變藍，柄上黃下紅具網紋，肉苦，外生菌根生於針闊葉林。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -246,5 +246,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/205486016/square.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

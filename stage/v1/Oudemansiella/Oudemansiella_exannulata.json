@@ -3,6 +3,7 @@
  "name": "exannulata",
  "date": [
   "07/13/2026,27590481080635628",
+  "05/13/2026,27600081173008952",
   "10/26/2025,24815265658157198",
   "09/29/2025,24567680596249040",
   "05/10/2025,9609121552531523",
@@ -388,6 +389,46 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -417,10 +458,10 @@
   "StalkLengthRangeValuess": "25,100",
   "HeightRangeValuess": "",
   "Rareness": "",
-  "Elevation": "",
-  "Tropical": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -440,5 +481,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17871732/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

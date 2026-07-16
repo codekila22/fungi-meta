@@ -171,7 +171,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -191,7 +191,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "15,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -202,7 +202,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "爪哇地星，種小名javanicum指模式產地爪哇。外包被星狀開裂反捲成數瓣，孢囊球狀灰褐、具開口，熱帶林地腐落物生。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -214,5 +214,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157078772/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

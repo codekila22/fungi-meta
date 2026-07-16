@@ -238,7 +238,9 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
+  "Tropical": "yes",
   "Seasons": "summer,autumn",
   "GrowthType": "",
   "GrowthEnv": "bamboo,leaves",
@@ -248,8 +250,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "屬於熱帶物種，目前皆發現於竹林下之竹枝與竹葉上。",
-  "Tropical": "yes"
+  "Note": "屬於熱帶物種，目前皆發現於竹林下之竹枝與竹葉上。"
  },
  "inaturalist": [
   {
@@ -260,5 +261,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164177437/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

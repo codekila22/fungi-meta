@@ -220,11 +220,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "6,12",
+  "StalkLengthRangeValuess": "40,90",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -235,8 +235,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "雙環蘑菇，種小名duplocingulatus意為「具雙環帶的」，指柄上環具雙層。蓋被褐鱗、菌褶粉紅轉褐黑，柄具明顯雙緣環，生於林地腐土。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

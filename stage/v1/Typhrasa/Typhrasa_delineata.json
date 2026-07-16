@@ -199,11 +199,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,6",
+  "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -215,7 +215,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "種小名delineata意為「有輪廓、描邊的」。脆柄菇類，蓋褐色具膜質幕殘片、菌褶褐轉暗，柄白中空，生於腐木木屑，孢子暗褐色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -227,5 +227,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340322/square.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

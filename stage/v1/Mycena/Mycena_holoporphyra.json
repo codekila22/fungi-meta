@@ -217,8 +217,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,6",
   "StalkLengthRangeValuess": "50,90",
@@ -233,7 +233,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "全紫小菇，種小名holoporphyra意為「全體紫色」，指菌蓋菌柄均紫。蓋鐘形紫至紫褐具溝紋，菌褶紫灰，柄紫色細長，群生於腐木落葉。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -245,5 +245,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174121814/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

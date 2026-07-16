@@ -220,8 +220,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -235,7 +235,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "臭腐生鵝膏，種小名nauseosa意為「令人作嘔的」，指其惡臭。蓋白至淡褐被粉質鱗、具環，柄基膨大，腐生（非外生菌根）於草地林地，具強烈臭味。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -247,5 +247,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6930415/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

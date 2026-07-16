@@ -2,6 +2,7 @@
  "genus": "Trogia",
  "name": "infundibuliformis",
  "date": [
+  "07/16/2026,27603769955973407",
   "06/13/2026,27201409712876102",
   "11/30/2025,25128697230147371",
   "11/17/2025,25012345788449183",
@@ -247,6 +248,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "yes",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -256,8 +259,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": ",,",
-  "Note": "熱帶物種，發現與台灣高屏地區。基部有明顯的白色菌絲體。",
-  "Tropical": "yes",
+  "Note": "熱帶物種，發現與台灣台南高屏地區。基部有明顯的白色菌絲體。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -271,5 +273,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/150015713/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

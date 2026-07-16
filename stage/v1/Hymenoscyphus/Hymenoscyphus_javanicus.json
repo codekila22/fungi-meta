@@ -243,6 +243,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -253,7 +254,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "微小柄盤菌，盤狀白至淡黃、具細柄，生於落葉腐木碎屑。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -265,5 +266,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/247356776/square.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

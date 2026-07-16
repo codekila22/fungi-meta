@@ -184,7 +184,7 @@
  ],
  "meta": {
   "CapColors": "4293847210",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -202,8 +202,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "yes,sheathing",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,30",
+  "StalkLengthRangeValuess": "60,200",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -215,7 +215,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "銀絲草菇，種小名bombycina意為「蠶絲般的」，指菌蓋被銀白色絹絲狀毛。蓋5–20cm白至淡黃、絲毛狀，菌褶離生白轉粉紅，柄白、基部具大型囊狀菌托，孢子印粉紅，生於闊葉樹樹洞。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -255,5 +255,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

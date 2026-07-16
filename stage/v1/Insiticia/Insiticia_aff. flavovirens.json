@@ -215,8 +215,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -231,7 +231,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Mycena lux-coeli,,",
-  "Note": "",
+  "Note": "黃綠小菇，種小名flavovirens意為「黃綠色」，指子實體色澤。小型腐生菇黃綠色、菌褶延生、柄纖細，生於腐木或落葉層。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "天光小菇,,",
   "la_zhcn": "天光小菇,,"
@@ -245,5 +245,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1304603/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

@@ -224,7 +224,7 @@
  ],
  "meta": {
   "CapColors": "4294944000,4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,20",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -244,7 +244,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -255,7 +255,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "橙色盤菌，盤狀至平橙色、具短柄，群生於林地腐植質。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -267,5 +267,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/61436170/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

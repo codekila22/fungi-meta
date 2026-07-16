@@ -192,6 +192,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0.5,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -202,7 +203,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "種小名anomala意為「異常的」。極微小杯狀菌成群叢生、外被褐色細毛、杯口朝下，生於闊葉樹枯枝樹皮，需放大鏡辨識。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -214,5 +215,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/91718461/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

@@ -198,7 +198,7 @@
  ],
  "meta": {
   "CapColors": "4282843172,4287001761,4290547599",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,170",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -213,11 +213,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,30",
+  "StalkLengthRangeValuess": "15,50",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -228,7 +228,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "貝殼狀革菌，種小名conchatus意為「貝殼狀」。蓋3–17cm淡紫轉褐、老時龜裂，菌褶延生窄而常分叉、初帶紫色，柄短偏生被紫色細毛，肉韌，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -240,5 +240,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28788875/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

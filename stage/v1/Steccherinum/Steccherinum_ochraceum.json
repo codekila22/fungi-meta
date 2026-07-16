@@ -229,6 +229,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -239,7 +240,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "赭黃齒菌，種小名ochraceum意為「赭黃色」，指子實層色澤。平伏反捲、子實層被密集橙赭色軟刺、緣淡色，革質，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -251,5 +252,5 @@
    "src": "https://static.inaturalist.org/photos/59335984/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

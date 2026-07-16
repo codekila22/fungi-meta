@@ -203,7 +203,7 @@
  ],
  "meta": {
   "CapColors": "4294944000,4294083840,4294956800",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -218,11 +218,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,20",
+  "StalkLengthRangeValuess": "5,20",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -234,7 +234,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "種小名edulis意為「可作食材的」。蓋腎形至扇形綠褐至黃褐、被膠質層，菌褶延生黃白，柄短偏生，肉厚，生於闊葉樹倒木，為著名食菌晚生側耳之近緣種。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -246,5 +246,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/175610402/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

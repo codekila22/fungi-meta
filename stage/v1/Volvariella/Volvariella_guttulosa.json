@@ -214,11 +214,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "yes",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,12",
+  "StalkLengthRangeValuess": "40,100",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -230,8 +230,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "具斑草菇，種小名guttulosa意為「具小滴（斑點）」。蓋灰褐具纖絲、菌褶白轉粉紅，柄白無環、基部具白色囊狀菌托，孢子印粉紅，腐生於腐木或土。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

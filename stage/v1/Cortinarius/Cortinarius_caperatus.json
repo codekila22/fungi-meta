@@ -230,8 +230,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,25",
   "StalkLengthRangeValuess": "50,130",
@@ -245,7 +245,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "皺蓋絲膜菌（吉卜賽菇），種小名caperatus意為「有皺紋的」，指菌蓋表面皺曲。蓋5–12cm赭褐具白色纖絲、幼時帶紫，柄具白色膜質環，孢子鏽褐，外生菌根生於針葉林。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -257,5 +257,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/87033/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

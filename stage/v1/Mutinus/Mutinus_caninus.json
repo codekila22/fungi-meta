@@ -216,6 +216,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "100,120",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -226,7 +227,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "狗鞭菌，種小名caninus意為「狗的」。成熟自卵狀菌托伸出黃白至淡橙色海綿質柱狀托、高10–12cm，頂端漸尖覆暗橄欖褐產孢黏液具臭味，生於腐木落葉。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -259,5 +260,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

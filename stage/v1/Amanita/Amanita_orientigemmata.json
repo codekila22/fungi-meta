@@ -190,11 +190,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,19",
+  "StalkLengthRangeValuess": "40,120",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -206,7 +206,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita gemmata,,",
-  "Note": "",
+  "Note": "東方寶石鵝膏，種小名orientigemmata意為「東方的gemmata」，為黃蓋鵝膏（A. gemmata）之亞洲近緣種。蓋2.5–12cm淡黃至金黃、被白疣、緣具溝紋，柄淡黃具易失垂環、基部具環狀菌托，外生菌根。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "黃蓋鵝膏,,",
   "la_zhcn": "黄盖鹅膏,,"
@@ -220,5 +220,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155081163/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

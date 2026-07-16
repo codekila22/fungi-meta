@@ -246,7 +246,7 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "bulbous",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -272,5 +272,5 @@
    "src": "https://static.inaturalist.org/photos/11608138/thumb.jpg"
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

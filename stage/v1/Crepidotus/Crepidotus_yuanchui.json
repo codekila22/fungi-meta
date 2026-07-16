@@ -191,8 +191,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -212,5 +212,5 @@
   "la_zhtw": "硫磺色靴耳,,",
   "la_zhcn": "硫磺色靴耳,,"
  },
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

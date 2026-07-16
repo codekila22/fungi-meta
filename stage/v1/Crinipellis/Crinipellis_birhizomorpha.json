@@ -193,8 +193,8 @@
   "StalkColors": "",
   "StalkTexture": "velvety",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -214,5 +214,5 @@
   "la_zhtw": "柄毛皮傘,,",
   "la_zhcn": "柄毛皮伞,,"
  },
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }

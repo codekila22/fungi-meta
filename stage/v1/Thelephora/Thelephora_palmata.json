@@ -220,7 +220,7 @@
  ],
  "meta": {
   "CapColors": "4284635991,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -240,6 +240,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "40,80",
+  "HeightRangeValuess": "35,65",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -250,7 +251,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "掌狀革菌，珊瑚狀反覆分枝灰紫褐色、枝端匙扇形淺色，具腐蒜臭味，生於針葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -262,5 +263,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4136539/thumb."
   }
  ],
- "timestamp": "20260716-084545"
+ "timestamp": "20260716-185032"
 }
