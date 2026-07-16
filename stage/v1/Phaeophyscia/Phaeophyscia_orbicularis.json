@@ -82,5 +82,40 @@
  "names_zhcn": [
   "圆叶黑蜈蚣衣"
  ],
- "timestamp": "20260715-183550"
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood,rocks",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": ""
+ },
+ "timestamp": "20260716-084545"
 }

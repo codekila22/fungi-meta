@@ -263,7 +263,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,50",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -274,7 +274,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Ophiocordyceps buquetii,,",
-  "Note": "",
+  "Note": "寄生於螞蟻的蟲草，自蟲體長出細長棒狀子座、頂端膨大產孢，生於林地。",
   "la_zhtw": "捧束蛇形蟲草,,",
   "la_zhcn": "捧束蛇形虫草,,"
  },
@@ -294,5 +294,5 @@
    "src": "https://static.inaturalist.org/photos/189310415/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

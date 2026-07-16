@@ -278,8 +278,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "bulbous",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,8",
+  "StalkLengthRangeValuess": "30,65",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -289,7 +289,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "粉質鵝膏，帽灰白被褐灰粉質外菌幕、緣具溝紋，無環，柄基具小球狀菌托，闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -301,5 +301,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/56134815/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

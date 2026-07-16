@@ -317,8 +317,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "5,10",
@@ -332,7 +332,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "枝生微菇，帽淡褐至米白具細紋、柄纖細下部褐色，群生於落枝腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -344,5 +344,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/468289098/square.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

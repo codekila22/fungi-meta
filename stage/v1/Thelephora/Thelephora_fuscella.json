@@ -309,7 +309,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,50",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "",
@@ -327,5 +327,5 @@
   "la_zhtw": "蓮座革菌,,",
   "la_zhcn": "莲座革菌,,"
  },
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

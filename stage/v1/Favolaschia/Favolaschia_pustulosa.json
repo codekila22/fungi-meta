@@ -265,13 +265,13 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "lateral,absent",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -286,7 +286,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "膠質多孔小菇，帽扇形至圓形具放射狀大孔、白至淡色，柄短偏生，生於腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -298,5 +298,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11727685/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

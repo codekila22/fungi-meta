@@ -380,7 +380,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Elevation": "low",
   "Tropical": "",
@@ -393,7 +393,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Serpula similis,,",
-  "Note": "",
+  "Note": "金褐色齒菌，平伏於腐木被密集下垂軟刺，孢面褐色，熱帶木材腐生。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "相似乾腐菌,,",
   "la_zhcn": "相似干腐菌,,"
@@ -407,5 +407,5 @@
    "src": "https://static.inaturalist.org/photos/171286160/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

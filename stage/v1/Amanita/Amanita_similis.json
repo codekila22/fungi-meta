@@ -274,8 +274,8 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "yes,sheathing",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "6,15",
+  "StalkLengthRangeValuess": "60,120",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Elevation": "",
@@ -303,5 +303,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14759208/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

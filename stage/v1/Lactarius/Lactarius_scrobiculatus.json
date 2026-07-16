@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "scrobiculatus",
  "date": [
+  "07/13/2026,27592920373725032",
   "06/10/2025,9842001579243518",
   "06/06/2025,9814879908622352"
  ],
@@ -90,6 +91,14 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_scrobiculatus_0e65eb40-4e61-11f0-a425-b58a84272398_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_scrobiculatus_27592920373725032_d177c830-803b-11f1-ad19-23a1d6387027_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_scrobiculatus_27592920373725032_d177c830-803b-11f1-ad19-23a1d6387027_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -97,7 +106,7 @@
  ],
  "meta": {
   "CapColors": "4291605388",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "60,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -115,20 +124,25 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "15,40",
+  "StalkLengthRangeValuess": "30,40",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "乳汁為黃色。",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Lactarius aff. scrobiculatus,,",
+  "Note": "菌柄表面佈滿淺色凹窩，通常比周圍表面更容易轉為強烈的黃色。此種的乳汁為黃色。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "窩柄黃乳菇之相似種,,",
+  "la_zhcn": "窝柄黄乳菇之相似种,,"
  },
  "inaturalist": [
   {
@@ -153,5 +167,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

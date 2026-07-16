@@ -287,7 +287,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -300,7 +300,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "革質韌菌，漏斗至扇形光滑灰褐，子實層平滑，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -312,5 +312,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112302068/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

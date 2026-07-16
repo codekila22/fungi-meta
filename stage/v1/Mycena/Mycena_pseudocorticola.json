@@ -352,8 +352,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "5,25",
@@ -367,7 +367,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "藍灰色附生小菇，帽半球形、柄具膠質，附生於樹皮青苔上，濕時呈藍灰色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -379,5 +379,5 @@
    "src": "https://static.inaturalist.org/photos/58411921/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

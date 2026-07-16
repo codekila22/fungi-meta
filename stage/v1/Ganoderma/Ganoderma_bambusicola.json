@@ -303,7 +303,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -329,5 +329,5 @@
   "Note": "生長在枯竹靠近竹根的基部。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

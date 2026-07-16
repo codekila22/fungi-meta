@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "senecis",
  "date": [
+  "07/13/2026,27592956460388090",
   "07/07/2026,27501594889524248",
   "06/28/2026,27426296497054088",
   "06/16/2026,27347606294923109",
@@ -281,6 +282,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Russula_senecis_f36e2ad0-7a03-11f1-bef5-4bf57cd7d16b_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27592956460388090_51120760-8049-11f1-ad19-23a1d6387027_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27592956460388090_51120760-8049-11f1-ad19-23a1d6387027_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27592956460388090_51120760-8049-11f1-ad19-23a1d6387027_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27592956460388090_51120760-8049-11f1-ad19-23a1d6387027_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -304,8 +321,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,10",
   "StalkLengthRangeValuess": "50,90",
@@ -336,5 +353,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163088866/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

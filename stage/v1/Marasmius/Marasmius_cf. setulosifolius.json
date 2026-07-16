@@ -276,8 +276,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -295,5 +295,5 @@
   "Note": "",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

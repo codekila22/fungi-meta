@@ -441,10 +441,10 @@
   "StalkColors": "4294967295",
   "StalkTexture": "",
   "StalkHollow": "hollow",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "10,25",
   "StalkLengthRangeValuess": "50,150",
   "HeightRangeValuess": "",
   "Rareness": "common",
@@ -473,5 +473,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133009/thumb."
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

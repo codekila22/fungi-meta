@@ -358,10 +358,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "2,6",
   "StalkLengthRangeValuess": "10,70",
   "HeightRangeValuess": "",
   "Rareness": "common",
@@ -386,5 +386,5 @@
    "src": "https://static.inaturalist.org/photos/102975356/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

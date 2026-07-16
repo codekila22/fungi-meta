@@ -2,6 +2,7 @@
  "genus": "Inocybe",
  "name": "cincinnata",
  "date": [
+  "07/14/2026,27595355963481473",
   "06/16/2026,27347651518251920",
   "05/24/2026,27365362176480854",
   "06/15/2024,7507295486047484",
@@ -101,6 +102,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Inocybe_cincinnata_d2f78570-7108-11f1-a16f-0b14e3dad96d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_27595355963481473_d5c3dbe0-805e-11f1-98ac-13bd3a7a9bd4_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_27595355963481473_d5c3dbe0-805e-11f1-98ac-13bd3a7a9bd4_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_27595355963481473_d5c3dbe0-805e-11f1-98ac-13bd3a7a9bd4_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_27595355963481473_d5c3dbe0-805e-11f1-98ac-13bd3a7a9bd4_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -130,8 +147,10 @@
   "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -158,5 +177,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

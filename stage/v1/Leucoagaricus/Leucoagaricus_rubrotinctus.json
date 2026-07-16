@@ -270,11 +270,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,8",
+  "StalkLengthRangeValuess": "40,90",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -285,7 +285,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅褐環柄菇，帽白具紅褐至栗色放射狀纖絲鱗被、中央深色，柄具環，闊葉林腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -297,5 +297,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314755/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

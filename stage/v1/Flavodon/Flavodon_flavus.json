@@ -315,6 +315,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -325,7 +326,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃色齒孔菌，平伏反捲、子實層黃色齒狀至迷宮孔狀，革質，熱帶闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -337,5 +338,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/118969576/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

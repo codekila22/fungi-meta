@@ -370,8 +370,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "mycelium",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "20,30",
@@ -400,5 +400,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4482547/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

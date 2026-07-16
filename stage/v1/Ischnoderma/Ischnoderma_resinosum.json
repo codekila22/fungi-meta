@@ -239,7 +239,7 @@
  ],
  "meta": {
   "CapColors": "4287317267",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "70,300",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -249,7 +249,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -259,6 +259,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -269,7 +270,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "樹脂多孔菌，帽扇形被絨毛紅褐、幼時滲樹脂滴，孔面白色傷變褐，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -309,5 +310,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

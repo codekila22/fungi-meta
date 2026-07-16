@@ -227,7 +227,7 @@
  ],
  "meta": {
   "CapColors": "4288696877,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -237,7 +237,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -247,7 +247,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,50",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -258,7 +258,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Sanghuangporus sanghuang,,",
-  "Note": "",
+  "Note": "硬毛革孔菌，帽扇形褐色被粗毛具環紋，孔面褐色小孔，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "桑黃,,",
   "la_zhcn": "桑黄,,"
@@ -272,5 +272,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24398545/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

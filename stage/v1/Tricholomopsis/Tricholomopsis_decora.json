@@ -254,13 +254,14 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "3,6",
   "StalkLengthRangeValuess": "20,50",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "mid,high",
   "Seasons": "",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
@@ -271,7 +272,6 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "常生長於中高海拔針葉木的枯木上。",
-  "Elevation": "mid,high",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -297,5 +297,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

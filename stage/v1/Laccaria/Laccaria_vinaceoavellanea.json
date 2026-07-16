@@ -248,8 +248,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -263,7 +263,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "酒褐色蠟蘑，帽凸至平中凹肉桂粉褐、菌褶粉褐稀疏，柄纖維質同色，闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -275,5 +275,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/46460711/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

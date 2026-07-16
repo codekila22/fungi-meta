@@ -372,11 +372,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "15,35",
+  "StalkLengthRangeValuess": "80,200",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Elevation": "low,mid",
@@ -390,7 +390,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "大型黑褐鵝膏，帽被暗褐錐狀疣突（似巧克力餅乾），具環與菌托，闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -402,5 +402,5 @@
    "src": "https://static.inaturalist.org/photos/101674066/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

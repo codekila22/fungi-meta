@@ -2,6 +2,7 @@
  "genus": "Leucocoprinus",
  "name": "birnbaumii",
  "date": [
+  "07/15/2026,27595000410183695",
   "06/29/2026,27407441352272936",
   "11/01/2025,24858482347168862",
   "07/12/2025,10084208191689521",
@@ -404,7 +405,7 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "1,4",
   "StalkLengthRangeValuess": "30,100",
   "HeightRangeValuess": "",
   "Rareness": "common",
@@ -443,5 +444,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

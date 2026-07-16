@@ -255,7 +255,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4291605388,4288244511",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -286,7 +286,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黑色炭角菌，子座棒狀至分枝、表面炭黑具白色內裡，生於腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -298,5 +298,5 @@
    "src": "https://static.inaturalist.org/photos/108271478/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

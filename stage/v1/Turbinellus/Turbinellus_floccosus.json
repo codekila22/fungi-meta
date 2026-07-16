@@ -308,7 +308,7 @@
   "StalkBase": "rooting",
   "StalkDiamRangeValuess": "5,15",
   "StalkLengthRangeValuess": "30,70",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "60,300",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -321,7 +321,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "橙紅色喇叭狀真菌，帽漏斗形被橙紅鱗片，下表面脈狀稜脊延生（非真菌褶），生於針葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -333,5 +333,5 @@
    "src": "https://static.inaturalist.org/photos/52836567/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

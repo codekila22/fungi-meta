@@ -379,8 +379,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -395,7 +395,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Crepidotus yuanchui,,",
-  "Note": "",
+  "Note": "硫黃色小扇菇，無柄側生於枯木，帽扇形被細絨黃色，菌褶褐色，孢子鏽褐。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "鵷雛靴耳,,",
   "la_zhcn": "鹓雏靴耳,,"
@@ -409,5 +409,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155114712/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

@@ -238,8 +238,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "2,3",
@@ -253,7 +253,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "具短柄的小扇菇，帽扇形至圓形淡褐、具偏生短柄（異於多數無柄靨菇），生於腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -265,5 +265,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40742120/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

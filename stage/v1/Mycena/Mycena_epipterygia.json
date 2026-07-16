@@ -286,8 +286,8 @@
   "StalkColors": "4294967040",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "40,90",
@@ -302,7 +302,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Mycena aff. epipterygia,,",
-  "Note": "",
+  "Note": "黃綠柄小菇，帽鐘形黏滑可撕表皮灰褐，柄細長黃綠黏滑，生於針葉林苔地腐木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "黃柄小菇之相似種,,",
   "la_zhcn": "黄柄小菇之相似种,,"
@@ -344,5 +344,5 @@
    "src": "https://static.inaturalist.org/photos/281196536/square.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

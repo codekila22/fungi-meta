@@ -321,8 +321,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -337,7 +337,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰黑色微小扇菇，無柄側生於枯木，帽貝殼形被細毛、菌褶灰放射狀，膠質。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -349,5 +349,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/72349864/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

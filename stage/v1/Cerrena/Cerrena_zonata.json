@@ -351,7 +351,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -384,5 +384,5 @@
    "src": "https://static.inaturalist.org/photos/2341604/thumb.JPG"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

@@ -278,7 +278,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294962944,4288335154",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -298,7 +298,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -311,7 +311,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "膠質綠頭菌，頭部凸具不規則裂葉橄欖黃綠，柄黃具綠色顆粒黏滑，群生於林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -323,5 +323,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254164000/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

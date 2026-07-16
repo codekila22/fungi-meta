@@ -281,7 +281,7 @@
  ],
  "meta": {
   "CapColors": "4294940928,4294944000",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,12",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -301,7 +301,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,25",
   "Rareness": "",
   "Elevation": "low,mid",
   "Tropical": "",
@@ -314,7 +314,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "橙黃色膠質匙形菌（桂花耳），子實體匙至扇形橙黃膠質，叢生於腐木或加工木材。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -326,5 +326,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11379334/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

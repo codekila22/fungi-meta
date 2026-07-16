@@ -394,6 +394,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "3,10",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -404,7 +405,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "小型綠盤菌，將木材染成藍綠色，盤狀子實體青綠具短柄，生於腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -430,5 +431,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

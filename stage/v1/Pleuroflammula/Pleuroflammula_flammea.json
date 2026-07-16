@@ -326,8 +326,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -342,7 +342,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "火焰色小菇，帽橙褐至鏽紅具細鱗、菌褶鏽色，柄纖維狀，生於腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -354,5 +354,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/173016823/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

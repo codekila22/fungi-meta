@@ -321,8 +321,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,10",
   "StalkLengthRangeValuess": "50,100",
@@ -339,7 +339,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Entoloma conferendum,,",
-  "Note": "",
+  "Note": "灰褐色斗笠形菇，帽具乳突、柄細長具縱條紋易脆，孢子粉紅具稜角，生於林地。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "星孢粉褶菌,,",
   "la_zhcn": "星孢粉褶菌,,"
@@ -360,5 +360,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/189639096/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

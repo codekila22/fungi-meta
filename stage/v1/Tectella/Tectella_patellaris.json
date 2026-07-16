@@ -316,8 +316,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -332,7 +332,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黑褐色膠質貝形菇，無明顯柄側生，幼時具膜質菌幕覆菌褶，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -344,5 +344,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58965702/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

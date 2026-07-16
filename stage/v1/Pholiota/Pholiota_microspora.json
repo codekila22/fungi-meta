@@ -375,7 +375,7 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "3,8",
   "StalkLengthRangeValuess": "50,70",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -390,7 +390,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "滑菇，帽橙褐色具膠質黏液層，柄具纖維環痕，叢生於闊葉樹倒木，日本常見栽培。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -402,5 +402,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1695576/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

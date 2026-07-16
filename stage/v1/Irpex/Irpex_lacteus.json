@@ -394,7 +394,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,3",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -404,7 +404,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped",
@@ -415,7 +415,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白色平伏至反捲的孔齒菌，孔面撕裂成扁齒狀（似孔似齒），革質，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -427,5 +427,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/136688/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

@@ -250,11 +250,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "15,25",
+  "StalkLengthRangeValuess": "50,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -265,7 +265,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "茶色點鵝膏（blusher），帽紅褐被粉紅褐疣、傷變酒紅色，具溝紋環，柄基球狀，針闊葉林。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -305,5 +305,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/228980524/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

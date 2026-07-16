@@ -126,7 +126,7 @@
  ],
  "meta": {
   "CapColors": "4291998860,4290547599",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "60,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -144,20 +144,25 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "15,40",
+  "StalkLengthRangeValuess": "30,40",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Lactarius scrobiculatus,,",
   "Note": "",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "窩柄黃乳菇,,",
+  "la_zhcn": "窝柄黄乳菇,,"
  },
  "inaturalist": [
   {
@@ -182,5 +187,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

@@ -313,7 +313,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "50,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -324,7 +324,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "長柄靈芝狀多孔菌，帽腎形褐色具漆狀光澤，柄長側生，生於闊葉樹根部。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -336,5 +336,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40317135/thumb.jpeg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }

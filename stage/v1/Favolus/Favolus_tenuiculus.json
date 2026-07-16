@@ -298,7 +298,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "lateral",
   "StalkColors": "4294967295",
   "StalkTexture": "",
@@ -308,7 +308,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "2,10",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped,scattered",
@@ -333,5 +333,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/104262321/thumb.jpg"
   }
  ],
- "timestamp": "20260715-183550"
+ "timestamp": "20260716-084545"
 }
