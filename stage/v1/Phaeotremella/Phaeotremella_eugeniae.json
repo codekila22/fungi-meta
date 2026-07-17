@@ -36,7 +36,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4283244288",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "尤金暗銀耳，種小名eugeniae紀念俄羅斯真菌學家Eugenia Bulakh。子實體膠質、黑褐色而帶鏽色暈、乾後全黑，呈海藻狀（具分枝而波狀起伏之葉狀體），生於櫟樹之枯死附枝與新落枝上，模式產地為俄羅斯遠東。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -78,5 +78,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/47680284/thumb.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

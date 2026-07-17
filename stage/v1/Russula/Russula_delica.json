@@ -52,7 +52,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,160",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -67,11 +67,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "20,40",
+  "StalkLengthRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -82,7 +82,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "美味紅菇，種小名delica源自拉丁文delicus，意為「無乳汁的」，指本屬不似乳菇屬會流出乳汁。蓋白色而常染赭褐、緣內捲、幼時凸後平展至漏斗形、表面粗糙常埋於土中而黏附落葉，菌褶延生而密、白色，柄短而粗壯結實，肉白不變色。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -108,5 +108,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

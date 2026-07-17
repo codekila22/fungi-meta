@@ -53,8 +53,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -69,7 +69,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "濃香乳菇，種小名camphoratus意為「具樟腦氣味的」，指其特殊而濃烈之氣味。子實體小型，蓋紅褐至暗肉桂褐、中央常具小凸尖，菌褶密而色近蓋，柄與蓋同色，乳汁水狀乳白而不變色，乾燥後散發極濃烈之咖哩／葫蘆巴般甜香，生於針闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -81,5 +81,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109469768/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

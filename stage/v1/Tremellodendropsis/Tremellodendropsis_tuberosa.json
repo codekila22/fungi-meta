@@ -32,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4294309365,4294967280",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -52,6 +52,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "30,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -62,7 +63,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "種珊瑚銀耳，種小名tuberosa意為「具塊莖的」，指其基部膨大如塊莖。子實體珊瑚狀、由粗基部向上分枝、枝扁而端尖，全體白至淡黃或帶灰，質韌而非膠質（與銀耳類相異），地生於林地與草地之苔蘚間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -74,5 +75,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9224/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

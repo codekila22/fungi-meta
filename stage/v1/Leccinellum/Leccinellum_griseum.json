@@ -72,8 +72,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -81,13 +81,13 @@
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "other",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰小疣柄牛肝菌，種小名griseum意為「灰色的」，指其灰褐色菌蓋。蓋凸形、灰褐至淡褐或帶橄欖色，柄淡灰、細長而具縱向溝紋（本種辨識要點），肉白、切開後緩慢轉灰紫色（柄部尤明顯），味溫和，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -99,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5816645/square.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

@@ -56,7 +56,7 @@
  ],
  "meta": {
   "CapColors": "4289234522,4285418030",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -71,11 +71,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,6",
+  "StalkLengthRangeValuess": "20,30",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -87,7 +87,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "暗毛絲蓋傘，種小名lacera意為「撕裂的」，指其蓋面纖毛狀鱗片常龜裂如撕裂狀。蓋褐色、凸形而具小凸尖、密被翹起之纖毛鱗，菌褶淡褐轉褐，柄纖絲狀、基部略膨而色較深、向頂漸淡，孢子印褐色，群生於林地與路旁砂土。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -120,5 +120,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

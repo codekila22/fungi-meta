@@ -165,7 +165,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "猴頭菇，種小名erinaceus意為「刺蝟的」，喻其密生下垂長刺如刺蝟。子實體白色球塊狀5–40cm、不分枝，密生1–5cm下垂軟刺（子實層），無帽亦無柄，生於櫟、山毛櫸等闊葉樹傷口與枯木。",
+  "Note": "猴頭菇，種小名erinaceus意為「刺蝟的」，喻其密生下垂長刺如刺蝟。子實體白色球塊狀、不分枝，密生下垂軟刺（子實層），無帽亦無柄，生於櫟、山毛櫸等闊葉樹傷口與枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -177,5 +177,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13419525/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

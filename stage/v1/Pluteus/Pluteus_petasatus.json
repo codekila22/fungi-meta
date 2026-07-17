@@ -24,7 +24,7 @@
  ],
  "meta": {
   "CapColors": "4294634455,4288768839,4294309365",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "45,180",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -39,11 +39,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,10",
+  "StalkLengthRangeValuess": "50,130",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -54,7 +54,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "寬蓋光柄菇，種小名petasatus意為「戴寬邊帽的」，指其寬大之菌蓋。蓋4.5–18cm、初凸圓後平展、表面平滑光亮而微黏、白至白灰色，中央色較深；菌褶離生、密、寬達15mm、初白後轉粉；柄5–13cm，生於木屑堆上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -66,5 +66,5 @@
    "src": "https://static.inaturalist.org/photos/77345585/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

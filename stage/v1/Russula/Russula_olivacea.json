@@ -36,7 +36,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4290547599",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "100,300",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -51,11 +51,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "20,60",
+  "StalkLengthRangeValuess": "70,180",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "青黃紅菇，種小名olivacea意為「橄欖色的」，指其幼時蓋色。蓋幼時黃橄欖色、老熟轉鏽褐、大型而幼時凸後平展，菌褶淡黃而厚，柄粗壯而等粗、常帶淡粉紅暈，肉白而堅實，為本屬中最大型者之一，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -78,5 +78,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/166321175/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

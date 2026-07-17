@@ -75,8 +75,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "50,80",
@@ -90,7 +90,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "血紅菇，種小名sanguinea意為「血紅色的」，指其鮮血紅色菌蓋。蓋血紅至玫瑰紅、乾燥而略被粉霜、表皮不易剝離，菌褶白至奶油色而略延生，柄常帶粉紅暈，肉白而味辛辣，外生菌根專一生於松林之砂質土。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -102,5 +102,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159036349/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

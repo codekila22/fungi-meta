@@ -40,7 +40,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294901760,4286578816",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,5",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -60,7 +60,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -71,7 +71,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紫棕炭團菌，種小名fuscum意為「暗褐色的」，指其子座之暗紫褐色。子座單生時直徑2–5mm、高0.5–2mm、半球形；鄰近子座常相互癒合而形成大片群集，直徑可達6cm，生於榛、赤楊等闊葉樹之枯枝上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -90,5 +90,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/67916137/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

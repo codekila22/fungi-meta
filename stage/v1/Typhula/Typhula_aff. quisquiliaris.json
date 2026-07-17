@@ -76,7 +76,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "3,9",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -87,7 +87,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "蕨生枝瑚菌之相似種，種小名quisquiliaris意為「碎屑、殘渣的」，指其生於枯死之蕨類殘體。子實體極小而純白，由一明顯之「頭」與「柄」構成，頭部棒狀而柄極細，散生或群生於前一年枯死之蕨類（如歐洲蕨）葉柄與殘莖上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -99,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/233491231/square.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

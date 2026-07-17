@@ -32,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4291648604,4286578688",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -47,8 +47,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -62,7 +62,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "脆紅菇，種小名fragilis意為「易碎的」，指其肉質極脆弱。蓋紫紅至暗紫或帶綠與橄欖暈、色澤多變、表皮易剝離，菌褶白色而緣具細鋸齒（本種辨識要點），柄白色、圓柱形而極脆，味極辛辣，具水果糖般氣味，外生菌根生於潮濕林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -130,5 +130,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

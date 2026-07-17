@@ -52,7 +52,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "striated",
@@ -67,11 +67,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1.5,3",
+  "StalkLengthRangeValuess": "4,25",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -83,7 +83,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "條蓋盔孢傘，種小名sulciceps意為「具溝紋之蓋」，指蓋面溝紋。蓋幼時卵形後凸而終平展下凹、中央具乳突狀凸尖，具明顯變水性（濕時黃褐、乾時赭色而緣暗褐），表面平滑近膠質，菌褶寬而延生，柄細無環，生於腐木與腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -95,5 +95,5 @@
    "src": "https://static.inaturalist.org/photos/244429305/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

@@ -65,7 +65,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.3,0.6",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -85,7 +85,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "2.9,6.1",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped",
@@ -96,7 +96,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "岩生多枝瑚菌，種小名petricola意為「生於岩石的」，指其生育環境。子實體極微小、單生不分枝（罕分叉）之細棒狀、白色，散生於岩石表面，本種為地衣化之真菌，與綠藻共生而於潮濕岩面形成薄層，需俯身細察方能發現。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -108,5 +108,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

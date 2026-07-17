@@ -66,6 +66,7 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "high",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -76,8 +77,7 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "生長於高海拔針葉樹鐵杉的活樹皮上。",
-  "Elevation": "high",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

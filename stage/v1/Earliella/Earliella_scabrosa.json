@@ -558,7 +558,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "粗硬春孔菌，貝殼形，表面漸披紅褐色殼皮而具白邊，孔面每毫米二至三孔，生於闊葉樹枯木上。",
+  "Note": "粗硬春孔菌，貝殼形，表面漸披紅褐色殼皮而具白邊，生於闊葉樹枯木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -570,5 +570,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27689893/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

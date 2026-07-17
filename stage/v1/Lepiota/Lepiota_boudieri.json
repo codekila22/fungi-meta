@@ -41,7 +41,7 @@
  ],
  "meta": {
   "CapColors": "4294940928,4286578688",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -56,11 +56,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
+  "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1.5,5",
+  "StalkLengthRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
@@ -71,7 +71,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "布氏環柄菇，種小名boudieri題獻法國真菌學家布迪埃（Jean Louis Émile Boudier）。蓋1–4cm、初圓錐鐘形後凸圓、老時略凹，幼時蓋緣內捲而懸有白色菌幕殘片；柄2–6cm、粗1.5–5mm、初實心後中空。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -83,5 +83,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/53586309/square.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

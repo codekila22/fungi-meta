@@ -64,7 +64,7 @@
  ],
  "meta": {
   "CapColors": "4284635991",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -95,7 +95,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "革馬鞍菌，種小名corium意為「皮革」，指其子實體質地堅韌如皮革。子囊果杯狀、黑色、外表面被鱗片或細絹絲狀纖毛，柄短而細、上部黑而基部灰、圓柱形並於基部具圓稜，質韌，春夏生於潮濕之砂地、路旁與苔蘚間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -107,5 +107,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/73916226/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

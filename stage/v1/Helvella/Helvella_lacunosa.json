@@ -32,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4278190080,4286141768,4283244288",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -52,6 +52,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "30,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -62,7 +63,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "多窪馬鞍菌，種小名lacunosa意為「具凹穴的」，指其菌柄表面深具縱溝與凹陷。子囊果之帽不規則折疊皺曲呈馬鞍狀、灰至黑色，緣常與柄癒合，柄灰黑、表面具深縱溝與稜脊、內部分隔成多室，質脆，生於林地與火燒跡地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -74,5 +75,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2730253/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

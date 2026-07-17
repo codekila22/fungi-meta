@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4294944000,4293313372,4294956800",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -79,7 +79,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "薄蓋蠟孔菌，種小名leptocephalus源自希臘文，意為「細頭的」，指其菌蓋相對細小。蓋幼時紅褐、老熟轉黃灰、平滑，孔面白色而傷處略轉褐、孔延生於柄，柄基部具黑色部分（與近緣種之區別在黑色僅及柄基），肉韌薄，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -91,5 +91,5 @@
    "src": "https://static.inaturalist.org/photos/59160825/square.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

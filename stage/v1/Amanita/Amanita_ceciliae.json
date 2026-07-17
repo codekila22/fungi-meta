@@ -66,8 +66,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "yes,dissociated",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "20,40",
+  "StalkLengthRangeValuess": "70,180",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -77,7 +77,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "圈托鱗鵝膏菌，種小名ceciliae為紀念人名Cecilia之獻名。蓋褐至灰褐、被灰色塊狀外菌幕殘片、緣具明顯溝紋，菌褶白色，柄白而無菌環（本種屬無環之鵝膏），基部之菌托破碎成數圈環帶狀殘餘，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -89,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239718/thumb.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

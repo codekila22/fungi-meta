@@ -46,7 +46,7 @@
  ],
  "meta": {
   "CapColors": "4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -61,23 +61,23 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "20,35",
+  "StalkLengthRangeValuess": "50,130",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "blue",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "敏感牛肝菌，種小名sensibilis源自拉丁文，意為「敏感的」，指其觸之幾乎瞬間轉藍。蓋幼時污粉紅至磚紅、老熟褪為紅肉桂色、凸形而漸展，柄近圓柱而呈典型棒狀，全體受傷極速變藍，具類似咖哩之特殊氣味，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -103,5 +103,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

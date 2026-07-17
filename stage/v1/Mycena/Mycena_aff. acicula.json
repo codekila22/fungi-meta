@@ -63,10 +63,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "0.5,1",
   "StalkLengthRangeValuess": "10,50",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -81,7 +81,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅橘小菇之相似種，種小名acicula意為「小針」，喻其纖細如針之子實體。蓋橙紅至橙黃、幼時凸而後成鐘形、表面被細粉、半透明而具溝紋，菌褶淡黃至淡橙，柄黃色、極細而柔韌易彎、基部被白色硬直剛毛，生於潮濕之腐木與落葉間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -93,5 +93,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/150830173/square.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

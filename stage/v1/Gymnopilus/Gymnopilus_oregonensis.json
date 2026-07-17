@@ -44,7 +44,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,25",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -62,8 +62,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,7",
+  "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -75,7 +75,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "奧勒岡裸傘，種小名oregonensis意為「奧勒岡的」，指其模式產地美國奧勒岡州。子實體小型，蓋橙褐至黃褐，菌褶黃轉鏽橙，柄細長而具纖絲，孢子印鏽褐色，叢生於針葉樹腐木、殘樁與木屑上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -87,5 +87,5 @@
    "src": "https://static.inaturalist.org/photos/60685149/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

@@ -36,7 +36,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,55",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -51,11 +51,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,15",
+  "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -67,7 +67,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "朱紅小囊皮菌的相似種，種小名cinnabarina意為「硃砂紅色的」，指其鮮明磚紅色。蓋幼時半球形而後凸至平展、密被硃紅至橙紅色顆粒，菌褶白色，幼時菌幕覆蓋菌褶、撕裂後於柄上留一脆弱菌環，環上柄白而環下被暗橙色顆粒鱗，生於針葉林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -79,5 +79,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24574761/thumb.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

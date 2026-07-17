@@ -44,7 +44,7 @@
  ],
  "meta": {
   "CapColors": "4284635991,4278190080,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -64,7 +64,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -75,7 +75,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "變黑馬勃，種小名nigrescens意為「漸轉黑色的」，指其成熟後全體轉暗黑褐。子實體梨形至倒卵形、幼時白而密被暗褐色尖刺、刺脫落後留網狀疤痕，成熟後外皮轉黑褐並於頂端開一孔散出孢子，內部孢體幼時白而熟後褐紫，生於荒原與針葉林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -87,5 +87,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340204/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

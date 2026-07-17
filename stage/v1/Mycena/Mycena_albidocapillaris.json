@@ -43,8 +43,8 @@
   "StalkColors": "",
   "StalkTexture": "velvety",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "10,30",
@@ -61,7 +61,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白髮小菇，種小名albidocapillaris意為「白色毛髮般的」，指其纖細如髮之白色菌柄。子實體極小而纖弱，蓋白至帶褐、僅數毫米寬，菌褶稀疏而白，柄半透明至白色、細長如髮絲，需俯身細看方能辨識，生於潮濕之腐木與落葉。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -73,5 +73,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8237191/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

@@ -90,11 +90,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "70,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -105,7 +105,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "急躁刺毛鬼傘，種小名impatiens意為「不耐的、急躁的」。蓋幼時卵形、後圓錐至凸形而終平展、淡皮革色、具放射狀溝紋，菌褶初白後轉褐至近黑，柄白色、極細長而近等粗、基部略膨，生於闊葉林落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -117,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11159838/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

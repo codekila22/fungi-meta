@@ -40,7 +40,7 @@
  ],
  "meta": {
   "CapColors": "4286611584,4278202707,4278190335",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,60",
   "CapShape": "",
   "CapTexture": "fine-scales",
   "CapMargin": "",
@@ -55,8 +55,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -85,5 +85,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245403999/square.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

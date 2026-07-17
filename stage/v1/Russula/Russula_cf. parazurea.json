@@ -44,7 +44,7 @@
  ],
  "meta": {
   "CapColors": "4278190219,4283105408,4286578688",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "32,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -59,11 +59,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "7,18",
+  "StalkLengthRangeValuess": "30,55",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -89,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/359473881/thumb.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

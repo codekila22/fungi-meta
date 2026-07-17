@@ -172,7 +172,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體開始是球形，然後變厚，變成碗狀，最後幾乎變成扁平狀。它幾乎沒有柄，直徑約為5-6毫米。",
+  "Note": "子實體開始是球形，然後變厚，變成碗狀，最後幾乎變成扁平狀。它幾乎沒有柄。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -184,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29157119/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

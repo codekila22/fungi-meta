@@ -2,7 +2,7 @@
  "name": "Lepiota",
  "zhtw": "環柄菇屬",
  "zhcn": "环柄菇属",
- "timestamp": "20260717-090027",
+ "timestamp": "20260717-170534",
  "list": [
   {
    "name": "Lepiota aspera",
@@ -33,6 +33,12 @@
    "zhtw": "孟加拉環柄菇",
    "zhcn": "孟加拉环柄菇",
    "img": "Lepiota_bengalensis_1_CC BY-NC_黃雪茹.jpg"
+  },
+  {
+   "name": "Lepiota bettinae",
+   "zhtw": "貝蒂娜環柄菇",
+   "zhcn": "贝蒂娜环柄菇",
+   "img": "Lepiota_bettinae_27612471271769942_7f7a2940-8182-11f1-bc1c-03cdbdc6f262_1.jpg"
   },
   {
    "name": "Lepiota boudieri",

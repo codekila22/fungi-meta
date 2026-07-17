@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -63,11 +63,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "webby",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,15",
+  "StalkLengthRangeValuess": "40,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -79,7 +79,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白紫絲膜菌，種小名alboviolaceus意為「白而紫羅蘭色的」，指其淡紫白色澤。蓋圓錐至具凸尖、乾燥而具絹絲光澤、白至淡丁香紫，肉白至淡紫，柄基部膨大而上部具蛛網狀絲膜（cortina）殘餘，孢子鏽褐，外生菌根生於闊葉林。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -91,5 +91,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/139181778/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

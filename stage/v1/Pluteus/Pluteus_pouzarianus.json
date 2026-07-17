@@ -56,7 +56,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "45,90",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -71,11 +71,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,15",
+  "StalkLengthRangeValuess": "15,95",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -87,7 +87,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "波扎里光柄菇，種小名pouzarianus題獻捷克真菌學家Zdeněk Pouzar。蓋4.5–9cm、幼時凸圓、成熟後平凸、時具小突或淺凹；菌褶離生、頗密、腹鼓狀、寬達11mm、粉紅色；柄1.5–9.5cm、基部略膨大，生於針葉樹腐木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -99,5 +99,5 @@
    "src": "https://static.inaturalist.org/photos/280660738/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

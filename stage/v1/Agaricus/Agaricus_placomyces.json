@@ -78,7 +78,7 @@
   "StalkTexture": "smooth",
   "StalkHollow": "hollow",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "bulbous",
   "StalkDiamRangeValuess": "7,21",
   "StalkLengthRangeValuess": "40,150",
@@ -132,5 +132,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

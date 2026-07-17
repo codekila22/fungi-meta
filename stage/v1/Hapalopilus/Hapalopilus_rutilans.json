@@ -77,7 +77,7 @@
  ],
  "meta": {
   "CapColors": "4291605388",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "25,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -108,7 +108,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅彩孔菌，種小名rutilans意為「泛紅光的」，指其肉桂紅褐色澤。子實體扇形至半圓形而凸、無柄，上表面淡肉桂褐、細絨，孔面同色而孔細，肉軟而多汁、乾後脆，全體遇鹼液（KOH）立即轉鮮紫色為其最醒目之辨識特徵，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -120,5 +120,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/295638822/square.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

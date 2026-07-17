@@ -40,7 +40,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -55,11 +55,11 @@
   "StalkColors": "",
   "StalkTexture": "granules",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,35",
+  "StalkLengthRangeValuess": "50,150",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -71,7 +71,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "褐疣柄牛肝菌，種小名scabrum意為「粗糙的」，指菌柄密被粗糙之疣點鱗（scaber）。蓋褐至茶褐、緣色較淡、平滑而乾至微黏，柄細長向上漸細、白底被白至黑褐色疣鱗，肉白、幼時緊實而旋即海綿質吸水，與樺木共生。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -132,5 +132,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

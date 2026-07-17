@@ -40,7 +40,7 @@
  ],
  "meta": {
   "CapColors": "4278190080,4286141768,4284635991",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "70,180",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -50,7 +50,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,5",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -71,7 +71,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "簇生層孔菌，種小名fasciatus意為「具帶紋的」，指其上表面之同心環帶。子實體無柄、半圓形如蛤蜊、木質而堅硬，上表面具灰、褐等色之同心環帶，孔面白轉褐、傷處染暗褐，多年生於闊葉樹之活立木與枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -83,5 +83,5 @@
    "src": "https://static.inaturalist.org/photos/87094852/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

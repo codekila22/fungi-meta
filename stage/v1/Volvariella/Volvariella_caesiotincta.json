@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4291605388,4284635991",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -66,8 +66,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "yes,sheathing",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,7",
+  "StalkLengthRangeValuess": "30,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
@@ -78,7 +78,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "藍灰小包腳菇，種小名caesiotincta意為「染藍灰色的」，指其菌蓋所帶之青灰色調。蓋3–10cm、幼時凸圓、老時平展而中央具小突；菌褶密、腹鼓狀、初白後轉肉粉色；柄3–10cm、基部具灰橄欖色袋狀菌托，裂為3–5瓣。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -90,5 +90,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/31338184/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

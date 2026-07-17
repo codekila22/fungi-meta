@@ -88,6 +88,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,120",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -98,7 +99,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "火木層孔菌，種小名igniarius意為「與火有關的」，指其乾燥後可作火絨引火之古老用途。子實體多年生、蹄形而木質堅硬，上表面灰黑而龜裂並具同心環溝，孔面褐色、管孔逐年疊生，肉褐色、質硬如木，寄生於柳、樺等闊葉樹之活立木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -124,5 +125,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/72186545/thumb.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

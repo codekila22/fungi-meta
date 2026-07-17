@@ -48,6 +48,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -58,7 +59,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "阿地盤菌，種小名arvernensis意為「奧弗涅（Arvernia）的」，指其模式產地法國中部。子囊果杯狀而後展開近平展、內表面淡褐至黃褐、外表面色較淡而略呈糠麩狀，近無柄，質脆易裂，春夏生於闊葉林地之腐木與土上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -70,5 +71,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13785164/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

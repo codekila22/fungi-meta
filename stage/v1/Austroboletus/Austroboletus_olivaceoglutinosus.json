@@ -56,7 +56,7 @@
  ],
  "meta": {
   "CapColors": "4285101859,4278222848,4283788079",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,55",
   "CapShape": "",
   "CapTexture": "slimy",
   "CapMargin": "",
@@ -71,23 +71,23 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "13,17",
+  "StalkLengthRangeValuess": "100,180",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "red",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黏綠南牛肝菌，種小名olivaceoglutinosus意為「橄欖綠而黏質的」，兼指蓋色與極黏之表面。蓋橄欖綠、老時緣轉綠黃、常黏附昆蟲屍體，幼時蓋緣完全包覆孔面，孔面白轉粉紅、傷變紅灰，柄圓柱形白轉黃、老時中空，具果香。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -99,5 +99,5 @@
    "src": "https://static.inaturalist.org/photos/93305515/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

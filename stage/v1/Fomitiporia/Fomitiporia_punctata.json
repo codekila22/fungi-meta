@@ -91,7 +91,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "5,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -101,6 +101,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,25",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -111,7 +112,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "斑孔嗜藍孢孔菌，種小名punctata意為「具細點的」，指其極微小而密布如點之孔口。子實體墊狀至長條隆起、平伏貼生於枝幹，厚0.5–2.5cm；管層可疊生至十層、常為3–7層；孔口圓形至縱向拉長、每毫米約5–6個、灰至褐色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -123,5 +124,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/169331934/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

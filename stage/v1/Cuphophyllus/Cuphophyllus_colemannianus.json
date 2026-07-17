@@ -36,7 +36,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4287299584",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -51,8 +51,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "rooting",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -67,7 +67,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅褐拱頂菇，種小名colemannianus為紀念人名Coleman之獻名。蓋幼時半球形、成熟寬凸至平展、表面平滑而濕時略油滑、褐色而緣色較淡，菌褶蠟質、厚而明顯延生、白至淡皮革色，柄平滑、白色、無菌環，群生於草地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -79,5 +79,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4161676/thumb."
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

@@ -79,8 +79,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,15",
   "StalkLengthRangeValuess": "40,100",
@@ -95,7 +95,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "尖鱗環銹傘，種小名squarrosoides意為「似squarrosa（翹鱗傘）的」，指其與翹鱗傘相似。蓋白至淡黃底而密被褐色尖翹鱗片、表面於鱗片之間黏滑（為與翹鱗傘區別之點），菌褶初白後轉鏽褐，柄亦被翹鱗並具菌環，孢子印鏽褐，密叢生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -107,5 +107,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/61424/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

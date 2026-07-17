@@ -51,8 +51,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "50,100",
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "條緣鵝膏，種小名spreta意為「被輕視的、遭冷落的」。蓋灰褐至褐灰、中央色最深而緣近白、緣具明顯溝紋，菌褶白至奶油色、離生而極密，柄白而有時泛褐、被細毛至粗毛、具白色裙狀菌環，基部略膨並具囊狀菌托，外生菌根生於砂質林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -78,5 +78,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/143289039/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

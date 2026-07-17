@@ -59,8 +59,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "6,14",
   "StalkLengthRangeValuess": "70,120",
@@ -74,7 +74,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "假淡紅鵝膏，種小名subpallidorosea意為「略呈淡玫瑰色的」，指其蓋色。蓋初白而後現淡粉紅、中央尤顯而緣較淡，菌褶白色、離生而密集，柄白至奶油或淡皮革色、具一薄白色膜質菌環，基部具菌托，外生菌根生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -86,5 +86,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

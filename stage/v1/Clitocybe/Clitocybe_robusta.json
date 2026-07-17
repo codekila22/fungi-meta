@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4292072403",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "60,200",
   "CapShape": "depressed",
   "CapTexture": "",
   "CapMargin": "",
@@ -63,11 +63,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,30",
+  "StalkLengthRangeValuess": "40,150",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -79,7 +79,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "粗壯杯傘，種小名robusta意為「粗壯的」，指其肥厚碩大之子實體。蓋6–20cm、初凸圓後平展而中央淺凹、常不規則扭曲、柔軟而略帶革質、白至污淡黃色；柄4–15cm、粗達3cm、圓柱形而基部可寬至5cm。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -91,5 +91,5 @@
    "src": "https://static.inaturalist.org/photos/11480135/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

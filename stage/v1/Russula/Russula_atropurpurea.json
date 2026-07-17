@@ -56,7 +56,7 @@
  ],
  "meta": {
   "CapColors": "4283244288,4285547028",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -71,11 +71,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,20",
+  "StalkLengthRangeValuess": "30,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -86,7 +86,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黑紫紅菇，種小名atropurpurea意為「暗紫色的」，指其蓋色。蓋暗紫紅至近黑紫、中央尤深而常帶褐、老熟褪色而現黃斑，菌褶白至奶油色而密，柄白色老時現灰斑、圓柱形，肉白而脆、味微辛，外生菌根生於殼斗科林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -105,5 +105,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/246915828/square.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

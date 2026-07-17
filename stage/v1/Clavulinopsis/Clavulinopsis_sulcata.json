@@ -56,7 +56,7 @@
  ],
  "meta": {
   "CapColors": "4294919424,4294921536,4294927175",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,7",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -87,7 +87,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "橙擬鎖瑚菌，種小名sulcata意為「具溝紋的」，指其棒體表面之縱向溝槽。子實體圓柱至略棒狀、橙至橙黃色、單生不分枝、表面具明顯縱溝，下接一細圓柱狀之柄，質脆，地生於林地與草地之苔蘚落葉間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -99,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8929971/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

@@ -87,6 +87,7 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "high",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -97,7 +98,6 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "目前在台灣的發現紀錄皆在高海拔山區。",
-  "Elevation": "high",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -123,5 +123,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

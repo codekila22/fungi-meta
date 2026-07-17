@@ -49,7 +49,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294962944",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -64,11 +64,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,20",
+  "StalkLengthRangeValuess": "40,100",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -80,7 +80,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃褶口蘑，種小名equestre意為「騎士的」。蓋黃色而中央常帶褐暈、表面微黏而常黏附砂粒，菌褶硫黃色、密而凹生，柄黃色、基部帶褐，肉白至淡黃，外生菌根生於砂質松林，常半埋於砂中。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -113,5 +113,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

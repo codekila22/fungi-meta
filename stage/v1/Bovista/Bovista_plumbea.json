@@ -56,6 +56,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "15,35",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -66,7 +67,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "鉛色灰球菌，種小名plumbea意為「鉛灰色的」，指其外皮脫落後內皮呈鉛灰色。子實體小型、球形至略扁，外皮白而成熟後整片脫落、露出鉛灰至藍灰之光滑內皮，頂端開一孔散出孢子，以一束菌絲固著於地，常脫落隨風滾動，地生於草地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -78,5 +79,5 @@
    "src": "https://static.inaturalist.org/photos/22024877/thumb.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

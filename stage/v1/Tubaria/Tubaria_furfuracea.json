@@ -61,7 +61,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -76,11 +76,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "10,60",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -92,7 +92,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "鱗皮假臍菇，種小名furfuracea意為「麩皮狀的」，指蓋緣附著糠麩狀之菌幕碎屑。蓋橙褐、凸至平展而中央下凹、具變水性，緣具白色鱗屑狀菌幕殘片、遇雨或老熟則消失，菌褶褐色、附生至略延生，柄細，冬季亦見，生於木屑與枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -111,5 +111,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29470374/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

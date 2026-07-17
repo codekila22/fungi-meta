@@ -79,7 +79,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌絲體可以伸長到20cm。",
+  "Note": "菌絲體可以伸長。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -91,5 +91,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2043394/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

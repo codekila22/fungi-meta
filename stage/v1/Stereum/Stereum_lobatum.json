@@ -32,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294083840,4294931200",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -63,7 +63,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Stereum subtomentosum,Stereum ostrea,",
-  "Note": "",
+  "Note": "脫毛韌革菌，種小名lobatum意為「具裂片的」，指其子實體邊緣呈波狀裂片。子實體薄而革質、扇形至半圓形、常癒合成覆瓦狀群，上表面具環帶而被絨後漸脫落，子實層平滑、赭黃至褐色，肉韌薄，生於闊葉樹枯木與倒木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "絨毛韌革菌,蠔韌革菌,",
   "la_zhcn": "绒毛韧革菌,蚝韧革菌,"
@@ -77,5 +77,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/118564087/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

@@ -86,6 +86,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "3,15",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -96,7 +97,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "莓型炭團菌，種小名fragiforme意為「草莓形的」，指其半球形子座表面之疣突如草莓。子座半球形、群生而常癒合、幼時磚紅至鏽紅、老熟轉黑褐至黑，表面具15–25個疣狀突起（各為一子囊殼之開口），質硬如炭，生於山毛櫸等闊葉樹之枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -108,5 +109,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1334549/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

@@ -121,7 +121,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -139,8 +139,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,15",
+  "StalkLengthRangeValuess": "50,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -152,7 +152,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "堅殼田頭菇，種小名putaminum意為「果核、堅殼的」，指其常發生於果核與木質碎屑堆置處。蓋凸形而後平展、有時具淺凸尖、赭黃至淡褐，菌褶初淡後轉褐，柄圓柱形、頂端與棒狀基部均較粗，肉白而傷不變色，生於木屑與碎石地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -164,5 +164,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5412723/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

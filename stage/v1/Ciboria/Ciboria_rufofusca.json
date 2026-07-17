@@ -48,6 +48,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,25",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -58,7 +59,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "赤褐杯盤菌，種小名rufofusca意為「紅褐而暗的」，指其色澤。子囊果杯狀、幼時泡狀而後展開，內表面褐至栗紫紅，外表面色較淡，柄暗褐至近黑、短，專生於冷杉（Abies）之落地毬果鱗片上，為其識別要點。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -70,5 +71,5 @@
    "src": "https://static.inaturalist.org/photos/485218/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

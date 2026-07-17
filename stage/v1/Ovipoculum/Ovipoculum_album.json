@@ -294,6 +294,7 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "high",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "bamboo",
@@ -304,8 +305,7 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "高海拔地區物種。",
-  "Elevation": "high",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

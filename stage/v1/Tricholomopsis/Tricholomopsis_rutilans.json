@@ -367,6 +367,7 @@
   "StalkLengthRangeValuess": "50,100",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "mid,high",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
@@ -377,7 +378,6 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "夏秋時節常生長在中高海拔針葉木腐爛的枯木或附近地上，菌柄與菌蓋同色。",
-  "Elevation": "mid,high",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -417,5 +417,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

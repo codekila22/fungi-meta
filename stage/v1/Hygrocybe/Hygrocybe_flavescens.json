@@ -63,11 +63,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,15",
+  "StalkLengthRangeValuess": "40,90",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -78,7 +78,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "淺黃褐濕傘，種小名flavescens意為「漸轉黃色的」，指其橙黃色澤老熟後褪為黃色。蓋幼時較橙、後轉鮮黃、凸形而後平展、表面濕時黏滑，菌褶蠟質、黃色、附生至狹附生，柄黃色而乾（為與近似之硫黃濕傘區別之點），群生於林地與草地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -97,5 +97,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1451471/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

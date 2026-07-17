@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4288217142,4291648604",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -63,8 +63,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -78,7 +78,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "樺林紅菇，種小名betularum意為「樺樹林的」，指其專與樺木共生。蓋凸至平展而中央常下凹、白至淡粉或深粉、多為白底泛粉暈而中央轉赭黃、緣展開後具溝紋並具低疣，表皮可完全剝離，柄白而細長，肉極脆、味辛辣。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -90,5 +90,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159869608/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

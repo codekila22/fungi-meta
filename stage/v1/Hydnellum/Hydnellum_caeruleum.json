@@ -45,7 +45,7 @@
  ],
  "meta": {
   "CapColors": "4278190335",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -67,6 +67,7 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "high",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -77,7 +78,6 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "高海拔物種。",
-  "Elevation": "high",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -89,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2271017/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

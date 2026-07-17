@@ -122,7 +122,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "60,200",
   "Rareness": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered,grouped",
@@ -133,7 +133,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Calvatia excipuliformis,,",
-  "Note": "子實體高度約6-30cm，只有菌肉白色時可食。",
+  "Note": "子實體只有菌肉白色時可食。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -154,5 +154,5 @@
    "src": "https://static.inaturalist.org/photos/146096626/square.jpeg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

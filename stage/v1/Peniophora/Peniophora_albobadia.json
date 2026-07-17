@@ -74,7 +74,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -105,7 +105,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白褐隔孢伏革菌，種小名albobadia由albo-（白）與badi-（紅褐）組成，精確描述其可孕部位與邊緣間之鮮明對比。子實體平伏於枯枝、中央具紅褐至近黑之環帶而邊緣為毛茸茸之白色帶，質革，乾後常捲翹，生於闊葉樹之枯死附枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -117,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28856622/thumb.jpg"
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

@@ -46,6 +46,7 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "high",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -55,8 +56,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "台灣高海拔拍攝記錄。",
-  "Elevation": "high"
+  "Note": "台灣高海拔拍攝記錄。"
  },
  "inaturalist": [
   {
@@ -81,5 +81,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }

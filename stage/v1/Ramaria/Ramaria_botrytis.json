@@ -56,7 +56,7 @@
  ],
  "meta": {
   "CapColors": "4290547599,4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,300",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -76,7 +76,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "60,200",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -87,7 +87,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "叢枝瑚菌，種小名botrytis意為「似葡萄串的」，指其密集分枝之形態。子實體大型而肉質、形似海中珊瑚，由粗短之柄向上反覆分枝，主枝粗、末枝細而頂端常分為五至七小枝，枝端粉紅至酒紅色而枝體乳白至淡黃，地生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -127,5 +127,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-090027"
+ "timestamp": "20260717-170534"
 }
