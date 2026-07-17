@@ -202,7 +202,7 @@
   "HeightRangeValuess": "20,80",
   "Rareness": "",
   "Elevation": "low",
-  "Tropical": "yes",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,ground",
@@ -212,7 +212,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "靠近樹幹周圍與地下腐木連結生長到地面。",
+  "Note": "靠近樹幹周圍，與地下腐木連結生長到地面。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -224,5 +224,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63460330/thumb.jpeg"
   }
  ],
- "timestamp": "20260717-170534"
+ "timestamp": "20260717-170910"
 }
