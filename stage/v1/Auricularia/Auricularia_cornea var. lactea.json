@@ -152,7 +152,7 @@
  ],
  "meta": {
   "CapColors": "4294309365,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,90",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -172,7 +172,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "",
   "Elevation": "low",
   "Tropical": "",
@@ -185,8 +185,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "玉木耳，變種名lactea意為「乳白色的」，指其純白色（為毛木耳之白色栽培變種）。子實體膠質耳狀、純白至乳白、上表面被細絨毛，叢生於闊葉樹枯木，為人工栽培品系。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

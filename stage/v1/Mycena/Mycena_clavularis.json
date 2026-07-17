@@ -125,11 +125,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0.5,1",
+  "StalkLengthRangeValuess": "10,30",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -141,7 +141,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "棒柄小菇，種小名clavularis意為「小棒狀的」。蓋微小、灰白半透明而具溝紋，菌褶稀疏，柄極細且被膠質層、基部具盤狀附著物，附生於樹皮苔蘚間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -153,5 +153,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/328865585/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

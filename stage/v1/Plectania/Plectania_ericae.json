@@ -117,6 +117,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "occacional",
   "Seasons": "spring,winter,autumn",
   "GrowthType": "scattered,grouped",
@@ -127,7 +128,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "歐石楠暗盤菌，種小名ericae意為「歐石楠屬（Erica）的」，指其生育環境。子實體杯狀至盤狀、盤面黑褐色、外表面被黑色細毛、具短柄，質韌，生於腐木與埋木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -139,5 +140,5 @@
    "src": "https://static.inaturalist.org/photos/402780337/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

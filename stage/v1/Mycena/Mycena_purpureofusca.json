@@ -112,10 +112,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "0,100",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -130,7 +130,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紫褐小菇，種小名purpureofusca意為「紫褐色的」，指其色澤。蓋圓錐至鐘形、紫褐至暗紫色而具溝紋，菌褶灰白而緣具明顯之深紫色邊（本種特徵），柄紫褐細長，生於針葉樹毬果與腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -142,5 +142,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/331117932/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

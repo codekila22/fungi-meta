@@ -148,27 +148,27 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "40,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "blue",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅小絨蓋牛肝菌，種小名chrysenteron意為「金黃色內部的」，指其黃色菌肉。蓋4–10cm褐色絨質、老時龜裂露出皮下淡紅色肉，孔面黃色大而角狀、傷變藍，柄黃具珊瑚紅纖絲，外生菌根生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -180,5 +180,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/102882001/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

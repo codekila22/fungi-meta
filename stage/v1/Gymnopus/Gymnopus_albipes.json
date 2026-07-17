@@ -115,11 +115,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,4",
+  "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -131,8 +131,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "潔白金錢菌，種小名albipes意為「白色柄的」，指其菌柄白色。蓋淡褐至米白而薄、具細紋，菌褶白色密集，柄白色細長而光滑，群生於闊葉林落葉層。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

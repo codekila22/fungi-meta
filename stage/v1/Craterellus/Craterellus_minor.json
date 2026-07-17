@@ -110,7 +110,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "1,3",
   "StalkLengthRangeValuess": "0,26",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "15,50",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -123,7 +123,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "小喇叭菌，種小名minor意為「較小的」，指其為本屬中之小型種。子實體管狀漏斗形而中空、黃褐至橙褐色、薄，下表面近平滑或具淺脈狀稜脊（非真菌褶），外生菌根生於闊葉林地苔蘚間。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -135,5 +135,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

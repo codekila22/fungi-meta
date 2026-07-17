@@ -93,8 +93,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "mycelium",
   "StalkDiamRangeValuess": "4,7",
   "StalkLengthRangeValuess": "55,65",
@@ -121,5 +121,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

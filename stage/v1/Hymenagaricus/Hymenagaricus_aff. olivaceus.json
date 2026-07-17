@@ -80,7 +80,7 @@
  ],
  "meta": {
   "CapColors": "4283788079,4286611456,4278222848",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -95,11 +95,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
+  "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -111,10 +111,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hymenagaricus olivaceus,,",
-  "Note": "",
+  "Note": "橄欖色層蘑菇相似種，種小名olivaceus意為「橄欖色的」，指其孢子印或菌褶帶橄欖色。小型蘑菇、蓋被細鱗，菌褶轉暗，柄具膜質環，孢子印帶橄欖褐，生於熱帶亞熱帶林地腐土。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "橄欖色層蘑菇,,",
   "la_zhcn": "橄榄色层蘑菇,,"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

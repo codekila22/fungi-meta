@@ -81,7 +81,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,25",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -96,11 +96,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,3",
+  "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -112,7 +112,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃褐乾臍菇，種小名cauticinalis意為「生於岩地的」。蓋小型黃褐至橙褐、中央下凹具臍，菌褶黃色明顯延生，柄細長堅韌而下部暗紅褐、基部被橙黃色細毛，群生於針葉林落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -138,5 +138,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

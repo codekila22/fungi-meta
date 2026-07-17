@@ -99,7 +99,7 @@
  ],
  "meta": {
   "CapColors": "4294962944,4294956800,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,8",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -119,7 +119,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,70",
   "Rareness": "",
   "Elevation": "low,mid",
   "Tropical": "",
@@ -132,8 +132,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃色飾孢珊瑚菌，種小名flavostellifera意為「具黃色星狀（孢子飾紋）的」。子實體黃色、棒狀不分枝、叢生、質脆，高2–7cm，地生於林地草地。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

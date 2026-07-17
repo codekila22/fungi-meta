@@ -157,7 +157,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4294944000",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "1,5",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -190,7 +190,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "疑似梭孢小羊角菌，種小名fusispora意為「梭形孢子的」。子實體微小、角狀至喇叭狀、暗色，群生於枯枝上，為罕見之小型子囊菌。"
  },
  "inaturalist": [
   {
@@ -201,5 +201,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/50288297/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

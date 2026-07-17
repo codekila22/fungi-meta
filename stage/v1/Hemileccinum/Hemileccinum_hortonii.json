@@ -120,8 +120,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,25",
   "StalkLengthRangeValuess": "40,100",
@@ -136,7 +136,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "荷頓氏疣柄牛肝菌，種小名hortonii紀念美國真菌學家Charles Horton Peck。蓋3–12cm紅褐至茶褐，表面具顯著皺褶脈紋為其識別特徵，孔面黃色、傷後緩慢而不規則轉藍，柄黃被細小同色鱗點，外生菌根生於櫟林。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -148,5 +148,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2072739/square.JPG"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

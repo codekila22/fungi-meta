@@ -178,8 +178,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "2,8",
   "StalkLengthRangeValuess": "30,80",
@@ -196,7 +196,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "陀螺老傘，種小名strombodes意為「似陀螺的」，指其子實體外形。蓋灰褐具深色放射狀纖絲、中央下凹，菌褶白色延生而稀疏，柄纖細，生於闊葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -208,5 +208,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9290104/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -108,8 +108,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -124,7 +124,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰褐網柄牛肝菌，種小名griseus意為「灰色的」，指其灰褐色菌蓋。蓋4–10cm凸形、灰至灰褐、乾而略絨，孔面白轉污黃，柄黃色而全長被明顯深色網紋、基部鮮黃，肉白傷後轉淺褐，外生菌根生於殼斗科林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -136,5 +136,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23885335/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -105,7 +105,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "25,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -125,8 +125,9 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,90",
   "Rareness": "",
+  "Elevation": "high",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -137,7 +138,6 @@
   "Taste": "",
   "LookAlikes": "",
   "Note": "此物種為溫帶物種，在台灣在較高海拔較可能出現。",
-  "Elevation": "high",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -149,5 +149,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24568624/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

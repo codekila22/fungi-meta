@@ -87,7 +87,7 @@
  ],
  "meta": {
   "CapColors": "4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -107,7 +107,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -118,7 +118,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "角擬鎖瑚菌，種小名corniculata意為「具小角的」，指其枝端二叉如角。子實體鮮黃至赭黃、自基部反覆二叉分枝而枝端鈍，高2–8cm，質稍韌，叢生於草地與苔蘚地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -130,5 +130,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/628658/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

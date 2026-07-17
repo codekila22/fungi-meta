@@ -152,7 +152,7 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -174,5 +174,5 @@
   "la_zhtw": "蛋黃絲蓋傘,,",
   "la_zhcn": "蛋黄丝盖伞,,"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

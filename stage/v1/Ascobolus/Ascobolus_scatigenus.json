@@ -126,6 +126,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0.5,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -136,7 +137,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "寡紋糞盤菌，種小名scatigenus意為「生於糞的」。子實體微小盤狀、近無柄、盤面黃綠至橄欖褐、其上散布成熟後突出之暗色子囊（本屬特徵），群生於草食動物糞上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -148,5 +149,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/66284708/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

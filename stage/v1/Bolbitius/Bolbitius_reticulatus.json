@@ -157,8 +157,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "30,70",
@@ -172,7 +172,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "網狀糞傘，種小名reticulatus意為「具網紋的」，指菌蓋表面之網狀脈紋。蓋凸至平展、灰褐而帶紫丁香暈、濕時黏、緣具溝紋，菌褶初乳白後轉肉桂至鏽褐，柄細白而光滑，生於闊葉樹腐木與枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -184,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/252875/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -143,8 +143,8 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "yes",
   "StalkBase": "bulbous",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,12",
+  "StalkLengthRangeValuess": "50,100",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
@@ -156,7 +156,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "薑黃柄鵝膏菌，種小名flavipes意為「黃色柄的」，指其鮮黃色菌柄。蓋黃褐色被黃色粉質疣突，柄黃色具黃色膜質環、基部膨大具黃色粉質菌托殘餘，外生菌根生於殼斗科林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -168,5 +168,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29574688/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

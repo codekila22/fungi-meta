@@ -172,6 +172,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,4",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -182,7 +183,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "雪白小毛釘菌，種小名nivea意為「雪白的」，指其純白色。子實體微小盤狀、具細柄，外緣密被白色細毛，盤面白至淡黃，群生於闊葉樹（尤櫟）之落枝腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -194,5 +195,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15856067/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

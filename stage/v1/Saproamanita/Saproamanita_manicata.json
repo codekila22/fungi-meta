@@ -143,7 +143,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -158,11 +158,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,18",
+  "StalkLengthRangeValuess": "50,120",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -174,7 +174,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃絮鱗腐生鵝膏，種小名manicata意為「具長袖的」，指柄上絮狀菌幕殘餘如袖套。蓋白至淡黃被黃色絮狀鱗片，柄具絮狀環與鱗，基部膨大，為腐生（非外生菌根）之鵝膏，生於草地林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -186,5 +186,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/74378048/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

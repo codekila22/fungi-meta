@@ -134,6 +134,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -144,7 +145,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "優雅側盤菌，種小名cochleata意為「螺旋狀的」，指子實體歪斜捲曲如耳。子實體耳狀至匙形而一側縱裂、盤面黃褐至暗褐、外表面色淡具細糠屑，基部具短柄，叢生於闊葉林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -156,5 +157,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/105294517/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

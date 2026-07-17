@@ -84,7 +84,7 @@
  ],
  "meta": {
   "CapColors": "4291605388,4294303411,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -94,7 +94,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "6,9",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -104,7 +104,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,25",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped",
@@ -115,7 +115,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "硬黑孔菌，種小名durus意為「堅硬的」，指其質地硬韌。子實體薄而硬、半圓形至扇形、上表面紫褐至近黑並具環帶，孔面同色而孔口極細密，生於熱帶闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -127,5 +127,5 @@
    "src": "https://static.inaturalist.org/photos/5287887/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

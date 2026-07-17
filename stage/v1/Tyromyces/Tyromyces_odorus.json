@@ -102,7 +102,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -112,7 +112,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "3,5",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -122,7 +122,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,30",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -133,7 +133,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "香味乾酪菌，種小名odorus意為「有氣味的」，指其具明顯香氣。子實體白至奶油色之軟質托架、上表面近光滑或細絨，孔面白色小孔，肉軟而具強烈茴香般香氣，一年生於針葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -152,5 +152,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

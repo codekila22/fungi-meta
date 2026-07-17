@@ -97,7 +97,7 @@
  ],
  "meta": {
   "CapColors": "4278190080,4284635991,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,50",
   "CapShape": "",
   "CapTexture": "raised-scales",
   "CapMargin": "",
@@ -112,11 +112,11 @@
   "StalkColors": "",
   "StalkTexture": "raised-scales",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "4,10",
+  "StalkLengthRangeValuess": "20,50",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -128,7 +128,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "肉褐鱗環柄菇，種小名brunneoincarnata意為「褐帶肉色的」，指菌蓋鱗片之色澤。蓋2–5cm白底而密被褐至肉褐色之同心排列鱗片、中央深色，菌褶白色離生，柄具易消失之環帶，生於草地林緣腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -140,5 +140,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/99365273/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

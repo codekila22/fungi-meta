@@ -148,6 +148,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,25",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -158,7 +159,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "橙黃網孢盤菌，種小名aurantia意為「橙色的」，指其鮮橙色。子實體盤狀至杯狀1–10cm、盤面鮮橙、外表面被白色細絨，質脆易裂，形似散落之橘子皮，群生於林道旁裸土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -170,5 +171,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/73851/thumb.JPG"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

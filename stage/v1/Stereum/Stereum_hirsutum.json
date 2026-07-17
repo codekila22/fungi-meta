@@ -115,7 +115,7 @@
  ],
  "meta": {
   "CapColors": "4292072403,4291581184",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -135,6 +135,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -145,7 +146,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "毛韌革菌，種小名hirsutum意為「被粗毛的」，指菌蓋表面密被硬毛。子實體薄革質、扇形至平伏反捲、上表面被黃褐色粗毛並具環帶，子實層平滑鮮黃至橙色，常癒合成寬帶狀，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -213,5 +214,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

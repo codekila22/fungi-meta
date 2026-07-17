@@ -180,6 +180,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -190,7 +191,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅棕小舌菌，種小名rufum意為「紅色的」，指其橙紅色澤。子實體地舌狀直立、頭部匙形至棒狀橙黃至橙紅、柄被細鱗同色，高2–6cm，群生於林地苔蘚與腐植質間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -202,5 +203,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/408148/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

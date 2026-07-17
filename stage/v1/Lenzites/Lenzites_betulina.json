@@ -128,11 +128,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0.5,5",
+  "StalkLengthRangeValuess": "0,5",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -144,7 +144,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "樺褶孔菌，種小名betulina意為「樺樹的」，指其常生於樺木。子實體薄革質、扇形至半圓形無柄、上表面被絨毛具同心環帶，下表面為真正的菌褶（而非孔）——為多孔菌類中之特例，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -156,5 +156,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/98857745/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

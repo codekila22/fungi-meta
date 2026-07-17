@@ -96,7 +96,7 @@
  ],
  "meta": {
   "CapColors": "4288768839,4293498490",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -106,7 +106,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -116,6 +116,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "2,10",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -126,7 +127,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "扁紅孔菌，種小名placenta意為「扁餅狀的」，指其平伏擴展之形態。子實體平伏於枯木、鮮明之粉紅至鮭紅色、質軟綿，孔面同色而孔口不規則，為木材褐腐菌，生於針葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -138,5 +139,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/31337667/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

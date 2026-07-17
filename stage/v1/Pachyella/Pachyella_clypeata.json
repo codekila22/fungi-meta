@@ -178,6 +178,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -188,7 +189,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "盾形厚盤菌，種小名clypeata意為「盾形的」，指子實體扁平如盾。子實體盤狀而緊貼基質、膠質厚實、盤面暗褐至紫褐光滑，生於潮濕或浸水之腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -200,5 +201,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2628270/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

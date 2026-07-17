@@ -164,7 +164,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.3,1.5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -175,7 +175,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Helminthosporium juglandinum,,",
-  "Note": "",
+  "Note": "阿根庭刺座菌，種小名argentinensis意為「阿根廷的」，指其模式產地。子囊殼微小、球形而黑色、表面被暗色剛毛，叢生於一墊狀子座上，生於闊葉樹枯枝，需放大鏡方能辨識。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "胡桃長蠕孢,,",
   "la_zhcn": "胡桃长蠕孢,,"
@@ -189,5 +189,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

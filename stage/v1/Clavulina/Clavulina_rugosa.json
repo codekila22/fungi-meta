@@ -97,7 +97,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4292072403",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,10",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -128,7 +128,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Clavulina cinerea,Clavulina cristata,",
-  "Note": "",
+  "Note": "皺鎖瑚菌，種小名rugosa意為「有皺紋的」，指其表面縱向皺曲。子實體白至奶油色、棒狀而少分枝或不分枝、表面具明顯縱皺與扁壓，高3–10cm，質脆，地生於林地路旁。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "灰鎖瑚菌,,",
   "la_zhcn": "灰锁瑚菌,,"
@@ -149,5 +149,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

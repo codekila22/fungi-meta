@@ -86,7 +86,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "1,5",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -106,6 +106,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "3,15",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -116,7 +117,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "澳洲膨瑚菌，種小名australiensis意為「澳洲的」，指其模式產地。子實體微小白色、頂端膨大呈中空球狀而柄纖細，群生於腐木與落枝上，需近看方能辨識。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -128,5 +129,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8183232/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

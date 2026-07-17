@@ -107,8 +107,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,25",
+  "StalkLengthRangeValuess": "20,80",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "spring,summer,autumn,winter",
@@ -190,5 +190,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

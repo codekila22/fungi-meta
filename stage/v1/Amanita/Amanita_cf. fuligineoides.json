@@ -126,8 +126,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "8,15",
   "StalkLengthRangeValuess": "100,140",
@@ -147,5 +147,5 @@
   "la_zhtw": "灰花紋鵝膏,,",
   "la_zhcn": "灰花纹鹅膏,,"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

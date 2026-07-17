@@ -186,10 +186,10 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "none",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,6",
+  "StalkLengthRangeValuess": "30,60",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "summer,autumn",
@@ -215,5 +215,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155077431/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

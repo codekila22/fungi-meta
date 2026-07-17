@@ -126,7 +126,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294956800,4294962944",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -136,7 +136,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "5,8",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -146,7 +146,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -162,5 +162,5 @@
   "la_zhtw": "黃褐革蓋菌,,",
   "la_zhcn": "黄褐革盖菌,,"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

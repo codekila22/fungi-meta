@@ -124,6 +124,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0.3,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -134,7 +135,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "淡色雙孢黴，種小名pallescens意為「轉淡色的」。本種為無性世代之真菌，於腐木表面形成暗褐至橄欖色之絨毛狀分生孢子層（非典型子實體），常見於潮濕之闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -146,5 +147,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/65328461/square.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -138,7 +138,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "adnate,decurrent",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "central",
   "StalkColors": "4286141768,4294962944",
   "StalkTexture": "",
@@ -146,8 +146,8 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,10",
+  "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
@@ -159,7 +159,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "美洲乳牛肝菌，種小名americanus意為「美洲的」，指其模式產地。蓋黃色而黏、常具紅褐色纖絲斑，孔面黃色大而角狀，柄細具褐色腺點，與五針松共生之外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -171,5 +171,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/186136/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

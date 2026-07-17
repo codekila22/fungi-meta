@@ -177,11 +177,11 @@
   "StalkColors": "",
   "StalkTexture": "velvety",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "rooting",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,8",
+  "StalkLengthRangeValuess": "50,150",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -193,7 +193,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "中華乾蘑，種小名sinopudens意為「中國的pudens」，指其為歐美近緣種於東亞之對應種。蓋灰褐具皺紋、被短毛，菌褶白色稀疏，柄細長且具深入土中之假根，生於闊葉林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -205,5 +205,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/138922626/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

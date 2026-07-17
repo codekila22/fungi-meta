@@ -102,7 +102,7 @@
  ],
  "meta": {
   "CapColors": "4283244288",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -122,6 +122,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,10",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -132,7 +133,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "分離刺革菌，種小名separabilis意為「可分離的」，指其子實體易自基質剝離。子實體平伏而緣常反捲、鏽褐至暗褐色，子實層具剛毛（本屬特徵），質革，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -144,5 +145,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

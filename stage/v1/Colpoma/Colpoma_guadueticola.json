@@ -167,7 +167,7 @@
  ],
  "meta": {
   "CapColors": "4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,10",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -187,7 +187,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -198,8 +198,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "竹生彎殼菌，種小名guadueticola意為「生於Guadua竹的」，指其寄主。子座埋生於竹稈表皮下，成熟時縱裂呈唇狀開口露出淡色子實層，微小，生於竹稈。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

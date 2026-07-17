@@ -130,7 +130,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -140,7 +140,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "0.3,1",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -150,7 +150,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -161,7 +161,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "櫟擬層孔菌，種小名quercina意為「櫟的」，指其專生於櫟樹。子實體木栓質托架、灰褐色，孔面呈明顯之迷宮狀（daedaloid）厚壁長孔，為櫟樹褐腐菌，多年生於櫟屬枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -180,5 +180,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10084/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

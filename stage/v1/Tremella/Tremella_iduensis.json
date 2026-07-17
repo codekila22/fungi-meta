@@ -79,7 +79,7 @@
  ],
  "meta": {
   "CapColors": "4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -99,7 +99,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "3,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -110,7 +110,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "角狀銀耳，種小名iduensis指模式產地。子實體膠質、由多數角狀至片狀之瓣片組成、淡黃至近白半透明，寄生於其他真菌之菌絲，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -122,5 +122,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/320769436/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

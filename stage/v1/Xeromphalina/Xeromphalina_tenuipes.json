@@ -435,7 +435,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,30",
   "CapShape": "",
   "CapTexture": "smooth",
   "CapMargin": "striated",
@@ -454,7 +454,7 @@
   "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Elevation": "low",
@@ -480,5 +480,5 @@
    "src": "https://static.inaturalist.org/photos/185988383/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

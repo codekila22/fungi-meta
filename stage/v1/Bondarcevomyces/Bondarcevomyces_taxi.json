@@ -155,7 +155,7 @@
  ],
  "meta": {
   "CapColors": "4283244288",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -165,7 +165,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -175,7 +175,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,50",
   "Rareness": "",
   "Elevation": "mid,high",
   "Tropical": "no",
@@ -188,7 +188,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紫杉帕氏孔菌，種小名taxi意為「紫杉屬（Taxus）的」，指其寄主。子實體托架狀、上表面褐至暗褐，孔面淡褐而孔口角狀，質韌至木栓質，為木材褐腐菌，生於針葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -200,5 +200,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163552156/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

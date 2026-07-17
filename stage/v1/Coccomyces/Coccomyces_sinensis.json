@@ -186,7 +186,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -200,5 +200,5 @@
   "Note": "紀錄於山茶的枯葉上。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

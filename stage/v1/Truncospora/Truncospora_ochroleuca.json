@@ -155,7 +155,7 @@
  ],
  "meta": {
   "CapColors": "4294309365,4294967280",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -165,7 +165,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "3,5",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -175,6 +175,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -185,7 +186,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "赭白畸孢孔菌，種小名ochroleuca意為「赭白色的」，指其孔面色澤。子實體小型而厚、木栓質、半圓形至蹄形、上表面白至赭色並具環棱，孔面赭白而孔口細密，多年生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -211,5 +212,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -126,7 +126,7 @@
  ],
  "meta": {
   "CapColors": "4285547028,4288244511",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,300",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -136,7 +136,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -146,6 +146,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -156,7 +157,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "扇索狀乾腐菌，種小名himantioides意為「似皮帶的」，指其索狀菌絲。子實體平伏擴展、子實層黃褐至鏽褐、具皺褶狀淺孔（merulioid），緣白色綿狀，為木材褐腐菌，生於針葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -168,5 +169,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135759/thumb."
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

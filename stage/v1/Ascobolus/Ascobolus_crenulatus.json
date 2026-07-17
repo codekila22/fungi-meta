@@ -120,7 +120,7 @@
  ],
  "meta": {
   "CapColors": "4294967040,4278222848",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.5,2",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -140,7 +140,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -151,7 +151,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "細齒糞盤菌，種小名crenulatus意為「具細圓齒的」，指盤緣具細齒。子實體微小盤狀、近無柄、盤面淡黃至橄欖、其上散布成熟子囊呈暗點狀突出，群生於草食動物糞上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -163,5 +163,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1333375/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

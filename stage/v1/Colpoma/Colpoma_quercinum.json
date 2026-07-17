@@ -90,7 +90,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -110,7 +110,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -121,7 +121,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "櫟彎殼菌，種小名quercinum意為「櫟的」，指其寄主。子座埋生於櫟枝表皮下，成熟時縱裂呈唇狀開口而露出淡黃至灰色之子實層，微小，密生於櫟屬枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -133,5 +133,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249808382/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

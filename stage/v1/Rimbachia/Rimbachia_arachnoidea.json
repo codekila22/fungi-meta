@@ -174,8 +174,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -190,7 +190,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Rimbachia cf. neckerae,,",
-  "Note": "",
+  "Note": "蛛絲圓拱菌，種小名arachnoidea意為「蛛網狀的」，指子實層具蛛絲狀脈紋。子實體微小白色、杯狀至扇形、無真菌褶而具脈紋，附生於苔蘚，質薄如膜，生於潮濕林地。",
   "la_zhtw": "平苔圓拱菌,,",
   "la_zhcn": "平苔圆拱菌,,"
  },
@@ -217,5 +217,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

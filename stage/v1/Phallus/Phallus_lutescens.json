@@ -86,7 +86,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,35",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -117,7 +117,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Phallus luteus,,",
-  "Note": "",
+  "Note": "變黃鬼筆，種小名lutescens意為「轉黃的」，指其托與柄漸變黃色。孢托鐘形而具網紋、覆暗橄欖褐色產孢黏液並具惡臭，柄白至淡黃之海綿質，托杯狀，生於林地腐土。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "純黃竹蓀,,",
   "la_zhcn": "纯黄竹荪,,"
@@ -131,5 +131,5 @@
    "src": "https://static.inaturalist.org/photos/101457193/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

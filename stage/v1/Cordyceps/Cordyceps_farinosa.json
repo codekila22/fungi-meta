@@ -93,7 +93,7 @@
  ],
  "meta": {
   "CapColors": "4294309365",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "1,5",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -113,6 +113,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,30",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -123,7 +124,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "粉粒擬青黴，種小名farinosa意為「被粉的」，指其表面覆白色粉狀分生孢子。本種常見之無性世代自寄生之鱗翅目蛹體長出直立分枝之孢梗束、白至淡黃而頂端粉狀，生於林地落葉層。"
  },
  "inaturalist": [
   {
@@ -134,5 +135,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/411136/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

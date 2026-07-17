@@ -99,10 +99,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "0.5,1",
   "StalkLengthRangeValuess": "10,60",
   "Rareness": "",
   "Seasons": "",
@@ -114,7 +114,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "針毛小菇，種小名aciculata意為「具針狀（剛毛）的」。子實體微小、蓋橙至橙褐而具溝紋，菌褶稀疏，柄極細如針而基部被剛毛，群生於腐木與落枝，需近看方能辨識。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -126,5 +126,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18399414/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

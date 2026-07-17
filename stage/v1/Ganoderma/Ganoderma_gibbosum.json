@@ -117,7 +117,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,7",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -127,7 +127,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "4,7",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,70",
   "Rareness": "",
   "Elevation": "low",
   "Tropical": "",
@@ -152,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/122245501/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

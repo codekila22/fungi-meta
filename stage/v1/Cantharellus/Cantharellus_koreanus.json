@@ -183,7 +183,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "1,5",
   "StalkLengthRangeValuess": "12,35",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,80",
   "Rareness": "",
   "Elevation": "low",
   "Tropical": "no",
@@ -196,7 +196,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "韓國雞油菌，種小名koreanus指模式產地韓國。蓋橙黃色漏斗形、緣波狀捲曲，下表面為分叉稜脊狀假菌褶延生（非真菌褶），柄同色，外生菌根生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -208,5 +208,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

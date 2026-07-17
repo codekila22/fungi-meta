@@ -141,7 +141,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -161,6 +161,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -171,7 +172,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "纖絨馬鞍菌，種小名fibrosa意為「纖維狀的」，指柄與杯外被纖維狀絨毛。子實體杯狀至耳形、盤面灰褐、外表面密被褐色絨毛，柄短而具縱溝，生於林地濕土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -183,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21385828/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

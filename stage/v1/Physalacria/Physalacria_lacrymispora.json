@@ -162,7 +162,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,6",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -195,10 +195,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Physalacria aff. lacrymispora,,",
-  "Note": "",
+  "Note": "淚孢膨瑚菌，種小名lacrymispora意為「淚滴狀孢子的」。子實體微小白色，頂端膨大呈中空球狀或棒狀、柄纖細，群生於腐木與落枝上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "淚孢膨瑚菌的相似種,,",
   "la_zhcn": "泪孢膨瑚菌的相似种,,"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

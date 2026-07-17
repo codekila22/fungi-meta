@@ -96,11 +96,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,18",
+  "StalkLengthRangeValuess": "60,130",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Elevation": "low",
@@ -114,7 +114,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita virgineoides,,",
-  "Note": "",
+  "Note": "顏氏鵝膏，種小名yenii紀念真菌學者顏氏。蓋白至淡黃而被粉質至絮狀之外菌幕殘餘，柄具環、基部膨大並被同色粉質鱗，外生菌根生於臺灣之殼斗科林地。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "錐鱗白鵝膏,,",
   "la_zhcn": "锥鳞白鹅膏,,"
@@ -128,5 +128,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/137863975/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

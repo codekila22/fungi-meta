@@ -235,7 +235,7 @@
  ],
  "meta": {
   "CapColors": "4294083840,4294931200",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "38,70",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -253,8 +253,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,30",
+  "StalkLengthRangeValuess": "50,110",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -280,5 +280,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

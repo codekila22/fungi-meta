@@ -110,6 +110,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,15",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -120,7 +121,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "污膠陀螺菌，種小名inquinans意為「弄髒的」，指其孢子會將手指染黑。子實體陀螺至淺杯狀0.5–4cm、盤面黑色而光亮膠質、外表面褐色粗糙，質彈韌如橡膠，密叢生於櫟等闊葉樹新伐倒木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -132,5 +133,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/154265/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

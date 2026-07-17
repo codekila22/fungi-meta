@@ -164,8 +164,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "40,90",
@@ -180,7 +180,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Entoloma strictius,,",
-  "Note": "",
+  "Note": "星孢粉褶菌，種小名conferendum意為「可資比較的」。蓋灰褐至暗褐、圓錐至鐘形具乳突、具絲狀光澤，菌褶粉紅，柄具縱向銀絲紋，孢子具十字星狀稜角（本種特徵），生於草地林地。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "射紋粉褶菌,,",
   "la_zhcn": "射纹粉褶菌,,"
@@ -194,5 +194,5 @@
    "src": "https://static.inaturalist.org/photos/160175562/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

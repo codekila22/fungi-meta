@@ -81,7 +81,7 @@
  ],
  "meta": {
   "CapColors": "4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,12",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "wavy",
@@ -96,11 +96,11 @@
   "StalkColors": "",
   "StalkTexture": "velvety",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0.2,0.6",
+  "StalkLengthRangeValuess": "10,40",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -112,7 +112,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Marasmius sullivantii,,",
-  "Note": "",
+  "Note": "南方毛小皮傘，種小名australotrichotus意為「南方的、具毛的」。蓋微小、具放射狀溝紋，菌褶稀疏，柄極細如馬毛而黑褐色，並自基部生出黑色毛狀菌索，群生於落葉腐枝。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "沙氏小皮傘,,",
   "la_zhcn": "沙氏小皮伞,,"
@@ -126,5 +126,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250379189/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -81,7 +81,7 @@
  ],
  "meta": {
   "CapColors": "4291605388,4283244288,4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -96,11 +96,11 @@
   "StalkColors": "4294967295",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
+  "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,8",
+  "StalkLengthRangeValuess": "30,70",
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
@@ -111,7 +111,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黑斑環柄菇，種小名atrodisca意為「黑色圓盤的」，指菌蓋中央具明顯之黑色盤斑。蓋白底而中央暗黑褐、周圍被暗色細鱗，菌褶白色離生，柄具環，孢子印白色，生於林地腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -123,5 +123,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4144184/square."
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

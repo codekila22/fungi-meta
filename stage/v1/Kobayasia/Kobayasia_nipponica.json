@@ -111,7 +111,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "autumn,summer",
   "GrowthType": "singly,scattered",
@@ -122,7 +122,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "日本小林氏菌，種小名nipponica意為「日本的」，指其模式產地。子實體近球形而具白色根狀菌索、內部由多數空腔組成之產孢組織、成熟呈暗橄欖色並具惡臭，半埋生於林地腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -134,5 +134,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/186870780/square.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -156,8 +156,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "30,70",
@@ -174,7 +174,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "琥珀小皮傘，種小名siccus意為「乾燥的」，指其質地乾韌、乾後遇濕可復生。蓋0.5–2.5cm橙至橙褐、具放射狀深溝紋如小傘，菌褶白色稀疏，柄細長硬韌、上淡而下部紅褐，生於闊葉樹落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -193,5 +193,5 @@
    "src": "https://static.inaturalist.org/photos/111955765/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

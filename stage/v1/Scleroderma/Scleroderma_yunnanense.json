@@ -155,7 +155,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,80",
   "Rareness": "",
   "Elevation": "low",
   "Tropical": "",
@@ -168,7 +168,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "雲南硬皮馬勃，種小名yunnanense指模式產地中國雲南。子實體近球形、外皮厚而硬、黃褐色並具龜裂鱗片，內部孢體幼時白而成熟轉紫黑，外生菌根，地生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -180,5 +180,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

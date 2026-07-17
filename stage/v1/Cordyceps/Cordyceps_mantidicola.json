@@ -136,7 +136,7 @@
  ],
  "meta": {
   "CapColors": "4292664540,4294309365",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,8",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -156,6 +156,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,50",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -166,7 +167,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "螵蛸蟲草，種小名mantidicola意為「生於螳螂的」，指其寄主為螳螂之卵鞘（螵蛸）。子座自螵蛸長出、細長棒狀而頂端膨大、淡黃至橙色，生於林下灌叢之螳螂卵鞘上。"
  },
  "inaturalist": [
   {
@@ -177,5 +178,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

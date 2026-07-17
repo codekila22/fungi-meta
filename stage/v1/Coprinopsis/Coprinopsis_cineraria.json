@@ -102,7 +102,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4289309097,4286611584",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -117,11 +117,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
+  "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -133,7 +133,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "鼠灰擬鬼傘，種小名cineraria意為「灰燼色的」，指其鼠灰色。蓋被白色粉狀外菌幕、灰色而具溝紋、成熟自溶為墨汁，菌褶黑，柄白纖細，叢生於腐木木屑與糞土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -145,5 +145,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/181798812/square.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -105,7 +105,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -120,11 +120,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0.3,1.5",
+  "StalkLengthRangeValuess": "0,3",
   "HeightRangeValuess": "0,2",
   "Rareness": "",
   "Seasons": "",
@@ -136,7 +136,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "條紋伏褶菌，種小名striatulus意為「具細條紋的」，指其菌褶放射狀如條紋。子實體微小、灰黑色而半透明膠質、貝殼至圓形無柄側生，菌褶灰色放射狀，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -148,5 +148,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2706697/thumb.PNG"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

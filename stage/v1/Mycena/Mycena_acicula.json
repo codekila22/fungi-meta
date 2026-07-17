@@ -190,10 +190,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "0.5,1",
   "StalkLengthRangeValuess": "10,60",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -206,7 +206,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Atheniella aurantiidisca,,",
-  "Note": "",
+  "Note": "紅橘小菇，種小名acicula意為「小針」，喻其纖細如針的鮮豔子實體。蓋3–10mm鮮紅橙至橙黃、半透明具溝紋，菌褶淡橙，柄細如針、橙黃、基部被白色硬毛，生於潮濕腐木落葉。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "黃白艷小菇,,",
   "la_zhcn": "黄白艳小菇,,"
@@ -220,5 +220,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/150830173/square.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

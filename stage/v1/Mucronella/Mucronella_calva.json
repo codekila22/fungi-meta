@@ -111,7 +111,7 @@
  ],
  "meta": {
   "CapColors": "4294309365",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.3,2",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -131,6 +131,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "2,10",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -141,7 +142,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "棒狀尖齒菌，種小名calva意為「光禿的」。子實體為一叢細小下垂之白至奶油色軟刺（無帽亦無柄），質軟，直接生於腐木下側，需近看方能辨識。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -160,5 +161,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

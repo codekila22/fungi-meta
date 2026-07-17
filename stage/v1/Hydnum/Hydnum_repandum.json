@@ -136,7 +136,7 @@
  ],
  "meta": {
   "CapColors": "4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,250",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -156,7 +156,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -167,7 +167,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hydnum repandum var. album,,",
-  "Note": "",
+  "Note": "卷緣齒菌，種小名repandum意為「邊緣波狀反捲的」，指菌蓋緣波狀內捲。蓋橙黃至肉桂色、形不規則，下表面密生2–7mm白色軟刺（齒）而非菌褶，肉白傷變黃褐，柄常偏生，外生菌根生於林地。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "卷緣齒菌白色變種,,",
   "la_zhcn": "卷缘齿菌白色变种,,"
@@ -209,5 +209,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

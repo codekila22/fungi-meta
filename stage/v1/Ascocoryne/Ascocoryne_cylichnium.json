@@ -120,6 +120,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -130,7 +131,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "杯紫膠盤菌，種小名cylichnium意為「小杯的」，指其明顯之杯狀（區別於近緣之盤狀種）。子實體膠質、深杯至盤狀、紫紅至紫色、具短柄，常密叢生於闊葉樹倒木，秋季發生。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -142,5 +143,5 @@
    "src": "https://static.inaturalist.org/photos/622847/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

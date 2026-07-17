@@ -166,8 +166,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -182,7 +182,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "泡突脈褶菌，種小名pustulata意為「具水泡狀突起的」，指子實層具泡狀突。子實體微小扇形至杯狀、膠質半透明、無柄側生，子實層具脈狀褶與泡狀突起，生於枯枝與草稈。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -194,5 +194,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/177017081/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

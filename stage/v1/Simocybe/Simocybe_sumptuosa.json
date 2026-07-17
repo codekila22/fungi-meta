@@ -105,7 +105,7 @@
  ],
  "meta": {
   "CapColors": "4291605388,4294303411",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,35",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -120,11 +120,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
+  "StalkLengthRangeValuess": "10,40",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -136,7 +136,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "橄欖色絨蓋傘，種小名sumptuosa意為「華麗的」。小型菇、蓋橄欖褐至暗褐而被細絨、緣具細絨毛，菌褶褐色，柄同色被白色粉霜，孢子印褐色，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -148,5 +148,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12823568/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

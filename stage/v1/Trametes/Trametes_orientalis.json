@@ -82,7 +82,7 @@
  ],
  "meta": {
   "CapColors": "4289309097,4291605388",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -92,7 +92,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -102,7 +102,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,50",
   "Rareness": "",
   "Elevation": "low",
   "Tropical": "",
@@ -115,7 +115,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Cubamyces lactineus,,",
-  "Note": "",
+  "Note": "東方栓菌，種小名orientalis意為「東方的」，指其分布於亞洲。子實體木栓質、半圓形而厚、上表面白至灰褐色近光滑並具不明顯環帶，孔面白至淡黃而孔口細密，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "奶油栓孔菌,,",
   "la_zhcn": "奶油栓孔菌,,"
@@ -129,5 +129,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30232189/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

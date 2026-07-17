@@ -104,7 +104,7 @@
  ],
  "meta": {
   "CapColors": "4292786311,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,35",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -124,7 +124,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,115",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -135,7 +135,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Gyromitra infula,,",
-  "Note": "",
+  "Note": "彈性馬鞍菌，種小名elastica意為「有彈性的」，指其質地柔韌。帽馬鞍狀2瓣、灰褐至橄欖褐而下表面白色、僅以頂端附著於柄，柄白色細長光滑而中空，肉薄脆，生於林地濕土。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "帶鹿花菌,,",
   "la_zhcn": "带鹿花菌,,"
@@ -149,5 +149,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55115220/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

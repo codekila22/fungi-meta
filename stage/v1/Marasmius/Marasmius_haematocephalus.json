@@ -508,7 +508,7 @@
   "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "22,62",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Elevation": "low",
@@ -522,7 +522,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "小型皮傘，菌蓋血紅至紫紅色具放射溝紋，菌柄細長黑色似馬鬃，生於落葉腐枝上。",
+  "Note": "紅蓋小皮傘，菌蓋血紅至紫紅色具放射溝紋，菌柄細長黑色似馬鬃，生於落葉腐枝上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -548,5 +548,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

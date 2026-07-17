@@ -140,7 +140,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,20",
   "StalkLengthRangeValuess": "30,80",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "40,150",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -153,7 +153,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Turbinellus kaufmanii,,",
-  "Note": "",
+  "Note": "富士山毛釘菇，種小名fujisanensis指模式產地日本富士山。子實體喇叭至陀螺形、被橙褐色鱗片，下表面具脈狀稜脊延生（非真菌褶），柄向下漸細，外生菌根生於針葉林地。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -167,5 +167,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

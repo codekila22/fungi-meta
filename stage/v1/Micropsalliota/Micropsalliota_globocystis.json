@@ -165,8 +165,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "3,6",
   "StalkLengthRangeValuess": "40,120",
@@ -183,7 +183,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "球囊小蘑菇，種小名globocystis意為「球形囊狀體的」，指其囊狀體呈球形。小型蘑菇具膜質環，菌褶白色轉褐黑，柄纖細，孢子印褐色，生於熱帶亞熱帶林地腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -195,5 +195,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/382206200/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

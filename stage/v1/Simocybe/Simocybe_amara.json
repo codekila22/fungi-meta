@@ -103,7 +103,7 @@
  ],
  "meta": {
   "CapColors": "4291605388,4294303411",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -118,11 +118,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,4",
+  "StalkLengthRangeValuess": "10,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -133,7 +133,7 @@
   "Smell": "",
   "Taste": "bitter",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "苦絨蓋傘，種小名amara意為「苦的」，指其苦味。小型菇、蓋橄欖褐而被細絨如絨布、緣常具細絨毛，菌褶褐色，柄同色而細，孢子印褐色，生於闊葉樹枯枝腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -145,5 +145,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

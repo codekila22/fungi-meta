@@ -178,7 +178,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "20,50",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,150",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -191,7 +191,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰黑喇叭菌，種小名cornucopioides意為「似豐饒之角（cornucopia）」，喻其喇叭狀。子實體管狀漏斗形而中空、上表面黑至暗灰、下表面淺灰具脈狀稜脊（非真菌褶），外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -224,5 +224,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

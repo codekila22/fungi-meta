@@ -90,7 +90,7 @@
  ],
  "meta": {
   "CapColors": "4292072403,4294967295,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -100,7 +100,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -110,7 +110,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "2,15",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "",
@@ -123,7 +123,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "短柄花瓣菌，種小名curtipes意為「短柄的」，指其菌柄極短。子實體扇形至匙形、白至淡黃而薄，孔面具放射狀延長之大孔呈蜂窩狀（本屬特徵），柄短而偏生，質韌，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -135,5 +135,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

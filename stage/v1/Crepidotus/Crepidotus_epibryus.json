@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "epibryus",
  "date": [
+  "07/16/2026,27604611479222588",
   "04/25/2025,9471019323008414",
   "04/02/2024,7169562596487443",
   "04/03/2023,5901595073284208",
@@ -186,6 +187,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Crepidotus_epibryus_ac5e7a60-2364-11f0-beb9-e9aedf7d0d50_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_epibryus_27604611479222588_f8b566d0-810a-11f1-96ce-a196742d6eab_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_epibryus_27604611479222588_f8b566d0-810a-11f1-96ce-a196742d6eab_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_epibryus_27604611479222588_f8b566d0-810a-11f1-96ce-a196742d6eab_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_epibryus_27604611479222588_f8b566d0-810a-11f1-96ce-a196742d6eab_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_epibryus_27604611479222588_f8b566d0-810a-11f1-96ce-a196742d6eab_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_epibryus_27604611479222588_f8b566d0-810a-11f1-96ce-a196742d6eab_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_epibryus_27604611479222588_f8b566d0-810a-11f1-96ce-a196742d6eab_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -224,7 +253,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "苔生靨菇，種小名epibryus意為「生於苔蘚上的」。微小白色扇形無柄菇、背面附著、菌褶白轉褐，生於苔蘚、草稈或腐木。",
+  "Note": "絨毛靴耳，種小名epibryus意為「生於苔蘚上的」。微小白色扇形無柄菇、背面附著、菌褶白轉褐，生於苔蘚、草稈或腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -236,5 +265,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340472/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

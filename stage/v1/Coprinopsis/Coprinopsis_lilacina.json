@@ -188,10 +188,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
   "StalkLengthRangeValuess": "15,25",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -216,5 +216,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/149561074/square.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

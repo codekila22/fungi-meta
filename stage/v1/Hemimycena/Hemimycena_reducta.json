@@ -102,7 +102,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,12",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -117,11 +117,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0.3,1",
+  "StalkLengthRangeValuess": "10,30",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -133,7 +133,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "減縮半小菇，種小名reducta意為「減縮的」，指其菌褶極稀疏而退化。子實體微小純白、蓋半透明具細絨，菌褶極稀疏，柄絲狀，群生於落葉與腐草間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -145,5 +145,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/185860340/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

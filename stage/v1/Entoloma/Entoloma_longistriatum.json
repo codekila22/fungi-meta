@@ -125,8 +125,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "30,80",
@@ -143,7 +143,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "長射紋粉褶菌，種小名longistriatum意為「具長條紋的」，指菌蓋具長放射狀溝紋。蓋褐至灰褐、圓錐至凸形而具乳突與長溝紋，菌褶粉紅色具稜角孢子，柄細長，生於林地腐植質。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -169,5 +169,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

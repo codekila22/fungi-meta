@@ -86,7 +86,7 @@
  ],
  "meta": {
   "CapColors": "4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.5,2",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -106,7 +106,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.3,1",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -117,8 +117,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "多角齒裂菌，種小名multangularis意為「多角的」，指其開裂成多角形。子座微小、埋生於落葉組織中而成熟時以多角形之裂縫開口露出子實層，群生於闊葉樹落葉。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

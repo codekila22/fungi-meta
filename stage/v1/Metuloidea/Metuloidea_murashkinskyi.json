@@ -166,7 +166,7 @@
  ],
  "meta": {
   "CapColors": "4288768839,4293302630",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -186,6 +186,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -196,7 +197,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "穆氏擬瘤齒菌，種小名murashkinskyi紀念真菌學者Murashkinsky。子實體平伏反捲，子實層被密集軟刺至齒狀突起、淡褐至赭色，質革，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -208,5 +209,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58538530/square.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

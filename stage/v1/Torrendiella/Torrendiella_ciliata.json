@@ -154,7 +154,7 @@
  ],
  "meta": {
   "CapColors": "4294083840,4294956800,4294944000",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.5,2",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -174,7 +174,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -185,7 +185,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "纖毛小托雷盤菌，種小名ciliata意為「具纖毛的」，指盤緣被暗色剛毛。子實體微小盤狀、具細柄，盤面淡色而外緣被褐色纖毛，生於落葉與枯枝上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -197,5 +197,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250803469/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

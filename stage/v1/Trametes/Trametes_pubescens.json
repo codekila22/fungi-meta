@@ -150,7 +150,7 @@
  ],
  "meta": {
   "CapColors": "4291605388,4294963157",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -160,7 +160,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "3,5",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -170,6 +170,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,30",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -180,7 +181,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "絨毛栓菌，種小名pubescens意為「被細柔毛的」，指菌蓋表面被短絨毛。帽薄扇形乳白至淡黃、細絨質、環紋不明顯，孔面白至奶油色小孔，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -192,5 +193,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/34135364/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

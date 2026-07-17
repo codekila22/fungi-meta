@@ -99,7 +99,7 @@
  ],
  "meta": {
   "CapColors": "4294901760,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -109,7 +109,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -119,7 +119,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,150",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "",
@@ -132,7 +132,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "四川靈芝，種小名sichuanense指模式產地中國四川。子實體木栓質、腎形至半圓形、上表面具紅褐色之亮漆狀殼皮並具環紋，孔面白至淡褐而孔口細密，柄側生具同樣漆光，生於闊葉樹基部。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -144,5 +144,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/199359748/square.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

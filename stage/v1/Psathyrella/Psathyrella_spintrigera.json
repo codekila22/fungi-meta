@@ -122,11 +122,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,6",
+  "StalkLengthRangeValuess": "30,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
@@ -137,7 +137,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白絨毛小脆柄菇，種小名spintrigera意指其被覆之絨毛。蓋褐色而被白色絨毛狀菌幕殘餘、緣具幕片，菌褶褐轉暗，柄白而中空易脆，孢子印暗褐，叢生於腐木與木屑。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -149,5 +149,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157300487/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

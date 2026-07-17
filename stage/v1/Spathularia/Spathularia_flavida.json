@@ -144,7 +144,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4294962944",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,25",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -177,7 +177,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "黃地匙菌，種小名flavida意為「淡黃色的」，指其鮮黃色。子實體地舌狀直立、頭部扁平匙形至扇形而沿柄下延、鮮黃至奶油色，柄白色，高2–8cm，群生於針葉林苔蘚落葉層。"
  },
  "inaturalist": [
   {
@@ -188,5 +188,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340372/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

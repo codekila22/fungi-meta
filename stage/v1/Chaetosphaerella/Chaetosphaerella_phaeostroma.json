@@ -137,6 +137,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0.3,1.5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -147,7 +148,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "暗座小刺球殼菌，種小名phaeostroma意為「暗色子座的」。子囊殼微小、球形黑色而表面被剛毛，密集著生於一層暗褐色之絨毛狀菌絲層上，生於闊葉樹枯枝，需放大鏡辨識。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -159,5 +160,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11087280/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

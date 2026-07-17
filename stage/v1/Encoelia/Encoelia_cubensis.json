@@ -119,6 +119,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "2,10",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -129,7 +130,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "古巴炭盤菌，種小名cubensis指模式產地古巴。子實體叢生、初為閉合之球狀而後不規則開裂成杯至盤狀、暗褐至黑褐色、外表面具糠屑，質韌，生於闊葉樹枯枝樹皮。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -141,5 +142,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/247350576/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

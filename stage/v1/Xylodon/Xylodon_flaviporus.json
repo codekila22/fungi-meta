@@ -144,7 +144,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -154,7 +154,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "3,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -164,7 +164,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "1,5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -175,7 +175,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "淡黃木齒菌，種小名flaviporus意為「黃色孔的」，指其孔面黃色。子實體平伏於枯木、孔面淡黃至黃褐、孔口細密而常撕裂成齒狀，緣色淡，質膜革，生於闊葉樹枯木下側。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -187,5 +187,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29219022/square.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

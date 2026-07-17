@@ -125,7 +125,7 @@
  ],
  "meta": {
   "CapColors": "4291659071,4285547028",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -145,7 +145,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,50",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -156,7 +156,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "小孔硬孔菌，種小名microporus意為「小孔的」，指其孔口極細密。子實體橙褐至紅褐色、扇形托架或平伏，孔面同色而孔極小，質硬，為橡膠樹白根病之病原菌，生於熱帶闊葉樹根部。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -168,5 +168,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5732445/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -122,7 +122,7 @@
  ],
  "meta": {
   "CapColors": "4294967040,4294967193,4286578816",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,90",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -137,11 +137,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,15",
+  "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -153,7 +153,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "斑葉裸傘，種小名punctifolius意為「菌褶具斑點的」，指菌褶上生暗色斑點。蓋橄欖褐至紫褐，菌褶黃色而生鏽褐色斑點，柄具纖絲，孢子印鏽褐，叢生於針葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -165,5 +165,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135825/thumb."
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

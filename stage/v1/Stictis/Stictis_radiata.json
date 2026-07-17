@@ -141,7 +141,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.3,1.5",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -161,7 +161,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.3,1.5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped",
@@ -172,7 +172,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "放射點盤菌，種小名radiata意為「放射狀的」，指其開口緣呈放射狀撕裂。子實體微小、埋生於木材中而僅露出白至淡黃之盤面、緣具放射狀齒裂，散生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -184,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5953814/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

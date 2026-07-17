@@ -172,7 +172,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,35",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -190,8 +190,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1.5,4",
+  "StalkLengthRangeValuess": "20,55",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -203,7 +203,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "種小名muricatus意為「具粗糙尖突的」，指菌蓋被顆粒狀尖鱗。小型鏽褐色菇蓋密被顆粒尖鱗、菌褶褐色，柄具鱗，生於闊葉樹腐木。",
+  "Note": "刺鱗暗皮傘，種小名muricatus意為「具粗糙尖突的」，指菌蓋被顆粒狀尖鱗。小型鏽褐色菇蓋密被顆粒尖鱗、菌褶褐色，柄具鱗，生於闊葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -215,5 +215,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12018708/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

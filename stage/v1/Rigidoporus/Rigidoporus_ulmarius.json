@@ -76,7 +76,7 @@
  ],
  "meta": {
   "CapColors": "4290283019,4292519200",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,300",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -86,7 +86,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "5,8",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -96,6 +96,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "30,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -106,7 +107,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "榆硬孔菌，種小名ulmarius意為「榆樹的」，指其常生於榆。子實體大型而厚、半圓形至枕狀、上表面白至奶油色（常被綠藻染綠）、凹凸不平，孔面粉橙至赭色而孔口細密，生於闊葉樹基部與根部。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -118,5 +119,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340869/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

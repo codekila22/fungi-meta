@@ -143,7 +143,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "15,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -154,7 +154,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "荔枝地星，種小名litchiforme意為「荔枝形的」，指未開裂時形似荔枝。外包被星狀開裂反捲成數瓣，孢囊球形而具明顯之喙狀孔口，色灰褐，地生於林地腐落物。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -166,5 +166,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155825317/thumb.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

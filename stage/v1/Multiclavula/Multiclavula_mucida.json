@@ -110,7 +110,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.5,2",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -130,6 +130,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "3,15",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped",
@@ -140,7 +141,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黏多枝瑚菌，種小名mucida意為「黏滑的」。子實體極微小、白至淡黃之棒狀不分枝，生於覆滿綠藻之濕潤腐木上——本屬為與藻類共生之地衣化真菌，故常見於綠色藻膜間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -166,5 +167,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

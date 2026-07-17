@@ -123,7 +123,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,80",
   "CapShape": "infundibuliform",
   "CapTexture": "",
   "CapMargin": "",
@@ -138,11 +138,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,20",
+  "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -154,7 +154,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "棒柄瓶杯傘，種小名clavipes意為「棒狀柄的」，指菌柄基部明顯膨大呈棒狀。蓋3–8cm灰褐至暗褐、中央具小凸、緣內捲，菌褶白色明顯延生，柄向下膨大如棒，生於針闊葉林落葉層。",
   "GrowthEco": ""
  },
  "inaturalist": [
@@ -166,5 +166,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4134275/thumb."
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

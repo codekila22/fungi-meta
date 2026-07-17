@@ -140,7 +140,7 @@
  ],
  "meta": {
   "CapColors": "4290278195,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -160,6 +160,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "3,15",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -170,7 +171,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "煙黃刺革孔菌，種小名tabacina意為「煙草色的」，指其黃褐至煙褐色。子實體多平伏而緣反捲成窄帽、上表面被絨毛具環帶，子實層煙褐色平滑，常密生成長帶狀於闊葉樹細枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -182,5 +183,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/182868238/square.jpg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -172,7 +172,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4294309365",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -192,6 +192,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "occacional",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
@@ -202,7 +203,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "土生炭角菌，種小名terricola意為「生於土的」，指其地生習性（異於多數木生之炭角菌）。子座棒狀直立、黑褐色外殼而白色內裡、表面具點狀子囊殼孔口，生於林地土壤或埋沒之腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -214,5 +215,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6272078/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

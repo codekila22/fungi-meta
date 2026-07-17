@@ -179,11 +179,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0.5,1.5",
+  "StalkLengthRangeValuess": "10,30",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -195,7 +195,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Clitopilus subscyphoides,,",
-  "Note": "",
+  "Note": "透白半小菇，種小名ignobilis意為「不起眼的、平凡的」。子實體微小純白，蓋半透明具細絨毛，菌褶稀疏白色，柄絲狀，群生於落葉腐草間，需近看方能辨識。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "近杯狀斜蓋傘,,",
   "la_zhcn": "近杯状斜盖伞,,"
@@ -209,5 +209,5 @@
    "src": "https://static.inaturalist.org/photos/262853453/thumb.jpeg"
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }

@@ -123,6 +123,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -133,7 +134,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "晶狀小毛釘菌，種小名crystallina意為「水晶般的」，指其毛端具結晶狀物。子實體微小盤狀、具細柄、外緣密被白色細毛、盤面白至淡黃，群生於闊葉樹之落枝腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -145,5 +146,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260716-185032"
+ "timestamp": "20260717-090027"
 }
