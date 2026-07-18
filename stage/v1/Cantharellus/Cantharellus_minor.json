@@ -2,6 +2,7 @@
  "genus": "Cantharellus",
  "name": "minor",
  "date": [
+  "07/17/2026,27625123303838072",
   "07/30/2025,23995824156768023",
   "09/02/2024,7988299857947042",
   "06/18/2024,7528595167250849"
@@ -111,6 +112,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Cantharellus_minor_4a00a3d0-6f53-11f0-b6f5-8185f0f09833_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_27625123303838072_4b314160-8280-11f1-b205-db611c601ea1_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_27625123303838072_4b314160-8280-11f1-b205-db611c601ea1_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_27625123303838072_4b314160-8280-11f1-b205-db611c601ea1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_27625123303838072_4b314160-8280-11f1-b205-db611c601ea1_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -170,5 +187,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/61880727/thumb.jpeg"
   }
  ],
- "timestamp": "20260718-121508"
+ "timestamp": "20260718-164640"
 }
