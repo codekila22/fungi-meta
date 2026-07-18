@@ -1,11 +1,15 @@
 {
- "timestamp": "20260718-230527",
+ "timestamp": "20260719-075426",
  "config": {
   "cover": {
-   "image": "cover-photo.jpg",
+   "image": "cover-photo-2.jpg",
    "description": "",
    "author": "江志緯",
    "url": ""
+  },
+  "banner": {
+   "zh": "台灣/香港野菇 · 真菌 · 黏菌 · 地衣 {count} 種圖鑑",
+   "en": "{count} wild fungi, slime molds and lichens of Taiwan & HongKong"
   },
   "predefined": [
    {
@@ -1074,6 +1078,7 @@
    "Turbinellus,釘菇屬,钉菇属"
   ]
  },
+ "total_species": 2507,
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌",
   "Absidia sp.1,犁頭黴,犁头霉",
