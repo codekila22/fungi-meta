@@ -51,8 +51,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "8,15",
   "StalkLengthRangeValuess": "30,50",
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "晶蓋粉褶菌，種小名clypeatum意為「具盾的」，指其蓋中央之圓錐狀盾突。蓋6–12cm、初半球後平展而具錐突、灰褐色；菌褶中等密、寬達15mm、初白後轉肉粉色；柄8–13cm、粗達1cm、棒狀，早春生於薔薇科樹下。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -113,5 +113,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

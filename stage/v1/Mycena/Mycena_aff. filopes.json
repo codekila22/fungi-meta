@@ -55,8 +55,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "40,150",
@@ -70,7 +70,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "線柄小菇之相似種，本群近於線柄小菇（M. filopes）。蓋5–15mm、圓錐鐘形、灰褐色；柄極細長、達15.5cm、粗達2mm，折傷或乾燥時具碘仿氣味，生於林下之落葉與枯枝間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -89,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28140211/thumb.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

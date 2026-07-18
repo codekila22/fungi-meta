@@ -40,7 +40,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4283244288,4287299584",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,10",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -60,7 +60,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0,0.6",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -71,7 +71,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "近褐伏刺革菌，種小名fuliginosa意為「煤煙色的」，指其暗煤褐之表面。子實體多平伏、厚達0.6mm（常僅0.3mm）、直徑0.2–1cm而可延長達10cm；子實層具暗褐色剛毛狀剛絲，貼生於闊葉樹之枯枝上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -83,5 +83,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12950773/thumb.jpeg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

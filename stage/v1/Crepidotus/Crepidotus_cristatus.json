@@ -119,7 +119,7 @@
  ],
  "meta": {
   "CapColors": "4293313372,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,10",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -150,7 +150,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "冠毛靴耳，種小名cristatus意為「具冠的」，指其菌蓋表面之冠狀毛叢。蓋2–10mm、黃綠色、腎形至扇形、無柄而側生附著於基質，為附生於枯枝落葉之微小側耳狀靴耳。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -162,5 +162,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

@@ -130,8 +130,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "25,50",
+  "StalkLengthRangeValuess": "50,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -154,5 +154,5 @@
    "src": "https://static.inaturalist.org/photos/47932929/thumb.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

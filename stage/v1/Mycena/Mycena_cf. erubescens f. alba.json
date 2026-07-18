@@ -51,10 +51,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "0.5,1.5",
   "StalkLengthRangeValuess": "10,65",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -72,5 +72,5 @@
   "Note": "喜好生長在有苔蘚的枯木上。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

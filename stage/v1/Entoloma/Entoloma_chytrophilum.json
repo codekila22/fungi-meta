@@ -43,8 +43,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "20,40",
@@ -58,7 +58,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紫迷粉褶菌，種小名chytrophilum意為「喜腐生質的」。蓋1.5–2cm、藍灰色、成熟時平展而中央略凹；菌褶粉褶菌屬特有之肉粉色；柄中生、圓柱形、高約2cm、粗約2mm，為本屬之藍灰色小型種。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -70,5 +70,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28080649/thumb.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

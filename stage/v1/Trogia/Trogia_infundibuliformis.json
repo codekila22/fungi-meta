@@ -258,11 +258,9 @@
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": ",,",
+  "LookAlikes": "",
   "Note": "熱帶物種，發現與台灣台南高屏地區。基部有明顯的白色菌絲體。",
-  "GrowthEco": "saprotrophic",
-  "la_zhtw": ",,",
-  "la_zhcn": ",,"
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
@@ -273,5 +271,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/150015713/thumb.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

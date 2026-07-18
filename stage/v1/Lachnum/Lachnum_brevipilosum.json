@@ -88,6 +88,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1.5,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -98,7 +99,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "短毛粒毛盤菌，種小名brevipilosum意為「具短毛的」，指其子囊盤外緣之短毛。子囊盤1.5–3mm高、1–2mm徑、常密集群生；柄中生、圓柱狀而略向下漸細、被毛，體型微小，生於枯枝落葉之潮濕基質上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -110,5 +111,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/101526803/thumb.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

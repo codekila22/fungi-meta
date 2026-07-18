@@ -4,6 +4,7 @@
  "date": [
   "07/01/2026,27437884365895301",
   "06/24/2026,27344564838560588",
+  "06/20/2026,27619972061019863",
   "06/15/2026,27230298569987216",
   "06/14/2026,27215436248140115",
   "11/01/2025,24858482347168862",
@@ -402,6 +403,18 @@
   {
    "author": "江志緯",
    "image_src": "Leucocoprinus_cretaceus_7504b780-75e5-11f1-bdb9-0b06595e64af_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Leucocoprinus_cretaceus_27619972061019863_7d3a1120-822e-11f1-be21-8375c91e8992_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Leucocoprinus_cretaceus_27619972061019863_7d3a1120-822e-11f1-be21-8375c91e8992_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Leucocoprinus_cretaceus_27619972061019863_7d3a1120-822e-11f1-be21-8375c91e8992_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -452,5 +465,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110450191/thumb.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

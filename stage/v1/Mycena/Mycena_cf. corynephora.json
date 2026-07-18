@@ -166,7 +166,7 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "0.1,1",
   "StalkLengthRangeValuess": "5,18",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -181,7 +181,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "疑似角凸小菇，種小名corynephora意為「具棒狀體的」，指其棒狀之囊狀體。蓋2–6mm、被糖霜狀顆粒；柄5–18mm、粗0.1–1mm、被毛，附生於樹皮與木質殘體，為極微小之附生小菇。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -193,5 +193,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/56345405/thumb.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

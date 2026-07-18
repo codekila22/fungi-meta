@@ -76,6 +76,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0,0.1",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -86,7 +87,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "普擬筍殼菌，種小名praetermissa意為「被忽略的」，指其不顯眼而常遭忽視。子實體平伏貼生、極薄（厚達0.1mm）、平滑至略呈瘤狀、灰白至淡黃色；為一廣布之腐木革菌，具膠囊狀囊狀體，生於各類枯木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -98,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1331071/thumb.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

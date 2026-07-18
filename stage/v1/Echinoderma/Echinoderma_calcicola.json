@@ -95,8 +95,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -110,7 +110,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰岩棘皮菌，種小名calcicola意為「生於石灰岩的」，指其偏好鈣質土壤之生境。蓋3–6cm、暗褐色、密被同色之錐狀棘疣；此類棘皮菌具易脫落之顆粒狀鱗片與膜質菌環，生於石灰岩地之闊葉林中。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -122,5 +122,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12938253/thumb.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

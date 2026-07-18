@@ -45,7 +45,7 @@
  ],
  "meta": {
   "CapColors": "4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -76,7 +76,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "櫟小蕉孢殼，種小名quercina意為「櫟樹的」，指其專生於櫟屬樹木之習性。子座球形至墊狀、2–4cm徑、自寄主樹皮下隆起突破；每一子座內含多枚子囊殼，為櫟枯枝上常見之炭角菌類。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -102,5 +102,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

@@ -65,6 +65,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -75,7 +76,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "堇紫雨盤菌，種小名janthina意為「堇紫色的」，指其膠質子實體之紫堇色澤。子囊盤2–4mm徑、膠質、盤狀而具一短粗之柄、有時無柄；喜生於潮濕陰暗處之腐爛球果與木質殘體上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -87,5 +88,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250553617/square.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }

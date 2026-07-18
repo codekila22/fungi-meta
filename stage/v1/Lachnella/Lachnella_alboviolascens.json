@@ -44,7 +44,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0,3",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -75,7 +75,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白紫毛緣菌，種小名alboviolascens意為「轉白紫色的」，指其由白漸帶紫之色調。子實體達3mm徑、短柄至無柄之小盤、外側被白色綿毛、盤面平滑，附生於枯枝與草本殘莖上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -87,5 +87,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174920469/thumb.jpg"
   }
  ],
- "timestamp": "20260717-170910"
+ "timestamp": "20260718-121508"
 }
