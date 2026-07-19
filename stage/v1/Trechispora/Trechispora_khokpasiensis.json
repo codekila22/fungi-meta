@@ -150,7 +150,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "0.5,3",
+  "HeightRangeValuess": "0,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -166,5 +166,5 @@
   "la_zhtw": "柳杉糙孢孔菌,,",
   "la_zhcn": "柳杉糙孢孔菌,,"
  },
- "timestamp": "20260719-180210"
+ "timestamp": "20260719-210136"
 }

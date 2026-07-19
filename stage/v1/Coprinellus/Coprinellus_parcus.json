@@ -128,7 +128,7 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "0.5,1",
+  "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "18,39",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -148,5 +148,5 @@
   "la_zhtw": "簇生小鬼傘,,",
   "la_zhcn": "簇生小鬼伞,,"
  },
- "timestamp": "20260719-180210"
+ "timestamp": "20260719-210136"
 }

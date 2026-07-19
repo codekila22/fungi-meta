@@ -175,7 +175,7 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "mycelium",
-  "StalkDiamRangeValuess": "0.5,1.5",
+  "StalkDiamRangeValuess": "0,2",
   "StalkLengthRangeValuess": "5,16",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -193,5 +193,5 @@
   "la_zhtw": "美男艷小菇,,",
   "la_zhcn": "美男艳小菇,,"
  },
- "timestamp": "20260719-180210"
+ "timestamp": "20260719-210136"
 }

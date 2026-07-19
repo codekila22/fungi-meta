@@ -158,7 +158,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "0.3,1.5",
+  "CapDiamRangeValues": "0,2",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -178,7 +178,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "0.3,1.5",
+  "HeightRangeValuess": "0,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -192,5 +192,5 @@
   "Note": "纖毛杯菌近似種，種小名donkii紀念真菌學者Donk。子實體極微小杯狀、白色、外被長纖毛，杯口朝下，群生於枯枝腐木，需放大鏡方能辨識。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260719-180210"
+ "timestamp": "20260719-210136"
 }
