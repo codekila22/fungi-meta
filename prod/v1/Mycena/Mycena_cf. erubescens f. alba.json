@@ -54,7 +54,7 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "0.5,1.5",
+  "StalkDiamRangeValuess": "0,2",
   "StalkLengthRangeValuess": "10,65",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -72,5 +72,5 @@
   "Note": "疑似紅暈小菇之偏白副種，屬名Mycena指其小菇之屬；種小名erubescens意為「泛紅的」。子實體微小、蓋半透明而具條紋、傷後或老時泛紅；菌褶疏；柄纖細；味苦；喜生於有苔蘚之枯木上。喜好生長在有苔蘚的枯木上。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260719-180210"
+ "timestamp": "20260719-210136"
 }

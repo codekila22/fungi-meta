@@ -2,6 +2,7 @@
  "genus": "Boletus",
  "name": "reticulatus",
  "date": [
+  "07/18/2026,27637687115915024",
   "06/05/2023,6057363351040712",
   "06/04/2023,6051529158290798",
   "07/18/2020,2937547626355649"
@@ -81,6 +82,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Boletus_reticulatus_7188e9c0-0435-11ee-afa5-4dde3f3afab5_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_reticuloceps_27637687115915024_f389bfd0-831c-11f1-bb51-67f20f60fdaf_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_reticuloceps_27637687115915024_f389bfd0-831c-11f1-bb51-67f20f60fdaf_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_reticuloceps_27637687115915024_f389bfd0-831c-11f1-bb51-67f20f60fdaf_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_reticuloceps_27637687115915024_f389bfd0-831c-11f1-bb51-67f20f60fdaf_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_reticuloceps_27637687115915024_f389bfd0-831c-11f1-bb51-67f20f60fdaf_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_reticuloceps_27637687115915024_f389bfd0-831c-11f1-bb51-67f20f60fdaf_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_reticuloceps_27637687115915024_f389bfd0-831c-11f1-bb51-67f20f60fdaf_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_reticuloceps_27637687115915024_f389bfd0-831c-11f1-bb51-67f20f60fdaf_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -133,5 +166,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/242049403/thumb.jpeg"
   }
  ],
- "timestamp": "20260719-180210"
+ "timestamp": "20260719-210136"
 }

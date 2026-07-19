@@ -70,7 +70,7 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "1.5,3",
+  "StalkDiamRangeValuess": "1,3",
   "StalkLengthRangeValuess": "4,25",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -95,5 +95,5 @@
    "src": "https://static.inaturalist.org/photos/244429305/thumb.jpg"
   }
  ],
- "timestamp": "20260719-180210"
+ "timestamp": "20260719-210136"
 }
