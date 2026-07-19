@@ -244,7 +244,7 @@
  ],
  "meta": {
   "CapColors": "4291659071,4288768839",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "100,400",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -264,7 +264,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "50,250",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
@@ -275,7 +275,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Ganoderma applanatum,,",
-  "Note": "過去台灣低海拔所認為的樹舌靈芝，目前認為應該是南方靈芝。",
+  "Note": "南方靈芝，屬名Ganoderma意為「光亮之皮」；種小名australe意為「南方的」。子實體大型、多年生、無柄而呈馬蹄至扁半圓形、木質；蓋面灰褐至暗褐、具環稜；孔面白色、傷後轉褐；生於闊葉樹枯幹與活樹上。過去台灣低海拔所認為的樹舌靈芝，目前認為應該是南方靈芝。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "樹舌靈芝,,",
   "la_zhcn": "树舌灵芝,,"
@@ -289,5 +289,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/54211256/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

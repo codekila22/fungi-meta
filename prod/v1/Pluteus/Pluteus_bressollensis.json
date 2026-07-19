@@ -2,7 +2,7 @@
  "genus": "Pluteus",
  "name": "bressollensis",
  "date": [
-  "01/01/0001"
+  "05/16/2021,3787181278058942"
  ],
  "names_zhtw": [
   "布雷索爾光柄菇"
@@ -84,7 +84,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -94,7 +97,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "布雷索爾光柄菇，屬名Pluteus為光柄菇之屬；種小名bressollensis取自模式產地（法國Bressols）。蓋褐色、中央具皺紋或細鱗；菌褶離生、初白後轉粉紅色；柄白；生於腐木或木屑上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -106,5 +109,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

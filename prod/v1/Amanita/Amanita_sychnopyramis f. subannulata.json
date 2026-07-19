@@ -349,7 +349,7 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,10",
   "StalkLengthRangeValuess": "35,120",
@@ -364,7 +364,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita sychnopyramis,,",
-  "Note": "",
+  "Note": "殘托鵝膏環變型，帽被角錐狀灰白疣突、緣具溝紋，柄基球狀，subannulata型具環。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "殘托鵝膏,,",
   "la_zhcn": "残托鹅膏,,"
@@ -378,5 +378,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

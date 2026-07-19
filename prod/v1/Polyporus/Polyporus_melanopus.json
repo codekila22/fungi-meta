@@ -56,7 +56,7 @@
  ],
  "meta": {
   "CapColors": "4294963157,4292786311",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -87,7 +87,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Polyporus varius,,",
-  "Note": "多生長於埋在土中的枯木上。",
+  "Note": "黑柄多孔菌，屬名Polyporus意為「多孔的」；種小名melanopus由希臘文melas（黑）與pous（足）組成，意為「黑柄的」。蓋漏斗狀至中央下陷、褐色；孔面白色、延生；柄中生至偏生、被黑色絨毛；多生於埋土之枯木上。多生長於埋在土中的枯木上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "多變多孔菌,,",
   "la_zhcn": "多变多孔菌,,"
@@ -101,5 +101,5 @@
    "src": "https://static.inaturalist.org/photos/207912/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

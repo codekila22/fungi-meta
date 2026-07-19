@@ -375,7 +375,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4292072403,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "25,39",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -390,8 +390,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -406,7 +406,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "象鼻葉鐘菌，種小名proboscideum意為「象鼻狀的」，指其具鼻狀延伸之假柄。子實體、鐘形至寬杯狀而下垂，背側或側生附著、無真菌柄，表面黏而被細纖毛，菌褶彎生密集、幼時白熟轉淡黃，生於熱帶美洲枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -418,5 +418,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8972998/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

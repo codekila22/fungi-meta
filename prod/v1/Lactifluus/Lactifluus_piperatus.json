@@ -96,8 +96,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,30",
   "StalkLengthRangeValuess": "30,90",
@@ -112,7 +112,7 @@
   "Smell": "",
   "Taste": "spicy",
   "LookAlikes": "Lactifluus glaucescens,,",
-  "Note": "",
+  "Note": "白辣乳菇，種小名piperatus意為「胡椒般的」，指其乳汁極辛辣如胡椒。蓋6–16cm乳白（老熟染茶色）、凸形而中央下凹、光滑不亮、乾燥處常龜裂，菌褶白色、極窄而密集延生（本種醒目特徵），柄白而短，傷時湧出白色乳汁、味極辛辣，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "灰白多汁乳菇,,",
   "la_zhcn": "灰白多汁乳菇,,"
@@ -126,5 +126,5 @@
    "src": "https://static.inaturalist.org/photos/32834443/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

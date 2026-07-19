@@ -65,7 +65,7 @@
  ],
  "meta": {
   "CapColors": "4293951616,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,70",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -85,7 +85,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "40,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
@@ -96,7 +96,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "密枝瑚菌，種小名stricta意為「直立緊束的」，指其分枝直立而近平行。子實體褐至黃色而枝端色較淡、傷處轉淡紅褐，自白色基部反覆分枝達八次、各枝直立近平行而末端具四至五個刺狀尖突，具茴香氣味而味苦，生於腐木與木屑。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -122,5 +122,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

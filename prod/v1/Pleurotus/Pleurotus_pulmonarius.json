@@ -2,6 +2,7 @@
  "genus": "Pleurotus",
  "name": "pulmonarius",
  "date": [
+  "07/17/2026,27632600516423684",
   "07/04/2026,27469966802687057",
   "06/22/2026,27358145313869207",
   "11/01/2025,24857833903900373",
@@ -271,6 +272,30 @@
   {
    "author": "何俊霖",
    "image_src": "Pleurotus_pulmonarius_7eaccf10-7a9b-11f1-9f37-11da2773397a_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pleurotus_pulmonarius_27632600516423684_2197ff60-8339-11f1-a062-8118f6bbb4de_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pleurotus_pulmonarius_27632600516423684_2197ff60-8339-11f1-a062-8118f6bbb4de_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pleurotus_pulmonarius_27632600516423684_2197ff60-8339-11f1-a062-8118f6bbb4de_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pleurotus_pulmonarius_27632600516423684_2197ff60-8339-11f1-a062-8118f6bbb4de_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pleurotus_pulmonarius_27632600516423684_2197ff60-8339-11f1-a062-8118f6bbb4de_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pleurotus_pulmonarius_27632600516423684_2197ff60-8339-11f1-a062-8118f6bbb4de_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -296,8 +321,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,15",
+  "StalkLengthRangeValuess": "5,25",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
@@ -309,7 +334,7 @@
   "Smell": "mild",
   "Taste": "mild",
   "LookAlikes": "Pleurocybella porrigens,Pleurotus ostreatus,",
-  "Note": "雖然偏好溫暖氣候，但台灣山區似乎四季可見，此種相比於冬季出現的糙皮側耳(Pleurotus ostreatus)而言，菌肉較為軟薄，而莖更長一點。",
+  "Note": "肺形側耳，屬名Pleurotus意為「側生之耳」；種小名pulmonarius意為「肺形的」，指其扇形之菌蓋。蓋扇形至半圓、白至淡灰褐色、肉較薄；菌褶延生、白色；柄短而偏生；生於闊葉樹枯木上，較糙皮側耳肉薄而柄長，廣為栽培。雖然偏好溫暖氣候，但台灣山區似乎四季可見，此種相比於冬季出現的糙皮側耳(Pleurotus ostreatus)而言，菌肉較為軟薄，而莖更長一點。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "貝形圓孢側耳,糙皮側耳,",
   "la_zhcn": "贝形圆孢侧耳,糙皮侧耳,"
@@ -323,5 +348,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/59421868/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

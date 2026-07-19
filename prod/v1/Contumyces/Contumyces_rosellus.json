@@ -28,7 +28,7 @@
  ],
  "meta": {
   "CapColors": "4294083840,4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,20",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -43,11 +43,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "10,25",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -59,7 +59,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "玫瑰臍菇，種小名rosellus意為「淡玫瑰色的」，指其全株所呈之粉紅色調。子實體小巧，蓋0.5–2cm、初半球而後下凹成漏斗形；柄1–2.5cm、細而柔韌、後中空、與蓋同色，基部具白色絨狀菌絲，無菌環。"
  },
  "inaturalist": [
   {
@@ -70,5 +70,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4022583/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

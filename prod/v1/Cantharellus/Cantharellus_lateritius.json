@@ -210,7 +210,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,90",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -223,7 +223,7 @@
   "Smell": "other",
   "Taste": "mild",
   "LookAlikes": "",
-  "Note": "聞起來有杏桃味。",
+  "Note": "薄黃雞油菌，屬名Cantharellus意為「小杯」，指其漏斗狀之菌蓋；種小名lateritius意為「磚色的」。子實體漏斗狀、橙黃至蛋黃色；下表面近平滑至具淺鈍之皺脈（非真菌褶），此為雞油菌之特徵；具杏桃般香氣。聞起來有杏桃味。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -256,5 +256,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

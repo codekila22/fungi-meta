@@ -237,8 +237,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -252,7 +252,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "孟加拉環柄菇，帽被褐色鱗片、具環，柄具鱗，孢子白色，熱帶林地腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -264,5 +264,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

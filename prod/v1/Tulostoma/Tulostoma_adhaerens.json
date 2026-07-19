@@ -83,7 +83,8 @@
   "StalkVolva": "",
   "StalkBase": "rooting",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "10,20",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
@@ -94,7 +95,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "黏柄灰錘菌，屬名Tulostoma為灰錘菌之屬（具柄之小馬勃）；種小名adhaerens意為「黏著的」。子實體具細長之柄、頂載一球形之產孢頭、頭部以頂孔散出孢子；柄常黏附砂粒；生於乾旱之砂地或岩隙間。"
  },
  "inaturalist": [
   {
@@ -105,5 +106,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

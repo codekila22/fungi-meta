@@ -259,7 +259,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "lateral,absent",
   "StalkColors": "",
   "StalkTexture": "",
@@ -269,6 +269,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,30",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped",
@@ -279,7 +280,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌蓋淺灰褐帶紫色。",
+  "Note": "囊孔附毛菌，屬名Trichaptum意指其被毛之蓋面；種小名biforme意為「兩型的」。子實體薄、革質、扇形至半圓、覆瓦狀，蓋面被絨毛而具環帶、淺灰褐帶紫色；孔面帶紫、孔口老時撕裂為齒狀；生於闊葉樹枯木上。菌蓋淺灰褐帶紫色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -291,5 +292,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29872746/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

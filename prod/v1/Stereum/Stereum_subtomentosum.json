@@ -89,7 +89,7 @@
  ],
  "meta": {
   "CapColors": "4291979550",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -109,7 +109,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,25",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -120,7 +120,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Stereum lobatum,Stereum ostrea,",
-  "Note": "",
+  "Note": "絨毛韌革菌，種小名subtomentosum意為「略被絨毛的」，指菌蓋被短絨。子實體薄革質、扇形而常癒合成波狀寬帶、上表面被灰黃絨毛並具環帶，子實層淡黃而傷處變黃（不流血），生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "脫毛韌革菌,蠔韌革菌,",
   "la_zhcn": "脱毛韧革菌,蚝韧革菌,"
@@ -134,5 +134,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/154845232/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

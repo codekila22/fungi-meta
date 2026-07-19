@@ -407,7 +407,7 @@
  ],
  "meta": {
   "CapColors": "4293498490,4292072403,4293302630",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "velvety",
   "CapMargin": "",
@@ -422,8 +422,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -438,17 +438,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "皺波擬褶尾菌，扇形帽波狀捲曲黃褐色，下表面具脈狀皺褶，群生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
-   "name": "Plicaturopsis crispa",
-   "cname": "Crimped Gill",
+   "name": "Plicatura crispa",
+   "cname": "crimped gill",
    "cname_zh": "皺褶革菌",
-   "url": "https://www.inaturalist.org/taxa/55565-Plicaturopsis-crispa",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13283489/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1503458",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135520/square."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

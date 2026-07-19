@@ -101,11 +101,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,15",
+  "StalkLengthRangeValuess": "30,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -116,7 +116,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "淡色黏雞油菌，種小名pallidus意為「淡色的」，指其淡黃白色。子實體漏斗形、淡黃至米色，下表面具分叉之稜脊狀假菌褶並明顯延生（非真菌褶），柄同色，地生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -128,5 +128,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28612814/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

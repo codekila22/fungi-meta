@@ -149,6 +149,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -159,7 +160,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "沙灘盤菌，種小名ammophila意為「喜沙的」，指其生於海濱沙地。子實體杯狀而大部埋於沙中、僅頂端星狀開裂露出，盤面褐色，外表面沾沙，生於海岸沙丘之濱草間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -171,5 +172,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13785148/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

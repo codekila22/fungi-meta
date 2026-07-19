@@ -133,8 +133,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -149,7 +149,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白黑伏褶菌，屬名Resupinatus為伏褶菌之屬；種小名alboniger意為「白與黑的」。子實體微小、杯狀至貝殼狀、無柄而以背部附生、膠質；蓋暗灰至黑色而被白色細毛；菌褶自附著點放射；生於腐木下側。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -161,5 +161,5 @@
    "src": "https://static.inaturalist.org/photos/42654162/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

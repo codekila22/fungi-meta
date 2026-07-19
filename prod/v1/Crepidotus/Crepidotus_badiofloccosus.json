@@ -234,8 +234,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -249,7 +249,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "老熟個體菌蓋上的毛可能會因雨水或其他因素掉落，菌蓋轉成蒼白色。",
+  "Note": "褐毛靴耳，屬名Crepidotus意為「似鞋的耳」；種小名badiofloccosus由badius（栗褐）與floccosus（絮毛）組成，意為「栗褐絮毛的」，指其蓋面之褐色毛。子實體貝殼形至腎形、無柄而側生、被褐色絨毛，老時毛落而轉蒼白；生於枯木上。老熟個體菌蓋上的毛可能會因雨水或其他因素掉落，菌蓋轉成蒼白色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -261,5 +261,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155108751/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

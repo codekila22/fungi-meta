@@ -85,7 +85,7 @@
  ],
  "meta": {
   "CapColors": "4292072403,4292664540",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -100,11 +100,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "30,120",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -116,7 +116,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌柄為白色質地光滑。",
+  "Note": "金毛超鬼傘，屬名Parasola意為「陽傘」，指其放射摺褶如傘之菌蓋；種小名auricoma由aurum（金）與coma（毛髮）組成，意為「金毛的」。蓋灰色、具放射狀深摺紋、幼時被金褐色之細毛；菌褶不自溶；柄白而光滑；生於草地與腐植質上。菌柄為白色質地光滑。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -128,5 +128,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1627306/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -2,6 +2,8 @@
  "genus": "Lentinellus",
  "name": "pulvinulus",
  "date": [
+  "07/13/2026,27579699345047135",
+  "07/08/2026,27549558661394537",
   "12/22/2025,25328191716864587",
   "07/31/2025,24023896600627445",
   "06/01/2025,9819918021451874",
@@ -294,6 +296,58 @@
   {
    "author": "陳麗紅",
    "image_src": "Lentinellus_pulvinulus_68e59a20-e1a0-11f0-8c7c-d147a02fcb3c_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinellus_pulvinulus_27549558661394537_2a779740-7db1-11f1-be9c-75df4a7b413f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinellus_pulvinulus_27549558661394537_2a779740-7db1-11f1-be9c-75df4a7b413f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinellus_pulvinulus_27549558661394537_2a779740-7db1-11f1-be9c-75df4a7b413f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinellus_pulvinulus_27549558661394537_2a779740-7db1-11f1-be9c-75df4a7b413f_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinellus_pulvinulus_27549558661394537_2a779740-7db1-11f1-be9c-75df4a7b413f_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinellus_pulvinulus_27549558661394537_2a779740-7db1-11f1-be9c-75df4a7b413f_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lentinellus_pulvinulus_27579699345047135_88508890-7f4b-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lentinellus_pulvinulus_27579699345047135_88508890-7f4b-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lentinellus_pulvinulus_27579699345047135_88508890-7f4b-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lentinellus_pulvinulus_27579699345047135_88508890-7f4b-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lentinellus_pulvinulus_27579699345047135_88508890-7f4b-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lentinellus_pulvinulus_27579699345047135_88508890-7f4b-11f1-a6ae-2d91ec182952_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Lentinellus_pulvinulus_27579699345047135_88508890-7f4b-11f1-a6ae-2d91ec182952_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -301,7 +355,7 @@
  ],
  "meta": {
   "CapColors": "4291605388,4294303411,4290822336",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -316,22 +370,25 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "小墊小香菇，屬名Lentinellus意指其小而韌之香菇狀外形；種小名pulvinulus意為「小墊狀的」。子實體小、腎形至扇形、側生或近無柄；菌褶之緣呈鋸齒狀（本屬特徵）；生於闊葉樹腐木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -341,14 +398,7 @@
    "cname_zh": "小墊小香菇",
    "url": "https://www.inaturalist.org/taxa/355946-Lentinellus-pulvinulus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37213114/thumb.jpg"
-  },
-  {
-   "name": "",
-   "cname": "",
-   "cname_zh": "小墊小香菇",
-   "url": "https://www.inaturalist.org/taxa/355946-Lentinellus-pulvinulus",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37213114/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

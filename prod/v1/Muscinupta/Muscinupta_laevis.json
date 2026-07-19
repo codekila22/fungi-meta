@@ -155,8 +155,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -171,7 +171,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Rimbachia cf. neckerae,,",
-  "Note": "通常具有較長的柄。",
+  "Note": "光滑苔傘，屬名Muscinupta意指其生於苔蘚間之習性；種小名laevis意為「平滑的」，指其平滑之子實層。子實體微小、杯狀至喇叭狀、白色、具一相對較長之柄；子實層平滑；生於苔蘚間。通常具有較長的柄。",
   "la_zhtw": "平苔圓拱菌,,",
   "la_zhcn": "平苔圆拱菌,,"
  },
@@ -184,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28212561/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

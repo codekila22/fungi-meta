@@ -125,8 +125,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -140,7 +140,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "疑似大蓋灰鱗鵝膏，種小名cinereopannosa意為「覆灰色破布的」，指蓋面被灰色絮狀外菌幕殘片。蓋8–18cm、白至灰白而密被褐灰色疣狀鱗片，菌褶白色，柄白而被絮狀鱗、基部具不明顯之菌托殘餘，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -152,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32035769/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

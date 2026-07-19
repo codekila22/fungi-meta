@@ -109,7 +109,7 @@
  ],
  "meta": {
   "CapColors": "4294309365",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,20",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -127,8 +127,9 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "10,20",
-  "StalkLengthRangeValuess": "100,150",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "100,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -139,7 +140,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "柄上有塊狀皺紋，頭部末端連在一起的4-6個短臂組成。",
+  "Note": "圓柱散尾鬼筆，屬名Lysurus為鬼筆類之一屬；種小名gardneri紀念採集者Gardner。幼時為卵狀之菌蕾，成熟後伸出具塊狀皺紋之柱狀受托，頂端由4至6枚末端相連之短臂組成、內覆橄欖褐色而惡臭之孢體；藉惡臭引蟲傳播孢子。柄上有塊狀皺紋，頭部末端連在一起的4-6個短臂組成。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -151,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20765286/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

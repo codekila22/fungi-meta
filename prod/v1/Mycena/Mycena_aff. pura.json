@@ -60,7 +60,7 @@
  ],
  "meta": {
   "CapColors": "4286578816,4283433144,4283105408",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -75,13 +75,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,6",
+  "StalkLengthRangeValuess": "40,100",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -91,7 +93,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "潔小菇相似種，種小名pura意為「潔淨的」。蓋粉紅至紫丁香或近白、色澤多變、凸形至鐘形而後平展、緣具溝紋，菌褶淡而具明顯橫脈相連，柄與蓋同色、光滑而中空，具明顯之蘿蔔氣味，群生於林地落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -145,5 +147,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

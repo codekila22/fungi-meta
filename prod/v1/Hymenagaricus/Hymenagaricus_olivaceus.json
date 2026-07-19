@@ -188,8 +188,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -204,10 +204,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Xanthagaricus pakistanicus,Hymenagaricus aff. olivaceus,",
-  "Note": "體型比相似種大。",
+  "Note": "橄欖色層蘑菇，屬名Hymenagaricus為小型蘑菇之一屬；種小名olivaceus意為「橄欖色的」，指其橄欖褐之蓋色。蓋小、被橄欖褐色之細鱗；菌褶初淡後轉暗褐；柄具一膜質菌環；為熱帶之小型蘑菇。體型比相似種大。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "巴基斯坦黃蘑菇,橄欖色層蘑菇相似種,",
   "la_zhcn": "巴基斯坦黄蘑菇,橄榄色层蘑菇相似种,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

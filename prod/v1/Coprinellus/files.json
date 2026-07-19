@@ -2,7 +2,7 @@
  "name": "Coprinellus",
  "zhtw": "小鬼傘屬",
  "zhcn": "小鬼伞属",
- "timestamp": "20260711-101424",
+ "timestamp": "20260719-180210",
  "list": [
   {
    "name": "Coprinellus aureogranulatus",
@@ -50,6 +50,12 @@
    "img": "Coprinellus_micaceus_9_CC BY-NC_Hannah Wang.jpg"
   },
   {
+   "name": "Coprinellus parcus",
+   "zhtw": "小型小鬼傘",
+   "zhcn": "小型小鬼伞",
+   "img": "Coprinellus_parcus_27629317653418637_296d4e00-82a5-11f1-ac1e-3b6716760521_1.jpg"
+  },
+  {
    "name": "Coprinellus radians",
    "zhtw": "輻毛小鬼傘",
    "zhcn": "辐毛小鬼伞",
@@ -67,5 +73,6 @@
    "zhcn": "绒柄小鬼伞",
    "img": "Coprinellus_velutipes_d0358f60-2592-11f1-8e55-63487a176c37_1.jpg"
   }
- ]
+ ],
+ "note": "小鬼傘屬隸屬擔子菌門傘菌綱傘菌目小脆柄菇科（Psathyrellaceae），為鬼傘類（coprinoid）真菌之一。子實體小型而纖弱，菌蓋鐘形至圓錐形，表面常被由細胞構成的顆粒狀菌幕殘屑（如雲母狀的閃亮顆粒）或細毛；菌褶密、成熟後墨化（deliquescence）：自溶為黑色墨汁狀液體以散播孢子。擔孢子黑褐、光滑、具發芽孔，孢子印黑色。多營腐生，叢生於腐木、樹樁基部、埋木或富腐殖質之地。代表種如晶粒小鬼傘（Coprinellus micaceus，菌蓋具閃亮顆粒）與雪白小鬼傘（C. disseminatus，密叢生）。本屬係自昔日龐大的鬼傘屬（Coprinus）分出；2020年又有許多種被移入新立的刺毛鬼傘屬（Tulosesus）。"
 }

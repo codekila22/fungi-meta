@@ -46,8 +46,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "rooting",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,5",
+  "StalkLengthRangeValuess": "50,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -58,7 +58,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "詹尼暗金錢菌，種小名jennyae為女性人名之屬格，係卡斯滕（P. A. Karsten）命名時所題獻。蓋2.5–5.5cm、鐘形至凸圓而具明顯突起；柄5–10cm、粗3–5mm、圓柱形、中空，基部延長為根狀而深入地下。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -70,5 +70,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30551099/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

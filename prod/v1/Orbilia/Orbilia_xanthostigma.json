@@ -209,11 +209,11 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,2",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
-  "Seasons": "",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
@@ -222,7 +222,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃色圓盤菌，種小名xanthostigma意為「黃色斑點」。微小盤菌、半透明黃色、近無柄膠質，密生於潮濕腐木下側，需放大鏡辨識。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -234,5 +234,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28567180/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -103,7 +103,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -118,11 +118,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,4",
+  "StalkLengthRangeValuess": "3,15",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -134,7 +134,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hohenbuehelia petaloides,,",
-  "Note": "",
+  "Note": "勺狀亞側耳，種小名auriscalpium意為「耳勺」，指其匙至勺狀之外形。子實體匙形至勺狀、灰褐色而被膠質層，菌褶白色密集延生，柄短而偏生，肉具明顯膠層，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "花瓣狀亞側耳,,",
   "la_zhcn": "花瓣状亚侧耳,,"
@@ -148,5 +148,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/211376063/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

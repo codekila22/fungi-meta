@@ -2,6 +2,7 @@
  "genus": "Calocera",
  "name": "viscosa",
  "date": [
+  "07/14/2026,27582185228131880",
   "06/28/2026,27426324057051332",
   "06/11/2025,9843675279076148",
   "05/12/2025,9631151400328538",
@@ -201,6 +202,50 @@
   {
    "author": "吳湯姆",
    "image_src": "Calocera_viscosa_b29ad2a0-74f0-11f1-ad8d-814b59be874e_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calocera_viscosa_27582185228131880_703eb6b0-7f77-11f1-a6ae-2d91ec182952_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -208,7 +253,7 @@
  ],
  "meta": {
   "CapColors": "4294944000,4294940928",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,6",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -226,12 +271,14 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "2,6",
-  "StalkLengthRangeValuess": "20,100",
-  "HeightRangeValuess": "",
-  "Rareness": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,100",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -239,7 +286,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Ramariopsis crocea,,",
-  "Note": "生長於針葉木的枯木上。",
+  "Note": "黏膠角耳，屬名Calocera由希臘文kalos（美）與keras（角）組成，意為「美麗之角」；種小名viscosa意為「黏的」。子實體膠質而堅韌、鮮橙黃色、直立而多回分枝如鹿角，濕時表面黏；生於針葉樹之埋木與枯幹上。生長於針葉木的枯木上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "橘黃擬枝瑚菌,,",
   "la_zhcn": "橘黄拟枝瑚菌,,"
@@ -253,5 +300,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18635/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

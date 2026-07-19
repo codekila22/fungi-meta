@@ -192,11 +192,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "20,50",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer",
@@ -208,7 +208,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Basidopus brunneisetosa,,",
-  "Note": "傘面有長毛，柄下半部有腺毛，柄基部有圓盤。",
+  "Note": "龐克頭小菇，屬名Mycena指其小菇之屬；種小名punkissima為戲仿之拉丁化，意指其菌蓋長毛豎立如龐克髮型。子實體微小，蓋被長毛；菌褶疏；柄下半具腺毛、基部具一圓盤狀物；生於腐木落葉上。傘面有長毛，柄下半部有腺毛，柄基部有圓盤。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "褐剛毛基盤小菇,,",
   "la_zhcn": "褐刚毛基盘小菇,,"
@@ -222,5 +222,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58226071/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

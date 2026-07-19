@@ -259,7 +259,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -269,7 +269,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "6,8",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -279,7 +279,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -290,7 +290,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌蓋有環紋，菌孔為紫褐色。",
+  "Note": "紫紅黑孔菌，屬名Nigroporus意為「黑色之孔」；種小名vinosus意為「酒紅色的」，指其紫紅之孔面。子實體薄、韌、扇形至半圓、覆瓦狀，蓋面紫褐色而具環帶；孔面紫褐色、孔口甚細；生於闊葉樹枯木上。菌蓋有環紋，菌孔為紫褐色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -302,5 +302,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4305620/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

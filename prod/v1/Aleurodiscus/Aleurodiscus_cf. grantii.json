@@ -121,7 +121,7 @@
  ],
  "meta": {
   "CapColors": "4294940928,4293302630",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -141,7 +141,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -152,7 +152,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Gloeosoma mirabile,,",
-  "Note": "",
+  "Note": "疑似葛蘭氏盤革菌，種小名grantii紀念採集者Grant。子實體小型盤狀至平伏、白至淡粉色、緣常反捲、質蠟革，散生或群生於針葉樹之枯枝樹皮。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "刺絲膠體孔菌,,",
   "la_zhcn": "刺丝胶体孔菌,,"
@@ -166,5 +166,5 @@
    "src": "https://static.inaturalist.org/photos/30473593/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

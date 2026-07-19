@@ -132,8 +132,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,30",
   "StalkLengthRangeValuess": "50,100",
@@ -148,7 +148,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "除了偶爾會長在林中，此物種常生長在受到人為影響的環境下，如路邊、碎石子路、小徑、造景區等。在地上叢生居多，年輕時菌褶為白色，老熟個體褶色稍微轉黃。",
+  "Note": "荷葉離褶傘，屬名Lyophyllum為離褶傘之屬；種小名decastes意為「十個一組的」，指其常多枚密集叢生。蓋灰褐色、光滑；菌褶密、彎生、初白後稍轉黃；柄堅韌、基部相連而叢生；常見於路邊、碎石地等受人為影響之環境，亦偶生於林中。除了偶爾會長在林中，此物種常生長在受到人為影響的環境下，如路邊、碎石子路、小徑、造景區等。在地上叢生居多，年輕時菌褶為白色，老熟個體褶色稍微轉黃。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -167,5 +167,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/237407595/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

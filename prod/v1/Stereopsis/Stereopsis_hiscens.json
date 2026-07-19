@@ -2,6 +2,7 @@
  "genus": "Stereopsis",
  "name": "hiscens",
  "date": [
+  "07/07/2026,27547281448288925",
   "09/30/2024,8224059984371027",
   "08/02/2020,3082085155235228"
  ],
@@ -38,6 +39,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Stereopsis_hiscens_515574e0-814b-11ef-92d0-9b0b1561ec64_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stereopsis_hiscens_27547281448288925_ed642320-7d04-11f1-a10a-9f31227dc601_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stereopsis_hiscens_27547281448288925_ed642320-7d04-11f1-a10a-9f31227dc601_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stereopsis_hiscens_27547281448288925_ed642320-7d04-11f1-a10a-9f31227dc601_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stereopsis_hiscens_27547281448288925_ed642320-7d04-11f1-a10a-9f31227dc601_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stereopsis_hiscens_27547281448288925_ed642320-7d04-11f1-a10a-9f31227dc601_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stereopsis_hiscens_27547281448288925_ed642320-7d04-11f1-a10a-9f31227dc601_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stereopsis_hiscens_27547281448288925_ed642320-7d04-11f1-a10a-9f31227dc601_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Stereopsis_hiscens_27547281448288925_ed642320-7d04-11f1-a10a-9f31227dc601_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -45,7 +78,7 @@
  ],
  "meta": {
   "CapColors": "4294309340",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -65,10 +98,12 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "10,40",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -76,7 +111,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "瓣裂柄革菌，種小名hiscens意為「開裂的」，指其菌蓋常縱向開裂成瓣。子實體革質、匙形至漏斗形而常瓣裂、淡褐至赭色，子實層平滑位於下表面，具細柄，地生於林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -88,5 +123,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/49559773/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

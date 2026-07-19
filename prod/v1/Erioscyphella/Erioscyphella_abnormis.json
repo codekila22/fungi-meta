@@ -157,7 +157,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,3",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -170,7 +170,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Erioscyphella sclerotii,,",
-  "Note": "",
+  "Note": "異常粒毛盤菌，種小名abnormis意為「異常的」。子實體微小盤狀、具細柄、外緣密被白色細毛、盤面淡黃至橙，群生於落葉與腐枝，需放大鏡方能辨識。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "疑似絲氏粒毛盤菌,,",
   "la_zhcn": "疑似丝氏粒毛盘菌,,"
@@ -184,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3215676/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

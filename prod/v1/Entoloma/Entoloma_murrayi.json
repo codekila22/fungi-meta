@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "murrayi",
  "date": [
+  "07/14/2026,27587777664239303",
   "06/11/2025,9843763425734000",
   "10/13/2024,8313531065423918",
   "07/06/2024,7627342354042796",
@@ -117,6 +118,38 @@
   {
    "author": "姜淋友",
    "image_src": "Entoloma_murrayi_ecd6b1f0-b056-1074-b320-f79021564b99_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_27587777664239303_2cff27f0-7fdf-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_27587777664239303_2cff27f0-7fdf-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_27587777664239303_2cff27f0-7fdf-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_27587777664239303_2cff27f0-7fdf-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_27587777664239303_2cff27f0-7fdf-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_27587777664239303_2cff27f0-7fdf-11f1-a6ae-2d91ec182952_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_27587777664239303_2cff27f0-7fdf-11f1-a6ae-2d91ec182952_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_27587777664239303_2cff27f0-7fdf-11f1-a6ae-2d91ec182952_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -157,7 +190,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "尖頂粉褶菌，屬名Entoloma意為「內捲之緣」；種小名murrayi紀念採集者Murray。蓋圓錐形而具一尖銳之頂突、鮮黃色（成熟後褪為近肉色）；菌褶粉褶菌屬特有之肉粉色；柄與蓋同色、纖維質。菌蓋成熟後會褪色成接近肉色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -169,5 +202,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/414882/thumb.JPG"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

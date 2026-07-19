@@ -71,7 +71,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -86,8 +86,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -102,7 +102,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "密小菇，種小名stipata意為「密集叢生的」，指其常成束密集群生。蓋10–30mm、圓錐至鐘形、成熟漸凸、暗褐色而幼時具白緣；本種折傷後具強烈之氯（漂白水）氣味，叢生於針葉樹之腐朽殘幹上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -114,5 +114,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32079067/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

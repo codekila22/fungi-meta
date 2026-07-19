@@ -77,7 +77,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,50",
   "CapShape": "",
   "CapTexture": "raised-scales",
   "CapMargin": "",
@@ -92,11 +92,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "webby",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "20,50",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -108,7 +108,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "綿毛絲蓋傘，種小名lanuginosa意為「被綿毛的」，指蓋面密被綿毛狀纖毛與鱗片。蓋褐色、幼時凸而後平展、全面被纖毛與翹鱗，菌褶初淡而隨成熟轉褐、彎生至附生，柄亦被鱗與纖毛並具似絲膜菌屬之蛛網狀菌幕，孢子印褐色，生於潮濕林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -141,5 +141,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

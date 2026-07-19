@@ -2,6 +2,7 @@
  "genus": "Gloiocephala",
  "name": "aff. menieri",
  "date": [
+  "07/03/2026,27545165215167215",
   "04/10/2026,26411734715176943",
   "01/18/2026,25731016849915403",
   "08/20/2024,7948913458552349",
@@ -311,6 +312,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Gloiocephala_aff. menieri_ca1c8bb0-3d5c-11f1-9b8a-1bb5653731af_14.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_aff. menieri_27545165215167215_1cf062d0-7db3-11f1-be9c-75df4a7b413f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_aff. menieri_27545165215167215_1cf062d0-7db3-11f1-be9c-75df4a7b413f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_aff. menieri_27545165215167215_1cf062d0-7db3-11f1-be9c-75df4a7b413f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_aff. menieri_27545165215167215_1cf062d0-7db3-11f1-be9c-75df4a7b413f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_aff. menieri_27545165215167215_1cf062d0-7db3-11f1-be9c-75df4a7b413f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_aff. menieri_27545165215167215_1cf062d0-7db3-11f1-be9c-75df4a7b413f_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gloiocephala_aff. menieri_27545165215167215_1cf062d0-7db3-11f1-be9c-75df4a7b413f_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -318,7 +347,7 @@
  ],
  "meta": {
   "CapColors": "4287317267,4291659071",
-  "CapDiamRangeValues": "0,8",
+  "CapDiamRangeValues": "3,8",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -333,15 +362,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "leaves",
   "Bruising": "",
   "Bioluminescent": "",
@@ -349,7 +380,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Gloiocephala cf. rubescens,,",
-  "Note": "常生長在山棕枯葉桿上。",
+  "Note": "梅尼爾黏蓋傘之相似種，屬名Gloiocephala意為「黏頭的」，指其黏滑之菌蓋；種小名menieri紀念Meunier。子實體微小、白色，蓋凸而黏；菌褶疏或近平滑；柄纖細；常生於單子葉植物之枯葉桿上。常生長在山棕枯葉桿上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "疑似變紅黏蓋傘,,",
   "la_zhcn": "疑似变红黏盖伞,,"
@@ -363,5 +394,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

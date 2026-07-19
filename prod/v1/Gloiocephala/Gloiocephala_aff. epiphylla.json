@@ -128,8 +128,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -143,7 +143,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "葉生黏蓋傘之相似種，屬名Gloiocephala意為「黏頭的」，指其膠黏之菌蓋表面；種小名epiphylla意為「生於葉上的」。子實體微小、白色；蓋表膠質；菌褶疏或近平滑；生於常綠植物之落葉上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -155,5 +155,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110875253/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

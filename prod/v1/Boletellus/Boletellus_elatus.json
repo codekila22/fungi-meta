@@ -47,8 +47,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "6,12",
   "StalkLengthRangeValuess": "90,230",
@@ -57,25 +57,25 @@
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Aureoboletus longicollis,,",
-  "Note": "",
+  "Note": "高腳條孢牛肝菌，種小名elatus意為「高聳的」，指其細長挺立之柄。蓋3–9cm、半球至平凸、被細絨後近光滑、磚紅至栗褐色，潮濕時微黏；管孔純黃轉檸檬至橄欖綠；柄9–20cm、基部棒狀膨大，菌肉與管孔傷後不變色。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "長柄金牛肝菌,,",
   "la_zhcn": "长柄金牛肝菌,,"
  },
  "inaturalist": [
   {
-   "name": "Boletellus elatus",
+   "name": "Boletellopsis elata",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/350196-Boletellus-elatus",
-   "src": ""
+   "url": "https://www.inaturalist.org/taxa/1662416",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/315198697/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

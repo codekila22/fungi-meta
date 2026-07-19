@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4286611584,4292664540,4291605388",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "60,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -68,7 +68,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -78,8 +81,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "淡色高大鵝膏，屬名Amanita為鵝膏之屬。子實體高大、色淡；蓋常帶菌幕殘片；菌褶離生、白色；柄具菌環、基部具菌托（volva）；孢子印白色；與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

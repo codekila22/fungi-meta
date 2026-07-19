@@ -236,7 +236,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4288768839,4292786311",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -256,8 +256,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -267,7 +269,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Phaeotremella foliacea,Auricularia delicata,Auricularia villosula",
-  "Note": "台灣平地至中海拔山區枯木上皆可見，過去的書籍資料把台灣產的木耳誤植於僅產於歐洲地區的Auricularia auricula-judae。",
+  "Note": "黑木耳，屬名Auricularia意為「耳狀」；種小名heimuer取自中文俗名「黑木耳」。子實體耳狀至杯狀、膠質而富彈性、暗褐至黑褐色，不孕面被柔毛；乾後強烈皺縮；生於闊葉樹枯木上，為東亞廣泛栽培之食藥用菇。台灣平地至中海拔山區枯木上皆可見，過去的書籍資料把台灣產的木耳誤植於僅產於歐洲地區的Auricularia auricula-judae。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "茶暗銀耳,皺木耳複合群,短毛木耳",
   "la_zhcn": "茶暗银耳,皱木耳复合群,短毛木耳"
@@ -281,5 +283,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43696040/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -51,8 +51,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "webby",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,30",
   "StalkLengthRangeValuess": "60,100",
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "山羊味絲膜菌，種小名traganus源自希臘文tragos（山羊），指其濃烈之腥羶氣味。蓋鮮紫丁香色而老熟褪為赭褐、幼時球形至凸形而緣內捲、有時具寬鈍凸尖，菌褶鏽褐（與紫色蓋成強烈對比），柄紫而基部球狀膨大，具蛛網狀絲膜。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -78,5 +78,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159185/thumb."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

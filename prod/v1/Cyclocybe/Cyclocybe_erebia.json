@@ -72,7 +72,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4283244288",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -88,10 +88,10 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,10",
+  "StalkLengthRangeValuess": "25,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -103,7 +103,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "深色環傘，種小名erebia源自希臘神話幽冥之神Erebus，意為「幽暗的」，指其暗褐色澤。蓋暗褐至栗褐、幼時甚圓而後平展、濕時具變水性而緣具溝紋，菌褶初白後轉暗褐，柄白而老時轉褐、具一膜質菌環，生於林道旁與腐植質豐富之土壤。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -115,5 +115,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/169115546/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

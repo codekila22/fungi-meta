@@ -99,8 +99,9 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "2,5",
-  "StalkLengthRangeValuess": "15,30",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "15,30",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
@@ -111,7 +112,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "旋轉地錘菌，種小名circinans意為「捲曲的」，指其帽緣向內捲曲。子實體地錘狀直立、頭部半球至墊狀而緣內捲、淡黃褐至肉桂色，柄細長而稍具縱溝、色較深，群生於針葉林落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -123,5 +124,5 @@
    "src": "https://static.inaturalist.org/photos/226337523/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

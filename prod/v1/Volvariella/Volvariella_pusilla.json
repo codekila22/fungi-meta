@@ -112,8 +112,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "yes,sheathing",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,4",
+  "StalkLengthRangeValuess": "20,50",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -125,7 +125,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "矮小包脚菇，種小名pusilla意為「矮小的」，指其為本屬中之小型種。蓋白色而具絲狀光澤，菌褶離生、白色轉粉紅，柄白無環而基部具白色囊狀菌托，孢子印粉紅，生於草地與腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -137,5 +137,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/103208449/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

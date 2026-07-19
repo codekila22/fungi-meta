@@ -114,6 +114,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -124,7 +125,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "飾柄鎖瑚菌，種小名ornatipes意為「具裝飾柄的」，指其柄被細絨或縱紋。子實體灰至灰褐色、棒狀至少分枝、柄部明顯而被細絨毛，質稍韌，地生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -136,5 +137,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13071266/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

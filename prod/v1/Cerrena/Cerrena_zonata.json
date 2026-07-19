@@ -2,6 +2,7 @@
  "genus": "Cerrena",
  "name": "zonata",
  "date": [
+  "07/17/2026,27624874130529656",
   "06/08/2026,27160284630321944",
   "12/31/2025,25381516741532084",
   "07/24/2025,23999192239764548",
@@ -333,6 +334,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Cerrena_zonata_64c47f00-66bc-11f1-beed-e1f2db233c75_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cerrena_zonata_27624874130529656_d62efa60-827a-11f1-b205-db611c601ea1_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cerrena_zonata_27624874130529656_d62efa60-827a-11f1-b205-db611c601ea1_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cerrena_zonata_27624874130529656_d62efa60-827a-11f1-b205-db611c601ea1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cerrena_zonata_27624874130529656_d62efa60-827a-11f1-b205-db611c601ea1_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cerrena_zonata_27624874130529656_d62efa60-827a-11f1-b205-db611c601ea1_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -351,7 +372,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -361,7 +382,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,30",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
@@ -372,7 +393,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌蓋有環紋。",
+  "Note": "環紋齒毛菌，屬名Cerrena為齒毛菌之一屬；種小名zonata意為「具環帶的」，指其菌蓋之同心環紋。子實體薄、貝殼形至扇形、覆瓦狀叢生，蓋面被絨毛且具同心色帶；孔面灰至灰褐、孔口漸撕裂為齒狀；生於闊葉樹枯木上。菌蓋有環紋。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -384,5 +405,5 @@
    "src": "https://static.inaturalist.org/photos/2341604/thumb.JPG"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

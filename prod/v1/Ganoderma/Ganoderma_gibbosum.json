@@ -107,7 +107,7 @@
  ],
  "meta": {
   "CapColors": "4288768839",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "60,160",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -117,7 +117,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,7",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -126,9 +126,11 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "StalkLengthRangeValuess": "4,7",
+  "HeightRangeValuess": "30,70",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,bamboo",
@@ -138,7 +140,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "有柄樹舌靈芝，屬名Ganoderma意為「光亮之皮」；種小名gibbosum意為「隆起的」，指其隆突之蓋。擔子果具明顯之菌柄、質地介於木栓與木質之間；菌蓋半圓至近扇形、鏽褐至土黃色，通常不具亮麗之漆狀光澤；生於闊葉樹上。擔子果具明顯的菌柄，質地介於木栓質與木質之間。菌蓋呈半圆形或近扇形，表面顏色為鏽褐色至土黃色，且通常不具亮麗的漆狀光澤。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -150,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/122245501/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

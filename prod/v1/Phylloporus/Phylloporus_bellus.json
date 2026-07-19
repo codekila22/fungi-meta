@@ -2,6 +2,7 @@
  "genus": "Phylloporus",
  "name": "bellus",
  "date": [
+  "07/07/2026,27545979101752493",
   "08/08/2025,24068748946142210",
   "08/02/2024,7776326299144400",
   "07/10/2023,6178411088935937",
@@ -98,8 +99,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "30,65",
@@ -114,7 +115,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "美麗褶孔牛肝菌，種小名bellus意為「美麗的」。蓋褐至紅褐而絨質，其下表面為鮮黃色之厚而稀疏的真菌褶（非孔）——此為褶孔牛肝菌屬最醒目之特徵，柄同色，外生菌根生於殼斗科林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -126,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/103219384/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

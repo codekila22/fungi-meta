@@ -165,6 +165,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,50",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -175,7 +176,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "棗紅馬勃，種小名spadiceum意為「棗紅色的」，指其成熟後之紅褐色。子實體近球形至梨形、外被細顆粒或短刺、淡褐轉棗紅褐，成熟後頂端開孔散出褐色孢子，地生於沙地草地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -187,5 +188,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22795486/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

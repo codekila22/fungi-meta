@@ -103,7 +103,7 @@
  ],
  "meta": {
   "CapColors": "4289864226,4294083840,4294956800",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,70",
   "CapShape": "umbontae",
   "CapTexture": "",
   "CapMargin": "",
@@ -118,15 +118,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,8",
+  "StalkLengthRangeValuess": "50,110",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -134,7 +136,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita hemibapha,,",
-  "Note": "",
+  "Note": "凸頂紅黃鵝膏，屬名Amanita為鵝膏之屬；種小名rubroflava意為「紅黃色的」。蓋紅黃至橙黃色、中央具凸起、常帶菌幕殘片；菌褶離生、白至淡黃；柄具菌環、基部具菌托；地生於林下、與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "花柄橙紅鵝膏,,",
   "la_zhcn": "花柄橙红鹅膏,,"
@@ -148,5 +150,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

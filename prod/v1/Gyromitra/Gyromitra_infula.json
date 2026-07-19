@@ -221,8 +221,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "20,120",
-  "HeightRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,120",
   "Rareness": "",
   "Seasons": "spring,summer",
   "GrowthType": "singly,scattered",
@@ -233,19 +233,19 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Helvella elastica,,",
-  "Note": "",
+  "Note": "帶鹿花菌，種小名infula意為「主教冠/頭巾」，喻馬鞍狀2–4瓣裂帽如頭巾。帽紅褐至暗褐、鞍狀葉端尖突，柄蒼白中空，秋季生於針葉林腐木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "彈性馬鞍菌,,",
   "la_zhcn": "弹性马鞍菌,,"
  },
  "inaturalist": [
   {
-   "name": "Gyromitra infula",
+   "name": "Paragyromitra infula",
    "cname": "Saddle-shaped False Morel",
    "cname_zh": "帶鹿花菌",
-   "url": "https://www.inaturalist.org/taxa/117994-Gyromitra-infula",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/172415270/thumb.jpeg"
+   "url": "https://www.inaturalist.org/taxa/1613028",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5851561/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -202,7 +202,7 @@
  ],
  "meta": {
   "CapColors": "4278190285,4278190335",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -217,8 +217,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -235,7 +235,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "尤金粉褶菌，種小名eugenei紀念採集者Eugene。菌蓋色澤鮮明、菌褶粉紅色具稜角孢子，柄纖維狀，腐生或共生於林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -247,5 +247,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16579164/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

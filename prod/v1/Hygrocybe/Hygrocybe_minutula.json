@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "minutula",
  "date": [
+  "07/15/2026,27592216587128744",
   "06/24/2026,27344678315215907",
   "08/03/2025,24047585724925199",
   "07/25/2025,23950182317998874",
@@ -209,6 +210,18 @@
   {
    "author": "徐秀團",
    "image_src": "Hygrocybe_minutula_b1036fb0-7090-11f1-9e42-c36bb484db09_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_minutula_27592216587128744_77394fb0-8036-11f1-ad19-23a1d6387027_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_minutula_27592216587128744_77394fb0-8036-11f1-ad19-23a1d6387027_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_minutula_27592216587128744_77394fb0-8036-11f1-ad19-23a1d6387027_3.jpg"
   }
  ],
  "synonym": [
@@ -239,14 +252,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -254,7 +270,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "小濕傘，帽凸至平橙紅、菌褶蠟質黃橙，柄細橙黃，草地苔地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -280,5 +296,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

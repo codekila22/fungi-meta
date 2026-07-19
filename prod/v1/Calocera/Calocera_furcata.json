@@ -198,7 +198,7 @@
  ],
  "meta": {
   "CapColors": "4290283019,4294944000",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "1,4",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -217,7 +217,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "10,35",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,35",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -228,7 +229,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長在針葉木上。",
+  "Note": "叉狀膠角耳，屬名Calocera意為「美麗之角」；種小名furcata意為「叉狀的」，指其二叉分枝。子實體膠質而堅韌、鮮橙黃色、直立、頂端二叉分枝如角，濕時表面黏；生於針葉樹之腐木上。生長在針葉木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -240,5 +241,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/629084/thumb.JPG"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

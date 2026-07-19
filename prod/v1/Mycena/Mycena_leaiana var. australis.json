@@ -315,13 +315,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "2,3",
   "StalkLengthRangeValuess": "20,30",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -331,19 +333,19 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Mycena leaiana,,",
-  "Note": "傘緣顏色較黃。",
+  "Note": "利氏小菇澳洲變種，種小名leaiana紀念採集者T. G. Lea，變種名australis意為「南方的」，指其分布於南半球。蓋鐘形至凸形、鮮橙至橙黃色、黏；菌褶白至淡黃而邊緣染橙紅；柄橙色、基部具橙色菌絲；叢生於闊葉樹枯幹上。傘緣顏色較黃。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "利氏小菇,,",
   "la_zhcn": "利氏小菇,,"
  },
  "inaturalist": [
   {
-   "name": "Mycena leaiana var. australis",
+   "name": "Mycena leana australis",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/413684-Mycena-leaiana-australis",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/181609577/thumb.jpeg"
+   "url": "https://www.inaturalist.org/taxa/1647327",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/533344758/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

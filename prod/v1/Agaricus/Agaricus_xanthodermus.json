@@ -52,7 +52,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -67,11 +67,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,30",
+  "StalkLengthRangeValuess": "50,120",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -83,7 +83,7 @@
   "Smell": "",
   "Taste": "other",
   "LookAlikes": "",
-  "Note": "受傷變黃且有強烈的碘酒味。",
+  "Note": "黃斑蘑菇，屬名Agaricus為蘑菇之屬；種小名xanthodermus由希臘文xanthos（黃）與derma（皮）組成，意為「黃皮的」，正指其變黃反應。蓋白色、傷後（尤基部）迅速轉鮮黃；菌褶初粉紅後轉巧克力褐色；柄具菌環、基部尤易變黃；具強烈之石炭酸（碘酒）氣味。受傷變黃且有強烈的碘酒味。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -95,5 +95,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5235305/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

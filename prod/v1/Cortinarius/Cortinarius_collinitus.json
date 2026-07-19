@@ -298,11 +298,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "webby",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,20",
+  "StalkLengthRangeValuess": "50,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -313,7 +313,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黏液絲膜菌，帽栗褐色極黏滑，柄具橫向鱗帶狀黏環、蛛網狀菌幕，孢子鏽褐，針葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -337,28 +337,7 @@
    "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/194282-Cortinarius-mucosus",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/106387280/thumb.jpg"
-  },
-  {
-   "name": "Cortinarius collinitus caerulipes",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/344630-Cortinarius-collinitus-caerulipes",
-   "src": ""
-  },
-  {
-   "name": "Cortinarius collinitus collinitus",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/344632-Cortinarius-collinitus-collinitus",
-   "src": ""
-  },
-  {
-   "name": "Cortinarius collinitus repandus",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/344633-Cortinarius-collinitus-repandus",
-   "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

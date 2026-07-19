@@ -190,10 +190,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "35,100",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -206,7 +206,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Parasola cf. crataegi,,",
-  "Note": "",
+  "Note": "褶紋超鬼傘，種小名plicatilis意為「具褶皺的」，指菌蓋具放射狀深溝褶如摺傘。蓋灰褐半透明、形如雞尾酒小傘，菌褶稀疏不自溶，柄白纖細，晨間發生於草地林地，午後即萎。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "疑似山楂超鬼傘,,",
   "la_zhcn": "疑似山楂超鬼伞,,"
@@ -227,5 +227,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

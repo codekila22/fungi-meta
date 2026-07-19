@@ -36,7 +36,7 @@
  ],
  "meta": {
   "CapColors": "4288768839,4290278195",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "赭栓菌，種小名ochracea意為「赭色的」，指其橙、褐與赭色之環帶。子實體無柄、平展半圓形、上表面具明顯同心環帶而被細絨，緣色較淡，孔面奶油赭色，肉韌而薄，成群覆瓦狀生於闊葉樹枯木與倒木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -78,5 +78,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159882574/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

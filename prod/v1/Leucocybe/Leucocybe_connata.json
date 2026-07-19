@@ -53,7 +53,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -68,11 +68,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "30,100",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -84,7 +84,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "合生白傘，種小名connata意為「合生的」，指其常數枚基部相連而叢生成株。蓋4–8cm、白色；柄3–10cm、與蓋同為白色而平滑，內部初實心而後隨生長中空，常數本結合成株狀，無菌環亦無菌托。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -96,5 +96,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163812797/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

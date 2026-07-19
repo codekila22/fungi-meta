@@ -169,7 +169,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,3",
   "StalkAttachment": "central",
   "StalkColors": "",
   "StalkTexture": "",
@@ -190,7 +190,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Suillus subluteus,Suillus grevillei,",
-  "Note": "生長於松科植物附近，有菌環但開傘後易脫落。菌柄黃色，有暗紅色腺點。具有黏性的表皮剝除後，充分煮熟方能食用。\n菌環一開始是白色，而底面顏色會隨著時間變成紫色調。",
+  "Note": "褐環乳牛肝菌，屬名Suillus意為「豬的」；種小名luteus意為「黃色的」，指其黃色之柄與孔面。蓋褐色、表面黏；孔面黃色；柄黃、具暗紅色腺點與一膜質菌環（開傘後易脫落、底面漸帶紫調）；與松科植物共生為外生菌根菌。生長於松科植物附近，有菌環但開傘後易脫落。菌柄黃色，有暗紅色腺點。具有黏性的表皮剝除後，充分煮熟方能食用。\n菌環一開始是白色，而底面顏色會隨著時間變成紫色調。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "褐黃乳牛肝菌,厚環乳牛肝菌,",
   "la_zhcn": "褐黄乳牛肝菌,厚环乳牛肝菌,"
@@ -204,5 +204,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12823339/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

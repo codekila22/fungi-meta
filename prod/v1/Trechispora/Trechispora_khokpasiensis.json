@@ -130,7 +130,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -140,7 +140,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -150,7 +150,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -161,10 +161,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Trechispora cryptomerioides,,",
-  "Note": "",
+  "Note": "加拉信糙孢菌，種小名khokpasiensis指模式產地泰國Khok Pha Suam。子實體平伏於枯木、白至奶油色而質軟綿，子實層具淺孔至皺褶，緣具白色菌絲索，生於熱帶闊葉樹枯木下側。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "柳杉糙孢孔菌,,",
   "la_zhcn": "柳杉糙孢孔菌,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

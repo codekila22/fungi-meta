@@ -55,8 +55,8 @@
   "StalkColors": "4294967040",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "40,90",
@@ -71,7 +71,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Mycena epipterygia,,",
-  "Note": "",
+  "Note": "黃柄小菇之相似種，屬名Mycena指其小菇之屬；種小名epipterygia。子實體小、蓋鐘形而具條紋、灰褐色、表面被一層可撕之膠質；柄黃色、黏；菌褶連生；生於腐木與落葉上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "黃柄小菇,,",
   "la_zhcn": "黄柄小菇,,"
@@ -99,19 +99,19 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12345158/thumb.jpg"
   },
   {
-   "name": "Mycena epipterygia var. viscosa",
+   "name": "Mycena viscosa",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/964962-Mycena-epipterygia-viscosa",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/59602937/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1635451",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/107564173/square.jpeg"
   },
   {
-   "name": "Mycena epipterygia",
+   "name": "Hygrocyboideae",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/1366800-Mycena-epipterygia",
-   "src": ""
+   "url": "https://www.inaturalist.org/taxa/1507068",
+   "src": "https://static.inaturalist.org/photos/281196536/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

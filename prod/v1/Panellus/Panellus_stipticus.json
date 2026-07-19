@@ -322,7 +322,7 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "3,8",
   "StalkLengthRangeValuess": "1,2",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
@@ -334,7 +334,7 @@
   "Smell": "",
   "Taste": "spicy",
   "LookAlikes": "",
-  "Note": "有些個體可能會自發光。\n曬乾磨粉後外用，可用於外傷止血。",
+  "Note": "鱗皮扇菇，屬名Panellus意為「小的側耳」；種小名stipticus意為「收斂止血的」，指其收斂之味與止血之用。子實體小、腎形至扇形、無柄而側生、淡黃褐色、蓋面被細小鱗片；菌褶密；質韌而味澀；菌褶於暗中發出綠色螢光。有些個體可能會自發光。\n曬乾磨粉後外用，可用於外傷止血。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -346,5 +346,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/178409678/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

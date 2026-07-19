@@ -155,7 +155,7 @@
  ],
  "meta": {
   "CapColors": "4293310464,4294950656,4294956800",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -165,27 +165,27 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,20",
+  "StalkLengthRangeValuess": "50,120",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "red",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃紗松塔牛肝菌，種小名mirandus意為「奇異、令人驚嘆的」。蓋與柄密被褐色軟毛狀鱗片、幼時具黃色菌幕，孔面白轉灰，肉受傷先變紅後轉黑，外生菌根生於殼斗科林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -197,5 +197,5 @@
    "src": "https://static.inaturalist.org/photos/549137033/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

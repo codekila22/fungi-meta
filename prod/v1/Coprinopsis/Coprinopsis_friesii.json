@@ -398,11 +398,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0.5,1",
+  "StalkLengthRangeValuess": "15,40",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -414,7 +414,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Coprinopsis aff. friesii,Coprinopsis urticicola,",
-  "Note": "也可發現於枯死的棕櫚科植物如檳榔上。",
+  "Note": "費賴斯擬鬼傘，種小名friesii紀念瑞典真菌學之父Elias Fries。子實體微小，蓋白色、被絮狀至粉狀之白色菌幕殘餘、具溝紋，成熟後墨化液化；菌褶疏；柄纖細白色；多生於禾草與植物殘體上。也可發現於枯死的棕櫚科植物如檳榔上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "費賴斯擬鬼傘的相似種,蕁麻擬鬼傘,",
   "la_zhcn": "费赖斯拟鬼伞的相似种,荨麻拟鬼伞,"
@@ -428,5 +428,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108282291/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -141,7 +141,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.5,3",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -161,7 +161,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -172,7 +172,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體開始是球形，然後變厚，變成碗狀，最後幾乎變成扁平狀。它幾乎沒有柄，直徑約為5-6毫米。",
+  "Note": "炭色糞盤菌，屬名Ascobolus意為「彈射子囊者」，指其成熟子囊突出而彈孢；種小名carbonarius意為「炭黑色的」。子囊盤初球形、後增厚成碗狀、終近平展、幾無柄、暗色；成熟之子囊突出於盤面而顯斑點狀；生於糞便與火燒地上。子實體開始是球形，然後變厚，變成碗狀，最後幾乎變成扁平狀。它幾乎沒有柄。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -184,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29157119/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

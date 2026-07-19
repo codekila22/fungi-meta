@@ -2,6 +2,7 @@
  "genus": "Collybia",
  "name": "sordida",
  "date": [
+  "07/18/2026,27632679286415807",
   "06/16/2026,27243084402041966",
   "03/06/2026,26068494096167675",
   "10/04/2024,8235730976537261",
@@ -386,6 +387,8 @@
   "StalkLengthRangeValuess": "30,60",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground,meadow",
@@ -395,7 +398,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Lepista nuda,Tricholosporum porphyrophyllum,",
-  "Note": "此物種群生在靠近人煙的路邊、草坪、林間等等。",
+  "Note": "花臉金錢菇，種小名sordida意為「污濁的」，指其略帶灰濁之紫色調。蓋凸至平展、丁香紫至紫灰色、老時褪色；菌褶密、彎生、淡紫色；柄與蓋同色、纖維質；群生於腐植質豐富之草地與林緣。此物種群生在靠近人煙的路邊、草坪、林間等等。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "紫丁香蘑,紫褶孢口蘑,",
   "la_zhcn": "紫丁香蘑,紫褶孢口蘑,"
@@ -409,5 +412,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174570686/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

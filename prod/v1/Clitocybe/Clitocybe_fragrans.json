@@ -51,8 +51,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,8",
   "StalkLengthRangeValuess": "40,80",
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "芳香杯傘，種小名fragrans意為「芳香的」，指其濃烈之茴香氣味。蓋淡黃褐至近白、具變水性、凸形而後平展或中央略下凹、緣初內捲，菌褶白至淡黃、延生，柄細而同色，最醒目之特徵為強烈之洋茴香（anise）香氣，群生於林地落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -78,5 +78,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4132600/thumb."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

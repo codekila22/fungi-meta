@@ -52,7 +52,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,25",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -67,11 +67,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0,4",
+  "StalkLengthRangeValuess": "0,15",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -83,8 +83,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌蓋有吸溼性、表面有輻射狀皺紋、柄比例上偏短、柄基有一團白毛。",
+  "Note": "類喜溼小脆柄菇，屬名Psathyrella意為「易碎的」；種小名hydrophiloides意為「似喜溼小脆柄菇（P. hydrophila）的」。蓋褐色、具吸水性、表面具輻射狀皺紋；菌褶密、暗褐色；柄比例上偏短、脆、基部具一團白毛；叢生於腐木旁。菌蓋有吸溼性、表面有輻射狀皺紋、柄比例上偏短、柄基有一團白毛。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

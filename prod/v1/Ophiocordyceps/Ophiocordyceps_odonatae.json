@@ -226,7 +226,7 @@
  ],
  "meta": {
   "CapColors": "4293313475,4293302630,4292786311",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,8",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -246,6 +246,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -256,7 +257,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "蜻蜓蛇形蟲草，自蟲體長出細長棒狀子座、頂端膨大產孢，生於林地。"
  },
  "inaturalist": [
   {
@@ -267,5 +268,5 @@
    "src": "https://static.inaturalist.org/photos/22932754/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

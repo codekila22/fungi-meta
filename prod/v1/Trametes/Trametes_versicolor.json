@@ -277,7 +277,7 @@
  ],
  "meta": {
   "CapColors": "4288768839,4278190080,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -287,7 +287,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "3,5",
   "StalkAttachment": "lateral",
   "StalkColors": "",
   "StalkTexture": "",
@@ -297,7 +297,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -307,7 +310,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "菌蓋表面帶有細長絨毛與同心環帶。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -326,5 +329,5 @@
    "src": "https://static.inaturalist.org/photos/160331967/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

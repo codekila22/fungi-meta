@@ -452,10 +452,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "4,10",
   "StalkLengthRangeValuess": "40,100",
   "Rareness": "",
   "Seasons": "",
@@ -467,7 +467,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "毯毛垂齒菌，菌蓋褐色被纖毛，菌褶成熟呈黑褐斑駁、邊緣常滲出水珠狀液滴，菌柄具易脫落的纖毛環帶。屬名Lacrymaria與種小名lacrymabunda皆源自拉丁文lacrima（淚），意為「垂淚的」，正指其菌褶邊緣滲出如淚之水珠。蓋鐘形至凸形、褐至黃褐色、密被纖毛；菌褶隨孢子成熟而黑褐斑駁；柄纖維質、具易脫落之絲幕環痕；叢生於路旁草地與擾動地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -479,5 +479,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/160418/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

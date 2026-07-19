@@ -2,6 +2,8 @@
  "genus": "Sparassis",
  "name": "crispa",
  "date": [
+  "07/17/2026,27626339253716477",
+  "07/13/2026,27581344721549264",
   "06/20/2026,27297625456587860",
   "08/29/2025,24250015801348856",
   "07/05/2025,10049659508477723",
@@ -165,6 +167,70 @@
   {
    "author": "許惠怡",
    "image_src": "Sparassis_crispa_a19af9d0-6cfd-11f1-969c-7521ace70c26_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27581344721549264_a2a52870-7f75-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27581344721549264_a2a52870-7f75-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27581344721549264_a2a52870-7f75-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27581344721549264_a2a52870-7f75-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27581344721549264_a2a52870-7f75-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27581344721549264_a2a52870-7f75-11f1-a6ae-2d91ec182952_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27581344721549264_a2a52870-7f75-11f1-a6ae-2d91ec182952_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27581344721549264_a2a52870-7f75-11f1-a6ae-2d91ec182952_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27581344721549264_a2a52870-7f75-11f1-a6ae-2d91ec182952_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27626339253716477_140fa570-826a-11f1-b205-db611c601ea1_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27626339253716477_140fa570-826a-11f1-b205-db611c601ea1_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27626339253716477_140fa570-826a-11f1-b205-db611c601ea1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27626339253716477_140fa570-826a-11f1-b205-db611c601ea1_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27626339253716477_140fa570-826a-11f1-b205-db611c601ea1_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27626339253716477_140fa570-826a-11f1-b205-db611c601ea1_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27626339253716477_140fa570-826a-11f1-b205-db611c601ea1_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -172,7 +238,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4294635750",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -192,18 +258,20 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "50,250",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly",
-  "GrowthEnv": "ground",
+  "GrowthEnv": "wood,ground",
   "Bruising": "",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "choice",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Sparassis latifolia,,",
-  "Note": "常生長在針葉木樹幹基部。",
+  "Note": "繡球菌，屬名Sparassis意為「撕裂的」；種小名crispa意為「捲曲的」，皆指其扁平而波曲捲摺之分枝。子實體大型、由多數扁平而波曲之瓣片密聚成繡球狀團塊、乳白至淡黃色；生於針葉樹幹基與根際，引起褐色腐朽。主要生長在針葉林的樹幹基部或樹根周圍，是一種會造成木材產生褐色腐朽的寄生或腐生真菌。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "廣葉繡球菌,,",
   "la_zhcn": "广叶绣球菌,,"
@@ -224,5 +292,5 @@
    "src": "https://static.inaturalist.org/photos/49782356/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

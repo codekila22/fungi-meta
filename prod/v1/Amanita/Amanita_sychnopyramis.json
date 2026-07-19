@@ -103,7 +103,7 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "none",
-  "StalkVolva": "",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "35,120",
@@ -118,7 +118,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita sychnopyramis f. subannulata,,",
-  "Note": "",
+  "Note": "殘托鵝膏，種小名sychnopyramis意為「多角錐的」，指菌蓋密被角錐狀疣突。蓋灰褐而密布灰白色錐狀疣、緣具明顯溝紋，柄白、基部呈球狀並具疣列狀之菌托殘餘，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "殘托鵝膏環變型,,",
   "la_zhcn": "残托鹅膏环变型,,"
@@ -146,5 +146,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

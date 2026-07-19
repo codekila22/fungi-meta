@@ -42,7 +42,7 @@
  ],
  "meta": {
   "CapColors": "4293302630,4294947686",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "200,300",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -72,7 +72,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "鮭色絢孔菌，種小名gilbertsonii紀念美國真菌學家Robert Lee Gilbertson。子實體大型、覆瓦狀叢生，蓋黃至橙色、老熟呈裂片狀並具同心環帶，孔面硫黃色，肉軟、白至淡黃，味溫和或帶酸，生於闊葉樹（尤其櫟與尤加利）之活立木與枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -98,5 +98,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

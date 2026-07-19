@@ -335,7 +335,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "40,140",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "40,140",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -346,7 +347,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "髮菌，屬名Trichocoma意為「毛髮之叢」，正指其毛筆狀之外形；種小名paradoxa意為「奇特的」。子實體高約2公分、下部為囊狀之殼、上部散開為一叢淡褐色之長毛（俗稱刮鬍刷菌）、毛間承載粉狀之子囊孢子；生於熱帶之腐木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -358,5 +359,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/167102603/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

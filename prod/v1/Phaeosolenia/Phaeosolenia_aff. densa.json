@@ -272,6 +272,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -281,7 +283,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Chromocyphella muscicola,,",
-  "Note": "",
+  "Note": "緻密暗管盤菌之相似種，屬名Phaeosolenia意為「暗色之管」，指其管狀而暗色之子實體；種小名densa意為「密集的」。子實體微小、管狀至杯狀、暗褐色、密集群生於腐木上，為一杯菌狀（cyphelloid）真菌。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "蘚棲有色掛鐘菌,,",
   "la_zhcn": "藓栖有色挂钟菌,,"
@@ -295,5 +297,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29522420/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

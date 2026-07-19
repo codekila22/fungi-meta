@@ -102,7 +102,7 @@
  ],
  "meta": {
   "CapColors": "4294901760,4283244288,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "12,30",
   "CapShape": "",
   "CapTexture": "raised-scales",
   "CapMargin": "",
@@ -117,8 +117,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -133,7 +133,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "褐紅鱗絲蓋傘，種小名tahquamenonensis意為「塔夸梅農的」，指其模式產地美國密西根州之Tahquamenon。蓋鐘形至凸形而後平展、褐色而被纖毛狀鱗片，菌褶初淡後轉褐，柄纖絲狀，孢子印褐色，生於北美之潮濕林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -145,5 +145,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/994919/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -115,8 +115,8 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,12",
+  "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -128,7 +128,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita virosa,,",
-  "Note": "",
+  "Note": "白鱗柄蘑菇，種小名albosquamosus意為「具白色鱗片的」，指其柄被白鱗。蓋白色被淡褐色細鱗，菌褶粉紅轉褐黑，柄白而環下被白色鱗片、具膜質環，孢子印褐色，生於林地腐土。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "鱗柄白鵝膏,,",
   "la_zhcn": "鳞柄白鹅膏,,"
@@ -142,5 +142,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157491384/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

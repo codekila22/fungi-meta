@@ -189,7 +189,7 @@
  ],
  "meta": {
   "CapColors": "4292072403,4294309365,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,20",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -220,7 +220,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "容易被誤認為黏菌的發展時期。",
+  "Note": "扁球扭膠菌，屬名Helicogloea意為「螺旋之膠」；種小名compressa意為「壓扁的」，指其扁球狀之外形。子實體微小、膠質、扁球形至墊狀、白色至淡色；因外形易被誤認為黏菌之發育階段；生於腐木上。容易被誤認為黏菌的發展時期。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -232,5 +232,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1272014/thumb."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

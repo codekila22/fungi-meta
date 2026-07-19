@@ -222,7 +222,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294962944,4278222848",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -242,6 +242,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "30,90",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -252,7 +253,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "變綠褐鎖瑚菌，種小名abietina意為「冷杉的」，指其生於針葉林。子實體反覆分枝呈叢、黃褐至橄欖色、傷處變綠，枝端二叉，地生於針葉林腐落物。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -264,5 +265,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/79406316/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

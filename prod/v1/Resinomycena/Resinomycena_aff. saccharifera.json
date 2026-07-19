@@ -116,8 +116,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -131,7 +131,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "糖霜脂小菇之相似種，屬名Resinomycena意為「具樹脂之小菇」；種小名saccharifera意為「帶糖的」，指其表面如糖霜之顆粒。子實體微小、白色；蓋與柄被細小之膠質顆粒（狀如糖霜）；菌褶疏；生於腐木與落葉上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -143,5 +143,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/162362296/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

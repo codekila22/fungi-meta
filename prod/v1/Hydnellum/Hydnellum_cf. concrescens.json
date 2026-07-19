@@ -2,6 +2,7 @@
  "genus": "Hydnellum",
  "name": "cf. concrescens",
  "date": [
+  "07/17/2026,27625292403821162",
   "06/23/2026,27358666403817098",
   "07/02/2025,10035650059878668",
   "07/22/2024,7678427588934272",
@@ -261,6 +262,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Hydnellum_cf. concrescens_b82147c0-7105-11f1-a16f-0b14e3dad96d_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27625292403821162_e6edf280-827e-11f1-b205-db611c601ea1_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27625292403821162_e6edf280-827e-11f1-b205-db611c601ea1_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27625292403821162_e6edf280-827e-11f1-b205-db611c601ea1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27625292403821162_e6edf280-827e-11f1-b205-db611c601ea1_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27625292403821162_e6edf280-827e-11f1-b205-db611c601ea1_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27625292403821162_e6edf280-827e-11f1-b205-db611c601ea1_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27625292403821162_e6edf280-827e-11f1-b205-db611c601ea1_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27625292403821162_e6edf280-827e-11f1-b205-db611c601ea1_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -288,6 +321,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -298,7 +332,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "疑似環紋小齒菌，帽漏斗狀具環帶褐色，下表面被褐色短刺，柄短，針葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -310,5 +344,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/146961436/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

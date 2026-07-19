@@ -116,7 +116,7 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "1,4",
   "StalkLengthRangeValuess": "10,20",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -129,7 +129,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Clitopilus subscyphoides,,",
-  "Note": "",
+  "Note": "杯狀斜蓋傘，種小名scyphoides意為「杯狀的」，指菌蓋中央下凹成杯。子實體小型白色、蓋中凹而緣內捲，菌褶白色轉粉紅並明顯延生，柄短常偏生，孢子印粉紅，生於林地草地腐植質。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "近杯狀斜蓋傘,,",
   "la_zhcn": "近杯状斜盖伞,,"
@@ -157,5 +157,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -148,6 +148,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -158,7 +159,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰軟盤菌，種小名cinerea意為「灰色的」，指其盤面灰色。子實體微小盤狀、近無柄，盤面灰白至灰藍、外緣暗色，質軟，密群生於潮濕之闊葉樹腐木與樹皮。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -170,5 +171,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8761087/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -2,6 +2,7 @@
  "genus": "Xylaria",
  "name": "telfairii",
  "date": [
+  "07/18/2026,27631575259859543",
   "07/13/2025,10090264384417235",
   "11/09/2024,8486282404815449",
   "11/02/2024,8585890021521353",
@@ -255,7 +256,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4291605388,4288244511",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -274,7 +275,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "30,100",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "30,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -285,7 +287,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "泰菲爾氏炭角菌，子座棒狀至分枝、表面炭黑具白色內裡，生於腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -297,5 +299,5 @@
    "src": "https://static.inaturalist.org/photos/108271478/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

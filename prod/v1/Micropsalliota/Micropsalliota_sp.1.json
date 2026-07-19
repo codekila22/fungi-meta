@@ -106,8 +106,10 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -115,8 +117,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "疏褶小蘑菇（暫名），屬名Micropsalliota意為「小型之蘑菇」。子實體纖小；蓋白至淡褐色、被細鱗；菌褶離生、稀疏、由白轉褐；柄具小菌環；地生於林下。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

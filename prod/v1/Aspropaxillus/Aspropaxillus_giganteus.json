@@ -74,7 +74,7 @@
  ],
  "meta": {
   "CapColors": "4291998860,4290547599",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "100,500",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -89,11 +89,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "20,50",
+  "StalkLengthRangeValuess": "30,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -104,7 +104,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "巨白椿菇，種小名giganteus意為「巨大的」，指其為最大型之傘菌之一。蓋乳白而平滑、幼時凸而緣內捲、後平展並成淺漏斗形、老時現褐斑與環狀裂紋，菌褶奶油色、窄而極密、明顯延生，柄無環、基部具白色菌絲墊，生於草地與林緣。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -116,5 +116,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/151465061/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

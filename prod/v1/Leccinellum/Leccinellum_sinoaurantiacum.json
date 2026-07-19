@@ -238,7 +238,7 @@
  ],
  "meta": {
   "CapColors": "4293263360,4294921472,4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -248,28 +248,28 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,10",
+  "StalkLengthRangeValuess": "40,70",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "華金黃小疣柄牛肝菌，種小名sinoaurantiacum意為「中國的橙黃色者」，指其產於華南而蓋色橙紅。蓋猩紅至橙紅、濕時膠黏，孔面淡黃、傷不變色，柄被粉紅至紅色疣鱗、基部尤密，外生菌根生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -281,5 +281,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

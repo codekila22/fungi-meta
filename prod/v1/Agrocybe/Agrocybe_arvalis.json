@@ -118,7 +118,7 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
   "StalkLengthRangeValuess": "30,100",
   "Rareness": "",
   "Seasons": "summer,autumn",
@@ -130,7 +130,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "野田頭菇，種小名arvalis意為「田野的」，指其生於曠野。蓋黃褐至赭色而光滑，菌褶褐色，柄細長而基部連接一黑色之地下菌核（本種特徵），孢子印褐色，生於草地與林地土壤。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -142,5 +142,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13064277/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

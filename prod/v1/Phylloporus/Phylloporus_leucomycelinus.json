@@ -109,11 +109,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,13",
+  "StalkLengthRangeValuess": "40,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -124,7 +124,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅黃褶孔牛肝菌，種小名leucomycelinus意為「白色菌絲的」，指其基部之白色菌絲體。蓋紅褐至橙褐、絨質、幼時凸而後平展或略下凹，下表面非菌孔而是厚而稀疏之黃色菌褶（本屬最醒目之特徵），柄同色，基部具白色菌絲，外生菌根生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -136,5 +136,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133482/thumb."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

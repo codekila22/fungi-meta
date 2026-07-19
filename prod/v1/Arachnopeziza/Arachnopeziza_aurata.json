@@ -89,7 +89,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.5,2",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -109,7 +109,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -120,7 +120,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "金蛛盤菌，種小名aurata意為「金色的」，指其盤面金黃色。子實體極微小盤狀、金黃色，生於一層白至淡黃之蛛網狀菌絲層（subiculum）上（本屬特徵），群生於落葉與腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -132,5 +132,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14752213/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

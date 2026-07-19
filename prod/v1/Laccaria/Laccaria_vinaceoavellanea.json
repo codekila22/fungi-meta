@@ -233,7 +233,7 @@
  ],
  "meta": {
   "CapColors": "4294303411,4291605388",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -248,8 +248,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -263,7 +263,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰酒紅蠟蘑，酒褐色蠟蘑，帽凸至平中凹肉桂粉褐、菌褶粉褐稀疏，柄纖維質同色，闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -275,5 +275,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/46460711/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

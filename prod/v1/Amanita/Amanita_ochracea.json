@@ -275,7 +275,7 @@
  ],
  "meta": {
   "CapColors": "4293977740,4291605388",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "90,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -290,14 +290,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,20",
+  "StalkLengthRangeValuess": "100,180",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -305,7 +308,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃褐鵝膏，帽赭褐至黃褐具環，柄基具杯狀菌托，生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -317,5 +320,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163047456/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

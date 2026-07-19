@@ -162,7 +162,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "2,6",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "2,6",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -173,7 +174,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "長柄花耳，種小名longistipitatus意為「具長柄的」，指其具明顯長柄（本屬中少見）。子實體膠質、頭部匙形至棒狀橙黃色而具細長之柄，群生於針葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -185,5 +186,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

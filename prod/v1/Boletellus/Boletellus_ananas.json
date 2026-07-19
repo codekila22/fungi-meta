@@ -217,16 +217,16 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "0.5,1.5",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "6,19",
+  "StalkLengthRangeValuess": "50,100",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "summer,autumn",
@@ -238,7 +238,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "鳳梨條孢牛肝菌，種小名ananas意為「鳳梨」，喻菌蓋被粉紅褐大鱗如鳳梨表面。蓋緣懸三角形菌幕殘片，孔面黃色、傷即刻變藍綠，柄具縱紋，殼斗科外生菌根。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -250,5 +250,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55997700/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

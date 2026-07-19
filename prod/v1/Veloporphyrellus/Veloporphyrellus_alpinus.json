@@ -3,7 +3,8 @@
  "name": "alpinus",
  "date": [
   "11/05/2025,24917718634578566",
-  "07/02/2025,10035683929875281"
+  "07/02/2025,10035683929875281",
+  "08/22/2020,27589150470768689"
  ],
  "names_zhtw": [
   "高山垂邊紅孢紗牛肝菌"
@@ -46,6 +47,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Veloporphyrellus_alpinus_d8aa2140-bc71-11f0-861e-9ff72c9295f4_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Veloporphyrellus_alpinus_27589150470768689_12490020-8002-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Veloporphyrellus_alpinus_27589150470768689_12490020-8002-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Veloporphyrellus_alpinus_27589150470768689_12490020-8002-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Veloporphyrellus_alpinus_27589150470768689_12490020-8002-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Veloporphyrellus_alpinus_27589150470768689_12490020-8002-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Veloporphyrellus_alpinus_27589150470768689_12490020-8002-11f1-a6ae-2d91ec182952_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -68,8 +93,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "mycelium",
   "StalkDiamRangeValuess": "4,7",
   "StalkLengthRangeValuess": "55,65",
@@ -84,7 +109,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌蓋邊緣有菌幕裂片懸垂。",
+  "Note": "高山垂邊紅孢紗牛肝菌，屬名Veloporphyrellus意為「具菌幕之紅孢牛肝菌」，指其菌蓋緣之菌幕；種小名alpinus意為「高山的」。蓋褐色、邊緣懸垂菌幕之裂片；孔面粉紅色；柄細長；生於高海拔林地，與樹木共生為外生菌根菌。菌蓋邊緣有菌幕裂片懸垂。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -96,5 +121,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

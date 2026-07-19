@@ -91,7 +91,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,20",
   "CapShape": "infundibuliform",
   "CapTexture": "",
   "CapMargin": "",
@@ -106,11 +106,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,3",
+  "StalkLengthRangeValuess": "20,50",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -122,17 +122,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "臍形濕柄傘，種小名omphaliiformis意為「臍形的」，指菌蓋中央下凹如臍。子實體小型、蓋灰褐而中凹具溝紋，菌褶白色延生，柄細長，生於腐木與落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
-   "name": "Porotheleum omphaliiforme",
+   "name": "Marasmiellomycena omphaliiformis",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/1407379-Porotheleum-omphaliiforme",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/93354990/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1576136",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/93354990/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

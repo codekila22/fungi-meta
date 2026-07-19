@@ -2,6 +2,8 @@
  "genus": "Russula",
  "name": "aeruginea",
  "date": [
+  "07/16/2026,27604623315888071",
+  "07/16/2026,27637468832603519",
   "07/01/2026,27517543587929378",
   "08/31/2024,7948807148562980",
   "08/23/2024,7953506551426373",
@@ -199,6 +201,62 @@
   {
    "author": "陳麗紅",
    "image_src": "Russula_aeruginea_71d29c10-7b64-11f1-b69b-29ba5035f45b_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_aeruginea_27604623315888071_c7866070-8108-11f1-96ce-a196742d6eab_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_aeruginea_27604623315888071_c7866070-8108-11f1-96ce-a196742d6eab_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_aeruginea_27604623315888071_c7866070-8108-11f1-96ce-a196742d6eab_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_aeruginea_27604623315888071_c7866070-8108-11f1-96ce-a196742d6eab_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_aeruginea_27604623315888071_c7866070-8108-11f1-96ce-a196742d6eab_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_aeruginea_27604623315888071_c7866070-8108-11f1-96ce-a196742d6eab_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_aeruginea_27604623315888071_c7866070-8108-11f1-96ce-a196742d6eab_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_aeruginea_27604623315888071_c7866070-8108-11f1-96ce-a196742d6eab_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_aeruginea_27604623315888071_c7866070-8108-11f1-96ce-a196742d6eab_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_aeruginea_27604623315888071_c7866070-8108-11f1-96ce-a196742d6eab_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_aeruginea_27637468832603519_3e681670-832a-11f1-bb51-67f20f60fdaf_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_aeruginea_27637468832603519_3e681670-832a-11f1-bb51-67f20f60fdaf_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_aeruginea_27637468832603519_3e681670-832a-11f1-bb51-67f20f60fdaf_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_aeruginea_27637468832603519_3e681670-832a-11f1-bb51-67f20f60fdaf_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -206,7 +264,7 @@
  ],
  "meta": {
   "CapColors": "4281240407,4283788079,4285238819",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -221,11 +279,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,20",
+  "StalkLengthRangeValuess": "50,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -251,5 +309,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/106503487/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

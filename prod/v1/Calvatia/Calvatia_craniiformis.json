@@ -122,7 +122,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "60,200",
   "Rareness": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered,grouped",
@@ -133,7 +133,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Calvatia excipuliformis,,",
-  "Note": "子實體高度約6-30cm，只有菌肉白色時可食。",
+  "Note": "頭狀禿馬勃，屬名Calvatia為禿馬勃之屬；種小名craniiformis意為「頭顱狀的」，指其倒卵頭狀之外形。子實體大、倒卵至頭狀、白至淡褐；成熟後內部之產孢組織轉為橄褐色並崩解、由上部破裂散出孢粉。子實體只有菌肉白色時可食。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -147,12 +147,12 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/925762/thumb.jpeg"
   },
   {
-   "name": "Calvatia gardneri",
+   "name": "Calvatia pyriformis",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/340917-Calvatia-gardneri",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/146096626/thumb.jpeg"
+   "url": "https://www.inaturalist.org/taxa/518804",
+   "src": "https://static.inaturalist.org/photos/146096626/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

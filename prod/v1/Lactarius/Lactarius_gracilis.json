@@ -222,8 +222,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -237,7 +237,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "小型乳菇，乳汁白色不變色，無辛辣味。",
+  "Note": "纖細乳菇，屬名Lactarius意為「產乳的」；種小名gracilis意為「纖細的」，指其纖弱之身形。為小型乳菇，蓋褐至黃褐色；菌褶延生；柄細；傷後湧出白色乳汁、不變色亦無辛辣味。小型乳菇，乳汁白色不變色，無辛辣味。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -256,5 +256,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

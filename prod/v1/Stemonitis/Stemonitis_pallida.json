@@ -2,7 +2,7 @@
  "genus": "Stemonitis",
  "name": "pallida",
  "date": [
-  "01/01/0001"
+  "04/03/2021,3654456804664724"
  ],
  "names_zhtw": [
   "灰褐髮網黏菌"
@@ -94,7 +94,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "灰褐髮網黏菌，屬名Stemonitis意指其柄如絲線；種小名pallida意為「淡色的」。孢子囊細長圓柱狀、淡灰褐色、具細黑柄、叢生如毛髮；成熟後周皮消失、露出羽狀之毛體網；生於腐木上，為一種黏菌。"
  },
  "inaturalist": [
   {
@@ -105,5 +105,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12930533/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

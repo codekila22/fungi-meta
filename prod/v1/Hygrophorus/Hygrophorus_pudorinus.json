@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4294931200,4294083840,4294606962",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -63,11 +63,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,30",
+  "StalkLengthRangeValuess": "40,160",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -79,7 +79,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "粉紅蠟傘，種小名pudorinus意為「泛紅如羞赧的」，指其淡粉紅色澤。蓋粉紅至金黃、凸形而緣下捲且色較淡，菌褶蠟質、附生至延生，柄粗壯而光禿，肉厚、淡粉或橙至白，傷不變紅，具松節油般氣味，外生菌根生於針葉林。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -98,5 +98,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

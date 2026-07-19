@@ -59,7 +59,7 @@
  ],
  "meta": {
   "CapColors": "4294901760,4294931200,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -74,11 +74,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "webby",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "4,8",
+  "StalkLengthRangeValuess": "40,120",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -90,7 +90,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅頂鱗傘，屬名Pyrrhulomyces為鱗傘（Pholiota）近緣之一屬；種小名astragalinus意為「金翅雀（羽色）的」，指其橙紅之色。蓋橙紅至硃紅色、稍黏；菌褶淡黃至鏽褐；柄黃而下部帶紅；生於針葉樹之腐木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -102,5 +102,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/338788634/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

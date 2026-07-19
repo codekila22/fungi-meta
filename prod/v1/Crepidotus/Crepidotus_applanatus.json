@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4292664540,4294309365",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -63,8 +63,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -78,7 +78,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "平扁靴耳，種小名applanatus意為「平展的」，指其扁平之子實體。子實體無柄、側生、扇形至貝殼形，蓋白至赭黃、具變水性而乾後轉白，菌褶白色轉褐、輻射自附著點，孢子印褐色，常密集覆瓦狀群生於闊葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -90,5 +90,5 @@
    "src": "https://static.inaturalist.org/photos/11999820/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -51,8 +51,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "卵蓋鵝膏，種小名ovoidea意為「卵形的」，指其幼時子實體如卵。子實體白至奶油色而可達甚大，蓋平滑、肉質而具絹絲光澤、幼時半球形後轉凸至盾形，蓋緣常懸垂棉絮狀菌幕殘片，菌褶厚而寬、離生，柄粗而被粉、具脆弱棉絮狀菌環，基部具大型菌托。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -85,5 +85,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2444279/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

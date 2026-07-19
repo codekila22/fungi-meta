@@ -257,10 +257,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "3,10",
   "StalkLengthRangeValuess": "35,50",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
@@ -273,7 +273,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Panus neostrigosus,Panus strigellus,",
-  "Note": "郊區低海拔偶見，此種傘面比較深杯且有條紋。",
+  "Note": "絨毛斗菇，屬名Lentinus意為「韌的」，指其堅韌之質地；種小名velutinus意為「絲絨般的」，指其被絨毛之菌蓋。蓋漏斗至深杯狀、褐色、被暗色絨毛而具放射條紋；菌褶延生、白色而緣鋸齒狀；柄韌而被絨毛；生於闊葉樹枯木上。郊區低海拔偶見，此種傘面比較深杯且有條紋。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "新粗毛革耳,鱗毛革耳,",
   "la_zhcn": "新粗毛革耳,鳞毛革耳,"
@@ -287,5 +287,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/82623948/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

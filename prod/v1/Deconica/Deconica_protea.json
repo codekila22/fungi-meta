@@ -170,8 +170,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -186,7 +186,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於月桃枯桿上。",
+  "Note": "海神無錐菇，屬名Deconica為無錐菇之屬；種小名protea意指希臘變幻之海神普羅透斯（Proteus），喻其多變之形態。蓋小、褐色、具吸水性；菌褶疏、暗褐色；柄短；生於月桃等單子葉植物之枯桿上。生長於月桃枯桿上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -198,5 +198,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157104503/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

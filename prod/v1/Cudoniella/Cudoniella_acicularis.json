@@ -73,7 +73,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,10",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -93,7 +93,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,12",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -104,7 +104,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "針形小地錘菌，種小名acicularis意為「針狀的」，指其纖細之柄。子囊盤5–12mm高，由柄與蓋組成而外形似小菇；蓋球形至扁平、2–10mm、白色、有時帶灰或紅色調；柄圓柱形、直或彎、白色，群生於闊葉樹之腐木樁上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -116,5 +116,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5718245/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

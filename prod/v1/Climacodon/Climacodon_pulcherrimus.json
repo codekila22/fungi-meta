@@ -307,7 +307,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -318,7 +318,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "幼菌還不會長出菌齒。",
+  "Note": "美麗小肉齒菌，屬名Climacodon意為「梯狀之齒」，指其齒狀之子實層；種小名pulcherrimus意為「極美麗的」，指其鮮豔之色澤。子實體覆瓦狀叢生、扇形、粉橙至橙色；下表面（子實層）密生針齒，幼菌時尚未長出。幼菌還不會長出菌齒。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -330,5 +330,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13194597/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

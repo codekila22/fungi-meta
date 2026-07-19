@@ -222,13 +222,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "10,50",
   "StalkLengthRangeValuess": "25,250",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "wood,bamboo",
@@ -238,7 +240,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "屬於比較大型的裸傘，生長於枯樹樁上或竹子根部附近。",
+  "Note": "桔黃裸傘，屬名Gymnopilus意為「裸露之蓋」；種小名junonius意為「壯麗如天后朱諾的」，指其碩大醒目之身形。蓋大、橙黃至橙褐色、被細鱗；菌褶初黃後轉銹褐；柄具一膜質菌環；孢子印銹褐色；叢生於枯樹樁與竹根附近。屬於比較大型的裸傘，生長於枯樹樁上或竹子根部附近。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -257,5 +259,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63859016/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

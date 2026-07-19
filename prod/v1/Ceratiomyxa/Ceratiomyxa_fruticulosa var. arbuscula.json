@@ -2,6 +2,7 @@
  "genus": "Ceratiomyxa",
  "name": "fruticulosa var. arbuscula",
  "date": [
+  "07/13/2026,27581034884913581",
   "07/04/2026,27500905146259889",
   "07/08/2025,10048911538552520",
   "06/15/2025,9913745898735752",
@@ -391,6 +392,34 @@
   {
    "author": "江志緯",
    "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_084d7f40-79c9-11f1-b132-ff6aeba1b5da_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_27581034884913581_facd9950-8016-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_27581034884913581_facd9950-8016-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_27581034884913581_facd9950-8016-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_27581034884913581_facd9950-8016-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_27581034884913581_facd9950-8016-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_27581034884913581_facd9950-8016-11f1-a6ae-2d91ec182952_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Ceratiomyxa_fruticulosa var. arbuscula_27581034884913581_facd9950-8016-11f1-a6ae-2d91ec182952_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -418,7 +447,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -428,7 +460,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "分枝鵝絨黏菌樹狀變種，種小名fruticulosa意為「小灌木狀的」，變種名arbuscula意為「小樹狀的」。子實體白色、直立、反覆分枝如微小之樹叢；孢子外生於細梗頂端（外孢型黏菌）；生於腐木上。"
  },
  "inaturalist": [
   {
@@ -439,5 +471,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250419593/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

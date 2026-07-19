@@ -81,7 +81,7 @@
  ],
  "meta": {
   "CapColors": "4294309340,4290822336",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "100,300",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -112,7 +112,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "常在樹幹上形成巨大層疊的菇體，\n寬度可達 30 公分以上。菌蓋新鮮時呈乳白色至淡黃色質地厚實。\n菌蓋下表面布滿密集成排下垂齒狀物。",
+  "Note": "北方梯囊齒菌，屬名Climacodon意為「梯狀之齒」，指其齒狀之子實層；種小名septentrionalis意為「北方的」。子實體覆瓦狀層疊而常成巨大之團塊、新鮮時乳白至淡黃色、質地厚實；下表面密生成排下垂之針齒；生於闊葉樹幹上。常在樹幹上形成巨大層疊的菇體。菌蓋新鮮時呈乳白色至淡黃色質地厚實。\n菌蓋下表面布滿密集成排下垂齒狀物。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -124,5 +124,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340627/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

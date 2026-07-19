@@ -264,6 +264,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "50,300",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
@@ -274,7 +275,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體可用於製作黃色染料，孢子粉可用於外傷消炎、止血。",
+  "Note": "彩色豆馬勃，屬名Pisolithus意為「豌豆石」，指其內部如豌豆般之小包；種小名tinctorius意為「染色用的」。子實體大、塊莖狀、黃褐至暗褐色，內部由無數包於膠質基質中之豆狀小包（peridiole）構成，成熟後崩解為孢粉；為外生菌根菌。子實體可用於製作黃色染料，孢子粉可用於外傷消炎、止血。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -328,5 +329,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

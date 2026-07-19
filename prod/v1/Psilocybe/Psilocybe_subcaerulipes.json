@@ -154,11 +154,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "60,80",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "autumn",
@@ -170,7 +170,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌柄有明顯白色纖維狀。紀錄於台灣中海拔拉拉山區與阿里山林地。",
+  "Note": "近藍蓋裸蓋菇，屬名Psilocybe意為「光滑之頭」；種小名subcaerulipes意為「略帶藍柄的」，指其傷後之藍變。蓋圓錐至凸形、褐色、具吸水性；菌褶暗紫褐色；柄具明顯之白色纖維、觸傷轉藍；紀錄於中海拔之拉拉山與阿里山林地。菌柄有明顯白色纖維狀。紀錄於台灣中海拔拉拉山區與阿里山林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -182,5 +182,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5758632/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

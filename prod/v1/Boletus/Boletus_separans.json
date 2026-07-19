@@ -132,13 +132,13 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,3",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "reticulum",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,40",
   "StalkLengthRangeValuess": "40,120",
@@ -146,13 +146,13 @@
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "裂管牛肝菌，種小名separans意為「分離的」，指其菌管於柄周圍凹陷分離。蓋紫褐至紅褐、老時常龜裂，孔面白轉黃綠，柄具明顯網紋而帶紫色調，肉白不變色，外生菌根生於殼斗科林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -178,5 +178,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/86854046/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

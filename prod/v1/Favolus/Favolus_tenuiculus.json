@@ -298,7 +298,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "lateral",
   "StalkColors": "4294967295",
   "StalkTexture": "",
@@ -308,7 +308,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "2,10",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped,scattered",
@@ -319,7 +319,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Neofavolus suavissimus,Favolus yanomami,",
-  "Note": "此為數種極為類似的物種的複合群(Favolus tenuiculus complex)，此類物種菌肉易被蚊蟲幼蟲寄生而變紅。",
+  "Note": "略薄菱孔菌，屬名Favolus意為「蜂窩」，指其蜂巢狀之孔；種小名tenuiculus意為「略薄的」，指其較薄之子實體。子實體扇形至匙形、白至淡黃褐色、半透明；孔面孔口大、菱形至六角形而呈放射狀排列；具短偏生之柄。此為數種極為類似的物種的複合群(Favolus tenuiculus complex)，此類物種菌肉易被蚊蟲幼蟲寄生而變紅。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "紅柄新棱孔菌,,",
   "la_zhcn": "红柄新棱孔菌,,"
@@ -333,5 +333,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/104262321/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

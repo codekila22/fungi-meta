@@ -15,6 +15,7 @@
  ],
  "date": [
   "05/13/2025,9685207401589604",
+  "09/29/2024,27570191112664625",
   "08/17/2023,6304294653014246",
   "08/06/2023,6268279633282415",
   "08/06/2023,6268303799946665",
@@ -137,6 +138,42 @@
   {
    "author": "何俊霖",
    "image_src": "Collybiopsis_luxurians_b70182c0-3ece-11f0-a1aa-abbe2081a90c_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Collybiopsis_luxurians_27570191112664625_3e740b30-7f36-11f1-ac1e-d983609ac450_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Collybiopsis_luxurians_27570191112664625_3e740b30-7f36-11f1-ac1e-d983609ac450_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Collybiopsis_luxurians_27570191112664625_3e740b30-7f36-11f1-ac1e-d983609ac450_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Collybiopsis_luxurians_27570191112664625_3e740b30-7f36-11f1-ac1e-d983609ac450_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Collybiopsis_luxurians_27570191112664625_3e740b30-7f36-11f1-ac1e-d983609ac450_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Collybiopsis_luxurians_27570191112664625_3e740b30-7f36-11f1-ac1e-d983609ac450_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Collybiopsis_luxurians_27570191112664625_3e740b30-7f36-11f1-ac1e-d983609ac450_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Collybiopsis_luxurians_27570191112664625_3e740b30-7f36-11f1-ac1e-d983609ac450_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Collybiopsis_luxurians_27570191112664625_3e740b30-7f36-11f1-ac1e-d983609ac450_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -159,13 +196,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,15",
   "StalkLengthRangeValuess": "40,70",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "spring,summer",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "ground,debris,meadow",
@@ -175,7 +214,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "褶色年輕的時候偏白色，老熟之後轉為帶粉褐色。",
+  "Note": "華麗擬金錢菇，屬名Collybiopsis意指其形似金錢菇；種小名luxurians意為「繁茂的」，指其常成叢繁生。蓋凸至平展、淡褐色；菌褶密、初白後轉粉褐色；柄韌；常密叢生於闊葉樹枯木上。褶色年輕的時候偏白色，老熟之後轉為帶粉褐色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -187,5 +226,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10379126/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

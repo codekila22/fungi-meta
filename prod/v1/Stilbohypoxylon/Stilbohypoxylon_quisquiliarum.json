@@ -144,7 +144,7 @@
  ],
  "meta": {
   "CapColors": "4294967040,4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "1,5",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -164,6 +164,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,8",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -174,7 +175,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "皺疣附肢炭團菌，種小名quisquiliarum意為「生於枯枝落葉的」。子座微小、球至瘤狀、黑色而表面具疣狀突起與點狀子囊殼孔口，質炭硬，群生於熱帶闊葉樹之細枝落葉。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -186,5 +187,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/61732276/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

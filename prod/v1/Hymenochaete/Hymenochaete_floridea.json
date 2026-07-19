@@ -188,7 +188,7 @@
  ],
  "meta": {
   "CapColors": "4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -208,7 +208,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "3,15",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -219,7 +219,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於闊葉樹的枯木上。",
+  "Note": "佛羅里達刺革菌，屬名Hymenochaete意為「具剛毛之子實層」，指其子實層中之剛毛（setae）；種小名floridea意指其鮮麗或產地。子實體平伏至具短帽緣、革質、褐至銹褐色；子實層具暗色剛毛而觸感粗澀；生於闊葉樹枯木上。生長於闊葉樹的枯木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -231,5 +231,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -93,7 +93,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.5,2",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -113,7 +113,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.3,1.5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -124,7 +124,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "伊犁卡斯登盤菌，種小名idaei意為「懸鉤子屬（Rubus idaeus）的」，指其寄主。子實體微小、埋生於枯莖表皮下而以縱裂開口露出淡色盤面，散生於懸鉤子等之枯莖。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -136,5 +136,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

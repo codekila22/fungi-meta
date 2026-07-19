@@ -179,7 +179,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "0.5,1.5",
   "StalkAttachment": "lateral,absent",
   "StalkColors": "",
   "StalkTexture": "",
@@ -189,7 +189,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,120",
   "Rareness": "common",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
@@ -200,7 +200,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Bresadolia uda,Neolentiporus maculatissimus,",
-  "Note": "聞起來有小黃瓜或瓜類的味道。在台灣中海拔較有機會見到，外觀類似但在低海拔或平地出現的相似種幾乎都是潮潤多孔菌。",
+  "Note": "寬鱗蠟孔菌，屬名Cerioporus意為「蜂蠟狀之孔」；種小名squamosus意為「具鱗片的」，正指其蓋面之寬大鱗片。子實體大、扇形至腎形、淡黃褐色、被暗褐色之壓伏鱗片；孔面白色、孔口大而多角、延生；具小黃瓜般之氣味；生於闊葉樹上。聞起來有小黃瓜或瓜類的味道。在台灣中海拔較有機會見到，外觀類似但在低海拔或平地出現的相似種幾乎都是潮潤多孔菌。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "潮潤布氏多孔菌,斑點新鏡孔菌,",
   "la_zhcn": "潮润布氏多孔菌,斑点新镜孔菌,"
@@ -214,5 +214,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11463375/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

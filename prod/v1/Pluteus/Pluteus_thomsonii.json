@@ -224,7 +224,7 @@
  ],
  "meta": {
   "CapColors": "4291998860,4290278195",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -239,11 +239,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,8",
+  "StalkLengthRangeValuess": "30,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -254,7 +254,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "湯姆斯光柄菇，帽灰褐具網狀脈紋皺褶、菌褶粉紅，柄白具褐纖絲，生於闊葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -266,5 +266,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13420675/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

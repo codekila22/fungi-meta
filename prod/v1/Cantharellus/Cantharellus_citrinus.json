@@ -36,7 +36,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,45",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -55,13 +55,13 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "20,40",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -69,7 +69,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "檸檬黃雞油菌，屬名Cantharellus為雞油菌之屬；種小名citrinus意為「檸檬黃色的」。子實體漏斗狀、通體檸檬黃色；下表面之子實層為分叉延生之脈狀皺褶（假菌褶）；柄黃色；地生於林下、與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -81,5 +81,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -406,7 +406,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "3,40",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "3,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
@@ -417,7 +418,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於山茶花樹下，菌柄根部有黑色菌核。",
+  "Note": "山茶花葉杯菌，屬名Ciborinia為盤菌之一屬；種小名camelliae意為「山茶的」，指其專寄於山茶屬之習性。子囊盤漏斗狀至杯狀、具柄、褐色，自落於地而菌核化之山茶花瓣萌發而出；為造成山茶花瓣枯萎（花腐病）之病原。生長於山茶花樹下，菌柄根部有黑色菌核。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -429,5 +430,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1348043/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

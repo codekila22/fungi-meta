@@ -187,7 +187,7 @@
  ],
  "meta": {
   "CapColors": "4282843172",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -207,6 +207,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -217,7 +218,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紫褐軟韌革菌，種小名purpureum意為「紫色的」，指鮮時子實層鮮紫色。平伏反捲小托架、上表面灰被白毛、下表面紫色平滑，乾後轉褐，為果樹銀葉病病原，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -229,5 +230,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/388071/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

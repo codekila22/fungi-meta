@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "franchetii",
  "date": [
+  "07/10/2026,27534946092855794",
   "07/26/2024,7724781537632210",
   "08/15/2021,7507613852682314",
   "08/07/2014,809010855876014"
@@ -104,9 +105,12 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,18",
+  "StalkLengthRangeValuess": "40,100",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -116,7 +120,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃疣膜鵝膏，種小名franchetii紀念植物學家Franchet。蓋褐至灰褐而被鮮黃色之疣狀外菌幕殘餘，柄具黃色膜質環、基部膨大並具黃色疣列，外生菌根生於殼斗科林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -142,5 +146,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

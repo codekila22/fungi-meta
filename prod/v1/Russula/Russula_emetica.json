@@ -32,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "25,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -47,11 +47,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "7,24",
+  "StalkLengthRangeValuess": "45,105",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -63,7 +63,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "傘緣有小顆粒。",
+  "Note": "毒紅菇，屬名Russula為紅菇之屬；種小名emetica意為「催吐的」。蓋鮮紅色、表皮易剝、緣具小顆粒；菌褶白色、質脆；柄白而脆；味辛辣；與樹木共生為外生菌根菌。傘緣有小顆粒。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -75,5 +75,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109349419/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

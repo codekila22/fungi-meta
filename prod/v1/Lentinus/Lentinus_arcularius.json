@@ -2,6 +2,7 @@
  "genus": "Lentinus",
  "name": "arcularius",
  "date": [
+  "07/15/2026,27590728797277523",
   "06/16/2026,27244833688533704",
   "03/20/2026,26151842761166141",
   "01/20/2026,25555903584093398",
@@ -320,6 +321,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Polyporus_arcularius_cb298ca0-6a03-11f1-8183-a136ae3cbbfa_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lentinus_arcularius_27590728797277523_6cdb7c50-8018-11f1-bcea-43ce8c915e1a_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lentinus_arcularius_27590728797277523_6cdb7c50-8018-11f1-bcea-43ce8c915e1a_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lentinus_arcularius_27590728797277523_6cdb7c50-8018-11f1-bcea-43ce8c915e1a_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Lentinus_arcularius_27590728797277523_6cdb7c50-8018-11f1-bcea-43ce8c915e1a_4.jpg"
   }
  ],
  "synonym": [
@@ -350,13 +367,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,4",
+  "StalkLengthRangeValuess": "5,40",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
@@ -366,7 +385,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Polyporus brumalis,,",
-  "Note": "",
+  "Note": "漏斗香菇，帽黃褐具小鱗、中凹，孔面六角形延生、乳白至褐，中生鱗柄，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "冬生多孔菌,,",
   "la_zhcn": "冬生多孔菌,,"
@@ -380,5 +399,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/190283137/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

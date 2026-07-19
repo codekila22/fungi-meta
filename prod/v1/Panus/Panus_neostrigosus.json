@@ -404,10 +404,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "3,15",
   "StalkLengthRangeValuess": "10,20",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -420,7 +420,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Panus velutinus,Panus strigellus,",
-  "Note": "",
+  "Note": "新粗毛革耳，帽被粗毛漏斗形，柄短偏生具毛，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",鱗毛革耳,",
   "la_zhcn": ",鳞毛革耳,"
@@ -434,5 +434,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/60452280/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

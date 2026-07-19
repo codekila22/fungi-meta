@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "sp.1",
  "date": [
+  "07/12/2026,27558023970548006",
   "04/10/2026,26380225201661228",
   "05/12/2025,9608484212595257",
   "11/23/2024,8561032240673798"
@@ -203,6 +204,42 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Crepidotus_sp.1_31f32ff0-3d5d-11f1-9b8a-1bb5653731af_18.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_sp.1_27558023970548006_d24dc9e0-7e9b-11f1-9dcc-35f2c7c8deaf_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_sp.1_27558023970548006_d24dc9e0-7e9b-11f1-9dcc-35f2c7c8deaf_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_sp.1_27558023970548006_d24dc9e0-7e9b-11f1-9dcc-35f2c7c8deaf_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_sp.1_27558023970548006_d24dc9e0-7e9b-11f1-9dcc-35f2c7c8deaf_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_sp.1_27558023970548006_d24dc9e0-7e9b-11f1-9dcc-35f2c7c8deaf_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_sp.1_27558023970548006_d24dc9e0-7e9b-11f1-9dcc-35f2c7c8deaf_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_sp.1_27558023970548006_d24dc9e0-7e9b-11f1-9dcc-35f2c7c8deaf_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_sp.1_27558023970548006_d24dc9e0-7e9b-11f1-9dcc-35f2c7c8deaf_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_sp.1_27558023970548006_d24dc9e0-7e9b-11f1-9dcc-35f2c7c8deaf_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -210,10 +247,10 @@
  ],
  "meta": {
   "CapColors": "4293951616,4294606962",
-  "CapDiamRangeValues": "",
-  "CapShape": "",
-  "CapTexture": "",
-  "CapMargin": "",
+  "CapDiamRangeValues": "2,8",
+  "CapShape": "fan",
+  "CapTexture": "velvety",
+  "CapMargin": "wavy,striated",
   "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
@@ -232,6 +269,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -241,8 +280,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長在枯藤上，菌褶為裂褶狀。",
+  "Note": "裂褶玫瑰靴耳，屬名Crepidotus意為「似鞋的耳」，指其側生貝殼狀之子實體。子實體小、無柄而側生；菌褶呈縱裂之裂褶狀；生於枯藤上，為一尚未正式命名之靴耳。生長在枯藤上，菌褶為裂褶狀。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

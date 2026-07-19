@@ -50,9 +50,12 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "5,20",
-  "StalkLengthRangeValuess": "40,90",
+  "StalkDiamRangeValuess": "5,10",
+  "StalkLengthRangeValuess": "80,140",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -62,7 +65,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "苞腳鵝膏，屬名Amanita為鵝膏之屬；種小名volvata意為「具菌托的」，指其明顯之菌托。蓋白至污白色、常帶菌幕殘片；菌褶離生、白色；柄白、上部或無明顯之菌環；基部具袋狀之菌托（volva）；地生於林下、與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -81,5 +84,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

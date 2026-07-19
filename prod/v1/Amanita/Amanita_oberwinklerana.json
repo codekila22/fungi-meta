@@ -183,7 +183,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,90",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -201,20 +201,22 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "yes",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,16",
+  "StalkLengthRangeValuess": "50,80",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "toxic",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita virosa,,",
-  "Note": "",
+  "Note": "歐氏鵝膏，種小名oberwinklerana紀念德國真菌學家F. Oberwinkler。蓋白色、平滑、無溝紋；菌褶白色、離生；柄白、具一膜質菌環，基部球狀膨大而具袋狀之菌托。白色劇毒性的鵝膏菌之一。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "鱗柄白鵝膏,,",
   "la_zhcn": "鳞柄白鹅膏,,"
@@ -228,5 +230,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/84772280/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -2,6 +2,7 @@
  "genus": "Inocybe",
  "name": "cincinnata",
  "date": [
+  "07/14/2026,27595355963481473",
   "06/16/2026,27347651518251920",
   "05/24/2026,27365362176480854",
   "06/15/2024,7507295486047484",
@@ -101,6 +102,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Inocybe_cincinnata_d2f78570-7108-11f1-a16f-0b14e3dad96d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_27595355963481473_d5c3dbe0-805e-11f1-98ac-13bd3a7a9bd4_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_27595355963481473_d5c3dbe0-805e-11f1-98ac-13bd3a7a9bd4_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_27595355963481473_d5c3dbe0-805e-11f1-98ac-13bd3a7a9bd4_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_cincinnata_27595355963481473_d5c3dbe0-805e-11f1-98ac-13bd3a7a9bd4_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -123,15 +140,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "2,4",
   "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -139,7 +158,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌柄有類似傘面的明顯鱗毛。",
+  "Note": "刺鱗絲蓋傘，屬名Inocybe意為「纖維之頭」；種小名cincinnata意為「捲曲成束的」，指其被捲毛鱗之表面。蓋褐色、被放射狀纖絲與細鱗；菌褶初淡後轉褐；柄具與蓋面相似之明顯鱗毛；常帶蘿蔔或精液氣味。菌柄有類似傘面的明顯鱗毛。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -158,5 +177,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

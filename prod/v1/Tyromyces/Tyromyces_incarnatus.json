@@ -234,7 +234,7 @@
  ],
  "meta": {
   "CapColors": "4289864226,4294919424",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -244,7 +244,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "3,5",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -254,6 +254,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,30",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -264,7 +265,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "肉紅乾酪菌，帽扇形軟質白至粉肉色、孔面同色小孔，一年生，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -276,5 +277,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40321045/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

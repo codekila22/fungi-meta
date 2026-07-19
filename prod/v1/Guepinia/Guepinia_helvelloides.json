@@ -78,7 +78,7 @@
  ],
  "meta": {
   "CapColors": "4291979550,4294940928",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,170",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -97,8 +97,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "20,50",
-  "HeightRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,50",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -109,7 +109,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Dacryopinax martinii,,",
-  "Note": "生長在非常腐朽的針葉木上或是土中枯木。",
+  "Note": "焰耳，屬名Guepinia為膠質菌之一屬；種小名helvelloides意為「似馬鞍菌（Helvella）的」，指其耳舌狀之外形。子實體膠質、匙形至耳舌狀、鮭肉至橙粉色、具短柄；生於極腐之針葉枯木或埋土之枯木上。生長在非常腐朽的針葉木上或是土中枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "馬丁假花耳,,",
   "la_zhcn": "马丁假花耳,,"
@@ -123,5 +123,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2481682/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

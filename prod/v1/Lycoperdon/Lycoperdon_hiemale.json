@@ -247,8 +247,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground,meadow",
@@ -258,7 +260,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "平地草坪常見，子實體表面覆蓋褐色小錐鱗，土中有假根，孢子成熟時顏色是黃褐色。只有在菌肉白色時可食。",
+  "Note": "冬季馬勃，屬名Lycoperdon意為「狼之屁」；種小名hiemale意為「冬季的」，指其冬季發生之習性。子實體倒梨形至近球形、表面被褐色之小錐鱗、土中具假根；孢子成熟時呈黃褐色，由頂端破口散出。平地草坪常見，子實體表面覆蓋褐色小錐鱗，土中有假根，孢子成熟時顏色是黃褐色。只有在菌肉白色時可食。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -270,5 +272,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163776118/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

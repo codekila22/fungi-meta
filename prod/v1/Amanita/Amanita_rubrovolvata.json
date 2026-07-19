@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "rubrovolvata",
  "date": [
+  "07/17/2026,27632623773088025",
   "07/08/2026,27538587332491670",
   "06/28/2026,27426059960411075",
   "06/19/2026,27298451599838579",
@@ -331,6 +332,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_rubrovolvata_27538587332491670_436c4f20-7cc1-11f1-9d81-594a35f7021d_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27632623773088025_fe3d2ae0-8306-11f1-a26c-fd6db0fb50b5_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27632623773088025_fe3d2ae0-8306-11f1-a26c-fd6db0fb50b5_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27632623773088025_fe3d2ae0-8306-11f1-a26c-fd6db0fb50b5_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27632623773088025_fe3d2ae0-8306-11f1-a26c-fd6db0fb50b5_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -371,7 +388,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌柄基部的菌拖上包覆著一圈鮮紅色的細鱗是最大辨識特徵。",
+  "Note": "紅托鵝膏，種小名rubrovolvata由ruber（紅）與volva（菌托）組成，意為「紅托的」，正指其基部菌托上之鮮紅細鱗。蓋橙紅至紅色、被同色之顆粒狀外菌幕殘餘、緣具溝紋；菌褶白色；柄具菌環，基部球狀而被一圈鮮紅色細鱗。菌柄基部的菌拖上包覆著一圈鮮紅色的細鱗是最大辨識特徵。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -383,5 +400,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163434722/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

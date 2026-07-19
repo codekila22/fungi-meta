@@ -129,7 +129,7 @@
  ],
  "meta": {
   "CapColors": "4294967193,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "60,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -151,8 +151,10 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -160,8 +162,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰黃雙孢鵝膏，屬名Amanita為鵝膏之屬。蓋灰黃色、常帶菌幕殘片；菌褶離生、白色；柄具菌環、基部膨大而具菌托（volva）；孢子印白色、擔子二孢；地生於林下、與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

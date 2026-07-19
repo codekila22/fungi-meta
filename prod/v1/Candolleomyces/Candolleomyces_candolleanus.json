@@ -112,11 +112,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,8",
+  "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
   "Rareness": "common",
   "Seasons": "",
@@ -128,7 +128,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃蓋坎多氏菌，種小名candolleanus紀念植物學家de Candolle。蓋蜜黃至淡褐、乾後褪為近白（濕度變色）、緣具白色膜質幕殘片，菌褶白轉紫褐，柄白中空而脆，密叢生於樹樁基部。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -140,5 +140,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3081162/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -184,6 +184,8 @@
   "StalkLengthRangeValuess": "30,50",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -193,7 +195,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體成熟後傘面平展甚至中凹。顏色多樣化，從鮭魚粉、磚紅色、年輕或潮濕時暗橘或褐色調，乾燥時顏色變得較為平淡。",
+  "Note": "紅蠟蘑，屬名Laccaria與種小名laccata皆源自lacca（蟲膠、漆），指其如上漆之光澤。蓋凸至平展而終中凹、鮭粉至磚紅色（潮濕時暗橘褐、乾時褪淡）；菌褶厚、疏、粉紅色；柄纖維質；因色澤多變而有「欺騙者」之稱，為外生菌根菌。子實體成熟後傘面平展甚至中凹。顏色多樣化，從鮭魚粉、磚紅色、年輕或潮濕時暗橘或褐色調，乾燥時顏色變得較為平淡。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -226,11 +228,11 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41081083/thumb.jpg"
   },
   {
-   "name": "Laccaria laccata",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/1366732-Laccaria-laccata",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4097618/thumb.jpg"
+   "name": "Laccaria",
+   "cname": "Deceivers",
+   "cname_zh": "蠟蘑屬",
+   "url": "https://www.inaturalist.org/taxa/54895",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58460441/square.jpeg"
   },
   {
    "name": "Laccaria laccata laccata",
@@ -240,18 +242,11 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2716165/thumb.jpg"
   },
   {
-   "name": "Laccaria laccata var. affinis",
+   "name": "Laccaria affinis",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/63234-Laccaria-laccata-affinis",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251703408/thumb.jpg"
-  },
-  {
-   "name": "Laccaria macrocystidiata",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/1441359-Laccaria-macrocystidiata",
-   "src": ""
+   "url": "https://www.inaturalist.org/taxa/1597911",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251703408/square.jpg"
   },
   {
    "name": "Laccaria laccata bispora",
@@ -268,5 +263,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

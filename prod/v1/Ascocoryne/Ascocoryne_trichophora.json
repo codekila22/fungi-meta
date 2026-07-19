@@ -170,7 +170,7 @@
  ],
  "meta": {
   "CapColors": "4282843172,4291601356",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -189,7 +189,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "1,6",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,6",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -200,17 +201,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "紫色短棍狀為其無性世代，較少見到的盤狀子實體為其有性世代。",
+  "Note": "產絲紫膠盤菌，屬名Ascocoryne意為「子囊之棒」；種小名trichophora由thrix（毛、絲）與phora（帶）組成，意為「產絲的」。子實體膠質、紫紅至紫褐色；紫色短棍狀者為無性世代，較少見之盤狀子實體為有性世代；生於闊葉樹腐木上。紫色短棍狀為其無性世代，較少見到的盤狀子實體為其有性世代。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
-   "name": "Ascocoryne trichophora",
+   "name": "Ascocoryne vinosa",
    "cname": "",
    "cname_zh": "產絲紫膠盤菌",
-   "url": "https://www.inaturalist.org/taxa/906749-Ascocoryne-trichophora",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8969446/thumb.jpeg"
+   "url": "https://www.inaturalist.org/taxa/1686109",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8969446/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

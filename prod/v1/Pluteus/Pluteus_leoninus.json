@@ -255,15 +255,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "50,90",
+  "StalkDiamRangeValuess": "2,5",
+  "StalkLengthRangeValuess": "30,90",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -271,7 +273,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Pluteus chrysophlebius,,",
-  "Note": "",
+  "Note": "獅黃光柄菇，帽金黃至橄欖黃凸形緣具溝紋，菌褶粉紅，柄白具條紋，生於闊葉樹腐木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "金黃光柄菇,,",
   "la_zhcn": "金黄光柄菇,,"
@@ -299,5 +301,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

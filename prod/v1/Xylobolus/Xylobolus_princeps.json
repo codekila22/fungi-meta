@@ -164,7 +164,7 @@
  ],
  "meta": {
   "CapColors": "4284635991,4278190080,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -184,6 +184,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -194,7 +195,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "領先木丸菌，種小名princeps意為「首要的、最卓越的」。子實體硬革質、扇形至平伏反捲、上表面具環紋褐色，子實層平滑淡褐色，生於殼斗科枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -206,5 +207,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112066992/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

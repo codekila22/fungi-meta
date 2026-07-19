@@ -101,7 +101,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4284635991,4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -121,6 +121,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -131,7 +132,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黑馬鞍菌，種小名atra意為「烏黑的」，指其黑色子實體。帽馬鞍狀2瓣、黑至黑褐色，柄灰黑色而細長、表面近光滑或稍具溝，肉薄脆，生於林地路旁與苔蘚間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -143,5 +144,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/65613414/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -61,8 +61,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -77,7 +77,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "極白冬褶菌，種小名candidissimum為candidus（純白）之最高級，意為「極白的」。蓋2–18mm、扁凸至扇形、純白色、緣直或下彎、無柄而側生附著於基質，為附生於闊葉樹枯枝之微小白色側耳狀菇。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -89,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1672325/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "lignyotus",
  "date": [
+  "07/13/2026,27595319930151743",
   "08/05/2024,7790407174402979",
   "07/27/2020,3170079269769149"
  ],
@@ -74,6 +75,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_lignyotus_e1601900-78a7-10d9-943a-b3743c54e38c_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_lignyotus_27595319930151743_e33f3ff0-809d-11f1-8b5e-3b9b042f3c40_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_lignyotus_27595319930151743_e33f3ff0-809d-11f1-8b5e-3b9b042f3c40_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_lignyotus_27595319930151743_e33f3ff0-809d-11f1-8b5e-3b9b042f3c40_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_lignyotus_27595319930151743_e33f3ff0-809d-11f1-8b5e-3b9b042f3c40_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_lignyotus_27595319930151743_e33f3ff0-809d-11f1-8b5e-3b9b042f3c40_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_lignyotus_27595319930151743_e33f3ff0-809d-11f1-8b5e-3b9b042f3c40_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -96,15 +121,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,15",
   "StalkLengthRangeValuess": "40,100",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -112,7 +139,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Lactarius lignyotus var. marginatus,,",
-  "Note": "菌褶無鑲邊色。",
+  "Note": "黑乳菇，屬名Lactarius意為「產乳的」；種小名lignyotus意為「煙炱色的」，指其暗黑之菌蓋。蓋暗褐至近黑、表面絨狀而具皺；菌褶疏、白色而顯眼（無鑲邊色）；柄與蓋同色；傷後湧出白色乳汁。與相似種比較，此種菌褶無鑲邊色。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "褐褶緣黑乳菇,,",
   "la_zhcn": "褐褶缘黑乳菇,,"
@@ -182,5 +209,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

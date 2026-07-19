@@ -76,7 +76,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,70",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -91,11 +91,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,10",
+  "StalkLengthRangeValuess": "25,100",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -107,7 +107,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "棉毛新脆柄菇，種小名gossypina意為「棉絮狀的」，指其柄面之綿毛狀被覆。蓋1–7cm、初圓錐後鐘形而終平展具突；柄2.5–10cm、粗3–10mm、白色，上部有粉、下部纖絲綿毛狀而具絲膜殘餘，時具懸垂之條紋菌環。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -119,5 +119,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340322/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

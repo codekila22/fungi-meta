@@ -276,8 +276,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -292,8 +292,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "毛褶小皮傘相似種，屬名Marasmius為小皮傘之屬；種小名setulosifolius意為「褶上具細剛毛的」，正指其菌褶之緣具細毛。子實體微小；蓋具放射溝紋；菌褶疏、緣被細毛；柄細如馬鬃；生於落葉層上；本記錄尚待確認（cf.）。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

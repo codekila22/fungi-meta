@@ -196,7 +196,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "15,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -207,7 +207,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於苔蘚之上，其下可能是枯木、土壤或是其他介質。",
+  "Note": "尖頂蘚球菌，屬名Bryoperdon意為「苔蘚間之馬勃」；種小名acuminatum意為「漸尖的」，指其尖突之頂。子實體小、近球形而頂端具一尖突、白至淡褐色、表面被細刺；成熟後由頂端破口散出孢粉；生於苔蘚間，其下常為枯木或土壤。生長於苔蘚之上，其下可能是枯木、土壤或是其他介質。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -219,5 +219,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6998236/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

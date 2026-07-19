@@ -138,7 +138,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "1,5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -149,7 +149,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Trichophaea gregaria,,",
-  "Note": "",
+  "Note": "擬聚生長毛盤菌，種小名pseudogregaria意為「偽群生的」，指其近似T. gregaria。子實體微小盤狀、盤面灰白、外緣被褐色剛毛，近無柄，群生於火燒跡地與裸土。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "聚生長毛盤菌,,",
   "la_zhcn": "聚生长毛盘菌,,"
@@ -163,5 +163,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/25895592/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

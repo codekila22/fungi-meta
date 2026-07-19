@@ -114,7 +114,7 @@
  ],
  "meta": {
   "CapColors": "4292519200,4290283019",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.3,2",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -134,6 +134,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "2,10",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -144,7 +145,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黃尖齒菌，種小名flava意為「黃色的」，指其淡黃色。子實體為一叢細小下垂之黃色軟刺（無帽亦無柄），直接生於腐木下側，形如細密之黃色冰柱。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -156,5 +157,5 @@
    "src": "https://static.inaturalist.org/photos/772026/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

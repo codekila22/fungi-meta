@@ -126,7 +126,7 @@
  ],
  "meta": {
   "CapColors": "4291998860,4290547599",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "60,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -141,23 +141,28 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "15,40",
+  "StalkLengthRangeValuess": "30,40",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Lactarius scrobiculatus,,",
+  "Note": "窩柄黃乳菇之相似種，屬名Lactarius為乳菇之屬、因傷後流出乳汁得名；種小名scrobiculatus意為「具凹窩的」，指其柄面之凹坑。蓋黃色、邊緣被毛而黏；柄面具明顯之凹窩；乳汁白色、遇空氣轉硫黃色；與針葉樹共生為外生菌根菌。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "窩柄黃乳菇,,",
+  "la_zhcn": "窝柄黄乳菇,,"
  },
  "inaturalist": [
   {
@@ -180,14 +185,7 @@
    "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/351306-Lactarius-scrobiculatus-pubescens",
    "src": ""
-  },
-  {
-   "name": "Lactarius insulsus scrobiculatus",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/344531-Lactarius-insulsus-scrobiculatus",
-   "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -480,6 +480,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "bamboo",
@@ -489,7 +491,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "較常在枯竹上發現，也有機會在枯芒草桿上發現。",
+  "Note": "暗藍小菇，種小名lazulina意為「天青石藍的」，指其鮮明之藍色。蓋鐘形至半球形、半透明而具條紋、藍至靛藍色，老時漸褪；菌褶白至淡藍、貼生；柄纖細、光滑、上部藍下部色淡；為近年描述之藍色小菇。較常在枯竹上發現，也有機會在枯芒草桿上發現。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -501,5 +503,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41875596/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

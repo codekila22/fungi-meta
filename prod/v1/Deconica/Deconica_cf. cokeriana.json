@@ -100,8 +100,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -116,7 +116,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "竹林環境中紀錄。",
+  "Note": "疑似科克無錐菇，屬名Deconica為無錐菇之屬；種小名cokeriana紀念美國真菌學家W. C. Coker。蓋小、褐色、具吸水性；菌褶疏、暗褐色；柄短；紀錄於竹林環境。竹林環境中紀錄。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -128,5 +128,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29437110/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

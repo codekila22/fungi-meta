@@ -171,7 +171,7 @@
  ],
  "meta": {
   "CapColors": "4287299584,4289864226,4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,20",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -193,6 +193,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "0,20",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "winter",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -202,7 +204,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "赭紅錘舌菌，種小名rutilans意為「泛紅光的」，指其帶紅色調。膠質頭狀菌頭部橄欖綠至帶紅褐、柄橙至橙紅具綠色顆粒黏滑，群生於林地苔地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -214,5 +216,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/346605262/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

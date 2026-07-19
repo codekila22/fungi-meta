@@ -407,8 +407,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "10,30",
-  "HeightRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,30",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -419,7 +419,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Microstoma macrosporum,,",
-  "Note": "子實體杯狀並覆蓋濃濃白毛，但盤口不會呈現裂片狀毛，顏色較為橘粉。",
+  "Note": "卷毛小口盤菌，屬名Microstoma由希臘文mikros（小）與stoma（口）組成，意為「小口的」；種小名floccosum意為「被綿毛的」。子實體高腳杯狀、具細長之柄、橙紅至橘粉色，外表密被白色綿毛；盤口圓整而不裂為毛狀齒。子實體杯狀並覆蓋濃濃白毛，但盤口不會呈現裂片狀毛，顏色較為橘粉。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "大孢小口盤菌,,",
   "la_zhcn": "大孢小口盘菌,,"
@@ -433,5 +433,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340189/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

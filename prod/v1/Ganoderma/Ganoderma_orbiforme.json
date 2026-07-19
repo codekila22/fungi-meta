@@ -301,7 +301,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -313,6 +313,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "yes",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -322,7 +324,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "此物種是危害檳榔的真菌，檳榔基腐病的病原。",
+  "Note": "拱狀靈芝，屬名Ganoderma意為「光亮之皮」；種小名orbiforme意為「圓盤狀的」，指其圓拱之蓋形。子實體木栓質、具柄或近無柄，蓋面紅褐色而具漆狀光澤；孔面初白後轉褐；為危害檳榔之病原（檳榔基腐病）。此物種是危害檳榔的真菌，檳榔基腐病的病原。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -334,5 +336,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/59952458/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

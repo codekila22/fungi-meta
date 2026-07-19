@@ -2,7 +2,7 @@
  "genus": "Cyathus",
  "name": "magnomuralis",
  "date": [
-  "01/01/0001"
+  "01/15/2017,1089503171160113"
  ],
  "names_zhtw": [
   "厚孢壁黑蛋巢菌"
@@ -70,7 +70,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "高度5-6mm。",
+  "Note": "厚孢壁黑蛋巢菌，屬名Cyathus為蛋巢菌之屬；種小名magnomuralis意為「大壁的」，指其小包之厚壁。子實體倒圓錐至杯狀、外壁被毛、灰褐色；杯中含數枚暗色扁圓之小包（內含孢子、壁厚）、狀如蛋巢；藉雨滴濺出小包傳播；生於腐木與植物殘體上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -82,5 +82,5 @@
    "src": "https://static.inaturalist.org/photos/415622174/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

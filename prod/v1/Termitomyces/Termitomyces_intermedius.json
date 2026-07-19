@@ -176,13 +176,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "rooting",
   "StalkDiamRangeValuess": "4,7",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "60,150",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "summer",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -192,7 +194,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "中間型蟻巢傘，種小名intermedius意為「中間型的」，指其形態介於近緣種之間。蓋灰褐色、中央具尖突（perforatorium），菌褶白轉粉紅，柄白且向下延伸為深入蟻巢之長假根，與大白蟻共生，雨後發生。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -204,5 +206,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/187153577/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -102,7 +102,7 @@
  ],
  "meta": {
   "CapColors": "4291605388,4288244511",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -122,7 +122,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -132,8 +135,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "暗圈鵝膏，屬名Amanita為鵝膏之屬。蓋帶暗色環圈或菌幕殘片；菌褶離生、白色；柄具菌環、基部具菌托（volva）；孢子印白色；地生於林下、與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -125,7 +125,7 @@
  ],
  "meta": {
   "CapColors": "4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -145,6 +145,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "2,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -155,8 +156,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "普通膠殼煤菌，種小名communis意為「常見的」。本種為煤污病菌，於介殼蟲與蚜蟲分泌之蜜露上形成黑色蓬鬆之菌絲層與墊狀子座，覆蓋於枝葉表面，不侵入植物組織。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -126,7 +126,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294956800,4294962944",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -136,7 +136,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "5,8",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -146,7 +146,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -157,10 +157,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Coriolopsis neaniscus,,",
-  "Note": "外觀相似種黃褐革蓋菌(Coriolopsis neaniscus)菌蓋較薄。",
+  "Note": "桑黃，屬名Sanghuangporus與種小名sanghuang皆取自漢名「桑黃」，指其生於桑而色黃之特徵。子實體多年生、無柄而呈馬蹄至扁半圓形、木質而堅硬、暗褐色；孔面黃褐色、孔口細；為著名之藥用真菌，生於桑等闊葉樹上。外觀相似種黃褐革蓋菌(Coriolopsis neaniscus)菌蓋較薄。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "黃褐革蓋菌,,",
   "la_zhcn": "黄褐革盖菌,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

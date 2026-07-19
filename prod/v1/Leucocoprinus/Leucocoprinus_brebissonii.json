@@ -183,7 +183,7 @@
  ],
  "meta": {
   "CapColors": "4286611584,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -198,11 +198,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,6",
+  "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -214,7 +214,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Lepiota atrosquamulosa,,",
-  "Note": "",
+  "Note": "暗鱗白鬼傘，種小名brebissonii紀念真菌學者Brébisson。蓋白色、中央暗褐、被褐色放射狀細鱗、緣具深溝紋，柄白具易脫落小環，菌褶白色，生於溫室腐土或林地。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -228,5 +228,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/52936646/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

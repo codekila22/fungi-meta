@@ -448,8 +448,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "20,30",
@@ -463,8 +463,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "光亮小皮傘，種小名luculentus意為「明亮鮮麗的」，指其幼時鮮明之蓋色。蓋幼時紅褐至紫褐、老熟褪為白至灰白，溝紋直達中心、緣常缺刻，菌褶白而連生於環領，柄極細如鬃、黑褐色，生於竹類枯葉。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

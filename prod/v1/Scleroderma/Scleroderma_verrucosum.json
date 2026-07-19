@@ -96,6 +96,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -106,7 +107,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "多疣硬皮馬勃，種小名verrucosum意為「多疣的」，指其外皮被疣狀鱗。子實體近球形而基部常具明顯之柄狀假根、外皮薄而黃褐並被細疣鱗，內部孢體幼時白而成熟轉紫褐，外生菌根，地生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -118,5 +119,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027061/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

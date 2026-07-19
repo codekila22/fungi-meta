@@ -86,7 +86,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.2,1",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -106,7 +106,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.2,1",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -117,7 +117,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "微小纖毛杯菌，種小名minutissima意為「極微小的」，指其為本屬中最小者之一。子實體極微小杯狀、白色、外被長纖毛，杯口朝下，群生於枯枝與草稈，需放大鏡方能辨識。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -129,5 +129,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13186771/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

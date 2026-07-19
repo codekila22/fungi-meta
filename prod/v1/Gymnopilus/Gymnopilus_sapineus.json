@@ -217,7 +217,7 @@
  ],
  "meta": {
   "CapColors": "4294950656,4293313372",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -232,11 +232,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,10",
+  "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
@@ -248,7 +248,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "欉裸傘，種小名sapineus意為「冷杉/松的」，指其生於針葉樹倒木。蓋金黃至橙褐，菌褶黃轉鏽橙，柄具易消失纖絲狀菌幕殘片，孢子鏽褐，叢生於針葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -260,5 +260,5 @@
    "src": "https://static.inaturalist.org/photos/1529638/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -174,7 +174,7 @@
  ],
  "meta": {
   "CapColors": "4294309365,4294956800",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,8",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -194,7 +194,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "20,60",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "parasitic",
@@ -204,7 +207,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "蛾蛹蟲草，種小名tenuipes意為「細柄的」，指其子座細瘦。子座自寄生之蛾蛹長出、細長棒狀至分枝、白至淡黃色而頂端粉狀（無性世代），生於林地落葉層下之蟲體。"
  },
  "inaturalist": [
   {
@@ -215,5 +218,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1676350/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

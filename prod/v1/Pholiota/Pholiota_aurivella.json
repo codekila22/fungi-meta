@@ -530,11 +530,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,25",
+  "StalkLengthRangeValuess": "40,150",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "autumn,winter",
@@ -546,7 +546,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "大多資料顯示此物種可以食用，但有些資料提到可能會引起腸胃不適，請謹慎考慮。",
+  "Note": "金毛鱗傘，種小名aurivella由拉丁文aurum（金）與vellus（毛、羊毛）組成，意為「金色絨毛的」，指其蓋面金黃之翹鱗。蓋金黃至銹褐、密被同色翹起之鱗片而黏，菌褶初黃後轉銹褐，柄下部亦被鱗片並具菌環；叢生於闊葉樹活立木與枯幹上。大多資料顯示此物種可以食用，但有些資料提到可能會引起腸胃不適，請謹慎考慮。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -586,5 +586,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

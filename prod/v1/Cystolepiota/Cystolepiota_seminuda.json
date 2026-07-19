@@ -67,7 +67,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,20",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -82,8 +82,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -98,7 +98,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "半裸囊小傘，種小名seminuda意為「半裸的」，指其蓋面粉粒狀被覆易脫落而露出下方光滑表面。子實體極小，蓋白色、凸至鐘形、密被均勻之粉粒、緣常具流蘇狀殘片，菌褶白色離生，柄白而具粉粒、傷處略帶紫，生於闊葉林腐植質。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -110,5 +110,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/293561483/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

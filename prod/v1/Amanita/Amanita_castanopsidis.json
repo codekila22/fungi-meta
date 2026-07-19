@@ -102,7 +102,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,90",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -117,15 +117,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "50,100",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -133,7 +135,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "櫟生鵝膏，屬名Amanita為鵝膏之屬；種小名castanopsidis意為「錐栗屬（Castanopsis）的」，指其共生之樹木。蓋白色、被錐狀至角錐狀之白色菌幕疣；菌褶離生、白色；柄具菌環、基部膨大而被疣狀菌托；與殼斗科共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -145,5 +147,5 @@
    "src": "https://static.inaturalist.org/photos/96738827/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

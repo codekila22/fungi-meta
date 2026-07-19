@@ -52,7 +52,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "umbontae",
   "CapTexture": "",
   "CapMargin": "striated",
@@ -68,10 +68,10 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "40,70",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -83,7 +83,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "紀錄於台灣陽明山擎天崗牛糞堆。",
+  "Note": "角孢裸蓋菇，屬名Psilocybe意為「光滑之頭」；種小名angulospora意為「角孢的」，指其具稜角之孢子。蓋圓錐至凸形、褐色、具吸水性；菌褶暗紫褐色；柄觸傷轉藍；紀錄於陽明山擎天崗之牛糞堆上。紀錄於台灣陽明山擎天崗牛糞堆。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -95,5 +95,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5665985/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -378,7 +378,7 @@
  ],
  "meta": {
   "CapColors": "4283244288,4287317267",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -388,7 +388,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -398,7 +398,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "2,10",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -408,7 +411,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌孔層可與上蓋組織分離後拉長，如橡皮筋一般非常有彈性且黏。",
+  "Note": "雙色膠孔菌，屬名Gloeoporus意為「膠質的孔」，指其膠質而具彈性之孔層；種小名dichrous意為「雙色的」，指其白色之蓋與暗紫灰色之孔面成對比。子實體平伏至具短帽緣、革質；孔面膠質、可與蓋層分離而具橡皮般彈性。菌孔層可與上蓋組織分離後拉長，如橡皮筋一般非常有彈性且黏。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -420,5 +423,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28037451/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

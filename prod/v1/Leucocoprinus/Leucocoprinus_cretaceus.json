@@ -4,6 +4,7 @@
  "date": [
   "07/01/2026,27437884365895301",
   "06/24/2026,27344564838560588",
+  "06/20/2026,27619972061019863",
   "06/15/2026,27230298569987216",
   "06/14/2026,27215436248140115",
   "11/01/2025,24858482347168862",
@@ -402,6 +403,18 @@
   {
    "author": "江志緯",
    "image_src": "Leucocoprinus_cretaceus_7504b780-75e5-11f1-bdb9-0b06595e64af_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Leucocoprinus_cretaceus_27619972061019863_7d3a1120-822e-11f1-be21-8375c91e8992_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Leucocoprinus_cretaceus_27619972061019863_7d3a1120-822e-11f1-be21-8375c91e8992_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Leucocoprinus_cretaceus_27619972061019863_7d3a1120-822e-11f1-be21-8375c91e8992_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -424,8 +437,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "30,80",
@@ -440,7 +453,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "土生或腐爛的枯木上生長。",
+  "Note": "白堊白鬼傘，屬名Leucocoprinus意為「白色的鬼傘」；種小名cretaceus意為「白堊質的」，指其純白而如撲粉之外觀。蓋白色、密被粉狀至絮狀之白色顆粒、具溝紋；菌褶白色、離生；柄白、具一膜質菌環，基部略膨大；多生於富腐植質之土壤與堆肥。土生或腐爛的枯木上生長。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -452,5 +465,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110450191/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

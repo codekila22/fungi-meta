@@ -168,11 +168,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "15,30",
+  "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -184,7 +184,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "緻密紅菇，種小名compacta意為「緻密的」，指菌肉厚實堅硬。蓋白色轉褐、傷處與老時變褐，菌褶白色密集而傷變褐，柄粗壯白色，肉硬且具魚腥氣味，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -196,5 +196,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/45998024/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

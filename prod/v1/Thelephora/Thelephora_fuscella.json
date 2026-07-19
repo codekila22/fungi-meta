@@ -2,6 +2,8 @@
  "genus": "Thelephora",
  "name": "fuscella",
  "date": [
+  "07/16/2026,27606779372339132",
+  "07/08/2026,27549582221392181",
   "07/03/2026,27492346603782410",
   "07/13/2025,10090312544412419",
   "06/20/2025,9914530595323949",
@@ -233,6 +235,74 @@
   {
    "author": "吳湯姆",
    "image_src": "Thelephora_fuscella_e67bee40-5fe0-11f0-9f8f-831c033aac82_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27549582221392181_6cc97360-7d85-11f1-ac07-974d83ebf571_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27606779372339132_da1dcba0-8118-11f1-b677-a58a4e93746c_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27606779372339132_da1dcba0-8118-11f1-b677-a58a4e93746c_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27606779372339132_da1dcba0-8118-11f1-b677-a58a4e93746c_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27606779372339132_da1dcba0-8118-11f1-b677-a58a4e93746c_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Thelephora_fuscella_27606779372339132_da1dcba0-8118-11f1-b677-a58a4e93746c_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -260,10 +330,12 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,50",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -271,10 +343,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Thelephora vialis,,",
-  "Note": "菌蓋顏色較相似種深。",
+  "Note": "棕色革菌，屬名Thelephora意為「具乳突的」；種小名fuscella意為「略暗褐的」，指其較近緣種為深之色澤。子實體叢生、扇形至珊瑚狀分裂、革質、暗褐至栗褐色、緣色較淡；地生，常與樹根形成外生菌根。菌蓋顏色較相似種深。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "蓮座革菌,,",
   "la_zhcn": "莲座革菌,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

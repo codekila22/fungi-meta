@@ -75,7 +75,7 @@
  ],
  "meta": {
   "CapColors": "4292664540",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -106,7 +106,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於腐朽的針葉木上。",
+  "Note": "冷杉附毛菌，屬名Trichaptum意指其被毛之蓋面；種小名abietinum意為「冷杉的」，指其生於針葉樹之習性。子實體薄、革質、扇形至平伏、覆瓦狀，蓋面被絨毛而具環帶；孔面帶紫、孔口老時撕裂為齒狀；生於腐朽之針葉樹上。生長於腐朽的針葉木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -118,5 +118,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155172952/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

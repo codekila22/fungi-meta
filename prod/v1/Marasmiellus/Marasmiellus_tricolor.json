@@ -146,12 +146,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground,meadow",
@@ -161,17 +164,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "三色微皮傘，屬名Marasmiellus為微皮傘之屬；種小名tricolor意為「三色的」。子實體微小；蓋膜質、具放射溝紋、雜以數色；菌褶疏；柄細；生於枯枝落葉上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
-   "name": "Marasmiellus tricolor",
+   "name": "Metacampanella tricolor",
    "cname": "",
    "cname_zh": "三色微皮傘",
-   "url": "https://www.inaturalist.org/taxa/833597-Marasmiellus-tricolor",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29510713/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1574033",
+   "src": "https://static.inaturalist.org/photos/320430297/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

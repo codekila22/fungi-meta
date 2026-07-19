@@ -93,7 +93,7 @@
  ],
  "meta": {
   "CapColors": "4294967040,4294962944",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -113,7 +113,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -124,7 +124,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "具脈側盤菌，種小名phlebophora意為「具脈的」，指盤面具明顯脈狀皺紋。子實體耳狀至匙形而一側縱裂、盤面褐色並具網脈狀隆起，外表面色淡，基部具短柄，生於闊葉林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -136,5 +136,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

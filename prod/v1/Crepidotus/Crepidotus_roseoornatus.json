@@ -226,8 +226,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -242,10 +242,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Crepidotus boninensis,,",
-  "Note": "傘面無線條或較不明顯、短柄，基部有粉紅色絨毛。",
+  "Note": "玫瑰靴耳，屬名Crepidotus意為「似鞋的耳」，指其側生貝殼狀之子實體；種小名roseoornatus意為「以玫瑰色為飾的」。子實體小、貝殼形至腎形、無柄或具短柄、粉紅色調、蓋面無明顯條紋；基部具粉紅色絨毛；生於枯木上。傘面無線條或較不明顯、短柄，基部有粉紅色絨毛。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "小笠原靴耳,,",
   "la_zhcn": "小笠原靴耳,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

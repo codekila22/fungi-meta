@@ -78,7 +78,7 @@
   "StalkTexture": "smooth",
   "StalkHollow": "hollow",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "bulbous",
   "StalkDiamRangeValuess": "7,21",
   "StalkLengthRangeValuess": "40,150",
@@ -92,7 +92,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "有雙層菌環。",
+  "Note": "雙環林地蘑菇，屬名Agaricus為蘑菇之屬；種小名placomyces意為「扁蓋之菌」。蓋白底而被灰褐色之細鱗、中央色深、傷後轉黃；菌褶初粉紅後轉巧克力褐色；柄具雙層之膜質菌環；常帶石炭酸（酚）氣味。有雙層菌環。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -132,5 +132,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -38,7 +38,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294967040,4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -53,11 +53,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "30,40",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -69,7 +69,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "奶油濕傘，種小名ceracea意為「蠟質的」，指其菌褶蠟質之觸感。蓋罕寬於3cm、有時具小突起、蠟黃色；柄3–4cm、粗2–4mm，體型小巧，生於貧養草地與苔蘚之間。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -81,5 +81,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55802621/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

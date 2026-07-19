@@ -333,7 +333,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -348,13 +348,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "50,70",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -364,7 +366,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "金粒小鬼傘，屬名Coprinellus為小鬼傘之屬；種小名aureogranulatus意為「金色顆粒的」，指其蓋面被覆之金黃色粒狀菌幕。蓋卵形至鐘形、具放射溝紋；菌褶成熟後自溶為墨汁；群生於腐木或富腐植質之地上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -376,5 +378,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/133185758/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

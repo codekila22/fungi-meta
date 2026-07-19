@@ -2,6 +2,7 @@
  "genus": "Trogia",
  "name": "infundibuliformis",
  "date": [
+  "07/16/2026,27603769955973407",
   "06/13/2026,27201409712876102",
   "11/30/2025,25128697230147371",
   "11/17/2025,25012345788449183",
@@ -240,13 +241,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "mycelium",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "yes",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -255,12 +258,9 @@
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": ",,",
-  "Note": "熱帶物種，發現與台灣高屏地區。基部有明顯的白色菌絲體。",
-  "Tropical": "yes",
-  "GrowthEco": "saprotrophic",
-  "la_zhtw": ",,",
-  "la_zhcn": ",,"
+  "LookAlikes": "",
+  "Note": "漏斗狀溝褶菌，屬名Trogia為溝褶菌之屬；種小名infundibuliformis意為「漏斗狀的」，指其漏斗形之菌蓋。子實體薄、革質、漏斗狀、淡褐至肉桂色；子實層為皺褶脈狀之鈍褶；柄細；為熱帶物種，基部具白色菌絲。熱帶物種，發現與台灣台南高屏地區。基部有明顯的白色菌絲體。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
@@ -271,5 +271,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/150015713/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -2,6 +2,7 @@
  "genus": "Inocybe",
  "name": "squarrosofulva",
  "date": [
+  "07/08/2026,27549608408056229",
   "07/30/2025,23999302093086896",
   "10/13/2024,8332974006812957",
   "09/10/2023,6399227133520997",
@@ -112,6 +113,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Inocybe_squarrosofulva_9acd1ba0-6f52-11f0-85d2-6b1fda558e9f_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_squarrosofulva_27549608408056229_6d7de490-7dac-11f1-be9c-75df4a7b413f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_squarrosofulva_27549608408056229_6d7de490-7dac-11f1-be9c-75df4a7b413f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_squarrosofulva_27549608408056229_6d7de490-7dac-11f1-be9c-75df4a7b413f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Inocybe_squarrosofulva_27549608408056229_6d7de490-7dac-11f1-be9c-75df4a7b413f_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,7 +136,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -135,14 +152,16 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -150,10 +169,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Inocybe lutea,,",
-  "Note": "有易脫落的毛狀菌環，傘面褐色鱗較多，菌柄較不光滑。\n\n菌柄基部略為膨大。",
+  "Note": "鱗黃絲蓋傘，屬名Inocybe意為「纖維之頭」；種小名squarrosofulva由squarrosus（翹鱗）與fulvus（黃褐）組成，意為「翹鱗黃褐色的」。蓋褐色、被較多之翹鱗；柄較不光滑、基部略膨大、具易脫落之毛狀菌環；孢子印褐色。有易脫落的毛狀菌環，傘面褐色鱗較多，菌柄較不光滑。\n\n菌柄基部略為膨大。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "蛋黃絲蓋傘,,",
   "la_zhcn": "蛋黄丝盖伞,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

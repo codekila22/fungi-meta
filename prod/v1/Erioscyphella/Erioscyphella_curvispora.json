@@ -80,7 +80,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.3,1.5",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -100,7 +100,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -111,8 +111,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "彎孢粒毛盤菌，種小名curvispora意為「彎曲孢子的」。子實體微小盤狀、具細柄、外緣密被白色細毛、盤面白至淡黃，群生於落葉與腐枝碎屑。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

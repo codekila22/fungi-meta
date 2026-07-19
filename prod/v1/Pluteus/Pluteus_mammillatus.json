@@ -92,7 +92,7 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -107,7 +107,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "極少數有菌環的光柄菇。",
+  "Note": "乳突光柄菇，屬名Pluteus為光柄菇之屬；種小名mammillatus意為「具乳突的」，正指其菌蓋中央之乳頭狀凸起。蓋褐色、中央具一乳突；菌褶離生、初白後轉粉紅色；柄纖細；為極少數具菌環之光柄菇，生於腐木上。極少數有菌環的光柄菇。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -119,5 +119,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13064733/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

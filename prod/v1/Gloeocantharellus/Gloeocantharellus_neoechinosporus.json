@@ -97,8 +97,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -113,7 +113,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Gomphidius roseus,Gomphidius subroseus,",
-  "Note": "生長於台北內湖低海拔闊葉雜木林內，並無乳牛肝菌伴生現象。",
+  "Note": "新刺孢黏雞油菌，屬名Gloeocantharellus意為「膠質之雞油菌」；種小名neoechinosporus意為「新的刺孢者」，指其具刺之孢子。子實體漏斗狀、具稜脈狀之假褶（延生）；生於台北內湖低海拔闊葉雜木林，無乳牛肝菌伴生。生長於台北內湖低海拔闊葉雜木林內，並無乳牛肝菌伴生現象。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "紅鉚釘菇,亞紅鉚釘菇,",
   "la_zhcn": "红铆钉菇,亚红铆钉菇,"
@@ -127,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/552201690/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

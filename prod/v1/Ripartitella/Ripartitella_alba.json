@@ -135,8 +135,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "10,30",
@@ -151,7 +151,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "雪白岸生小菇，屬名Ripartitella紀念真菌學家Ripart；種小名alba意為「白色的」。子實體小至中、通體白色；菌褶密；孢子表面具細疣（本屬特徵）；生於腐木與落葉層上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -163,5 +163,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/170784510/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

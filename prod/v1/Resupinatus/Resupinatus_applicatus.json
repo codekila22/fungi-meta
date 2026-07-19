@@ -233,13 +233,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -249,7 +251,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "小伏褶菌，無柄背面附著、帽貝殼形被細毛膠質，菌褶灰放射狀，生於枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -261,5 +263,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24029041/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

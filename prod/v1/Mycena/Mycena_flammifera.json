@@ -306,8 +306,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -322,7 +322,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Favolaschia manipularis,,",
-  "Note": "與相似種叢傘膠孔菌的一些細微差異：1.傘緣有點毛絨；2.柄基部白色菌絲明顯；3. 幼菌尖頂、紅褐色。",
+  "Note": "焰光小菇，屬名Mycena指其小菇之屬；種小名flammifera由flamma（火焰）與ferre（帶）組成，意為「帶火焰的」，指其火紅之色調。蓋圓錐至鐘形、紅褐色、具條紋，幼時尖頂；菌褶疏、淡色；柄纖細、基部具明顯白色菌絲；生於腐木上。與相似種叢傘膠孔菌的一些細微差異：1.傘緣有點毛絨；2.柄基部白色菌絲明顯；3. 幼菌尖頂、紅褐色。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -336,5 +336,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

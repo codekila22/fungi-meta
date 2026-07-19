@@ -2,6 +2,7 @@
  "genus": "Kuehneromyces",
  "name": "mutabilis",
  "date": [
+  "07/06/2026,27545860345097702",
   "06/30/2026,27431069169910154",
   "01/29/2026,25663301123353643",
   "01/22/2026,25577871335229956",
@@ -445,23 +446,28 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "50,90",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "菌環以下的菌柄有深褐色毛茸狀物。\n\n與劇毒性的盔孢傘外觀類似，辨識上必須特別留意。",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Galerina marginata,,",
+  "Note": "毛柄庫恩菇，屬名Kuehneromyces紀念法國真菌學家Robert Kühner；種小名mutabilis意為「易變的」，指其吸水性菌蓋隨乾濕而變色。蓋凸至平展、具吸水性、濕時肉桂褐而乾時由中央向外轉淡呈雙色；菌褶初淡後轉銹褐；柄具膜質菌環，環下被褐色鱗片；叢生於闊葉樹枯幹上。菌環以下的菌柄有深褐色毛茸狀物。\n\n與劇毒性的紋緣盔孢傘(Galerina marginata))外觀類似，辨識上必須特別留意。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "紋緣盔孢傘,,",
+  "la_zhcn": "纹缘盔孢伞,,"
  },
  "inaturalist": [
   {
@@ -472,5 +478,5 @@
    "src": "https://static.inaturalist.org/photos/27962808/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

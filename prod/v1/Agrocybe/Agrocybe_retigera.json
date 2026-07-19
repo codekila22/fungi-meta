@@ -2,6 +2,7 @@
  "genus": "Agrocybe",
  "name": "retigera",
  "date": [
+  "07/14/2026,27579019605115109",
   "05/10/2025,9644334382343573",
   "12/27/2024,8751656214944732",
   "07/27/2024,7736209099822787",
@@ -239,6 +240,18 @@
   {
    "author": "江志緯",
    "image_src": "Agrocybe_retigera_1ebd0ca0-3ec9-11f0-8c51-095cf46cfc34_10.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Agrocybe_retigera_27579019605115109_6bffa080-7f42-11f1-86d2-f13ffc000e6e_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Agrocybe_retigera_27579019605115109_6bffa080-7f42-11f1-86d2-f13ffc000e6e_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Agrocybe_retigera_27579019605115109_6bffa080-7f42-11f1-86d2-f13ffc000e6e_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -246,28 +259,30 @@
  ],
  "meta": {
   "CapColors": "4294833638,4294966000",
-  "CapDiamRangeValues": "17,44",
+  "CapDiamRangeValues": "20,50",
   "CapShape": "",
   "CapTexture": "wrinkled",
   "CapMargin": "",
   "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
-  "HymeniumGillArrangement": "",
+  "HymeniumGillArrangement": "subdistant",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
-  "StalkHollow": "",
+  "StalkHollow": "solid",
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "clavate",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,6",
+  "StalkLengthRangeValuess": "40,80",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "meadow",
@@ -276,9 +291,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "菌柄基部常會稍膨大。",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Bolbitius cf. variicolor,,",
+  "Note": "皺蓋田頭菇，屬名Agrocybe意為「田野之頭」，指其常生於草地田野；種小名retigera意為「具網紋的」，指其皺網狀之蓋面。蓋凸至平展、淡褐色、表面具皺網狀紋；菌褶初淡後轉褐；柄基部常略膨大；孢子印褐色。菌柄基部常會稍膨大。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "變色糞傘之相似種,,",
+  "la_zhcn": "变色粪伞之相似种,,"
  },
  "inaturalist": [
   {
@@ -289,5 +306,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/236917708/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

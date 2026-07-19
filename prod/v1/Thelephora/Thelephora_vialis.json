@@ -134,7 +134,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "20,100",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -145,7 +145,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Thelephora fuscella,,",
-  "Note": "形狀類似蓮花座，菌蓋顏色較淡。",
+  "Note": "蓮座革菌，屬名Thelephora意為「具乳突的」；種小名vialis意為「路旁的」。子實體叢生成蓮座狀、漏斗至扇形而多裂、革質、淺褐至污白色、緣色較淡；地生，與樹根形成外生菌根。形狀類似蓮花座，菌蓋顏色較淡。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "棕色革菌,,",
   "la_zhcn": "棕色革菌,,"
@@ -159,5 +159,5 @@
    "src": "https://static.inaturalist.org/photos/962191/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

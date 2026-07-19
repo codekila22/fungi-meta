@@ -168,7 +168,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "10,25",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,25",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -179,7 +180,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "馬丁假花耳，種小名martinii紀念真菌學者Martin。子實體膠質、匙形至扇形、橙黃至橙色、具短柄，質韌，叢生於腐木或加工木材上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -191,5 +192,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/92694647/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

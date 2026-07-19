@@ -68,11 +68,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "webby",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "9,11",
+  "StalkLengthRangeValuess": "32,55",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -83,7 +83,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "西方塔氏腹菌，種小名occidentalis意為「西方的」，指其分布於北美西部。蓋紫色而黏滑、幼時圓至凸形、老熟漸展，菌褶紫色而附生，柄基部較粗、具蛛網狀絲膜（cortina），肉紫色而傷後轉更深之紫，孢子印鏽褐色。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -95,5 +95,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5966326/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

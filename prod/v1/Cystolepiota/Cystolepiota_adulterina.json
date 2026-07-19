@@ -134,8 +134,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "25,40",
@@ -149,7 +149,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "小鱗囊小傘，屬名Cystolepiota為囊小傘之屬；種小名adulterina意為「混雜的」。子實體小；蓋與柄被粉狀至顆粒狀之菌幕（本屬特徵）、白至淡色；菌褶離生、白色；地生於林下腐植質間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -161,5 +161,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/188597060/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

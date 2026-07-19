@@ -146,8 +146,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -162,7 +162,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "大孔牛肝菌屬這屬就只有一種，每個菌孔有2-6mm寬。菌柄下半部有絨毛，上半部無毛，基部有白色菌絲體。",
+  "Note": "大孔牛肝菌，屬名Borofutus意指其大孔之特徵；種小名dhakanus意為「達卡（孟加拉）的」，取自模式產地。本屬僅此一種。蓋褐色；孔面之孔口甚大；柄上半無毛、下半被絨毛、基部具白色菌絲；生於闊葉林地。大孔牛肝菌屬這屬就只有一種，菌孔甚大。菌柄下半部有絨毛，上半部無毛，基部有白色菌絲體。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -174,5 +174,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/81557838/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

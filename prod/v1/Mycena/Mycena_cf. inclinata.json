@@ -32,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,45",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -47,11 +47,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1.5,4",
+  "StalkLengthRangeValuess": "30,90",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -62,7 +62,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "疑似彎柄小菇，種小名inclinata意為「傾斜的」。蓋淡紅褐、鐘形而具對應菌褶之放射狀溝紋、緣具明顯扇貝狀齒缺，菌褶白至灰白，柄上部白至黃褐而向基部漸轉紅褐、基部被黃色菌絲，密叢生於櫟等闊葉樹樹樁。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -74,5 +74,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28633778/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

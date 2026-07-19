@@ -49,8 +49,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -65,7 +65,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Pleurotus pulmonarius,Pleurotus ostreatus,",
-  "Note": "外觀與側耳屬非常接近，但菌肉比側耳薄且更脆弱。生長環境偏好在針葉樹的枯木。",
+  "Note": "貝形圓孢側耳，屬名Pleurocybella意為「小側耳狀者」；種小名porrigens意為「向外伸展的」。子實體貝殼形至匙形、無柄而側生、白色、菌肉薄而較側耳更為脆弱；菌褶延生、密；生於針葉樹之枯木上。外觀與側耳屬非常接近，但菌肉比側耳薄且更脆弱。生長環境偏好在針葉樹的枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "肺形側耳,糙皮側耳,",
   "la_zhcn": "肺形侧耳,糙皮侧耳,"
@@ -79,5 +79,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4788157/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

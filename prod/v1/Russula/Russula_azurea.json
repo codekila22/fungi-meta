@@ -2,9 +2,9 @@
  "genus": "Russula",
  "name": "azurea",
  "date": [
-  "08/15/2022",
-  "10/27/2021",
-  "04/20/2021"
+  "08/15/2022,5331945883582466",
+  "05/05/2022,4879978282112564",
+  "10/25/2021,4256876307756101"
  ],
  "names_zhtw": [
   "葡紫紅菇"
@@ -129,11 +129,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,20",
+  "StalkLengthRangeValuess": "30,70",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -144,7 +144,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "葡紫紅菇，種小名azurea意為「天藍色的」，指菌蓋帶藍紫色調。蓋藍紫至丁香紫、表面常被白色粉霜，菌褶白色，柄白而脆，肉脆味和，外生菌根生於針葉林（尤雲杉）林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -156,5 +156,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/111522936/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

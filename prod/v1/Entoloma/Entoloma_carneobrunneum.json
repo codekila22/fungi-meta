@@ -233,8 +233,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -251,7 +251,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "叢生粉褶菌，種小名carneobrunneum意為「肉褐色」，指菌蓋色澤。蓋圓錐至凸具乳突、褐至肉褐，菌褶粉紅色帶稜角孢子，柄同色纖維狀，生於林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -263,5 +263,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -52,7 +52,7 @@
  ],
  "meta": {
   "CapColors": "4294967040,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "13,33",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -67,11 +67,11 @@
   "StalkColors": "",
   "StalkTexture": "raised-scales",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2.5",
+  "StalkLengthRangeValuess": "22,23",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -83,7 +83,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "褶面偏黃色。",
+  "Note": "黃褶環柄菇，屬名Lepiota為環柄菇之屬；種小名elaiophylla由elaion（橄欖油）與phyllon（褶）組成，意為「橄欖褶的」。蓋被細鱗；菌褶偏黃色；柄具菌環；生於林地。褶面偏黃色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -95,5 +95,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/336281237/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

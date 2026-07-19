@@ -24,7 +24,7 @@
  ],
  "meta": {
   "CapColors": "4291581184,4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,60",
   "CapShape": "",
   "CapTexture": "smooth",
   "CapMargin": "",
@@ -39,11 +39,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "webby",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,10",
+  "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -55,7 +55,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Cortinarius cf. orellanus,,",
-  "Note": "",
+  "Note": "朱紅絲膜菌，種小名cinnabarinus意為「朱砂紅的」，指其鮮豔之朱紅色澤。蓋2–6cm、初半球形而緣內捲、後凸圓、終平展而中央常具突；柄3–8cm、粗5–10mm、圓柱形而基部有時較寬，具本屬特有之蛛網狀絲膜。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "疑似奧來絲膜菌,,",
   "la_zhcn": "疑似奥来丝膜菌,,"
@@ -69,5 +69,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108971006/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -228,7 +228,7 @@
  ],
  "meta": {
   "CapColors": "4294083840,4283244288,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "100,300",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -238,7 +238,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,3",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -248,7 +248,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -259,7 +259,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "長在針葉木枯幹上。",
+  "Note": "栗褐暗孔菌，屬名Phaeolus意為「暗色的」；種小名schweinitzii紀念美國真菌學家L. D. von Schweinitz。子實體一年生、具柄或墊狀、大型，蓋面被絨毛、鏽褐至栗褐色而具環帶；孔面黃綠色、傷後轉褐；生於針葉樹幹基與根際，引起根部褐腐。長在針葉木枯幹上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -271,5 +271,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8909871/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

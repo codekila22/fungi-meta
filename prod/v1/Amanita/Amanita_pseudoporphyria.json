@@ -244,11 +244,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,20",
+  "StalkLengthRangeValuess": "60,130",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -260,7 +260,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "傘蓋外緣常有一圈白色的蕈幕殘留物。",
+  "Note": "假褐雲斑鵝膏，種小名pseudoporphyria意為「假的褐雲斑鵝膏」，指其似褐雲斑鵝膏（A. porphyria）而實不同。蓋灰褐色、被雲斑狀之外菌幕殘餘、緣常留一圈白色膜片；菌褶白色；柄具菌環，基部膨大而具袋狀菌托。傘蓋外緣常有一圈白色的蕈幕殘留物。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -272,5 +272,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2391186/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

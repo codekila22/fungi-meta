@@ -2,6 +2,8 @@
  "genus": "Oudemansiella",
  "name": "exannulata",
  "date": [
+  "07/13/2026,27590481080635628",
+  "05/13/2026,27600081173008952",
   "10/26/2025,24815265658157198",
   "09/29/2025,24567680596249040",
   "05/10/2025,9609121552531523",
@@ -355,6 +357,78 @@
   {
    "author": "江志緯",
    "image_src": "Oudemansiella_exannulata_6c993890-b3c7-11f0-8826-2785e89762be_13.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Oudemansiella_exannulata_27590481080635628_b5c556f0-801a-11f1-bcea-43ce8c915e1a_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Oudemansiella_exannulata_27600081173008952_70db0420-80df-11f1-8b9a-03c648f821f7_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -377,26 +451,26 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,10",
   "StalkLengthRangeValuess": "25,100",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Oudemansiella canarii,,",
-  "Note": "有凹凸不平的膠質黏滑傘面。",
-  "GrowthEco": "saprotrophic",
-  "la_zhtw": ",,",
-  "la_zhcn": ",,"
+  "LookAlikes": "",
+  "Note": "無環小奧德蘑，屬名Oudemansiella紀念荷蘭真菌學家C. A. J. A. Oudemans；種小名exannulata意為「無菌環的」，以別於本屬具菌環之種。蓋半球至平展、白至灰白色、半透明、表面膠質而黏、常具凹凸皺紋；菌褶疏、寬、白色；柄細長、韌。有凹凸不平的膠質黏滑傘面。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
@@ -407,5 +481,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17871732/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

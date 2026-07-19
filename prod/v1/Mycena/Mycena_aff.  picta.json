@@ -228,8 +228,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "1,3",
   "StalkLengthRangeValuess": "15,38",
@@ -244,7 +244,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Mycena picta,,",
-  "Note": "",
+  "Note": "彩麗小菇相似種，屬名Mycena指其小菇之屬；種小名picta意為「彩繪的」，指其鮮麗之色。子實體微小、蓋鐘形而具條紋、色澤鮮明；菌褶疏；柄纖細；生於腐木與落葉上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "彩麗小菇,,",
   "la_zhcn": "彩丽小菇,,"
@@ -258,5 +258,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/120042145/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

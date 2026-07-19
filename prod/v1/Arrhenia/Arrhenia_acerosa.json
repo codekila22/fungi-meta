@@ -76,8 +76,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -92,7 +92,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "銳葉蘚臍菇，種小名acerosa意為「針狀的、細尖的」。子實體小型而無柄、扇形至腎形、側生附著，蓋灰褐至暗灰、具變水性，菌褶白至灰、明顯延生而輻射自附著點，肉薄，群生於腐木、苔蘚與潮濕之草本殘體。"
  },
  "inaturalist": [
   {
@@ -103,5 +103,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17266638/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

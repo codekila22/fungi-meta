@@ -155,8 +155,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -166,7 +168,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Cookeina tricholoma,,",
-  "Note": "",
+  "Note": "中國毛杯菌，種小名sinensis指模式產地中國。子實體深杯狀、盤面粉橙至淡紅、外被短毛、具細柄，質韌，叢生於熱帶及亞熱帶之腐木落枝。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "毛緣毛杯菌,,",
   "la_zhcn": "毛缘毛杯菌,,"
@@ -180,5 +182,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32727023/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

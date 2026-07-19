@@ -75,8 +75,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "20,50",
-  "HeightRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,50",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -87,7 +87,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Microstoma floccosum,,",
-  "Note": "相較於相似種卷毛，大孢的盤口內側、毛的下方，有一圈白色唇肉，成熟會呈裂片狀，或是外緣的毛會呈現裂片狀，但幼菌不易區分。",
+  "Note": "大孢小口盤菌，屬名Microstoma意為「小口的」；種小名macrosporum意為「大孢子的」。子實體高腳杯狀、具柄、橙紅至橘粉色、外被白色綿毛；盤口內側、毛之下方具一圈白色唇肉、成熟後呈裂片狀；孢子較近緣種為大。相較於相似種卷毛，大孢的盤口內側、毛的下方，有一圈白色唇肉，成熟會呈裂片狀，或是外緣的毛會呈現裂片狀，但幼菌不易區分。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "卷毛小口盤菌,,",
   "la_zhcn": "卷毛小口盘菌,,"
@@ -101,5 +101,5 @@
    "src": "https://static.inaturalist.org/photos/265209866/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

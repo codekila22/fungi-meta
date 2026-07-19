@@ -2,6 +2,7 @@
  "genus": "Rimbachia",
  "name": "cf. neckerae",
  "date": [
+  "07/14/2026,27580757518274651",
   "03/07/2026,26106650609018690",
   "07/09/2024,10042795249164149",
   "05/07/2023,5954612121315836",
@@ -152,6 +153,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Rimbachia_cf. neckerae_1b0b88f0-259d-11f1-b0b0-0b212383b427_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Rimbachia_cf. neckerae_27580757518274651_514eb590-7f75-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Rimbachia_cf. neckerae_27580757518274651_514eb590-7f75-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Rimbachia_cf. neckerae_27580757518274651_514eb590-7f75-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Rimbachia_cf. neckerae_27580757518274651_514eb590-7f75-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Rimbachia_cf. neckerae_27580757518274651_514eb590-7f75-11f1-a6ae-2d91ec182952_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -159,7 +180,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,8",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -174,15 +195,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "moss",
   "Bruising": "",
   "Bioluminescent": "",
@@ -190,7 +213,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Muscinupta laevis,Rimbachia arachnoidea,",
-  "Note": "",
+  "Note": "平苔圓拱菌，種小名neckerae指其生於Neckera屬苔蘚上。微小白色杯狀至扇形、子實層平滑或具脈（無真菌褶）、附生於苔蘚葉狀體，質薄，濕生林地。",
   "la_zhtw": "光滑苔傘,蛛絲圓拱菌,",
   "la_zhcn": "光滑苔伞,蛛丝圆拱菌,"
  },
@@ -203,5 +226,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28217042/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

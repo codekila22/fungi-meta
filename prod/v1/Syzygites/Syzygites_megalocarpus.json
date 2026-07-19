@@ -2,6 +2,7 @@
  "genus": "Syzygites",
  "name": "megalocarpus",
  "date": [
+  "07/16/2026,27613339695016433",
   "08/23/2023,6332692890174422",
   "07/02/2023,6176346945809018",
   "10/19/2016,1002633929847038"
@@ -47,6 +48,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Syzygites_megalocarpus_6a1ebea0-43b7-11ee-b0c6-851d1478bf88_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Syzygites_megalocarpus_27613339695016433_e7d34320-81b2-11f1-bc1c-03cdbdc6f262_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Syzygites_megalocarpus_27613339695016433_e7d34320-81b2-11f1-bc1c-03cdbdc6f262_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Syzygites_megalocarpus_27613339695016433_e7d34320-81b2-11f1-bc1c-03cdbdc6f262_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Syzygites_megalocarpus_27613339695016433_e7d34320-81b2-11f1-bc1c-03cdbdc6f262_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Syzygites_megalocarpus_27613339695016433_e7d34320-81b2-11f1-bc1c-03cdbdc6f262_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Syzygites_megalocarpus_27613339695016433_e7d34320-81b2-11f1-bc1c-03cdbdc6f262_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Syzygites_megalocarpus_27613339695016433_e7d34320-81b2-11f1-bc1c-03cdbdc6f262_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Syzygites_megalocarpus_27613339695016433_e7d34320-81b2-11f1-bc1c-03cdbdc6f262_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Syzygites_megalocarpus_27613339695016433_e7d34320-81b2-11f1-bc1c-03cdbdc6f262_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -84,7 +121,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "大孢聯軛菌，屬名Syzygites意為「成軛相連」，指其接合孢子之對稱相接；種小名megalocarpus意為「大果（孢）的」。為一接合菌（毛黴目）、寄生於多種菇類之子實體上、於菇面形成白至淡黃之綿狀霉層、孢子囊梗二叉狀重複分枝；為一菌寄生真菌。"
  },
  "inaturalist": [
   {
@@ -95,5 +132,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21933263/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

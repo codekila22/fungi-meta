@@ -312,7 +312,7 @@
  ],
  "meta": {
   "CapColors": "4294901760,4293263360,4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,10",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -330,10 +330,12 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "3,10",
-  "StalkLengthRangeValuess": "50,200",
-  "HeightRangeValuess": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "50,200",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
@@ -343,7 +345,7 @@
   "Smell": "",
   "Taste": "bitter",
   "LookAlikes": "",
-  "Note": "根據文獻記載，此物種有致命劇毒，即使僅觸碰到菌肉液體也可能導致過敏或潰爛。\n子實體肉質堅硬且菌肉內部白色，切勿用皮膚觸碰或採食。\n台灣北部中低海拔山區偶見。"
+  "Note": "火焰茸，屬名Trichoderma意為「毛皮」；種小名cornu-damae由拉丁文cornu（角）與dama（鹿）組成，意為「鹿角的」，正指其鮮紅而多分枝如鹿角之子實體。子座肉質堅硬、鮮紅至橙紅色、指狀至鹿角狀分枝、內部白色；生於林地與腐木上。根據文獻記載，此物種有致命劇毒，即使僅觸碰到菌肉液體也可能導致過敏或潰爛。\n子實體肉質堅硬且菌肉內部白色，切勿用皮膚觸碰或採食。\n台灣北部中低海拔山區偶見。"
  },
  "inaturalist": [
   {
@@ -354,5 +356,5 @@
    "src": "https://static.inaturalist.org/photos/5672995/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

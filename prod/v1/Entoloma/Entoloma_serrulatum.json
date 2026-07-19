@@ -40,7 +40,7 @@
  ],
  "meta": {
   "CapColors": "4286611584,4278202707,4278190335",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,60",
   "CapShape": "",
   "CapTexture": "fine-scales",
   "CapMargin": "",
@@ -55,8 +55,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -73,7 +73,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌褶與菌柄有著跟菌蓋相同的顏色。",
+  "Note": "齒狀粉褶菌，屬名Entoloma意為「內捲之緣」；種小名serrulatum意為「具細鋸齒的」，指其菌褶之緣。蓋藍黑至暗藍色；菌褶粉褶菌屬特有之肉粉色而緣具暗色細鋸齒；菌褶與柄和菌蓋同色；生於草地與林地。菌褶與菌柄有著跟菌蓋相同的顏色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -85,5 +85,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245403999/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

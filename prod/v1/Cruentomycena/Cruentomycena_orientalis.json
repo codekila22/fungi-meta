@@ -102,7 +102,7 @@
  ],
  "meta": {
   "CapColors": "4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,20",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -117,11 +117,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "20,50",
   "HeightRangeValuess": "",
   "Rareness": "rare",
   "Seasons": "",
@@ -133,7 +133,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "石榴色赤小菇，種小名orientalis意為「東方的」，指其分布於東亞。子實體小型、蓋與菌褶呈鮮明之石榴紅至暗紅色，柄同色而細，本屬以其紅色汁液狀色素著稱，生於腐木落葉。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -145,5 +145,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

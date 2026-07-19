@@ -274,9 +274,12 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "yes,sheathing",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "6,15",
+  "StalkLengthRangeValuess": "60,120",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -285,9 +288,11 @@
   "Edible": "toxic",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "菌柄有橘色花紋。",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Amanita hemibapha,,",
+  "Note": "相似鵝膏，種小名similis意為「相似的」，指其與近緣種難分。蓋褐至黃褐色、被外菌幕殘餘、緣具溝紋；菌褶白色；柄具菌環、表面帶橙色花紋，基部膨大而具菌托。菌柄有橘色花紋。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "花柄橙紅鵝膏,,",
+  "la_zhcn": "花柄橙红鹅膏,,"
  },
  "inaturalist": [
   {
@@ -298,5 +303,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14759208/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

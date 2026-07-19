@@ -113,7 +113,7 @@
  ],
  "meta": {
   "CapColors": "4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -133,7 +133,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -144,7 +144,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "皮索尼亞炭角菌，種小名pisoniae意為「腺果藤屬（Pisonia）的」，指其寄主。子座細棒狀直立、黑褐色而內裡白色、表面具點狀子囊殼孔口，專生於腺果藤等之落果與枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -156,5 +156,5 @@
    "src": "https://static.inaturalist.org/photos/449425531/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

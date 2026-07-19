@@ -51,7 +51,7 @@
  ],
  "meta": {
   "CapColors": "4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,110",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -66,11 +66,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,15",
+  "StalkLengthRangeValuess": "40,120",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -82,7 +82,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Lactifluus volemus,,",
-  "Note": "",
+  "Note": "多汁乳菇黃色變種，種小名volemus源自拉丁文，指可盈握之volema梨（一說源自vola「掌心」），喻其乳汁豐沛可盈掌。蓋杏黃至茶褐、肉質緊實、表面絨質至平滑、幼時緣內捲後平展而中央下凹，柄色較蓋稍淡，傷時湧出大量白色乳汁。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "多汁乳菇,,",
   "la_zhcn": "多汁乳菇,,"
@@ -96,5 +96,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13065706/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -229,7 +229,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "central",
   "StalkColors": "",
   "StalkTexture": "",
@@ -250,7 +250,7 @@
   "Smell": "sweet",
   "Taste": "mild",
   "LookAlikes": "",
-  "Note": "子實體幼時容易分泌乳汁狀液珠。菌柄有暗紅色腺點是此種的特徵。菌絲體是白色，有一種近似種褐乳牛肝菌(Suillus collinitus)菌絲體是粉紅色。具有黏性的表皮剝除後，充分煮熟方能食用。",
+  "Note": "點柄乳牛肝菌，屬名Suillus意為「豬的」；種小名granulatus意為「具顆粒的」，正指其柄上之腺點。蓋赭黃至肉桂色、表面黏；孔面黃色、幼時滲出乳狀液珠；柄具暗紅色之腺點、無菌環；菌絲體白色；與松樹共生為外生菌根菌。子實體幼時容易分泌乳汁狀液珠。菌柄有暗紅色腺點是此種的特徵。菌絲體是白色，有一種近似種褐乳牛肝菌(Suillus collinitus)菌絲體是粉紅色。具有黏性的表皮剝除後，充分煮熟方能食用。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -262,5 +262,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/66593641/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

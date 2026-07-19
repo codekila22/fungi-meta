@@ -66,7 +66,7 @@
  ],
  "meta": {
   "CapColors": "4286578688,4288696877",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -81,8 +81,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -96,7 +96,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "瓜形大囊傘，種小名cucumis意為「黃瓜」，指其肉具新鮮小黃瓜（兼似魚腥）之特殊氣味。蓋凸至平展、暗紅至黑褐而緣帶黃、乾時色轉淡，菌褶初白後轉紅褐而密，柄與蓋同色、細而基部被絨，本屬以菌褶與蓋上之巨大囊狀體為特徵。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -129,5 +129,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155414069/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

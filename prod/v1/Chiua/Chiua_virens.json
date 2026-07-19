@@ -187,7 +187,7 @@
  ],
  "meta": {
   "CapColors": "4278222848,4285101859,4283788079",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -197,28 +197,28 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,18",
+  "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "年輕菌孔面為白色，成熟菌孔面淺粉紅色。菌柄基部黃色。",
+  "Note": "綠蓋裘氏牛肝菌，屬名Chiua紀念中國真菌學家裘維蕃（W. F. Chiu）；種小名virens意為「帶綠的」，指其菌蓋之綠色調。蓋橄綠至綠褐色；孔面幼時白色、成熟後轉淺粉紅色（本類群特徵）；柄基部黃色；生於闊葉林地。年輕菌孔面為白色，成熟菌孔面淺粉紅色。菌柄基部黃色。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -230,5 +230,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/210958992/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

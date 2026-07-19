@@ -2,6 +2,7 @@
  "genus": "Lentinula",
  "name": "edodes",
  "date": [
+  "07/17/2026,27624827800534289",
   "06/19/2026,27283896917960714",
   "04/11/2026,26401958499487898",
   "11/04/2025,24917803991236697",
@@ -484,6 +485,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Lentinula_edodes_39784b60-6bdf-11f1-ae04-fbdb6f058d75_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinula_edodes_27624827800534289_c5a88a50-8269-11f1-b205-db611c601ea1_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinula_edodes_27624827800534289_c5a88a50-8269-11f1-b205-db611c601ea1_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinula_edodes_27624827800534289_c5a88a50-8269-11f1-b205-db611c601ea1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinula_edodes_27624827800534289_c5a88a50-8269-11f1-b205-db611c601ea1_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinula_edodes_27624827800534289_c5a88a50-8269-11f1-b205-db611c601ea1_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinula_edodes_27624827800534289_c5a88a50-8269-11f1-b205-db611c601ea1_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinula_edodes_27624827800534289_c5a88a50-8269-11f1-b205-db611c601ea1_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinula_edodes_27624827800534289_c5a88a50-8269-11f1-b205-db611c601ea1_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinula_edodes_27624827800534289_c5a88a50-8269-11f1-b205-db611c601ea1_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -511,8 +548,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,13",
+  "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "winter,summer",
@@ -524,7 +561,7 @@
   "Smell": "mushroomy",
   "Taste": "mild",
   "LookAlikes": "",
-  "Note": "根據觀察，北部中海拔的野生香菇，在每年6-7、12-2月，這冬夏各一次較常出現，其他月分則零星出現。",
+  "Note": "香菇，種小名edodes源自希臘文，意指宜於烹食之菇。蓋半球至平展、褐色而被淡色鱗片，成熟時表面常龜裂成花紋而稱花菇，菌褶白色密生，柄具菌環；為東亞重要之栽培菇類。根據觀察，北部中海拔的野生香菇，在每年6-7、12-2月，這冬夏各一次較常出現，其他月分則零星出現。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -536,5 +573,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/116230354/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -118,7 +118,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -138,7 +138,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -149,7 +149,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "彼氏多柱殼菌，種小名petersii紀念採集者Peters。子座墊狀至半球形、表面黑色而具光澤如瀝青、其下具多數垂直排列之長頸子囊殼，成熟時滲出黑色孢子液，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -161,5 +161,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4132977/thumb."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

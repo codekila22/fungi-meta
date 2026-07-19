@@ -103,7 +103,7 @@
  ],
  "meta": {
   "CapColors": "4283244288,4288768839",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -118,24 +118,24 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,40",
+  "StalkLengthRangeValuess": "60,180",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "high",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "yellow",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "在台灣屬於高海拔物種。",
-  "Elevation": "high",
+  "Note": "奇異金牛肝菌，屬名Aureoboletus意為「金色的牛肝菌」；種小名mirabilis意為「奇異的、令人稱奇的」。蓋暗紅褐色、表面被絨毛狀之鱗；孔面黃色；柄具細絨；與針葉樹（尤鐵杉）共生為外生菌根菌；於台灣為高海拔物種。在台灣屬於高海拔物種。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -147,5 +147,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11502862/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

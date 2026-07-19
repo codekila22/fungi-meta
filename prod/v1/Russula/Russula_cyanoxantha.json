@@ -36,7 +36,7 @@
  ],
  "meta": {
   "CapColors": "4288696877,4293498490,4293313372",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,180",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -51,11 +51,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "solid",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,50",
+  "StalkLengthRangeValuess": "25,120",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "此物種顏色差異性很大，辨識特徵之一為其菌褶白而有彈性，不像其他紅菇屬的容易脆裂。",
+  "Note": "藍黃紅菇，屬名Russula為紅菇之屬；種小名cyanoxantha由希臘文kyanos（藍）與xanthos（黃）組成，意為「藍黃色的」，指其多變之色。蓋色澤差異極大、常混以藍綠與紫色調、表面油亮；菌褶白而有彈性、不似其他紅菇易脆裂（辨識特徵）；柄白；與樹木共生為外生菌根菌。此物種顏色差異性很大，辨識特徵之一為其菌褶白而有彈性，不像其他紅菇屬的容易脆裂。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -99,5 +99,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

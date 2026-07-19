@@ -145,8 +145,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "solid",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,20",
   "StalkLengthRangeValuess": "30,130",
@@ -161,7 +161,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體可能會在南洋杉枯木或相鄰的土壤中形成菌核。",
+  "Note": "菌核側耳，屬名Pleurotus意為「側生之耳」；種小名tuber-regium意為「王者之塊莖」，指其碩大之地下菌核。蓋漏斗狀至中央下陷、淡褐色；菌褶延生；柄中生而長；於南洋杉枯木或鄰近土中形成一大型之菌核（可供食藥用），由菌核再生出子實體。子實體可能會在南洋杉枯木或相鄰的土壤中形成菌核。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -173,5 +173,5 @@
    "src": "https://static.inaturalist.org/photos/15398536/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -2,7 +2,7 @@
  "genus": "Coccomyces",
  "name": "delta",
  "date": [
-  "01/01/0001"
+  "03/24/2021,3630013457109059"
  ],
  "names_zhtw": [
   "三角形齒裂菌"
@@ -79,7 +79,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "記錄於牛樟枯葉上。",
+  "Note": "三角形齒裂菌，屬名Coccomyces為齒裂菌之屬；種小名delta意為「三角形的」，指其子座之外形。子座埋生於葉組織中、俯視呈三角形，成熟後沿邊以齒瓣狀開裂而露出子實層；紀錄於牛樟之枯葉上。記錄於牛樟枯葉上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -91,5 +91,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58712937/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

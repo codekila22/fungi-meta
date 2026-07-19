@@ -125,8 +125,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "webby",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,6",
   "StalkLengthRangeValuess": "25,60",
@@ -140,7 +140,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅鱗絲膜菌，種小名bolaris意為「似土塊的」。蓋淡黃底而密被磚紅至橙紅色之貼伏鱗片（本種最醒目特徵），菌褶初淡而轉鏽褐，柄亦被紅色鱗、具蛛網狀菌幕殘餘，肉傷處變黃，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -152,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/49533956/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

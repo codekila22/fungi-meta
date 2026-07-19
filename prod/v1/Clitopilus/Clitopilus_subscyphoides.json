@@ -162,8 +162,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
+  "StalkLengthRangeValuess": "20,50",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "summer",
@@ -175,7 +175,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hemimycena ignobilis,Clitopilus scyphoides,",
-  "Note": "",
+  "Note": "近杯狀斜蓋傘，種小名subscyphoides意為「近似杯狀的」，指菌蓋中央下凹成淺杯。蓋白至灰白而小型、中凹，菌褶延生、白色轉粉紅，柄常偏生，孢子印粉紅，生於林地腐植質。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "透白半小菇,杯狀斜蓋傘,",
   "la_zhcn": "透白半小菇,杯状斜盖伞,"
@@ -189,5 +189,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

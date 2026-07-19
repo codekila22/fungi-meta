@@ -438,7 +438,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "8,23",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -458,8 +458,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "10,45",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "parasitic,fruit",
@@ -469,7 +471,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "真菌寄生於桑椹果實上使其變成灰白色(桑椹腫果病)，盤菌子實體有黑色菌核。",
+  "Note": "桑實杯盤菌，種小名shiraiana紀念日本植物病理學家白井光太郎。子囊盤漏斗狀至杯狀、具細長之柄、淺褐至褐色，自埋於土中、菌核化之乾縮桑椹萌發而出，為春季桑園常見之子囊菌。真菌寄生於桑椹果實上使其變成灰白色(桑椹腫果病)，盤菌子實體有黑色菌核。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -481,5 +483,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/262976676/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

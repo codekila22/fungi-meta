@@ -83,7 +83,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "此物種寄生在鼠李屬(Rhamnus sp.)植物上。"
+  "Note": "冠柄銹菌，屬名Puccinia為柄銹菌之屬；種小名coronata意為「具冠的」，指其冬孢子頂端之冠狀突起。為冠銹病之病原，需轉主寄生：於禾草上形成橙色夏孢子堆，於鼠李屬（Rhamnus）上形成春孢子器。此物種寄生在鼠李屬(Rhamnus sp.)植物上。"
  },
  "inaturalist": [
   {
@@ -113,14 +113,7 @@
    "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/1006689-Puccinia-coronata-avenae",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109565076/thumb.jpg"
-  },
-  {
-   "name": "Puccinia coronata var. holci",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/1586782-Puccinia-coronata-holci",
-   "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

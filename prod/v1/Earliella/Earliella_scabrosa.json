@@ -535,7 +535,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,3",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -545,8 +545,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,60",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -556,7 +558,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "粗硬春孔菌，貝殼形，表面漸披紅褐色殼皮而具白邊，生於闊葉樹枯木上。屬名Earliella紀念美國真菌學家F. S. Earle，種小名scabrosa意為「粗糙的」，指其表面之粗澀質感。子實體平伏至具帽緣、革質至木栓質而堅韌；孔面白至奶油色，孔口圓形、長角形至略呈迷宮狀；為熱帶及亞熱帶闊葉樹枯木上常見之一年生多孔菌。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -568,5 +570,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27689893/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

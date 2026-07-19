@@ -48,6 +48,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "100,650",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -58,7 +59,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "藥用擬層孔菌，種小名officinalis意為「藥用的、藥鋪的」，指其自古入藥之用途。子實體多年生、大型、蹄形至柱狀而下垂，白至淡黃、表面粉筆質而具環帶並隨齡龜裂，肉白而軟木栓質、味極苦，專生於落葉松等針葉樹之老齡活立木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -70,5 +71,5 @@
    "src": "https://static.inaturalist.org/photos/772008/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

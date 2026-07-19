@@ -56,7 +56,7 @@
  ],
  "meta": {
   "CapColors": "4294309365,4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -71,11 +71,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "30,130",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -87,7 +87,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白黑紅菇，種小名albonigra意為「白而黑的」，指其白色子實體傷後與老熟時直接轉黑。蓋白色後漸黑、凸形而後成漏斗形、有時黏滑，菌褶白色，柄白而基部漸帶灰赭，全體受傷不經紅色階段而逕自變黑，為與近似種區別之要點，外生菌根生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -99,5 +99,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12705358/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

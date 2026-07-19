@@ -249,7 +249,7 @@
  ],
  "meta": {
   "CapColors": "4293302630,4288696877",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -259,7 +259,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -269,6 +269,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -279,7 +280,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "粗糙擬迷孔菌，扇形托架具同心環帶紅褐、孔面迷宮狀至褶狀傷變紅，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -291,18 +292,18 @@
    "src": "https://static.inaturalist.org/photos/242695040/thumb.jpg"
   },
   {
-   "name": "Daedaleopsis tricolor",
+   "name": "Daedaleopsis confragosa tricolor",
    "cname": "",
    "cname_zh": "三色擬迷孔菌",
-   "url": "https://www.inaturalist.org/taxa/940416-Daedaleopsis-tricolor",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108638089/thumb.jpeg"
+   "url": "https://www.inaturalist.org/taxa/154745",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108638089/square.jpeg"
   },
   {
-   "name": "Daedaleopsis confragosa sibirica",
+   "name": "Daedaleopsis septentrionalis",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/154743-Daedaleopsis-confragosa-sibirica",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/68439548/thumb.jpeg"
+   "url": "https://www.inaturalist.org/taxa/499999",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22632505/square.jpeg"
   },
   {
    "name": "Daedaleopsis confragosa confragosa",
@@ -310,21 +311,7 @@
    "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/154744-Daedaleopsis-confragosa-confragosa",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/266883/thumb.jpg"
-  },
-  {
-   "name": "Daedaleopsis confragosa var. bulliardii",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/154747-Daedaleopsis-confragosa-bulliardii",
-   "src": ""
-  },
-  {
-   "name": "Daedaleopsis confragosa var. rubescens",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/154748-Daedaleopsis-confragosa-rubescens",
-   "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

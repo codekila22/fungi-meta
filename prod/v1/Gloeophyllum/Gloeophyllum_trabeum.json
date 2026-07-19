@@ -2,7 +2,7 @@
  "genus": "Gloeophyllum",
  "name": "trabeum",
  "date": [
-  "01/01/0001"
+  "12/08/2016,3708823839228020"
  ],
  "names_zhtw": [
   "密黏褶菌"
@@ -58,6 +58,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -67,7 +69,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於針葉木枯木上。",
+  "Note": "密黏褶菌，屬名Gloeophyllum意為「膠質之褶」，指其褶片狀之子實層；種小名trabeum意為「梁木的」，指其生於木料之習性。子實體薄、革質、褐色、覆瓦狀；子實層為緻密之褶片狀至迷宮狀；引起木材褐腐，生於針葉樹枯木及廢棄木料上。生長於針葉木枯木上，平地可見生長在廢棄針葉木建材上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -79,5 +81,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340916/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

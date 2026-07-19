@@ -2,6 +2,7 @@
  "genus": "Tricholomopsis",
  "name": "humboldtii",
  "date": [
+  "07/13/2026,27571278522555884",
   "08/26/2025,24264132686603834",
   "10/13/2024,8340247496085608",
   "06/28/2023,6139225282854518",
@@ -100,6 +101,50 @@
   {
    "author": "吳湯姆",
    "image_src": "Tricholomopsis_humboldtii_1e4e95f0-8d42-11f0-9bd0-f5d38e147848_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_humboldtii_27571278522555884_3c7ae630-7f29-11f1-8846-c3182a86bd03_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -107,7 +152,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294956800,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -122,15 +167,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,12",
+  "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -138,7 +185,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "洪堡擬口蘑，種小名humboldtii紀念博物學家洪堡（Humboldt）。蓋被紫紅至暗紅色細鱗而底色鮮黃，菌褶黃色，柄黃色具細鱗，生於針葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -150,5 +197,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/129552134/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

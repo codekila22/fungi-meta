@@ -120,7 +120,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -136,10 +136,10 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,8",
+  "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -151,7 +151,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "條環小脆柄菇，種小名longistriata意為「具長條紋的」，指菌蓋緣之長溝紋。蓋褐色而濕時緣具長溝紋，菌褶褐轉暗，柄白且具一明顯之膜質環（本屬中少見），生於針葉林落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -170,5 +170,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -335,7 +335,7 @@
  ],
  "meta": {
   "CapColors": "4292786311,4288244511",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -350,8 +350,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -365,7 +365,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "栗褐斗菇，褐色硬革質香菇屬，帽漏斗形被細鱗，菌褶延生鋸齒狀，柄偏生，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -377,5 +377,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/256569723/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

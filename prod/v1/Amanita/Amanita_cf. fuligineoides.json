@@ -126,8 +126,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "8,15",
   "StalkLengthRangeValuess": "100,140",
@@ -142,10 +142,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita fuliginea,,",
-  "Note": "跟相似種比較，此種個體較為大型。",
+  "Note": "疑似擬灰花紋鵝膏，種小名fuligineoides意為「似灰花紋鵝膏（A. fuliginea）的」，指其煙灰色之外觀。蓋灰褐至近黑、被放射狀纖絲而現花紋、較相似種為大型；菌褶白色；柄具菌環，基部具白色袋狀之菌托。跟相似種比較，此種個體較為大型。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "灰花紋鵝膏,,",
   "la_zhcn": "灰花纹鹅膏,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

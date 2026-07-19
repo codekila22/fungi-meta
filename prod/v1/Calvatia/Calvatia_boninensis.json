@@ -164,6 +164,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "40,120",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -174,7 +175,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "栗粒皮禿馬勃，種小名boninensis指模式產地日本小笠原（Bonin）群島。子實體近球形至倒卵形、外皮被栗粒狀顆粒或疣，成熟後上部破裂散出褐色孢子，地生於林地草地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -186,5 +187,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155107439/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

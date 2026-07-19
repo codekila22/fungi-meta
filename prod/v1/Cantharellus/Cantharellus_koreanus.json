@@ -2,6 +2,7 @@
  "genus": "Cantharellus",
  "name": "koreanus",
  "date": [
+  "07/16/2026,27617059671311102",
   "07/03/2026,27456654970684907",
   "06/30/2026,27419079687775769",
   "08/07/2025,24214576111559492",
@@ -156,6 +157,38 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Cantharellus_koreanus_bcac9630-76ed-11f1-9862-b327dcab099d_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_27617059671311102_ee16c2f0-8236-11f1-ac4a-ade10d7cc60c_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_27617059671311102_ee16c2f0-8236-11f1-ac4a-ade10d7cc60c_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_27617059671311102_ee16c2f0-8236-11f1-ac4a-ade10d7cc60c_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_27617059671311102_ee16c2f0-8236-11f1-ac4a-ade10d7cc60c_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_27617059671311102_ee16c2f0-8236-11f1-ac4a-ade10d7cc60c_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_27617059671311102_ee16c2f0-8236-11f1-ac4a-ade10d7cc60c_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_27617059671311102_ee16c2f0-8236-11f1-ac4a-ade10d7cc60c_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cantharellus_koreanus_27617059671311102_ee16c2f0-8236-11f1-ac4a-ade10d7cc60c_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -163,7 +196,7 @@
  ],
  "meta": {
   "CapColors": "4294967040,4294956800",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "8,28",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -181,9 +214,9 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "StalkDiamRangeValuess": "1,5",
+  "StalkLengthRangeValuess": "12,35",
+  "HeightRangeValuess": "30,80",
   "Rareness": "",
   "Elevation": "low",
   "Tropical": "no",
@@ -196,7 +229,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "韓國雞油菌，種小名koreanus指模式產地韓國。蓋橙黃色漏斗形、緣波狀捲曲，下表面為分叉稜脊狀假菌褶延生（非真菌褶），柄同色，外生菌根生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -208,5 +241,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

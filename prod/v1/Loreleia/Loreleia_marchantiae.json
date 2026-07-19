@@ -65,7 +65,7 @@
  ],
  "meta": {
   "CapColors": "4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0,10",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -80,8 +80,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -96,7 +96,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "此屬真菌和地錢屬Marchantia苔蘚生長在一起。",
+  "Note": "地錢羅勒菇，屬名Loreleia為老傘類之一屬；種小名marchantiae意為「地錢屬（Marchantia）的」，指其常與地錢共生。子實體微小、蓋橙色、凸至中央下陷；菌褶延生；柄細；常與地錢屬苔蘚生長在一起。此屬真菌和地錢屬Marchantia苔蘚生長在一起。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -108,5 +108,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/406835973/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

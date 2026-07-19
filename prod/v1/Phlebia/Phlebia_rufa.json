@@ -122,7 +122,7 @@
  ],
  "meta": {
   "CapColors": "4292072403,4292664540",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -142,6 +142,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0.5,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -152,7 +153,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅褐射脈菌，種小名rufa意為「紅褐色的」，指子實層色澤。子實體平伏於枯木、子實層淡紅褐至橙褐、具放射狀脈紋與淺褶皺，蠟質，緣色淡，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -164,5 +165,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29198983/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

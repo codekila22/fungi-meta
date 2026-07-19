@@ -206,6 +206,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -215,7 +217,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "硫色木黴菌為無性世代，而硫色肉座菌為其有性世代。"
+  "Note": "硫色木黴菌，屬名Trichoderma意為「毛皮」；種小名sulphureum意為「硫黃色的」，指其鮮黃之色澤。為硫色肉座菌之無性世代，於腐木上形成硫黃色之子座與分生孢子層；生於闊葉樹枯木上。硫色木黴菌為無性世代，而硫色肉座菌為其有性世代。"
  },
  "inaturalist": [
   {
@@ -226,5 +228,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/47463035/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

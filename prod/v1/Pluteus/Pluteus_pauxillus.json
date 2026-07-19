@@ -339,8 +339,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -355,7 +355,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌褶有點狀鑲邊，幼菌深咖啡色，然后逐漸變淡。",
+  "Note": "點褶光柄菇，種小名pauxillus意為「極小的」，指其微小之身形。蓋小、褐至暗褐色、幼時深咖啡色而後褪淡；菌褶離生、初白後轉粉紅、邊緣具深色點狀鑲邊；柄纖細；孢子印粉紅色；生於腐木上。菌褶有點狀鑲邊，幼菌深咖啡色，然后逐漸變淡。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -367,5 +367,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

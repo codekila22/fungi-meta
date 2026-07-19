@@ -319,7 +319,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -338,7 +338,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "60,100",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "60,100",
   "Rareness": "",
   "Seasons": "spring,summer",
   "GrowthType": "singly,scattered",
@@ -349,7 +350,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "鹿花菌，帽紅褐至暗褐、表面皺曲似腦，柄白短中空，春季生於針葉林砂地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -361,5 +362,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865611/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

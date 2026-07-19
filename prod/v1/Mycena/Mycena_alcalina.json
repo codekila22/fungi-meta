@@ -188,8 +188,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "2,3",
   "StalkLengthRangeValuess": "30,80",
@@ -203,7 +203,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "有碘的味道。",
+  "Note": "鹼味小菇，屬名Mycena指其小菇之屬；種小名alcalina意為「鹼性的」，指其所帶之含氮（鹼、碘仿）氣味。蓋圓錐至鐘形、灰褐色、具條紋；菌褶淡色；柄纖細；折傷或搓揉時具碘仿般之氣味；生於針葉樹腐木上。有碘的味道。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -215,5 +215,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23404951/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -2,7 +2,7 @@
  "genus": "Diderma",
  "name": "niveum",
  "date": [
-  "01/01/0001"
+  "03/29/2021,3646684382108633"
  ],
  "names_zhtw": [
   "雪白雙皮黏菌"
@@ -58,7 +58,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "雪白雙皮黏菌，屬名Diderma意為「雙層之皮」，指其兩層之周皮；種小名niveum意為「雪白的」。孢子囊近球形、雪白色、含石灰、外周皮較硬；生於高山之落葉與苔上，為一種黏菌。"
  },
  "inaturalist": [
   {
@@ -69,5 +69,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/179160275/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

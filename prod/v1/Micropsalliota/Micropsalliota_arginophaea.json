@@ -74,6 +74,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "ground",
@@ -83,8 +85,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "棕色小蘑菇，屬名Micropsalliota意為「小型之蘑菇」；種小名arginophaea意指其暗棕之色調。子實體纖小；蓋棕褐色、被細鱗；菌褶離生、由白轉暗褐；柄具小菌環；地生於林下。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

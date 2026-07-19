@@ -75,7 +75,7 @@
  ],
  "meta": {
   "CapColors": "4294951115,4293313475,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -105,7 +105,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "玫瑰暗銀耳，種小名roseotincta意為「染玫瑰色的」，指其粉紅色調。子實體膠質、粉紅至淡粉褐、呈海藻狀而具分枝波曲之葉狀體，乾後皺縮，生於闊葉樹之枯死附枝與新落枝上，為寄生於其他真菌之膠質菌。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -117,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24571224/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

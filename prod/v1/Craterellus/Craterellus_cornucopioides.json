@@ -2,6 +2,7 @@
  "genus": "Craterellus",
  "name": "cornucopioides",
  "date": [
+  "07/17/2026,27624933377190398",
   "06/06/2025,9881470478629961",
   "06/20/2024,7566350580141974",
   "05/19/2024,7389319124511788",
@@ -151,6 +152,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Craterellus_cornucopioides_87cc15f0-4b63-11f0-99e3-1dff9a20893d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Craterellus_cornucopioides_27624933377190398_83344d60-827a-11f1-b205-db611c601ea1_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Craterellus_cornucopioides_27624933377190398_83344d60-827a-11f1-b205-db611c601ea1_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Craterellus_cornucopioides_27624933377190398_83344d60-827a-11f1-b205-db611c601ea1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Craterellus_cornucopioides_27624933377190398_83344d60-827a-11f1-b205-db611c601ea1_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Craterellus_cornucopioides_27624933377190398_83344d60-827a-11f1-b205-db611c601ea1_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Craterellus_cornucopioides_27624933377190398_83344d60-827a-11f1-b205-db611c601ea1_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -178,7 +203,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "20,50",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,150",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -191,7 +216,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰黑喇叭菌，種小名cornucopioides意為「似豐饒之角（cornucopia）」，喻其喇叭狀。子實體管狀漏斗形而中空、上表面黑至暗灰、下表面淺灰具脈狀稜脊（非真菌褶），外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -210,31 +235,10 @@
    "src": ""
   },
   {
-   "name": "Craterellus cornucopioides var. mediosporus",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/48604-Craterellus-cornucopioides-mediosporus",
-   "src": ""
-  },
-  {
    "name": "Craterellus cornucopioides var. flavicans",
    "cname": "",
    "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48605-Craterellus-cornucopioides-flavicans",
-   "src": ""
-  },
-  {
-   "name": "Craterellus cornucopioides var. multiplex",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/48606-Craterellus-cornucopioides-multiplex",
-   "src": ""
-  },
-  {
-   "name": "Craterellus cornucopioides var. parvisporus",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/48608-Craterellus-cornucopioides-parvisporus",
    "src": ""
   },
   {
@@ -243,14 +247,7 @@
    "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/48609-Craterellus-cornucopioides-cornucopioides",
    "src": ""
-  },
-  {
-   "name": "Craterellus cornucopioides var. crispus",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/48610-Craterellus-cornucopioides-crispus",
-   "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/08/2026,27549861788030891",
   "06/30/2026,27433817072968697",
   "06/11/2025,9858112704299072",
   "04/08/2025,9357420714368276",
@@ -260,6 +261,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_battarrae_50bbaa40-75e6-11f1-bdb9-0b06595e64af_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_27549861788030891_11a00830-7d8c-11f1-8436-55845346a773_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_27549861788030891_11a00830-7d8c-11f1-8436-55845346a773_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_27549861788030891_11a00830-7d8c-11f1-8436-55845346a773_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_27549861788030891_11a00830-7d8c-11f1-8436-55845346a773_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_battarrae_27549861788030891_11a00830-7d8c-11f1-8436-55845346a773_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -289,7 +310,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "8,18",
   "StalkLengthRangeValuess": "70,150",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -299,7 +323,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黑灰鵝膏，灰褐色無環鵝膏（鵝膏亞屬Vaginatae），帽緣具溝紋、灰帶狀，柄具灰色鞘狀菌托，無環，林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -311,5 +335,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/151475816/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

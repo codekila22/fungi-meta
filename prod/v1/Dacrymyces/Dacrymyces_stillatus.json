@@ -40,7 +40,7 @@
  ],
  "meta": {
   "CapColors": "4294937600,4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,5",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -70,7 +70,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "滴流花耳，種小名stillatus意為「滴落的」，指其膠質子實體遇濕膨脹而如水滴垂懸。子實體為3–5mm之小膠球，隨菌齡由黃、赭轉至深橙色，基部具極短之柄（1–3mm），群生於針葉樹之無皮枯木與加工木材上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -82,5 +82,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5337/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

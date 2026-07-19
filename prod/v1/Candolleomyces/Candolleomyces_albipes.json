@@ -2,6 +2,7 @@
  "genus": "Candolleomyces",
  "name": "albipes",
  "date": [
+  "07/16/2026,27604474259236310",
   "12/11/2025,25224341447249615",
   "06/06/2025,9806654929444850",
   "04/10/2025,9377768569000157",
@@ -318,6 +319,34 @@
   {
    "author": "徐秀團",
    "image_src": "Candolleomyces_albipes_1a319ce0-d7ef-11f0-b7a6-453084ed25e7_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27604474259236310_2e9b1440-8109-11f1-96ce-a196742d6eab_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27604474259236310_2e9b1440-8109-11f1-96ce-a196742d6eab_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27604474259236310_2e9b1440-8109-11f1-96ce-a196742d6eab_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27604474259236310_2e9b1440-8109-11f1-96ce-a196742d6eab_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27604474259236310_2e9b1440-8109-11f1-96ce-a196742d6eab_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27604474259236310_2e9b1440-8109-11f1-96ce-a196742d6eab_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27604474259236310_2e9b1440-8109-11f1-96ce-a196742d6eab_7.jpg"
   }
  ],
  "synonym": [
@@ -347,8 +376,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -363,7 +392,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白足坎多氏菌，帽蜜褐轉淡、緣具膜質幕殘片，柄白色中空，叢生於腐木周邊。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -375,5 +404,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157106326/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

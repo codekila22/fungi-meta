@@ -336,7 +336,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "central,eccentric",
   "StalkColors": "",
   "StalkTexture": "",
@@ -346,7 +346,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "25,50",
   "Rareness": "rare",
   "Seasons": "spring,winter",
   "GrowthType": "singly,scattered",
@@ -357,7 +357,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Polyporus arcularius,,",
-  "Note": "",
+  "Note": "冬生多孔菌，帽黃褐至暗褐、圓形中凹，孔面白色延生，中生柄，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -371,5 +371,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/105492274/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -146,7 +146,7 @@
  ],
  "meta": {
   "CapColors": "4294956800",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.3,1.5",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -166,6 +166,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0.5,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -176,7 +177,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "瘤狀粒毛盤菌，種小名oncospermatum意為「瘤狀孢子的」。子實體微小盤狀、具細柄、外緣密被白色細毛、盤面白至淡黃，群生於棕櫚與木本之落葉枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -188,5 +189,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/610115458/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

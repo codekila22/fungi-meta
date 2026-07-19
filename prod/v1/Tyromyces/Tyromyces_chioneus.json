@@ -61,7 +61,7 @@
  ],
  "meta": {
   "CapColors": "4294309365",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -71,7 +71,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "3,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -81,6 +81,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -91,7 +92,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "雪白乾酪菌，種小名chioneus源自希臘文chion（雪），意為「雪白的」。子實體半圓至扇形之無柄托架，上表面初純白、老熟轉黃或灰、平滑至被絨，孔面白至奶油色、孔圓至角形，肉幼時軟而多汁、乾後變硬而脆，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -103,5 +104,5 @@
    "src": "https://static.inaturalist.org/photos/5335405/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

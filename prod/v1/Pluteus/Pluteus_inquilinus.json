@@ -52,7 +52,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -67,11 +67,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "25,30",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -83,7 +83,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "寄居光柄菇，種小名inquilinus意為「寄居者」，指其寄居於他種植物殘體之習性。蓋10–30mm、初半球形後平展；柄25–30mm、粗2–4mm、與蓋同色，基部常呈球莖狀膨大。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -95,5 +95,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28753574/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

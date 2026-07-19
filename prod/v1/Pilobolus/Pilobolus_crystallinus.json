@@ -162,8 +162,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "2,4",
   "Rareness": "",
+  "Elevation": "low,mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "stool",
@@ -173,7 +175,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Pilobolus cf. umbonatus,,",
-  "Note": "",
+  "Note": "結晶水玉黴，屬名Pilobolus意為「擲帽者」，指其能將孢子囊彈射而出；種小名crystallinus意為「晶瑩的」，指其透明如水晶之下囊。孢囊柄具一透明膨大之下囊、頂載黑色之孢子囊，成熟後受光而將孢子囊彈出；為專一之糞生菌，僅生於新鮮之草食動物糞便上。屬於專一性的糞生真菌。它們只生長在新鮮的草食性哺乳動物糞便上（例如馬糞、牛糞、兔糞）。",
   "la_zhtw": "疑似乳突水玉黴,,",
   "la_zhcn": "疑似乳突水玉霉,,"
  },
@@ -186,12 +188,12 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1312642/thumb.jpg"
   },
   {
-   "name": "Pilobolus lentiger var. lentiger",
+   "name": "Pilobolus lentiger",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/332897-Pilobolus-lentiger-lentiger",
-   "src": ""
+   "url": "https://www.inaturalist.org/taxa/1659142",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/514983547/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

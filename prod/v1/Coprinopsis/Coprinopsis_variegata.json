@@ -258,8 +258,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "40,100",
@@ -273,7 +273,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "鱗狀墨汁擬鬼傘，帽被氈狀白黃斑鱗、灰褐具溝紋，成熟自溶，基部具索狀菌絲，叢生於腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -285,5 +285,5 @@
    "src": "https://static.inaturalist.org/photos/12743586/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

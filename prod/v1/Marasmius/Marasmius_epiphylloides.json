@@ -67,10 +67,10 @@
   "StalkColors": "",
   "StalkTexture": "velvety",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "0.1,0.6",
   "StalkLengthRangeValuess": "5,15",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -83,7 +83,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "類葉生小皮傘，種小名epiphylloides意為「似葉生小皮傘（M. epiphyllus）的」。蓋極小、0.5–9mm、白至淡黃；菌褶稀疏；柄纖細、2.5–15mm長、僅0.1–0.6mm粗，專生於常春藤等之落葉與葉脈上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -95,5 +95,5 @@
    "src": "https://static.inaturalist.org/photos/97044582/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

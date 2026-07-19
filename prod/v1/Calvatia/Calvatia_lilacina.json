@@ -209,8 +209,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "50,150",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground,meadow",
@@ -220,7 +222,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Calvatia cyathiformis,,",
-  "Note": "平地草坪上雨後常見，它只有菌肉白色時才可食用。",
+  "Note": "紫色禿馬勃，屬名Calvatia為禿馬勃之屬；種小名lilacina意為「淡紫丁香色的」，指其孢粉之紫色。子實體大、近球形至陀螺形、白至淡褐；成熟後內部之產孢組織轉為紫至紫褐色，並由頂部崩解散出孢粉；雨後常見於平地草坪。平地草坪上雨後常見，它只有菌肉白色時才可食用。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "杯形禿馬勃,,",
   "la_zhcn": "杯形秃马勃,,"
@@ -234,5 +236,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/135197871/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -275,11 +275,16 @@
   "StalkAttachment": "central",
   "StalkColors": "4294967295",
   "StalkTexture": "smooth",
+  "StalkHollow": "",
   "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "equal",
   "StalkDiamRangeValuess": "12,20",
   "StalkLengthRangeValuess": "40,60",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground,meadow",
@@ -289,7 +294,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "與市售食用洋菇外觀與口味相近。",
+  "Note": "野蘑菇，屬名Agaricus為蘑菇之屬；種小名campestris意為「田野的」，指其常生於草地之習性。蓋白色、平滑至略被纖絲；菌褶初粉紅後轉巧克力褐色、離生；柄白、具一膜質菌環；群生於牧場與草地。與市售食用洋菇外觀與口味相近。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -301,5 +306,5 @@
    "src": "https://static.inaturalist.org/photos/5416073/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

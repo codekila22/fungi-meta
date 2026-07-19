@@ -107,8 +107,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,25",
+  "StalkLengthRangeValuess": "20,80",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "spring,summer,autumn,winter",
@@ -120,7 +120,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Lactarius akahatsu,,",
-  "Note": "喜愛生長在松樹旁。受傷部位會呈現青綠色。",
+  "Note": "松乳菇，屬名Lactarius意為「產乳的」；種小名deliciosus意為「美味的」。蓋橙色而具同心環紋、中央常下凹；菌褶延生、橙色；傷後湧出橙色乳汁、受傷處轉青綠色；與松樹共生為外生菌根菌。喜愛生長在松樹旁。受傷部位會呈現青綠色。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -190,5 +190,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -690,7 +690,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4283244288,4286578816",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,90",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -710,8 +710,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,90",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -721,7 +723,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Auricularia heimuer,Auricularia villosula,",
-  "Note": "台灣的毛木耳經研究後應為此物種，而非之前描述的 A. nigricans。",
+  "Note": "毛木耳，種小名cornea意為「角質的」，指其乾後硬如角質之膠質質地。子實體耳狀至杯狀、膠質而富彈性，上表面被灰褐色絨毛，下表面之子實層平滑而紫褐，乾後強烈皺縮變硬；生於闊葉樹枯木上，為亞洲廣泛栽培之菇蕈。台灣的毛木耳經研究後應為此物種，而非之前描述的 A. nigricans。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "黑木耳,短毛木耳,",
   "la_zhcn": "黑木耳,短毛木耳,"
@@ -735,5 +737,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28895640/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

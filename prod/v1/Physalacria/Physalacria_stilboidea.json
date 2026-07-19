@@ -106,7 +106,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "1,4",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -126,7 +126,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "3,12",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -137,7 +137,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "類束梗孢膨瑚菌，種小名stilboidea意為「似束梗孢（Stilbum）的」，指其外形似無性世代之束梗孢。子實體微小白色、頂端膨大呈中空球狀而柄細，群生於腐木落枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -149,5 +149,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1812638/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

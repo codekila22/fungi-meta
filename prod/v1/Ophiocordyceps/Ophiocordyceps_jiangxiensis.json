@@ -135,7 +135,7 @@
  ],
  "meta": {
   "CapColors": "4292786311,4291998860,4287609999",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,8",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -155,8 +155,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "45,80",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "yes",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "parasitic",
@@ -166,7 +168,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "寄主為叩頭蟲的幼蟲。台灣高雄柴山地區曾有紀錄，目前資料庫皆為香港紀錄。"
+  "Note": "江西蟲草，屬名Ophiocordyceps意為「蛇狀之棒頭」；種小名jiangxiensis意為「江西的」。子座柱狀而常分枝、通常自寄主頭部長出；本種寄生於叩頭蟲之幼蟲，為蟲生真菌。寄主為叩頭蟲的幼蟲，通常從寄主的頭部長出，呈現柱狀且常有分枝。\n目前資料庫皆為香港紀錄，台灣高雄柴山地區曾有紀錄。"
  },
  "inaturalist": [
   {
@@ -177,5 +179,5 @@
    "src": "https://static.inaturalist.org/photos/233331889/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

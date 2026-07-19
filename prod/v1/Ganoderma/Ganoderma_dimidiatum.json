@@ -84,7 +84,7 @@
  ],
  "meta": {
   "CapColors": "4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -94,7 +94,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "4,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -104,6 +104,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "30,150",
   "Rareness": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
@@ -114,7 +115,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紫芝，種小名dimidiatum意為「對半的」，指其半圓形之菌蓋。子實體木栓質、腎形至半圓形、上表面具紫黑至暗褐色之亮漆狀殼皮，孔面白至淡褐而孔口細密，柄側生，生於闊葉樹基部與根。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -126,5 +127,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -213,8 +213,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -231,7 +231,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Entoloma virescens,,",
-  "Note": "菌蓋表面有褐色纖維狀細鱗，菌體傷後變黃綠色。此物種以命名樣本發現地中國雲南西雙版納勐海縣勐宋鄉而名。",
+  "Note": "勐宋粉褶菌，屬名Entoloma意為「內捲之緣」；種小名mengsongense取自模式產地中國雲南西雙版納勐海縣勐宋鄉。蓋藍灰色、表面被褐色之纖維狀細鱗；菌褶粉褶菌屬特有之肉粉色；柄與蓋同色；菌體傷後變黃綠色。菌蓋表面有褐色纖維狀細鱗，菌體傷後變黃綠色。此物種以命名樣本發現地中國雲南西雙版納勐海縣勐宋鄉而名。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "變藍粉褶菌,,",
   "la_zhcn": "变蓝粉褶菌,,"
@@ -245,5 +245,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

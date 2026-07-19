@@ -2,6 +2,8 @@
  "genus": "Russula",
  "name": "senecis",
  "date": [
+  "07/16/2026,27604662295884173",
+  "07/13/2026,27592956460388090",
   "07/07/2026,27501594889524248",
   "06/28/2026,27426296497054088",
   "06/16/2026,27347606294923109",
@@ -281,6 +283,62 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Russula_senecis_f36e2ad0-7a03-11f1-bef5-4bf57cd7d16b_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27592956460388090_51120760-8049-11f1-ad19-23a1d6387027_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27592956460388090_51120760-8049-11f1-ad19-23a1d6387027_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27592956460388090_51120760-8049-11f1-ad19-23a1d6387027_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27592956460388090_51120760-8049-11f1-ad19-23a1d6387027_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27604662295884173_8e3d0b10-8109-11f1-96ce-a196742d6eab_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27604662295884173_8e3d0b10-8109-11f1-96ce-a196742d6eab_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27604662295884173_8e3d0b10-8109-11f1-96ce-a196742d6eab_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27604662295884173_8e3d0b10-8109-11f1-96ce-a196742d6eab_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27604662295884173_8e3d0b10-8109-11f1-96ce-a196742d6eab_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27604662295884173_89a9d1e0-810a-11f1-96ce-a196742d6eab_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27604662295884173_89a9d1e0-810a-11f1-96ce-a196742d6eab_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27604662295884173_89a9d1e0-810a-11f1-96ce-a196742d6eab_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27604662295884173_89a9d1e0-810a-11f1-96ce-a196742d6eab_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27604662295884173_89a9d1e0-810a-11f1-96ce-a196742d6eab_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -304,13 +362,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,10",
   "StalkLengthRangeValuess": "50,90",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -320,7 +380,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Russula foetens,,",
-  "Note": "菌柄上有褐色小疣點，會有一種臭味。",
+  "Note": "點柄黃紅菇，種小名senecis意為「老人的」，喻其皺縮暗黃之老態。蓋赭黃至污黃色、緣具瘤狀稜紋、質脆；菌褶奶油色而常具褐斑；柄污黃、表面具褐色疣點；具不快之氣味。菌柄上有褐色小疣點，會有一種臭味。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "臭紅菇,,",
   "la_zhcn": "臭红菇,,"
@@ -334,5 +394,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163088866/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

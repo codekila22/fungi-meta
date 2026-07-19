@@ -123,7 +123,7 @@
  ],
  "meta": {
   "CapColors": "4291581184,4294919424",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -143,7 +143,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,25",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -154,7 +154,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Trametes cinnabarinus,,",
-  "Note": "菌蓋較薄，表面帶有環紋。",
+  "Note": "血紅栓菌，屬名Trametes意指其栓質之子實體；種小名sanguinea意為「血紅色的」，正指其鮮紅之色澤。子實體薄、扇形至半圓、無柄、鮮橙紅至血紅色、蓋面具環紋；孔面亦紅、孔口細小；生於闊葉樹枯木上。菌蓋較薄，表面帶有環紋。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "朱紅栓菌,,",
   "la_zhcn": "朱红栓菌,,"
@@ -168,5 +168,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/78776854/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -2,6 +2,7 @@
  "genus": "Cantharellus",
  "name": "minor",
  "date": [
+  "07/17/2026,27625123303838072",
   "07/30/2025,23995824156768023",
   "09/02/2024,7988299857947042",
   "06/18/2024,7528595167250849"
@@ -111,6 +112,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Cantharellus_minor_4a00a3d0-6f53-11f0-b6f5-8185f0f09833_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_27625123303838072_4b314160-8280-11f1-b205-db611c601ea1_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_27625123303838072_4b314160-8280-11f1-b205-db611c601ea1_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_27625123303838072_4b314160-8280-11f1-b205-db611c601ea1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_minor_27625123303838072_4b314160-8280-11f1-b205-db611c601ea1_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -138,7 +155,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "2,8",
   "StalkLengthRangeValuess": "15,35",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "15,50",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -151,7 +168,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "小雞油菌，種小名minor意為「較小的」，指其為本屬中之小型種。子實體橙黃色、漏斗形而薄、緣波狀，下表面為分叉稜脊狀假菌褶延生（非真菌褶），柄細，外生菌根生於林地苔蘚間。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -170,5 +187,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/61880727/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

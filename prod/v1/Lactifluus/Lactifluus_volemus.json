@@ -285,8 +285,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "15,30",
   "StalkLengthRangeValuess": "60,100",
@@ -301,7 +301,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Lactifluus volemus var. flavus,,",
-  "Note": "受傷時會分泌多量的白色乳汁，味道有些辛辣。偶爾有個體為黃色的變種(Lactarius volemus var. flavus)。",
+  "Note": "多汁乳菇，屬名Lactifluus意為「流乳的」，指其傷後湧出之乳汁；種小名volemus指其豐盈（一說源自volema大梨）。蓋橙褐至赭褐色、乾而平滑；菌褶密、淡黃、延生；傷後湧出多量白色乳汁、味微辛，常帶魚腥氣味。受傷時會分泌多量的白色乳汁，味道有些辛辣。偶爾有個體為黃色的變種(Lactarius volemus var. flavus)。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "多汁乳菇黃色變種,,",
   "la_zhcn": "多汁乳菇黄色变种,,"
@@ -329,5 +329,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13065706/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

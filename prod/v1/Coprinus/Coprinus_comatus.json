@@ -355,13 +355,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "10,25",
   "StalkLengthRangeValuess": "20,140",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground,meadow",
@@ -371,7 +373,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "與含酒精食物一起食用會產生中毒反應。",
+  "Note": "毛頭鬼傘，屬名Coprinus意指其糞腐之習性；種小名comatus意為「具長髮的」，指其蓋面翹起如髮之大型鱗片。蓋初圓柱形、白色、被大型翻捲之鱗片、後鐘形而由緣墨化液化；菌褶密、初白後轉黑；柄白而中空、具一可移動之菌環。與含酒精食物一起食用會產生中毒反應。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -397,5 +399,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/96377303/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

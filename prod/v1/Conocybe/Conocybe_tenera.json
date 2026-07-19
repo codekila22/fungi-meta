@@ -87,10 +87,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "1,4",
   "StalkLengthRangeValuess": "35,70",
   "Rareness": "",
   "Seasons": "",
@@ -102,7 +102,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "柔錐蓋傘，種小名tenera意為「柔嫩纖弱的」，指其極脆弱之質地。蓋圓錐至凸形、平滑而橙褐、具溝紋幾達中心，菌褶狹附生、淡褐而老熟轉深，柄細長而等粗、中空、頂端被細粉、無菌環，孢子印鏽褐色，群生於草地與腐植質。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -114,5 +114,5 @@
    "src": "https://static.inaturalist.org/photos/5553532/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

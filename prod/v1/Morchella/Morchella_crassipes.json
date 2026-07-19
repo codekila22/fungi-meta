@@ -24,7 +24,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "80,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -44,7 +44,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "120,200",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -55,7 +55,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "此種菌柄較為粗壯。",
+  "Note": "粗柄羊肚菌，屬名Morchella為羊肚菌之屬；種小名crassipes由crassus（粗）與pes（足）組成，意為「粗柄的」，正指其粗壯之柄。子實體大，頭部蜂窩狀、具不規則之凹坑與稜脊、黃褐色；柄粗壯而中空、白色；地生於林地與河岸。此種菌柄較為粗壯。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -67,5 +67,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/185479950/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

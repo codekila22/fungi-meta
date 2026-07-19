@@ -316,7 +316,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -326,7 +329,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "分枝鵝絨黏菌，種小名與變種名fruticulosa意為「小灌木狀的」，指其分枝之外形。子實體白色、直立、反覆分枝如微小之樹叢；孢子外生於細梗頂端（外孢型黏菌）；為極常見之黏菌，生於腐木上。"
  },
  "inaturalist": [
   {
@@ -393,5 +396,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

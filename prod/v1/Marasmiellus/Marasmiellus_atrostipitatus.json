@@ -279,8 +279,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -295,7 +295,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Tetrapyrgos nigripes,,",
-  "Note": "此物種比相似種黑柄四角孢傘(Tetrapyrgos nigripes)小上一號。",
+  "Note": "小黑柄微皮傘，屬名Marasmiellus意為「小型的小皮傘」；種小名atrostipitatus由ater（黑）與stipes（柄）組成，意為「黑柄的」。子實體微小、白色，蓋膜質而具溝紋；菌褶疏；柄纖細而黑色；生於落葉與枯枝上。此物種比相似種黑柄四角孢傘(Tetrapyrgos nigripes)小上一號。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "黑柄四角孢傘,,",
   "la_zhcn": "黑柄四角孢伞,,"
@@ -309,5 +309,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

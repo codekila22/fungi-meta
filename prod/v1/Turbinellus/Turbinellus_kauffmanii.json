@@ -43,7 +43,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -61,12 +61,14 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "StalkDiamRangeValuess": "20,40",
+  "StalkLengthRangeValuess": "50,120",
+  "HeightRangeValuess": "80,400",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -74,7 +76,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Turbinellus fujisanensis,,",
-  "Note": "此種菌蓋上周圍的鱗片較粗。",
+  "Note": "考夫曼釘菇，屬名Turbinellus意為「小陀螺」，指其陀螺至喇叭狀之外形；種小名kauffmanii紀念美國真菌學家C. H. Kauffman。子實體陀螺至花瓶狀、中央深凹、被粗大之鱗片；下表面（子實層）具鈍脈狀之皺褶（非真菌褶）；與針葉樹共生為外生菌根菌。此種菌蓋上周圍的鱗片較粗。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "富士山毛釘菇,,",
   "la_zhcn": "富士山毛钉菇,,"
@@ -88,5 +90,5 @@
    "src": "https://static.inaturalist.org/photos/26142567/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

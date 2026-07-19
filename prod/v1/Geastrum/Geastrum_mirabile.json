@@ -192,7 +192,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "scattered,grouped",
@@ -203,7 +203,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Geastrum neoamericanum,,",
-  "Note": "",
+  "Note": "木生地星，種小名mirabile意為「奇妙的」。微小地星，外包被星狀開裂反捲成數瓣，孢囊球狀灰褐、具喙狀孔口，常生於苔蘚覆蓋之腐木上（異於多數地生之地星）。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "新美洲地星,,",
   "la_zhcn": "新美洲地星,,"
@@ -217,5 +217,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/140147615/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -258,7 +258,7 @@
  ],
  "meta": {
   "CapColors": "4290822336,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -278,7 +278,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -289,7 +289,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "篦齒地星，外包被星狀開裂7-10瓣反捲，孢囊球形具喙狀櫛齒孔緣、具短柄，林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -308,5 +308,5 @@
    "src": "https://static.inaturalist.org/photos/13009167/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

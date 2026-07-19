@@ -24,7 +24,7 @@
  ],
  "meta": {
   "CapColors": "4284635991,4286141768,4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -44,7 +44,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "50,130",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -55,7 +55,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "美洲叢耳菌，種小名americana意為「美洲的」，指其分布。子囊果匙形至兔耳形而直立、成叢自地下菌核長出，內表面深褐至紫褐、外表面色較淡而粗糙，緣常內捲，基部之菌核大型、不規則分葉而具內腔，生於闊葉林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -67,5 +67,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5775918/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -2,6 +2,7 @@
  "genus": "Pseudohydnum",
  "name": "gelatinosum",
  "date": [
+  "07/13/2026,27571332855883784",
   "06/12/2025,9881530598623949",
   "06/11/2025,9843834822393527",
   "09/05/2024,7985203004923394",
@@ -241,8 +242,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "20,70",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,debris",
@@ -252,7 +255,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於針葉木的枯枝倒木或腐殖質上，台灣也有不少生長在針葉木製作的步道枕木上。",
+  "Note": "虎掌假齒菌，屬名Pseudohydnum意為「假齒菌」，指其外形似齒菌而實為膠質菌；種小名gelatinosum意為「膠質的」。子實體膠質、半透明、舌狀至匙形、灰白至褐色、具短側柄；下表面密生柔軟之針齒；生於針葉樹腐木與枕木上。生長於針葉木的枯枝倒木或腐殖質上，台灣也有不少生長在針葉木製作的步道枕木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -278,5 +281,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

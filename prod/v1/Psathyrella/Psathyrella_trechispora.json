@@ -106,7 +106,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,40",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -121,11 +121,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
+  "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -137,8 +137,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "糙孢小脆柄菇，種小名trechispora意為「具疣狀孢子的」，指其孢子表面粗糙。蓋褐色而緣具菌幕殘片，菌褶褐轉暗，柄白細中空而易脆，孢子印暗褐，生於林地腐土與木屑。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

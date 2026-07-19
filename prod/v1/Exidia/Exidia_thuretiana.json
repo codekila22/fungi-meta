@@ -122,6 +122,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "2,10",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -132,7 +133,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體顏色灰白至褐黃色，外形多樣化，呈現墊狀或腦狀，天候乾燥會變硬、甚至縮成像塑膠質地。單個子實體直徑約0.2~1cm，隨著時間會生長到與相鄰的子實體融合，形成數公分寬的一大塊。",
+  "Note": "腦白膠耳，屬名Exidia為膠耳之屬；種小名thuretiana紀念法國藻類學家G. Thuret。子實體膠質、灰白至褐黃色、墊狀至腦回狀、天候乾燥時變硬乃至縮如塑膠質；單個子實體隨時間與相鄰者融合，形成寬達數公分之大塊；生於闊葉樹枯枝上。子實體顏色灰白至褐黃色，外形多樣化，呈現墊狀或腦狀，天候乾燥會變硬、甚至縮成像塑膠質地。單個子實體，隨著時間會生長到與相鄰的子實體融合，形成數公分寬的一大塊。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -144,5 +145,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6261089/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -240,7 +240,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "1,6",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,6",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "singly,scattered,grouped",
@@ -251,7 +252,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅白玫瑰盤菌，盤狀粉紅至白色、具短柄或近無柄，生於潮濕苔地或腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -263,5 +264,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249480340/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

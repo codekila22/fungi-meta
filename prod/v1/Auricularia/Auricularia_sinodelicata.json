@@ -75,8 +75,10 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -84,7 +86,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Auricularia delicata,,",
-  "Note": "它的子實層常呈現密集且明顯的網狀褶皺，並帶有隆起的白色皺脈，手摸觸感非常立體。",
+  "Note": "中國皺木耳，屬名Auricularia意為「耳狀」；種小名sinodelicata意為「中國之精緻者」。子實體耳狀至杯狀、膠質而富彈性、褐色；子實層常呈密集明顯之網狀褶皺、並帶隆起之白色皺脈而觸感立體；生於闊葉樹枯木上。它的子實層常呈現密集且明顯的網狀褶皺，並帶有隆起的白色皺脈，手摸觸感非常立體。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "皺木耳複合群,,",
   "la_zhcn": "皱木耳复合群,,"
@@ -98,5 +100,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/388627119/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

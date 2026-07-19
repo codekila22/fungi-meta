@@ -182,7 +182,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -197,13 +197,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,12",
+  "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -213,7 +215,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Chlorophyllum molybdites,,",
-  "Note": "此物種孢子印白色，與相似種綠褶菇的灰綠色不同，且此種傷後一分鐘內會快速變紅，約15分鍾後紅色會慢慢消失。",
+  "Note": "庭院綠褶菇，屬名Chlorophyllum意為「綠色的褶」；種小名hortense意為「庭園的」，指其常見於庭園之習性。蓋白至淡褐、被褐色鱗片；菌褶白色；柄具菌環；孢子印白色（有別於綠褶菇之灰綠），菌肉傷後迅速轉紅而後褪。此物種孢子印白色，與相似種綠褶菇的灰綠色不同，且此種傷後一分鐘內會快速變紅，約15分鍾後紅色會慢慢消失。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "綠褶菇,,",
   "la_zhcn": "绿褶菇,,"
@@ -227,5 +229,5 @@
    "src": "https://static.inaturalist.org/photos/30117443/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -206,7 +206,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4293951616",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,70",
   "CapShape": "fan",
   "CapTexture": "",
   "CapMargin": "",
@@ -224,8 +224,8 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,15",
+  "StalkLengthRangeValuess": "5,20",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,autumn,winter",
@@ -237,7 +237,7 @@
   "Smell": "mild",
   "Taste": "mild",
   "LookAlikes": "",
-  "Note": "此物種常見桃紅色與白色個體並存，白色可能是較老熟的時期，或是吸收了較多水份。",
+  "Note": "桃紅側耳，屬名Pleurotus意為「側生之耳」；種小名djamor源自馬來語對菇之俗稱。蓋扇形至匙形、桃紅至粉紅色（老熟或吸水後常褪為白色）；菌褶延生、與蓋同色；柄短而偏生；生於闊葉樹枯木上，廣為栽培。此物種常見桃紅色與白色個體並存，白色可能是較老熟的時期，或是吸收了較多水份。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -270,5 +270,5 @@
    "src": "https://static.inaturalist.org/photos/127650465/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

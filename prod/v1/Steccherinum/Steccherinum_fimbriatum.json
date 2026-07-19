@@ -91,7 +91,7 @@
  ],
  "meta": {
   "CapColors": "4294309365,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -111,6 +111,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,8",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -121,7 +122,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "毛緣齒耳菌，種小名fimbriatum意為「具緣毛的」，指其邊緣具明顯之纖毛狀菌絲索。子實體平伏於枯木、子實層被密集短軟刺、淡紫褐至粉褐色，緣具放射狀白色菌絲索，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -133,5 +134,5 @@
    "src": "https://static.inaturalist.org/photos/246400019/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

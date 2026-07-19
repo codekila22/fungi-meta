@@ -278,10 +278,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "8,20",
   "StalkLengthRangeValuess": "20,50",
   "Rareness": "occacional",
   "Seasons": "summer,autumn",
@@ -293,7 +293,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "喜好在松樹旁生長，有少量呈現暗紅色乳汁。菇體受傷或老時可能會呈青綠色。",
+  "Note": "紅汁乳菇，屬名Lactarius意為「產乳的」；種小名hatsudake取自日文俗名「初茸（ハツタケ）」。蓋橙紅色而具青綠色調與環紋；菌褶延生；傷後湧出暗紅色乳汁，菇體受傷或老熟時轉青綠；與松樹共生為外生菌根菌。喜好在松樹旁生長，有少量呈現暗紅色乳汁。菇體受傷或老時可能會呈青綠色。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -305,5 +305,5 @@
    "src": "https://static.inaturalist.org/photos/26203336/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

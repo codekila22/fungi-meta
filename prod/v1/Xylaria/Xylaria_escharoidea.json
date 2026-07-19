@@ -136,7 +136,7 @@
  ],
  "meta": {
   "CapColors": "4288768839,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,25",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -158,6 +158,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "80,160",
   "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
@@ -167,7 +169,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "芽孔炭角菌，種小名escharoidea意為「似痂的」，指其子座表面粗糙如結痂。子座棒狀至瘤狀直立、黑褐色而表面具明顯突起之子囊殼孔口，內裡白色，質炭硬，生於闊葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -179,5 +181,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

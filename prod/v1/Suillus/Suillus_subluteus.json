@@ -116,7 +116,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "central",
   "StalkColors": "",
   "StalkTexture": "",
@@ -137,7 +137,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Suillus luteus,Suillus grevillei,",
-  "Note": "此物種較褐環乳牛肝菌(Suillus luteus)小一號，菌環下方也是白色，喜好與五葉松共生。",
+  "Note": "褐黃乳牛肝菌，屬名Suillus意為「豬的」；種小名subluteus意為「略黃的」。蓋褐色、表面黏；孔面黃色；柄具腺點與一膜質菌環（環下白色）；體型較褐環乳牛肝菌小，喜與五葉松共生為外生菌根菌。此物種較褐環乳牛肝菌(Suillus luteus)小一號，菌環下方也是白色，喜好與五葉松共生。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "褐環乳牛肝菌,厚環乳牛肝菌,",
   "la_zhcn": "褐环乳牛肝菌,厚环乳牛肝菌,"
@@ -151,5 +151,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

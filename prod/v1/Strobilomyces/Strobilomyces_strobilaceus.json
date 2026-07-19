@@ -2,6 +2,8 @@
  "genus": "Strobilomyces",
  "name": "strobilaceus",
  "date": [
+  "07/09/2026,27549703401380063",
+  "05/23/2026,27582031268147276",
   "08/16/2025,24128303666853404",
   "06/07/2025,9812087242234952",
   "10/14/2024,8332564003520624",
@@ -231,6 +233,34 @@
   {
    "author": "徐秀團",
    "image_src": "Strobilomyces_strobilaceus_00c0a270-7b50-11f0-82e5-db829d3cb073_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_strobilaceus_27549703401380063_91a60a10-7db0-11f1-be9c-75df4a7b413f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_strobilaceus_27549703401380063_91a60a10-7db0-11f1-be9c-75df4a7b413f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_strobilaceus_27549703401380063_91a60a10-7db0-11f1-be9c-75df4a7b413f_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_strobilaceus_27582031268147276_27836620-7f75-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_strobilaceus_27582031268147276_27836620-7f75-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_strobilaceus_27582031268147276_27836620-7f75-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Strobilomyces_strobilaceus_27582031268147276_27836620-7f75-11f1-a6ae-2d91ec182952_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -248,18 +278,20 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "8,20",
   "StalkLengthRangeValuess": "80,120",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -269,7 +301,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Strobilomyces confusus,,",
-  "Note": "混淆松塔牛肝菌傘蓋的鱗片呈現翹鱗狀，這是其與松塔牛肝菌(Strobilomyces strobilaceus)伏貼鱗片的主要特徵差異之一。傷後先變紅再變黑。",
+  "Note": "松塔牛肝菌，屬名Strobilomyces意為「毬果狀之菇」，種小名strobilaceus意為「似毬果的」，皆指其蓋被角錐鱗如松毬。蓋被黑褐色之角錐狀鱗片、伏貼（有別於混淆松塔牛肝菌之翹鱗）；管孔白色、老時暗灰；柄具鱗；傷後先轉紅、後變黑。混淆松塔牛肝菌傘蓋的鱗片呈現翹鱗狀，這是其與松塔牛肝菌(Strobilomyces strobilaceus)伏貼鱗片的主要特徵差異之一。傷後先變紅再變黑。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "混淆松塔牛肝菌,,",
   "la_zhcn": "混淆松塔牛肝菌,,"
@@ -283,5 +315,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027090/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

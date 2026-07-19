@@ -2,10 +2,10 @@
  "genus": "Xeromphalina",
  "name": "tenuipes",
  "date": [
+  "06/13/2026,27547641101586293",
   "06/10/2026,27458132237203847",
   "04/17/2026,26460661083617639",
   "06/02/2025,9773763239400686",
-  "04/27/2025,9485303488246664",
   "04/11/2025,9383399085103772",
   "08/20/2024,7887062718070757",
   "06/07/2024,7469400926503607",
@@ -313,30 +313,6 @@
    "image_src": "Xeromphalina_tenuipes_b8bf2290-1811-11f0-ab49-c35dd08ad6ea_10.jpg"
   },
   {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_1.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_2.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_3.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_4.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_5.jpg"
-  },
-  {
-   "author": "吳湯姆",
-   "image_src": "Xeromphalina_tenuipes_5b446680-235f-11f0-a276-c5f0abdbe903_6.jpg"
-  },
-  {
    "author": "陳中城",
    "image_src": "Xeromphalina_tenuipes_72c2dc70-3f97-11f0-b098-e770e9f5cfbb_1.jpg"
   },
@@ -439,6 +415,18 @@
   {
    "author": "何俊霖",
    "image_src": "Xeromphalina_tenuipes_e87d9250-773d-11f1-a701-a9e2fb242c19_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Xeromphalina_tenuipes_27547641101586293_93d2fd70-7d06-11f1-a10a-9f31227dc601_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Xeromphalina_tenuipes_27547641101586293_93d2fd70-7d06-11f1-a10a-9f31227dc601_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Xeromphalina_tenuipes_27547641101586293_93d2fd70-7d06-11f1-a10a-9f31227dc601_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -447,7 +435,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,30",
   "CapShape": "",
   "CapTexture": "smooth",
   "CapMargin": "striated",
@@ -462,13 +450,15 @@
   "StalkColors": "",
   "StalkTexture": "velvety",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "yes",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
@@ -478,7 +468,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "台灣中南部平地丘陵低海拔地區紀錄。",
+  "Note": "細長柄干臍菇，屬名Xeromphalina由希臘文xeros（乾）與omphalos（臍）組成，指其乾韌而中央凹陷如臍之菌蓋；種小名tenuipes意為「細柄的」。蓋小、凸至臍狀凹陷、黃褐至橙褐色；菌褶延生、疏、黃色；柄細長、韌、暗褐色，基部被毛。台灣中南部平地丘陵低海拔地區紀錄。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -490,5 +480,5 @@
    "src": "https://static.inaturalist.org/photos/185988383/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

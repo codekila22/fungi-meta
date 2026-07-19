@@ -163,6 +163,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -173,7 +174,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "褐小球孢盤菌，種小名brunnea意為「褐色的」，指其盤面褐色。子實體微小盤狀、近無柄、盤面淡褐至橙褐、外緣被短毛，群生於火燒跡地與苗圃裸土，常與苗木根系共生。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -185,5 +186,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/25510747/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

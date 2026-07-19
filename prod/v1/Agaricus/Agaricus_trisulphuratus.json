@@ -379,7 +379,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,10",
   "StalkLengthRangeValuess": "80,120",
+  "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -389,7 +392,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "三硫色蘑菇，帽與柄密被橙紅至硫黃色粗鱗，具環，生於林地或竹林腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -401,5 +404,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112135801/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

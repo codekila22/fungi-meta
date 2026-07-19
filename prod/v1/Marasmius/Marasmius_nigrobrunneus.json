@@ -511,11 +511,11 @@
   "StalkColors": "4278190080",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "20,73",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -527,7 +527,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Marasmius nigrobrunneus f. cinnamomeus,,",
-  "Note": "生長於枯竹葉、枯柄上或其附近。\n\n菌褶的鑲邊色在剛開傘之時與老熟之後並不明顯，而菌褶的橫脈在菌傘越成熟越明顯。菌柄光滑的黑色。",
+  "Note": "黑褐小皮傘，種小名nigrobrunneus由niger（黑）與brunneus（褐）組成，意為「黑褐色的」，指其暗沉之體色。蓋小、半球至鐘形、具放射狀溝紋、紅褐至暗褐色；菌褶疏、白色而具橫脈；柄細長、光亮、角質而黑色如馬鬃。生長於枯竹葉、枯柄上或其附近。\n\n菌褶的鑲邊色在剛開傘之時與老熟之後並不明顯，而菌褶的橫脈在菌傘越成熟越明顯。菌柄光滑的黑色。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "黑褐小皮傘肉桂色型,,",
   "la_zhcn": "黑褐小皮伞肉桂色型,,"
@@ -541,5 +541,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

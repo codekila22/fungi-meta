@@ -274,13 +274,13 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "40,100",
@@ -295,7 +295,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "年輕時菌緣常掛有有殘餘物，老熟個體菌蓋可能會裂開，並顯露出黃色的菌肉。基本上不變色，但有些個體也許會傷變藍。",
+  "Note": "深紅條孢牛肝菌，屬名Boletellus意為「小牛肝菌」；種小名obscurecoccineus意為「暗深紅的」，指其深紅之菌蓋。蓋深紅至玫瑰紅色、緣常掛菌幕殘餘、老時龜裂露出黃色菌肉；孔面黃色，多不變色而偶傷藍；柄具條紋；孢子具縱脊。年輕時菌緣常掛有有殘餘物，老熟個體菌蓋可能會裂開，並顯露出黃色的菌肉。基本上不變色，但有些個體也許會傷變藍。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -307,5 +307,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41409589/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

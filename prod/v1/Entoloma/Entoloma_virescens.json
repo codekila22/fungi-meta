@@ -283,11 +283,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,5",
+  "StalkLengthRangeValuess": "60,80",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Elevation": "mid",
@@ -301,7 +301,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Entoloma mengsongense,,",
-  "Note": "菌株觸摸後傷變黃綠色。",
+  "Note": "變藍粉褶菌，屬名Entoloma意為「內捲之緣」；種小名virescens意為「轉綠的」，指其傷後之黃綠變色。蓋圓錐至鐘形、鮮藍至藍綠色、被纖絲；菌褶粉褶菌屬特有之肉粉色；柄與蓋同色而纖維質；生於林地。菌株觸摸後傷變黃綠色。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "勐宋粉褶菌,,",
   "la_zhcn": "勐宋粉褶菌,,"
@@ -315,5 +315,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176090463/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

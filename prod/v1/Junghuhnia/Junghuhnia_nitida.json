@@ -147,7 +147,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4293302630,4294956800",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -157,7 +157,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "5,8",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -167,7 +167,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "1,5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -178,7 +178,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "明亮松氏孔菌，種小名nitida意為「有光澤的」，指其孔面色澤明亮。子實體平伏於枯木、孔面橙粉至赭色而孔口極細密、具光澤，緣色淡，質革，生於闊葉樹枯木下側。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -190,5 +190,5 @@
    "src": "https://static.inaturalist.org/photos/4090868/thumb.JPG"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

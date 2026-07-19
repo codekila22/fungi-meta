@@ -84,7 +84,7 @@
  ],
  "meta": {
   "CapColors": "4278190080,4286141768,4284635991",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -104,7 +104,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "15,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -115,7 +115,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "伯克利地星，種小名berkeleyi紀念真菌學者Berkeley。外包被星狀開裂反捲成數瓣，孢囊近球形而表面粗糙具疣、孔口具明顯之溝紋（本種特徵），地生於林地腐落物。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -127,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55538823/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

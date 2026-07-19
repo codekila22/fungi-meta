@@ -124,10 +124,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "1,4",
   "StalkLengthRangeValuess": "25,90",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -140,7 +140,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hygrocybe coccineocrenata,,",
-  "Note": "",
+  "Note": "雞油濕傘，種小名cantharellus意為「似雞油菌的」，指其菌褶明顯延生如雞油菌。蓋小型橙紅至硃紅、乾燥而被細鱗屑、中央下凹，菌褶蠟質黃橙而明顯延生，柄細長橙色，生於苔蘚濕地。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "緋紅齒濕傘,,",
   "la_zhcn": "绯红齿湿伞,,"
@@ -168,5 +168,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

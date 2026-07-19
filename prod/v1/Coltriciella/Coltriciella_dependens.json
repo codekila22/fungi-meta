@@ -86,7 +86,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -96,7 +96,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -106,7 +106,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "3,15",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -117,17 +117,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "懸垂小集毛菌，種小名dependens意為「懸垂的」，指其自基質倒懸而生。子實體微小、褐色而具短柄或近無柄、常倒生於腐木下側使孔面朝下，質韌，需近看方能辨識。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
   {
-   "name": "Coltriciella dependens",
+   "name": "Coltricia dependens",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/350405-Coltriciella-dependens",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10170968/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/381793",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10170968/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

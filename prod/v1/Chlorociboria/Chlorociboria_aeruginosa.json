@@ -119,6 +119,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "3,10",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -129,7 +130,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "綠杯盤菌，種小名aeruginosa意為「銅綠色的」，指其藍綠色。子實體小型盤狀、青綠至藍綠色、具短柄，其菌絲將寄生之木材染成藍綠色（綠木），生於闊葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -141,5 +142,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94085864/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

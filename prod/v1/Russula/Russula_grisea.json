@@ -36,7 +36,7 @@
  ],
  "meta": {
   "CapColors": "4289309097",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,110",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -51,11 +51,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,32",
+  "StalkLengthRangeValuess": "25,95",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰紅菇，種小名grisea意為「灰色的」，指其菌蓋所帶之灰綠至灰紫色調。蓋5–11cm、初凸圓後漸平、終深凹；柄2.5–9.5cm、粗10–32mm、圓柱形、堅實，初實心而後轉綿絮狀，為外生菌根菌，伴生於闊葉林中。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -78,5 +78,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/78702107/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

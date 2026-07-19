@@ -151,7 +151,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "70,120",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,70",
   "Rareness": "",
   "Elevation": "mid",
   "Tropical": "no",
@@ -164,7 +164,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "金黃喇叭菌，種小名aureus意為「金色的」，指其鮮明金黃色。子實體管狀漏斗形而中空、金黃至橙黃色，下表面近平滑或具淺脈狀稜脊（非真菌褶），質薄，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -176,5 +176,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40313585/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

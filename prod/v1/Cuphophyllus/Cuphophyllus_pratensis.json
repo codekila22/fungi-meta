@@ -88,7 +88,7 @@
  ],
  "meta": {
   "CapColors": "4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -103,11 +103,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -119,7 +119,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "草地拱頂菇，種小名pratensis意為「草地的」，指其生於草地與牧場。蓋橙褐至杏黃、幼時凸後平展或具鈍凸尖、有時中央略下凹、表面乾而略呈絨質，菌褶蠟質、厚而稀疏、明顯延生、色較蓋淡，柄乳白至淡橙、圓柱形而向基部漸細、無菌環。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -173,5 +173,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

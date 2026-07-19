@@ -189,7 +189,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,120",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -199,16 +199,16 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,25",
+  "StalkLengthRangeValuess": "60,130",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -220,8 +220,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "變紅疣柄牛肝菌，種小名intusrubens意為「內部變紅的」，指切開後肉變紅。柄具黑褐色鱗突（scabers），孔面米黃，肉受傷變紅至暗，外生菌根生於殼斗科林地。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

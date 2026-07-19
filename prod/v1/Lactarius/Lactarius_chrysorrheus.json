@@ -218,11 +218,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,15",
+  "StalkLengthRangeValuess": "30,70",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -233,7 +233,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "乳汁由白轉黃。",
+  "Note": "黃汁乳菇，屬名Lactarius意為「產乳的」；種小名chrysorrheus由希臘文chrysos（金）與rhein（流）組成，意為「流金的」，正指其由白轉黃之乳汁。蓋粉赭色而具環紋；菌褶延生、淡色；傷後湧出白色乳汁、旋即轉硫黃色；多與櫟樹共生。乳汁由白轉黃。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -259,5 +259,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -69,6 +69,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0,0.4",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -79,7 +80,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "硬叉絲革菌，種小名investiens意為「包覆的」，指其平鋪包覆基質之生長型。子實體平伏、連續成片、厚僅達0.4mm；具本屬特有之二叉分枝厚壁絲（dichohyphidiae），質地稍硬，包覆於枯枝與腐木表面。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -91,5 +92,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8971536/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -40,7 +40,7 @@
  ],
  "meta": {
   "CapColors": "4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,3",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -60,7 +60,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -71,7 +71,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生活在溫帶地區的濕地上，此紀錄照片拍攝地點為美國東北部地區。"
+  "Note": "濕生地杖菌，屬名Mitrula意為「小僧帽」，指其頭部之外形；種小名paludosa意為「沼澤的」，指其濕地之生境。子實體具一白色之細柄、頂載黃至橙色而膨大之可孕頭部；生於溫帶濕地中浸水之落葉與植物殘體上。生活在溫帶地區的濕地上，此紀錄照片拍攝地點為美國東北部地區。"
  },
  "inaturalist": [
   {
@@ -82,5 +82,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63535/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

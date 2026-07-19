@@ -52,7 +52,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,70",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -83,7 +83,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白鱗馬勃，種小名mammiforme意為「乳突形的」，指其頂端之乳頭狀突起。子實體球形至梨形，幼時純白、外皮碎裂成大型白色片狀鱗並旋即脫落而露出略具顆粒之內皮，老熟轉赭黃至巧克力褐，頂端開孔散出孢子，地生於闊葉林之鹼性土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -95,5 +95,5 @@
    "src": "https://static.inaturalist.org/photos/32682062/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

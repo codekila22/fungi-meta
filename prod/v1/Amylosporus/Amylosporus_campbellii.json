@@ -2,6 +2,7 @@
  "genus": "Amylosporus",
  "name": "campbellii",
  "date": [
+  "07/16/2026,27603539929329743",
   "06/25/2026,27343194668697605",
   "08/08/2024,7808860822557614",
   "06/12/2024,7488868574556842"
@@ -135,6 +136,42 @@
   {
    "author": "陳中城",
    "image_src": "Amylosporus_campbellii_c6671f70-708e-11f1-9e42-c36bb484db09_7.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Amylosporus_campbellii_27603539929329743_37904b00-80e7-11f1-9a74-d71f6b815e0a_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Amylosporus_campbellii_27603539929329743_37904b00-80e7-11f1-9a74-d71f6b815e0a_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Amylosporus_campbellii_27603539929329743_37904b00-80e7-11f1-9a74-d71f6b815e0a_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Amylosporus_campbellii_27603539929329743_37904b00-80e7-11f1-9a74-d71f6b815e0a_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Amylosporus_campbellii_27603539929329743_37904b00-80e7-11f1-9a74-d71f6b815e0a_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Amylosporus_campbellii_27603539929329743_37904b00-80e7-11f1-9a74-d71f6b815e0a_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Amylosporus_campbellii_27603539929329743_37904b00-80e7-11f1-9a74-d71f6b815e0a_7.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Amylosporus_campbellii_27603539929329743_37904b00-80e7-11f1-9a74-d71f6b815e0a_8.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Amylosporus_campbellii_27603539929329743_37904b00-80e7-11f1-9a74-d71f6b815e0a_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -142,7 +179,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4286141768,4292072403",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -152,7 +189,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -162,18 +199,20 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "wood,ground",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "靠近樹幹周圍土生。",
+  "Note": "坎氏澱粉孢菌，屬名Amylosporus意為「澱粉質孢子的」，指其孢子遇碘變藍之反應；種小名campbellii紀念採集者Campbell。子實體具柄或墊狀、白至淡色、肉質至木栓質；孔面白色；常自地下腐木連生至地面、鄰近樹幹基部。靠近樹幹周圍，與地下腐木連結生長到地面。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -185,5 +224,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63460330/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

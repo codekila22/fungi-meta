@@ -304,6 +304,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -314,7 +315,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "山生齒耳菌，平伏反捲、子實層被密集橙色軟刺，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -326,5 +327,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18227428/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

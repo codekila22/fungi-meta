@@ -191,8 +191,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -207,10 +207,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Crepidotus sulphurinus,,",
-  "Note": "子實體帶有橙黃色調。",
+  "Note": "鵷雛靴耳，屬名Crepidotus意為「似鞋的耳」，指其側生貝殼狀之子實體；種小名yuanchui取自神話瑞鳥「鵷雛」。子實體小、貝殼形至腎形、無柄而側生、帶橙黃色調、被細毛；菌褶自著生點放射；生於闊葉樹枯木上。子實體帶有橙黃色調。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "硫磺色靴耳,,",
   "la_zhcn": "硫磺色靴耳,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

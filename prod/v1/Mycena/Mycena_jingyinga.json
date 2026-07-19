@@ -362,8 +362,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "5,8",
@@ -377,7 +377,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "晶瑩小菇，種小名jingyinga取自中文「晶瑩」。子實體微小、白至淡褐色；菌褶連生至略延生；柄被細絨毛、基部具纖毛；其菌絲體能發出螢光（生物發光）；生於腐木與落葉上，2020年發表於台灣。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -389,5 +389,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/277039769/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

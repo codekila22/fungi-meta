@@ -170,7 +170,7 @@
  ],
  "meta": {
   "CapColors": "4294956800",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,6",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -190,7 +190,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -201,7 +201,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hirsutella saussurei,,",
-  "Note": "索緒爾被毛孢黴(Hirsutella saussurei)為其無性世代。",
+  "Note": "蜂頭蛇形蟲草，屬名Ophiocordyceps意為「蛇狀之棒頭」；種小名sphecocephala由希臘文sphex（蜂）與kephale（頭）組成，意為「蜂頭的」，指其寄主。子座自埋於土中之蜂類伸出、具細長之柄與橙黃色之頭部；索緒爾被毛孢黴為其無性世代。索緒爾被毛孢黴(Hirsutella saussurei)為其無性世代。",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
  },
@@ -214,5 +214,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30668698/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

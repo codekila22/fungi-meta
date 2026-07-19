@@ -303,7 +303,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Tubifera ferruginosa,,",
-  "Note": "",
+  "Note": "筒黏菌尖銳亞種，屬名Tubifera意為「具管的」，指其密聚之管狀孢子囊；種小名ferruginosa意為「鏽色的」，亞種名acutissima意為「極尖銳的」。孢子囊密聚成墊、鏽紅至暗紅褐色、狀如覆盆子；生於腐木上，為一種黏菌。",
   "la_zhtw": "筒黏菌,,",
   "la_zhcn": "筒黏菌,,"
  },
@@ -316,10 +316,10 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/270094506/square.jpg"
   },
   {
-   "name": "Tubifera ferruginosa acutissima",
+   "name": "Tubifera acutissima",
    "cname": "",
    "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/1150227",
+   "url": "https://www.inaturalist.org/taxa/1689729",
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89335916/square.jpeg"
   },
   {
@@ -351,5 +351,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

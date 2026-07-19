@@ -112,11 +112,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,10",
+  "StalkLengthRangeValuess": "20,70",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -127,7 +127,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "潔白拱頂菇，種小名virgineus意為「潔白如處女的」，指其純白色。蓋白至象牙色、蠟質而濕時黏、緣具細溝紋，菌褶蠟質厚而明顯延生、白色，柄白無環，群生於草地與林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -160,5 +160,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

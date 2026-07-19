@@ -156,7 +156,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4292786311",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -176,6 +176,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "60,130",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -186,7 +187,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "皺馬鞍菌，種小名crispa意為「捲曲的」，指帽緣不規則捲曲。帽乳白色鞍狀、2–4瓣不規則裂、下表面被絨毛，柄乳白色具深縱溝與稜脊、中空，生於林地路旁濕土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -198,5 +199,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89010780/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

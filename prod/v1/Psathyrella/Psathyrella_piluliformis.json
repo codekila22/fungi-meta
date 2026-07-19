@@ -204,13 +204,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "3,7",
+  "StalkLengthRangeValuess": "20,70",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "wood",
@@ -220,7 +222,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Psathyrella fuscifolia,,",
-  "Note": "",
+  "Note": "丸形小脆柄菇，種小名piluliformis意為「小球狀的」，指幼蓋半球形如小丸。蓋栗褐至紅褐、乾時褪色，菌褶密褐，柄白中空、緣具幕殘毛，密叢生於闊葉樹樹樁基部。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "褐葉色小脆柄菇,,",
   "la_zhcn": "褐叶色小脆柄菇,,"
@@ -234,5 +236,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12983535/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -122,8 +122,8 @@
   "StalkColors": "",
   "StalkTexture": "reticulum",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -138,7 +138,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "南方側耳，屬名Pleurotus為側耳（蠔菇）之屬；種小名australis意為「南方的」。子實體扇形至貝殼狀、側生、蓋灰褐至淡色；菌褶延生至短柄或附著點；生於闊葉樹腐木上，致木材白腐。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -150,5 +150,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2328007/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

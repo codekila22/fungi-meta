@@ -95,15 +95,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,7",
+  "StalkLengthRangeValuess": "6,70",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -111,7 +113,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Laccaria moshuijun,,",
-  "Note": "此物種雖可食用，但文獻敘述它容易吸收環境中的砷，所以不建議食用。",
+  "Note": "紫蠟蘑，屬名Laccaria意指其如上漆之光澤；種小名amethystina意為「紫水晶色的」，正指其鮮明之紫色。蓋凸至平展、深紫色（乾時褪淡）；菌褶厚、疏、紫色；柄與蓋同色、纖維質；與樹木共生為外生菌根菌。此物種雖可食用，但文獻敘述它容易吸收環境中的砷，所以不建議食用。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "墨水蠟蘑,,",
   "la_zhcn": "墨水蜡蘑,,"
@@ -125,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/100850899/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

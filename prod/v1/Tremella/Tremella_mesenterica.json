@@ -271,7 +271,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "25,50",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -282,7 +282,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "兩種很像的金耳但寄主真菌不同，Naematelia aurantia 體型一般比較大，寄生在毛韌革菌上，而Tremella mesenterica一般比較小，寄生在隔孢伏革菌屬(Peniophora sp.)上。",
+  "Note": "黃金銀耳，屬名Tremella意為「顫動的」，指其膠質而顫動之子實體；種小名mesenterica意為「似腸繫膜的」，指其腦回狀之皺褶。子實體膠質、鮮金黃至橙黃色、呈腦回狀之波曲摺葉；為寄生於隔孢伏革菌（Peniophora）之膠質菌，生於闊葉樹枯枝上。兩種很像的金耳但寄主真菌不同，Naematelia aurantia 體型一般比較大，寄生在毛韌革菌上，而Tremella mesenterica一般比較小，寄生在隔孢伏革菌屬(Peniophora sp.)上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -294,5 +294,5 @@
    "src": "https://static.inaturalist.org/photos/56108682/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

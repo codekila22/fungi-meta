@@ -213,7 +213,7 @@
  ],
  "meta": {
   "CapColors": "4294309365,4292072403,4294967280",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -233,6 +233,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -243,7 +244,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "齒長約5-10mm。",
+  "Note": "考氏鈍齒殼菌，屬名Radulomyces意為「銼刀狀之菌」，指其粗糙之子實層；種小名copelandii紀念採集者Copeland。子實體平伏、乳白至橙褐色；子實層滿布密集之錐狀齒刺；生於闊葉樹枯木上，致木材白腐。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -255,5 +256,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2548982/thumb.JPG"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

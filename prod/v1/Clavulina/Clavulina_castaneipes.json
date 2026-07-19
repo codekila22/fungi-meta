@@ -106,6 +106,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,70",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -116,7 +117,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "栗色鎖瑚菌，種小名castaneipes意為「栗色柄的」，指其菌柄栗褐色。子實體棒狀至少分枝、上部淡色而柄部栗褐，表面稍具縱皺，質韌，地生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -142,5 +143,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

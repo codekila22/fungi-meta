@@ -143,8 +143,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -159,7 +159,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長在有苔蘚環境的闊葉樹枯木上。",
+  "Note": "冬生樹生小菇，屬名Phloeomana意為「樹皮之居者」，指其生於樹皮之習性；種小名hiemalis意為「冬季的」。子實體微小、蓋白至灰色、半透明而具條紋；菌褶疏；柄纖細；冬季生於具苔蘚之闊葉樹枯木與樹皮上。生長在有苔蘚環境的闊葉樹枯木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -171,5 +171,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/102527633/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

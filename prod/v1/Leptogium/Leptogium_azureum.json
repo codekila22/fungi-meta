@@ -2,7 +2,7 @@
  "genus": "Leptogium",
  "name": "azureum",
  "date": [
-  "01/01/0001"
+  "04/05/2021,3664910410286030"
  ],
  "names_zhtw": [
   "藍天貓耳衣"
@@ -74,7 +74,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "藍天貓耳衣，屬名Leptogium為貓耳衣之屬；種小名azureum意為「天藍色的」。地衣體葉狀、鉛藍至藍灰色、薄、平滑、濕時膨脹呈膠質（內共生念珠藻）；生於樹皮與苔上，為一種膠質地衣。"
  },
  "inaturalist": [
   {
@@ -85,5 +85,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/30611948/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

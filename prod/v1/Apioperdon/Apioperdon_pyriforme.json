@@ -166,7 +166,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "20,45",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,45",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "scattered,grouped,clustered",
@@ -177,7 +178,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "幾乎都是木生，偶而也會從埋在地下的枯木中長出，常見整群密集的擠在一起生長。菌肉白色時可食。",
+  "Note": "梨形馬勃，屬名Apioperdon意為「梨形之馬勃」；種小名pyriforme意為「梨形的」，正指其倒梨形之子實體。子實體倒梨形、白至淡褐、表面被細顆粒與短刺；基部具白色之根狀菌索；幾乎皆木生，常密集成群，成熟後由頂端破口散出孢粉。幾乎都是木生，偶而也會從埋在地下的枯木中長出，常見整群密集的擠在一起生長。菌肉白色時可食。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -189,5 +190,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/39899941/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

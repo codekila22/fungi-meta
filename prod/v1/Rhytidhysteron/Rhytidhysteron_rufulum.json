@@ -304,7 +304,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "1,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -315,7 +315,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Rhytidhysteron neorufulum,,",
-  "Note": "有垂直的唇裂紋。",
+  "Note": "紅皺裂菌，屬名Rhytidhysteron意為「皺褶之裂殼」，指其皺縮而縱裂之子實體；種小名rufulum意為「略帶紅的」。子實體黑色、革質、縱長，成熟後沿中央之唇裂縫張開、露出紅至紅褐色之子實層盤面；生於闊葉樹枯枝上。有垂直的唇裂紋。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "新紅皺裂菌,,",
   "la_zhcn": "新红皱裂菌,,"
@@ -329,5 +329,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/65358146/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

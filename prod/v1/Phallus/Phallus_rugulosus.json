@@ -311,7 +311,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,20",
-  "StalkLengthRangeValuess": "110,170",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "110,170",
   "Seasons": "spring,summer",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -321,17 +322,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "細皺鬼筆，孢托暗紅具細皺覆暗綠惡臭黏液，柄橙紅至粉紅，托白色，生於林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
-   "name": "Phallus rugulosus",
+   "name": "Satyrus rugulosus",
    "cname": "Wrinkly Stinkhorn",
    "cname_zh": "細皺鬼筆",
-   "url": "https://www.inaturalist.org/taxa/793759-Phallus-rugulosus",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/51241534/thumb.jpeg"
+   "url": "https://www.inaturalist.org/taxa/1649482",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/158995139/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

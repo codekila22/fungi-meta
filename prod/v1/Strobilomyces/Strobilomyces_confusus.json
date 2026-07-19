@@ -318,16 +318,16 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "50,130",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Seasons": "summer,autumn",
@@ -339,7 +339,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Strobilomyces strobilaceus,,",
-  "Note": "混淆松塔牛肝菌傘蓋的鱗片呈現翹鱗狀，這是其與松塔牛肝菌(Strobilomyces strobilaceus)伏貼鱗片的主要特徵差異之一。傷後先變紅再變黑。",
+  "Note": "混淆松塔牛肝菌，種小名confusus意為「易混淆的」，指其易與松塔牛肝菌（S. strobilaceus）相混。蓋被紫褐至黑褐色之角錐狀翹鱗；管孔白色、老時暗灰；柄具鱗片；肉與管孔傷後先轉紅、後變黑。混淆松塔牛肝菌傘蓋的鱗片呈現翹鱗狀，這是其與松塔牛肝菌(Strobilomyces strobilaceus)伏貼鱗片的主要特徵差異之一。傷後先變紅再變黑。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "松塔牛肝菌,,",
   "la_zhcn": "松塔牛肝菌,,"
@@ -353,5 +353,5 @@
    "src": "https://static.inaturalist.org/photos/24056041/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

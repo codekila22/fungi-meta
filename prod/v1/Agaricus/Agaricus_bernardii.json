@@ -44,7 +44,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -59,11 +59,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "20,40",
+  "StalkLengthRangeValuess": "40,100",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -75,7 +75,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "喜歡富含鹽分的土壤。",
+  "Note": "白鱗蘑菇，屬名Agaricus為蘑菇之屬；種小名bernardii紀念採集者Bernard。蓋白色、表面龜裂成鱗片；菌褶初粉紅後轉巧克力褐色；柄具菌環，菌肉傷後略轉紅；喜生於富含鹽分之土壤。喜歡富含鹽分的土壤。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -87,5 +87,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4134836/thumb."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -238,6 +238,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -248,7 +249,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "星狀彈球菌，種小名stellatus意為「星狀的」，指外壁開裂成星芒狀。子實體微小杯狀、內含單一橙褐色孢團，成熟翻彈將孢團射出可達數公尺，群生於腐木糞屑。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -260,5 +261,5 @@
    "src": "https://static.inaturalist.org/photos/60104007/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

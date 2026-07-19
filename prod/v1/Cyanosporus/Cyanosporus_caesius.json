@@ -378,7 +378,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "3,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -388,7 +388,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,50",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -399,7 +399,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "灰藍孔菌，白色綿質托架、傷變藍色，孔面白至藍，生於針葉樹腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -411,5 +411,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/100001611/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

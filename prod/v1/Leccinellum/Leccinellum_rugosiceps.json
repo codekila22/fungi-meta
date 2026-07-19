@@ -75,7 +75,7 @@
  ],
  "meta": {
   "CapColors": "4283244288,4285547028",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -90,22 +90,22 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,30",
+  "StalkLengthRangeValuess": "30,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "red",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "皺蓋小疣柄牛肝菌，種小名rugosiceps意為「皺褶之蓋」，指其蓋面成熟後皺縮而具凹坑。蓋橙黃轉黃褐、乾燥、老時龜裂露出白肉，孔面暗黃、傷不變藍，柄被褐色疣點狀鱗（scaber），肉白傷後轉紅至暗紫紅，外生菌根生於殼斗科林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -117,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13078694/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

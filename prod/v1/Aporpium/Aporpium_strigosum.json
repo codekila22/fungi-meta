@@ -115,7 +115,7 @@
  ],
  "meta": {
   "CapColors": "4292664540,4289309097",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -125,7 +125,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,3",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -135,7 +135,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "3,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -146,10 +146,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Elmerina sp.1,,",
-  "Note": "",
+  "Note": "硬毛孔靭皮耳，種小名strigosum意為「具粗硬毛的」，指菌蓋被硬毛。子實體平伏反捲、上表面被褐色粗毛，孔面灰褐而孔口角狀，質韌略帶膠質（本屬為具孔之膠質菌），生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "巨孔榆孔菌,,",
   "la_zhcn": "巨孔榆孔菌,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

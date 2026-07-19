@@ -2,6 +2,7 @@
  "genus": "Lepiota",
  "name": "praetervisa",
  "date": [
+  "07/13/2026,27570851069265296",
   "07/15/2025,23914436691573437",
   "06/20/2024,7542084262568606",
   "07/30/2015,761931373917296"
@@ -55,6 +56,22 @@
   {
    "author": "CN Chen",
    "image_src": "Lepiota_praetervisa_129efc30-6f3e-11f0-9bf6-2f683ad7a80b_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lepiota_praetervisa_27570851069265296_fecee410-7f57-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lepiota_praetervisa_27570851069265296_fecee410-7f57-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lepiota_praetervisa_27570851069265296_fecee410-7f57-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Lepiota_praetervisa_27570851069265296_fecee410-7f57-11f1-a6ae-2d91ec182952_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -77,7 +94,7 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
+  "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
@@ -92,8 +109,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "傘中央的暗褐色鱗片較為密集。",
+  "Note": "保護色環柄菇，屬名Lepiota為環柄菇之屬；種小名praetervisa意為「被忽略的」。蓋白底而被暗褐色之鱗片、中央之鱗片較密；菌褶白色、離生；柄具菌環；生於林地。傘中央的暗褐色鱗片較為密集。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

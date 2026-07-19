@@ -64,6 +64,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -74,7 +75,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "粗棘大團囊菌，種小名muricatus意為「具尖銳突起的」，指其包被表面之粗糙棘突。閉囊殼球形至近球形、5–20mm、偶有變形，乾後堅硬；包被厚1.2–2mm、緻密而分二層，內層厚約1mm、由交織菌絲構成，地下生於林中。"
  },
  "inaturalist": [
   {
@@ -85,5 +86,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1591427/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

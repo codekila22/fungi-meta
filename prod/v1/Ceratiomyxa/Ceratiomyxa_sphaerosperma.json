@@ -199,7 +199,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -209,7 +212,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "球孢鵝絨黏菌，屬名Ceratiomyxa為鵝絨黏菌之屬（外孢型）；種小名sphaerosperma意為「球形孢子的」。子實體白色、柱狀或分枝、直立；孢子球形、外生於細梗頂端（外孢型黏菌）；生於腐木上。"
  },
  "inaturalist": [
   {
@@ -220,5 +223,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/178035011/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

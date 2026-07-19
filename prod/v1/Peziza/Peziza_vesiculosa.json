@@ -98,6 +98,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -108,7 +109,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "泡質盤菌，種小名vesiculosa意為「具水泡的」，指其盤緣內捲而表面呈泡狀隆起。子實體大型深杯狀、盤面淡褐至黃褐、外表面色淡而具糠屑、緣長久內捲，叢生於堆肥、廄肥與富氮土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -120,5 +121,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13784804/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -463,13 +463,15 @@
   "StalkColors": "",
   "StalkTexture": "velvety",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "20,45",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood,leaves",
@@ -479,7 +481,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Crinipellis filiformis,Crinipellis birhizomorpha,",
-  "Note": "此物種傘徑比相似種線皮傘(Crinipellis filiformis)稍大，且傘中央深褐色，顏色較四周為深。菌褶密度相較於相似種稍微密集。",
+  "Note": "柄毛皮傘，屬名Crinipellis意為「具毛之皮」，指其被毛之蓋面與柄；種小名scabella意為「略粗糙的」。蓋小、半球至平展、具放射狀纖毛與溝紋、褐色；菌褶白色、離生；柄細長、角質、被細毛而暗褐至黑色；多生於禾草與植物殘體上。此物種傘徑比相似種線皮傘(Crinipellis filiformis)稍大，且傘中央深褐色，顏色較四周為深。菌褶密度相較於相似種稍微密集。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "線皮傘,雙索皮傘,",
   "la_zhcn": "线皮伞,双索皮伞,"
@@ -493,5 +495,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/243794544/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

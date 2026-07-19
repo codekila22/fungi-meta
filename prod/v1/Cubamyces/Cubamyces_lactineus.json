@@ -105,7 +105,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -115,7 +115,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -125,7 +125,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,25",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -136,10 +136,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Trametes orientalis,,",
-  "Note": "",
+  "Note": "奶油栓孔菌，種小名lactineus意為「乳白色的」，指其純白至奶油色。子實體薄革質、扇形至半圓形而近無柄、上表面被細絨毛，孔面白色細密，質韌，生於熱帶闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "東方栓菌,,",
   "la_zhcn": "东方栓菌,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

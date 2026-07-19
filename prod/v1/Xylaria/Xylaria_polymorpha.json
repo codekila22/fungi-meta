@@ -2,6 +2,7 @@
  "genus": "Xylaria",
  "name": "polymorpha",
  "date": [
+  "04/11/2026,27485837921099945",
   "06/01/2025,9771201059656904",
   "04/30/2025,9513751615401851",
   "05/28/2023,6044328325677548",
@@ -169,6 +170,54 @@
   {
    "author": "蔡古媧",
    "image_src": "Xylaria_polymorpha_95c24d50-3f83-11f0-b9c7-5bcaf5e58072_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Xylaria_polymorpha_27485837921099945_cb43f370-7d80-11f1-ac07-974d83ebf571_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -176,7 +225,7 @@
  ],
  "meta": {
   "CapColors": "4278190080,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -196,6 +245,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "30,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -206,7 +256,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "多形炭角菌，死人手指，子座棒狀至指狀直立、黑褐外殼白色內裡，表面具疣狀子囊殼孔口，生於闊葉樹根部腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -218,5 +268,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/44594153/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

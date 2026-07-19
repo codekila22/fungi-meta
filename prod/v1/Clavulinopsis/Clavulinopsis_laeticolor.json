@@ -91,7 +91,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294962944",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,8",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -110,7 +110,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "10,70",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,70",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -121,7 +122,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "悅色擬鎖瑚菌，種小名laeticolor意為「色澤鮮麗的」。子實體鮮橙黃至金黃色、棒狀不分枝而頂端鈍或稍尖、常稍扁壓，質脆，叢生於林地草地之苔蘚間。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -147,5 +148,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

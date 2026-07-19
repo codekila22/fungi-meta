@@ -255,11 +255,11 @@
   "StalkColors": "4294967295",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
+  "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,7",
+  "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "common",
   "Seasons": "spring,summer,autumn",
@@ -271,7 +271,7 @@
   "Smell": "other",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "有種化學藥水的氣味。",
+  "Note": "冠環柄菇，屬名Lepiota為環柄菇之屬；種小名cristata意為「具冠的」，指其蓋面同心排列之鱗片。蓋白色、中央紅褐、被同心環狀排列之紅褐色鱗片；菌褶白色、離生；柄具一易脫落之菌環；具刺鼻之化學氣味。有種化學藥水的氣味。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -290,5 +290,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/300631187/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

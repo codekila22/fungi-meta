@@ -115,8 +115,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "20,55",
@@ -130,7 +130,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "傘面濕時具黏性。",
+  "Note": "白紋紅菇，屬名Russula為紅菇之屬；種小名alboareolata由albus（白）與areola（小區塊）組成，意為「白色龜裂紋的」。蓋白色、濕時具黏性；菌褶密、白色、質脆；柄白而結實；與樹木共生為外生菌根菌。傘面濕時具黏性。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -142,5 +142,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/137291854/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

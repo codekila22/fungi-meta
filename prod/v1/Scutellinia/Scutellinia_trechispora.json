@@ -154,7 +154,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "1,5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped",
@@ -165,7 +165,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Melastiza chateri,,",
-  "Note": "",
+  "Note": "鈍刺盾盤菌，種小名trechispora意為「具鈍刺孢子的」，指其孢子表面之疣刺。子實體微小盤狀、盤面鮮橙紅、外緣被暗褐色剛毛（睫毛狀），群生於潮濕腐木與裸土。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "橘紅彎毛盤菌,,",
   "la_zhcn": "橘红弯毛盘菌,,"
@@ -186,5 +186,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

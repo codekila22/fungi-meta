@@ -194,7 +194,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,30",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "parasitic",
@@ -204,7 +207,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "雙節棍蟲草，屬名Cordyceps為蟲草之屬；種小名ninchukispora意指其特殊之孢子。子座自埋於基質中之寄主長出、具細長之柄與可孕之頭部；其子囊孢子斷裂為二胞之節孢子、狀如雙節棍（故名）；為一蟲草類真菌。"
  },
  "inaturalist": [
   {
@@ -215,5 +218,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/315967597/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

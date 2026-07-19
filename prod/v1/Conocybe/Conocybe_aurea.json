@@ -108,11 +108,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
+  "StalkLengthRangeValuess": "40,90",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -123,7 +123,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "金黃錐蓋傘，種小名aurea意為「金色的」，指其金黃色。蓋圓錐至鐘形、金黃至橙褐色，菌褶鏽褐，柄細長而基部稍膨、具縱向細紋，孢子印鏽褐，生於肥沃腐土與木屑地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -135,5 +135,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4132341/thumb."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

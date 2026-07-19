@@ -359,7 +359,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,20",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -379,7 +379,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "grouped",
@@ -390,10 +390,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Pterula multifida,,",
-  "Note": "",
+  "Note": "竹生鬚瑚菌，細長分枝簇生灰白至淡褐，質韌，生於竹葉竹稈腐屑。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "白鬚瑚菌,,",
   "la_zhcn": "白须瑚菌,,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

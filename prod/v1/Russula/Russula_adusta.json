@@ -296,7 +296,7 @@
  ],
  "meta": {
   "CapColors": "4285098345,4278190080,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -311,11 +311,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "20,50",
+  "StalkLengthRangeValuess": "50,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -327,7 +327,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Russula densifolia,,",
-  "Note": "幼菌白色，逐漸變成灰褐色至黑色，傷後紅褐色。",
+  "Note": "煙色紅菇，種小名adusta意為「燒焦的」，指其老熟轉為煙褐至近黑之色澤。蓋大、堅實、初白後轉煙灰褐色而終近黑；菌褶密、白至奶油色、傷後先轉紅褐再變黑；柄粗短、白色而漸暗。幼菌白色，逐漸變成灰褐色至黑色，傷後紅褐色。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "密褶紅菇,,",
   "la_zhcn": "密褶红菇,,"
@@ -376,5 +376,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

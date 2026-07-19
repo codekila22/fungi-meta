@@ -2,6 +2,7 @@
  "genus": "Leucocoprinus",
  "name": "birnbaumii",
  "date": [
+  "07/15/2026,27595000410183695",
   "06/29/2026,27407441352272936",
   "11/01/2025,24858482347168862",
   "07/12/2025,10084208191689521",
@@ -404,7 +405,7 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "1,4",
   "StalkLengthRangeValuess": "30,100",
   "HeightRangeValuess": "",
   "Rareness": "common",
@@ -417,7 +418,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "除了低海拔野外枯木生以外，常生長於市區的花台花盆中。",
+  "Note": "純黃白鬼傘，屬名Leucocoprinus意為「白色的鬼傘」；種小名birnbaumii紀念園丁Birnbaum，其於溫室中首度發現本種。蓋鮮硫黃色、被粉狀顆粒、具溝紋；菌褶黃色、離生；柄黃、具一膜質菌環；常見於花盆與溫室之腐植土上。除了低海拔野外枯木生以外，常生長於市區的花台花盆中。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -443,5 +444,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

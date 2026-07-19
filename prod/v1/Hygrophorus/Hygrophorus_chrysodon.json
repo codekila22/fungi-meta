@@ -28,7 +28,7 @@
  ],
  "meta": {
   "CapColors": "4294967040,4294956800,4294962944",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,140",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -43,11 +43,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "30,100",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -59,7 +59,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "金粒蠟傘，種小名chrysodon源自希臘文，意為「金色之齒」，指蓋緣、柄與菌褶上金黃色之顆粒或細毛。子實體白色而常帶黃暈，蓋緣尤密被金黃顆粒，菌褶蠟質、亞延生至延生，肉白而軟，外生菌根生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -92,5 +92,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

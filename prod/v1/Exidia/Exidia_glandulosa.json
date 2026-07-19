@@ -233,7 +233,7 @@
  ],
  "meta": {
   "CapColors": "4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -252,6 +252,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,25",
   "Seasons": "spring,winter,autumn",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -261,7 +262,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "黑膠耳，陀螺至瘤狀暗黑褐有光澤、下表面被膠質小疣，叢生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -273,5 +274,5 @@
    "src": "https://static.inaturalist.org/photos/27655488/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

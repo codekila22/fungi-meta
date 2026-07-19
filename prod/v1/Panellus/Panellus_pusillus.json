@@ -376,7 +376,7 @@
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "0.5,2",
   "StalkLengthRangeValuess": "1,2",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
@@ -388,7 +388,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "有些雙翅目昆蟲會在此種真菌的子實體上產卵，並形成一球球的蟲癭。",
+  "Note": "小扇菇，屬名Panellus意為「小的側耳」；種小名pusillus意為「極小的」，正指其微小之子實體。子實體微小、扇形至貝形、無柄而側生、白色，孔狀至淺褶狀之子實層；於暗中發出微弱之綠色螢光；密生於枯枝上。有些雙翅目昆蟲會在此種真菌的子實體上產卵，並形成一球球的蟲癭。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -400,5 +400,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5748774/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

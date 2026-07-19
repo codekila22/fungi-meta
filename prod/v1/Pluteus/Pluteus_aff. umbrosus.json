@@ -117,7 +117,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -132,11 +132,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,10",
+  "StalkLengthRangeValuess": "30,100",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -148,7 +148,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Pluteus umbrosus,,",
-  "Note": "",
+  "Note": "皺蓋光柄菇的相似種，本群近於皺蓋光柄菇（P. umbrosus）而形態略有差異。蓋3–10cm；菌褶離生、寬達7mm、初白後轉粉紅而具細褐斑；柄3–10cm、粗2–10mm，生於闊葉樹之腐木與木屑上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "皺蓋光柄菇,,",
   "la_zhcn": "皱盖光柄菇,,"
@@ -162,5 +162,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5731435/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

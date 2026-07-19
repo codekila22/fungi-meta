@@ -44,7 +44,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "8,35",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "striated",
@@ -59,15 +59,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1.5,3.5",
+  "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "fruit",
   "Bruising": "",
   "Bioluminescent": "",
@@ -75,7 +77,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "一種長在松樹落果上的小菇。",
+  "Note": "羽足小菇的相似種，屬名Mycena指其小菇之屬；種小名plumipes由pluma（羽）與pes（足）組成，意為「羽足的」。子實體微小、蓋半透明而具條紋；菌褶疏；柄纖細；生於松樹之落果上。一種長在松樹落果上的小菇。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -87,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250074043/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

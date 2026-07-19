@@ -335,7 +335,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294950656",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -355,7 +355,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "5,15",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -366,7 +366,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Guepiniopsis alpina,,",
-  "Note": "長在闊葉樹的枯枝上。",
+  "Note": "膠盤耳，屬名Guepiniopsis為膠質菌之一屬；種小名buccina意為「號角」，指其漏斗至號角狀之外形。子實體膠質、陀螺形至喇叭狀、橙黃至橙色、具短柄，乾後強烈皺縮；生於闊葉樹之枯枝上。長在闊葉樹的枯枝上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "高山膠盤耳,,",
   "la_zhcn": "高山胶盘耳,,"
@@ -380,5 +380,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28659774/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

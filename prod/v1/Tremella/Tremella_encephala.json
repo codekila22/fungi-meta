@@ -60,7 +60,7 @@
  ],
  "meta": {
   "CapColors": "4293302630,4291998860",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -90,7 +90,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "腦狀銀耳，種小名encephala意為「腦狀的」，指其皺曲如腦之外形。子實體膠質、淡粉紅至黃粉紅、腦狀皺曲，內部具一緊實之白色核心（實為被寄生之韌革菌組織），為寄生於血跡韌革菌（Stereum sanguinolentum）之寄生真菌，生於針葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -102,5 +102,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5636192/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

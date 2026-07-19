@@ -328,6 +328,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "leaves,parasitic",
@@ -337,7 +339,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "菩提樹黑痣菌，屬名Phyllachora意指其葉上之黑斑；種小名repens意為「匍匐蔓延的」。於菩提樹（Ficus religiosa）等榕屬之活葉上形成隆起、光亮之黑色瀝青狀子座（黑痣），為其葉部病害。"
  },
  "inaturalist": [
   {
@@ -348,5 +350,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32322817/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

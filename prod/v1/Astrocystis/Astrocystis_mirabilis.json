@@ -123,7 +123,7 @@
  ],
  "meta": {
   "CapColors": "4278190080,4284635991",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "1,5",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -143,7 +143,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,2",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -154,8 +154,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "非凡星囊炭角菌，種小名mirabilis意為「奇妙的」。子座微小、埋生於竹稈或禾草稈之表皮下而僅露出黑色之子囊殼孔口，周圍常具星狀開裂，需近看方能辨識。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

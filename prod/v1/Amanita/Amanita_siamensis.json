@@ -36,7 +36,7 @@
  ],
  "meta": {
   "CapColors": "4288696877,4294957753",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "45,95",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -54,11 +54,14 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "7,10",
+  "StalkLengthRangeValuess": "70,100",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -66,7 +69,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "泰國鵝膏，屬名Amanita為鵝膏之屬；種小名siamensis意為「暹羅（泰國）的」。蓋常帶菌幕殘片；菌褶離生、白色；柄具菌環、基部具菌托（volva）；孢子印白色；地生於林下、與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -78,5 +81,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

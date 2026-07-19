@@ -2,6 +2,7 @@
  "genus": "Favolaschia",
  "name": "calocera",
  "date": [
+  "07/13/2026,27587811730902563",
   "01/30/2026,25678360835181005",
   "12/04/2025,25154117550938672",
   "06/10/2025,9841923942584615",
@@ -464,6 +465,10 @@
   {
    "author": "陳雅芬",
    "image_src": "Favolaschia_calocera_c259c670-fff1-11f0-9ade-d1038793f240_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_calocera_27587811730902563_342c09e0-8001-11f1-a6ae-2d91ec182952_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -486,13 +491,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,3",
+  "StalkLengthRangeValuess": "2,10",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood,bamboo",
@@ -502,7 +509,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "橘黃膠孔菌，屬名Favolaschia指其蜂窩狀之子實層；種小名calocera由希臘文kalos（美）與keras（角）組成，意指其亮麗如蠟角。子實體腎形至扇形、具短偏生之柄，子實層面為顯眼之多角形孔洞（本屬特徵），膠質而略韌。外觀呈現極為顯眼的亮黃色至亮橙色，乾燥後會轉為褐橙色。隨著國際貿易與氣候暖化，此物種已從原生熱帶區域擴散至全球，並在許多地區被列為具侵略性的外來物種，進而排擠本土物種。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -528,5 +535,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89984/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

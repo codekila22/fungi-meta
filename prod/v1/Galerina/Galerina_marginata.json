@@ -390,6 +390,8 @@
   "StalkLengthRangeValuess": "20,75",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
@@ -399,7 +401,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "此物種有致命劇毒。",
+  "Note": "紋緣盔孢傘，屬名Galerina意為「小盔」，指其盔狀之菌蓋；種小名marginata意為「具邊緣的」。蓋凸至平展、具吸水性、肉桂褐至黃褐色；菌褶初淡後轉銹褐；柄具一膜質菌環，環下色深；孢子印銹褐色；叢生於腐木上。此物種有致命劇毒。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -411,5 +413,5 @@
    "src": "https://static.inaturalist.org/photos/188934/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

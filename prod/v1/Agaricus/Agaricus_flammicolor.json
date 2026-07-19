@@ -235,7 +235,7 @@
  ],
  "meta": {
   "CapColors": "4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,70",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -250,13 +250,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "40,60",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -266,8 +268,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "台灣北部低海拔山區紀錄。",
+  "Note": "火焰色蘑菇，屬名Agaricus為蘑菇之屬；種小名flammicolor意為「火焰色的」，指其橙紅之蓋色。蓋被紅褐至橙褐色之細鱗；菌褶初粉紅後轉巧克力褐色、離生；柄白、具一膜質菌環；見於低海拔山區。台灣北部低海拔山區紀錄。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

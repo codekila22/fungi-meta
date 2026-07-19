@@ -59,8 +59,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -74,11 +74,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Coprinellus disseminatus,,",
-  "Note": "",
+  "LookAlikes": "Coprinellus disseminatus,Coprinellus parcus,",
+  "Note": "簇生小鬼傘東方亞種，種小名disseminatus意為「散播的、播撒的」，指其常成百上千密集群生如撒落。子實體極小、高僅數cm，蓋鐘形、淡褐而老熟轉灰、具放射狀溝紋，菌褶白轉黑，柄白而纖細，與多數鬼傘不同，本種成熟時不自溶成墨汁，密集群生於腐木。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "簇生小鬼傘,,",
-  "la_zhcn": "簇生小鬼伞,,"
+  "la_zhtw": "簇生小鬼傘,小型小鬼傘,",
+  "la_zhcn": "簇生小鬼伞,小型小鬼伞,"
  },
  "inaturalist": [
   {
@@ -89,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/162946776/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

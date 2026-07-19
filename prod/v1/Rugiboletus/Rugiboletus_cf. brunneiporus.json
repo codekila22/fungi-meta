@@ -137,8 +137,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -153,7 +153,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "傷後輕微變藍，之後可能會恢復原色。",
+  "Note": "疑似褐孔皺蓋牛肝菌，屬名Rugiboletus意為「皺蓋之牛肝菌」；種小名brunneiporus意為「褐孔的」。蓋褐色、表面具皺紋；孔面褐色；菌肉傷後輕微轉藍、旋即可能恢復原色；生於闊葉林地。傷後輕微變藍，之後可能會恢復原色。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -165,5 +165,5 @@
    "src": "https://static.inaturalist.org/photos/178552032/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

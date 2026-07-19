@@ -210,8 +210,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "6,12",
   "StalkLengthRangeValuess": "25,70",
@@ -226,7 +226,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Leucopholiota lignicola,Cystoderma granulosum,",
-  "Note": "",
+  "Note": "華美白鱗傘，種小名decorosa意為「華麗的」。蓋與柄密被直立鏽褐色反捲鱗片、具環帶，菌褶白色，生於闊葉樹枯木，外形醒目。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "木生白鱗傘,,",
   "la_zhcn": "木生白鳞伞,,"
@@ -240,5 +240,5 @@
    "src": "https://static.inaturalist.org/photos/11982202/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -181,8 +181,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "8,25",
   "StalkLengthRangeValuess": "30,80",
@@ -199,7 +199,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體傘面顏色變化大，從較淺到深褐都能發現，菌柄與傘面顏色相近。乳汁白色無辛辣味。",
+  "Note": "黑柄乳菇，屬名Lactarius意為「產乳的」；種小名gerardii紀念採集者W. R. Gerard。蓋色澤多變、由淺至暗褐、表面絨狀；菌褶疏、白色而顯眼；柄與蓋同色；傷後湧出白色乳汁、不變色亦無辛辣味。子實體傘面顏色變化大，從較淺到深褐都能發現，菌柄與傘面顏色相近。乳汁白色無辛辣味。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -225,5 +225,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8967707/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

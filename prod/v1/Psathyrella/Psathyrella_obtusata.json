@@ -112,10 +112,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
   "StalkLengthRangeValuess": "23,42",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -128,7 +128,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "鈍頂小脆柄菇，種小名obtusata意為「鈍的」，指菌蓋頂端鈍圓。蓋紅褐至蜜褐、濕時緣具溝紋而乾後褪色（濕度變色），菌褶褐轉暗，柄白細而中空易脆，孢子印暗褐，生於林地落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -147,5 +147,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/53748199/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -302,7 +302,7 @@
  ],
  "meta": {
   "CapColors": "4278190080,4284635991,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,70",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -322,7 +322,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,40",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "yes",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -332,7 +335,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "氈蓋木耳，上表面灰褐具同心環紋被絨毛，下表面紅褐膠質皺褶，平伏反捲於枯木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -351,5 +354,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28470929/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

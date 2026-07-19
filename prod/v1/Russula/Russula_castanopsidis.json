@@ -224,8 +224,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -239,7 +239,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "栗色紅菇，種小名castanopsidis指與錐屬（Castanopsis）樹木共生。菌蓋色澤鮮明、菌褶脆，柄白脆、無環無托，肉脆，外生菌根生於殼斗科林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -251,5 +251,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155360713/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

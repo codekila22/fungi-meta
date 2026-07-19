@@ -32,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4285547028,4287317267",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,20",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -48,7 +48,7 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -63,7 +63,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "刺孢絲蓋傘，種小名calospora由希臘文kalos（美麗）與spora（孢子）組成，指其孢子具顯著結節狀尖刺而形態醒目，此為本種鏡檢之決定性特徵。蓋直徑達2cm；柄長約4cm、粗約2.5mm，生於潮濕闊葉林之地表。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -82,5 +82,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

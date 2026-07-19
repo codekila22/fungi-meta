@@ -175,11 +175,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
+  "StalkPartialVeil": "none",
   "StalkVolva": "sheathing",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,12",
+  "StalkLengthRangeValuess": "40,90",
   "Rareness": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
@@ -190,7 +190,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "亞鐵羅小包腳菇，種小名subtaylori意為「近似taylori的」。蓋灰褐至褐色具纖絲，菌褶白色轉粉紅，柄白色無環、基部具囊狀菌托，孢子印粉紅，腐生於腐土或腐木。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -202,5 +202,5 @@
    "src": "https://static.inaturalist.org/photos/465153863/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -55,8 +55,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "2,8",
   "StalkLengthRangeValuess": "30,60",
@@ -70,7 +70,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "傘面有類似血管的脈狀皺紋。",
+  "Note": "皺皮光柄菇，屬名Pluteus為光柄菇之屬；種小名phlebophorus由希臘文phleps（脈）與phora（帶）組成，意為「具脈的」，正指其血管狀之脈紋。蓋褐色、表面具類似血管之脈狀皺紋；菌褶離生、初白後轉粉紅色；柄纖細；生於腐木上。傘面有類似血管的脈狀皺紋。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -82,5 +82,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/59921456/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

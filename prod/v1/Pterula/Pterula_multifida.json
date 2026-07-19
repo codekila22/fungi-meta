@@ -146,7 +146,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -166,8 +166,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,70",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
@@ -177,7 +179,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Pterula bambusicola,,",
-  "Note": "",
+  "Note": "白鬚瑚菌，種小名multifida意為「多裂的」，指其反覆細分枝。子實體叢生、由基部反覆分枝為極細之針狀枝、白至淡黃褐色、質韌，形如細鬚，生於落葉腐枝層。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "竹生鬚瑚菌,,",
   "la_zhcn": "竹生须瑚菌,,"
@@ -191,5 +193,5 @@
    "src": "https://static.inaturalist.org/photos/102604357/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

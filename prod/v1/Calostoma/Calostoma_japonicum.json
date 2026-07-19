@@ -396,7 +396,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "30,70",
   "Rareness": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered,grouped",
@@ -407,7 +407,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "成熟後會跑出白色孢子粉。",
+  "Note": "日本麗口包，屬名Calostoma由希臘文kalos（美）與stoma（口）組成，意為「美麗之口」，指其色紅而醒目之開口（口緣）；種小名japonicum意為「日本的」。子實體為具柄之腹菌，外層膠質，頂端具紅色之星狀口緣，成熟後由此散出白色孢粉。成熟後會跑出白色孢子粉。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -419,5 +419,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11055950/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

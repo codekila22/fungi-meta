@@ -251,7 +251,7 @@
  ],
  "meta": {
   "CapColors": "4292072403,4290822336",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -271,6 +271,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "5,20",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -281,7 +282,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "闊纖毛齒耳菌，齒菌，平伏反捲、子實層被密集細軟刺淡褐，緣具纖毛，生於闊葉樹枯枝。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -293,5 +294,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156438831/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

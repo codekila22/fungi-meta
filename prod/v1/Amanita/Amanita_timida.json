@@ -100,8 +100,8 @@
   "StalkColors": "",
   "StalkTexture": "raised-scales",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "yes",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -116,7 +116,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita perpasta,,",
-  "Note": "子實體傘面有角錐狀物，傘面與菌柄顏色為乳白色至淡紅色，菌褶傷後會變紅棕色。",
+  "Note": "泛紅鵝膏，屬名Amanita為鵝膏之屬；種小名timida意為「羞怯的」。蓋乳白至淡紅色、被角錐狀之外菌幕殘餘；菌褶白色而傷後轉紅棕色；柄乳白至淡紅、具菌環，基部具菌托。子實體傘面有角錐狀物，傘面與菌柄顏色為乳白色至淡紅色，菌褶傷後會變紅棕色。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "飽腹球基鵝膏,,",
   "la_zhcn": "饱腹球基鹅膏,,"
@@ -130,5 +130,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

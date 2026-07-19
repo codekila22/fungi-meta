@@ -291,8 +291,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -307,7 +307,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Chaetocalathus aff. craterellus,,",
-  "Note": "",
+  "Note": "喇叭毛筐菌，屬名Chaetocalathus意為「具毛之籃筐」，指其被毛之杯狀子實體；種小名craterellus意為「小杯的」。子實體微小、杯狀至喇叭狀、被細毛、常倒懸；菌褶自中心放射；生於枯枝落葉上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "喇叭毛筐菌之相似種,,",
   "la_zhcn": "喇叭毛筐菌之相似种,,"
@@ -321,5 +321,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37878755/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

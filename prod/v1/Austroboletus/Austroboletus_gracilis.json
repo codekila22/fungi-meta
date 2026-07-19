@@ -113,8 +113,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,7",
   "StalkLengthRangeValuess": "50,120",
@@ -128,7 +128,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "細南牛肝菌，屬名Austroboletus意為「南方的牛肝菌」；種小名gracilis意為「纖細的」。蓋紅褐至肉桂褐色、乾而略絨；孔面初白後轉粉紅色；柄細長、常具細網紋或縱紋；孢子具紋飾；與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -154,5 +154,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

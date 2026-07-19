@@ -89,7 +89,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,60",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -109,7 +109,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.5,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -120,7 +120,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "熱帶黏革菌，種小名tropicus意為「熱帶的」，指其分布。子實體平伏於枯木、淡色而薄、質膠黏至蠟質、子實層平滑，緣色淡，生於熱帶闊葉樹枯木下側。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -132,5 +132,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

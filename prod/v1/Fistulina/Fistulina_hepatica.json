@@ -379,7 +379,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,3",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -389,6 +389,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -399,7 +400,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實層菌孔為明顯的圓管狀。",
+  "Note": "肝色牛排菌，屬名Fistulina意為「小管」，指其彼此分離而不相連之管孔；種小名hepatica意為「肝的」，指其形色似肝。子實體舌狀至肝狀、血紅至暗紅色、多汁而切面滲出紅色汁液如生牛排；孔面淡黃至淡紅；生於櫟、栗等之樹幹上。子實層菌孔為明顯的圓管狀。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -411,5 +412,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13074462/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

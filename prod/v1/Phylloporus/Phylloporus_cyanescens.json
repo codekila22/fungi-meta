@@ -116,8 +116,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -131,7 +131,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "變藍褶孔牛肝菌，屬名Phylloporus意為「具褶之孔菌」，指其牛肝菌類卻具菌褶之特徵；種小名cyanescens意為「轉藍的」。蓋褐至紅褐色、絨質；子實層為黃色之菌褶（而非孔管）、傷後轉藍；柄具細點；與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -143,5 +143,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/252240335/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

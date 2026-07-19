@@ -150,6 +150,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0.5,3",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -160,7 +161,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "樹蕨粒毛盤菌，種小名lanariceps意為「羊毛頭的」，指其密被白毛。子實體微小盤狀、具細柄、外緣密被白色綿毛、盤面白至淡黃，群生於樹蕨與木本之枯莖葉柄。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -172,5 +173,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156221816/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

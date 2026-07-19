@@ -42,7 +42,7 @@
  ],
  "meta": {
   "CapColors": "4288696877,4290283019,4283244288",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -57,8 +57,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -72,8 +72,8 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "赭褐環柄斗菇，種小名sajor-caju源自馬來語，為當地對此菇之俗稱。蓋漏斗形、白至黃褐或淡褐，菌褶延生，柄具一明顯菌環（為本種與側耳屬區別之要點），肉韌革質，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

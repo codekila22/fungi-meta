@@ -365,9 +365,9 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "30,85",
   "Rareness": "",
   "Seasons": "",
@@ -379,7 +379,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "易碎白鬼傘，帽薄具放射溝紋、中央綠黃，柄纖細易碎，生於草地林地腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -391,5 +391,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/250691266/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

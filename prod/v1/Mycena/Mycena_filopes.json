@@ -108,8 +108,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "40,150",
@@ -123,7 +123,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "線柄小菇，種小名filopes意為「線狀柄的」，指其菌柄極細如線。蓋圓錐至鐘形、灰褐而具溝紋，菌褶白至灰，柄極細長而灰褐、基部被白毛，搓揉後具碘仿般氣味，群生於林地落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -142,5 +142,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28140211/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

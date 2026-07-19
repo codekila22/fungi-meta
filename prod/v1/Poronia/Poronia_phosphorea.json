@@ -1,6 +1,6 @@
 {
- "genus": "Lindquistia",
- "name": "sp.1",
+ "genus": "Poronia",
+ "name": "phosphorea",
  "date": [
   "04/13/2026,26410500338633714",
   "05/01/2025,9514364248673921",
@@ -11,7 +11,7 @@
   "08/04/2021,4007431286033939"
  ],
  "names_zhtw": [
-  "黃柄林奎氏菌(暫名)"
+  "啟明孔座菌(暫名)"
  ],
  "names_en": [],
  "url": "4007431286033939",
@@ -114,7 +114,7 @@
   }
  ],
  "names_zhcn": [
-  "黄柄林奎氏菌(暂名)"
+  "启明孔座菌(暂名)"
  ],
  "meta": {
   "CapColors": "4294967295",
@@ -122,7 +122,7 @@
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
-  "HymeniumType": "coral",
+  "HymeniumType": "",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
   "HymeniumGillArrangement": "",
@@ -149,8 +149,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "啟明星孔座菌（暫名），屬名Poronia為炭角菌科之一屬；種小名phosphorea意為「發光的」。子座具柄、頂端擴大為圓盤狀、盤面色淡而散布黑點（即埋生子囊殼之開口）；生於草食動物之糞上，為一糞生子囊菌。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260711-101424"
+ "inaturalist": [
+  {
+   "name": "Poronia phosphorea",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1648906",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/377913839/square.jpg"
+  }
+ ],
+ "timestamp": "20260719-180210"
 }

@@ -103,7 +103,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,10",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -123,7 +123,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,60",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -134,7 +134,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Xylaria furcata,,",
-  "Note": "",
+  "Note": "分叉炭角菌，種小名furcatula意為「小分叉的」，指其子座頂端分叉。子座細長直立而上部二叉分枝、黑褐色、表面具點狀子囊殼孔口，纖細，生於腐木與落枝。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "叉狀炭角菌,,",
   "la_zhcn": "叉状炭角菌,,"
@@ -148,5 +148,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -32,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4293313372,4294944000",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -47,13 +47,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0,2",
+  "StalkLengthRangeValuess": "10,85",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -63,7 +65,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "疑似桔色凹小菇，屬名Mycena指其小菇之屬；種小名citrinomarginata意為「檸檬色緣的」，正指其菌褶之邊緣。子實體微小、蓋淡白至淡黃、半透明而具條紋；菌褶邊緣帶鮮明之檸檬黃至橘黃色而與較淡之蓋柄成對比；柄纖細。菌褶邊緣帶有鮮明的檸檬黃色或橘黃色，對比中央較淡白的菌蓋與菌柄。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -96,5 +98,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

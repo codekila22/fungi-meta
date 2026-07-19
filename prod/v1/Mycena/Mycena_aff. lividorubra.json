@@ -44,7 +44,7 @@
  ],
  "meta": {
   "CapColors": "4294901760",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,25",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -62,10 +62,12 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "50,60",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -75,7 +77,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紫紅小菇近似種，屬名Mycena指其小菇之屬；種小名lividorubra意為「鉛紫紅色的」。子實體微小、蓋鐘形而具條紋、鉛紫至紫紅色；菌褶疏；柄纖細；生於腐木與落葉上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -87,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/104884430/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

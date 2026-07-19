@@ -389,13 +389,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "60,80",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground",
@@ -405,7 +407,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長在竹林環境，竹叢基部附近。傘面中央有淺褐色。",
+  "Note": "黃色擬口蘑，種小名flava意為「黃色的」，指其鮮黃之整體。蓋凸至平展、黃色而中央帶淺褐；菌褶彎生、黃色；柄黃色、纖維質；生於竹林環境之竹叢基部附近。生長在竹林環境，竹叢基部附近。傘面中央有淺褐色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -417,5 +419,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -281,7 +281,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "0.3,1",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -291,8 +291,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -302,7 +304,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hexagonia hirta,,",
-  "Note": "菌孔直徑2-4mm，常生長在龍眼/荔枝或其他闊葉木枯枝上。\n與相似種「多毛蜂窩菌」相比，其菌蓋纖毛較粗且容易脫落，菌孔也比較大。",
+  "Note": "毛蜂窩菌，屬名Hexagonia意為「六角形的」，種小名apiaria意為「蜂房的」，二者皆指其六角形如蜂窩之大孔。子實體木質而堅、扇形至半圓、蓋面被粗毛且具環帶；孔面褐色，孔口大而呈六角形；生於龍眼、荔枝等闊葉樹枯枝上。菌孔，常生長在龍眼/荔枝或其他闊葉木枯枝上。\n與相似種「多毛蜂窩菌」相比，其菌蓋纖毛較粗且容易脫落，菌孔也比較大。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -316,5 +318,5 @@
    "src": "https://static.inaturalist.org/photos/25478917/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

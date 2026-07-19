@@ -154,23 +154,23 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,20",
+  "StalkLengthRangeValuess": "50,70",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "yellow",
   "Bioluminescent": "",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體顏色差異頗大，紫褐、紫色、黃褐色、甚至有色斑狀菌傘。此外，此物種的傘緣常有白邊。",
+  "Note": "紫褐牛肝菌，屬名Boletus為牛肝菌之屬；種小名violaceofuscus意為「紫褐色的」。蓋色澤多變、紫褐至紫色乃至黃褐或具色斑、常具白邊、表面具網紋；孔面白色、老時淡黃；柄具網紋；與樹木共生為外生菌根菌。子實體顏色差異頗大，紫褐、紫色、黃褐色、甚至有色斑狀菌傘。此外，此物種的傘緣常有白邊。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -182,5 +182,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/217580173/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

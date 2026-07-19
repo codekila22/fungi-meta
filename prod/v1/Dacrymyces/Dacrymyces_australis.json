@@ -187,7 +187,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "2,10",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -198,7 +198,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "生長於針葉木的枯木上。",
+  "Note": "澳洲花耳，屬名Dacrymyces意為「淚滴之菌」，指其膠質而如淚滴之子實體；種小名australis意為「南方的」。子實體膠質、墊狀至腦回狀、橙至橙黃色，濕時膨脹；生於針葉樹之枯木上。生長於針葉木的枯木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -210,5 +210,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

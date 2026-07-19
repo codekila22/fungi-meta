@@ -377,7 +377,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "5,7",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "velvety",
@@ -387,8 +387,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "20,100",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "50,150",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
@@ -398,7 +400,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌蓋有同心環紋，蓋緣有溝紋，波浪狀。傷後變紅後轉黑。常生長在相思樹旁。",
+  "Note": "環皺血芝，屬名Sanguinoderma意為「血色之皮」，指其組織傷後滲出血紅色汁液；種小名rugosum意為「具皺的」。子實體具柄、蓋革質至木栓質，昔置於靈芝科之假芝屬（Amauroderma）；孔面白色，觸之或傷後轉紅而終變黑。菌蓋有同心環紋，蓋緣有溝紋，波浪狀。傷後變紅後轉黑。常生長在相思樹旁。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -410,5 +412,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/111596254/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -86,7 +86,7 @@
  ],
  "meta": {
   "CapColors": "4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.5,3",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -106,7 +106,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.3,1.5",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -117,10 +117,10 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Eutypa linearis,,",
-  "Note": "",
+  "Note": "假擬縫裂殼盧梭氏菌，種小名pseudohysterioides意為「偽似裂殼菌的」，指其開口似裂殼菌之縱縫。子座微小、埋生於竹稈表皮下而露出黑色之子囊殼孔口，群生於竹稈。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
  },
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

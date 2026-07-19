@@ -279,7 +279,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4294309365",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,8",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -294,15 +294,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0,1",
+  "StalkLengthRangeValuess": "20,45",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -310,7 +312,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Mycena albopilosa,,",
-  "Note": "",
+  "Note": "多刺小菇，帽灰褐具溝紋被微刺，柄細長，孢子與囊狀體具刺，生於腐木落葉。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "白毛小菇,,",
   "la_zhcn": "白毛小菇,,"
@@ -324,5 +326,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5753941/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

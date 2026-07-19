@@ -104,17 +104,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "三色擬迷孔菌，屬名Daedaleopsis意為「似迷孔菌（Daedalea）的」，指其迷宮狀之孔；種小名tricolor意為「三色的」。子實體扇形至半圓、無柄、革質、蓋面具紅褐至暗褐之同心環帶；子實層為輻射狀之褶片至迷宮狀之孔；生於闊葉樹枯木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
-   "name": "Daedaleopsis tricolor",
+   "name": "Daedaleopsis confragosa tricolor",
    "cname": "",
    "cname_zh": "三色擬迷孔菌",
-   "url": "https://www.inaturalist.org/taxa/940416-Daedaleopsis-tricolor",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108638089/thumb.jpeg"
+   "url": "https://www.inaturalist.org/taxa/154745",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/108638089/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

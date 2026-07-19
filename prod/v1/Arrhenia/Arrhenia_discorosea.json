@@ -44,7 +44,7 @@
  ],
  "meta": {
   "CapColors": "4294901760,4286141768,4293951616",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0,50",
   "CapShape": "infundibuliform",
   "CapTexture": "",
   "CapMargin": "",
@@ -59,8 +59,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -75,7 +75,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "分離褶盾菌，種小名discorosea由discus（盤）與roseus（玫瑰色）組成，指其盤狀而帶玫瑰色調之特徵。蓋達5cm、初凸圓而中央下凹、後漏斗狀而平、緣具條紋、具吸水性；本種菌褶帶紫色調，生於苔蘚與潮濕之地上。"
  },
  "inaturalist": [
   {
@@ -86,5 +86,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/45367380/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

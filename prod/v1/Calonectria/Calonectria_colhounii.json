@@ -77,7 +77,7 @@
  ],
  "meta": {
   "CapColors": "4294083840",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0.2,1",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -97,7 +97,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "0.2,1",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -108,7 +108,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "柯氏麗赤殼菌，種小名colhounii紀念植物病理學家Colhoun。有性世代之子囊殼極微小、球形而鮮橙紅至暗紅色，叢生於病株組織表面，為多種作物與林木之葉斑病原菌。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -120,5 +120,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -370,6 +370,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -379,7 +381,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Ceratiomyxa morchella,,",
-  "Note": "",
+  "Note": "孔孢鵝絨黏菌，種小名porioides意為「似具孔的」，指其蜂窩狀之網。子實體白色、由縱橫之隔壁聯成蜂窩狀之孔網；孢子外生於網壁之細突起上（外孢型黏菌）；生於腐木上。",
   "la_zhtw": "羊肚鵝絨黏菌,,",
   "la_zhcn": "羊肚鹅绒黏菌,,"
  },
@@ -392,5 +394,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22413078/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

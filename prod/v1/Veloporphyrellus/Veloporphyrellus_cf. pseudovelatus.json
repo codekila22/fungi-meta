@@ -100,8 +100,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "mycelium",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "30,70",
@@ -116,7 +116,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "菌蓋邊緣有菌幕裂片懸垂。",
+  "Note": "疑似擬垂邊紅孢紗牛肝菌，屬名Veloporphyrellus意為「具菌幕之紅孢牛肝菌」，指其菌蓋緣之菌幕；種小名pseudovelatus意為「偽具菌幕的」。蓋褐色、邊緣懸垂菌幕之裂片；孔面粉紅色；柄細長；生於闊葉林地，與樹木共生為外生菌根菌。菌蓋邊緣有菌幕裂片懸垂。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -128,5 +128,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/307990889/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

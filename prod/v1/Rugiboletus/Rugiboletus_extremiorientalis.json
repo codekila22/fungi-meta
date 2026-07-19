@@ -127,11 +127,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "25,50",
+  "StalkLengthRangeValuess": "50,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -142,7 +142,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "裂皮皺蓋牛肝菌，種小名extremiorientalis意為「極東的」，指其分布於東亞。蓋黃褐至褐、幼時皺縮老時龜裂、濕時黏，孔面奶油黃、傷不變色，柄檸檬黃被褐黃點狀鱗，外生菌根生於林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -154,5 +154,5 @@
    "src": "https://static.inaturalist.org/photos/47932929/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

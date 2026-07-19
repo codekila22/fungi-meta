@@ -92,8 +92,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -108,7 +108,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Psathyrella piluliformis,,",
-  "Note": "",
+  "Note": "褐葉色小脆柄菇，屬名Psathyrella為小脆柄菇之屬；種小名fuscifolia意為「褐色菌褶的」。子實體脆；蓋鐘形至凸、褐色、濕時具條紋；菌褶初褐後轉暗紫褐；柄細白而脆；地生於腐植質或腐木上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "丸形小脆柄菇,,",
   "la_zhcn": "丸形小脆柄菇,,"
@@ -122,5 +122,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157127005/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -7,7 +7,8 @@
   "05/14/2023,5977082929068755",
   "04/29/2022,4852570274853365",
   "05/15/2021,3842935545816848",
-  "04/03/2021,3651169978326740"
+  "04/03/2021,3651169978326740",
+  "05/08/2020,27547422711608132"
  ],
  "names_zhtw": [
   "紫色裸傘"
@@ -178,6 +179,50 @@
   {
    "author": "陳麗紅",
    "image_src": "Gymnopilus_purpuratus_bc3ee680-ba0f-11f0-86d5-2d5aa78e6e82_12.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_9.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_10.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Gymnopilus_purpuratus_27547422711608132_b6d29690-7d0c-11f1-a10a-9f31227dc601_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -200,11 +245,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "4,12",
+  "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
@@ -216,7 +261,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Gymnopilus dilepis,,",
-  "Note": "",
+  "Note": "紫色裸傘，帽紅褐乾燥被鱗、菌褶黃橙，柄褐紅、傷處染藍綠斑，叢生於木屑腐木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "熱帶紫褐裸傘,,",
   "la_zhcn": "热带紫褐裸伞,,"
@@ -230,5 +275,5 @@
    "src": "https://static.inaturalist.org/photos/1257491/thumb."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

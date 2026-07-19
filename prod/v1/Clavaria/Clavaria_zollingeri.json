@@ -2,6 +2,7 @@
  "genus": "Clavaria",
  "name": "zollingeri",
  "date": [
+  "07/14/2026,27581150341568702",
   "07/06/2026,27494159223601148",
   "07/04/2025,10021746687935672",
   "06/15/2025,10069560936487580",
@@ -407,6 +408,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -434,7 +471,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "50,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
@@ -445,17 +482,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "堇紫珊瑚菌，二叉分枝叢生、枝端鈍圓，質脆，生於林地腐植層，孢子印白色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
-   "name": "Clavaria zollingeri",
-   "cname": "Violet Coral Fungus",
+   "name": "Clavulinopsis zollingeri",
+   "cname": "violet coral",
    "cname_zh": "堇紫珊瑚菌",
-   "url": "https://www.inaturalist.org/taxa/126160-Clavaria-zollingeri",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13562101/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1672084",
+   "src": "https://static.inaturalist.org/photos/633459823/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

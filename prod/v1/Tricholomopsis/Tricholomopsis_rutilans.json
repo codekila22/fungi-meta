@@ -2,6 +2,7 @@
  "genus": "Tricholomopsis",
  "name": "rutilans",
  "date": [
+  "07/12/2026,27558659017151168",
   "07/23/2025,23982894011394371",
   "06/11/2025,9843720989071577",
   "07/07/2024,7638376692939362",
@@ -366,6 +367,7 @@
   "StalkLengthRangeValuess": "50,100",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "mid,high",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
@@ -375,8 +377,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "夏秋時節常生長在中高海拔針葉木腐爛的枯木或附近地上，菌柄與菌蓋同色。",
-  "Elevation": "mid,high",
+  "Note": "赭紅擬口蘑，屬名Tricholomopsis意指其形似口蘑屬（Tricholoma）；種小名rutilans意為「泛紅光的」，指其紅豔之鱗片。蓋黃底而密被紫紅至酒紅色之纖絲狀鱗片；菌褶密、黃色；柄黃色而亦被紅色細鱗；生於針葉樹腐木上。夏秋時節常生長在中高海拔針葉木腐爛的枯木或附近地上，菌柄與菌蓋同色。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -416,5 +417,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

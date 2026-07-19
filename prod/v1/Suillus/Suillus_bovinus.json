@@ -241,28 +241,28 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "central",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,8",
+  "StalkLengthRangeValuess": "40,60",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "具有黏性的表皮剝除後，充分煮熟方能食用。",
+  "Note": "乳牛肝菌，屬名Suillus意為「豬的」；種小名bovinus意為「牛的」。蓋赭黃至肉桂褐色、表面黏；孔面黃褐色、孔口大而複疊、延生；柄細而無菌環；與松樹共生為外生菌根菌。具有黏性的表皮剝除後，充分煮熟方能食用。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -274,5 +274,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1825888/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

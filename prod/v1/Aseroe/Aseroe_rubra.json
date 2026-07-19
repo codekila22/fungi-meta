@@ -217,7 +217,8 @@
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "100,200",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "100,200",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -228,7 +229,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "紅星頭鬼筆，種小名rubra意為「紅色的」。成熟自卵狀托伸出，頂端具6–10條紅色、深裂為二的臂放射展開如海葵，中央覆暗橄欖褐產孢黏液具腐臭，柄白、托杯狀，生於木屑腐土。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -240,5 +241,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17444426/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

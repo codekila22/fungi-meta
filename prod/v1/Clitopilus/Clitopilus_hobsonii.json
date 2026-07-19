@@ -335,7 +335,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "2,25",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -350,13 +350,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "wood,leaves,debris",
@@ -366,7 +368,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "基部有白色絨毛。",
+  "Note": "荷伯生氏斜蓋傘，屬名Clitopilus為斜蓋傘之一屬；種小名hobsonii紀念採集者Hobson。子實體微小、白色、無柄至側生，蓋貝殼形、被細絨毛；菌褶延生、初白後轉粉紅；孢子印粉紅色（本屬特徵）；生於枯木與樹皮上。基部有白色絨毛。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -385,5 +387,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/259121760/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

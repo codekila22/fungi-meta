@@ -212,7 +212,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "5,8",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -222,10 +222,12 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "20,80",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -233,7 +235,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Polyporus varius,Polyporus cf. guianensis,",
-  "Note": "",
+  "Note": "紅褐黑柄多孔菌，種小名badius意為「栗褐色」，指菌蓋深栗褐色。帽圓形至漏斗形栗褐光滑、緣淺色，孔面白色極細密，柄黑色偏生具漆皮，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "多變多孔菌,疑似圭亞那多孔菌,",
   "la_zhcn": "多变多孔菌,疑似圭亚那多孔菌,"
@@ -247,5 +249,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/121046/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

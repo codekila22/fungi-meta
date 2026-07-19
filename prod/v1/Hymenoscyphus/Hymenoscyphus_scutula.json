@@ -76,6 +76,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "1,7",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -86,7 +87,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "盾膜盤菌，種小名scutula意為「小盾牌」，指其盤狀之子實體。子囊盤上表面淺碗形至近平、直徑0.1–0.4cm；柄長度多變、通常1–7mm、纖細而圓柱狀、常呈乳白色，生於草本植物之枯莖上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -98,5 +99,5 @@
    "src": "https://static.inaturalist.org/photos/17852429/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

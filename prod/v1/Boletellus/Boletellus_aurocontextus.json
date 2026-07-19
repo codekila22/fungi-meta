@@ -180,16 +180,16 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,15",
+  "StalkLengthRangeValuess": "50,100",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -201,7 +201,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Boletellus emodensis,,",
-  "Note": "香港與台灣皆有紀錄。傘蓋裂隙下的菌肉呈現鮮黃至檸檬黃色。",
+  "Note": "金裂紋條孢牛肝菌，屬名Boletellus意為「小牛肝菌」；種小名aurocontextus由aurum（金）與contextus（組織）組成，意為「金黃菌肉的」，正指其蓋裂隙下鮮黃至檸檬黃之菌肉。蓋紅至紅褐色、龜裂；孔面黃色；柄具條紋；孢子具縱脊。香港與台灣皆有紀錄。傘蓋裂隙下的菌肉呈現鮮黃至檸檬黃色。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "酒色條孢牛肝菌,,",
   "la_zhcn": "酒色条孢牛肝菌,,"
@@ -215,5 +215,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/316335791/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

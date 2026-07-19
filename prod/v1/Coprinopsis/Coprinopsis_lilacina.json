@@ -188,10 +188,10 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
   "StalkLengthRangeValuess": "15,25",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -204,7 +204,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "紫色與灰白色子實體有機會同時出現在一個群體中。紫色的型態會裂成小格狀，且不見典型鬼傘自溶。",
+  "Note": "淡紫色擬鬼傘，屬名Coprinopsis意指其似鬼傘之習性；種小名lilacina意為「淡紫色的」。子實體小，被淡紫色之菌幕；紫色與灰白色之個體有時並存於同一群；紫色型蓋面常裂為小格狀而不見典型之墨化自溶。紫色與灰白色子實體有機會同時出現在一個群體中。紫色的型態會裂成小格狀，且不見典型鬼傘自溶。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -216,5 +216,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/149561074/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -256,7 +256,7 @@
   "StalkPartialVeil": "yes",
   "StalkVolva": "yes",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "8,20",
   "StalkLengthRangeValuess": "100,140",
   "HeightRangeValuess": "",
   "Rareness": "",
@@ -269,7 +269,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "在台灣台南/高雄發現，根據文獻記載此物種生長於南亞與東南亞地區。",
+  "Note": "綠褶托菇，屬名Clarkeinda紀念採集者Clarke；種小名trachodes意為「粗糙的」，指其被鱗而粗糙之菌蓋。蓋褐色、被褐色鱗片；菌褶初白後轉褐綠色；柄具菌環，基部具菌托；孢子印褐綠色；分布於南亞與東南亞。在台灣台南/高雄發現，根據文獻記載此物種生長於南亞與東南亞地區。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -281,5 +281,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/175380006/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

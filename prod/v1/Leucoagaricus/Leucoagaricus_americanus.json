@@ -296,8 +296,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "70,140",
@@ -312,17 +312,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "美國白環蘑，帽白具紅褐鱗、傷變黃轉紅褐，柄具環傷變色，叢生於木屑堆肥。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
-   "name": "Leucoagaricus americanus",
-   "cname": "Reddening Lepiota",
+   "name": "Macropsalliota americana",
+   "cname": "reddening lepiota",
    "cname_zh": "布雷白環蘑",
-   "url": "https://www.inaturalist.org/taxa/119984-Leucoagaricus-americanus",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314654/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1618816",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314654/square.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

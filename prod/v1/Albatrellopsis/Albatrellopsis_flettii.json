@@ -110,7 +110,7 @@
  ],
  "meta": {
   "CapColors": "4278190335,4287245282",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,200",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -120,7 +120,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "1,4",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -130,8 +130,9 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
+  "HeightRangeValuess": "50,150",
   "Rareness": "",
+  "Elevation": "high",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -141,8 +142,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "高海拔地區物種。",
-  "Elevation": "high",
+  "Note": "藍黃擬地花菌，屬名Albatrellopsis意為「似地花菌（Albatrellus）的」；種小名flettii紀念採集者J. B. Flett。子實體具中生或偏生之柄，蓋圓形、初藍灰色而後帶黃色調；孔面白至淡黃、延生；生於高海拔針葉林地。高海拔地區物種。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -154,5 +154,5 @@
    "src": "https://static.inaturalist.org/photos/1378367/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

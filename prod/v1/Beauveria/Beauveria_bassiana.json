@@ -252,6 +252,8 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "parasitic",
@@ -261,7 +263,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Pandora dipterigena,Entomophthora muscae,",
-  "Note": "",
+  "Note": "白殭菌，屬名Beauveria為白殭菌之屬；種小名bassiana紀念最早研究之學者Agostino Bassi。感染多種昆蟲、於蟲體外長出白色粉狀之分生孢子層、使蟲僵硬而死（白殭）；廣用為生物防治之殺蟲真菌。",
   "la_zhtw": "雙翅蟲癘黴,蠅蟲黴,",
   "la_zhcn": "双翅虫疠霉,蝇虫霉,"
  },
@@ -274,5 +276,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6709080/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -292,7 +292,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294083840,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "15,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -307,15 +307,17 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -323,7 +325,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Heimiomyces velutipes,,",
-  "Note": "常見於中海拔山區。",
+  "Note": "無毛鱗蓋傘，屬名Cyptotrama為小菇類之一屬；種小名glabra意為「光滑無毛的」，以別於被翹鱗之近緣種金黃鱗蓋傘。蓋凸至平展、光滑；菌褶白色、延生；柄纖細；生於闊葉樹腐木上，常見於中海拔山區。常見於中海拔山區。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "絨柄半皮傘,,",
   "la_zhcn": "绒柄半皮伞,,"
@@ -337,5 +339,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/186697976/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

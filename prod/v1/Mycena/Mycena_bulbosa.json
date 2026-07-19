@@ -70,7 +70,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "1,4",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -85,13 +85,15 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "0.1,0.5",
+  "StalkLengthRangeValuess": "7,15",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood,leaves,bamboo",
@@ -101,7 +103,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "球根小菇，屬名Mycena指其小菇之屬；種小名bulbosa意為「具球根的」，正指其柄基膨大之圓盤（球根）。子實體微小、蓋半透明而具條紋；菌褶疏；柄纖細、基部具一明顯膨大之圓盤狀構造；為典型之濕地型物種，生於濕地草本莖稈與腐木上。一種典型的濕地型物種，通常生長在濕地、沼澤或湖泊邊緣的草本植物莖稈（如燈心草等）以及腐爛的枯木上，極度依賴潮濕的微氣候。\n\n其菌柄底部有一個明顯膨大的圓盤狀基部，這也是其被稱為「球根」小菇的由來。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -113,5 +115,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1804684/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

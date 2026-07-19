@@ -246,7 +246,7 @@
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
-  "StalkVolva": "",
+  "StalkVolva": "none",
   "StalkBase": "bulbous",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -260,7 +260,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "幼菌形狀較為圓與平，成菌傘面紅棕色裂片除中央以外，可能無或大小不一，並不會呈現同心圓排列。此種的菌柄基部膨大，且傷後呈現出紅棕色。此物種可能有毒。",
+  "Note": "毒大環柄菇之相似種，屬名Macrolepiota意為「大型環柄菇」；種小名venenata源自拉丁文venenum。蓋大、傘狀、被紅棕色之裂片狀鱗片、除中央外常大小不一而不呈同心圓排列；柄細長、基部膨大而傷後轉紅棕色。幼菌形狀較為圓與平，成菌傘面紅棕色裂片除中央以外，可能無或大小不一，並不會呈現同心圓排列。此種的菌柄基部膨大，且傷後呈現出紅棕色。此物種可能有毒。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -272,5 +272,5 @@
    "src": "https://static.inaturalist.org/photos/11608138/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

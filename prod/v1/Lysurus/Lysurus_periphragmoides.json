@@ -230,7 +230,7 @@
  ],
  "meta": {
   "CapColors": "4294309365",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,25",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -250,6 +250,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "60,150",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -260,7 +261,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實體寬度2-4cm，高度4-7cm。",
+  "Note": "圍籬散尾鬼筆，種小名periphragmoides意為「四周圍以柵欄的」，指其頭部之格狀網籠。子實體自卵中長出，由一中空海綿質之長柄頂著紅至橙色之格狀球形頭（receptaculum），格網間覆暗色惡臭產孢黏液以誘蠅類，生於庭園腐土與木屑。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -272,5 +273,5 @@
    "src": "https://static.inaturalist.org/photos/56084088/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

@@ -129,7 +129,7 @@
  ],
  "meta": {
   "CapColors": "4288768839,4293302630",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,70",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -144,11 +144,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "4,10",
+  "StalkLengthRangeValuess": "30,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -159,7 +159,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "乳酪紅金錢菇，種小名butyracea意為「奶油般的」，指菌蓋表面觸感如塗奶油般滑膩。蓋紅褐至栗褐、濕時油滑、乾後褪色，菌褶白色密集，柄具縱紋而基部膨大被白毛，群生於針闊葉林落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -178,5 +178,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/177659894/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

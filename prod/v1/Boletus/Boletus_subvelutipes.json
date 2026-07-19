@@ -223,7 +223,7 @@
  ],
  "meta": {
   "CapColors": "4291648604,4291581184",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "50,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -233,51 +233,37 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,3",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "10,30",
+  "StalkLengthRangeValuess": "40,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "blue",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "褐絨柄牛肝菌，帽褐色絨質、孔面暗紅，柄基被暗紅絨毛，肉與孔傷即刻變深藍，殼斗林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
   {
-   "name": "Boletus subvelutipes",
+   "name": "Neoboletus subvelutipes",
    "cname": "Red-mouth Bolete",
    "cname_zh": "褐絨柄牛肝菌",
-   "url": "https://www.inaturalist.org/taxa/125367-Boletus-subvelutipes",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5628160/thumb.jpg"
-  },
-  {
-   "name": "Boletus subvelutipes glabripes",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/125368-Boletus-subvelutipes-glabripes",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/49523548/thumb.jpeg"
-  },
-  {
-   "name": "Boletus subvelutipes subvelutipes",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/125369-Boletus-subvelutipes-subvelutipes",
-   "src": ""
+   "url": "https://www.inaturalist.org/taxa/1560597",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/187797817/square.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

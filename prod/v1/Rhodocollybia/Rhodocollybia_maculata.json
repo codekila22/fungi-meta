@@ -32,7 +32,7 @@
  ],
  "meta": {
   "CapColors": "4294958765,4294303411,4292786311",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "30,90",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -47,11 +47,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "40,100",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -62,7 +62,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "斑紅金錢菇，種小名maculata意為「具斑點的」，指子實體各部老熟後現鏽紅褐色斑點。蓋乳白至奶油色而散生紅褐斑、凸形後平展，菌褶白至淡黃、極密，柄同色、堅韌中空、向下漸細而常具縱溝與扭轉之紋，肉白味苦，群生於針葉林落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -109,5 +109,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

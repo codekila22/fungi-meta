@@ -159,6 +159,8 @@
   "StalkLengthRangeValuess": "60,130",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood,parasitic",
@@ -168,7 +170,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Lyophyllum fumosum,,",
-  "Note": "",
+  "Note": "疑似榆生玉蕈，種小名ulmarius意為「榆樹的」，指其常生於榆樹。蓋白至米白、大型而肉厚、表面平滑或老時龜裂，菌褶白色凹生，柄粗壯而常偏生，叢生於闊葉樹（尤榆）之活立木傷口與倒木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -182,5 +184,5 @@
    "src": "https://static.inaturalist.org/photos/25639310/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

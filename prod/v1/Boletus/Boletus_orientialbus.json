@@ -109,8 +109,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -125,7 +125,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "子實層菌孔細密, 蕈蓋較老會變黃。",
+  "Note": "東方白牛肝菌，屬名Boletus為牛肝菌之屬；種小名orientialbus意為「東方白色的」。蓋白色、老時漸轉黃；孔面細密；柄具網紋；與樹木共生為外生菌根菌。子實層菌孔細密, 蕈蓋較老會變黃。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -137,5 +137,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

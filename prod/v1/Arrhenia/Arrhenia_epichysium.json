@@ -51,7 +51,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,30",
   "CapShape": "infundibuliform",
   "CapTexture": "",
   "CapMargin": "",
@@ -66,11 +66,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "10,50",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -82,7 +82,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": ""
+  "Note": "褐蘚臍菇，種小名epichysium源自希臘文epichysis（傾注用之器皿），喻其中央深凹如漏斗之菌蓋。蓋小型、褐至暗灰、中央下凹而具變水性，菌褶窄而薄、極密集、明顯延生，柄細，生於腐木與苔蘚間。"
  },
  "inaturalist": [
   {
@@ -93,5 +93,5 @@
    "src": "https://static.inaturalist.org/photos/44025455/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

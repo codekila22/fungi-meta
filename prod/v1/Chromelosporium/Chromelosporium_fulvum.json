@@ -2,6 +2,7 @@
  "genus": "Chromelosporium",
  "name": "fulvum",
  "date": [
+  "07/13/2026,27580354564981613",
   "02/01/2024,7005182292925475",
   "02/11/2022,4653588638084864",
   "08/27/2019,3385045391605868"
@@ -71,6 +72,46 @@
   {
    "author": "陳麗紅",
    "image_src": "Chromelosporium_fulvum_6c44bd30-ddd9-11ee-be33-795b9c2c9543_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chromelosporium_fulvum_27580354564981613_9264c630-8021-11f1-ad19-23a1d6387027_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chromelosporium_fulvum_27580354564981613_9264c630-8021-11f1-ad19-23a1d6387027_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chromelosporium_fulvum_27580354564981613_9264c630-8021-11f1-ad19-23a1d6387027_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chromelosporium_fulvum_27580354564981613_9264c630-8021-11f1-ad19-23a1d6387027_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chromelosporium_fulvum_27580354564981613_9264c630-8021-11f1-ad19-23a1d6387027_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chromelosporium_fulvum_27580354564981613_9264c630-8021-11f1-ad19-23a1d6387027_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chromelosporium_fulvum_27580354564981613_9264c630-8021-11f1-ad19-23a1d6387027_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chromelosporium_fulvum_27580354564981613_9264c630-8021-11f1-ad19-23a1d6387027_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chromelosporium_fulvum_27580354564981613_9264c630-8021-11f1-ad19-23a1d6387027_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chromelosporium_fulvum_27580354564981613_9264c630-8021-11f1-ad19-23a1d6387027_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -108,7 +149,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "白黃孢菌，屬名Chromelosporium意指其有色之孢子；種小名fulvum意為「黃褐色的」。為盤菌（Peziza）之無性型、於滅菌土壤與花盆表面形成黃褐色粉狀之菌落、產生褐色之分生孢子（俗稱花盆黴）。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -120,5 +161,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18957293/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

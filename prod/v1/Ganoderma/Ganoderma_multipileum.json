@@ -92,7 +92,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
@@ -102,7 +105,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "重傘靈芝，屬名Ganoderma為靈芝之屬；種小名multipileum意為「多菌蓋的」。子實體木栓質、具漆狀光澤之紅褐色蓋、常數蓋重疊而生（故名重傘）、具側柄或無柄；為亞洲熱帶常見之靈芝（過去多誤稱為赤芝G. lucidum）；生於闊葉樹基部與枯木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -114,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40313665/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

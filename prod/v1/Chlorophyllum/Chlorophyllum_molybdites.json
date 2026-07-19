@@ -441,13 +441,15 @@
   "StalkColors": "4294967295",
   "StalkTexture": "",
   "StalkHollow": "hollow",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "yes",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
+  "StalkDiamRangeValuess": "10,25",
   "StalkLengthRangeValuess": "50,150",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground,meadow",
@@ -457,7 +459,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Chlorophyllum hortense,Chlorophyllum globosum,",
-  "Note": "菌褶年輕時候呈白色，但成熟後逐漸呈現出灰綠色，故名。綠褶菇常有機會在草坪中形成仙女環。\n如要製做孢子印，要趁菌蓋還沒完全開展，較新鮮時就採集，然后菌褶面朝下靜置於白紙上數小時，此時樣態的個體孢子粉量會比較充足。而老熟個體孢子粉大多已散盡，所以較難成功。",
+  "Note": "綠褶菇，屬名Chlorophyllum意為「綠色的褶」，種小名molybdites意為「鉛灰色的」，皆指其成熟後灰綠之菌褶與孢子。蓋大、白至淡褐、被褐色鱗片；柄長、白色、具可移動之菌環；孢子印灰綠色，此為與白色孢子近似種區別之要點。菌褶年輕時候呈白色，但成熟後逐漸呈現出灰綠色，故名。綠褶菇常有機會在草坪中形成仙女環。\n如要製做孢子印，要趁菌蓋還沒完全開展，較新鮮時就採集，然后菌褶面朝下靜置於白紙上數小時，此時樣態的個體孢子粉量會比較充足。而老熟個體孢子粉大多已散盡，所以較難成功。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "庭院綠褶菇,球蓋綠褶菇,",
   "la_zhcn": "庭院绿褶菇,球盖绿褶菇,"
@@ -471,5 +473,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133009/thumb."
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

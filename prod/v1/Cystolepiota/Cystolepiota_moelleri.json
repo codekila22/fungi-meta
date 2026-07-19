@@ -97,11 +97,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,5",
+  "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -113,7 +113,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Micropsalliota lateritia,,",
-  "Note": "",
+  "Note": "莫勒囊小傘，種小名moelleri紀念真菌學者Møller。子實體全體被粉紅至酒紅色之粉狀顆粒（本種特徵），蓋小型、菌褶白色離生，柄同色而具模糊環帶，生於闊葉林腐土。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "磚紅小蘑菇,,",
   "la_zhcn": "砖红小蘑菇,,"
@@ -127,5 +127,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

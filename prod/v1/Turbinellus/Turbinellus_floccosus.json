@@ -308,7 +308,10 @@
   "StalkBase": "rooting",
   "StalkDiamRangeValuess": "5,15",
   "StalkLengthRangeValuess": "30,70",
+  "HeightRangeValuess": "60,300",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -318,7 +321,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "毛釘菇，帽漏斗形被橙紅鱗片，下表面脈狀稜脊延生（非真菌褶），生於針葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -330,5 +333,5 @@
    "src": "https://static.inaturalist.org/photos/52836567/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

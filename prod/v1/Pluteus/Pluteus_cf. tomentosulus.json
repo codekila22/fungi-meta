@@ -118,8 +118,8 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
@@ -133,7 +133,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "",
+  "Note": "疑似粒絨光柄菇，屬名Pluteus為光柄菇之屬；種小名tomentosulus意為「略被絨毛的」。蓋白色、表面被細小之絨粒；菌褶離生、初白後轉粉紅色；柄白；生於腐木上；本記錄尚待確認（cf.）。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -145,5 +145,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13063768/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

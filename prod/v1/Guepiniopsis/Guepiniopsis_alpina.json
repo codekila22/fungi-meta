@@ -48,7 +48,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "5,25",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -79,7 +79,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Guepiniopsis buccina,,",
-  "Note": "生長於針葉木枯枝上。",
+  "Note": "高山膠盤耳，屬名Guepiniopsis為膠質菌之一屬；種小名alpina意為「高山的」。子實體膠質、陀螺形至喇叭狀、橙至橙黃色、具短柄，乾後強烈皺縮；生於針葉樹之枯枝上。生長於針葉木枯枝上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "膠盤耳,,",
   "la_zhcn": "胶盘耳,,"
@@ -93,5 +93,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40184816/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

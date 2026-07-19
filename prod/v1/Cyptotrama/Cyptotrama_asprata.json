@@ -352,7 +352,7 @@
   "StalkColors": "4294962944,4294940928",
   "StalkTexture": "velvety",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
+  "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "equal",
   "StalkDiamRangeValuess": "2,4",
@@ -368,7 +368,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "常有白色型出現。",
+  "Note": "金黃鱗蓋傘，屬名Cyptotrama為小菇類之一屬；種小名asprata意為「粗糙的」，指其被翹鱗而粗糙之菌蓋。蓋鮮金黃至橙黃色、密被錐狀翹鱗；菌褶白色、延生；柄具細鱗、與蓋同色；生於闊葉樹枯木上，偶見白色型。常有白色型出現。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -380,5 +380,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/850509/thumb.jpg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }

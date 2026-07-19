@@ -44,7 +44,7 @@
  ],
  "meta": {
   "CapColors": "4278190219,4283105408,4286578688",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "32,80",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -59,11 +59,11 @@
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
-  "StalkPartialVeil": "",
-  "StalkVolva": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "7,18",
+  "StalkLengthRangeValuess": "30,55",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -75,7 +75,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Russula cyanoxantha,,",
-  "Note": "嚐起來有堅果口感，褶略延生，很像藍黃紅菇 (Russula cyanoxantha)，但是褶有分叉，褶邊有點鏽紅色，傘正面中央淡黃，幼菌表面覆蓋白色粉末。",
+  "Note": "疑似似天藍紅菇，屬名Russula為紅菇之屬；種小名parazurea意為「近天藍色的」。蓋灰藍色、中央淡黃、幼時被白色粉末；菌褶略延生、有分叉、褶邊略帶鏽紅；口感似堅果；近似藍黃紅菇而以分叉之菌褶等相區別。嚐起來有堅果口感，褶略延生，很像藍黃紅菇 (Russula cyanoxantha)，但是褶有分叉，褶邊有點鏽紅色，傘正面中央淡黃，幼菌表面覆蓋白色粉末。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "藍黃紅菇,,",
   "la_zhcn": "蓝黄红菇,,"
@@ -89,5 +89,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/359473881/thumb.jpeg"
   }
  ],
- "timestamp": "20260711-101424"
+ "timestamp": "20260719-180210"
 }
