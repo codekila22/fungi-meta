@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "sulphurinus",
  "date": [
+  "07/19/2026,27639398835743852",
   "06/19/2026,27294087146941691",
   "04/09/2026,26371224659227949",
   "10/06/2025,24584832681200498",
@@ -357,6 +358,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Crepidotus_sulphurinus_b08f0b20-3418-11f1-b3ea-2792ecee302d_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_sulphurinus_27639398835743852_182ac990-8347-11f1-a062-8118f6bbb4de_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_sulphurinus_27639398835743852_182ac990-8347-11f1-a062-8118f6bbb4de_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_sulphurinus_27639398835743852_182ac990-8347-11f1-a062-8118f6bbb4de_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_sulphurinus_27639398835743852_182ac990-8347-11f1-a062-8118f6bbb4de_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Crepidotus_sulphurinus_27639398835743852_182ac990-8347-11f1-a062-8118f6bbb4de_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -409,5 +430,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155114712/thumb.jpg"
   }
  ],
- "timestamp": "20260719-094145"
+ "timestamp": "20260719-180210"
 }

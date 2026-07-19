@@ -2,6 +2,7 @@
  "genus": "Helvella",
  "name": "elastica",
  "date": [
+  "07/18/2026,27637768045906931",
   "07/04/2023,6175388535904859",
   "06/28/2023,6141259465984433",
   "06/28/2023,6139218969521816",
@@ -97,6 +98,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Helvella_elastica_3db5d330-154f-11ee-8554-352f8f3305de_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helvella_elastica_27637768045906931_a4712ad0-8323-11f1-bb51-67f20f60fdaf_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helvella_elastica_27637768045906931_a4712ad0-8323-11f1-bb51-67f20f60fdaf_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helvella_elastica_27637768045906931_a4712ad0-8323-11f1-bb51-67f20f60fdaf_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helvella_elastica_27637768045906931_a4712ad0-8323-11f1-bb51-67f20f60fdaf_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Helvella_elastica_27637768045906931_a4712ad0-8323-11f1-bb51-67f20f60fdaf_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -149,5 +170,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55115220/thumb.jpg"
   }
  ],
- "timestamp": "20260719-094145"
+ "timestamp": "20260719-180210"
 }
