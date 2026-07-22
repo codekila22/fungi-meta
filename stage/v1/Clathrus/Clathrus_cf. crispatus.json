@@ -2,6 +2,7 @@
  "genus": "Clathrus",
  "name": "cf. crispatus",
  "date": [
+  "07/15/2026,27655555940794808",
   "04/22/2025,9449843665125980",
   "02/18/2024,6992687587508279",
   "08/19/2023,6310605515716493",
@@ -250,10 +251,12 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "40,100",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground,wood",
+  "GrowthType": "singly,scattered",
+  "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -272,5 +275,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43809382/thumb.jpeg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

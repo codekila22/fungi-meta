@@ -2,6 +2,7 @@
  "genus": "Inocybe",
  "name": "tahquamenonensis",
  "date": [
+  "07/20/2026,27672923215724747",
   "05/23/2025,9718510161592661",
   "07/10/2024,7645240872252944",
   "05/28/2022,7582992635144435"
@@ -95,6 +96,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Inocybe_tahquamenonensi_9bc01770-3edc-11f0-8633-81f7df036a93_10.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Inocybe_tahquamenonensis_27672923215724747_82dd0b90-856d-11f1-ab4b-b101d574d27b_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Inocybe_tahquamenonensis_27672923215724747_82dd0b90-856d-11f1-ab4b-b101d574d27b_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Inocybe_tahquamenonensis_27672923215724747_82dd0b90-856d-11f1-ab4b-b101d574d27b_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Inocybe_tahquamenonensis_27672923215724747_82dd0b90-856d-11f1-ab4b-b101d574d27b_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -145,5 +162,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/994919/thumb.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

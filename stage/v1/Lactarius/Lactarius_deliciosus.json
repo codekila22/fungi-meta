@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "deliciosus",
  "date": [
+  "07/18/2026,27649024061447996",
   "11/01/2025,24859605497056547",
   "05/21/2025,9685185034925174",
   "06/20/2023,6113678712075842",
@@ -82,6 +83,22 @@
   {
    "author": "姜淋友",
    "image_src": "Lactarius_deliciosus_44e46cf0-b7c0-11f0-be1d-67d2f01a87f4_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_deliciosus_27649024061447996_a66098b0-8429-11f1-926b-81f056757dca_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_deliciosus_27649024061447996_a66098b0-8429-11f1-926b-81f056757dca_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_deliciosus_27649024061447996_a66098b0-8429-11f1-926b-81f056757dca_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_deliciosus_27649024061447996_a66098b0-8429-11f1-926b-81f056757dca_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -110,7 +127,9 @@
   "StalkDiamRangeValuess": "10,25",
   "StalkLengthRangeValuess": "20,80",
   "HeightRangeValuess": "",
-  "Rareness": "occacional",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -190,5 +209,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

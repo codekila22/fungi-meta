@@ -2,6 +2,7 @@
  "genus": "Desarmillaria",
  "name": "tabescens",
  "date": [
+  "07/21/2026,27662833736733695",
   "07/03/2026,27492662047084199",
   "10/18/2024,8344504088993282",
   "07/21/2024,7700915843352113",
@@ -174,6 +175,46 @@
   {
    "author": "吳湯姆",
    "image_src": "Desarmillaria_tabescens_6f706910-79b7-11f1-b132-ff6aeba1b5da_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_10.jpg"
   }
  ],
  "synonym": [
@@ -209,7 +250,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "50,80",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "clustered,grouped",
   "GrowthEnv": "wood",
@@ -231,5 +275,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/345654444/square.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

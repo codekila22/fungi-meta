@@ -2,6 +2,7 @@
  "genus": "Hypocrea",
  "name": "gelatinosa",
  "date": [
+  "07/20/2026,27650334697983599",
   "06/27/2026,27381067181577020",
   "09/15/2025,24789275387422892",
   "07/07/2024,7911388228971539",
@@ -282,6 +283,22 @@
   {
    "author": "陳中城",
    "image_src": "Hypocrea_gelatinosa_2dea42d0-720b-11f1-8e5a-6b1f1cca6ed5_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hypocrea_gelatinosa_27650334697983599_27095f80-8428-11f1-926b-81f056757dca_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hypocrea_gelatinosa_27650334697983599_27095f80-8428-11f1-926b-81f056757dca_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hypocrea_gelatinosa_27650334697983599_27095f80-8428-11f1-926b-81f056757dca_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hypocrea_gelatinosa_27650334697983599_27095f80-8428-11f1-926b-81f056757dca_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -310,9 +327,11 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "2,8",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -332,5 +351,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/44584557/thumb.jpeg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

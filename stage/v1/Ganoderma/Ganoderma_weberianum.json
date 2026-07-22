@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "weberianum",
  "date": [
+  "07/15/2026,27661919276825141",
   "07/12/2026,27561520800198323",
   "12/05/2025,25172816002402160",
   "11/27/2025,25102813822735712",
@@ -209,6 +210,38 @@
   {
    "author": "江志緯",
    "image_src": "Ganoderma_weberianum_27561520800198323_f5503d70-7e86-11f1-9dcc-35f2c7c8deaf_10.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ganoderma_weberianum_27661919276825141_33bf7810-8575-11f1-ab4b-b101d574d27b_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ganoderma_weberianum_27661919276825141_33bf7810-8575-11f1-ab4b-b101d574d27b_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ganoderma_weberianum_27661919276825141_33bf7810-8575-11f1-ab4b-b101d574d27b_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ganoderma_weberianum_27661919276825141_33bf7810-8575-11f1-ab4b-b101d574d27b_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ganoderma_weberianum_27661919276825141_33bf7810-8575-11f1-ab4b-b101d574d27b_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ganoderma_weberianum_27661919276825141_33bf7810-8575-11f1-ab4b-b101d574d27b_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ganoderma_weberianum_27661919276825141_33bf7810-8575-11f1-ab4b-b101d574d27b_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Ganoderma_weberianum_27661919276825141_33bf7810-8575-11f1-ab4b-b101d574d27b_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -237,7 +270,7 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,150",
-  "Rareness": "",
+  "Rareness": "rare",
   "Elevation": "low",
   "Tropical": "yes",
   "Seasons": "",
@@ -261,5 +294,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112664495/thumb.jpeg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

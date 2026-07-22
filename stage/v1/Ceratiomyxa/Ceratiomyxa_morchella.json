@@ -2,6 +2,7 @@
  "genus": "Ceratiomyxa",
  "name": "morchella",
  "date": [
+  "07/19/2026,27652837514399984",
   "06/01/2025,9802488889861454",
   "08/23/2024,7969725919804436",
   "07/22/2023,23961809966836109",
@@ -148,6 +149,34 @@
   {
    "author": "Sunny Wang",
    "image_src": "Ceratiomyxa_morchella_1861e2f0-7b4a-11f0-82e5-db829d3cb073_10.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ceratiomyxa_morchella_27652837514399984_7085c2e0-843a-11f1-926b-81f056757dca_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ceratiomyxa_morchella_27652837514399984_7085c2e0-843a-11f1-926b-81f056757dca_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ceratiomyxa_morchella_27652837514399984_7085c2e0-843a-11f1-926b-81f056757dca_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ceratiomyxa_morchella_27652837514399984_7085c2e0-843a-11f1-926b-81f056757dca_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ceratiomyxa_morchella_27652837514399984_7085c2e0-843a-11f1-926b-81f056757dca_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ceratiomyxa_morchella_27652837514399984_7085c2e0-843a-11f1-926b-81f056757dca_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Ceratiomyxa_morchella_27652837514399984_7085c2e0-843a-11f1-926b-81f056757dca_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -176,11 +205,11 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "mid",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -201,5 +230,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8977415/thumb.jpeg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

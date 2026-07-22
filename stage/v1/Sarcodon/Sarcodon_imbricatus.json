@@ -2,6 +2,7 @@
  "genus": "Sarcodon",
  "name": "imbricatus",
  "date": [
+  "07/18/2026,27642745552075847",
   "07/08/2023,6175961892514190",
   "07/04/2023,6159490794161300",
   "06/01/2022,4945364958907229",
@@ -153,6 +154,26 @@
   {
    "author": "向高世",
    "image_src": "Sarcodon_imbricatus_a1ad3830-8216-11ef-a50c-8580692ab8c5_8.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Sarcodon_imbricatus_27642745552075847_68fe4a90-8428-11f1-926b-81f056757dca_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Sarcodon_imbricatus_27642745552075847_68fe4a90-8428-11f1-926b-81f056757dca_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Sarcodon_imbricatus_27642745552075847_68fe4a90-8428-11f1-926b-81f056757dca_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Sarcodon_imbricatus_27642745552075847_68fe4a90-8428-11f1-926b-81f056757dca_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Sarcodon_imbricatus_27642745552075847_68fe4a90-8428-11f1-926b-81f056757dca_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -181,12 +202,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "50,120",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
@@ -203,5 +226,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/196776/thumb.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

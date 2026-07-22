@@ -68,7 +68,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "25,65",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -86,8 +86,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "5,20",
+  "StalkLengthRangeValuess": "45,115",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -102,5 +102,5 @@
   "Note": "深圳蘑菇，屬名Agaricus為蘑菇之屬；種小名shenzhenensis意為「（中國）深圳的」。蓋白至淡褐色、被細鱗；菌褶離生、初粉紅後轉巧克力褐色；柄具菌環；孢子印褐色；地生於林下或草地。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

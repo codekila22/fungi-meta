@@ -104,7 +104,7 @@
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "40,80",
   "HeightRangeValuess": "",
-  "Rareness": "occacional",
+  "Rareness": "rare",
   "Elevation": "mid",
   "Tropical": "no",
   "Seasons": "summer,autumn",
@@ -115,9 +115,11 @@
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "黃喇叭菌，屬名Craterellus為喇叭菌之屬；種小名lutescens意為「轉黃的」。子實體漏斗至喇叭狀、中空、蓋面黃褐色；下表面之子實層平滑至具低而分叉之脈皺、黃至橙黃色；柄黃色；生於針葉林之地表苔蘚間。",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Craterellus tubaeformis,,",
+  "Note": "黃喇叭菌，屬名Craterellus為喇叭菌之屬；種小名lutescens意為「轉黃的」。子實體漏斗至喇叭狀、中空、蓋面黃褐色；下表面之子實層平滑至具低而分叉之脈皺、黃至橙黃色；柄黃色；生於針葉林之地表苔蘚間。\n黃喇叭菌 (Craterellus lutescens) 與管形喇叭菌 (Craterellus tubaeformis) 是非常親近的食用野生蕈，兩者常被統稱為「黃腳 (Yellowfoot)」。最大的區別在於：黃喇叭菌的「假菌褶」極為平滑且偏橘黃色，偏好極為濕潤的苔蘚地；而管形喇叭菌則具有較明顯、呈灰色的「假菌褶」脊狀皺紋，主要生長於潮濕的針葉林木屑上。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "管形喇叭菌,,",
+  "la_zhcn": "管形喇叭菌,,"
  },
  "inaturalist": [
   {
@@ -149,5 +151,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

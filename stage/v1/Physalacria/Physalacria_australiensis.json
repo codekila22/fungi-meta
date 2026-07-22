@@ -2,6 +2,7 @@
  "genus": "Physalacria",
  "name": "australiensis",
  "date": [
+  "07/21/2026,27663140183369717",
   "03/02/2026,26077691878581230",
   "09/26/2025,24548395424844224",
   "07/20/2023,6213172258793153"
@@ -79,6 +80,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Physalacria_australiensis_b8892e80-259c-11f1-b0b0-0b212383b427_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_australiensis_27663140183369717_1b9b6fd0-8577-11f1-ab4b-b101d574d27b_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_australiensis_27663140183369717_1b9b6fd0-8577-11f1-ab4b-b101d574d27b_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_australiensis_27663140183369717_1b9b6fd0-8577-11f1-ab4b-b101d574d27b_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_australiensis_27663140183369717_1b9b6fd0-8577-11f1-ab4b-b101d574d27b_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -108,8 +125,10 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "3,15",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -129,5 +148,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8183232/thumb.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

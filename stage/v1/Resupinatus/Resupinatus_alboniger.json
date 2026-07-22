@@ -118,7 +118,7 @@
  ],
  "meta": {
   "CapColors": "4278190080",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,6",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -161,5 +161,5 @@
    "src": "https://static.inaturalist.org/photos/42654162/thumb.jpeg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

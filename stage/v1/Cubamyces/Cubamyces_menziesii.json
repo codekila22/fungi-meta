@@ -56,7 +56,7 @@
  ],
  "meta": {
   "CapColors": "4294967295,4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "0,150",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -90,5 +90,5 @@
   "Note": "粉灰栓孔菌，屬名Cubamyces為自栓菌（Trametes）分出之一屬；種小名menziesii紀念採集者Menzies。子實體扇形至半圓、無柄、栓質、蓋面粉灰至灰白色、具環帶；孔面白至灰色、孔小；生於闊葉樹枯木上，致木材白腐。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

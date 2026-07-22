@@ -2,11 +2,14 @@
  "genus": "Gymnopus",
  "name": "androsaceus",
  "date": [
+  "07/18/2026,27661457173538018",
+  "04/23/2026,27661457173538018",
   "11/22/2024,8620231674753854",
   "09/23/2023,6435791656531211",
   "06/17/2023,6574955115948197",
   "04/25/2023,5938531106257271",
   "05/16/2022,4932715543505504",
+  "04/16/2022,27661457173538018",
   "08/15/2020,3019901281453616",
   "08/22/2018,5146309658812757"
  ],
@@ -112,6 +115,62 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Marasmius_androsaceus_1f38d500-b982-11ef-ab93-8fc96f9e449d_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_12.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_13.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Gymnopus_androsaceus_27661457173538018_3403c060-84ee-11f1-869d-41845ab2f3d7_14.jpg"
   }
  ],
  "synonym": [
@@ -174,5 +233,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/466610325/square.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

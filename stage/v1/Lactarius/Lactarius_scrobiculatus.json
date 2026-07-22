@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "scrobiculatus",
  "date": [
+  "07/18/2026,27648978488119220",
   "07/13/2026,27592920373725032",
   "06/10/2025,9842001579243518",
   "06/06/2025,9814879908622352"
@@ -99,6 +100,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_scrobiculatus_27592920373725032_d177c830-803b-11f1-ad19-23a1d6387027_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_scrobiculatus_27648978488119220_dbdcc400-8429-11f1-926b-81f056757dca_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_scrobiculatus_27648978488119220_dbdcc400-8429-11f1-926b-81f056757dca_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_scrobiculatus_27648978488119220_dbdcc400-8429-11f1-926b-81f056757dca_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_scrobiculatus_27648978488119220_dbdcc400-8429-11f1-926b-81f056757dca_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_scrobiculatus_27648978488119220_dbdcc400-8429-11f1-926b-81f056757dca_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,14 +148,14 @@
   "StalkDiamRangeValuess": "15,40",
   "StalkLengthRangeValuess": "30,40",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "mid",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -167,5 +188,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/18/2026,27649154394768296",
   "07/08/2026,27549861788030891",
   "06/30/2026,27433817072968697",
   "06/11/2025,9858112704299072",
@@ -281,6 +282,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_battarrae_27549861788030891_11a00830-7d8c-11f1-8436-55845346a773_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_battarrae_27649154394768296_1b3b1b20-8429-11f1-926b-81f056757dca_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_battarrae_27649154394768296_1b3b1b20-8429-11f1-926b-81f056757dca_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_battarrae_27649154394768296_1b3b1b20-8429-11f1-926b-81f056757dca_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_battarrae_27649154394768296_1b3b1b20-8429-11f1-926b-81f056757dca_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_battarrae_27649154394768296_1b3b1b20-8429-11f1-926b-81f056757dca_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_battarrae_27649154394768296_1b3b1b20-8429-11f1-926b-81f056757dca_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_battarrae_27649154394768296_1b3b1b20-8429-11f1-926b-81f056757dca_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_battarrae_27649154394768296_1b3b1b20-8429-11f1-926b-81f056757dca_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_battarrae_27649154394768296_1b3b1b20-8429-11f1-926b-81f056757dca_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -311,7 +348,7 @@
   "StalkDiamRangeValuess": "8,18",
   "StalkLengthRangeValuess": "70,150",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low,mid",
   "Tropical": "",
   "Seasons": "spring,summer,autumn",
@@ -335,5 +372,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/151475816/thumb.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

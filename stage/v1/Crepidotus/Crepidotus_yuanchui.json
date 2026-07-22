@@ -176,7 +176,7 @@
  ],
  "meta": {
   "CapColors": "4294944000",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "9,23",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -212,5 +212,5 @@
   "la_zhtw": "硫磺色靴耳,,",
   "la_zhcn": "硫磺色靴耳,,"
  },
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

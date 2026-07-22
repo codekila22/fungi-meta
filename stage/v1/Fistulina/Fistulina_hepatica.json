@@ -2,6 +2,7 @@
  "genus": "Fistulina",
  "name": "hepatica",
  "date": [
+  "07/18/2026,27641662455517490",
   "07/05/2026,27479100958440308",
   "06/21/2026,27309765185373887",
   "07/11/2025,10083086375135036",
@@ -362,6 +363,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Fistulina_hepatica_e0c16d20-7afe-11f0-b79c-b3fa72682137_5.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Fistulina_hepatica_27641662455517490_73c00660-8376-11f1-a56b-8d5d7bcb098f_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Fistulina_hepatica_27641662455517490_73c00660-8376-11f1-a56b-8d5d7bcb098f_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Fistulina_hepatica_27641662455517490_73c00660-8376-11f1-a56b-8d5d7bcb098f_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Fistulina_hepatica_27641662455517490_73c00660-8376-11f1-a56b-8d5d7bcb098f_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Fistulina_hepatica_27641662455517490_73c00660-8376-11f1-a56b-8d5d7bcb098f_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -412,5 +433,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13074462/thumb.jpeg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

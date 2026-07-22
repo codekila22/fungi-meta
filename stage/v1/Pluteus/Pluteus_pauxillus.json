@@ -324,7 +324,7 @@
  ],
  "meta": {
   "CapColors": "4286141768,4294960564",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "8,26",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -367,5 +367,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }

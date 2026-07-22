@@ -2,6 +2,7 @@
  "genus": "Gloeoporus",
  "name": "dichrous",
  "date": [
+  "07/21/2026,27662548876762181",
   "02/03/2026,25690554067295015",
   "05/22/2025,9707754752668202",
   "09/29/2024,8216372121806480",
@@ -370,6 +371,50 @@
   {
    "author": "向高世",
    "image_src": "Gloeoporus_dichrous_38c9e4f0-0f03-11f1-9962-e134d37026ef_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gloeoporus_dichrous_27662548876762181_954189b0-84ea-11f1-869d-41845ab2f3d7_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -401,8 +446,8 @@
   "HeightRangeValuess": "2,10",
   "Rareness": "",
   "Elevation": "low,mid",
-  "Tropical": "",
-  "Seasons": "",
+  "Tropical": "no",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "wood",
   "Bruising": "",
@@ -423,5 +468,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28037451/thumb.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260722-164135"
 }
