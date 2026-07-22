@@ -2,7 +2,7 @@
  "name": "Amanita",
  "zhtw": "鵝膏屬",
  "zhcn": "鹅膏属",
- "timestamp": "20260722-164135",
+ "timestamp": "20260722-215732",
  "list": [
   {
    "name": "Amanita abrupta",
@@ -378,6 +378,12 @@
    "zhtw": "相似鵝膏",
    "zhcn": "相似鹅膏",
    "img": "Amanita_similis_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Amanita smithiana",
+   "zhtw": "史密斯鵝膏",
+   "zhcn": "史密斯鹅膏",
+   "img": "Amanita_smithiana_27664216089928793_ae4a88f0-85d3-11f1-bdea-2d164f8e21d8_1.jpg"
   },
   {
    "name": "Amanita sp.1",

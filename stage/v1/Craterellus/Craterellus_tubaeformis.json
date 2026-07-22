@@ -11,6 +11,7 @@
  "date": [
   "07/17/2026,27625004177183318",
   "07/17/2026,27674799705537098",
+  "07/02/2026,27647297914953944",
   "06/10/2025,9842053772571632",
   "08/05/2024,7790437677733262",
   "07/16/2024,7689416037835427",
@@ -438,6 +439,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Craterellus_tubaeformis_27674799705537098_dab81d00-8590-11f1-ab4b-b101d574d27b_17.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Craterellus_tubaeformis_27647297914953944_17123630-85cf-11f1-bdea-2d164f8e21d8_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Craterellus_tubaeformis_27647297914953944_17123630-85cf-11f1-bdea-2d164f8e21d8_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Craterellus_tubaeformis_27647297914953944_17123630-85cf-11f1-bdea-2d164f8e21d8_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Craterellus_tubaeformis_27647297914953944_17123630-85cf-11f1-bdea-2d164f8e21d8_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Craterellus_tubaeformis_27647297914953944_17123630-85cf-11f1-bdea-2d164f8e21d8_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Craterellus_tubaeformis_27647297914953944_17123630-85cf-11f1-bdea-2d164f8e21d8_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -493,5 +518,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/337165669/thumb.jpg"
   }
  ],
- "timestamp": "20260722-164135"
+ "timestamp": "20260722-215732"
 }

@@ -2,6 +2,7 @@
  "genus": "Tricholoma",
  "name": "equestre",
  "date": [
+  "07/18/2026,27674420305575038",
   "09/19/2023,6427482504028793"
  ],
  "names_zhtw": [
@@ -34,6 +35,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Tricholoma_auratum_7353cce0-5ba4-11ee-879a-8339daffebb4_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholoma_equestre_27674420305575038_b4009410-85ce-11f1-bdea-2d164f8e21d8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholoma_equestre_27674420305575038_b4009410-85ce-11f1-bdea-2d164f8e21d8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholoma_equestre_27674420305575038_b4009410-85ce-11f1-bdea-2d164f8e21d8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholoma_equestre_27674420305575038_b4009410-85ce-11f1-bdea-2d164f8e21d8_4.jpg"
   }
  ],
  "synonym": [
@@ -70,12 +87,14 @@
   "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "40,100",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -113,5 +132,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260722-164135"
+ "timestamp": "20260722-215732"
 }

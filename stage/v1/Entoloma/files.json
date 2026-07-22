@@ -2,7 +2,7 @@
  "name": "Entoloma",
  "zhtw": "粉褶菌屬",
  "zhcn": "粉褶菌属",
- "timestamp": "20260722-164135",
+ "timestamp": "20260722-215732",
  "list": [
   {
    "name": "Entoloma aff. perumbilicatum",
@@ -90,6 +90,12 @@
    "zhtw": "藍黑粉褶菌",
    "zhcn": "蓝黑粉褶菌",
    "img": "Entoloma_cyanoniger_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "name": "Entoloma erhardii",
+   "zhtw": "艾哈德粉褶菌",
+   "zhcn": "艾哈德粉褶菌",
+   "img": "Entoloma_erhardii_27674856585531410_280f96e0-85d3-11f1-bdea-2d164f8e21d8_1.jpg"
   },
   {
    "name": "Entoloma eugenei",

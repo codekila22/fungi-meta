@@ -2,6 +2,7 @@
  "genus": "Purpureocillium",
  "name": "takamizusanense",
  "date": [
+  "07/21/2026,27661073273576408",
   "06/17/2026,27294284780255261",
   "08/16/2024,7857279847715711",
   "06/29/2024,7576406112469754",
@@ -186,6 +187,34 @@
   {
    "author": "黃金興",
    "image_src": "Purpureocillium_takamizusanense_6714f340-6c91-11f1-be0f-4f93bb0e3446_4.jpg"
+  },
+  {
+   "author": "CN Chen",
+   "image_src": "Purpureocillium_takamizusanense_27661073273576408_5157be80-85d1-11f1-bdea-2d164f8e21d8_1.jpg"
+  },
+  {
+   "author": "CN Chen",
+   "image_src": "Purpureocillium_takamizusanense_27661073273576408_5157be80-85d1-11f1-bdea-2d164f8e21d8_2.jpg"
+  },
+  {
+   "author": "CN Chen",
+   "image_src": "Purpureocillium_takamizusanense_27661073273576408_5157be80-85d1-11f1-bdea-2d164f8e21d8_3.jpg"
+  },
+  {
+   "author": "CN Chen",
+   "image_src": "Purpureocillium_takamizusanense_27661073273576408_5157be80-85d1-11f1-bdea-2d164f8e21d8_4.jpg"
+  },
+  {
+   "author": "CN Chen",
+   "image_src": "Purpureocillium_takamizusanense_27661073273576408_5157be80-85d1-11f1-bdea-2d164f8e21d8_5.jpg"
+  },
+  {
+   "author": "CN Chen",
+   "image_src": "Purpureocillium_takamizusanense_27661073273576408_5157be80-85d1-11f1-bdea-2d164f8e21d8_6.jpg"
+  },
+  {
+   "author": "CN Chen",
+   "image_src": "Purpureocillium_takamizusanense_27661073273576408_5157be80-85d1-11f1-bdea-2d164f8e21d8_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -214,12 +243,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "parasitic",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -235,5 +266,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/218430670/thumb.jpg"
   }
  ],
- "timestamp": "20260722-164135"
+ "timestamp": "20260722-215732"
 }

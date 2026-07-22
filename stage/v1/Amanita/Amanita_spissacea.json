@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "spissacea",
  "date": [
+  "07/02/2026,27678141715202897",
   "07/01/2026,27476027875414283",
   "07/31/2025,24011326428551129",
   "06/06/2025,9804579409652402",
@@ -339,6 +340,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_spissacea_28c2a260-791e-11f1-a120-eb9f7e0b5dda_10.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_spissacea_27678141715202897_c7368700-85cf-11f1-bdea-2d164f8e21d8_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_spissacea_27678141715202897_c7368700-85cf-11f1-bdea-2d164f8e21d8_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_spissacea_27678141715202897_c7368700-85cf-11f1-bdea-2d164f8e21d8_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_spissacea_27678141715202897_c7368700-85cf-11f1-bdea-2d164f8e21d8_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_spissacea_27678141715202897_c7368700-85cf-11f1-bdea-2d164f8e21d8_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_spissacea_27678141715202897_c7368700-85cf-11f1-bdea-2d164f8e21d8_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_spissacea_27678141715202897_c7368700-85cf-11f1-bdea-2d164f8e21d8_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_spissacea_27678141715202897_c7368700-85cf-11f1-bdea-2d164f8e21d8_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_spissacea_27678141715202897_c7368700-85cf-11f1-bdea-2d164f8e21d8_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -367,7 +404,9 @@
   "StalkDiamRangeValuess": "5,12",
   "StalkLengthRangeValuess": "50,120",
   "HeightRangeValuess": "",
-  "Rareness": "occacional",
+  "Rareness": "common",
+  "Elevation": "low,mid,high",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -391,5 +430,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/82601721/thumb.jpg"
   }
  ],
- "timestamp": "20260722-164135"
+ "timestamp": "20260722-215732"
 }

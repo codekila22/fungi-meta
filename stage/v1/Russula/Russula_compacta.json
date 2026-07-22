@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "compacta",
  "date": [
+  "07/15/2026,27675877475429321",
   "05/15/2026,26809955435354867",
   "11/17/2025,25008803622136733",
   "09/01/2024,7954295994680762",
@@ -146,6 +147,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Russula_compacta_76f8afd0-50b8-11f1-ab38-6325cbd12468_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_compacta_27675877475429321_c37686e0-85d1-11f1-bdea-2d164f8e21d8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_compacta_27675877475429321_c37686e0-85d1-11f1-bdea-2d164f8e21d8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_compacta_27675877475429321_c37686e0-85d1-11f1-bdea-2d164f8e21d8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_compacta_27675877475429321_c37686e0-85d1-11f1-bdea-2d164f8e21d8_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Russula_compacta_27675877475429321_c37686e0-85d1-11f1-bdea-2d164f8e21d8_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -174,9 +195,11 @@
   "StalkDiamRangeValuess": "15,30",
   "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "brown",
   "Bioluminescent": "",
@@ -196,5 +219,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/45998024/thumb.jpeg"
   }
  ],
- "timestamp": "20260722-164135"
+ "timestamp": "20260722-215732"
 }

@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/14/2026,27676323562051379",
   "09/13/2025,24384761707874264",
   "07/27/2025,23965881233095649",
   "09/18/2024,8101690206608006",
@@ -274,6 +275,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Leucoagaricus_americanus_10d13120-9158-11f0-9f8d-e7e87569eb41_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leucoagaricus_americanus_27676323562051379_3592b2d0-85b4-11f1-bdea-2d164f8e21d8_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leucoagaricus_americanus_27676323562051379_3592b2d0-85b4-11f1-bdea-2d164f8e21d8_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leucoagaricus_americanus_27676323562051379_3592b2d0-85b4-11f1-bdea-2d164f8e21d8_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leucoagaricus_americanus_27676323562051379_3592b2d0-85b4-11f1-bdea-2d164f8e21d8_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leucoagaricus_americanus_27676323562051379_3592b2d0-85b4-11f1-bdea-2d164f8e21d8_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -302,13 +323,15 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "70,140",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "clustered",
-  "GrowthEnv": "ground",
-  "Bruising": "",
+  "GrowthType": "clustered,grouped",
+  "GrowthEnv": "ground,debris",
+  "Bruising": "red",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "toxic",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -324,5 +347,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314654/square.jpg"
   }
  ],
- "timestamp": "20260722-164135"
+ "timestamp": "20260722-215732"
 }
