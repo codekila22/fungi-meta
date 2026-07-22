@@ -2,6 +2,7 @@
  "genus": "Marasmiellus",
  "name": "candidus",
  "date": [
+  "07/22/2026,27675912325425836",
   "06/11/2023,6076893699087677",
   "04/08/2023,7094606503983053",
   "12/25/2021,4481649828612080",
@@ -172,6 +173,30 @@
   {
    "author": "Sunny Wang",
    "image_src": "Marasmiellus_candidus_78b16950-e8ed-11ee-99b0-c9baa2486e4f_19.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmiellus_candidus_27675912325425836_bd3a2600-85dc-11f1-ac8e-95ab1f129b13_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmiellus_candidus_27675912325425836_bd3a2600-85dc-11f1-ac8e-95ab1f129b13_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmiellus_candidus_27675912325425836_bd3a2600-85dc-11f1-ac8e-95ab1f129b13_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmiellus_candidus_27675912325425836_bd3a2600-85dc-11f1-ac8e-95ab1f129b13_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmiellus_candidus_27675912325425836_bd3a2600-85dc-11f1-ac8e-95ab1f129b13_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmiellus_candidus_27675912325425836_bd3a2600-85dc-11f1-ac8e-95ab1f129b13_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -223,5 +248,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/153149052/thumb.jpeg"
   }
  ],
- "timestamp": "20260722-215732"
+ "timestamp": "20260722-230032"
 }
