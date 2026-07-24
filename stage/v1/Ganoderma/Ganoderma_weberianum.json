@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "weberianum",
  "date": [
+  "07/18/2026,27699013726449029",
   "07/15/2026,27661919276825141",
   "07/12/2026,27561520800198323",
   "12/05/2025,25172816002402160",
@@ -242,6 +243,54 @@
   {
    "author": "向高世",
    "image_src": "Ganoderma_weberianum_27661919276825141_33bf7810-8575-11f1-ab4b-b101d574d27b_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_27699013726449029_56750b90-870a-11f1-b6f2-838219972457_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -294,5 +343,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112664495/thumb.jpeg"
   }
  ],
- "timestamp": "20260722-230032"
+ "timestamp": "20260724-134221"
 }

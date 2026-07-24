@@ -85,7 +85,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "奧氏異毛黏菌，屬名Heterotrichia意為「異形之毛」，指其彈絲兼具游離彈絲與網體二型；種小名oerstedii紀念Oersted。孢子囊黃至赭色、聚生；周皮脫落後露出黃色之彈絲團；生於腐木上，為一種黏菌。",
+  "Note": "奧氏異毛黏菌，屬名Heterotrichia意為「異形之毛」，指其彈絲兼具游離彈絲與網體二型；種小名oerstedii紀念Oersted。孢子囊黃至赭色、聚生；周皮脫落後露出黃色之彈絲團；生於腐木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -97,5 +97,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10632552/thumb.jpg"
   }
  ],
- "timestamp": "20260722-230032"
+ "timestamp": "20260724-134221"
 }

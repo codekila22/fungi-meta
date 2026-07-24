@@ -2,6 +2,7 @@
  "genus": "Mutinus",
  "name": "bambusinus",
  "date": [
+  "07/23/2026,27689677547382647",
   "07/06/2026,27493767563640314",
   "07/19/2025,23903011106049329",
   "08/18/2024,7868843663225996",
@@ -180,13 +181,29 @@
   {
    "author": "陳麗紅",
    "image_src": "Mutinus_bambusinus_3ae39610-79d3-11f1-b132-ff6aeba1b5da_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Mutinus_bambusinus_27689677547382647_a6d7f180-871c-11f1-b6f2-838219972457_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Mutinus_bambusinus_27689677547382647_a6d7f180-871c-11f1-b6f2-838219972457_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Mutinus_bambusinus_27689677547382647_a6d7f180-871c-11f1-b6f2-838219972457_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Mutinus_bambusinus_27689677547382647_a6d7f180-871c-11f1-b6f2-838219972457_4.jpg"
   }
  ],
  "names_zhcn": [
   "竹林蛇头菌"
  ],
  "meta": {
-  "CapColors": "4294198070",
+  "CapColors": "4294921536",
   "CapDiamRangeValues": "8,12",
   "CapShape": "",
   "CapTexture": "",
@@ -201,14 +218,18 @@
   "StalkAttachment": "",
   "StalkColors": "4294967295",
   "StalkTexture": "",
+  "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,15",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "40,50",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
-  "GrowthType": "scattered",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -228,5 +249,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28317697/thumb.jpeg"
   }
  ],
- "timestamp": "20260722-230032"
+ "timestamp": "20260724-134221"
 }

@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "mollis",
  "date": [
+  "06/28/2026,27688126044204464",
   "02/01/2026,25671513035865785",
   "05/01/2025,9546495225460823",
   "02/25/2025,9090730737703943",
@@ -248,6 +249,34 @@
   {
    "author": "陳雅芬",
    "image_src": "Crepidotus_mollis_68f1dc40-ff46-11f0-9ce9-dbbf98431b28_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Crepidotus_mollis_27688126044204464_68150bc0-8688-11f1-bfe7-97bb73c4b5e6_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Crepidotus_mollis_27688126044204464_68150bc0-8688-11f1-bfe7-97bb73c4b5e6_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Crepidotus_mollis_27688126044204464_68150bc0-8688-11f1-bfe7-97bb73c4b5e6_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Crepidotus_mollis_27688126044204464_68150bc0-8688-11f1-bfe7-97bb73c4b5e6_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Crepidotus_mollis_27688126044204464_68150bc0-8688-11f1-bfe7-97bb73c4b5e6_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Crepidotus_mollis_27688126044204464_68150bc0-8688-11f1-bfe7-97bb73c4b5e6_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Crepidotus_mollis_27688126044204464_68150bc0-8688-11f1-bfe7-97bb73c4b5e6_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -276,12 +305,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood,bamboo",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -298,5 +329,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43251985/thumb.jpg"
   }
  ],
- "timestamp": "20260722-230032"
+ "timestamp": "20260724-134221"
 }

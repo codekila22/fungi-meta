@@ -2,6 +2,7 @@
  "genus": "Hydnellum",
  "name": "cf. concrescens",
  "date": [
+  "07/22/2026,27693577266992675",
   "07/17/2026,27625292403821162",
   "06/23/2026,27358666403817098",
   "07/02/2025,10035650059878668",
@@ -294,6 +295,50 @@
   {
    "author": "吳湯姆",
    "image_src": "Hydnellum_cf. concrescens_27625292403821162_e6edf280-827e-11f1-b205-db611c601ea1_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnellum_cf. concrescens_27693577266992675_24edd640-870c-11f1-b6f2-838219972457_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -322,12 +367,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,60",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -344,5 +391,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/146961436/thumb.jpg"
   }
  ],
- "timestamp": "20260722-230032"
+ "timestamp": "20260724-134221"
 }
