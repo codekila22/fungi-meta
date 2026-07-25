@@ -3,6 +3,7 @@
  "name": "formosanus",
  "date": [
   "05/11/2026,26795956936754717",
+  "05/02/2026,27699247959758939",
   "05/08/2025,9572913086152370",
   "05/17/2024,7400006523443048",
   "05/11/2023,5972343806209334",
@@ -299,6 +300,50 @@
   {
    "author": "陳麗紅",
    "image_src": "Phallus_formosanus_bfcbf8b0-6a36-11f1-a41d-a761c135f162_15.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Phallus_formosanus_27699247959758939_ce4a3e50-8733-11f1-b6f2-838219972457_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -327,12 +372,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "200,300",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "wood,ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -349,5 +396,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/187051716/thumb.jpg"
   }
  ],
- "timestamp": "20260724-134221"
+ "timestamp": "20260725-222943"
 }

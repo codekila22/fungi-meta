@@ -80,7 +80,9 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
@@ -95,5 +97,5 @@
   "la_zhtw": "細環柄菇,暗鱗白鬼傘,",
   "la_zhcn": "细环柄菇,暗鳞白鬼伞,"
  },
- "timestamp": "20260724-134221"
+ "timestamp": "20260725-222943"
 }

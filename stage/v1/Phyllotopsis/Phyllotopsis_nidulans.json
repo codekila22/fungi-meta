@@ -2,6 +2,7 @@
  "genus": "Phyllotopsis",
  "name": "nidulans",
  "date": [
+  "07/22/2026,27693896443627424",
   "06/20/2026,27335558932794512",
   "11/07/2025,24917496304600799",
   "03/07/2025,9153840031393013",
@@ -248,6 +249,10 @@
   {
    "author": "吳湯姆",
    "image_src": "Phyllotopsis_nidulans_62440a00-7212-11f1-8e5a-6b1f1cca6ed5_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Phyllotopsis_nidulans_27693896443627424_50346a50-8728-11f1-b6f2-838219972457_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -298,5 +303,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4692/thumb.jpg"
   }
  ],
- "timestamp": "20260724-134221"
+ "timestamp": "20260725-222943"
 }

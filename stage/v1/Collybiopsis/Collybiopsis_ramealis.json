@@ -2,6 +2,7 @@
  "genus": "Collybiopsis",
  "name": "ramealis",
  "date": [
+  "07/20/2026,27685392997811102",
   "10/31/2025,24876450202038743",
   "10/29/2025,24830621243288306",
   "09/13/2025,24552758431074590",
@@ -287,6 +288,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Marasmiellus_ramealis_4f234260-b8a9-11f0-a551-670beaa50804_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Collybiopsis_ramealis_27685392997811102_81782e00-8726-11f1-b6f2-838219972457_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Collybiopsis_ramealis_27685392997811102_81782e00-8726-11f1-b6f2-838219972457_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Collybiopsis_ramealis_27685392997811102_81782e00-8726-11f1-b6f2-838219972457_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Collybiopsis_ramealis_27685392997811102_81782e00-8726-11f1-b6f2-838219972457_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Collybiopsis_ramealis_27685392997811102_81782e00-8726-11f1-b6f2-838219972457_5.jpg"
   }
  ],
  "synonym": [
@@ -344,5 +365,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/468289098/square.jpeg"
   }
  ],
- "timestamp": "20260724-134221"
+ "timestamp": "20260725-222943"
 }

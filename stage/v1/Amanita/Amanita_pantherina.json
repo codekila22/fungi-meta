@@ -222,9 +222,12 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "6,30",
   "StalkLengthRangeValuess": "50,150",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "",
   "Bioluminescent": "",
@@ -272,5 +275,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260724-134221"
+ "timestamp": "20260725-222943"
 }

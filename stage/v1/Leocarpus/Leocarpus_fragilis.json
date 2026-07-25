@@ -45,8 +45,9 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
   "Elevation": "high",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
@@ -56,7 +57,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "光果黏菌，為一種黏菌（myxomycete）；屬名Leocarpus意為「光滑之果」，指其光亮之孢子囊；種小名fragilis意為「易碎的」。孢子囊具細長之柄、赭褐色而外表光亮（狀如魚子），密集成簇下垂；變形體黃色。台灣高海拔拍攝記錄。"
+  "Note": "光果黏菌屬名Leocarpus意為「光滑之果」，指其光亮之孢子囊；種小名fragilis意為「易碎的」。孢子囊具細長之柄、赭褐色而外表光亮（狀如魚子），密集成簇下垂；變形體黃色。台灣高海拔拍攝記錄。"
  },
  "inaturalist": [
   {
@@ -81,5 +82,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260724-134221"
+ "timestamp": "20260725-222943"
 }
