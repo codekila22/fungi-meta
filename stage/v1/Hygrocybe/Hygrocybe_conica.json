@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "conica",
  "date": [
+  "07/18/2026,27692729870410748",
   "09/14/2025,24398793646471070",
   "09/11/2023,6395425400567837",
   "08/13/2023,6981279578649080",
@@ -247,6 +248,26 @@
   {
    "author": "朱艷",
    "image_src": "Hygrocybe_conica_4e894e00-92e6-11f0-b299-0591f5706625_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_conica_27692729870410748_4da37ff0-88cd-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_conica_27692729870410748_4da37ff0-88cd-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_conica_27692729870410748_4da37ff0-88cd-11f1-b2d8-4b1e79a5b7b3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_conica_27692729870410748_4da37ff0-88cd-11f1-b2d8-4b1e79a5b7b3_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_conica_27692729870410748_4da37ff0-88cd-11f1-b2d8-4b1e79a5b7b3_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -372,5 +393,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260725-222943"
+ "timestamp": "20260726-182632"
 }

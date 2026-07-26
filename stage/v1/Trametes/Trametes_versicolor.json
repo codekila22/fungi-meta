@@ -298,7 +298,7 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,60",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low,mid",
   "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
@@ -329,5 +329,5 @@
    "src": "https://static.inaturalist.org/photos/160331967/thumb.jpg"
   }
  ],
- "timestamp": "20260725-222943"
+ "timestamp": "20260726-182632"
 }

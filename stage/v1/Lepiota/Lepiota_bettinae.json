@@ -2,6 +2,7 @@
  "genus": "Lepiota",
  "name": "bettinae",
  "date": [
+  "07/19/2026,27724641147219620",
   "10/05/2025,27612471271769942"
  ],
  "names_zhtw": [
@@ -57,6 +58,74 @@
   {
    "author": "江志緯",
    "image_src": "Lepiota_bettinae_27612471271769942_7f7a2940-8182-11f1-bc1c-03cdbdc6f262_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_15.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_16.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Lepiota_bettinae_27724641147219620_4467a710-889e-11f1-b2d8-4b1e79a5b7b3_17.jpg"
   }
  ],
  "names_zhcn": [
@@ -85,11 +154,13 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
@@ -99,5 +170,5 @@
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [],
- "timestamp": "20260725-222943"
+ "timestamp": "20260726-182632"
 }

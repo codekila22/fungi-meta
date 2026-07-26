@@ -2,6 +2,7 @@
  "genus": "Tricholomopsis",
  "name": "bambusina",
  "date": [
+  "07/25/2026,27724874687196266",
   "09/13/2025,24436518466031921",
   "08/15/2020,3543621502414922"
  ],
@@ -50,6 +51,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Tricholomopsis_bambusina_01c47ab0-9627-11f0-aea7-e74548c3eb35_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_bambusina_27724874687196266_11148760-88cc-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_bambusina_27724874687196266_11148760-88cc-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_bambusina_27724874687196266_11148760-88cc-11f1-b2d8-4b1e79a5b7b3_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -77,7 +90,10 @@
   "StalkBase": "equal",
   "StalkDiamRangeValuess": "3,6",
   "StalkLengthRangeValuess": "20,50",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -99,5 +115,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260725-222943"
+ "timestamp": "20260726-182632"
 }

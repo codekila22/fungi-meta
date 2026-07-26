@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "parvipantherina",
  "date": [
+  "07/06/2026,27713373935013008",
   "12/28/2023,6795695033874203",
   "12/12/2023,6736782753098765",
   "07/08/2022,5136313489812374",
@@ -134,6 +135,22 @@
   {
    "author": "徐秀團",
    "image_src": "Amanita_parvipantherina_70d35690-a571-11ee-ba63-4fd87b9aa1b0_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parvipantherina_27713373935013008_a55b9620-889a-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parvipantherina_27713373935013008_a55b9620-889a-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parvipantherina_27713373935013008_a55b9620-889a-11f1-b2d8-4b1e79a5b7b3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Amanita_parvipantherina_27713373935013008_a55b9620-889a-11f1-b2d8-4b1e79a5b7b3_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -186,5 +203,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/160178434/thumb.jpg"
   }
  ],
- "timestamp": "20260725-222943"
+ "timestamp": "20260726-182632"
 }

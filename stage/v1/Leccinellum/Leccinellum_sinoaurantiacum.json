@@ -2,6 +2,7 @@
  "genus": "Leccinellum",
  "name": "sinoaurantiacum",
  "date": [
+  "07/17/2026,27713571914993210",
   "07/02/2026,27448106151539789",
   "11/08/2025,24935390856144677",
   "08/28/2024,7943995765710785",
@@ -224,6 +225,22 @@
   {
    "author": "向高世",
    "image_src": "Leccinellum_sinoaurantiacum_78b9ffa0-769b-11f1-93ae-a395ac7c01cf_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinellum_sinoaurantiacum_27713571914993210_5fb57730-88cc-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinellum_sinoaurantiacum_27713571914993210_5fb57730-88cc-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinellum_sinoaurantiacum_27713571914993210_5fb57730-88cc-11f1-b2d8-4b1e79a5b7b3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leccinellum_sinoaurantiacum_27713571914993210_5fb57730-88cc-11f1-b2d8-4b1e79a5b7b3_4.jpg"
   }
  ],
  "synonym": [
@@ -259,9 +276,11 @@
   "StalkDiamRangeValuess": "5,10",
   "StalkLengthRangeValuess": "40,70",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "no",
   "Bioluminescent": "",
@@ -281,5 +300,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260725-222943"
+ "timestamp": "20260726-182632"
 }

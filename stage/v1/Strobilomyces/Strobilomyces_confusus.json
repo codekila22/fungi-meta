@@ -2,6 +2,7 @@
  "genus": "Strobilomyces",
  "name": "confusus",
  "date": [
+  "07/21/2026,27704223899261345",
   "06/29/2026,27505653022451768",
   "06/25/2025,9959941064116235",
   "08/08/2024,7856436307800065",
@@ -301,6 +302,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Strobilomyces_confusus_a1b99ec0-54d1-11f0-9a3a-1569597bb593_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_confusus_27704223899261345_3136a740-88cb-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_confusus_27704223899261345_3136a740-88cb-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Strobilomyces_confusus_27704223899261345_3136a740-88cb-11f1-b2d8-4b1e79a5b7b3_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -329,12 +342,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "50,130",
   "HeightRangeValuess": "",
-  "Rareness": "occacional",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "red,black",
-  "Bioluminescent": "",
+  "Bioluminescent": "no",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
@@ -353,5 +368,5 @@
    "src": "https://static.inaturalist.org/photos/24056041/thumb.jpeg"
   }
  ],
- "timestamp": "20260725-222943"
+ "timestamp": "20260726-182632"
 }

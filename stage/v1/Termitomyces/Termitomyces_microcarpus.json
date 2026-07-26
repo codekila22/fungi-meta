@@ -2,6 +2,7 @@
  "genus": "Termitomyces",
  "name": "microcarpus",
  "date": [
+  "07/23/2026,27717799777903757",
   "07/19/2026,27640091722341230",
   "07/16/2026,27604561469227589",
   "07/13/2026,27580978044919265",
@@ -385,6 +386,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Termitomyces_microcarpus_27640091722341230_9e4836a0-8349-11f1-a062-8118f6bbb4de_7.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Termitomyces_microcarpus_27717799777903757_ced36e60-889a-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Termitomyces_microcarpus_27717799777903757_ced36e60-889a-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Termitomyces_microcarpus_27717799777903757_ced36e60-889a-11f1-b2d8-4b1e79a5b7b3_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Termitomyces_microcarpus_27717799777903757_ced36e60-889a-11f1-b2d8-4b1e79a5b7b3_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Termitomyces_microcarpus_27717799777903757_ced36e60-889a-11f1-b2d8-4b1e79a5b7b3_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -425,7 +446,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "小蟻巢傘，屬名Termitomyces意為「白蟻之菇」，指其與白蟻共生、生於蟻巢之習性；種小名microcarpus意為「小果的」，指其子實體微小。蓋小、白色、中央具尖凸（perforatorium）；菌褶白至淡粉；柄白而細，本種基部不具假根；常大量群生。此種菌柄基部沒有假根。",
+  "Note": "小蟻巢傘，屬名Termitomyces意為「白蟻之菇」，指其與白蟻共生、生於蟻巢之習性；種小名microcarpus意為「小果的」，指其子實體微小。蓋小、白色、中央具尖凸（perforatorium）；菌褶白至淡粉；柄白而細，本種基部不具假根；常大量群生。\n\n小蟻巢傘是台灣土白蟻養出來的，它並沒有長長的假根連接到蟻巢，那它又是怎麼跑到蟻巢外面長出子實體的呢?\n原來為了維持蟻巢中菌圃生長條件的恆定，工蟻們會將老廢的菌圃搬出巢外丟棄，但不會隨便亂丟，通常在落葉層下方比較保溼的地方。原基體離開蟻巢後，由於環境改變，誘發子實體生長，並將有性孢子散播出去。\n當「婚飛」建立新巢的蟻后，在落葉上採集並吞下外來的孢子，又能將小蟻巢傘的孢子帶回新巢的初始菌圃中接種，於是又開啟了新一輪的循環。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -437,5 +458,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15153081/thumb.jpg"
   }
  ],
- "timestamp": "20260725-222943"
+ "timestamp": "20260726-182632"
 }
