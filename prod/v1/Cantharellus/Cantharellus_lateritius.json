@@ -2,6 +2,7 @@
  "genus": "Cantharellus",
  "name": "lateritius",
  "date": [
+  "07/25/2026,27715912748092460",
   "06/29/2025,9993338830776458",
   "08/30/2024,7950325765077785",
   "07/05/2024,7611257045651327",
@@ -211,7 +212,7 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,90",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "mid",
   "Tropical": "no",
   "Seasons": "summer,autumn",
@@ -256,5 +257,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260726-204611"
 }

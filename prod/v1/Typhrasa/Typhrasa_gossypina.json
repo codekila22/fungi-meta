@@ -97,12 +97,14 @@
   "StalkDiamRangeValuess": "3,10",
   "StalkLengthRangeValuess": "25,100",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood,debris",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -119,5 +121,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340322/thumb.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260726-204611"
 }

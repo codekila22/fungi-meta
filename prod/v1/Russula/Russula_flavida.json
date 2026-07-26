@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "flavida",
  "date": [
+  "07/21/2026,27704470762569992",
   "07/17/2026,27632446526439083",
   "06/29/2025,9990384981071843",
   "10/13/2024,8352469384863419",
@@ -172,6 +173,14 @@
   {
    "author": "吳湯姆",
    "image_src": "Russula_flavida_27632446526439083_6e8dbfc0-8303-11f1-a26c-fd6db0fb50b5_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_flavida_27704470762569992_c32a3c10-87c8-11f1-b0ba-4d5057a95fb3_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_flavida_27704470762569992_c32a3c10-87c8-11f1-b0ba-4d5057a95fb3_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -200,7 +209,7 @@
   "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "40,80",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "mid",
   "Tropical": "no",
   "Seasons": "",
@@ -224,5 +233,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/79878163/thumb.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260726-204611"
 }

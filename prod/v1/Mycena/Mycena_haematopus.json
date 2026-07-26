@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "haematopus",
  "date": [
+  "07/21/2026,27693776910306044",
   "06/28/2026,27426131667070571",
   "02/19/2026,25850836221266798",
   "12/29/2025,25390054934011598",
@@ -369,6 +370,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Mycena_haematopus_15660e30-74f7-11f1-ad8d-814b59be874e_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_27693776910306044_d1d842f0-88e7-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_27693776910306044_d1d842f0-88e7-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_27693776910306044_d1d842f0-88e7-11f1-b2d8-4b1e79a5b7b3_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_27693776910306044_d1d842f0-88e7-11f1-b2d8-4b1e79a5b7b3_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_27693776910306044_d1d842f0-88e7-11f1-b2d8-4b1e79a5b7b3_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_haematopus_27693776910306044_d1d842f0-88e7-11f1-b2d8-4b1e79a5b7b3_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -399,8 +424,10 @@
   "StalkDiamRangeValuess": "2,4",
   "StalkLengthRangeValuess": "60,90",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "spring,summer,winter",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "scattered,grouped,clustered",
   "GrowthEnv": "wood",
   "Bruising": "red",
@@ -456,5 +483,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260726-204611"
 }

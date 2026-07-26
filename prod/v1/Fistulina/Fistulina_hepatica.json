@@ -2,6 +2,8 @@
  "genus": "Fistulina",
  "name": "hepatica",
  "date": [
+  "07/24/2026,27705875582429510",
+  "07/18/2026,27641662455517490",
   "07/05/2026,27479100958440308",
   "06/21/2026,27309765185373887",
   "07/11/2025,10083086375135036",
@@ -362,6 +364,50 @@
   {
    "author": "Sunny Wang",
    "image_src": "Fistulina_hepatica_e0c16d20-7afe-11f0-b79c-b3fa72682137_5.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Fistulina_hepatica_27641662455517490_73c00660-8376-11f1-a56b-8d5d7bcb098f_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Fistulina_hepatica_27641662455517490_73c00660-8376-11f1-a56b-8d5d7bcb098f_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Fistulina_hepatica_27641662455517490_73c00660-8376-11f1-a56b-8d5d7bcb098f_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Fistulina_hepatica_27641662455517490_73c00660-8376-11f1-a56b-8d5d7bcb098f_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Fistulina_hepatica_27641662455517490_73c00660-8376-11f1-a56b-8d5d7bcb098f_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fistulina_hepatica_27705875582429510_daf89d20-876c-11f1-9d26-b19d11126631_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fistulina_hepatica_27705875582429510_daf89d20-876c-11f1-9d26-b19d11126631_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fistulina_hepatica_27705875582429510_daf89d20-876c-11f1-9d26-b19d11126631_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fistulina_hepatica_27705875582429510_daf89d20-876c-11f1-9d26-b19d11126631_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fistulina_hepatica_27705875582429510_daf89d20-876c-11f1-9d26-b19d11126631_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Fistulina_hepatica_27705875582429510_daf89d20-876c-11f1-9d26-b19d11126631_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -390,12 +436,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,60",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -412,5 +460,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13074462/thumb.jpeg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260726-204611"
 }

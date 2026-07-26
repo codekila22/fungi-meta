@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/20/2026,27675807058769696",
   "06/16/2026,27244808088536264",
   "10/30/2025,24835370899480007",
   "08/03/2025,24022984020718703",
@@ -341,6 +342,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Cymatoderma_elegans_ee80fc00-6a04-11f1-8183-a136ae3cbbfa_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_elegans_27675807058769696_0b5f0680-8726-11f1-b6f2-838219972457_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_elegans_27675807058769696_0b5f0680-8726-11f1-b6f2-838219972457_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_elegans_27675807058769696_0b5f0680-8726-11f1-b6f2-838219972457_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_elegans_27675807058769696_0b5f0680-8726-11f1-b6f2-838219972457_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_elegans_27675807058769696_0b5f0680-8726-11f1-b6f2-838219972457_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cymatoderma_elegans_27675807058769696_0b5f0680-8726-11f1-b6f2-838219972457_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -391,5 +416,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/850516/thumb.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260726-204611"
 }

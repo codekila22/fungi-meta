@@ -2,6 +2,7 @@
  "genus": "Singerocybe",
  "name": "alboinfundibuliformis",
  "date": [
+  "07/21/2026,27718842987799436",
   "06/27/2025,9975765952533746",
   "01/04/2024,6821677001276006",
   "10/27/2022,5370638169713237",
@@ -157,6 +158,18 @@
   {
    "author": "向高世",
    "image_src": "Singerocybe_alboinfundibuliformis_daa2fa80-5b0a-11f0-b0d5-4133022cb6f6_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_alboinfundibuliformis_27718842987799436_19d52bb0-88cd-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_alboinfundibuliformis_27718842987799436_19d52bb0-88cd-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_alboinfundibuliformis_27718842987799436_19d52bb0-88cd-11f1-b2d8-4b1e79a5b7b3_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -185,12 +198,14 @@
   "StalkDiamRangeValuess": "3,7",
   "StalkLengthRangeValuess": "30,60",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground,debris",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -209,5 +224,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156357385/thumb.jpg"
   }
  ],
- "timestamp": "20260719-210136"
+ "timestamp": "20260726-204611"
 }
