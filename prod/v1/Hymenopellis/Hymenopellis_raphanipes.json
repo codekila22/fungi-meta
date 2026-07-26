@@ -2,6 +2,7 @@
  "genus": "Hymenopellis",
  "name": "raphanipes",
  "date": [
+  "07/25/2026,27729847043365697",
   "07/03/2026,27456779667339104",
   "06/30/2026,27438661762484228",
   "02/22/2026,25880684791615274",
@@ -167,6 +168,14 @@
   {
    "author": "黃金興",
    "image_src": "Hymenopellis_raphanipes_22bdfc70-773e-11f1-a701-a9e2fb242c19_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Hymenopellis_raphanipes_27729847043365697_6973f550-8942-11f1-9e17-2d14e8cf1c96_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Hymenopellis_raphanipes_27729847043365697_6973f550-8942-11f1-9e17-2d14e8cf1c96_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -196,7 +205,9 @@
   "StalkDiamRangeValuess": "8,15",
   "StalkLengthRangeValuess": "50,200",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,ground",
@@ -218,5 +229,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21375786/thumb.jpeg"
   }
  ],
- "timestamp": "20260726-204611"
+ "timestamp": "20260727-064348"
 }

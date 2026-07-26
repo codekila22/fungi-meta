@@ -2,6 +2,7 @@
  "genus": "Lentinula",
  "name": "edodes",
  "date": [
+  "07/25/2026,27730013720015696",
   "07/17/2026,27624827800534289",
   "06/19/2026,27283896917960714",
   "04/11/2026,26401958499487898",
@@ -551,7 +552,9 @@
   "StalkDiamRangeValuess": "5,13",
   "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "winter,summer",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
@@ -573,5 +576,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/116230354/thumb.jpg"
   }
  ],
- "timestamp": "20260726-204611"
+ "timestamp": "20260727-064348"
 }
