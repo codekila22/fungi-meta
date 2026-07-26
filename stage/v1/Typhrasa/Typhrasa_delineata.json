@@ -2,6 +2,7 @@
  "genus": "Typhrasa",
  "name": "delineata",
  "date": [
+  "07/21/2026,27693742386976163",
   "06/25/2025,9960682474042094",
   "06/09/2024,7478097482300618",
   "05/15/2023,5985227414920973",
@@ -169,6 +170,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Psathyrella_delineata_1cb522d0-5b11-11f0-95b3-790203b759a5_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27693742386976163_8ff70a20-88eb-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27693742386976163_8ff70a20-88eb-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27693742386976163_8ff70a20-88eb-11f1-b2d8-4b1e79a5b7b3_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27693742386976163_8ff70a20-88eb-11f1-b2d8-4b1e79a5b7b3_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27693742386976163_8ff70a20-88eb-11f1-b2d8-4b1e79a5b7b3_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27693742386976163_8ff70a20-88eb-11f1-b2d8-4b1e79a5b7b3_6.jpg"
   }
  ],
  "synonym": [
@@ -205,12 +230,14 @@
   "StalkDiamRangeValuess": "2,6",
   "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -227,5 +254,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340322/square.jpg"
   }
  ],
- "timestamp": "20260726-182632"
+ "timestamp": "20260726-204611"
 }

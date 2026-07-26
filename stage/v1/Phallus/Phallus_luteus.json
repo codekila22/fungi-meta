@@ -2,6 +2,7 @@
  "genus": "Phallus",
  "name": "luteus",
  "date": [
+  "07/26/2026,27724907447192990",
   "07/21/2026,27662188030131599",
   "07/05/2026,27478152381868499",
   "06/29/2026,27403799465970458",
@@ -462,6 +463,18 @@
   {
    "author": "黃金興",
    "image_src": "Phallus_luteus_d5fc9010-7a74-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_27724907447192990_14c26f00-88de-11f1-b2d8-4b1e79a5b7b3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_27724907447192990_14c26f00-88de-11f1-b2d8-4b1e79a5b7b3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_27724907447192990_14c26f00-88de-11f1-b2d8-4b1e79a5b7b3_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -516,5 +529,5 @@
    "src": "https://static.inaturalist.org/photos/13307620/thumb.jpeg"
   }
  ],
- "timestamp": "20260726-182632"
+ "timestamp": "20260726-204611"
 }
