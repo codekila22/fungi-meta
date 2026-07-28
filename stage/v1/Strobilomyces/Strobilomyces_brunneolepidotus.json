@@ -2,6 +2,7 @@
  "genus": "Strobilomyces",
  "name": "brunneolepidotus",
  "date": [
+  "07/10/2026,27726779567005778",
   "07/03/2026,27470268342656903",
   "07/02/2026,27456824187334652",
   "07/01/2026,27517466101270460",
@@ -314,6 +315,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Strobilomyces_brunneolepidotus_52c04810-7b71-11f1-b69b-29ba5035f45b_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Strobilomyces_brunneolepidotus_27726779567005778_c1af7310-8961-11f1-b0b4-394a5d49a5fd_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Strobilomyces_brunneolepidotus_27726779567005778_c1af7310-8961-11f1-b0b4-394a5d49a5fd_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Strobilomyces_brunneolepidotus_27726779567005778_c1af7310-8961-11f1-b0b4-394a5d49a5fd_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Strobilomyces_brunneolepidotus_27726779567005778_c1af7310-8961-11f1-b0b4-394a5d49a5fd_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Strobilomyces_brunneolepidotus_27726779567005778_c1af7310-8961-11f1-b0b4-394a5d49a5fd_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -342,14 +363,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low,mid",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "red",
-  "Bioluminescent": "",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -366,5 +387,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251574833/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260728-215311"
 }

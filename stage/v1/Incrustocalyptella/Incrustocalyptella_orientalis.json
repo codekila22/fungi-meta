@@ -2,6 +2,7 @@
  "genus": "Incrustocalyptella",
  "name": "orientalis",
  "date": [
+  "07/26/2026,27726362477047487",
   "04/11/2026,26397978216552593",
   "04/11/2025,9422259791217701",
   "11/09/2024,8489574914486198",
@@ -295,6 +296,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Incrustocalyptella_orientalis_860f08c0-3628-11f1-8ac9-71c70702eb1b_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Incrustocalyptella_orientalis_27726362477047487_77ca1610-898e-11f1-bdbe-3b3f36ae2bf8_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Incrustocalyptella_orientalis_27726362477047487_77ca1610-898e-11f1-bdbe-3b3f36ae2bf8_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Incrustocalyptella_orientalis_27726362477047487_77ca1610-898e-11f1-bdbe-3b3f36ae2bf8_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Incrustocalyptella_orientalis_27726362477047487_77ca1610-898e-11f1-bdbe-3b3f36ae2bf8_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Incrustocalyptella_orientalis_27726362477047487_77ca1610-898e-11f1-bdbe-3b3f36ae2bf8_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -323,12 +344,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "0,5",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "leaves",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -345,5 +368,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/257544744/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260728-215311"
 }

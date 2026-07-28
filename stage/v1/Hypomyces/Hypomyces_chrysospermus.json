@@ -3,6 +3,7 @@
  "name": "chrysospermus",
  "date": [
   "07/02/2026,27527379836945753",
+  "06/30/2026,27750355601314841",
   "06/07/2025,9866209993489343",
   "06/01/2025,9794399424003734",
   "08/25/2024,7912428772200818",
@@ -266,6 +267,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Hypomyces_chrysospermus_d457d480-7b97-11f1-b69b-29ba5035f45b_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Hypomyces_chrysospermus_27750355601314841_c9fefdd0-8a59-11f1-ab1c-a18d7a42cbed_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Hypomyces_chrysospermus_27750355601314841_c9fefdd0-8a59-11f1-ab1c-a18d7a42cbed_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Hypomyces_chrysospermus_27750355601314841_c9fefdd0-8a59-11f1-ab1c-a18d7a42cbed_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Hypomyces_chrysospermus_27750355601314841_c9fefdd0-8a59-11f1-ab1c-a18d7a42cbed_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Hypomyces_chrysospermus_27750355601314841_c9fefdd0-8a59-11f1-ab1c-a18d7a42cbed_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -314,5 +335,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12154069/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260728-215311"
 }

@@ -2,6 +2,7 @@
  "genus": "Termitomyces",
  "name": "microcarpus",
  "date": [
+  "07/26/2026,27748120624871672",
   "07/23/2026,27717799777903757",
   "07/19/2026,27640091722341230",
   "07/16/2026,27604561469227589",
@@ -406,6 +407,26 @@
   {
    "author": "陳雅芬",
    "image_src": "Termitomyces_microcarpus_27717799777903757_ced36e60-889a-11f1-b2d8-4b1e79a5b7b3_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Termitomyces_microcarpus_27748120624871672_4b4acd20-8a31-11f1-8aaa-397106b44b1a_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Termitomyces_microcarpus_27748120624871672_4b4acd20-8a31-11f1-8aaa-397106b44b1a_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Termitomyces_microcarpus_27748120624871672_4b4acd20-8a31-11f1-8aaa-397106b44b1a_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Termitomyces_microcarpus_27748120624871672_4b4acd20-8a31-11f1-8aaa-397106b44b1a_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Termitomyces_microcarpus_27748120624871672_4b4acd20-8a31-11f1-8aaa-397106b44b1a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -434,9 +455,9 @@
   "StalkDiamRangeValuess": "2,5",
   "StalkLengthRangeValuess": "40,80",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "grouped",
   "GrowthEnv": "ground",
@@ -458,5 +479,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15153081/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260728-215311"
 }

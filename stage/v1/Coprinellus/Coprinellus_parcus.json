@@ -4,6 +4,7 @@
  "date": [
   "07/19/2026,27639198305763905",
   "07/18/2026,27705366259147109",
+  "07/18/2026,27746813318335736",
   "09/27/2025,27629317653418637",
   "07/10/2025,27639198305763905"
  ],
@@ -152,6 +153,58 @@
   {
    "author": "江志緯",
    "image_src": "Coprinellus_parcus_27705366259147109_96be4f70-88ec-11f1-b2d8-4b1e79a5b7b3_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinellus_parcus_27746813318335736_12170d80-8a30-11f1-8aaa-397106b44b1a_13.jpg"
   }
  ],
  "names_zhcn": [
@@ -185,7 +238,7 @@
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped,clustered",
-  "GrowthEnv": "meadow,wood",
+  "GrowthEnv": "meadow,wood,rocks",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
@@ -206,5 +259,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260728-215311"
 }
