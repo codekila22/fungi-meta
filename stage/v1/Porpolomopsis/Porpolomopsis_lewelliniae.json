@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "06/28/2026,27766534783030256",
   "07/08/2025,10052999121477095",
   "06/12/2025,9867633406680335",
   "09/10/2023,6394420160668361",
@@ -292,6 +293,34 @@
   {
    "author": "吳湯姆",
    "image_src": "Porpolomopsis_lewelliniae_63ece5b0-5c89-11f0-9520-0bbb4582e035_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Porpolomopsis_lewelliniae_27766534783030256_f94dbfb0-8b51-11f1-b510-09488ad17d92_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Porpolomopsis_lewelliniae_27766534783030256_f94dbfb0-8b51-11f1-b510-09488ad17d92_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Porpolomopsis_lewelliniae_27766534783030256_f94dbfb0-8b51-11f1-b510-09488ad17d92_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Porpolomopsis_lewelliniae_27766534783030256_f94dbfb0-8b51-11f1-b510-09488ad17d92_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Porpolomopsis_lewelliniae_27766534783030256_f94dbfb0-8b51-11f1-b510-09488ad17d92_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Porpolomopsis_lewelliniae_27766534783030256_f94dbfb0-8b51-11f1-b510-09488ad17d92_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Porpolomopsis_lewelliniae_27766534783030256_f94dbfb0-8b51-11f1-b510-09488ad17d92_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -320,12 +349,15 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "4,8",
   "StalkLengthRangeValuess": "30,70",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -342,5 +374,5 @@
    "src": "https://static.inaturalist.org/photos/84318948/thumb.jpg"
   }
  ],
- "timestamp": "20260728-215311"
+ "timestamp": "20260729-225721"
 }

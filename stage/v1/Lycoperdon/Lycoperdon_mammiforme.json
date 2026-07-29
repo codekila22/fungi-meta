@@ -73,12 +73,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "2,6",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -95,5 +97,5 @@
    "src": "https://static.inaturalist.org/photos/32682062/thumb.jpg"
   }
  ],
- "timestamp": "20260728-215311"
+ "timestamp": "20260729-225721"
 }

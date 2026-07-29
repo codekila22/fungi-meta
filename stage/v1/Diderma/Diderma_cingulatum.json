@@ -77,5 +77,14 @@
   "LookAlikes": "",
   "Note": "箍孢雙皮黏菌，屬名Diderma意為「雙層之皮」，指其兩層之周皮；種小名cingulatum意為「具箍環的」，指其孢囊周皮上之環狀構造。孢子囊密集群生、近球形、灰白色、含石灰質；生於闊葉樹落葉之葉緣與葉面上。"
  },
- "timestamp": "20260728-215311"
+ "inaturalist": [
+  {
+   "name": "Diderma cingulatum",
+   "cname": "",
+   "cname_zh": "箍孢雙皮黏菌",
+   "url": "https://www.inaturalist.org/taxa/1500844",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/325521891/square.jpg"
+  }
+ ],
+ "timestamp": "20260729-225721"
 }
