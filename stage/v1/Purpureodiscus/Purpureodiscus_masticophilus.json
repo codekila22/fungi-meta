@@ -3,6 +3,7 @@
  "name": "masticophilus",
  "date": [
   "07/02/2026,27489210620762675",
+  "06/28/2026,27775192142164520",
   "06/27/2026,27382994118050993",
   "06/16/2026,27241771395506600",
   "06/16/2026,27269708076046265",
@@ -294,6 +295,54 @@
   {
    "author": "朱艷",
    "image_src": "Purpureodiscus_masticophilus_f1d02030-791c-11f1-9bac-25118943d88e_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Purpureodiscus_masticophilus_27775192142164520_21702130-8bee-11f1-b4af-df994418c03d_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -322,12 +371,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,grouped,scattered",
   "GrowthEnv": "wood,ground,rocks",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -344,5 +395,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260729-225721"
+ "timestamp": "20260731-120300"
 }

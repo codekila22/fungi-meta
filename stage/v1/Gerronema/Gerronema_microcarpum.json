@@ -2,6 +2,7 @@
  "genus": "Gerronema",
  "name": "microcarpum",
  "date": [
+  "07/30/2026,27779336781750056",
   "07/16/2026,27603241082692961",
   "06/18/2026,27603241082692961",
   "09/27/2024,8168118739965152",
@@ -156,6 +157,38 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Gerronema_microcarpum_27603241082692961_0d8a6af0-80e4-11f1-9a74-d71f6b815e0a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_microcarpum_27779336781750056_ae5303c0-8c7e-11f1-9c53-7ba1c48155b0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_microcarpum_27779336781750056_ae5303c0-8c7e-11f1-9c53-7ba1c48155b0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_microcarpum_27779336781750056_ae5303c0-8c7e-11f1-9c53-7ba1c48155b0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_microcarpum_27779336781750056_ae5303c0-8c7e-11f1-9c53-7ba1c48155b0_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_microcarpum_27779336781750056_ae5303c0-8c7e-11f1-9c53-7ba1c48155b0_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_microcarpum_27779336781750056_ae5303c0-8c7e-11f1-9c53-7ba1c48155b0_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_microcarpum_27779336781750056_ae5303c0-8c7e-11f1-9c53-7ba1c48155b0_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gerronema_microcarpum_27779336781750056_ae5303c0-8c7e-11f1-9c53-7ba1c48155b0_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -184,14 +217,14 @@
   "StalkDiamRangeValuess": "1,3",
   "StalkLengthRangeValuess": "10,40",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "low,mid",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
-  "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "GrowthEnv": "wood,bamboo",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -208,5 +241,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/221079008/thumb.jpeg"
   }
  ],
- "timestamp": "20260729-225721"
+ "timestamp": "20260731-120300"
 }

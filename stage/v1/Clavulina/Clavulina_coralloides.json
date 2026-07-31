@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/30/2026,27776069862076748",
   "08/26/2025,24266792399671196",
   "09/24/2024,8127685004008526",
   "07/08/2024,7639176942859337",
@@ -213,6 +214,18 @@
   {
    "author": "陳中城",
    "image_src": "Clavulina_cristata_ad21cc80-7bc2-11ef-b1f1-b1681f75999e_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Clavulina_coralloides_27776069862076748_b6024940-8be9-11f1-b4af-df994418c03d_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Clavulina_coralloides_27776069862076748_b6024940-8be9-11f1-b4af-df994418c03d_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Clavulina_coralloides_27776069862076748_b6024940-8be9-11f1-b4af-df994418c03d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -243,11 +256,13 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,80",
   "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
@@ -273,5 +288,5 @@
    "src": "https://static.inaturalist.org/photos/336214100/square.jpeg"
   }
  ],
- "timestamp": "20260729-225721"
+ "timestamp": "20260731-120300"
 }

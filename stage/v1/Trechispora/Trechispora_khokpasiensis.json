@@ -2,6 +2,7 @@
  "genus": "Trechispora",
  "name": "khokpasiensis",
  "date": [
+  "07/27/2026,27776040625413005",
   "06/25/2025,9960734020703606",
   "07/18/2024,7692270924216605",
   "06/17/2023,7971679099609118"
@@ -123,6 +124,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Trechispora_khokpasiensis_5d8afae0-54d2-11f0-bf65-9d0d17bb3643_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trechispora_khokpasiensis_27776040625413005_dc4be170-8be8-11f1-b4af-df994418c03d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trechispora_khokpasiensis_27776040625413005_dc4be170-8be8-11f1-b4af-df994418c03d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trechispora_khokpasiensis_27776040625413005_dc4be170-8be8-11f1-b4af-df994418c03d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trechispora_khokpasiensis_27776040625413005_dc4be170-8be8-11f1-b4af-df994418c03d_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trechispora_khokpasiensis_27776040625413005_dc4be170-8be8-11f1-b4af-df994418c03d_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trechispora_khokpasiensis_27776040625413005_dc4be170-8be8-11f1-b4af-df994418c03d_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -151,12 +176,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "0,3",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "debris,ground",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -166,5 +193,5 @@
   "la_zhtw": "柳杉糙孢孔菌,,",
   "la_zhcn": "柳杉糙孢孔菌,,"
  },
- "timestamp": "20260729-225721"
+ "timestamp": "20260731-120300"
 }

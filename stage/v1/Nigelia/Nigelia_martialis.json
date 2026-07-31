@@ -2,6 +2,7 @@
  "genus": "Nigelia",
  "name": "martialis",
  "date": [
+  "07/28/2026,27775982638752137",
   "03/09/2025,9198932793550403",
   "03/29/2024,7185674974876205",
   "03/12/2024,7107019652741738",
@@ -277,6 +278,26 @@
   {
    "author": "江志緯",
    "image_src": "Cordyceps_martialis_548dfc20-0217-11f0-8141-f59f8dfc37e4_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Nigelia_martialis_27775982638752137_65059250-8bed-11f1-b4af-df994418c03d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Nigelia_martialis_27775982638752137_65059250-8bed-11f1-b4af-df994418c03d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Nigelia_martialis_27775982638752137_65059250-8bed-11f1-b4af-df994418c03d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Nigelia_martialis_27775982638752137_65059250-8bed-11f1-b4af-df994418c03d_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Nigelia_martialis_27775982638752137_65059250-8bed-11f1-b4af-df994418c03d_5.jpg"
   }
  ],
  "synonym": [
@@ -312,11 +333,14 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "parasitic",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
@@ -333,5 +357,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/426145084/square.jpeg"
   }
  ],
- "timestamp": "20260729-225721"
+ "timestamp": "20260731-120300"
 }
