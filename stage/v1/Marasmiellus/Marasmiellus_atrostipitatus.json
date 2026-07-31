@@ -2,6 +2,7 @@
  "genus": "Marasmiellus",
  "name": "atrostipitatus",
  "date": [
+  "07/16/2026,27790043664012701",
   "06/12/2026,27303815469302192",
   "06/14/2025,9880712678705741",
   "06/10/2025,9841764469267229",
@@ -257,6 +258,42 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Marasmiellus_atrostipitatus_ce17f590-6d1a-11f1-969c-7521ace70c26_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_27790043664012701_056cd980-8ccd-11f1-9c53-7ba1c48155b0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_27790043664012701_056cd980-8ccd-11f1-9c53-7ba1c48155b0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_27790043664012701_056cd980-8ccd-11f1-9c53-7ba1c48155b0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_27790043664012701_056cd980-8ccd-11f1-9c53-7ba1c48155b0_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_27790043664012701_056cd980-8ccd-11f1-9c53-7ba1c48155b0_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_27790043664012701_056cd980-8ccd-11f1-9c53-7ba1c48155b0_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_27790043664012701_056cd980-8ccd-11f1-9c53-7ba1c48155b0_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_27790043664012701_056cd980-8ccd-11f1-9c53-7ba1c48155b0_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmiellus_atrostipitatus_27790043664012701_056cd980-8ccd-11f1-9c53-7ba1c48155b0_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -285,12 +322,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "wood,bamboo",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -309,5 +348,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260731-120300"
+ "timestamp": "20260731-191457"
 }
