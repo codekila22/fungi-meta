@@ -2,6 +2,7 @@
  "genus": "Xylaria",
  "name": "telfairii",
  "date": [
+  "07/27/2026,27792854703731597",
   "07/18/2026,27631575259859543",
   "07/13/2025,10090264384417235",
   "11/09/2024,8486282404815449",
@@ -277,9 +278,11 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,100",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
   "Bruising": "",
   "Bioluminescent": "",
@@ -299,5 +302,5 @@
    "src": "https://static.inaturalist.org/photos/108271478/thumb.jpeg"
   }
  ],
- "timestamp": "20260731-191457"
+ "timestamp": "20260802-100434"
 }

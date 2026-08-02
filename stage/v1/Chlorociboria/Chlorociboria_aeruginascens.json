@@ -2,6 +2,7 @@
  "genus": "Chlorociboria",
  "name": "aeruginascens",
  "date": [
+  "07/30/2026,28118485874413412",
   "12/04/2025,25154138137603280",
   "09/08/2025,24353002571050178",
   "07/19/2025,23895506030133170",
@@ -392,6 +393,14 @@
   {
    "author": "向高世",
    "image_src": "Chlorociboria_aeruginascens_27750479694635765_122389a0-8a7d-11f1-ab1c-a18d7a42cbed_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Chlorociboria_aeruginascens_28118485874413412_d2d46ac0-8d5c-11f1-bf29-ad05579d1619_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Chlorociboria_aeruginascens_28118485874413412_d2d46ac0-8d5c-11f1-bf29-ad05579d1619_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -458,5 +467,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260731-191457"
+ "timestamp": "20260802-100434"
 }

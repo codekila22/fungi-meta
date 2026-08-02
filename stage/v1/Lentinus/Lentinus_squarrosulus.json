@@ -2,6 +2,7 @@
  "genus": "Lentinus",
  "name": "squarrosulus",
  "date": [
+  "07/31/2026,27791544033862664",
   "06/21/2026,27322695704080835",
   "07/15/2025,https://www.facebook.com/bian.mei/videos/1280328753671931/?idorvanity=429770557133381",
   "06/03/2025,9791208204322856",
@@ -365,6 +366,8 @@
   "StalkLengthRangeValuess": "10,70",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -386,5 +389,5 @@
    "src": "https://static.inaturalist.org/photos/102975356/thumb.jpeg"
   }
  ],
- "timestamp": "20260731-191457"
+ "timestamp": "20260802-100434"
 }

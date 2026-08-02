@@ -2,6 +2,7 @@
  "genus": "Leotia",
  "name": "lubrica",
  "date": [
+  "07/27/2026,27792603497090051",
   "07/06/2026,27493642526986151",
   "07/13/2025,10096053403838333",
   "07/11/2025,10096474423796231",
@@ -299,14 +300,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,80",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "mid",
   "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -323,5 +324,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/254164000/thumb.jpg"
   }
  ],
- "timestamp": "20260731-191457"
+ "timestamp": "20260802-100434"
 }

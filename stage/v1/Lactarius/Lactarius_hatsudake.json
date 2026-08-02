@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "hatsudake",
  "date": [
+  "07/30/2026,27793062657044135",
   "08/23/2024,8026550700788624",
   "07/07/2024,7656665881110443",
   "06/19/2024,8026550700788624",
@@ -249,6 +250,18 @@
   {
    "author": "Sunny Wang",
    "image_src": "Lactarius_akahatsu_0cff4d30-77c7-11ef-bbd6-b53c696ee2f6_13.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lactarius_hatsudake_27793062657044135_08a94760-8cef-11f1-97b3-49feec88cef3_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lactarius_hatsudake_27793062657044135_08a94760-8cef-11f1-97b3-49feec88cef3_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lactarius_hatsudake_27793062657044135_08a94760-8cef-11f1-97b3-49feec88cef3_3.jpg"
   }
  ],
  "synonym": [
@@ -283,7 +296,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "8,20",
   "StalkLengthRangeValuess": "20,50",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -305,5 +321,5 @@
    "src": "https://static.inaturalist.org/photos/26203336/thumb.jpg"
   }
  ],
- "timestamp": "20260731-191457"
+ "timestamp": "20260802-100434"
 }
