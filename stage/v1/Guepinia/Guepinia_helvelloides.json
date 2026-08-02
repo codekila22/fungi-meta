@@ -2,6 +2,7 @@
  "genus": "Guepinia",
  "name": "helvelloides",
  "date": [
+  "08/01/2026,27806363029047431",
   "05/19/2022"
  ],
  "names_zhtw": [
@@ -71,6 +72,30 @@
   {
    "author": "蔡古媧",
    "image_src": "Guepinia_helvelloides_8_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Guepinia_helvelloides_27806363029047431_a8e3f520-8e22-11f1-bdb3-bbb8d9d5caa1_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Guepinia_helvelloides_27806363029047431_a8e3f520-8e22-11f1-bdb3-bbb8d9d5caa1_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Guepinia_helvelloides_27806363029047431_a8e3f520-8e22-11f1-bdb3-bbb8d9d5caa1_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Guepinia_helvelloides_27806363029047431_a8e3f520-8e22-11f1-bdb3-bbb8d9d5caa1_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Guepinia_helvelloides_27806363029047431_a8e3f520-8e22-11f1-bdb3-bbb8d9d5caa1_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Guepinia_helvelloides_27806363029047431_a8e3f520-8e22-11f1-bdb3-bbb8d9d5caa1_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -99,12 +124,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,50",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -123,5 +150,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2481682/thumb.jpg"
   }
  ],
- "timestamp": "20260802-100434"
+ "timestamp": "20260802-224538"
 }

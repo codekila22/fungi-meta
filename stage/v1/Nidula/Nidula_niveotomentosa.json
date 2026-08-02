@@ -2,6 +2,7 @@
  "genus": "Nidula",
  "name": "niveotomentosa",
  "date": [
+  "08/01/2026,27811746678509066",
   "01/24/2026,25651334521216970",
   "10/13/2025,24681841694832929",
   "08/25/2025,24234996696184100",
@@ -283,6 +284,22 @@
   {
    "author": "朱艷",
    "image_src": "Nidula_niveotomentosa_bc7c6e40-fe77-11f0-97a0-7b652e6c454b_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nidula_niveotomentosa_27811746678509066_095145b0-8e38-11f1-bdb3-bbb8d9d5caa1_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nidula_niveotomentosa_27811746678509066_095145b0-8e38-11f1-bdb3-bbb8d9d5caa1_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nidula_niveotomentosa_27811746678509066_095145b0-8e38-11f1-bdb3-bbb8d9d5caa1_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Nidula_niveotomentosa_27811746678509066_095145b0-8e38-11f1-bdb3-bbb8d9d5caa1_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -311,12 +328,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "4,10",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "not-edible",
   "Smell": "",
   "Taste": "",
@@ -333,5 +352,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32258197/thumb.jpg"
   }
  ],
- "timestamp": "20260802-100434"
+ "timestamp": "20260802-224538"
 }
