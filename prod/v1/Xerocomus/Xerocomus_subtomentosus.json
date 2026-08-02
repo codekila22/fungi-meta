@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "07/25/2026,27790112240672510",
   "06/15/2026,27230779556605784",
   "04/20/2026,26492838370399910",
   "06/19/2023,6145986905511689",
@@ -98,6 +99,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Xerocomus_subtomentosus_4d7566e0-6917-11f1-bb81-eb456ca0aee2_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xerocomus_subtomentosus_27790112240672510_b9890de0-8ccc-11f1-9c53-7ba1c48155b0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xerocomus_subtomentosus_27790112240672510_b9890de0-8ccc-11f1-9c53-7ba1c48155b0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xerocomus_subtomentosus_27790112240672510_b9890de0-8ccc-11f1-9c53-7ba1c48155b0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xerocomus_subtomentosus_27790112240672510_b9890de0-8ccc-11f1-9c53-7ba1c48155b0_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -126,11 +143,11 @@
   "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "40,120",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "mid",
   "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
   "Bruising": "blue",
   "Bioluminescent": "",
@@ -157,5 +174,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10893112/thumb.jpeg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

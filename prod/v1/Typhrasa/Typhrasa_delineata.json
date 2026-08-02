@@ -2,6 +2,7 @@
  "genus": "Typhrasa",
  "name": "delineata",
  "date": [
+  "07/28/2026,27779350561748678",
   "07/21/2026,27693742386976163",
   "06/25/2025,9960682474042094",
   "06/09/2024,7478097482300618",
@@ -194,6 +195,38 @@
   {
    "author": "吳湯姆",
    "image_src": "Typhrasa_delineata_27693742386976163_8ff70a20-88eb-11f1-b2d8-4b1e79a5b7b3_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27779350561748678_36d42d80-8d49-11f1-bf29-ad05579d1619_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27779350561748678_36d42d80-8d49-11f1-bf29-ad05579d1619_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27779350561748678_36d42d80-8d49-11f1-bf29-ad05579d1619_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27779350561748678_36d42d80-8d49-11f1-bf29-ad05579d1619_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27779350561748678_36d42d80-8d49-11f1-bf29-ad05579d1619_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27779350561748678_36d42d80-8d49-11f1-bf29-ad05579d1619_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27779350561748678_36d42d80-8d49-11f1-bf29-ad05579d1619_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Typhrasa_delineata_27779350561748678_36d42d80-8d49-11f1-bf29-ad05579d1619_8.jpg"
   }
  ],
  "synonym": [
@@ -254,5 +287,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340322/square.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

@@ -2,6 +2,7 @@
  "genus": "Retiboletus",
  "name": "ornatipes",
  "date": [
+  "07/28/2026,27774850542198680",
   "07/17/2024,7698251050285259",
   "06/25/2024,7607834819326883",
   "10/19/2023,6556221631154879",
@@ -177,6 +178,42 @@
   {
    "author": "林杏蓉",
    "image_src": "Retiboletus_ornatipes_0cabeaf0-2c78-109f-939f-edc52ea51b88_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Retiboletus_ornatipes_27774850542198680_1e0bb5f0-8bed-11f1-b4af-df994418c03d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Retiboletus_ornatipes_27774850542198680_1e0bb5f0-8bed-11f1-b4af-df994418c03d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Retiboletus_ornatipes_27774850542198680_1e0bb5f0-8bed-11f1-b4af-df994418c03d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Retiboletus_ornatipes_27774850542198680_1e0bb5f0-8bed-11f1-b4af-df994418c03d_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Retiboletus_ornatipes_27774850542198680_1e0bb5f0-8bed-11f1-b4af-df994418c03d_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Retiboletus_ornatipes_27774850542198680_1e0bb5f0-8bed-11f1-b4af-df994418c03d_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Retiboletus_ornatipes_27774850542198680_1e0bb5f0-8bed-11f1-b4af-df994418c03d_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Retiboletus_ornatipes_27774850542198680_1e0bb5f0-8bed-11f1-b4af-df994418c03d_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Retiboletus_ornatipes_27774850542198680_1e0bb5f0-8bed-11f1-b4af-df994418c03d_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -205,14 +242,14 @@
   "StalkDiamRangeValuess": "10,25",
   "StalkLengthRangeValuess": "50,80",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "mid",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Bruising": "brown",
-  "Bioluminescent": "",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -229,5 +266,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8754003/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

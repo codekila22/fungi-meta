@@ -3,7 +3,8 @@
  "name": "byssiseda",
  "date": [
   "06/14/2026,27241832518833821",
-  "02/17/2022,4663389663771428"
+  "02/17/2022,4663389663771428",
+  "06/15/2016,27648500931500309"
  ],
  "names_zhtw": [
   "棉絮束梗孢菌"
@@ -70,6 +71,30 @@
   {
    "author": "Sunny Wang",
    "image_src": "Stilbella_byssiseda_a3469890-697c-11f1-8dc1-d794246a5093_10.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Stilbella_byssiseda_27648500931500309_11c9eb30-8a6d-11f1-ab1c-a18d7a42cbed_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Stilbella_byssiseda_27648500931500309_11c9eb30-8a6d-11f1-ab1c-a18d7a42cbed_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Stilbella_byssiseda_27648500931500309_11c9eb30-8a6d-11f1-ab1c-a18d7a42cbed_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Stilbella_byssiseda_27648500931500309_11c9eb30-8a6d-11f1-ab1c-a18d7a42cbed_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Stilbella_byssiseda_27648500931500309_11c9eb30-8a6d-11f1-ab1c-a18d7a42cbed_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Stilbella_byssiseda_27648500931500309_11c9eb30-8a6d-11f1-ab1c-a18d7a42cbed_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -98,12 +123,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "fruit,parasitic",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -120,5 +147,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5704985/thumb.jpeg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

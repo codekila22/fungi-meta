@@ -2,6 +2,8 @@
  "genus": "Lycoperdon",
  "name": "excipuliforme",
  "date": [
+  "07/23/2026,27760473256969742",
+  "07/14/2026,27760473256969742",
   "06/15/2026,27243493442001062",
   "07/11/2025,10076805442429796",
   "06/07/2025,9814047398705603",
@@ -224,6 +226,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Calvatia_excipuliformis_722da540-6a09-11f1-9683-eb3f4c02869e_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lycoperdon_excipuliforme_27760473256969742_26cb5aa0-8b03-11f1-b510-09488ad17d92_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lycoperdon_excipuliforme_27760473256969742_26cb5aa0-8b03-11f1-b510-09488ad17d92_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lycoperdon_excipuliforme_27760473256969742_26cb5aa0-8b03-11f1-b510-09488ad17d92_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lycoperdon_excipuliforme_27760473256969742_26cb5aa0-8b03-11f1-b510-09488ad17d92_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lycoperdon_excipuliforme_27760473256969742_26cb5aa0-8b03-11f1-b510-09488ad17d92_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lycoperdon_excipuliforme_27760473256969742_26cb5aa0-8b03-11f1-b510-09488ad17d92_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lycoperdon_excipuliforme_27760473256969742_26cb5aa0-8b03-11f1-b510-09488ad17d92_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Lycoperdon_excipuliforme_27760473256969742_26cb5aa0-8b03-11f1-b510-09488ad17d92_8.jpg"
   }
  ],
  "synonym": [
@@ -260,12 +294,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "70,250",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -284,5 +320,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/153505537/square.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

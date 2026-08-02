@@ -101,15 +101,7 @@
   },
   {
    "author": "Sunny Wang",
-   "image_src": "Macrolepiota_aff. venenata_10_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "author": "Sunny Wang",
    "image_src": "Macrolepiota_aff. venenata_11_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Macrolepiota_aff. venenata_12_CC BY-NC_Sunny Wang.jpg"
   },
   {
    "author": "Sunny Wang",
@@ -241,7 +233,7 @@
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
-  "StalkAttachment": "",
+  "StalkAttachment": "central",
   "StalkColors": "",
   "StalkTexture": "",
   "StalkHollow": "",
@@ -250,7 +242,10 @@
   "StalkBase": "bulbous",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
@@ -272,5 +267,5 @@
    "src": "https://static.inaturalist.org/photos/11608138/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

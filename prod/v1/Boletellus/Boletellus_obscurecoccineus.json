@@ -2,6 +2,7 @@
  "genus": "Boletellus",
  "name": "obscurecoccineus",
  "date": [
+  "07/22/2026,27774526178897783",
   "08/11/2025,24120091971007907",
   "08/12/2024,7834248616685501",
   "07/06/2024,7625864680857230",
@@ -257,6 +258,26 @@
   {
    "author": "林杏蓉",
    "image_src": "Boletellus_obscurecoccineus_bbb458b0-915d-11f0-a722-dbd522113551_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletellus_obscurecoccineus_27774526178897783_5e3c11d0-8be6-11f1-b4af-df994418c03d_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletellus_obscurecoccineus_27774526178897783_5e3c11d0-8be6-11f1-b4af-df994418c03d_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletellus_obscurecoccineus_27774526178897783_5e3c11d0-8be6-11f1-b4af-df994418c03d_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletellus_obscurecoccineus_27774526178897783_5e3c11d0-8be6-11f1-b4af-df994418c03d_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Boletellus_obscurecoccineus_27774526178897783_5e3c11d0-8be6-11f1-b4af-df994418c03d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -285,7 +306,9 @@
   "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "40,100",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly",
   "GrowthEnv": "ground",
@@ -307,5 +330,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41409589/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

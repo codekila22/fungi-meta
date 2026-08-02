@@ -2,6 +2,7 @@
  "genus": "Tapinella",
  "name": "panuoides",
  "date": [
+  "07/28/2026,27774922015524866",
   "06/19/2026,27347075934976145",
   "07/02/2025,10021796057930735",
   "12/23/2024,8733628510080836",
@@ -211,6 +212,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Tapinella_panuoides_887d2d00-6fd8-11f1-95ca-39b2ed0a22ae_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tapinella_panuoides_27774922015524866_52b926f0-8bea-11f1-b4af-df994418c03d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tapinella_panuoides_27774922015524866_52b926f0-8bea-11f1-b4af-df994418c03d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tapinella_panuoides_27774922015524866_52b926f0-8bea-11f1-b4af-df994418c03d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tapinella_panuoides_27774922015524866_52b926f0-8bea-11f1-b4af-df994418c03d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -240,12 +257,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -276,5 +295,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

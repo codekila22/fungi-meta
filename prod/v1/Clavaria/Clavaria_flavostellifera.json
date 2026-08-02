@@ -2,6 +2,7 @@
  "genus": "Clavaria",
  "name": "flavostellifera",
  "date": [
+  "07/30/2026,27779477621735972",
   "12/14/2024,8824957090947977",
   "08/20/2023,6355921617851549",
   "08/24/2021,5180042978772758",
@@ -92,6 +93,14 @@
   {
    "author": "蔡古媧",
    "image_src": "Clavaria_flavostellifera_07bff900-d0be-11ef-94dc-61cf3cd0aee9_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_flavostellifera_27779477621735972_62c7aa00-8cce-11f1-a442-59e389ca5d2e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_flavostellifera_27779477621735972_62c7aa00-8cce-11f1-a442-59e389ca5d2e_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -120,14 +129,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,70",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "low,mid",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -135,5 +144,5 @@
   "Note": "黃色飾孢珊瑚菌，種小名flavostellifera意為「具黃色星狀（孢子飾紋）的」。子實體黃色、棒狀不分枝、叢生、質脆，地生於林地草地。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

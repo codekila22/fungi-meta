@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "subcyanocephala",
  "date": [
+  "07/30/2026,27777495141934220",
   "07/20/2026,27648903384793397",
   "07/13/2026,27569362346080835",
   "07/03/2026,27476147365402334",
@@ -627,6 +628,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_subcyanocephala_27648903384793397_ce8a1470-8428-11f1-926b-81f056757dca_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27777495141934220_4ca98c50-8bfe-11f1-b4af-df994418c03d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27777495141934220_4ca98c50-8bfe-11f1-b4af-df994418c03d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27777495141934220_4ca98c50-8bfe-11f1-b4af-df994418c03d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27777495141934220_4ca98c50-8bfe-11f1-b4af-df994418c03d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27777495141934220_4ca98c50-8bfe-11f1-b4af-df994418c03d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27777495141934220_4ca98c50-8bfe-11f1-b4af-df994418c03d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27777495141934220_4ca98c50-8bfe-11f1-b4af-df994418c03d_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -661,13 +690,13 @@
   "Seasons": "",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "近藍蓋小菇，菌蓋被白色絨毛並帶藍色調，菌柄纖細，生於腐木上。種小名subcyanocephala由sub（略）、cyanos（藍）與cephale（頭、蓋）組成，意為「略帶藍蓋的」；藍色調僅見於幼時，成熟後褪為淡藍或近白。本種屬刺囊小菇組（sect. Spinosae），子實體被細絨毛、菌蓋僅約1mm，為現知世上最小型之菇類之一，且與台灣多種發光小菇不同、本身並不發光。",
+  "Note": "近藍蓋小菇，菌蓋被白色絨毛並帶藍色調，菌柄纖細，生於腐木上。種小名subcyanocephala由sub（略）、cyanos（藍）與cephale（頭、蓋）組成，意為「略帶藍蓋的」；藍色調僅見於幼時，成熟後褪為淡藍或近白。本種屬刺囊小菇組（sect. Spinosae），子實體被細絨毛、菌蓋僅約1mm，為現知世上最小型之菇類之一。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -679,5 +708,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/260296784/square.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

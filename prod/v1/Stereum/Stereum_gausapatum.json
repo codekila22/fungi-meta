@@ -2,6 +2,7 @@
  "genus": "Stereum",
  "name": "gausapatum",
  "date": [
+  "07/28/2026,27767164792967255",
   "07/22/2026,27693519420331793",
   "07/03/2026,27464259326591138",
   "06/16/2026,27244895591860847",
@@ -348,6 +349,38 @@
   {
    "author": "吳湯姆",
    "image_src": "Stereum_gausapatum_27693519420331793_570ec9d0-8726-11f1-b6f2-838219972457_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_27767164792967255_81760d60-8b53-11f1-b510-09488ad17d92_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_27767164792967255_81760d60-8b53-11f1-b510-09488ad17d92_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_27767164792967255_81760d60-8b53-11f1-b510-09488ad17d92_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_27767164792967255_81760d60-8b53-11f1-b510-09488ad17d92_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_27767164792967255_81760d60-8b53-11f1-b510-09488ad17d92_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_27767164792967255_81760d60-8b53-11f1-b510-09488ad17d92_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_27767164792967255_81760d60-8b53-11f1-b510-09488ad17d92_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Stereum_gausapatum_27767164792967255_81760d60-8b53-11f1-b510-09488ad17d92_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -376,18 +409,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "5,15",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "煙色韌革菌，屬名Stereum意為「堅實的」，指其革質而韌之子實體；種小名gausapatum意為「被絨毛的」。子實體平伏至具短帽緣、覆瓦狀、革質，蓋面被絨毛而具環帶、灰褐至煙褐色；新鮮時切傷滲出紅色汁液；多生於櫟木上。有紅色泌液。",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Xylobolus spectabilis,,",
+  "Note": "煙色韌革菌，屬名Stereum意為「堅實的」，指其革質而韌之子實體；種小名gausapatum意為「被絨毛的」。子實體平伏至具短帽緣、覆瓦狀、革質，蓋面被絨毛而具環帶、灰褐至煙褐色；新鮮時切傷滲出紅色汁液；多生於櫟木上，也常見紅色泌液。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "華麗木丸菌,,",
+  "la_zhcn": "华丽木丸菌,,"
  },
  "inaturalist": [
   {
@@ -398,5 +435,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5489411/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

@@ -2,6 +2,7 @@
  "genus": "Cookeina",
  "name": "insititia",
  "date": [
+  "07/31/2026,27789588870724847",
   "07/14/2026,27582452988105104",
   "09/16/2025,24402662726084162",
   "09/07/2025,24389669397383495",
@@ -330,6 +331,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Cookeina_insititia_c6e83230-9688-11f0-909f-8bfff1730c01_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cookeina_insititia_27789588870724847_b9db7e30-8ccd-11f1-a442-59e389ca5d2e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cookeina_insititia_27789588870724847_b9db7e30-8ccd-11f1-a442-59e389ca5d2e_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cookeina_insititia_27789588870724847_b9db7e30-8ccd-11f1-a442-59e389ca5d2e_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cookeina_insititia_27789588870724847_b9db7e30-8ccd-11f1-a442-59e389ca5d2e_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -382,5 +399,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23627424/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

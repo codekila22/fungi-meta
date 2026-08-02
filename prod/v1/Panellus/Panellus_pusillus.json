@@ -2,6 +2,7 @@
  "genus": "Panellus",
  "name": "pusillus",
  "date": [
+  "07/28/2026,27779930381690696",
   "04/04/2025,9430762530367427",
   "11/14/2024,8507885079321848",
   "11/14/2024,8662064090570612",
@@ -378,7 +379,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,2",
   "StalkLengthRangeValuess": "1,2",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
@@ -400,5 +404,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5748774/thumb.jpeg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

@@ -2,6 +2,7 @@
  "genus": "Favolus",
  "name": "pseudoprinceps",
  "date": [
+  "07/15/2026,27792212623795805",
   "06/16/2026,27240477345636005",
   "06/09/2025,9826383197472023",
   "09/29/2024,8184908704952822",
@@ -186,6 +187,42 @@
   {
    "author": "陳中城",
    "image_src": "Favolus_yanomami_691f62f0-6954-11f1-8abd-47651f1c8b63_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Favolus_pseudoprinceps_27792212623795805_a8d06210-8cee-11f1-97b3-49feec88cef3_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Favolus_pseudoprinceps_27792212623795805_a8d06210-8cee-11f1-97b3-49feec88cef3_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Favolus_pseudoprinceps_27792212623795805_a8d06210-8cee-11f1-97b3-49feec88cef3_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Favolus_pseudoprinceps_27792212623795805_a8d06210-8cee-11f1-97b3-49feec88cef3_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Favolus_pseudoprinceps_27792212623795805_a8d06210-8cee-11f1-97b3-49feec88cef3_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Favolus_pseudoprinceps_27792212623795805_a8d06210-8cee-11f1-97b3-49feec88cef3_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Favolus_pseudoprinceps_27792212623795805_a8d06210-8cee-11f1-97b3-49feec88cef3_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Favolus_pseudoprinceps_27792212623795805_a8d06210-8cee-11f1-97b3-49feec88cef3_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Favolus_pseudoprinceps_27792212623795805_a8d06210-8cee-11f1-97b3-49feec88cef3_9.jpg"
   }
  ],
  "synonym": [
@@ -221,12 +258,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "2,10",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -245,5 +284,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/467940302/square.jpeg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

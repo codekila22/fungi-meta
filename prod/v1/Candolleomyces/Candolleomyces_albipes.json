@@ -2,6 +2,7 @@
  "genus": "Candolleomyces",
  "name": "albipes",
  "date": [
+  "07/30/2026,27776885988661802",
   "07/16/2026,27604474259236310",
   "12/11/2025,25224341447249615",
   "06/06/2025,9806654929444850",
@@ -347,6 +348,54 @@
   {
    "author": "陳麗紅",
    "image_src": "Candolleomyces_albipes_27604474259236310_2e9b1440-8109-11f1-96ce-a196742d6eab_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Candolleomyces_albipes_27776885988661802_402dd730-8c7e-11f1-9c53-7ba1c48155b0_12.jpg"
   }
  ],
  "synonym": [
@@ -375,14 +424,16 @@
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
-  "StalkHollow": "",
+  "StalkHollow": "hollow",
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "occacional",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
@@ -404,5 +455,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157106326/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

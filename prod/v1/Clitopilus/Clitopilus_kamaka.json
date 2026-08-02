@@ -2,6 +2,7 @@
  "genus": "Clitopilus",
  "name": "kamaka",
  "date": [
+  "07/28/2026,27750012694682465",
   "07/18/2026,27674270375590031",
   "06/16/2026,27280760378274368",
   "11/01/2025,24858865437130553",
@@ -299,6 +300,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Clitopilus_kamaka_27674270375590031_2c1a7160-857e-11f1-ab4b-b101d574d27b_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Clitopilus_kamaka_27750012694682465_5a845360-8a59-11f1-8aaa-397106b44b1a_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Clitopilus_kamaka_27750012694682465_5a845360-8a59-11f1-8aaa-397106b44b1a_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Clitopilus_kamaka_27750012694682465_5a845360-8a59-11f1-8aaa-397106b44b1a_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Clitopilus_kamaka_27750012694682465_5a845360-8a59-11f1-8aaa-397106b44b1a_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Clitopilus_kamaka_27750012694682465_5a845360-8a59-11f1-8aaa-397106b44b1a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -351,5 +372,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1326224/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

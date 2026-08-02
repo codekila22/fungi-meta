@@ -76,12 +76,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "10,60",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "edible",
   "Smell": "",
   "Taste": "",
@@ -112,5 +114,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

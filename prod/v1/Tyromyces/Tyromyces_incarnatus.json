@@ -2,6 +2,7 @@
  "genus": "Tyromyces",
  "name": "incarnatus",
  "date": [
+  "07/29/2026,27779291045087963",
   "10/30/2025,24839208892429541",
   "07/30/2025,23994570563560049",
   "07/10/2025,10074671055976568",
@@ -226,6 +227,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Tyromyces_incarnatus_2c366570-b7c8-11f0-b642-e38adf4043b2_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tyromyces_incarnatus_27779291045087963_ab209400-8d38-11f1-bf29-ad05579d1619_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tyromyces_incarnatus_27779291045087963_ab209400-8d38-11f1-bf29-ad05579d1619_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tyromyces_incarnatus_27779291045087963_ab209400-8d38-11f1-bf29-ad05579d1619_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tyromyces_incarnatus_27779291045087963_ab209400-8d38-11f1-bf29-ad05579d1619_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tyromyces_incarnatus_27779291045087963_ab209400-8d38-11f1-bf29-ad05579d1619_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tyromyces_incarnatus_27779291045087963_ab209400-8d38-11f1-bf29-ad05579d1619_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -255,18 +280,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "5,30",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Fistulina hepatica,,",
   "Note": "肉紅乾酪菌，帽扇形軟質白至粉肉色、孔面同色小孔，一年生，生於闊葉樹枯木。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "肝色牛排菌,,",
+  "la_zhcn": "肝色牛排菌,,"
  },
  "inaturalist": [
   {
@@ -277,5 +306,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40321045/thumb.jpeg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

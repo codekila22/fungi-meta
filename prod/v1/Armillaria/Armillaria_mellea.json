@@ -331,7 +331,9 @@
   "StalkDiamRangeValuess": "3,8",
   "StalkLengthRangeValuess": "30,55",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,autumn",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "wood,parasitic",
@@ -355,5 +357,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10028/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

@@ -2,6 +2,7 @@
  "genus": "Chlorociboria",
  "name": "aeruginascens",
  "date": [
+  "07/30/2026,28118485874413412",
   "12/04/2025,25154138137603280",
   "09/08/2025,24353002571050178",
   "07/19/2025,23895506030133170",
@@ -22,7 +23,8 @@
   "11/02/2021,4284081061702292",
   "10/21/2021,4246834285426970",
   "03/02/2021,3565210153589390",
-  "10/04/2020,3170261819750894"
+  "10/04/2020,3170261819750894",
+  "11/30/2017,27750479694635765"
  ],
  "names_zhtw": [
   "小孢綠杯盤菌"
@@ -367,6 +369,38 @@
   {
    "author": "吳湯姆",
    "image_src": "Chlorociboria_aeruginascens_4ea76100-e23d-11f0-bac7-9fe6c1617890_15.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Chlorociboria_aeruginascens_27750479694635765_122389a0-8a7d-11f1-ab1c-a18d7a42cbed_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Chlorociboria_aeruginascens_27750479694635765_122389a0-8a7d-11f1-ab1c-a18d7a42cbed_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Chlorociboria_aeruginascens_27750479694635765_122389a0-8a7d-11f1-ab1c-a18d7a42cbed_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Chlorociboria_aeruginascens_27750479694635765_122389a0-8a7d-11f1-ab1c-a18d7a42cbed_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Chlorociboria_aeruginascens_27750479694635765_122389a0-8a7d-11f1-ab1c-a18d7a42cbed_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Chlorociboria_aeruginascens_27750479694635765_122389a0-8a7d-11f1-ab1c-a18d7a42cbed_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Chlorociboria_aeruginascens_28118485874413412_d2d46ac0-8d5c-11f1-bf29-ad05579d1619_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Chlorociboria_aeruginascens_28118485874413412_d2d46ac0-8d5c-11f1-bf29-ad05579d1619_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -395,12 +429,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "3,10",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -431,5 +467,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

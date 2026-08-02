@@ -17,7 +17,8 @@
   "08/01/2021,3996047217172346",
   "07/20/2021,3958523887591346",
   "09/15/2020,3122129217897488",
-  "07/17/2020,2934711643305914"
+  "07/17/2020,2934711643305914",
+  "06/21/2020,27545624945121242"
  ],
  "names_zhtw": [
   "毛緣毛杯菌"
@@ -328,6 +329,38 @@
   {
    "author": "江志緯",
    "image_src": "Cookeina_tricholoma_0213beb0-7b4e-11f1-b69b-29ba5035f45b_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cookeina_tricholoma_27545624945121242_e1c0cc90-8a7d-11f1-ab1c-a18d7a42cbed_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cookeina_tricholoma_27545624945121242_e1c0cc90-8a7d-11f1-ab1c-a18d7a42cbed_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cookeina_tricholoma_27545624945121242_e1c0cc90-8a7d-11f1-ab1c-a18d7a42cbed_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cookeina_tricholoma_27545624945121242_e1c0cc90-8a7d-11f1-ab1c-a18d7a42cbed_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cookeina_tricholoma_27545624945121242_e1c0cc90-8a7d-11f1-ab1c-a18d7a42cbed_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cookeina_tricholoma_27545624945121242_e1c0cc90-8a7d-11f1-ab1c-a18d7a42cbed_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cookeina_tricholoma_27545624945121242_e1c0cc90-8a7d-11f1-ab1c-a18d7a42cbed_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cookeina_tricholoma_27545624945121242_e1c0cc90-8a7d-11f1-ab1c-a18d7a42cbed_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -356,14 +389,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "10,40",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low",
-  "Tropical": "yes",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -382,5 +415,5 @@
    "src": "https://static.inaturalist.org/photos/66678002/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

@@ -2,6 +2,7 @@
  "genus": "Hypholoma",
  "name": "fasciculare",
  "date": [
+  "07/28/2026,27792555663761501",
   "06/22/2026,27358225503861188",
   "11/07/2025,24938999345783828",
   "07/23/2025,23990873430596429",
@@ -444,6 +445,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Hypholoma_fasciculare_8ecbb970-7095-11f1-a1fc-692ffc955ebc_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hypholoma_fasciculare_27792555663761501_3d4ab460-8d42-11f1-bf29-ad05579d1619_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hypholoma_fasciculare_27792555663761501_3d4ab460-8d42-11f1-bf29-ad05579d1619_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hypholoma_fasciculare_27792555663761501_3d4ab460-8d42-11f1-bf29-ad05579d1619_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hypholoma_fasciculare_27792555663761501_3d4ab460-8d42-11f1-bf29-ad05579d1619_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hypholoma_fasciculare_27792555663761501_3d4ab460-8d42-11f1-bf29-ad05579d1619_5.jpg"
   }
  ],
  "synonym": [
@@ -482,11 +503,13 @@
   "StalkLengthRangeValuess": "30,100",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "toxic",
   "Smell": "mild",
   "Taste": "bitter",
@@ -510,5 +533,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/42626654/thumb.jpeg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

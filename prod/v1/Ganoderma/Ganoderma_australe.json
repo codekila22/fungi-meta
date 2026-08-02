@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "australe",
  "date": [
+  "07/18/2026,27772591009091300",
   "01/16/2026,25528622090154881",
   "04/12/2025,9430092397101107",
   "10/27/2024,8446168302160193",
@@ -237,6 +238,58 @@
   {
    "author": "陳麗紅",
    "image_src": "Ganoderma_australe_6b2ac7f0-f3a3-11f0-8963-3b6c150f88e7_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_australe_27772591009091300_8eadd3f0-8bee-11f1-b4af-df994418c03d_13.jpg"
   }
  ],
  "names_zhcn": [
@@ -265,12 +318,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "50,250",
-  "Rareness": "",
-  "Seasons": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "medicinal",
   "Smell": "",
   "Taste": "",
@@ -289,5 +344,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/54211256/thumb.jpeg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

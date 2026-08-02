@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "sp. 1",
  "date": [
+  "07/28/2026,27767495696267498",
   "03/26/2026,26211725758511174",
   "12/01/2025,25164376206579473",
   "06/15/2024,7521506657959700",
@@ -246,6 +247,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_sp. 1_c47b5390-2a46-11f1-9622-0d12ec629504_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_sp. 1_27767495696267498_5800b710-8b5c-11f1-b510-09488ad17d92_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_sp. 1_27767495696267498_5800b710-8b5c-11f1-b510-09488ad17d92_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_sp. 1_27767495696267498_5800b710-8b5c-11f1-b510-09488ad17d92_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_sp. 1_27767495696267498_5800b710-8b5c-11f1-b510-09488ad17d92_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_sp. 1_27767495696267498_5800b710-8b5c-11f1-b510-09488ad17d92_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -273,7 +294,10 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "spring,summer",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,ground",
@@ -286,5 +310,5 @@
   "Note": "綠皺乳菇（暫名），屬名Lactarius為乳菇之屬、因傷後流出乳汁得名。本種蓋面帶綠色調而具皺紋；傷後流出乳汁；與樹木共生為外生菌根菌；為一尚未正式命名之乳菇。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }

@@ -2,6 +2,7 @@
  "genus": "Cyathus",
  "name": "striatus",
  "date": [
+  "08/01/2026,27802641152752952",
   "07/07/2026,27494068993610171",
   "06/16/2026,27243615475322192",
   "09/24/2025,24469797462704021",
@@ -315,6 +316,22 @@
   {
    "author": "陳中城",
    "image_src": "Cyathus_striatus_d348ef40-6a01-11f1-8183-a136ae3cbbfa_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Cyathus_striatus_27802641152752952_17323850-8d85-11f1-bf29-ad05579d1619_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Cyathus_striatus_27802641152752952_17323850-8d85-11f1-bf29-ad05579d1619_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Cyathus_striatus_27802641152752952_17323850-8d85-11f1-bf29-ad05579d1619_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Cyathus_striatus_27802641152752952_17323850-8d85-11f1-bf29-ad05579d1619_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -365,5 +382,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2324355/thumb.jpg"
   }
  ],
- "timestamp": "20260727-064348"
+ "timestamp": "20260802-100434"
 }
