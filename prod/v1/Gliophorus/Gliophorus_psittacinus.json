@@ -9,6 +9,8 @@
   }
  ],
  "date": [
+  "08/01/2026,27806469945703406",
+  "07/30/2026,27813920644958336",
   "07/06/2026,27525934793756924",
   "10/18/2024,8358017270975297",
   "04/21/2024,7251261738317528",
@@ -212,6 +214,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Gliophorus_psittacinus_0459de80-7b98-11f1-b69b-29ba5035f45b_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Gliophorus_psittacinus_27813920644958336_97b2e860-8e6d-11f1-bdb3-bbb8d9d5caa1_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Gliophorus_psittacinus_27813920644958336_97b2e860-8e6d-11f1-bdb3-bbb8d9d5caa1_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Gliophorus_psittacinus_27813920644958336_97b2e860-8e6d-11f1-bdb3-bbb8d9d5caa1_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Gliophorus_psittacinus_27813920644958336_97b2e860-8e6d-11f1-bdb3-bbb8d9d5caa1_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Gliophorus_psittacinus_27813920644958336_97b2e860-8e6d-11f1-bdb3-bbb8d9d5caa1_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gliophorus_psittacinus_27806469945703406_a7eb04a0-8e6e-11f1-bdb3-bbb8d9d5caa1_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gliophorus_psittacinus_27806469945703406_a7eb04a0-8e6e-11f1-bdb3-bbb8d9d5caa1_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gliophorus_psittacinus_27806469945703406_a7eb04a0-8e6e-11f1-bdb3-bbb8d9d5caa1_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gliophorus_psittacinus_27806469945703406_a7eb04a0-8e6e-11f1-bdb3-bbb8d9d5caa1_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -241,12 +279,15 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "3,5",
   "StalkLengthRangeValuess": "40,80",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -263,5 +304,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4134024/thumb."
   }
  ],
- "timestamp": "20260802-100434"
+ "timestamp": "20260802-224538"
 }

@@ -422,8 +422,8 @@
   "LookAlikes": "Panus velutinus,Panus strigellus,",
   "Note": "新粗毛革耳，帽被粗毛漏斗形，柄短偏生具毛，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": ",鱗毛革耳,",
-  "la_zhcn": ",鳞毛革耳,"
+  "la_zhtw": "絨毛斗菇,鱗毛革耳,",
+  "la_zhcn": "绒毛斗菇,鳞毛革耳,"
  },
  "inaturalist": [
   {
@@ -434,5 +434,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/60452280/thumb.jpeg"
   }
  ],
- "timestamp": "20260802-100434"
+ "timestamp": "20260802-224538"
 }

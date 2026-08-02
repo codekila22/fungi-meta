@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "deliciosus",
  "date": [
+  "07/28/2026,27774942332189501",
   "07/18/2026,27649024061447996",
   "11/01/2025,24859605497056547",
   "05/21/2025,9685185034925174",
@@ -99,6 +100,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Lactarius_deliciosus_27649024061447996_a66098b0-8429-11f1-926b-81f056757dca_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_27774942332189501_85447e40-8e37-11f1-bdb3-bbb8d9d5caa1_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_27774942332189501_85447e40-8e37-11f1-bdb3-bbb8d9d5caa1_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_27774942332189501_85447e40-8e37-11f1-bdb3-bbb8d9d5caa1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_27774942332189501_85447e40-8e37-11f1-bdb3-bbb8d9d5caa1_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -141,8 +158,8 @@
   "LookAlikes": "Lactarius akahatsu,,",
   "Note": "松乳菇，屬名Lactarius意為「產乳的」；種小名deliciosus意為「美味的」。蓋橙色而具同心環紋、中央常下凹；菌褶延生、橙色；傷後湧出橙色乳汁、受傷處轉青綠色；與松樹共生為外生菌根菌。喜愛生長在松樹旁。受傷部位會呈現青綠色。",
   "GrowthEco": "mycorrhizal",
-  "la_zhtw": ",,",
-  "la_zhcn": ",,"
+  "la_zhtw": "紅汁乳菇,,",
+  "la_zhcn": "红汁乳菇,,"
  },
  "inaturalist": [
   {
@@ -209,5 +226,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-100434"
+ "timestamp": "20260802-224538"
 }

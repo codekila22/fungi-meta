@@ -152,12 +152,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "rocks",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Rareness": "common",
+  "Elevation": "low,mid,high",
+  "Tropical": "no",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood,rocks",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -173,5 +175,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/60040679/thumb.jpeg"
   }
  ],
- "timestamp": "20260802-100434"
+ "timestamp": "20260802-224538"
 }
