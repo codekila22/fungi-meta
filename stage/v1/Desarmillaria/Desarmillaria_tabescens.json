@@ -2,6 +2,7 @@
  "genus": "Desarmillaria",
  "name": "tabescens",
  "date": [
+  "08/02/2026,27817220591295008",
   "07/21/2026,27662833736733695",
   "07/03/2026,27492662047084199",
   "10/18/2024,8344504088993282",
@@ -215,6 +216,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Desarmillaria_tabescens_27662833736733695_3ae78c30-84e0-11f1-869d-41845ab2f3d7_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Desarmillaria_tabescens_27817220591295008_58ff52c0-8ec7-11f1-9bd4-97f2e44ed3d2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Desarmillaria_tabescens_27817220591295008_58ff52c0-8ec7-11f1-9bd4-97f2e44ed3d2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Desarmillaria_tabescens_27817220591295008_58ff52c0-8ec7-11f1-9bd4-97f2e44ed3d2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Desarmillaria_tabescens_27817220591295008_58ff52c0-8ec7-11f1-9bd4-97f2e44ed3d2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Desarmillaria_tabescens_27817220591295008_58ff52c0-8ec7-11f1-9bd4-97f2e44ed3d2_5.jpg"
   }
  ],
  "synonym": [
@@ -275,5 +296,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/345654444/square.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

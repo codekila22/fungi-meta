@@ -141,6 +141,7 @@
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "choice",
+  "Cultivated": "yes",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Meripilus giganteus,,",
@@ -158,5 +159,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027079/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

@@ -98,6 +98,7 @@
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "yes",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Sparassis crispa,,",
@@ -115,5 +116,5 @@
    "src": "https://static.inaturalist.org/photos/51103074/thumb.jpeg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

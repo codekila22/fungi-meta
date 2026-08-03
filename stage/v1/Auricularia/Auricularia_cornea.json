@@ -720,6 +720,7 @@
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "yes",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Auricularia heimuer,Auricularia villosula,",
@@ -737,5 +738,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28895640/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

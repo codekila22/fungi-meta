@@ -218,6 +218,7 @@
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "yes",
   "Smell": "fishy",
   "Taste": "mild",
   "LookAlikes": "Pleurocybella porrigens,Pleurotus pulmonarius,",
@@ -242,5 +243,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28199820/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

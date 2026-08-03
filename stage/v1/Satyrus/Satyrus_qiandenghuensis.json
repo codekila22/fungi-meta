@@ -248,6 +248,7 @@
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground,meadow",
+  "Synanthropic": "yes",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -266,5 +267,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

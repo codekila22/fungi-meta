@@ -139,20 +139,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "low",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Entoloma flabellatum,,",
   "Note": "棉絮粉褶菌，屬名Entoloma為粉褶菌之屬；種小名byssisedum意為「著生於棉絮狀基質的」。子實體小、側生或近無柄、貝殼狀、灰褐色、基部具棉絮狀之菌絲；菌褶粉褶菌屬特有之肉粉色；生於腐木與苔上。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "扇形粉褶菌,,",
+  "la_zhcn": "扇形粉褶菌,,"
  },
  "inaturalist": [
   {
@@ -177,5 +179,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

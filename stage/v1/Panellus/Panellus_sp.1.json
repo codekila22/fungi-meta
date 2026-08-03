@@ -119,11 +119,13 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "wood",
-  "Bruising": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "leaves",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
@@ -134,5 +136,5 @@
   "la_zhtw": "迷你扇菇,,",
   "la_zhcn": "迷你扇菇,,"
  },
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

@@ -255,6 +255,7 @@
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
+  "Synanthropic": "yes",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -273,5 +274,5 @@
    "src": "https://static.inaturalist.org/photos/56084088/thumb.jpeg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

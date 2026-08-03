@@ -94,20 +94,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "mid",
   "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood,ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Entoloma byssishedum,,",
   "Note": "扇形粉褶菌，屬名Entoloma意為「內捲之緣」；種小名flabellatum意為「扇形的」。蓋小、凸至扇形；菌褶粉褶菌屬特有之肉粉色；柄纖細；菌絲體發達，常蔓爬於土面、苔蘚、岩石、枯木與枯竹等各處。菌絲體發展非常明顯，可能會爬到土上、苔蘚、岩石、木頭、枯竹等各處生長。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "棉絮粉褶菌,,",
+  "la_zhcn": "棉絮粉褶菌,,"
  },
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

@@ -2,6 +2,7 @@
  "genus": "Trichoglossum",
  "name": "hirsutum",
  "date": [
+  "08/02/2026,27817324477951286",
   "07/06/2026,27525644230452647",
   "06/16/2024,7543576382419394",
   "08/25/2023,6332380226872355",
@@ -132,6 +133,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Trichoglossum_hirsutum_75e2ee00-7b81-11f1-b69b-29ba5035f45b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichoglossum_hirsutum_27817324477951286_11da0420-8ec8-11f1-9bd4-97f2e44ed3d2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichoglossum_hirsutum_27817324477951286_11da0420-8ec8-11f1-9bd4-97f2e44ed3d2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichoglossum_hirsutum_27817324477951286_11da0420-8ec8-11f1-9bd4-97f2e44ed3d2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Trichoglossum_hirsutum_27817324477951286_11da0420-8ec8-11f1-9bd4-97f2e44ed3d2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -160,12 +177,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,80",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -205,5 +224,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }

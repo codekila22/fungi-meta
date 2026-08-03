@@ -15,6 +15,7 @@
  ],
  "date": [
   "08/02/2026,27812646765085724",
+  "08/02/2026,27816893297994404",
   "07/27/2026,27767731459577255",
   "07/17/2026,27625317623818640",
   "07/14/2026,27582097681473968",
@@ -282,6 +283,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Entoloma_cyanonigrum_27625317623818640_24bd76d0-827f-11f1-b205-db611c601ea1_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_cyanonigrum_27816893297994404_37963eb0-8eee-11f1-9bd4-97f2e44ed3d2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_cyanonigrum_27816893297994404_37963eb0-8eee-11f1-9bd4-97f2e44ed3d2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_cyanonigrum_27816893297994404_37963eb0-8eee-11f1-9bd4-97f2e44ed3d2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_cyanonigrum_27816893297994404_37963eb0-8eee-11f1-9bd4-97f2e44ed3d2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -334,5 +351,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156067477/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260803-183327"
 }
