@@ -2,7 +2,6 @@
  "genus": "Austroboletus",
  "name": "gracilis",
  "date": [
-  "08/01/2026,27817527031264364",
   "07/02/2025,10027557744021233",
   "06/15/2025,9881856475258028",
   "06/07/2025,9913902898720052"
@@ -92,22 +91,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Austroboletus_gracilis_423d06a0-5a29-11f0-876e-5dc6756771ed_4.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Austroboletus_gracilis_27817527031264364_a2fa37f0-8eb8-11f1-bdb3-bbb8d9d5caa1_1.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Austroboletus_gracilis_27817527031264364_a2fa37f0-8eb8-11f1-bdb3-bbb8d9d5caa1_2.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Austroboletus_gracilis_27817527031264364_a2fa37f0-8eb8-11f1-bdb3-bbb8d9d5caa1_3.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Austroboletus_gracilis_27817527031264364_a2fa37f0-8eb8-11f1-bdb3-bbb8d9d5caa1_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -147,9 +130,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Gyroporus castaneus,,",
   "Note": "細南牛肝菌，屬名Austroboletus意為「南方的牛肝菌」；種小名gracilis意為「纖細的」。蓋紅褐至肉桂褐色、乾而略絨；孔面初白後轉粉紅色；柄細長、常具細網紋或縱紋；孢子具紋飾；與樹木共生為外生菌根菌。傷後緩慢變淡褐色至粉褐色。",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "栗樹圓孔牛肝菌,,",
+  "la_zhcn": "栗树圆孔牛肝菌,,"
  },
  "inaturalist": [
   {
@@ -174,5 +159,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260803-183327"
+ "timestamp": "20260804-111050"
 }

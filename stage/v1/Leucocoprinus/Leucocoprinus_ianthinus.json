@@ -100,6 +100,7 @@
   "StalkLengthRangeValuess": "35,70",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
@@ -110,7 +111,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "紫羅蘭色白鬼傘，屬名Leucocoprinus意為「白色的鬼傘」；種小名ianthinus意為「紫羅蘭色的」。蓋被紫羅蘭至紫褐色之細鱗、具溝紋；菌褶白色、離生；柄具一膜質菌環；常見於花盆植栽之腐植土中。常出現在花盆植栽中。",
+  "Note": "紫羅蘭色白鬼傘，屬名Leucocoprinus意為「白色的鬼傘」；種小名ianthinus意為「紫羅蘭色的」。蓋被紫羅蘭至紫褐色之細鱗、具溝紋；菌褶白色、離生；柄具一膜質菌環；常見於花盆植栽之腐植土中。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -122,5 +123,5 @@
    "src": "https://static.inaturalist.org/photos/96163568/thumb.jpg"
   }
  ],
- "timestamp": "20260803-183327"
+ "timestamp": "20260804-111050"
 }

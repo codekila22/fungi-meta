@@ -102,6 +102,7 @@
   "StalkLengthRangeValuess": "15,60",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
   "Seasons": "",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
@@ -112,7 +113,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "火紅擬口蘑，屬名Tricholomopsis意指其形似口蘑屬；種小名flammula意為「小火焰」，指其紅豔之鱗片。蓋黃底而密被紅至酒紅色之纖絲狀鱗片；菌褶密、黃色；柄黃色而被紅色細鱗；在台灣常生於針葉木製之棧道與枕木上。在台灣常生長在由針葉木製作成的木棧道/枕木上。",
+  "Note": "火紅擬口蘑，屬名Tricholomopsis意指其形似口蘑屬；種小名flammula意為「小火焰」，指其紅豔之鱗片。蓋黃底而密被紅至酒紅色之纖絲狀鱗片；菌褶密、黃色；柄黃色而被紅色細鱗；在台灣常生於針葉木製之棧道與枕木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -124,5 +125,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13070361/thumb.jpeg"
   }
  ],
- "timestamp": "20260803-183327"
+ "timestamp": "20260804-111050"
 }

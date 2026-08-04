@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "sp.2",
  "date": [
+  "08/01/2026,27833295346354199",
   "07/17/2026,27624780390539030",
   "06/24/2026,27355991727417899",
   "06/16/2026,27244988445184895",
@@ -372,6 +373,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_sp.2_27624780390539030_dad8e120-827f-11f1-b205-db611c601ea1_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_sp.2_27833295346354199_f6003e70-8f9b-11f1-aaa7-5be3483fb2dc_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_sp.2_27833295346354199_f6003e70-8f9b-11f1-aaa7-5be3483fb2dc_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_sp.2_27833295346354199_f6003e70-8f9b-11f1-aaa7-5be3483fb2dc_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_sp.2_27833295346354199_f6003e70-8f9b-11f1-aaa7-5be3483fb2dc_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_sp.2_27833295346354199_f6003e70-8f9b-11f1-aaa7-5be3483fb2dc_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lactarius_sp.2_27833295346354199_f6003e70-8f9b-11f1-aaa7-5be3483fb2dc_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -400,12 +425,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
@@ -413,5 +440,5 @@
   "Note": "粗鱗黃汁乳菇，屬名Lactarius為乳菇之屬、因傷後流出乳汁得名。本種蓋面被粗大之鱗片；乳汁初白、遇空氣轉硫黃色；與樹木共生為外生菌根菌；為一尚未正式命名之乳菇。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260803-183327"
+ "timestamp": "20260804-111050"
 }

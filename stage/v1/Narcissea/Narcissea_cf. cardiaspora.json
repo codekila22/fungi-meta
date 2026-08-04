@@ -58,6 +58,7 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "0,2",
   "Rareness": "",
+  "Elevation": "low",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "ground,debris",
@@ -68,7 +69,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Narcissea patouillardii,,",
-  "Note": "疑似心孢鬼傘，屬名Narcissea為鬼傘類之一屬；種小名cardiaspora意為「心形孢子的」。子實體小、蓋灰色、具溝紋，成熟後墨化液化；孢子心形；生於堆肥上。生長於堆肥上。",
+  "Note": "疑似心孢鬼傘，屬名Narcissea為鬼傘類之一屬；種小名cardiaspora意為「心形孢子的」。子實體小、蓋灰色、具溝紋，成熟後墨化液化；孢子心形；生於堆肥上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "帕氏心孢鬼傘,,",
   "la_zhcn": "帕氏心孢鬼伞,,"
@@ -82,5 +83,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/601772824/square.jpg"
   }
  ],
- "timestamp": "20260803-183327"
+ "timestamp": "20260804-111050"
 }

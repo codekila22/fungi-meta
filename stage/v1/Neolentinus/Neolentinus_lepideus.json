@@ -214,10 +214,10 @@
   "StalkDiamRangeValuess": "10,25",
   "StalkLengthRangeValuess": "30,120",
   "Rareness": "",
+  "Elevation": "low,mid",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
-  "Synanthropic": "yes",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -236,5 +236,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12918875/thumb.jpg"
   }
  ],
- "timestamp": "20260803-183327"
+ "timestamp": "20260804-111050"
 }

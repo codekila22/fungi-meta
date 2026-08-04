@@ -2,6 +2,7 @@
  "genus": "Thelephora",
  "name": "fuscella",
  "date": [
+  "08/01/2026,27833413543009046",
   "07/27/2026,27767764936240574",
   "07/16/2026,27606779372339132",
   "07/08/2026,27549582221392181",
@@ -340,6 +341,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Thelephora_fuscella_27767764936240574_87f4e8f0-8b5d-11f1-b510-09488ad17d92_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Thelephora_fuscella_27833413543009046_3e514660-8f9c-11f1-aaa7-5be3483fb2dc_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Thelephora_fuscella_27833413543009046_3e514660-8f9c-11f1-aaa7-5be3483fb2dc_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Thelephora_fuscella_27833413543009046_3e514660-8f9c-11f1-aaa7-5be3483fb2dc_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Thelephora_fuscella_27833413543009046_3e514660-8f9c-11f1-aaa7-5be3483fb2dc_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Thelephora_fuscella_27833413543009046_3e514660-8f9c-11f1-aaa7-5be3483fb2dc_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Thelephora_fuscella_27833413543009046_3e514660-8f9c-11f1-aaa7-5be3483fb2dc_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -368,22 +393,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "10,50",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "mid",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "medicinal",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Thelephora vialis,,",
-  "Note": "棕色革菌，屬名Thelephora意為「具乳突的」；種小名fuscella意為「略暗褐的」，指其較近緣種為深之色澤。子實體叢生、扇形至珊瑚狀分裂、革質、暗褐至栗褐色、緣色較淡；地生，常與樹根形成外生菌根。菌蓋顏色較相似種深。",
+  "Note": "棕色革菌，屬名Thelephora意為「具乳突的」；種小名fuscella意為「略暗褐的」，指其較近緣種為深之色澤。子實體叢生、扇形至珊瑚狀分裂、革質、暗褐至栗褐色、緣色較淡；地生，常與樹根形成外生菌根。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "蓮座革菌,,",
   "la_zhcn": "莲座革菌,,"
  },
- "timestamp": "20260803-183327"
+ "timestamp": "20260804-111050"
 }

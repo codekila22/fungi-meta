@@ -194,6 +194,7 @@
   "StalkLengthRangeValuess": "70,100",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "meadow",
@@ -230,5 +231,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/310883193/thumb.jpg"
   }
  ],
- "timestamp": "20260803-183327"
+ "timestamp": "20260804-111050"
 }
