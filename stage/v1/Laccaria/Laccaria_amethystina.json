@@ -2,6 +2,7 @@
  "genus": "Laccaria",
  "name": "amethystina",
  "date": [
+  "08/04/2026,27866406633043070",
   "08/09/2023,6298664420243936",
   "07/15/2021,2928622553914823",
   "06/25/2021,3890988651011537"
@@ -73,6 +74,62 @@
   {
    "author": "陳麗紅",
    "image_src": "Laccaria_amethystina_50058280-3b68-11ee-a203-850183c1a33e_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Laccaria_amethystina_27866406633043070_e445eb40-9198-11f1-b9cb-31d427a5820b_14.jpg"
   }
  ],
  "names_zhcn": [
@@ -101,15 +158,17 @@
   "StalkDiamRangeValuess": "1,7",
   "StalkLengthRangeValuess": "6,70",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Elevation": "mid",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
   "Tropical": "",
   "Seasons": "",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Laccaria moshuijun,,",
@@ -127,5 +186,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/100850899/thumb.jpeg"
   }
  ],
- "timestamp": "20260804-111050"
+ "timestamp": "20260807-125955"
 }

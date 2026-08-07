@@ -2,13 +2,13 @@
  "genus": "Ophiocordyceps",
  "name": "macroacicularis",
  "date": [
-  "01/01/0001"
+  "08/01/2026,27829451423405258"
  ],
  "names_zhtw": [
   "大針蛇形蟲草"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/6448",
+ "url": "27829451423405258",
  "images": [
   {
    "author": "胡家銘",
@@ -49,6 +49,30 @@
   {
    "author": "胡家銘",
    "image_src": "Ophiocordyceps_macroacicularis_10_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_macroacicularis_27829451423405258_1dba79d0-8fec-11f1-9217-17fea985e4d8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_macroacicularis_27829451423405258_1dba79d0-8fec-11f1-9217-17fea985e4d8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_macroacicularis_27829451423405258_1dba79d0-8fec-11f1-9217-17fea985e4d8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_macroacicularis_27829451423405258_1dba79d0-8fec-11f1-9217-17fea985e4d8_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_macroacicularis_27829451423405258_1dba79d0-8fec-11f1-9217-17fea985e4d8_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Ophiocordyceps_macroacicularis_27829451423405258_1dba79d0-8fec-11f1-9217-17fea985e4d8_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -76,17 +100,22 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "parasitic",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "大針蛇形蟲草，屬名Ophiocordyceps意為「蛇狀之棒頭」；種小名macroacicularis意為「大針狀的」。子座自埋於基質中之昆蟲寄主長出、細長如針、頂端具可孕之頭部；為一寄生於昆蟲之蟲草類真菌。"
  },
- "timestamp": "20260804-111050"
+ "timestamp": "20260807-125955"
 }

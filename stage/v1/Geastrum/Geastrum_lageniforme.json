@@ -2,6 +2,7 @@
  "genus": "Geastrum",
  "name": "lageniforme",
  "date": [
+  "08/02/2026,27817095501307517",
   "07/18/2025,23913803301636776",
   "10/26/2018,5113109202132803"
  ],
@@ -118,6 +119,34 @@
   {
    "author": "Sunny Wang",
    "image_src": "Geastrum_lageniforme_00d481f0-7b37-11f0-83dd-033d658a6a3f_22.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_lageniforme_27817095501307517_76172c40-8fec-11f1-9217-17fea985e4d8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_lageniforme_27817095501307517_76172c40-8fec-11f1-9217-17fea985e4d8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_lageniforme_27817095501307517_76172c40-8fec-11f1-9217-17fea985e4d8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_lageniforme_27817095501307517_76172c40-8fec-11f1-9217-17fea985e4d8_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_lageniforme_27817095501307517_76172c40-8fec-11f1-9217-17fea985e4d8_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_lageniforme_27817095501307517_76172c40-8fec-11f1-9217-17fea985e4d8_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_lageniforme_27817095501307517_76172c40-8fec-11f1-9217-17fea985e4d8_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -146,13 +175,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "7,13",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -168,5 +201,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/43539179/thumb.jpeg"
   }
  ],
- "timestamp": "20260804-111050"
+ "timestamp": "20260807-125955"
 }

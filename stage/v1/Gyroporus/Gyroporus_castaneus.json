@@ -148,15 +148,17 @@
   "StalkDiamRangeValuess": "8,20",
   "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Elevation": "",
-  "Tropical": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "Synanthropic": "",
   "Bruising": "no",
-  "Bioluminescent": "",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Austroboletus gracilis,,",
@@ -174,5 +176,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/101762314/thumb.jpg"
   }
  ],
- "timestamp": "20260804-111050"
+ "timestamp": "20260807-125955"
 }

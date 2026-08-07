@@ -259,15 +259,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "50,250",
-  "Rareness": "",
-  "Elevation": "mid",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly",
   "GrowthEnv": "wood,ground",
+  "Synanthropic": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "choice",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Sparassis latifolia,,",
@@ -292,5 +294,5 @@
    "src": "https://static.inaturalist.org/photos/49782356/thumb.jpeg"
   }
  ],
- "timestamp": "20260804-111050"
+ "timestamp": "20260807-125955"
 }
