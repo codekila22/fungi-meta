@@ -2,7 +2,8 @@
  "genus": "Diderma",
  "name": "cingulatum",
  "date": [
-  "07/24/2026,27753843497632718"
+  "07/24/2026,27753843497632718",
+  "07/24/2026,27881464391537294"
  ],
  "names_zhtw": [
   "箍孢雙皮黏菌"
@@ -37,6 +38,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Diderma_cingulatum_27753843497632718_d7330860-8a87-11f1-ab1c-a18d7a42cbed_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_cingulatum_27881464391537294_164e2a90-930f-11f1-bd6a-4ff4f0abfa1f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_cingulatum_27881464391537294_164e2a90-930f-11f1-bd6a-4ff4f0abfa1f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_cingulatum_27881464391537294_164e2a90-930f-11f1-bd6a-4ff4f0abfa1f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_cingulatum_27881464391537294_164e2a90-930f-11f1-bd6a-4ff4f0abfa1f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_cingulatum_27881464391537294_164e2a90-930f-11f1-bd6a-4ff4f0abfa1f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Diderma_cingulatum_27881464391537294_164e2a90-930f-11f1-bd6a-4ff4f0abfa1f_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -86,5 +111,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/325521891/square.jpg"
   }
  ],
- "timestamp": "20260807-125955"
+ "timestamp": "20260808-184206"
 }

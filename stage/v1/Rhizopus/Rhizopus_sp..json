@@ -2,6 +2,7 @@
  "genus": "Rhizopus",
  "name": "sp.",
  "date": [
+  "08/06/2026,27894002730283460",
   "03/19/2021,3616068595170212"
  ],
  "names_zhtw": [
@@ -25,6 +26,42 @@
   {
    "author": "陳雅芬",
    "image_src": "Rhizopus_sp._4_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizopus_sp._27894002730283460_62463a20-9312-11f1-bd6a-4ff4f0abfa1f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizopus_sp._27894002730283460_62463a20-9312-11f1-bd6a-4ff4f0abfa1f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizopus_sp._27894002730283460_62463a20-9312-11f1-bd6a-4ff4f0abfa1f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizopus_sp._27894002730283460_62463a20-9312-11f1-bd6a-4ff4f0abfa1f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizopus_sp._27894002730283460_62463a20-9312-11f1-bd6a-4ff4f0abfa1f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizopus_sp._27894002730283460_62463a20-9312-11f1-bd6a-4ff4f0abfa1f_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizopus_sp._27894002730283460_62463a20-9312-11f1-bd6a-4ff4f0abfa1f_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizopus_sp._27894002730283460_62463a20-9312-11f1-bd6a-4ff4f0abfa1f_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rhizopus_sp._27894002730283460_62463a20-9312-11f1-bd6a-4ff4f0abfa1f_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -52,17 +89,22 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
-  "GrowthEnv": "ground,wood,leaves,fruit,stool",
+  "GrowthEnv": "parasitic",
+  "Synanthropic": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "根黴屬的一種，屬名Rhizopus意指其具假根（rhizoids）之特徵。菌絲白色綿狀、以匍匐枝（stolon）蔓延、於著地處生假根、其上豎起孢子囊梗、頂生黑色球形之孢子囊（俗稱麵包黴）；常見於腐果、麵包與土壤上，為一接合菌（毛黴目）。"
  },
- "timestamp": "20260807-125955"
+ "timestamp": "20260808-184206"
 }

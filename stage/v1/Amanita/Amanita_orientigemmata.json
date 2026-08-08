@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "orientigemmata",
  "date": [
+  "08/03/2026,27883800581303675",
   "06/28/2026,27433955309621540",
   "11/06/2025,24928316953518734",
   "08/29/2025,24267535799596856",
@@ -168,6 +169,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_orientigemmata_044d7890-759c-11f1-bdb9-0b06595e64af_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_27883800581303675_a5c077d0-9271-11f1-b1fd-a1beb32074ed_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_27883800581303675_a5c077d0-9271-11f1-b1fd-a1beb32074ed_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_27883800581303675_a5c077d0-9271-11f1-b1fd-a1beb32074ed_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_27883800581303675_a5c077d0-9271-11f1-b1fd-a1beb32074ed_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_orientigemmata_27883800581303675_a5c077d0-9271-11f1-b1fd-a1beb32074ed_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -196,13 +217,17 @@
   "StalkDiamRangeValuess": "5,19",
   "StalkLengthRangeValuess": "40,120",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita gemmata,,",
@@ -220,5 +245,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155081163/thumb.jpg"
   }
  ],
- "timestamp": "20260807-125955"
+ "timestamp": "20260808-184206"
 }

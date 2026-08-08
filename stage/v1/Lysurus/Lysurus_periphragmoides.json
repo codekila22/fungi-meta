@@ -2,6 +2,7 @@
  "genus": "Lysurus",
  "name": "periphragmoides",
  "date": [
+  "08/07/2026,27879948888355511",
   "06/19/2025,9904201196356889",
   "10/17/2024,8336799529763738",
   "06/07/2024,7467948383315528",
@@ -221,6 +222,18 @@
   {
    "author": "陳中城",
    "image_src": "Lysurus_periphragmoides_6b83db30-4ea1-11f0-ad74-39773c3a78f4_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lysurus_periphragmoides_27879948888355511_f3ed5470-9242-11f1-a6eb-ad1a1c197d4c_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lysurus_periphragmoides_27879948888355511_f3ed5470-9242-11f1-a6eb-ad1a1c197d4c_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Lysurus_periphragmoides_27879948888355511_f3ed5470-9242-11f1-a6eb-ad1a1c197d4c_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -251,16 +264,18 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "60,150",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
   "Synanthropic": "yes",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
-  "Smell": "",
+  "Cultivated": "",
+  "Smell": "stinky",
   "Taste": "",
   "LookAlikes": "",
   "Note": "圍籬散尾鬼筆，種小名periphragmoides意為「四周圍以柵欄的」，指其頭部之格狀網籠。子實體自卵中長出，由一中空海綿質之長柄頂著紅至橙色之格狀球形頭（receptaculum），格網間覆暗色惡臭產孢黏液以誘蠅類，生於庭園腐土與木屑。",
@@ -275,5 +290,5 @@
    "src": "https://static.inaturalist.org/photos/56084088/thumb.jpeg"
   }
  ],
- "timestamp": "20260807-125955"
+ "timestamp": "20260808-184206"
 }

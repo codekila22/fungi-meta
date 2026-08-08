@@ -12,7 +12,8 @@
   "04/08/2023,5902736199836762",
   "02/10/2022,4641474712629590",
   "11/25/2021,4371701279606936",
-  "12/10/2020,3351850271592047"
+  "12/10/2020,3351850271592047",
+  "06/24/2018,3275864015857340"
  ],
  "names_zhtw": [
   "二年殘孔菌"
@@ -307,6 +308,10 @@
   {
    "author": "陳麗紅",
    "image_src": "Abortiporus_biennis_27870522382631495_1a3d2370-921c-11f1-9f51-19575827b21a_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Abortiporus_biennis_3275864015857340_3245fe60-9221-11f1-a6eb-ad1a1c197d4c_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -338,7 +343,7 @@
   "Rareness": "occacional",
   "Elevation": "low,mid",
   "Tropical": "no",
-  "Seasons": "",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
   "Synanthropic": "",
@@ -361,5 +366,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24572843/thumb.jpeg"
   }
  ],
- "timestamp": "20260807-125955"
+ "timestamp": "20260808-184206"
 }

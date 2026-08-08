@@ -2,6 +2,7 @@
  "genus": "Cantharellus",
  "name": "cibarius",
  "date": [
+  "08/03/2026,27893686403648426",
   "07/07/2026,27501364932880577",
   "07/03/2026,27456654970684907",
   "06/15/2026,27267021939648212",
@@ -188,6 +189,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Cantharellus_cibarius_cc5cd5d0-7a04-11f1-bef5-4bf57cd7d16b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius_27893686403648426_593f6840-9315-11f1-bd6a-4ff4f0abfa1f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius_27893686403648426_593f6840-9315-11f1-bd6a-4ff4f0abfa1f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius_27893686403648426_593f6840-9315-11f1-bd6a-4ff4f0abfa1f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius_27893686403648426_593f6840-9315-11f1-bd6a-4ff4f0abfa1f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius_27893686403648426_593f6840-9315-11f1-bd6a-4ff4f0abfa1f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cantharellus_cibarius_27893686403648426_593f6840-9315-11f1-bd6a-4ff4f0abfa1f_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -263,5 +288,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/169080956/thumb.jpg"
   }
  ],
- "timestamp": "20260807-125955"
+ "timestamp": "20260808-184206"
 }

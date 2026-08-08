@@ -334,7 +334,8 @@
   "Synanthropic": "yes",
   "Bruising": "no",
   "Bioluminescent": "no",
-  "Edible": "medicinal,choice",
+  "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "sweet",
   "LookAlikes": "",
@@ -350,5 +351,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/35760467/thumb.jpg"
   }
  ],
- "timestamp": "20260807-125955"
+ "timestamp": "20260808-184206"
 }
