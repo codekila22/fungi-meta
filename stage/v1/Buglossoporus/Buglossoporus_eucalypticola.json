@@ -58,7 +58,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,6",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -71,18 +71,29 @@
   "HeightRangeValuess": "30,90",
   "Rareness": "rare",
   "Elevation": "low,mid",
-  "Tropical": "yes",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "clustered,scattered",
   "GrowthEnv": "wood",
+  "Synanthropic": "",
   "Bruising": "",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "桉牛舌孔菌，種小名eucalypticola意為「生長於桉樹（Eucalyptus）上的」，由韓密麗、崔寶凱與戴玉成等2016年依採自中國桉樹林之標本發表訂名。子實體一年生、無柄或近無柄，舌狀至扇形貼生，邊緣乳白至奶油色，菌蓋上表面漸轉鏽橙至紅褐色；孔面初白後漸變淡褐。生於桉屬枯木，引起褐色腐朽。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260809-194943"
+ "inaturalist": [
+  {
+   "name": "Fomitopsis hartmannii",
+   "cname": "",
+   "cname_zh": "桉牛舌孔菌",
+   "url": "https://www.inaturalist.org/taxa/1536837",
+   "src": "https://static.inaturalist.org/photos/59016201/square.jpg"
+  }
+ ],
+ "timestamp": "20260809-201641"
 }

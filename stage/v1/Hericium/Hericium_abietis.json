@@ -57,20 +57,31 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "50,300",
-  "Rareness": "",
+  "Rareness": "rare",
   "Elevation": "mid,high",
   "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "clustered",
   "GrowthEnv": "wood",
+  "Synanthropic": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible,choice",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "冷杉猴頭菇，種小名abietis意為「冷杉屬（Abies）的」，指其偏好生長於冷杉等針葉樹倒木。子實體白色至乳白略帶粉褐，多分枝、下垂軟刺成排懸生，簇生於針葉樹枯木裂縫或樹皮下，外觀近似同屬近緣種，但棲地偏好針葉林而非闊葉林。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260809-194943"
+ "inaturalist": [
+  {
+   "name": "Hericium abietis",
+   "cname": "Bear's head",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/55187",
+   "src": "https://static.inaturalist.org/photos/52549587/square.jpg"
+  }
+ ],
+ "timestamp": "20260809-201641"
 }
