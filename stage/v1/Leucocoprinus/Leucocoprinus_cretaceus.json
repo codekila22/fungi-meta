@@ -445,13 +445,15 @@
   "HeightRangeValuess": "",
   "Rareness": "",
   "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood,ground",
   "Synanthropic": "yes",
   "Bruising": "",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "not-edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -467,5 +469,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110450191/thumb.jpg"
   }
  ],
- "timestamp": "20260809-201641"
+ "timestamp": "20260809-211447"
 }

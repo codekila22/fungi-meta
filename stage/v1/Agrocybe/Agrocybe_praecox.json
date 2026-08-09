@@ -82,8 +82,10 @@
   "StalkBase": "mycelium",
   "StalkDiamRangeValuess": "3,12",
   "StalkLengthRangeValuess": "30,100",
-  "Rareness": "occacional",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
   "Elevation": "low",
+  "Tropical": "",
   "Seasons": "spring",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground,meadow",
@@ -91,6 +93,7 @@
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -113,5 +116,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/3517084/thumb.jpg"
   }
  ],
- "timestamp": "20260809-201641"
+ "timestamp": "20260809-211447"
 }
