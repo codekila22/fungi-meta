@@ -2,6 +2,7 @@
  "genus": "Pholiota",
  "name": "squarrosa",
  "date": [
+  "08/04/2026,27908012328882500",
   "07/20/2024,7698688433574854",
   "08/29/2021,4080616128715454"
  ],
@@ -39,6 +40,50 @@
   {
    "author": "英吉",
    "image_src": "Pholiota_squarrosa_9b4d5f40-289b-109f-939f-edc52ea51b88_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Pholiota_squarrosa_27908012328882500_76da27a0-93dd-11f1-b920-0340f92f6a5e_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -67,13 +112,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,15",
   "StalkLengthRangeValuess": "50,100",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "high",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "wood,parasitic",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -89,5 +139,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/97453612/thumb.jpeg"
   }
  ],
- "timestamp": "20260808-184206"
+ "timestamp": "20260809-194943"
 }

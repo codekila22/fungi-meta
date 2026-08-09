@@ -2,8 +2,14 @@
  "name": "Hericium",
  "zhtw": "猴頭菇屬",
  "zhcn": "猴头菇属",
- "timestamp": "20260808-184206",
+ "timestamp": "20260809-194943",
  "list": [
+  {
+   "name": "Hericium abietis",
+   "zhtw": "冷杉猴頭菇",
+   "zhcn": "冷杉猴头菇",
+   "img": "Hericium_abietis_27883833811300352_552eb240-9326-11f1-afd5-d9fd60a38ecc_1.jpg"
+  },
   {
    "name": "Hericium coralloides",
    "zhtw": "珊瑚狀猴頭菇",

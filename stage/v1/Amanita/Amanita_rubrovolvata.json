@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "rubrovolvata",
  "date": [
+  "08/03/2026,27882433511440382",
   "07/28/2026,27774955102188224",
   "07/19/2026,27653907704292965",
   "07/17/2026,27632623773088025",
@@ -378,6 +379,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_rubrovolvata_27774955102188224_57a91e90-8e38-11f1-bdb3-bbb8d9d5caa1_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27882433511440382_c3549650-93cf-11f1-b920-0340f92f6a5e_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27882433511440382_c3549650-93cf-11f1-b920-0340f92f6a5e_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27882433511440382_c3549650-93cf-11f1-b920-0340f92f6a5e_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27882433511440382_c3549650-93cf-11f1-b920-0340f92f6a5e_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27882433511440382_c3549650-93cf-11f1-b920-0340f92f6a5e_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rubrovolvata_27882433511440382_c3549650-93cf-11f1-b920-0340f92f6a5e_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -407,14 +432,16 @@
   "StalkLengthRangeValuess": "40,80",
   "HeightRangeValuess": "",
   "Rareness": "common",
-  "Elevation": "mid",
+  "Elevation": "mid,high",
   "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "Synanthropic": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -430,5 +457,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163434722/thumb.jpg"
   }
  ],
- "timestamp": "20260808-184206"
+ "timestamp": "20260809-194943"
 }

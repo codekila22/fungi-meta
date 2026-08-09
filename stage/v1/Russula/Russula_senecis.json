@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "senecis",
  "date": [
+  "08/05/2026,27870742542609479",
   "07/16/2026,27604662295884173",
   "07/13/2026,27592956460388090",
   "07/07/2026,27501594889524248",
@@ -339,6 +340,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Russula_senecis_27604662295884173_89a9d1e0-810a-11f1-96ce-a196742d6eab_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27870742542609479_4139e7a0-93df-11f1-b920-0340f92f6a5e_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27870742542609479_4139e7a0-93df-11f1-b920-0340f92f6a5e_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_senecis_27870742542609479_4139e7a0-93df-11f1-b920-0340f92f6a5e_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -369,14 +382,16 @@
   "StalkLengthRangeValuess": "50,90",
   "HeightRangeValuess": "",
   "Rareness": "common",
-  "Elevation": "low,mid",
+  "Elevation": "low,mid,high",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Russula foetens,,",
@@ -394,5 +409,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/163088866/thumb.jpg"
   }
  ],
- "timestamp": "20260808-184206"
+ "timestamp": "20260809-194943"
 }

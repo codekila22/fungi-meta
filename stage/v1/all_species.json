@@ -1,5 +1,5 @@
 {
- "timestamp": "20260808-184206",
+ "timestamp": "20260809-194943",
  "config": {
   "cover": {
    "image": "cover-photo-2.jpg",
@@ -92,6 +92,7 @@
    "Bondarcevomyces,帕氏孔菌屬,帕氏孔菌属",
    "Bondarzewia,刺孢多孔菌屬,刺孢多孔菌属",
    "Bresadolia,布氏多孔菌屬,布氏多孔菌属",
+   "Buglossoporus,牛舌孔菌屬,牛舌孔菌属",
    "Bulbillomyces,球菌屬,球菌属",
    "Byssomerulius,細絲皺皮菌屬,细丝皱皮菌属",
    "Calcipostia,白肉迷孔菌屬,白肉迷孔菌属",
@@ -1079,7 +1080,7 @@
    "Turbinellus,釘菇屬,钉菇属"
   ]
  },
- "total_species": 2510,
+ "total_species": 2512,
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌,二年殘孔菌，屬名Abortiporus意為「發育不全之孔」，指其常不規則之孔口；種小名biennis意為「二年生的」。子實體扇形、半圓形至漏斗狀，常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白或淡黃而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。",
   "Absidia sp.1,犁頭黴,犁头霉,犁頭黴，屬名Absidia為接合菌之一屬（毛黴目）。菌絲發達，於匍匐菌絲間生出孢囊柄，頂端著生梨形之孢子囊、囊軸與囊托明顯；本紀錄似寄生於成熟之黏菌上，為一尚待鑑定之種。",
@@ -1437,6 +1438,7 @@
   "Bryoscyphus phascoide,碟狀苔盤菌,碟状苔盘菌,碟狀苔盤菌，屬名Bryoscyphus意為「苔上之杯」；種小名phascoides意為「似小立碗蘚（Phascum）的」，指其寄主。子囊盤微小、碟狀、淡色、具短柄；生於苔蘚之體上（苔生），為一子囊菌。",
   "Buchwaldoboletus lignicola,木生腐生牛肝菌,木生腐生牛肝菌,Wood Bolete 木生腐生牛肝菌，屬名Buchwaldoboletus紀念真菌學家Buchwald；種小名lignicola意為「生於木的」。為極少數木生之牛肝菌，蓋黃褐至紅褐色；孔面黃色、傷後轉藍；柄與蓋同色；據文獻其實寄生於栗褐暗孔菌（Phaeolus schweinitzii）之上。",
   "Buellia subdisciformi,亞盤黑瘤衣,亚盘黑瘤衣,亞盤黑瘤衣，屬名Buellia為黑瘤衣之屬；種小名subdisciformis意為「近盤形的」。地衣體殼狀、灰白色；子囊盤黑色、無地衣體之盤緣、盤面平至凸；孢子褐色、雙胞；生於樹皮或岩上。",
+  "Buglossoporus eucalypticola,桉牛舌孔菌,桉牛舌孔菌,桉牛舌孔菌，種小名eucalypticola意為「生長於桉樹（Eucalyptus）上的」，由韓密麗、崔寶凱與戴玉成等2016年依採自中國桉樹林之標本發表訂名。子實體一年生、無柄或近無柄，舌狀至扇形貼生，邊緣乳白至奶油色，菌蓋上表面漸轉鏽橙至紅褐色；孔面初白後漸變淡褐。生於桉屬枯木，引起褐色腐朽。",
   "Bulbillomyces farinosus,粉球菌,粉球菌",
   "Bulgaria inquinans,污膠陀螺菌,污胶陀螺菌,污膠鼓菌 污胶鼓菌 污膠陀螺菌，種小名inquinans意為「弄髒的」，指其孢子會將手指染黑。子實體陀螺至淺杯狀、盤面黑色而光亮膠質、外表面褐色粗糙，質彈韌如橡膠，密叢生於櫟等闊葉樹新伐倒木。",
   "Bunodophoron diplotypum,二型球孢球粉衣,二型球孢球粉衣,二型球孢球粉衣，屬名Bunodophoron為地衣之一屬；種小名diplotypum意為「二型的」。地衣體枝狀分裂、灰白色、斷裂處為空心（以別於斷面實心之近緣種）；子囊盤黑色。",
@@ -2287,6 +2289,7 @@
   "Hemitrichia serpula,蛇形半網黏菌,蛇形半网黏菌,蛇形半網黏菌，種小名serpula意為「蔓延爬行的」，正指其網狀蔓延之外形。子實體鮮黃色、為聯結成網之假孢囊（狀如椒鹽卷餅）；內具帶螺旋帶紋之彈絲；生於腐木上。",
   "Henningsomyces candidus,雪白哈寧管菌,雪白哈宁管菌,雪白哈寧管菌，屬名Henningsomyces紀念真菌學家P. Hennings；種小名candidus意為「雪白的」。子實體微小、管狀、純白色、倒懸而密集群生於腐木下側；為一杯菌狀（cyphelloid）真菌。",
   "Henningsomyces puber,長哈寧管菌,长哈宁管菌,長哈寧管菌，屬名Henningsomyces紀念真菌學家P. Hennings；種小名puber意為「被細毛的」。子實體微小、管狀、白至淡色、外壁被細毛、倒懸而密集群生於腐木下側；為一杯菌狀（cyphelloid）真菌。",
+  "Hericium abietis,冷杉猴頭菇,冷杉猴头菇,冷杉猴頭菇，種小名abietis意為「冷杉屬（Abies）的」，指其偏好生長於冷杉等針葉樹倒木。子實體白色至乳白略帶粉褐，多分枝、下垂軟刺成排懸生，簇生於針葉樹枯木裂縫或樹皮下，外觀近似同屬近緣種，但棲地偏好針葉林而非闊葉林。",
   "Hericium coralloides,珊瑚狀猴頭菇,珊瑚状猴头菇,分枝猴頭菇 分枝猴头菇 珊瑚狀猴頭菇，種小名coralloides意為「似珊瑚」，指反覆分枝形態。子實體白色、多分枝、枝上懸垂成排白色軟刺（子實層），生於闊葉樹倒木，形似珊瑚。",
   "Hericium erinaceum,猴頭菇,猴头菇,Lion's mane mushroom Monkey head mushroom Bearded tooth mushroom Satyr's beard Bearded hedgehog mushroom Pom pom mushroom Bearded tooth fungus 猴頭菇，種小名erinaceus意為「刺蝟的」，喻其密生下垂長刺如刺蝟。子實體白色球塊狀、不分枝，密生下垂軟刺（子實層），無帽亦無柄，生於櫟、山毛櫸等闊葉樹傷口與枯木。",
   "Heterochaete cf. delicata,疑似優雅刺皮菌,疑似优雅刺皮菌,疑似優雅刺皮菌，屬名Heterochaete意為「異形之剛毛」；種小名delicata意為「纖柔優雅的」。子實體平伏、膠質、具刺狀之突起、灰褐色；生於闊葉樹枯枝上，為一膠質異擔子菌；本記錄尚待確認（cf.）。",

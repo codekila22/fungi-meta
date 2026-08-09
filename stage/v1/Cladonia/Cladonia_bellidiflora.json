@@ -2,6 +2,7 @@
  "genus": "Cladonia",
  "name": "bellidiflora",
  "date": [
+  "08/04/2026,27870801759270224",
   "03/13/2024,7091775460932824",
   "01/07/2024,6874044912705881",
   "11/11/2023,8647353242041697",
@@ -166,6 +167,26 @@
   {
    "author": "蔡古媧",
    "image_src": "Cladonia_bellidiflora_99faa390-b9af-11ef-baee-4b8f37132653_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cladonia_bellidiflora_27870801759270224_f10eae50-93de-11f1-b920-0340f92f6a5e_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cladonia_bellidiflora_27870801759270224_f10eae50-93de-11f1-b920-0340f92f6a5e_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cladonia_bellidiflora_27870801759270224_f10eae50-93de-11f1-b920-0340f92f6a5e_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cladonia_bellidiflora_27870801759270224_f10eae50-93de-11f1-b920-0340f92f6a5e_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cladonia_bellidiflora_27870801759270224_f10eae50-93de-11f1-b920-0340f92f6a5e_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -216,5 +237,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1958477/thumb.jpg"
   }
  ],
- "timestamp": "20260808-184206"
+ "timestamp": "20260809-194943"
 }
