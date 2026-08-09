@@ -2,6 +2,7 @@
  "genus": "Oudemansiella",
  "name": "mucida",
  "date": [
+  "08/02/2026,27816893297994404",
   "12/31/2025,25380580064959085",
   "12/05/2025,25193448690338891",
   "08/25/2025,24275135438836892",
@@ -297,6 +298,34 @@
   {
    "author": "吳湯姆",
    "image_src": "Oudemansiella_mucida_51fc96a0-e647-11f0-9839-6151dc142f2d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_27816893297994404_273177b0-8eee-11f1-9bd4-97f2e44ed3d2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_27816893297994404_273177b0-8eee-11f1-9bd4-97f2e44ed3d2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_27816893297994404_273177b0-8eee-11f1-9bd4-97f2e44ed3d2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_27816893297994404_273177b0-8eee-11f1-9bd4-97f2e44ed3d2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_27816893297994404_273177b0-8eee-11f1-9bd4-97f2e44ed3d2_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_27816893297994404_273177b0-8eee-11f1-9bd4-97f2e44ed3d2_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Oudemansiella_mucida_27816893297994404_273177b0-8eee-11f1-9bd4-97f2e44ed3d2_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -325,15 +354,17 @@
   "StalkDiamRangeValuess": "5,12",
   "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low,mid",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
+  "Synanthropic": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "mild",
   "Taste": "mild",
   "LookAlikes": "",
@@ -349,5 +380,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10062/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

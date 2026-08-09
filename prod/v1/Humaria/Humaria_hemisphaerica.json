@@ -2,6 +2,7 @@
  "genus": "Humaria",
  "name": "hemisphaerica",
  "date": [
+  "07/30/2026,27825923777091356",
   "08/23/2024,8045016472275380",
   "09/29/2022,5292998564143865",
   "09/06/2022,5220109861432736",
@@ -168,6 +169,38 @@
   {
    "author": "Sunny Wang",
    "image_src": "Humaria_hemisphaerica_9d546960-7344-11ef-994a-e7876ae88565_23.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Humaria_hemisphaerica_27825923777091356_ca218470-9000-11f1-9217-17fea985e4d8_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Humaria_hemisphaerica_27825923777091356_ca218470-9000-11f1-9217-17fea985e4d8_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Humaria_hemisphaerica_27825923777091356_ca218470-9000-11f1-9217-17fea985e4d8_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Humaria_hemisphaerica_27825923777091356_ca218470-9000-11f1-9217-17fea985e4d8_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Humaria_hemisphaerica_27825923777091356_ca218470-9000-11f1-9217-17fea985e4d8_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Humaria_hemisphaerica_27825923777091356_ca218470-9000-11f1-9217-17fea985e4d8_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Humaria_hemisphaerica_27825923777091356_ca218470-9000-11f1-9217-17fea985e4d8_7.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Humaria_hemisphaerica_27825923777091356_ca218470-9000-11f1-9217-17fea985e4d8_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -206,7 +239,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "半球土盤菌，屬名Humaria意為「生於土的」；種小名hemisphaerica意為「半球形的」，指其幼時之外形。子囊盤深杯狀、外表面被褐色剛毛、內側之子實層灰白色；幼時呈半球形，老熟後漸攤平；生於林下裸土上。子實體幼時呈半圓形，子實層灰白色，慢慢攤開至老熟平鋪狀。",
+  "Note": "半球土盤菌，屬名Humaria意為「生於土的」；種小名hemisphaerica意為「半球形的」，指其幼時之外形。子囊盤深杯狀、外表面被褐色剛毛、內側之子實層灰白色；幼時呈半球形，老熟後漸攤平；生於林下裸土上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -218,5 +251,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5769367/thumb.jpeg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

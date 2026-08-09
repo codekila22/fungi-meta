@@ -13,7 +13,9 @@
   "07/08/2022,5052227431554314",
   "01/31/2022,4607953172648411",
   "11/04/2021,4289957774447954",
-  "07/03/2017,1248251731951922"
+  "11/04/2021,27838254235858310",
+  "07/03/2017,1248251731951922",
+  "03/18/2017,27838254235858310"
  ],
  "names_zhtw": [
   "耳匙菌"
@@ -216,6 +218,54 @@
   {
    "author": "蔡古媧",
    "image_src": "Auriscalpium_vulgare_31dfd3a0-91f6-11f0-80fa-97a8c79ac1b1_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_9.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_10.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_11.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Auriscalpium_vulgare_27838254235858310_19cd1830-8fda-11f1-9217-17fea985e4d8_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -244,13 +294,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "35,80",
   "HeightRangeValuess": "20,60",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "spring,autumn,summer,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,fruit",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -266,5 +320,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109738734/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

@@ -215,18 +215,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "翹鱗小菇（暫名），屬名Mycena指其小菇之屬。子實體小型；蓋面被翹起之鱗片（故名翹鱗）；菌褶連生；柄纖細；生於腐木或落葉上；為一尚未正式命名之小菇。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

@@ -2,6 +2,7 @@
  "genus": "Sarcodon",
  "name": "carbonarius",
  "date": [
+  "08/03/2026,27835268546156879",
   "06/17/2023,27352426817774390",
   "05/21/2022,27352426817774390",
   "12/31/2021,27352426817774390"
@@ -135,13 +136,37 @@
   {
    "author": "Sunny Wang",
    "image_src": "Sarcodon_carbonarius_0aa0c400-7087-11f1-9e42-c36bb484db09_31.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcodon_carbonarius_27835268546156879_0c903560-8feb-11f1-9217-17fea985e4d8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcodon_carbonarius_27835268546156879_0c903560-8feb-11f1-9217-17fea985e4d8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcodon_carbonarius_27835268546156879_0c903560-8feb-11f1-9217-17fea985e4d8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcodon_carbonarius_27835268546156879_0c903560-8feb-11f1-9217-17fea985e4d8_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcodon_carbonarius_27835268546156879_0c903560-8feb-11f1-9217-17fea985e4d8_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcodon_carbonarius_27835268546156879_0c903560-8feb-11f1-9217-17fea985e4d8_6.jpg"
   }
  ],
  "names_zhcn": [
   "炭色肉齿菌"
  ],
  "meta": {
-  "CapColors": "4289766540,4283055404",
+  "CapColors": "4291605388,4283250944",
   "CapDiamRangeValues": "30,100",
   "CapShape": "",
   "CapTexture": "",
@@ -163,13 +188,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,90",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -185,5 +214,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13873511/square.jpeg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

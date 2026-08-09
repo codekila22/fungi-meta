@@ -1,14 +1,12 @@
 {
  "genus": "Tubifera",
  "name": "montana",
- "date": [
-  "01/01/0001"
- ],
+ "date": [],
  "names_zhtw": [
   "高山筒黏菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/4721",
+ "url": "27865045259845874",
  "images": [
   {
    "author": "柯文俊",
@@ -80,13 +78,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "Synanthropic": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -101,5 +104,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32181826/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

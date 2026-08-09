@@ -2,6 +2,7 @@
  "genus": "Hypomyces",
  "name": "papulasporae",
  "date": [
+  "08/02/2026,27817324477951286",
   "07/06/2026,27525644230452647",
   "07/02/2023,6182848798492166",
   "09/14/2022,6652927561484285",
@@ -68,6 +69,10 @@
   {
    "author": "陳麗紅",
    "image_src": "Hypomyces_papulasporae_90ade870-7b81-11f1-b69b-29ba5035f45b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypomyces_papulasporae_27817324477951286_23593bd0-8ec8-11f1-9bd4-97f2e44ed3d2_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -96,17 +101,19 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "parasitic",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Trichoglossum hirsutum,,",
-  "Note": "類團絲核黴菌寄生，屬名Hypomyces意為「下位之菌」，指其覆生於寄主之習性；種小名papulasporae意為「團絲核黴菌（Papulaspora）的」。為一菌寄生真菌，於毛舌菌（Trichoglossum hirsutum）之子實體上形成菌被與子囊殼。寄生在毛舌菌(Trichoglossum hirsutum)上。",
+  "Note": "類團絲核黴菌寄生，屬名Hypomyces意為「下位之菌」，指其覆生於寄主之習性；種小名papulasporae意為「團絲核黴菌（Papulaspora）的」。為一菌寄生真菌，於毛舌菌（Trichoglossum hirsutum）之子實體上形成菌被與子囊殼。",
   "la_zhtw": "毛舌菌,,",
   "la_zhcn": "毛舌菌,,"
  },
@@ -133,5 +140,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

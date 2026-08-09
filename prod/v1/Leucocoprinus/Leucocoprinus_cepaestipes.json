@@ -169,9 +169,11 @@
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood,ground,debris",
+  "Synanthropic": "yes",
   "Bruising": "",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "not-edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Leucocoprinus cygneus,,",
@@ -224,5 +226,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

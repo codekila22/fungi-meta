@@ -183,15 +183,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low,mid",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
+  "Synanthropic": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Tubifera ferruginosa subsp. acutissima,,",
@@ -243,5 +245,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

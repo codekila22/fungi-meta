@@ -2,6 +2,7 @@
  "genus": "Gyromitra",
  "name": "infula",
  "date": [
+  "08/02/2026,27856754697341597",
   "06/16/2024,7514501891993510",
   "11/05/2023,6603973326379709",
   "09/11/2023,6394389160671461",
@@ -194,6 +195,62 @@
   {
    "author": "蔡古媧",
    "image_src": "Gyromitra_infula_0f11fc20-adca-11ee-bbee-c3e9a275f704_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_14.jpg"
   }
  ],
  "names_zhcn": [
@@ -223,13 +280,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,120",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "spring,summer",
   "GrowthType": "singly,scattered",
-  "GrowthEnv": "ground",
+  "GrowthEnv": "wood,debris",
+  "Synanthropic": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Helvella elastica,,",
@@ -247,5 +308,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5851561/square.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

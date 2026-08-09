@@ -2,6 +2,7 @@
  "genus": "Turbinellus",
  "name": "floccosus",
  "date": [
+  "08/04/2026,27856899483993785",
   "06/28/2026,27392272670456471",
   "06/30/2025,10029347863842221",
   "06/11/2025,9843794929064183",
@@ -281,6 +282,46 @@
   {
    "author": "吳湯姆",
    "image_src": "Turbinellus_floccosus_619841f0-72c8-11f1-ba2e-3b972c8fe83b_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_floccosus_27856899483993785_6b1ff530-9125-11f1-9fc8-5f7cf042a2f2_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_floccosus_27856899483993785_6b1ff530-9125-11f1-9fc8-5f7cf042a2f2_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_floccosus_27856899483993785_6b1ff530-9125-11f1-9fc8-5f7cf042a2f2_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_floccosus_27856899483993785_6b1ff530-9125-11f1-9fc8-5f7cf042a2f2_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_floccosus_27856899483993785_6b1ff530-9125-11f1-9fc8-5f7cf042a2f2_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_floccosus_27856899483993785_6b1ff530-9125-11f1-9fc8-5f7cf042a2f2_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_floccosus_27856899483993785_6b1ff530-9125-11f1-9fc8-5f7cf042a2f2_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_floccosus_27856899483993785_6b1ff530-9125-11f1-9fc8-5f7cf042a2f2_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_floccosus_27856899483993785_6b1ff530-9125-11f1-9fc8-5f7cf042a2f2_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Turbinellus_floccosus_27856899483993785_6b1ff530-9125-11f1-9fc8-5f7cf042a2f2_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -309,15 +350,17 @@
   "StalkDiamRangeValuess": "5,15",
   "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "60,300",
-  "Rareness": "",
-  "Elevation": "mid",
+  "Rareness": "common",
+  "Elevation": "mid,high",
   "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "Synanthropic": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "not-edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -333,5 +376,5 @@
    "src": "https://static.inaturalist.org/photos/52836567/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

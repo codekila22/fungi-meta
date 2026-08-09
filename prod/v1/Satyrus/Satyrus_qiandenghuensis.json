@@ -243,14 +243,16 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "60,110",
   "Rareness": "",
-  "Elevation": "",
+  "Elevation": "low",
   "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground,meadow",
+  "Synanthropic": "yes",
   "Bruising": "",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "not-edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -266,5 +268,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

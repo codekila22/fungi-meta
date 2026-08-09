@@ -2,6 +2,7 @@
  "genus": "Legaliana",
  "name": "badia",
  "date": [
+  "08/03/2026,27863760153307718",
   "09/26/2015,791891944254572"
  ],
  "names_zhtw": [
@@ -30,6 +31,98 @@
   {
    "author": "柯文俊",
    "image_src": "Peziza_badia_5_CC BY-NC.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_14.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_15.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_16.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_17.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_18.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_19.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_20.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_21.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_22.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Legaliana_badia_27863760153307718_6c604980-918a-11f1-b9cb-31d427a5820b_23.jpg"
   }
  ],
  "synonym": [
@@ -65,17 +158,22 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "褐勒氏盤菌，屬名Legaliana為盤菌之一屬；種小名badia意為「栗褐色的」。子囊盤杯狀至盤狀、暗紅褐至栗褐色、質脆、幾無柄；於台灣為高山物種，地生於林下。在台灣為高山物種。",
+  "Note": "褐勒氏盤菌，屬名Legaliana為盤菌之一屬；種小名badia意為「栗褐色的」。子囊盤杯狀至盤狀、暗紅褐至栗褐色、質脆、幾無柄；於台灣為高山物種，地生於林下。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -87,5 +185,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340303/square.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

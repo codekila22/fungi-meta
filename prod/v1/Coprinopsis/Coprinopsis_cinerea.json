@@ -348,9 +348,11 @@
   "StalkLengthRangeValuess": "30,90",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
   "Seasons": "",
   "GrowthType": "grouped,scattered,clustered",
   "GrowthEnv": "ground",
+  "Synanthropic": "yes",
   "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "edible",
@@ -376,5 +378,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/85322652/thumb.jpeg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

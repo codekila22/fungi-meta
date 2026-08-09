@@ -2,6 +2,7 @@
  "genus": "Sparassis",
  "name": "crispa",
  "date": [
+  "08/02/2026,27908051145545285",
   "07/17/2026,27626339253716477",
   "07/13/2026,27581344721549264",
   "06/20/2026,27297625456587860",
@@ -231,6 +232,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Sparassis_crispa_27626339253716477_140fa570-826a-11f1-b205-db611c601ea1_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27908051145545285_fd738d60-93dd-11f1-b920-0340f92f6a5e_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27908051145545285_fd738d60-93dd-11f1-b920-0340f92f6a5e_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Sparassis_crispa_27908051145545285_fd738d60-93dd-11f1-b920-0340f92f6a5e_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -259,15 +272,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "50,250",
-  "Rareness": "",
-  "Elevation": "mid",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly",
   "GrowthEnv": "wood,ground",
+  "Synanthropic": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "choice",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Sparassis latifolia,,",
@@ -292,5 +307,5 @@
    "src": "https://static.inaturalist.org/photos/49782356/thumb.jpeg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

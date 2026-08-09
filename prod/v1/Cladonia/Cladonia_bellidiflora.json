@@ -2,6 +2,7 @@
  "genus": "Cladonia",
  "name": "bellidiflora",
  "date": [
+  "08/04/2026,27870801759270224",
   "03/13/2024,7091775460932824",
   "01/07/2024,6874044912705881",
   "11/11/2023,8647353242041697",
@@ -166,6 +167,26 @@
   {
    "author": "蔡古媧",
    "image_src": "Cladonia_bellidiflora_99faa390-b9af-11ef-baee-4b8f37132653_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cladonia_bellidiflora_27870801759270224_f10eae50-93de-11f1-b920-0340f92f6a5e_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cladonia_bellidiflora_27870801759270224_f10eae50-93de-11f1-b920-0340f92f6a5e_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cladonia_bellidiflora_27870801759270224_f10eae50-93de-11f1-b920-0340f92f6a5e_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cladonia_bellidiflora_27870801759270224_f10eae50-93de-11f1-b920-0340f92f6a5e_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cladonia_bellidiflora_27870801759270224_f10eae50-93de-11f1-b920-0340f92f6a5e_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -203,7 +224,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Cladonia floerkeana,,",
-  "Note": "菊花石蕊，屬名Cladonia為石蕊之屬；種小名bellidiflora由bellis（雛菊）與flos（花）組成，意為「雛菊花狀的」，指其柄頂成叢之艷紅子囊盤如花。子器柄直立、密被小鱗葉；頂端著生多個艷紅色之子囊盤；為一地衣。子器柄，表面覆蓋密集的小鱗葉(相似種紅頭石蕊無此特徵)。子囊盤艷紅色，在子器柄頂端通常多個組成。",
+  "Note": "菊花石蕊，屬名Cladonia為石蕊之屬；種小名bellidiflora由bellis（雛菊）與flos（花）組成，意為「雛菊花狀的」，指其柄頂成叢之艷紅子囊盤如花。子器柄直立、密被小鱗葉；頂端著生多個艷紅色之子囊盤；為一地衣。子器柄，表面覆蓋密集的小鱗葉(相似種紅頭石蕊無此特徵)。",
   "la_zhtw": "紅頭石蕊,,",
   "la_zhcn": "红头石蕊,,"
  },
@@ -216,5 +237,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1958477/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

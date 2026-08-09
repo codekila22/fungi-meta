@@ -10,7 +10,9 @@
   "05/13/2023,5989830177794030",
   "04/30/2023,5935468093230239",
   "05/09/2021,3762664583843945",
-  "04/05/2021,3660719844038420"
+  "04/05/2021,3660719844038420",
+  "08/17/2017,27851826724501061",
+  "07/06/2015,27851826724501061"
  ],
  "names_zhtw": [
   "筒黏菌尖銳亞種"
@@ -265,6 +267,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Tubifera_ferruginosa subsp. acutissima_ce6381e0-6fa9-11f1-95ca-39b2ed0a22ae_12.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_27851826724501061_58a1a1a0-90a4-11f1-85f1-ebd25a6309c6_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_27851826724501061_58a1a1a0-90a4-11f1-85f1-ebd25a6309c6_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_27851826724501061_58a1a1a0-90a4-11f1-85f1-ebd25a6309c6_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Tubifera_ferruginosa subsp. acutissima_27851826724501061_58a1a1a0-90a4-11f1-85f1-ebd25a6309c6_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -293,13 +311,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "Synanthropic": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Tubifera ferruginosa,,",
@@ -351,5 +373,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

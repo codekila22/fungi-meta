@@ -2,6 +2,7 @@
  "genus": "Karstenia",
  "name": "rhopaloides",
  "date": [
+  "08/08/2026,27893776136972786",
   "05/02/2026,26918363757847367",
   "05/22/2024,7395843180526049",
   "03/26/2024,27565107559839647",
@@ -210,6 +211,42 @@
   {
    "author": "江志緯",
    "image_src": "Karstenia_rhopaloides_27565107559839647_e85114d0-7e74-11f1-9dcc-35f2c7c8deaf_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Karstenia_rhopaloides_27893776136972786_b6ff2b30-930d-11f1-bd6a-4ff4f0abfa1f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Karstenia_rhopaloides_27893776136972786_b6ff2b30-930d-11f1-bd6a-4ff4f0abfa1f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Karstenia_rhopaloides_27893776136972786_b6ff2b30-930d-11f1-bd6a-4ff4f0abfa1f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Karstenia_rhopaloides_27893776136972786_b6ff2b30-930d-11f1-bd6a-4ff4f0abfa1f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Karstenia_rhopaloides_27893776136972786_b6ff2b30-930d-11f1-bd6a-4ff4f0abfa1f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Karstenia_rhopaloides_27893776136972786_b6ff2b30-930d-11f1-bd6a-4ff4f0abfa1f_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Karstenia_rhopaloides_27893776136972786_b6ff2b30-930d-11f1-bd6a-4ff4f0abfa1f_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Karstenia_rhopaloides_27893776136972786_b6ff2b30-930d-11f1-bd6a-4ff4f0abfa1f_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Karstenia_rhopaloides_27893776136972786_b6ff2b30-930d-11f1-bd6a-4ff4f0abfa1f_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -237,14 +274,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "HeightRangeValuess": "0,1",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood,bamboo",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -260,5 +301,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

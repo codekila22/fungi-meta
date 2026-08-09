@@ -2,6 +2,7 @@
  "genus": "Sparassis",
  "name": "subalpine",
  "date": [
+  "08/05/2026,27870863875930679",
   "08/23/2022,6900773196699719"
  ],
  "names_zhtw": [
@@ -33,6 +34,34 @@
   {
    "author": "蔡古媧",
    "image_src": "Sparassis_subalpine_82c99c10-bcb4-11ee-97c0-b1e3c7c0321e_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_subalpine_27870863875930679_a71328a0-9247-11f1-a6eb-ad1a1c197d4c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_subalpine_27870863875930679_a71328a0-9247-11f1-a6eb-ad1a1c197d4c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_subalpine_27870863875930679_a71328a0-9247-11f1-a6eb-ad1a1c197d4c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_subalpine_27870863875930679_a71328a0-9247-11f1-a6eb-ad1a1c197d4c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_subalpine_27870863875930679_a71328a0-9247-11f1-a6eb-ad1a1c197d4c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_subalpine_27870863875930679_a71328a0-9247-11f1-a6eb-ad1a1c197d4c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_subalpine_27870863875930679_a71328a0-9247-11f1-a6eb-ad1a1c197d4c_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -61,18 +90,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "mid,high",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "GrowthType": "singly",
+  "GrowthEnv": "wood",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "亞高山繡球菌，屬名Sparassis意為「撕裂的」，指其扁平波曲之分枝；種小名subalpine意為「亞高山的」。子實體大、由多數扁平波曲之瓣片密聚成繡球狀團塊、乳白至淡黃色；於台灣為高山物種，生於針葉樹幹基與根際。在台灣為高山物種。",
+  "Note": "亞高山繡球菌，屬名Sparassis意為「撕裂的」，指其扁平波曲之分枝；種小名subalpine意為「亞高山的」。子實體大、由多數扁平波曲之瓣片密聚成繡球狀團塊、乳白至淡黃色；於台灣為高山物種，生於針葉樹幹基與根際。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

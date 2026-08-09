@@ -1,0 +1,87 @@
+{
+ "genus": "Hericium",
+ "name": "abietis",
+ "date": [
+  "08/04/2026,27883833811300352"
+ ],
+ "names_zhtw": [
+  "冷杉猴頭菇"
+ ],
+ "names_en": [],
+ "url": "27883833811300352",
+ "images": [
+  {
+   "author": "吳湯姆",
+   "image_src": "Hericium_abietis_27883833811300352_552eb240-9326-11f1-afd5-d9fd60a38ecc_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hericium_abietis_27883833811300352_552eb240-9326-11f1-afd5-d9fd60a38ecc_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hericium_abietis_27883833811300352_552eb240-9326-11f1-afd5-d9fd60a38ecc_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hericium_abietis_27883833811300352_552eb240-9326-11f1-afd5-d9fd60a38ecc_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hericium_abietis_27883833811300352_552eb240-9326-11f1-afd5-d9fd60a38ecc_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "冷杉猴头菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295",
+  "CapDiamRangeValues": "50,300",
+  "CapShape": "no",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "toothed",
+  "HymeniumColors": "4294967295",
+  "HymeniumSporePrints": "4294967295",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "50,300",
+  "Rareness": "rare",
+  "Elevation": "mid,high",
+  "Tropical": "no",
+  "Seasons": "summer,autumn",
+  "GrowthType": "clustered",
+  "GrowthEnv": "wood",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "edible,choice",
+  "Cultivated": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "冷杉猴頭菇，種小名abietis意為「冷杉屬（Abies）的」，指其偏好生長於冷杉等針葉樹倒木。子實體白色至乳白略帶粉褐，多分枝、下垂軟刺成排懸生，簇生於針葉樹枯木裂縫或樹皮下，外觀近似同屬近緣種，但棲地偏好針葉林而非闊葉林。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Hericium abietis",
+   "cname": "Bear's head",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/55187",
+   "src": "https://static.inaturalist.org/photos/52549587/square.jpg"
+  }
+ ],
+ "timestamp": "20260809-211447"
+}

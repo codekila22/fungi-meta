@@ -2,6 +2,7 @@
  "genus": "Ophiocordyceps",
  "name": "jiangxiensis",
  "date": [
+  "08/04/2026,27849001284783605",
   "05/13/2024,7347458302031204",
   "06/12/2023,6081313148645732",
   "05/27/2023,6023419987768382",
@@ -128,6 +129,22 @@
   {
    "author": "WK Chan",
    "image_src": "Ophiocordyceps_jiangxiensis_17ac6fe0-09ed-11ee-a1ab-13f2a9f3cdb3_18.jpg"
+  },
+  {
+   "author": "Chilli  Huang",
+   "image_src": "Ophiocordyceps_jiangxiensis_27849001284783605_cb28acf0-91fd-11f1-9f51-19575827b21a_1.jpg"
+  },
+  {
+   "author": "Chilli  Huang",
+   "image_src": "Ophiocordyceps_jiangxiensis_27849001284783605_cb28acf0-91fd-11f1-9f51-19575827b21a_2.jpg"
+  },
+  {
+   "author": "Chilli  Huang",
+   "image_src": "Ophiocordyceps_jiangxiensis_27849001284783605_cb28acf0-91fd-11f1-9f51-19575827b21a_3.jpg"
+  },
+  {
+   "author": "Chilli  Huang",
+   "image_src": "Ophiocordyceps_jiangxiensis_27849001284783605_cb28acf0-91fd-11f1-9f51-19575827b21a_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -156,19 +173,21 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "45,80",
-  "Rareness": "",
+  "Rareness": "rare",
   "Elevation": "low",
   "Tropical": "yes",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "parasitic",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "江西蟲草，屬名Ophiocordyceps意為「蛇狀之棒頭」；種小名jiangxiensis意為「江西的」。子座柱狀而常分枝、通常自寄主頭部長出；本種寄生於叩頭蟲之幼蟲，為蟲生真菌。寄主為叩頭蟲的幼蟲，通常從寄主的頭部長出，呈現柱狀且常有分枝。\n目前資料庫皆為香港紀錄，台灣高雄柴山地區曾有紀錄。"
+  "Note": "江西蟲草，屬名Ophiocordyceps意為「蛇狀之棒頭」；種小名jiangxiensis意為「江西的」。子座柱狀而常分枝、通常自寄主頭部長出；本種寄生於叩頭蟲之幼蟲，為蟲生真菌。目前資料庫紀錄包含香港與高雄柴山。"
  },
  "inaturalist": [
   {
@@ -179,5 +198,5 @@
    "src": "https://static.inaturalist.org/photos/233331889/thumb.jpeg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

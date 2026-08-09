@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "08/04/2026,27857000583983675",
   "07/10/2023,7285094098267625",
   "09/29/2021,4178316388945427",
   "08/04/2021,4004899749620426",
@@ -105,6 +106,50 @@
   {
    "author": "蔡古媧",
    "image_src": "Rugiboletus_extremiorientalis_eb2a7cf0-0608-11ef-b17a-798526a7c7ff_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Rugiboletus_extremiorientalis_27857000583983675_f3d1a910-9124-11f1-9fc8-5f7cf042a2f2_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -132,13 +177,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "25,50",
   "StalkLengthRangeValuess": "50,150",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -154,5 +204,5 @@
    "src": "https://static.inaturalist.org/photos/47932929/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

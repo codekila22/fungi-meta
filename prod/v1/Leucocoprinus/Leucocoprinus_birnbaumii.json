@@ -409,9 +409,11 @@
   "StalkLengthRangeValuess": "30,100",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "low",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood,ground,debris",
+  "Synanthropic": "yes",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "not-edible,toxic",
@@ -444,5 +446,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

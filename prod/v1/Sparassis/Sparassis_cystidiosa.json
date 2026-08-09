@@ -2,6 +2,7 @@
  "genus": "Sparassis",
  "name": "cystidiosa",
  "date": [
+  "08/03/2026,27835545819462485",
   "07/02/2024,7594126890697676",
   "06/28/2024,7582369958540036",
   "06/02/2022,4989224734521251"
@@ -139,6 +140,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Sparassis_cystidiosa_f795df00-7459-105b-b1c3-33cc4cfc5169_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_27835545819462485_b915ed60-8fc4-11f1-9217-17fea985e4d8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_27835545819462485_b915ed60-8fc4-11f1-9217-17fea985e4d8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_27835545819462485_b915ed60-8fc4-11f1-9217-17fea985e4d8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_27835545819462485_b915ed60-8fc4-11f1-9217-17fea985e4d8_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_27835545819462485_b915ed60-8fc4-11f1-9217-17fea985e4d8_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_27835545819462485_b915ed60-8fc4-11f1-9217-17fea985e4d8_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_27835545819462485_b915ed60-8fc4-11f1-9217-17fea985e4d8_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -167,17 +196,21 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "50,200",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "mid,high",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "Synanthropic": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "囊狀體繡球菌，屬名Sparassis意為「撕裂的」，指其扁平波曲之分枝；種小名cystidiosa意為「具囊狀體的」，指其顯著之囊狀體。子實體大、由多數扁平而波曲之瓣片密聚成繡球狀團塊、乳白至淡黃色；生於樹幹基部與根際。生長於枯木基部",
+  "Note": "囊狀體繡球菌，屬名Sparassis意為「撕裂的」，指其扁平波曲之分枝；種小名cystidiosa意為「具囊狀體的」，指其顯著之囊狀體。子實體大、由多數扁平而波曲之瓣片密聚成繡球狀團塊、乳白至淡黃色；生於樹幹基部與根際。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -189,5 +222,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8580647/thumb.jpeg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

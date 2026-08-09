@@ -118,18 +118,23 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,7",
   "StalkLengthRangeValuess": "50,120",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "Bruising": "brown",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "細南牛肝菌，屬名Austroboletus意為「南方的牛肝菌」；種小名gracilis意為「纖細的」。蓋紅褐至肉桂褐色、乾而略絨；孔面初白後轉粉紅色；柄細長、常具細網紋或縱紋；孢子具紋飾；與樹木共生為外生菌根菌。",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Gyroporus castaneus,,",
+  "Note": "細南牛肝菌，屬名Austroboletus意為「南方的牛肝菌」；種小名gracilis意為「纖細的」。蓋紅褐至肉桂褐色、乾而略絨；孔面初白後轉粉紅色；柄細長、常具細網紋或縱紋；孢子具紋飾；與樹木共生為外生菌根菌。傷後緩慢變淡褐色至粉褐色。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "栗樹圓孔牛肝菌,,",
+  "la_zhcn": "栗树圆孔牛肝菌,,"
  },
  "inaturalist": [
   {
@@ -154,5 +159,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

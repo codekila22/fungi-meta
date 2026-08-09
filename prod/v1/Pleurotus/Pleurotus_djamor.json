@@ -234,6 +234,7 @@
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "yes",
   "Smell": "mild",
   "Taste": "mild",
   "LookAlikes": "",
@@ -270,5 +271,5 @@
    "src": "https://static.inaturalist.org/photos/127650465/thumb.jpg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

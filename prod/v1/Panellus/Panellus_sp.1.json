@@ -119,20 +119,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "wood",
-  "Bruising": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "leaves",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Panellus minimus,,",
-  "Note": "山棕扇菇，屬名Panellus意為「小的側耳」。子實體微小、扇形至腎形、白色，具側生之短柄（迷你扇菇之柄則偏生於背側）；生於山棕之枯莖上，為本屬之一未定名種。生長在山棕枯莖上。山棕扇菇的柄側生，迷你扇菇的柄在背面偏生。",
+  "Note": "山棕扇菇，屬名Panellus意為「小的側耳」。子實體微小、扇形至腎形、白色，具側生之短柄（迷你扇菇之柄則偏生於背側）；生於山棕之枯莖上，為本屬之一未定名種。山棕扇菇的柄側生，迷你扇菇的柄在背面偏生。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "迷你扇菇,,",
   "la_zhcn": "迷你扇菇,,"
  },
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }

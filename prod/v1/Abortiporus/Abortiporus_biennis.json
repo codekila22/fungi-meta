@@ -2,6 +2,7 @@
  "genus": "Abortiporus",
  "name": "biennis",
  "date": [
+  "08/06/2026,27870522382631495",
   "04/08/2026,26370897965927285",
   "05/03/2024,7317507778359590",
   "06/04/2023,6052543171522730",
@@ -11,7 +12,8 @@
   "04/08/2023,5902736199836762",
   "02/10/2022,4641474712629590",
   "11/25/2021,4371701279606936",
-  "12/10/2020,3351850271592047"
+  "12/10/2020,3351850271592047",
+  "06/24/2018,3275864015857340"
  ],
  "names_zhtw": [
   "二年殘孔菌"
@@ -266,6 +268,50 @@
   {
    "author": "陳麗紅",
    "image_src": "Abortiporus_biennis_105966f0-3418-11f1-b3ea-2792ecee302d_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Abortiporus_biennis_27870522382631495_ecc85400-921b-11f1-9f51-19575827b21a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Abortiporus_biennis_27870522382631495_ecc85400-921b-11f1-9f51-19575827b21a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Abortiporus_biennis_27870522382631495_ecc85400-921b-11f1-9f51-19575827b21a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Abortiporus_biennis_27870522382631495_ecc85400-921b-11f1-9f51-19575827b21a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Abortiporus_biennis_27870522382631495_ecc85400-921b-11f1-9f51-19575827b21a_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Abortiporus_biennis_27870522382631495_1a3d2370-921c-11f1-9f51-19575827b21a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Abortiporus_biennis_27870522382631495_1a3d2370-921c-11f1-9f51-19575827b21a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Abortiporus_biennis_27870522382631495_1a3d2370-921c-11f1-9f51-19575827b21a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Abortiporus_biennis_27870522382631495_1a3d2370-921c-11f1-9f51-19575827b21a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Abortiporus_biennis_27870522382631495_1a3d2370-921c-11f1-9f51-19575827b21a_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Abortiporus_biennis_3275864015857340_3245fe60-9221-11f1-a6eb-ad1a1c197d4c_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -294,17 +340,21 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,80",
-  "Rareness": "",
-  "Seasons": "",
-  "GrowthType": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
+  "Synanthropic": "",
   "Bruising": "red,brown",
-  "Bioluminescent": "",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "二年殘孔菌，屬名Abortiporus意為「發育不全之孔」，指其常不規則之孔口；種小名biennis意為「二年生的」。子實體常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。\n菌蓋呈現扇形、半圓形或漏斗狀。常聚集成玫瑰花瓣狀的簇群且表面覆有絨毛。\n顏色為淺肉色、茶褐色至紅褐色。菌孔表面初期為白色或淡黃色並會分泌紅色汁液另觸碰受傷時變成紅褐色。\n菌孔形狀呈多角但隨成熟逐漸變成迷宮狀或齒狀。",
+  "Note": "二年殘孔菌，屬名Abortiporus意為「發育不全之孔」，指其常不規則之孔口；種小名biennis意為「二年生的」。子實體扇形、半圓形至漏斗狀，常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白或淡黃而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -316,5 +366,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24572843/thumb.jpeg"
   }
  ],
- "timestamp": "20260802-224538"
+ "timestamp": "20260809-211447"
 }
