@@ -36,7 +36,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "3,26",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -54,8 +54,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "4,26",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -70,5 +70,5 @@
   "Note": "百山祖老傘，屬名Gerronema為老傘之屬；種小名baishanzuense意為「（中國）百山祖的」，取自模式產地。蓋凸至中凹、常帶暗色；菌褶延生、疏；柄細；生於苔蘚間或腐木上。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260809-211447"
+ "timestamp": "20260811-145657"
 }

@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "08/09/2026,27915837874766612",
   "07/13/2026,27572120779138325",
   "07/06/2026,27481232154893855",
   "01/29/2026,25656998360650586",
@@ -370,15 +371,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "60,80",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low,mid,high",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "not-edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Laternea columnata,,",
@@ -396,5 +399,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/45649173/thumb.jpeg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260811-145657"
 }

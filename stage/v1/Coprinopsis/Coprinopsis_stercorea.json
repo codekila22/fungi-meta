@@ -17,6 +17,14 @@
  "url": "3608706055906466",
  "images": [
   {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_d3520ea0-8b8b-11ef-8d51-fbbb1d8dc390_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_4.jpg"
+  },
+  {
    "author": "陳雅芬",
    "image_src": "Coprinopsis_stercorea_1_CC BY-NC_陳雅芬.jpg"
   },
@@ -106,10 +114,6 @@
   },
   {
    "author": "江志緯",
-   "image_src": "Coprinopsis_stercorea_d3520ea0-8b8b-11ef-8d51-fbbb1d8dc390_1.jpg"
-  },
-  {
-   "author": "江志緯",
    "image_src": "Coprinopsis_stercorea_d3520ea0-8b8b-11ef-8d51-fbbb1d8dc390_2.jpg"
   },
   {
@@ -147,10 +151,6 @@
   {
    "author": "江志緯",
    "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_3.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Coprinopsis_stercorea_92af0b20-b248-11f0-88e2-a5b56a80f2c2_4.jpg"
   },
   {
    "author": "江志緯",
@@ -240,5 +240,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/107912980/thumb.jpg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260811-145657"
 }

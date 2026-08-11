@@ -56,7 +56,7 @@
  ],
  "meta": {
   "CapColors": "4288768839,4285547028",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "40,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -66,7 +66,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,3",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -74,8 +74,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "8,12",
+  "StalkLengthRangeValuess": "40,80",
   "Rareness": "",
   "Seasons": "",
   "GrowthType": "",
@@ -89,5 +89,5 @@
   "Note": "褐孔牛肝菌，屬名Boletus為牛肝菌之屬；種小名umbriniporus意為「褐孔的」。蓋褐至暗褐色、絨質；孔面褐色、傷後轉藍；柄褐色、具細點或網紋；與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260809-211447"
+ "timestamp": "20260811-145657"
 }

@@ -52,7 +52,7 @@
  ],
  "meta": {
   "CapColors": "4286141768",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "7,15",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -62,7 +62,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "",
+  "HymeniumPoresPerMM": "2,5",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -70,8 +70,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "1,2",
+  "StalkLengthRangeValuess": "8,30",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -86,5 +86,5 @@
   "Note": "糙絲集毛菌，屬名Coltricia為集毛菌之屬（地生之孔菌）；種小名verrucata意為「具疣的」。子實體具中生之柄；蓋圓形、鏽褐色、具同心環帶而表面略糙；孔面褐色、孔口輻射狀；地生於林下。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260809-211447"
+ "timestamp": "20260811-145657"
 }

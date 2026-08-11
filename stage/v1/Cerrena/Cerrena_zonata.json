@@ -373,7 +373,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "2,4",
+  "HymeniumPoresPerMM": "2,3",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -385,12 +385,16 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "5,30",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "Synanthropic": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -406,5 +410,5 @@
    "src": "https://static.inaturalist.org/photos/2341604/thumb.JPG"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260811-145657"
 }

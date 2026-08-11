@@ -61,7 +61,7 @@
  ],
  "meta": {
   "CapColors": "4294956800,4294967040",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,45",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -79,8 +79,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "4,8",
+  "StalkLengthRangeValuess": "35,40",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Seasons": "",
@@ -95,5 +95,5 @@
   "Note": "金黃環柄菇，屬名Lepiota為環柄菇之屬；種小名flavocarpa意為「黃色子實體的」。子實體小、金黃色；蓋被黃色之顆粒狀至細鱗之菌幕；菌褶離生、白至淡黃；柄具菌環；地生於林下腐植質間。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260809-211447"
+ "timestamp": "20260811-145657"
 }
