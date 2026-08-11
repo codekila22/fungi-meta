@@ -2,6 +2,7 @@
  "genus": "Tricholomopsis",
  "name": "flammula",
  "date": [
+  "08/04/2026,6260745804035798",
   "05/04/2023,5945268165583565",
   "08/16/2022,5157735607670162",
   "07/12/2021,3938814379562297",
@@ -73,6 +74,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Tricholomopsis_flammula_187ad510-ea80-11ed-8a68-6d6f1e751840_10.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Tricholomopsis_flammula_5157735607670162_bd725580-955d-11f1-b700-c99b10902140_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Tricholomopsis_flammula_5157735607670162_bd725580-955d-11f1-b700-c99b10902140_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Tricholomopsis_flammula_5157735607670162_bd725580-955d-11f1-b700-c99b10902140_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Tricholomopsis_flammula_3970041906439544_e5ae0440-955d-11f1-b700-c99b10902140_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Tricholomopsis_flammula_3970041906439544_e5ae0440-955d-11f1-b700-c99b10902140_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Tricholomopsis_flammula_3970041906439544_e5ae0440-955d-11f1-b700-c99b10902140_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Tricholomopsis_flammula_3970041906439544_e5ae0440-955d-11f1-b700-c99b10902140_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,5 +156,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13070361/thumb.jpeg"
   }
  ],
- "timestamp": "20260811-145657"
+ "timestamp": "20260811-204632"
 }
