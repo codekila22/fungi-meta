@@ -77,22 +77,35 @@
   "StalkHollow": "",
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
-  "StalkBase": "",
+  "StalkBase": "mycelium",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "grouped",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
-  "Edible": "",
+  "Synanthropic": "no",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "not-edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "亞洲靴耳，屬名Crepidotus意為「似鞋的耳」，指其側生貝殼狀之子實體；種小名asiaticus意為「亞洲的」，指其分布於亞洲熱帶地區（模式產地印度、泰國）。子實體中型、具近中生短柄（異於多數無柄側生之靴耳近親）、蓋橙褐至紅褐色、密被細絨毛；菌褶白至橙褐色；柄白色；叢生於闊葉樹腐木上。",
+  "Note": "種小名asiaticus意為「亞洲的」，指其分布於亞洲熱帶地區（模式產地印度、泰國）。子實體中型、具近中生短柄（異於多數無柄側生之靴耳近親）、蓋橙褐至紅褐色、密被細絨毛；菌褶白至橙褐色；柄白色，基部有明顯白色絨毛狀菌絲體。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260811-204632"
+ "inaturalist": [
+  {
+   "name": "Crepidotus asiaticus",
+   "cname": "",
+   "cname_zh": "亞熱帶靴耳",
+   "url": "https://www.inaturalist.org/taxa/1130542",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/279997660/square.jpg"
+  }
+ ],
+ "timestamp": "20260812-215412"
 }

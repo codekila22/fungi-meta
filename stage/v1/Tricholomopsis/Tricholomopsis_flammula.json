@@ -102,6 +102,46 @@
   {
    "author": "James Ho",
    "image_src": "Tricholomopsis_flammula_3970041906439544_e5ae0440-955d-11f1-b700-c99b10902140_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -136,7 +176,7 @@
   "Seasons": "",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
-  "Synanthropic": "yes",
+  "Synanthropic": "no",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "not-edible",
@@ -156,5 +196,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13070361/thumb.jpeg"
   }
  ],
- "timestamp": "20260811-204632"
+ "timestamp": "20260812-215412"
 }

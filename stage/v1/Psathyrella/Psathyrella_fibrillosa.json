@@ -2,6 +2,7 @@
  "genus": "Psathyrella",
  "name": "fibrillosa",
  "date": [
+  "08/06/2026,27936991625984570",
   "12/31/2021,4498879796889083"
  ],
  "names_zhtw": [
@@ -45,6 +46,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Psathyrella_fibrillosa_9_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_27936991625984570_a53caab0-9607-11f1-a3e4-05b50467044d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_27936991625984570_a53caab0-9607-11f1-a3e4-05b50467044d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_27936991625984570_a53caab0-9607-11f1-a3e4-05b50467044d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_27936991625984570_a53caab0-9607-11f1-a3e4-05b50467044d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Psathyrella_fibrillosa_27936991625984570_a53caab0-9607-11f1-a3e4-05b50467044d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -72,13 +93,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "2,7",
   "StalkLengthRangeValuess": "15,70",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -94,5 +120,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164555386/thumb.jpg"
   }
  ],
- "timestamp": "20260811-204632"
+ "timestamp": "20260812-215412"
 }

@@ -8,7 +8,8 @@
   "08/17/2024,7863844503725912",
   "08/17/2024,24844012751949155",
   "09/07/2022,5225174324259623",
-  "07/20/2022,5092387214205002"
+  "07/20/2022,5092387214205002",
+  "07/28/2020,27918882711128795"
  ],
  "names_zhtw": [
   "尤金粉褶菌"
@@ -195,6 +196,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Entoloma_eugenei_045ef390-b7c4-11f0-a56e-9d1d168f6953_20.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Entoloma_eugenei_27918882711128795_33891eb0-95f0-11f1-a3e4-05b50467044d_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Entoloma_eugenei_27918882711128795_33891eb0-95f0-11f1-a3e4-05b50467044d_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Entoloma_eugenei_27918882711128795_33891eb0-95f0-11f1-a3e4-05b50467044d_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Entoloma_eugenei_27918882711128795_33891eb0-95f0-11f1-a3e4-05b50467044d_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Entoloma_eugenei_27918882711128795_33891eb0-95f0-11f1-a3e4-05b50467044d_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -223,15 +244,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
   "Elevation": "mid",
   "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -247,5 +270,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16579164/thumb.jpg"
   }
  ],
- "timestamp": "20260811-204632"
+ "timestamp": "20260812-215412"
 }

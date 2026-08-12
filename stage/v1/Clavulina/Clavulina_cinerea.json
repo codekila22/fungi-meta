@@ -2,6 +2,8 @@
  "genus": "Clavulina",
  "name": "cinerea",
  "date": [
+  "08/03/2026,27936809159336150",
+  "07/24/2026,27936809159336150",
   "09/19/2023,6427649994012044",
   "10/09/2016,1002450713198693"
  ],
@@ -74,6 +76,58 @@
   {
    "author": "胡家銘",
    "image_src": "Clavulina_cinerea_8_CC BY-NC_胡家銘.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavulina_cinerea_27936809159336150_f13795e0-9609-11f1-a3e4-05b50467044d_13.jpg"
   }
  ],
  "names_zhcn": [
@@ -102,13 +156,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,90",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Clavulina rugosa,,",
@@ -140,5 +198,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260811-204632"
+ "timestamp": "20260812-215412"
 }

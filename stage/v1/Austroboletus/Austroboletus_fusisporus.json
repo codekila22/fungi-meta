@@ -13,7 +13,9 @@
   "06/25/2022,5014859611957763",
   "07/13/2021,3943764659067269",
   "06/06/2021,3842097525900650",
-  "05/15/2021,3829712087139194"
+  "05/15/2021,3829712087139194",
+  "07/02/2019,27943711055312627",
+  "10/18/2009,27943711055312627"
  ],
  "names_zhtw": [
   "紡錘孢南牛肝菌"
@@ -264,6 +266,34 @@
   {
    "author": "徐秀團",
    "image_src": "Austroboletus_fusisporus_27580838028266600_9bcc76a0-7f77-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Austroboletus_fusisporus_27943711055312627_621612e0-9606-11f1-a3e4-05b50467044d_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Austroboletus_fusisporus_27943711055312627_621612e0-9606-11f1-a3e4-05b50467044d_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Austroboletus_fusisporus_27943711055312627_621612e0-9606-11f1-a3e4-05b50467044d_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Austroboletus_fusisporus_27943711055312627_621612e0-9606-11f1-a3e4-05b50467044d_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Austroboletus_fusisporus_27943711055312627_621612e0-9606-11f1-a3e4-05b50467044d_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Austroboletus_fusisporus_27943711055312627_621612e0-9606-11f1-a3e4-05b50467044d_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Austroboletus_fusisporus_27943711055312627_621612e0-9606-11f1-a3e4-05b50467044d_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -292,15 +322,17 @@
   "StalkDiamRangeValuess": "3,5",
   "StalkLengthRangeValuess": "40,80",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "low,mid",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
+  "Synanthropic": "",
   "Bruising": "no",
-  "Bioluminescent": "",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "bitter",
   "LookAlikes": "Austroboletus roseialbus,,",
@@ -318,5 +350,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157482051/thumb.jpg"
   }
  ],
- "timestamp": "20260811-204632"
+ "timestamp": "20260812-215412"
 }
