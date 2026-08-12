@@ -292,7 +292,7 @@
   "Seasons": "",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "meadow,wood,rocks",
-  "Synanthropic": "yes",
+  "NearHome": "yes",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "not-edible",
@@ -314,5 +314,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260812-215412"
+ "timestamp": "20260813-063748"
 }

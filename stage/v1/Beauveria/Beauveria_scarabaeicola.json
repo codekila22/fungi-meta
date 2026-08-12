@@ -135,17 +135,22 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "parasitic",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "Synanthropic": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "金龜子白殭菌，屬名Beauveria為白殭菌之屬；種小名scarabaeicola意為「生於金龜子的」。感染金龜子（鞘翅目）等昆蟲、於蟲體長出白色粉狀之分生孢子層、使蟲僵硬而死；為一蟲生真菌。"
  },
- "timestamp": "20260812-215412"
+ "timestamp": "20260813-063748"
 }

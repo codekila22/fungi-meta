@@ -121,7 +121,7 @@
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Synanthropic": "",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "no",
   "Edible": "",
@@ -141,5 +141,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135442/square."
   }
  ],
- "timestamp": "20260812-215412"
+ "timestamp": "20260813-063748"
 }

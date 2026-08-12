@@ -63,7 +63,7 @@
   "Seasons": "summer,autumn",
   "GrowthType": "clustered",
   "GrowthEnv": "wood",
-  "Synanthropic": "",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible,choice",
@@ -83,5 +83,5 @@
    "src": "https://static.inaturalist.org/photos/52549587/square.jpg"
   }
  ],
- "timestamp": "20260812-215412"
+ "timestamp": "20260813-063748"
 }

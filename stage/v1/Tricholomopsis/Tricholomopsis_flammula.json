@@ -176,7 +176,7 @@
   "Seasons": "",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
-  "Synanthropic": "no",
+  "NearHome": "no",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "not-edible",
@@ -196,5 +196,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13070361/thumb.jpeg"
   }
  ],
- "timestamp": "20260812-215412"
+ "timestamp": "20260813-063748"
 }

@@ -509,7 +509,7 @@
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood,bamboo",
-  "Synanthropic": "no",
+  "NearHome": "no",
   "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
@@ -543,5 +543,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89984/thumb.jpg"
   }
  ],
- "timestamp": "20260812-215412"
+ "timestamp": "20260813-063748"
 }
