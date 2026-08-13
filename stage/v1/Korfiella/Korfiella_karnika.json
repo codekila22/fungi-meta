@@ -2,6 +2,7 @@
  "genus": "Korfiella",
  "name": "karnika",
  "date": [
+  "08/02/2026,27949051601445239",
   "09/24/2023,6445877292189314",
   "08/09/2023,6281323695311342",
   "07/07/2023,6166680223442357",
@@ -198,17 +199,21 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "1,5",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground,bamboo",
+  "GrowthType": "grouped",
+  "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "耳形科爾夫盤菌，種小名karnika取自印度Karnataka（模式產地）。小型盤菌具細柄、盤面淡色、質軟，群生於腐木或腐落物，屬盤菌科罕見類群。"
+  "Note": "耳形科爾夫盤菌，種小名karnika取自印度Karnataka（模式產地）。小型盤菌具細柄、盤面淡色、質軟，群生於腐木、腐竹或腐落物中，屬盤菌科罕見類群，台灣於新竹中海拔特定地區常見。"
  },
  "inaturalist": [
   {
@@ -219,5 +224,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/187160124/thumb.jpg"
   }
  ],
- "timestamp": "20260813-063748"
+ "timestamp": "20260813-202043"
 }

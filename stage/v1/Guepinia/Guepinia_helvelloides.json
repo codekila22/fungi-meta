@@ -2,6 +2,7 @@
  "genus": "Guepinia",
  "name": "helvelloides",
  "date": [
+  "08/06/2026,27951171537899912",
   "08/01/2026,27806363029047431",
   "05/19/2022"
  ],
@@ -13,6 +14,10 @@
  ],
  "url": "4170243683086031",
  "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Guepinia_helvelloides_27806363029047431_a8e3f520-8e22-11f1-bdb3-bbb8d9d5caa1_1.jpg"
+  },
   {
    "author": "Hannah Wang",
    "image_src": "Phlogiotis_helvelloides_1_CC BY-NC_Hannah Wang.jpg"
@@ -75,10 +80,6 @@
   },
   {
    "author": "陳麗紅",
-   "image_src": "Guepinia_helvelloides_27806363029047431_a8e3f520-8e22-11f1-bdb3-bbb8d9d5caa1_1.jpg"
-  },
-  {
-   "author": "陳麗紅",
    "image_src": "Guepinia_helvelloides_27806363029047431_a8e3f520-8e22-11f1-bdb3-bbb8d9d5caa1_2.jpg"
   },
   {
@@ -96,6 +97,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Guepinia_helvelloides_27806363029047431_a8e3f520-8e22-11f1-bdb3-bbb8d9d5caa1_6.jpg"
+  },
+  {
+   "author": "Jojo Lie",
+   "image_src": "Guepinia_helvelloides_27951171537899912_db4a7220-96cc-11f1-a154-4112b0f81d20_1.jpg"
+  },
+  {
+   "author": "Jojo Lie",
+   "image_src": "Guepinia_helvelloides_27951171537899912_db4a7220-96cc-11f1-a154-4112b0f81d20_2.jpg"
+  },
+  {
+   "author": "Jojo Lie",
+   "image_src": "Guepinia_helvelloides_27951171537899912_db4a7220-96cc-11f1-a154-4112b0f81d20_3.jpg"
+  },
+  {
+   "author": "Jojo Lie",
+   "image_src": "Guepinia_helvelloides_27951171537899912_db4a7220-96cc-11f1-a154-4112b0f81d20_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -125,14 +142,16 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,50",
   "Rareness": "rare",
-  "Elevation": "mid",
+  "Elevation": "mid,high",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Dacryopinax martinii,,",
@@ -150,5 +169,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2481682/thumb.jpg"
   }
  ],
- "timestamp": "20260813-063748"
+ "timestamp": "20260813-202043"
 }

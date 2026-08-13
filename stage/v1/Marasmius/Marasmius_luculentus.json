@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "luculentus",
  "date": [
+  "08/13/2026,27960457336971332",
   "06/12/2026,27191102410573499",
   "04/09/2026,26371097589240656",
   "10/23/2025,24801197062897391",
@@ -426,6 +427,46 @@
   {
    "author": "陳中城",
    "image_src": "Marasmius_luculentus_398883c0-6718-11f1-81ed-0d648da220a2_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_luculentus_27960457336971332_d06e2580-96e6-11f1-88ff-edfc90e57d7f_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_luculentus_27960457336971332_d06e2580-96e6-11f1-88ff-edfc90e57d7f_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_luculentus_27960457336971332_d06e2580-96e6-11f1-88ff-edfc90e57d7f_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_luculentus_27960457336971332_d06e2580-96e6-11f1-88ff-edfc90e57d7f_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_luculentus_27960457336971332_d06e2580-96e6-11f1-88ff-edfc90e57d7f_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_luculentus_27960457336971332_d06e2580-96e6-11f1-88ff-edfc90e57d7f_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_luculentus_27960457336971332_d06e2580-96e6-11f1-88ff-edfc90e57d7f_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_luculentus_27960457336971332_d06e2580-96e6-11f1-88ff-edfc90e57d7f_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_luculentus_27960457336971332_d06e2580-96e6-11f1-88ff-edfc90e57d7f_9.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_luculentus_27960457336971332_d06e2580-96e6-11f1-88ff-edfc90e57d7f_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -453,18 +494,23 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "20,30",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "leaves",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "光亮小皮傘，種小名luculentus意為「明亮鮮麗的」，指其幼時鮮明之蓋色。蓋幼時紅褐至紫褐、老熟褪為白至灰白，溝紋直達中心、緣常缺刻，菌褶白而連生於環領，柄極細如鬃、黑褐色，生於竹類枯葉。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260813-063748"
+ "timestamp": "20260813-202043"
 }

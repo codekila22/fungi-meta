@@ -288,16 +288,20 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "5,30",
   "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
-  "GrowthType": "",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "yes",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "扇形炭角菌，屬名Xylaria意為「木生的」；種小名flabelliformis意為「扇形的」，指其無性世代之扇狀分生構造。本種為古巴炭角菌（X. cubensis）之無性世代，形成灰色扇形之分生孢子座，有性與無性世代有時並生於同一基質。",
+  "Note": "扇形炭角菌，種小名flabelliformis意為「扇形的」，指其無性世代之扇狀分生構造。本種為古巴炭角菌（X. cubensis）之無性世代，形成灰色扇形之分生孢子座，有性與無性世代有時並生於同一基質。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -309,5 +313,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156815725/thumb.jpg"
   }
  ],
- "timestamp": "20260813-063748"
+ "timestamp": "20260813-202043"
 }
