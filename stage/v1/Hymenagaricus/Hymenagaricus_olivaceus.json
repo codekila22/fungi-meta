@@ -2,6 +2,7 @@
  "genus": "Hymenagaricus",
  "name": "olivaceus",
  "date": [
+  "08/12/2026,27946243805059352",
   "06/16/2026,27241894788827594",
   "08/16/2024,7857133781063651",
   "06/15/2024,7503803563063343",
@@ -166,6 +167,34 @@
   {
    "author": "陳中城",
    "image_src": "Hymenagaricus_olivaceus_838662d0-6a01-11f1-8183-a136ae3cbbfa_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_27946243805059352_ee7799f0-9766-11f1-9b23-31467aeb243b_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_27946243805059352_ee7799f0-9766-11f1-9b23-31467aeb243b_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_27946243805059352_ee7799f0-9766-11f1-9b23-31467aeb243b_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_27946243805059352_ee7799f0-9766-11f1-9b23-31467aeb243b_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_27946243805059352_ee7799f0-9766-11f1-9b23-31467aeb243b_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_27946243805059352_ee7799f0-9766-11f1-9b23-31467aeb243b_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Hymenagaricus_olivaceus_27946243805059352_ee7799f0-9766-11f1-9b23-31467aeb243b_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -173,7 +202,7 @@
  ],
  "meta": {
   "CapColors": "4286611456,4285238819,4278222848",
-  "CapDiamRangeValues": "10,30",
+  "CapDiamRangeValues": "30,50",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -194,13 +223,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Xanthagaricus pakistanicus,Hymenagaricus aff. olivaceus,",
@@ -209,5 +242,5 @@
   "la_zhtw": "巴基斯坦黃蘑菇,橄欖色層蘑菇相似種,",
   "la_zhcn": "巴基斯坦黄蘑菇,橄榄色层蘑菇相似种,"
  },
- "timestamp": "20260813-202043"
+ "timestamp": "20260814-142658"
 }

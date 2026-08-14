@@ -101,13 +101,17 @@
   "StalkDiamRangeValuess": "2,5",
   "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hymenagaricus olivaceus,,",
@@ -116,5 +120,5 @@
   "la_zhtw": "橄欖色層蘑菇,,",
   "la_zhcn": "橄榄色层蘑菇,,"
  },
- "timestamp": "20260813-202043"
+ "timestamp": "20260814-142658"
 }

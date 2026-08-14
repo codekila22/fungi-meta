@@ -1,5 +1,5 @@
 {
- "timestamp": "20260813-202043",
+ "timestamp": "20260814-142658",
  "config": {
   "cover": {
    "image": "cover-photo-2.jpg",
@@ -216,6 +216,7 @@
    "Byssomerulius,細絲皺皮菌屬,细丝皱皮菌属",
    "Byssosphaeria,麻球腔菌屬,麻球腔菌属",
    "Calonectria,麗赤殼菌屬,丽赤壳菌属",
+   "Camarops,多柱殼菌屬,多柱壳菌属",
    "Ceraceomyces,油菌屬,油菌属",
    "Ceriporia,蠟質菌屬,蜡质菌属",
    "Cerocorticium,蠟伏革菌屬,蜡伏革菌属",
@@ -259,6 +260,7 @@
    "Mycoleptodonoides,類齒菌屬,类齿菌属",
    "Nectria,叢赤殼菌屬,丛赤壳菌属",
    "Neocotylidia,新杯革菌屬,新杯革菌属",
+   "Neohypodiscus,新圓盤底座屬,新圆盘底座属",
    "Neonectria,新叢赤殼菌屬,新丛赤壳菌属",
    "Neoscytalidium,新柱頂孢霉屬,新柱顶孢霉属",
    "Nitschkia,凹球殼菌屬,凹球壳菌属",
@@ -653,6 +655,7 @@
    "Merismodes,梅利斯盤菌屬,梅利斯盘菌属",
    "Microstoma,小口盤菌屬,小口盘菌属",
    "Mollisia,軟盤菌屬,软盘菌属",
+   "Morchella,羊肚菌屬,羊肚菌属",
    "Mytilinidion,貝殼菌屬,贝壳菌属",
    "Neodasyscypha,新毛釘菌屬,新毛钉菌属",
    "Ombrophila,紫雨盤菌屬,紫雨盘菌属",
@@ -695,7 +698,6 @@
    "Aphelaria,滑瑚菌屬,滑瑚菌属",
    "Artomyces,密瑚菌屬,密瑚菌属",
    "Calocera,膠角耳屬,胶角耳属",
-   "Camarops,多柱殼菌屬,多柱壳菌属",
    "Clavaria,珊瑚菌屬,珊瑚菌属",
    "Clavariadelphus,棒瑚菌屬,棒瑚菌属",
    "Clavulina,鎖瑚菌屬,锁瑚菌属",
@@ -714,7 +716,6 @@
    "Gyromitra,鹿花菌屬,鹿花菌属",
    "Helvella,馬鞍菌屬,马鞍菌属",
    "Holtermannia,膠珊瑚屬,胶珊瑚属",
-   "Isaria,棒束孢黴屬,棒束孢霉属",
    "Lachnocladium,茸瑚菌屬,茸瑚菌属",
    "Laternea,燈籠菌屬,灯笼菌属",
    "Leotia,錘舌菌屬,锤舌菌属",
@@ -725,7 +726,6 @@
    "Morchella,羊肚菌屬,羊肚菌属",
    "Multiclavula,多枝瑚菌屬,多枝瑚菌属",
    "Mutinus,蛇頭菌屬,蛇头菌属",
-   "Neohypodiscus,新圓盤底座屬,新圆盘底座属",
    "Neolecta,新盤菌屬,新盘菌属",
    "Nigelia,尼氏蟲草屬,尼氏虫草属",
    "Ophiocordyceps,蛇形蟲草屬,蛇形虫草属",
@@ -819,7 +819,6 @@
    "Lycogalopsis,擬粉瘤菌屬,拟粉瘤菌属",
    "Lycoperdon,馬勃屬,马勃属",
    "Lysurus,散尾鬼筆屬,散尾鬼笔属",
-   "Morchella,羊肚菌屬,羊肚菌属",
    "Mutinus,蛇頭菌屬,蛇头菌属",
    "Nidula,鳥巢菌屬,鸟巢菌属",
    "Phallus,鬼筆屬,鬼笔属",
@@ -1080,7 +1079,7 @@
    "Turbinellus,釘菇屬,钉菇属"
   ]
  },
- "total_species": 2513,
+ "total_species": 2512,
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌,二年殘孔菌，屬名Abortiporus意為「發育不全之孔」，指其常不規則之孔口；種小名biennis意為「二年生的」。子實體扇形、半圓形至漏斗狀，常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白或淡黃而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。",
   "Absidia sp.1,犁頭黴,犁头霉,犁頭黴，屬名Absidia為接合菌之一屬（毛黴目）。菌絲發達，於匍匐菌絲間生出孢囊柄，頂端著生梨形之孢子囊、囊軸與囊托明顯；本紀錄似寄生於成熟之黏菌上，為一尚待鑑定之種。",
@@ -2388,7 +2387,7 @@
   "Hyphodontia arguta,尖產絲齒菌,尖产丝齿菌,銳絲齒菌 锐丝齿菌 尖產絲齒菌，種小名arguta意為「尖銳的」，指其子實層具尖齒。子實體平伏於枯木、白至奶油色而薄，子實層由不規則之尖齒與淺孔構成，質膜質，生於闊葉樹枯枝下側。",
   "Hypholoma cinnabarinum,橙紅鱗垂幕菇,橙红鳞垂幕菇",
   "Hypholoma fasciculare,簇生垂幕菇,簇生垂幕菇,Sulphur Tuft Clustered Woodlover Naematoloma fasciculare 簇生沿絲傘 簇生黃韌傘 簇生沿丝伞 簇生黄韧伞 簇生垂幕菇，屬名Hypholoma意指幼時垂於蓋緣之絲幕殘餘；種小名fasciculare意為「簇生的」，指其成叢生長之習性。蓋硫黃至黃綠色、平滑；菌褶初硫黃後轉橄綠而終暗紫褐色；柄細長、黃色、常彎曲；密叢生於闊葉樹樹樁與枯幹上。此種顏色偏土黃色，食用有明顯苦味是其辨識重點之一，此物種劇毒請小心。",
-  "Hypholoma lateritium,磚紅垂幕菇,砖红垂幕菇,Brick Cap Cinnamon Cap 磚紅垂幕菇，屬名Hypholoma意指幼時垂於蓋緣之絲幕殘餘；種小名lateritium意為「磚紅色的」。蓋磚紅色、緣色較淡；菌褶初淡後轉橄褐至紫褐色；柄下方色深於上方；密叢生於闊葉樹枯幹上（生於針葉木者多為近緣之Hypholoma capnoides）。",
+  "Hypholoma lateritium,磚紅垂幕菇,砖红垂幕菇,Brick Cap Cinnamon Cap 磚紅垂幕菇，屬名Hypholoma意指幼時垂於蓋緣之絲幕殘餘；種小名lateritium意為「磚紅色的」。蓋磚紅色、緣色較淡；菌褶初淡後轉橄褐至紫褐色；柄下方色深於上方；密叢生於闊葉樹枯幹上（生於針葉木者多為近緣之Hypholoma capnoides）。 雖然此物種記載為可食用，但極易與致命劇毒相似種簇生垂幕菇(Hypholoma fasciculare)混淆，切勿食用。",
   "Hypholoma subviride,近綠垂幕菇,近绿垂幕菇",
   "Hypocrea cf. rogersonii,疑似羅傑森肉座菌,疑似罗杰森肉座菌",
   "Hypocrea dacrymycella,白黃肉座菌,白黄肉座菌",
@@ -3826,7 +3825,6 @@
   "Tricholomopsis aurea,金黃擬口蘑,金黄拟口蘑,金黃假口蘑 金黄假口蘑 金黃擬口蘑，屬名Tricholomopsis為擬口蘑之屬；種小名aurea意為「金黃色的」。蓋金黃色、被紅褐至暗色之細鱗；菌褶密、黃色；柄黃色、亦被細鱗；生於針葉樹之腐木上。",
   "Tricholomopsis bambusina,竹擬口蘑,竹拟口蘑,竹擬口蘑，屬名Tricholomopsis意指其形似口蘑屬；種小名bambusina意為「竹的」，指其生於竹林之習性。蓋黃底而被暗色之纖絲狀鱗片；菌褶密、黃色；柄黃色；生於竹林中近竹根之地上。",
   "Tricholomopsis decora,黃擬口蘑,黄拟口蘑,黃擬口蘑，屬名Tricholomopsis意指其形似口蘑屬；種小名decora意為「雅緻的」。蓋凸至平展、黃色而被暗褐至橄褐色之纖絲狀細鱗、中央尤密；菌褶密、黃色；柄黃色；生於中高海拔針葉樹腐木上。",
-  "Tricholomopsis flammula,火紅擬口蘑,火红拟口蘑,火紅擬口蘑，屬名Tricholomopsis意指其形似口蘑屬；種小名flammula意為「小火焰」，指其紅豔之鱗片。蓋黃底而密被紅至酒紅色之纖絲狀鱗片；菌褶密、黃色；柄黃色而被紅色細鱗；在台灣常生於針葉木製之棧道與枕木上。",
   "Tricholomopsis flava,黃色擬口蘑(暫名),黄色拟口蘑(暂名),黃色擬口蘑，種小名flava意為「黃色的」，指其鮮黃之整體。蓋凸至平展、黃色而中央帶淺褐；菌褶彎生、黃色；柄黃色、纖維質；生於竹林環境之竹叢基部附近。",
   "Tricholomopsis formosa,美麗擬口蘑,美丽拟口蘑,美麗擬口蘑，屬名Tricholomopsis為擬口蘑之屬；種小名formosa意為「美麗的」。蓋黃色、密被紅褐至紫褐之細鱗；菌褶密、黃色；柄黃色而亦被細鱗；生於針葉樹之腐木上。",
   "Tricholomopsis humboldtii,洪堡擬口蘑,洪堡拟口蘑,洪堡擬口蘑，種小名humboldtii紀念博物學家洪堡（Humboldt）。蓋被紫紅至暗紅色細鱗而底色鮮黃，菌褶黃色，柄黃色具細鱗，生於針葉樹腐木。",

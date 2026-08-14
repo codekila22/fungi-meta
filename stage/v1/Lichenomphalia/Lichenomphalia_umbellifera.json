@@ -2,6 +2,7 @@
  "genus": "Lichenomphalia",
  "name": "umbellifera",
  "date": [
+  "08/01/2026,27821916587492075",
   "04/05/2025,9339362196174128",
   "05/29/2024,27544561555227581",
   "08/01/2023,6261949920582053",
@@ -173,6 +174,42 @@
   {
    "author": "Sunny Wang",
    "image_src": "Lichenomphalia_umbellifera_27544561555227581_edbca530-7cc9-11f1-b104-1313ad3a786f_12.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_umbellifera_27821916587492075_da9e5a60-971e-11f1-b2d9-0fdd98949f1f_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_umbellifera_27821916587492075_da9e5a60-971e-11f1-b2d9-0fdd98949f1f_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_umbellifera_27821916587492075_da9e5a60-971e-11f1-b2d9-0fdd98949f1f_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_umbellifera_27821916587492075_da9e5a60-971e-11f1-b2d9-0fdd98949f1f_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_umbellifera_27821916587492075_da9e5a60-971e-11f1-b2d9-0fdd98949f1f_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_umbellifera_27821916587492075_da9e5a60-971e-11f1-b2d9-0fdd98949f1f_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_umbellifera_27821916587492075_da9e5a60-971e-11f1-b2d9-0fdd98949f1f_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_umbellifera_27821916587492075_da9e5a60-971e-11f1-b2d9-0fdd98949f1f_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lichenomphalia_umbellifera_27821916587492075_da9e5a60-971e-11f1-b2d9-0fdd98949f1f_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -226,5 +263,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/480023950/square.jpg"
   }
  ],
- "timestamp": "20260813-202043"
+ "timestamp": "20260814-142658"
 }
