@@ -2,6 +2,7 @@
  "genus": "Cystolepiota",
  "name": "pulverulenta",
  "date": [
+  "07/25/2026,27965073183176414",
   "06/20/2026,27407251855625219",
   "09/29/2025,24567903802893386",
   "08/02/2025,24037836189233486",
@@ -307,6 +308,22 @@
   {
    "author": "林杏蓉",
    "image_src": "Cystolepiota_pulverulenta_deddaed0-744d-11f1-90c2-7d658c415de2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cystolepiota_pulverulenta_27965073183176414_b479c960-97ae-11f1-83ab-57a20a0eaaa6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cystolepiota_pulverulenta_27965073183176414_b479c960-97ae-11f1-83ab-57a20a0eaaa6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cystolepiota_pulverulenta_27965073183176414_b479c960-97ae-11f1-83ab-57a20a0eaaa6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cystolepiota_pulverulenta_27965073183176414_b479c960-97ae-11f1-83ab-57a20a0eaaa6_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -335,15 +352,17 @@
   "StalkDiamRangeValuess": "2,5",
   "StalkLengthRangeValuess": "40,60",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low,mid",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -359,5 +378,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/228832584/square.jpg"
   }
  ],
- "timestamp": "20260814-142658"
+ "timestamp": "20260814-151413"
 }
