@@ -150,7 +150,7 @@
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Synanthropic": "no",
+  "NearHome": "no",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "toxic",
@@ -172,5 +172,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/180042838/thumb.jpg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

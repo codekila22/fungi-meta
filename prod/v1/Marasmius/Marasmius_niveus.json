@@ -99,13 +99,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "debris",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Marasmius cohortalis var. hymeniicephalus,,",
@@ -123,5 +128,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155080429/thumb.jpg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

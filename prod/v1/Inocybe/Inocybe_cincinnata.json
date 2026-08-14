@@ -2,6 +2,7 @@
  "genus": "Inocybe",
  "name": "cincinnata",
  "date": [
+  "08/01/2026,27965551216461944",
   "07/14/2026,27595355963481473",
   "06/16/2026,27347651518251920",
   "05/24/2026,27365362176480854",
@@ -118,6 +119,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Inocybe_cincinnata_27595355963481473_d5c3dbe0-805e-11f1-98ac-13bd3a7a9bd4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_cincinnata_27965551216461944_7fbf7960-97ac-11f1-83ab-57a20a0eaaa6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_cincinnata_27965551216461944_7fbf7960-97ac-11f1-83ab-57a20a0eaaa6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_cincinnata_27965551216461944_7fbf7960-97ac-11f1-83ab-57a20a0eaaa6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Inocybe_cincinnata_27965551216461944_7fbf7960-97ac-11f1-83ab-57a20a0eaaa6_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -146,15 +163,17 @@
   "StalkDiamRangeValuess": "2,4",
   "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "low,mid",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -177,5 +196,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

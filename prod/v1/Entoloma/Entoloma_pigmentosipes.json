@@ -64,7 +64,7 @@
  ],
  "meta": {
   "CapColors": "4282924427,4283105408,4278190285",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "10,25",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -82,8 +82,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "mycelium",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "25,50",
   "HeightRangeValuess": "",
   "Rareness": "",
   "Elevation": "mid",
@@ -109,5 +109,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21634826/thumb.jpg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

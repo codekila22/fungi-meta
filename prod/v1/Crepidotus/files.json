@@ -2,13 +2,19 @@
  "name": "Crepidotus",
  "zhtw": "靴耳屬",
  "zhcn": "靴耳属",
- "timestamp": "20260809-211447",
+ "timestamp": "20260814-154012",
  "list": [
   {
    "name": "Crepidotus applanatus",
    "zhtw": "平扁靴耳",
    "zhcn": "平扁靴耳",
    "img": "Crepidotus_applanatus_4b9a8330-e9af-11ee-9edb-51b0b9fc78c6_1.jpg"
+  },
+  {
+   "name": "Crepidotus asiaticus",
+   "zhtw": "亞洲熱帶靴耳",
+   "zhcn": "亚洲热带靴耳",
+   "img": "Crepidotus_asiaticus_7492964250813941_f24c1bf0-9581-11f1-b700-c99b10902140_1.jpg"
   },
   {
    "name": "Crepidotus badiofloccosus",

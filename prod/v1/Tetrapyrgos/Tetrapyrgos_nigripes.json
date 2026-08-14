@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "08/14/2026,27947995811550818",
   "07/15/2026,27604026152614454",
   "06/12/2026,27303815469302192",
   "06/10/2026,27169658452717895",
@@ -367,6 +368,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Tetrapyrgos_nigripes_95310b80-6d1b-11f1-969c-7521ace70c26_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Tetrapyrgos_nigripes_27947995811550818_2aa276b0-97ae-11f1-83ab-57a20a0eaaa6_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Tetrapyrgos_nigripes_27947995811550818_2aa276b0-97ae-11f1-83ab-57a20a0eaaa6_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Tetrapyrgos_nigripes_27947995811550818_2aa276b0-97ae-11f1-83ab-57a20a0eaaa6_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Tetrapyrgos_nigripes_27947995811550818_2aa276b0-97ae-11f1-83ab-57a20a0eaaa6_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Tetrapyrgos_nigripes_27947995811550818_2aa276b0-97ae-11f1-83ab-57a20a0eaaa6_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -395,15 +416,17 @@
   "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "20,50",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low",
   "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood,leaves",
+  "NearHome": "yes",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "not-edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Marasmiellus candidus,Marasmiellus atrostipitatus,",
@@ -421,5 +444,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4943945/thumb.jpeg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

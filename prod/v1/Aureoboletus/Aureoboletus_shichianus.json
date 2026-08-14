@@ -2,6 +2,7 @@
  "genus": "Aureoboletus",
  "name": "shichianus",
  "date": [
+  "08/01/2026,27965366326480433",
   "06/29/2025,9982639638513044",
   "06/22/2025,10073736659403341"
  ],
@@ -103,6 +104,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Boletellus_shichianus_61e71ad0-5fcf-11f0-9d05-d18c5fc6abba_15.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_shichianus_27965366326480433_cd84af30-97ac-11f1-83ab-57a20a0eaaa6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_shichianus_27965366326480433_cd84af30-97ac-11f1-83ab-57a20a0eaaa6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_shichianus_27965366326480433_cd84af30-97ac-11f1-83ab-57a20a0eaaa6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aureoboletus_shichianus_27965366326480433_cd84af30-97ac-11f1-83ab-57a20a0eaaa6_4.jpg"
   }
  ],
  "synonym": [
@@ -139,13 +156,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "blue",
-  "Bioluminescent": "",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -161,5 +182,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/401297191/square.jpeg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

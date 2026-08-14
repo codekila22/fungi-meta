@@ -2,6 +2,7 @@
  "genus": "Henningsomyces",
  "name": "candidus",
  "date": [
+  "08/11/2026,27944481521902247",
   "03/11/2026,26126692553681162",
   "11/27/2025,25098437673173327",
   "06/29/2025,10017076685069339",
@@ -239,6 +240,30 @@
   {
    "author": "向高世",
    "image_src": "Henningsomyces_candidus_324b47d0-243f-11f1-b838-9d79e9dedd72_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Henningsomyces_candidus_27944481521902247_29446910-9608-11f1-a3e4-05b50467044d_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Henningsomyces_candidus_27944481521902247_29446910-9608-11f1-a3e4-05b50467044d_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Henningsomyces_candidus_27944481521902247_29446910-9608-11f1-a3e4-05b50467044d_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Henningsomyces_candidus_27944481521902247_29446910-9608-11f1-a3e4-05b50467044d_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Henningsomyces_candidus_27944481521902247_29446910-9608-11f1-a3e4-05b50467044d_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Henningsomyces_candidus_27944481521902247_29446910-9608-11f1-a3e4-05b50467044d_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -266,13 +291,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -288,5 +318,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21485996/thumb.jpeg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

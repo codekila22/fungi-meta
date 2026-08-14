@@ -107,7 +107,7 @@
   "Seasons": "",
   "GrowthType": "singly",
   "GrowthEnv": "wood",
-  "Synanthropic": "",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
@@ -141,5 +141,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

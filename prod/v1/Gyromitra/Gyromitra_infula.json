@@ -2,6 +2,7 @@
  "genus": "Gyromitra",
  "name": "infula",
  "date": [
+  "08/12/2026,27963939986623067",
   "08/02/2026,27856754697341597",
   "06/16/2024,7514501891993510",
   "11/05/2023,6603973326379709",
@@ -251,6 +252,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Gyromitra_infula_27856754697341597_a3224ba0-9124-11f1-9fc8-5f7cf042a2f2_14.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Gyromitra_infula_27963939986623067_430e9c00-971e-11f1-b2d9-0fdd98949f1f_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Gyromitra_infula_27963939986623067_430e9c00-971e-11f1-b2d9-0fdd98949f1f_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Gyromitra_infula_27963939986623067_430e9c00-971e-11f1-b2d9-0fdd98949f1f_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Gyromitra_infula_27963939986623067_430e9c00-971e-11f1-b2d9-0fdd98949f1f_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -286,7 +303,7 @@
   "Seasons": "spring,summer",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,debris",
-  "Synanthropic": "",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "toxic",
@@ -308,5 +325,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5851561/square.jpg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

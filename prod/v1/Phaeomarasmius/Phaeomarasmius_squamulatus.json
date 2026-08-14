@@ -3,6 +3,7 @@
  "name": "squamulatus",
  "date": [
   "08/02/2026,27882353318115068",
+  "08/01/2026,27822608274089573",
   "01/31/2026,25674071825609906",
   "01/30/2026,25661891943494561",
   "09/06/2022,5229657270477995",
@@ -221,6 +222,46 @@
   {
    "author": "吳湯姆",
    "image_src": "Phaeomarasmius_squamulatus_27882353318115068_fb848db0-9324-11f1-bd6a-4ff4f0abfa1f_11.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Phaeomarasmius_squamulatus_27822608274089573_21590ae0-971f-11f1-b2d9-0fdd98949f1f_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Phaeomarasmius_squamulatus_27822608274089573_21590ae0-971f-11f1-b2d9-0fdd98949f1f_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Phaeomarasmius_squamulatus_27822608274089573_21590ae0-971f-11f1-b2d9-0fdd98949f1f_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Phaeomarasmius_squamulatus_27822608274089573_21590ae0-971f-11f1-b2d9-0fdd98949f1f_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Phaeomarasmius_squamulatus_27822608274089573_21590ae0-971f-11f1-b2d9-0fdd98949f1f_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Phaeomarasmius_squamulatus_27822608274089573_21590ae0-971f-11f1-b2d9-0fdd98949f1f_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Phaeomarasmius_squamulatus_27822608274089573_21590ae0-971f-11f1-b2d9-0fdd98949f1f_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Phaeomarasmius_squamulatus_27822608274089573_21590ae0-971f-11f1-b2d9-0fdd98949f1f_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Phaeomarasmius_squamulatus_27822608274089573_21590ae0-971f-11f1-b2d9-0fdd98949f1f_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Phaeomarasmius_squamulatus_27822608274089573_21590ae0-971f-11f1-b2d9-0fdd98949f1f_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -249,18 +290,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "10,12",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "鱗暗小皮傘，種小名squamulatus意為「具小鱗片的」，指菌蓋菌柄被小鱗。微小鏽褐色菇、蓋被顆粒狀小鱗片，菌褶鏽褐，柄具鱗，生於闊葉樹細枝或腐木。",
   "GrowthEco": ""
  },
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

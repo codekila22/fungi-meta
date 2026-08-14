@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "caespitosa",
  "date": [
+  "08/11/2026,27964806819869717",
   "07/15/2020,2978773565566388"
  ],
  "names_zhtw": [
@@ -39,6 +40,26 @@
   {
    "author": "James Ho",
    "image_src": "Hygrocybe_caespitosa_7_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_caespitosa_27964806819869717_0da84df0-97b3-11f1-83ab-57a20a0eaaa6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_caespitosa_27964806819869717_0da84df0-97b3-11f1-83ab-57a20a0eaaa6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_caespitosa_27964806819869717_0da84df0-97b3-11f1-83ab-57a20a0eaaa6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_caespitosa_27964806819869717_0da84df0-97b3-11f1-83ab-57a20a0eaaa6_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_caespitosa_27964806819869717_0da84df0-97b3-11f1-83ab-57a20a0eaaa6_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -66,13 +87,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped,clustered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -88,5 +114,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14834064/thumb.jpeg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

@@ -2,6 +2,8 @@
  "genus": "Nigroporus",
  "name": "vinosus",
  "date": [
+  "08/08/2026,27895456366804763",
+  "07/26/2026,27910523195298080",
   "07/08/2025,10051152014995139",
   "06/26/2025,9966354240141584",
   "08/27/2024,7931343026976059",
@@ -245,6 +247,58 @@
   {
    "author": "",
    "image_src": "Fomitopsis_vinosa_1_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigroporus_vinosus_27910523195298080_ed428e10-9481-11f1-a667-6939a03bc7a0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigroporus_vinosus_27910523195298080_ed428e10-9481-11f1-a667-6939a03bc7a0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigroporus_vinosus_27910523195298080_ed428e10-9481-11f1-a667-6939a03bc7a0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigroporus_vinosus_27910523195298080_ed428e10-9481-11f1-a667-6939a03bc7a0_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigroporus_vinosus_27910523195298080_ed428e10-9481-11f1-a667-6939a03bc7a0_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigroporus_vinosus_27910523195298080_ed428e10-9481-11f1-a667-6939a03bc7a0_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigroporus_vinosus_27910523195298080_ed428e10-9481-11f1-a667-6939a03bc7a0_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigroporus_vinosus_27910523195298080_ed428e10-9481-11f1-a667-6939a03bc7a0_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigroporus_vinosus_27910523195298080_ed428e10-9481-11f1-a667-6939a03bc7a0_9.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Nigroporus_vinosus_27895456366804763_7cf47190-9482-11f1-a667-6939a03bc7a0_1.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Nigroporus_vinosus_27895456366804763_7cf47190-9482-11f1-a667-6939a03bc7a0_2.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Nigroporus_vinosus_27895456366804763_7cf47190-9482-11f1-a667-6939a03bc7a0_3.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Nigroporus_vinosus_27895456366804763_7cf47190-9482-11f1-a667-6939a03bc7a0_4.jpg"
   }
  ],
  "synonym": [
@@ -280,13 +334,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "5,20",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -302,5 +360,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4305620/thumb.jpg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

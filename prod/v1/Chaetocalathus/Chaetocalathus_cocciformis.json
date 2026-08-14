@@ -2,6 +2,7 @@
  "genus": "Chaetocalathus",
  "name": "cocciformis",
  "date": [
+  "08/12/2026,27946126038404462",
   "06/30/2026,27438836109133460",
   "07/08/2025,10051375974972743",
   "03/30/2025,9304137046363310",
@@ -475,6 +476,46 @@
   {
    "author": "Sunny Wang",
    "image_src": "Chaetocalathus_cocciformis_38529d60-7622-11f1-b7c9-8532fa1a5dc2_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Chaetocalathus_cocciformis_27946126038404462_c0ef7c00-9626-11f1-a3e4-05b50467044d_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Chaetocalathus_cocciformis_27946126038404462_c0ef7c00-9626-11f1-a3e4-05b50467044d_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Chaetocalathus_cocciformis_27946126038404462_c0ef7c00-9626-11f1-a3e4-05b50467044d_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Chaetocalathus_cocciformis_27946126038404462_c0ef7c00-9626-11f1-a3e4-05b50467044d_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Chaetocalathus_cocciformis_27946126038404462_c0ef7c00-9626-11f1-a3e4-05b50467044d_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Chaetocalathus_cocciformis_27946126038404462_c0ef7c00-9626-11f1-a3e4-05b50467044d_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Chaetocalathus_cocciformis_27946126038404462_c0ef7c00-9626-11f1-a3e4-05b50467044d_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Chaetocalathus_cocciformis_27946126038404462_c0ef7c00-9626-11f1-a3e4-05b50467044d_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Chaetocalathus_cocciformis_27946126038404462_c0ef7c00-9626-11f1-a3e4-05b50467044d_9.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Chaetocalathus_cocciformis_27946126038404462_c0ef7c00-9626-11f1-a3e4-05b50467044d_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -503,13 +544,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -525,5 +570,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10941722/thumb.jpeg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

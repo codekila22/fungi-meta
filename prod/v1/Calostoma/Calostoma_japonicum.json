@@ -2,6 +2,7 @@
  "genus": "Calostoma",
  "name": "japonicum",
  "date": [
+  "08/11/2026,27933511419665924",
   "07/07/2026,27492458483771222",
   "06/30/2026,27454926484191089",
   "06/16/2026,27244771025206637",
@@ -369,6 +370,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Calostoma_japonicum_1c1b4390-7a05-11f1-bef5-4bf57cd7d16b_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_27933511419665924_8ba4dd50-97ad-11f1-83ab-57a20a0eaaa6_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_27933511419665924_8ba4dd50-97ad-11f1-83ab-57a20a0eaaa6_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_27933511419665924_8ba4dd50-97ad-11f1-83ab-57a20a0eaaa6_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_27933511419665924_8ba4dd50-97ad-11f1-83ab-57a20a0eaaa6_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Calostoma_japonicum_27933511419665924_8ba4dd50-97ad-11f1-83ab-57a20a0eaaa6_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -397,13 +418,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,70",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "not-edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -419,5 +444,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11055950/thumb.jpg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

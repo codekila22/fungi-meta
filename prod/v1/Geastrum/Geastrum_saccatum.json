@@ -268,7 +268,7 @@
   "Seasons": "",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
-  "Synanthropic": "",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
@@ -337,5 +337,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

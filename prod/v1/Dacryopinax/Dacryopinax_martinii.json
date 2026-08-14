@@ -170,18 +170,24 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "10,25",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Guepinia helvelloides,,",
   "Note": "馬丁假花耳，種小名martinii紀念真菌學者Martin。子實體膠質、匙形至扇形、橙黃至橙色、具短柄，質韌，叢生於腐木或加工木材上。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "焰耳,,",
+  "la_zhcn": "焰耳,,"
  },
  "inaturalist": [
   {
@@ -192,5 +198,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/92694647/thumb.jpeg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

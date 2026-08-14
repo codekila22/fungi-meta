@@ -300,18 +300,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "0,20",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "fruit",
+  "NearHome": "yes",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "小葉欖仁炭角菌，屬名Xylaria意為「木生的」，指其生於木質基質之習性。子座棒狀至指狀、黑色、質硬、內部白色，表面具疣狀之子囊殼開口；本種生於小葉欖仁之果實上，為一尚未正式命名之炭角菌。",
+  "Note": "本種生於小葉欖仁之果實上，為一尚未正式命名之炭角菌。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

@@ -453,7 +453,7 @@
   "Seasons": "spring,summer,autumn",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground,meadow",
-  "Synanthropic": "yes",
+  "NearHome": "yes",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "toxic",
@@ -474,5 +474,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4133009/thumb."
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

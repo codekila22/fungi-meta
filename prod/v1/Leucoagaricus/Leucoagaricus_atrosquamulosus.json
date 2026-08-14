@@ -59,7 +59,7 @@
  ],
  "meta": {
   "CapColors": "4278190080,4285098345",
-  "CapDiamRangeValues": "",
+  "CapDiamRangeValues": "20,30",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -77,8 +77,8 @@
   "StalkPartialVeil": "",
   "StalkVolva": "none",
   "StalkBase": "",
-  "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "20,30",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
   "Elevation": "low",
@@ -97,5 +97,5 @@
   "la_zhtw": "細環柄菇,暗鱗白鬼傘,",
   "la_zhcn": "细环柄菇,暗鳞白鬼伞,"
  },
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

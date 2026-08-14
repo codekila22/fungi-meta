@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "subcyanocephala",
  "date": [
+  "08/12/2026,27947033078313758",
   "07/30/2026,27777495141934220",
   "07/20/2026,27648903384793397",
   "07/13/2026,27569362346080835",
@@ -45,6 +46,14 @@
  "names_en": [],
  "url": "2745944272182653",
  "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Mycena_subcyanocephala_c77834b0-8b90-11ef-8d51-fbbb1d8dc390_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_49f9e850-371d-11f1-9c1c-d336fb174be5_3.jpg"
+  },
   {
    "author": "向高世",
    "image_src": "Mycena_subcyanocephala_2_CC BY-NC_向高世.jpg"
@@ -296,10 +305,6 @@
   {
    "author": "江志緯",
    "image_src": "Mycena_subcyanocephala_c77834b0-8b90-11ef-8d51-fbbb1d8dc390_10.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Mycena_subcyanocephala_c77834b0-8b90-11ef-8d51-fbbb1d8dc390_11.jpg"
   },
   {
    "author": "江志緯",
@@ -555,10 +560,6 @@
   },
   {
    "author": "陳麗紅",
-   "image_src": "Mycena_subcyanocephala_49f9e850-371d-11f1-9c1c-d336fb174be5_3.jpg"
-  },
-  {
-   "author": "陳麗紅",
    "image_src": "Mycena_subcyanocephala_49f9e850-371d-11f1-9c1c-d336fb174be5_4.jpg"
   },
   {
@@ -656,6 +657,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_subcyanocephala_27777495141934220_4ca98c50-8bfe-11f1-b4af-df994418c03d_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27947033078313758_a32605d0-96ae-11f1-a154-4112b0f81d20_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27947033078313758_a32605d0-96ae-11f1-a154-4112b0f81d20_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27947033078313758_a32605d0-96ae-11f1-a154-4112b0f81d20_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_subcyanocephala_27947033078313758_a32605d0-96ae-11f1-a154-4112b0f81d20_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -708,5 +725,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/260296784/square.jpg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

@@ -2,6 +2,7 @@
  "genus": "Thaxterogaster",
  "name": "purpurascens",
  "date": [
+  "08/01/2026,27910648698618863",
   "06/07/2023,6091982834245430"
  ],
  "names_zhtw": [
@@ -54,6 +55,30 @@
   {
    "author": "Sunny Wang",
    "image_src": "Cortinarius_purpurascens_a5d16e10-271f-11ef-a198-39d77cbbcca7_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Thaxterogaster_purpurascens_27910648698618863_2b2bcd00-9463-11f1-8050-ddec5645ce23_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Thaxterogaster_purpurascens_27910648698618863_2b2bcd00-9463-11f1-8050-ddec5645ce23_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Thaxterogaster_purpurascens_27910648698618863_2b2bcd00-9463-11f1-8050-ddec5645ce23_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Thaxterogaster_purpurascens_27910648698618863_2b2bcd00-9463-11f1-8050-ddec5645ce23_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Thaxterogaster_purpurascens_27910648698618863_2b2bcd00-9463-11f1-8050-ddec5645ce23_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Thaxterogaster_purpurascens_27910648698618863_2b2bcd00-9463-11f1-8050-ddec5645ce23_6.jpg"
   }
  ],
  "synonym": [
@@ -90,13 +115,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
-  "Bioluminescent": "",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -112,5 +141,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135442/square."
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

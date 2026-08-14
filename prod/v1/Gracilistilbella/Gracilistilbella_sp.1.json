@@ -2,6 +2,7 @@
  "genus": "Gracilistilbella",
  "name": "sp.1",
  "date": [
+  "08/14/2026,27974171428933256",
   "06/15/2026,27227101910306882",
   "07/11/2025,10075353995908274",
   "06/04/2025,9788650491245294",
@@ -88,6 +89,10 @@
   {
    "author": "陳中城",
    "image_src": "Gracilistilbella_sp.1_fad702c0-68aa-11f1-9df7-f1b23afd39b5_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Gracilistilbella_sp.1_27974171428933256_8d9ff7c0-97b2-11f1-83ab-57a20a0eaaa6_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -131,5 +136,5 @@
   "la_zhtw": "棒狀細束梗孢菌,,",
   "la_zhcn": "棒状细束梗孢菌,,"
  },
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

@@ -184,7 +184,7 @@
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Synanthropic": "",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
@@ -204,5 +204,5 @@
    "src": "https://static.inaturalist.org/photos/47932929/thumb.jpg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

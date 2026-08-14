@@ -308,7 +308,7 @@
   "HymeniumGillArrangement": "",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
-  "HymeniumPoresPerMM": "4,6",
+  "HymeniumPoresPerMM": "4,5",
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
@@ -325,9 +325,11 @@
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -343,5 +345,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112664495/thumb.jpeg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }

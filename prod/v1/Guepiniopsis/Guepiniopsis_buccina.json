@@ -25,7 +25,8 @@
   "01/06/2021,3417503201693420",
   "01/03/2021,3411204955656578",
   "12/26/2020,3393118437465230",
-  "10/18/2020,3224152457695163"
+  "10/18/2020,3224152457695163",
+  "06/01/2019,27939207882429611"
  ],
  "names_zhtw": [
   "膠盤耳"
@@ -328,6 +329,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Guepiniopsis_buccina_ce4a80f0-66bc-11f1-beed-e1f2db233c75_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Guepiniopsis_buccina_27939207882429611_a19de370-95e3-11f1-8938-73fbf6689145_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Guepiniopsis_buccina_27939207882429611_a19de370-95e3-11f1-8938-73fbf6689145_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Guepiniopsis_buccina_27939207882429611_a19de370-95e3-11f1-8938-73fbf6689145_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -356,13 +369,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "5,15",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Guepiniopsis alpina,,",
@@ -380,5 +397,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28659774/thumb.jpeg"
   }
  ],
- "timestamp": "20260809-211447"
+ "timestamp": "20260814-154012"
 }
