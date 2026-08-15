@@ -62,7 +62,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "擬米黃紅菇，種小名pectinatoides意為「似篦形紅菇的」，指其與篦形紅菇（R. pectinata）極為相似。蓋2.5–8cm；蓋緣於1–2cm寬處具篦齒狀瘤紋，常散布粉紅至肉桂褐色斑點；柄1.5–7cm、粗5–20mm。",
+  "Note": "擬米黃紅菇，種小名pectinatoides意為「似篦形紅菇的」，指其與篦形紅菇（R. pectinata）極為相似。蓋緣具篦齒狀瘤紋，常散布粉紅至肉桂褐色斑點。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -74,5 +74,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2340572/thumb.jpg"
   }
  ],
- "timestamp": "20260815-132641"
+ "timestamp": "20260815-181502"
 }

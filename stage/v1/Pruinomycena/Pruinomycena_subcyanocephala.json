@@ -2,6 +2,7 @@
  "genus": "Pruinomycena",
  "name": "subcyanocephala",
  "date": [
+  "08/13/2026,27978290625188003",
   "08/12/2026,27947033078313758",
   "07/30/2026,27777495141934220",
   "07/20/2026,27648903384793397",
@@ -674,6 +675,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_subcyanocephala_27947033078313758_a32605d0-96ae-11f1-a154-4112b0f81d20_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pruinomycena_subcyanocephala_27978290625188003_73c498f0-986c-11f1-b59b-39a33ce7c69c_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pruinomycena_subcyanocephala_27978290625188003_73c498f0-986c-11f1-b59b-39a33ce7c69c_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pruinomycena_subcyanocephala_27978290625188003_73c498f0-986c-11f1-b59b-39a33ce7c69c_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pruinomycena_subcyanocephala_27978290625188003_73c498f0-986c-11f1-b59b-39a33ce7c69c_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pruinomycena_subcyanocephala_27978290625188003_73c498f0-986c-11f1-b59b-39a33ce7c69c_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Pruinomycena_subcyanocephala_27978290625188003_73c498f0-986c-11f1-b59b-39a33ce7c69c_6.jpg"
   }
  ],
  "synonym": [
@@ -722,7 +747,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "近藍蓋粉霜小菇，菌蓋被白色絨毛並帶藍色調，菌柄纖細，生於腐木上。種小名subcyanocephala由sub（略）、cyanos（藍）與cephale（頭、蓋）組成，意為「略帶藍蓋的」；藍色調僅見於幼時，成熟後褪為淡藍或近白。本種原置於小菇屬刺囊組（Mycena sect. Spinosae），2025年與近緣種一同分立為粉霜小菇屬Pruinomycena（pruina意為白霜、粉霜），並以本種為模式種。子實體被細絨毛、菌蓋僅約1mm，為現知世上最小型之菇類之一。",
+  "Note": "近藍蓋粉霜小菇，菌蓋被白色絨毛並帶藍色調，菌柄纖細，生於腐木上。種小名subcyanocephala由sub（略）、cyanos（藍）與cephale（頭、蓋）組成，意為「略帶藍蓋的」；藍色調僅見於幼時，成熟後褪為淡藍或近白。本種原置於小菇屬刺囊組（Mycena sect. Spinosae），2025年與近緣種一同分立為粉霜小菇屬Pruinomycena（pruina意為白霜、粉霜），並以本種為模式種。子實體被細絨毛、菌蓋極小，為現知世上最小型之菇類之一。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -734,5 +759,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/260296784/square.jpg"
   }
  ],
- "timestamp": "20260815-132641"
+ "timestamp": "20260815-181502"
 }

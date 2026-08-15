@@ -2,6 +2,7 @@
  "genus": "Phallus",
  "name": "luteus",
  "date": [
+  "08/10/2026,27919990784351321",
   "07/26/2026,27724907447192990",
   "07/21/2026,27662188030131599",
   "07/05/2026,27478152381868499",
@@ -475,6 +476,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Phallus_luteus_27724907447192990_14c26f00-88de-11f1-b2d8-4b1e79a5b7b3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_27919990784351321_ba7d6820-9881-11f1-b59b-39a33ce7c69c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_27919990784351321_ba7d6820-9881-11f1-b59b-39a33ce7c69c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_27919990784351321_ba7d6820-9881-11f1-b59b-39a33ce7c69c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_27919990784351321_ba7d6820-9881-11f1-b59b-39a33ce7c69c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_27919990784351321_ba7d6820-9881-11f1-b59b-39a33ce7c69c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phallus_luteus_27919990784351321_ba7d6820-9881-11f1-b59b-39a33ce7c69c_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -505,13 +530,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "60,160",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "yes",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Phallus indusiatus,Phallus lutescens,",
@@ -529,5 +558,5 @@
    "src": "https://static.inaturalist.org/photos/13307620/thumb.jpeg"
   }
  ],
- "timestamp": "20260815-132641"
+ "timestamp": "20260815-181502"
 }

@@ -2,6 +2,7 @@
  "genus": "Phyllotopsis",
  "name": "nidulans",
  "date": [
+  "08/13/2026,27977317401951992",
   "07/31/2026,27774928838857517",
   "07/22/2026,27693896443627424",
   "06/20/2026,27335558932794512",
@@ -254,6 +255,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Phyllotopsis_nidulans_27693896443627424_50346a50-8728-11f1-b6f2-838219972457_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phyllotopsis_nidulans_27977317401951992_0dfabf30-986d-11f1-b59b-39a33ce7c69c_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phyllotopsis_nidulans_27977317401951992_0dfabf30-986d-11f1-b59b-39a33ce7c69c_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phyllotopsis_nidulans_27977317401951992_0dfabf30-986d-11f1-b59b-39a33ce7c69c_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phyllotopsis_nidulans_27977317401951992_0dfabf30-986d-11f1-b59b-39a33ce7c69c_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phyllotopsis_nidulans_27977317401951992_0dfabf30-986d-11f1-b59b-39a33ce7c69c_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Phyllotopsis_nidulans_27977317401951992_0dfabf30-986d-11f1-b59b-39a33ce7c69c_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -304,5 +329,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4692/thumb.jpg"
   }
  ],
- "timestamp": "20260815-132641"
+ "timestamp": "20260815-181502"
 }
