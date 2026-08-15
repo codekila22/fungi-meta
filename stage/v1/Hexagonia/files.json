@@ -2,7 +2,7 @@
  "name": "Hexagonia",
  "zhtw": "蜂窩菌屬",
  "zhcn": "蜂窝菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Hexagonia apiaria",
@@ -23,6 +23,9 @@
    "name": "Hexagonia tenuis",
    "zhtw": "薄邊蜂窩菌",
    "zhcn": "薄边蜂窝菌",
+   "current": "Pseudofavolus tenuis",
+   "current_zhtw": "薄邊擬蜂窩菌",
+   "current_zhcn": "薄边拟蜂窝菌",
    "img": "Hexagonia_tenuis_1_CC BY-NC_江志緯.jpg"
   }
  ],

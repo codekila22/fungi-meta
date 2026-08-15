@@ -2,12 +2,15 @@
  "name": "Collema",
  "zhtw": "膠衣屬",
  "zhcn": "胶衣属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Collema fasciculare",
    "zhtw": "束孢膠衣",
    "zhcn": "束孢胶衣",
+   "current": "Gabura fascicularis",
+   "current_zhtw": "束孢擬膠衣",
+   "current_zhcn": "束孢拟胶衣",
    "img": "Collema_fasciculare_1_CC BY-NC_Hannah Wang.jpg"
   },
   {

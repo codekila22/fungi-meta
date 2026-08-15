@@ -2,7 +2,7 @@
  "name": "Beauveria",
  "zhtw": "白殭菌屬",
  "zhcn": "白僵菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Beauveria bassiana",
@@ -14,6 +14,9 @@
    "name": "Beauveria felina",
    "zhtw": "貓棒束孢白殭菌",
    "zhcn": "猫棒束孢白僵菌",
+   "current": "Amphichorda felina",
+   "current_zhtw": "貓雙弦孢",
+   "current_zhcn": "猫双弦孢",
    "img": "Beauveria_felina_0ff0cb90-a644-11ee-9d56-c31cc67f195b_1.jpg"
   },
   {

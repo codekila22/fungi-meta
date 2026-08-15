@@ -2,12 +2,15 @@
  "name": "Rhodofomitopsis",
  "zhtw": "擬紅層孔菌屬",
  "zhcn": "拟红层孔菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Rhodofomitopsis feei",
-   "zhtw": "費氏紅擬層孔菌",
-   "zhcn": "费氏红拟层孔菌",
+   "zhtw": "費氏紅擬層孔菌/費氏粉紅栓菌",
+   "zhcn": "费氏红拟层孔菌/费氏粉红栓菌",
+   "current": "Fomitopsis feei",
+   "current_zhtw": "費氏擬層孔菌",
+   "current_zhcn": "费氏拟层孔菌",
    "img": "Trametes_feei_4_CC BY-NC.jpg"
   },
   {

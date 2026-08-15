@@ -2,7 +2,7 @@
  "name": "Puccinia",
  "zhtw": "柄銹菌屬",
  "zhcn": "柄锈菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Puccinia allii",
@@ -21,6 +21,12 @@
    "zhtw": "楤木柄銹菌",
    "zhcn": "楤木柄锈菌",
    "img": "Aecidium_araliae_10_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Puccinia cf. neovelutina",
+   "zhtw": "疑似胡頹子柄銹菌",
+   "zhcn": "疑似胡颓子柄锈菌",
+   "img": "Aecidium_cf. elaeagni_82834b60-f5d0-11ef-9dba-9b6546e63e5b_1.jpg"
   },
   {
    "name": "Puccinia coronata",

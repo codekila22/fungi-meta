@@ -2,12 +2,15 @@
  "name": "Antrodiella",
  "zhtw": "小薄孔菌屬",
  "zhcn": "小薄孔菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Antrodiella gypsea",
    "zhtw": "白膏小薄孔菌",
    "zhcn": "白膏小薄孔菌",
+   "current": "Cyanotrama gypsea",
+   "current_zhtw": "白膏藍肉孔菌",
+   "current_zhcn": "白膏蓝肉孔菌",
    "img": "Antrodiella_gypsea_ebd2f690-ea53-11ed-b744-5569c322d3f3_1.jpg"
   }
  ],

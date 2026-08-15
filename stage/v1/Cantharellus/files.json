@@ -2,7 +2,7 @@
  "name": "Cantharellus",
  "zhtw": "雞油菌屬",
  "zhcn": "鸡油菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Cantharellus cibarius",
@@ -23,6 +23,9 @@
    "name": "Cantharellus cinereus",
    "zhtw": "灰色雞油菌",
    "zhcn": "灰色鸡油菌",
+   "current": "Craterellus cinereus",
+   "current_zhtw": "灰色喇叭菌",
+   "current_zhcn": "灰色喇叭菌",
    "img": "Cantharellus_cinereus_1_CC BY-NC_James Ho.jpg"
   },
   {

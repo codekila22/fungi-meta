@@ -2,7 +2,7 @@
  "name": "Oudemansiella",
  "zhtw": "小奧德蘑屬",
  "zhcn": "小奥德蘑属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Oudemansiella australis",
@@ -20,6 +20,9 @@
    "name": "Oudemansiella mucida",
    "zhtw": "黏小奧德蘑",
    "zhcn": "黏小奥德蘑",
+   "current": "Mucidula mucida",
+   "current_zhtw": "黏小奧德蘑",
+   "current_zhcn": "黏小奥德蘑",
    "img": "Oudemansiella_mucida_1_CC BY-NC_James Ho.jpg"
   },
   {

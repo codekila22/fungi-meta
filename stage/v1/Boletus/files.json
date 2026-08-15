@@ -2,7 +2,7 @@
  "name": "Boletus",
  "zhtw": "牛肝菌屬",
  "zhcn": "牛肝菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Boletus aokii",
@@ -47,6 +47,9 @@
    "name": "Boletus erythropus",
    "zhtw": "紅柄牛肝菌",
    "zhcn": "红柄牛肝菌",
+   "current": "Neoboletus erythropus",
+   "current_zhtw": "紅柄新牛肝菌",
+   "current_zhcn": "红柄新牛肝菌",
    "img": "Boletus_erythropus_4_CC BY-NC_蛾米.jpg"
   },
   {
@@ -161,6 +164,9 @@
    "name": "Boletus subvelutipes",
    "zhtw": "褐絨柄牛肝菌",
    "zhcn": "褐绒柄牛肝菌",
+   "current": "Neoboletus subvelutipes",
+   "current_zhtw": "褐絨柄新牛肝菌",
+   "current_zhcn": "褐绒柄新牛肝菌",
    "img": "Boletus_subvelutipes_c97d9c60-7af6-11ee-b319-2144852a6bad_7.jpg"
   },
   {

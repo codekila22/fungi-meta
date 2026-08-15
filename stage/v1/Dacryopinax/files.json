@@ -2,7 +2,7 @@
  "name": "Dacryopinax",
  "zhtw": "假花耳屬",
  "zhcn": "假花耳属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Dacryopinax lowyi",
@@ -18,8 +18,11 @@
   },
   {
    "name": "Dacryopinax spathularia",
-   "zhtw": "桂花耳",
-   "zhcn": "桂花耳",
+   "zhtw": "桂花耳/匙蓋假花耳",
+   "zhcn": "桂花耳/匙盖假花耳",
+   "current": "Dacrymyces spathularia",
+   "current_zhtw": "桂花耳",
+   "current_zhcn": "桂花耳",
    "img": "Dacryopinax_spathularia_1_CC BY-NC_江志緯.jpg"
   }
  ],

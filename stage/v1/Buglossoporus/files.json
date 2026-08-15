@@ -2,12 +2,15 @@
  "name": "Buglossoporus",
  "zhtw": "牛舌孔菌屬",
  "zhcn": "牛舌孔菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Buglossoporus eucalypticola",
    "zhtw": "桉牛舌孔菌",
    "zhcn": "桉牛舌孔菌",
+   "current": "Fomitopsis hartmannii",
+   "current_zhtw": "哈氏擬層孔菌",
+   "current_zhcn": "哈氏拟层孔菌",
    "img": "Buglossoporus_eucalypticola_27893516736998726_8365a9e0-93ce-11f1-b920-0340f92f6a5e_1.jpg"
   }
  ],

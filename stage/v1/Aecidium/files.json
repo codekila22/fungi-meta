@@ -2,7 +2,7 @@
  "name": "Aecidium",
  "zhtw": "銹孢銹菌屬",
  "zhcn": "锈孢锈菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Aecidium araliae",
@@ -23,6 +23,9 @@
    "name": "Aecidium cf. elaeagni",
    "zhtw": "疑似胡頹子銹孢銹菌",
    "zhcn": "疑似胡颓子锈孢锈菌",
+   "current": "Puccinia cf. neovelutina",
+   "current_zhtw": "疑似胡頹子柄銹菌",
+   "current_zhcn": "疑似胡颓子柄锈菌",
    "img": "Aecidium_cf. elaeagni_82834b60-f5d0-11ef-9dba-9b6546e63e5b_1.jpg"
   },
   {
@@ -41,6 +44,9 @@
    "name": "Aecidium mori",
    "zhtw": "桑銹孢銹菌",
    "zhcn": "桑锈孢锈菌",
+   "current": "Gymnosporangium mori",
+   "current_zhtw": "桑膠銹菌",
+   "current_zhcn": "桑胶锈菌",
    "img": "Aecidium_mori_1_CC BY-NC_向高世.jpg"
   },
   {

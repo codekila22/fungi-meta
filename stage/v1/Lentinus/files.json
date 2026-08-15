@@ -2,7 +2,7 @@
  "name": "Lentinus",
  "zhtw": "斗菇屬",
  "zhcn": "斗菇属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Lentinus arcularius",
@@ -12,8 +12,11 @@
   },
   {
    "name": "Lentinus badius",
-   "zhtw": "栗褐斗菇",
-   "zhcn": "栗褐斗菇",
+   "zhtw": "栗褐斗菇/栗褐香菇",
+   "zhcn": "栗褐斗菇/栗褐香菇",
+   "current": "Lentinellus tridentinus",
+   "current_zhtw": "栗褐小香菇",
+   "current_zhcn": "栗褐小香菇",
    "img": "Lentinus_badius_1_CC BY-NC_Angela Huang.jpg"
   },
   {

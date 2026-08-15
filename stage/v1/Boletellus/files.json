@@ -2,7 +2,7 @@
  "name": "Boletellus",
  "zhtw": "條孢牛肝菌屬",
  "zhcn": "条孢牛肝菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Boletellus ananas",
@@ -20,6 +20,9 @@
    "name": "Boletellus elatus",
    "zhtw": "高腳條孢牛肝菌",
    "zhcn": "高脚条孢牛肝菌",
+   "current": "Boletellopsis elata",
+   "current_zhtw": "高腳擬條孢牛肝菌",
+   "current_zhcn": "高脚拟条孢牛肝菌",
    "img": "Boletellus_elatus_1_CC BY-NC_林杏蓉.jpg"
   },
   {

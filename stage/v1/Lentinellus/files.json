@@ -2,7 +2,7 @@
  "name": "Lentinellus",
  "zhtw": "小香菇屬",
  "zhcn": "小香菇属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Lentinellus montanus",
@@ -15,6 +15,12 @@
    "zhtw": "小墊小香菇",
    "zhcn": "小垫小香菇",
    "img": "Lentinellus_pulvinulus_1_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "name": "Lentinellus tridentinus",
+   "zhtw": "栗褐小香菇",
+   "zhcn": "栗褐小香菇",
+   "img": "Lentinus_badius_1_CC BY-NC_Angela Huang.jpg"
   },
   {
    "name": "Lentinellus ursinus",

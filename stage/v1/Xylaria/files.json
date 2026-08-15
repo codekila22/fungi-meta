@@ -2,7 +2,7 @@
  "name": "Xylaria",
  "zhtw": "炭角菌屬",
  "zhcn": "炭角菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-123541",
  "list": [
   {
    "name": "Xylaria aff. grammica",
@@ -155,6 +155,9 @@
    "name": "Xylaria nigripes",
    "zhtw": "黑柄炭角菌",
    "zhcn": "黑柄炭角菌",
+   "current": "Podosordaria nigripes",
+   "current_zhtw": "黑柄糞殼菌",
+   "current_zhcn": "黑柄粪壳菌",
    "img": "Xylaria_nigripes_4_CC BY-NC_陳啟仁.jpg"
   },
   {
