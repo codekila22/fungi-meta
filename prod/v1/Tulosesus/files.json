@@ -2,12 +2,15 @@
  "name": "Tulosesus",
  "zhtw": "刺毛鬼傘屬",
  "zhcn": "刺毛鬼伞属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-184817",
  "list": [
   {
    "name": "Tulosesus impatiens",
-   "zhtw": "急躁刺毛鬼傘",
-   "zhcn": "急躁刺毛鬼伞",
+   "zhtw": "急躁刺毛鬼傘/急躁類鬼傘",
+   "zhcn": "急躁刺毛鬼伞/急躁类鬼伞",
+   "current": "Ephemerocybe impatiens",
+   "current_zhtw": "急躁速亡鬼傘",
+   "current_zhcn": "急躁速亡鬼伞",
    "img": "Coprinellus_impatiens_1_CC BY-NC_張惠娟.jpg"
   }
  ],

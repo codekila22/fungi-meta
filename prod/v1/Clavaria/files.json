@@ -2,7 +2,7 @@
  "name": "Clavaria",
  "zhtw": "珊瑚菌屬",
  "zhcn": "珊瑚菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-184817",
  "list": [
   {
    "name": "Clavaria acuta",
@@ -56,6 +56,9 @@
    "name": "Clavaria zollingeri",
    "zhtw": "堇紫珊瑚菌",
    "zhcn": "堇紫珊瑚菌",
+   "current": "Clavulinopsis zollingeri",
+   "current_zhtw": "堇紫擬鎖瑚菌",
+   "current_zhcn": "堇紫拟锁瑚菌",
    "img": "Clavaria_zollingeri_2_CC BY-NC_向高世.jpg"
   }
  ],

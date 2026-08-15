@@ -2,7 +2,7 @@
  "name": "Aschersonia",
  "zhtw": "座殼孢屬",
  "zhcn": "座壳孢属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-184817",
  "list": [
   {
    "name": "Aschersonia badia",
@@ -14,6 +14,9 @@
    "name": "Aschersonia cf. aleyrodis",
    "zhtw": "疑似粉虱座殼孢",
    "zhcn": "疑似粉虱座壳孢",
+   "current": "Moelleriella cf. aleyrodis",
+   "current_zhtw": "疑似粉虱莫氏座殼孢",
+   "current_zhcn": "疑似粉虱莫氏座壳孢",
    "img": "Aschersonia_cf. aleyrodis_1_CC BY-NC_陳雅芬.jpg"
   },
   {

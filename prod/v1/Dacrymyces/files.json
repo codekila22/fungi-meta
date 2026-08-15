@@ -2,7 +2,7 @@
  "name": "Dacrymyces",
  "zhtw": "花耳屬",
  "zhcn": "花耳属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-184817",
  "list": [
   {
    "name": "Dacrymyces australis",
@@ -54,6 +54,12 @@
    "current_zhtw": "澳洲花耳",
    "current_zhcn": "澳洲花耳",
    "img": "Dacrymyces_australis_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "name": "Dacrymyces spathularia",
+   "zhtw": "桂花耳",
+   "zhcn": "桂花耳",
+   "img": "Dacryopinax_spathularia_1_CC BY-NC_江志緯.jpg"
   },
   {
    "name": "Dacrymyces stillatus",

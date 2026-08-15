@@ -2,13 +2,13 @@
  "genus": "Stemonitis",
  "name": "flavogenita",
  "date": [
-  "01/01/0001"
+  "07/21/2026,27676738508676551"
  ],
  "names_zhtw": [
   "黃昉髮網黏菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/1458",
+ "url": "27676738508676551",
  "images": [
   {
    "author": "陳雅芬",
@@ -61,6 +61,38 @@
   {
    "author": "陳雅芬",
    "image_src": "Stemonitis_flavogenita_13_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitis_flavogenita_27676738508676551_7de30da0-986f-11f1-b59b-39a33ce7c69c_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitis_flavogenita_27676738508676551_7de30da0-986f-11f1-b59b-39a33ce7c69c_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitis_flavogenita_27676738508676551_7de30da0-986f-11f1-b59b-39a33ce7c69c_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitis_flavogenita_27676738508676551_7de30da0-986f-11f1-b59b-39a33ce7c69c_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitis_flavogenita_27676738508676551_7de30da0-986f-11f1-b59b-39a33ce7c69c_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitis_flavogenita_27676738508676551_7de30da0-986f-11f1-b59b-39a33ce7c69c_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitis_flavogenita_27676738508676551_7de30da0-986f-11f1-b59b-39a33ce7c69c_7.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Stemonitis_flavogenita_27676738508676551_7de30da0-986f-11f1-b59b-39a33ce7c69c_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -109,5 +141,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4128118/thumb.jpg"
   }
  ],
- "timestamp": "20260814-154012"
+ "timestamp": "20260815-184817"
 }

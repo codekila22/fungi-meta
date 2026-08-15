@@ -2,7 +2,7 @@
  "name": "Gymnosporangium",
  "zhtw": "膠銹菌屬",
  "zhcn": "胶锈菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-184817",
  "list": [
   {
    "name": "Gymnosporangium asiaticum",
@@ -30,6 +30,12 @@
    "current_zhtw": "梨膠銹菌",
    "current_zhcn": "梨胶锈菌",
    "img": "Gymnosporangium_asiaticum_1_CC BY-NC_游永滄.jpg"
+  },
+  {
+   "name": "Gymnosporangium mori",
+   "zhtw": "桑膠銹菌",
+   "zhcn": "桑胶锈菌",
+   "img": "Aecidium_mori_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Gymnosporangium niitakayamense",

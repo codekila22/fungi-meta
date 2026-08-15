@@ -2,7 +2,7 @@
  "name": "Physarum",
  "zhtw": "絨泡黏菌屬",
  "zhcn": "绒泡黏菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-184817",
  "list": [
   {
    "name": "Physarum album",
@@ -92,6 +92,9 @@
    "name": "Physarum leucopus",
    "zhtw": "白柄絨泡黏菌",
    "zhcn": "白柄绒泡黏菌",
+   "current": "Nannengaella leucopus",
+   "current_zhtw": "白柄南氏黏菌",
+   "current_zhcn": "白柄南氏黏菌",
    "img": "Physarum_leucopus_4d162200-231b-11ef-ae53-a9ee693680d0_1.jpg"
   },
   {
@@ -146,6 +149,9 @@
    "name": "Physarum plicatum",
    "zhtw": "皺褶絨泡黏菌",
    "zhcn": "皱褶绒泡黏菌",
+   "current": "Nannengaella plicata",
+   "current_zhtw": "皺褶南氏黏菌",
+   "current_zhcn": "皱褶南氏黏菌",
    "img": "Physarum_plicatum_a671e6b0-15ae-11ef-a6ef-73e7c98ed184_1.jpg"
   },
   {

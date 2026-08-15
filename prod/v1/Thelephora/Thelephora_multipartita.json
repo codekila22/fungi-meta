@@ -2,6 +2,7 @@
  "genus": "Thelephora",
  "name": "multipartita",
  "date": [
+  "08/09/2025,27975560018794397",
   "06/23/2025,9937921626318179",
   "05/12/2023,5971851702925211"
  ],
@@ -50,6 +51,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Thelephora_multipartita_b37824f0-5095-11f0-a87f-b3377e17c78f_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Thelephora_multipartita_27975560018794397_c0e516a0-97e5-11f1-9393-d5058cd5dbc6_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Thelephora_multipartita_27975560018794397_c0e516a0-97e5-11f1-9393-d5058cd5dbc6_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Thelephora_multipartita_27975560018794397_c0e516a0-97e5-11f1-9393-d5058cd5dbc6_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -78,13 +91,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -107,5 +124,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260814-154012"
+ "timestamp": "20260815-184817"
 }

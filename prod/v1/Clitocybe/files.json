@@ -2,7 +2,7 @@
  "name": "Clitocybe",
  "zhtw": "杯傘屬",
  "zhcn": "杯伞属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-184817",
  "list": [
   {
    "name": "Clitocybe fragrans",
@@ -21,8 +21,11 @@
   },
   {
    "name": "Clitocybe phyllophila",
-   "zhtw": "白杯傘",
-   "zhcn": "白杯伞",
+   "zhtw": "白杯傘/落葉杯傘",
+   "zhcn": "白杯伞/落叶杯伞",
+   "current": "Collybia phyllophila",
+   "current_zhtw": "落葉金錢菇",
+   "current_zhcn": "落叶金钱菇",
    "img": "Clitocybe_phyllophila_32710e10-eb01-11f0-bb18-cf071b81db95_1.jpg"
   },
   {

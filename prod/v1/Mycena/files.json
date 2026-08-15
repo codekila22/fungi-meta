@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-184817",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -15,8 +15,11 @@
   },
   {
    "name": "Mycena acicula",
-   "zhtw": "紅橘小菇",
-   "zhcn": "红橘小菇",
+   "zhtw": "紅橘小菇/紅頂小菇",
+   "zhcn": "红橘小菇/红顶小菇",
+   "current": "Pruinomycena acicula",
+   "current_zhtw": "紅橘粉霜小菇",
+   "current_zhcn": "红橘粉霜小菇",
    "img": "Mycena_acicula_11_CC BY-NC_Sunny Wang.jpg"
   },
   {
@@ -35,6 +38,9 @@
    "name": "Mycena aff. acicula",
    "zhtw": "紅橘小菇之相似種",
    "zhcn": "红橘小菇之相似种",
+   "current": "Pruinomycena aff. acicula",
+   "current_zhtw": "紅橘粉霜小菇之相似種",
+   "current_zhcn": "红橘粉霜小菇之相似种",
    "img": "Mycena_aff. acicula_1_CC BY-NC_陳漢欽.jpg"
   },
   {
@@ -455,6 +461,9 @@
    "name": "Mycena subcyanocephala",
    "zhtw": "近藍蓋小菇",
    "zhcn": "近蓝盖小菇",
+   "current": "Pruinomycena subcyanocephala",
+   "current_zhtw": "近藍蓋粉霜小菇",
+   "current_zhcn": "近蓝盖粉霜小菇",
    "img": "Mycena_subcyanocephala_c77834b0-8b90-11ef-8d51-fbbb1d8dc390_11.jpg"
   },
   {

@@ -1,0 +1,507 @@
+{
+ "genus": "Clavulinopsis",
+ "name": "zollingeri",
+ "date": [
+  "07/14/2026,27581150341568702",
+  "07/06/2026,27494159223601148",
+  "07/04/2025,10021746687935672",
+  "06/15/2025,10069560936487580",
+  "06/11/2025,9855991611177848",
+  "10/27/2024,8426195700824120",
+  "09/14/2024,8048614765248884",
+  "07/09/2024,7644080889035609",
+  "06/25/2024,7556626664447699",
+  "06/21/2024,7536649679778731",
+  "05/05/2024,7317386938371674",
+  "10/14/2023,6920025861441119",
+  "09/24/2023,6445898232187220",
+  "08/21/2023,6376140675829643",
+  "06/25/2023,6132061400237573",
+  "07/21/2021,4288052257971839",
+  "07/17/2021,3952063364904065",
+  "10/30/2020,3263958743714534",
+  "10/30/2020,3240329796077429",
+  "10/19/2020,3221097074667368",
+  "08/15/2020,3041928069250937",
+  "08/09/2020,2998566850253726",
+  "07/02/2020,2894676900642722",
+  "09/02/2018,1695960307181060"
+ ],
+ "names_zhtw": [
+  "堇紫擬鎖瑚菌",
+  "堇紫珊瑚菌"
+ ],
+ "names_en": [],
+ "url": "3952063364904065",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Clavaria_zollingeri_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavaria_zollingeri_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavaria_zollingeri_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavaria_zollingeri_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavaria_zollingeri_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavaria_zollingeri_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Clavaria_zollingeri_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Clavaria_zollingeri_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Clavaria_zollingeri_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clavaria_zollingeri_6_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clavaria_zollingeri_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clavaria_zollingeri_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clavaria_zollingeri_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clavaria_zollingeri_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clavaria_zollingeri_7_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Clavaria_zollingeri_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Clavaria_zollingeri_5_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Clavaria_zollingeri_6_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Clavaria_zollingeri_7_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_3bb20b70-1474-11ee-b31d-cbbae1f3fe4c_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_3bb20b70-1474-11ee-b31d-cbbae1f3fe4c_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_3bb20b70-1474-11ee-b31d-cbbae1f3fe4c_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_3bb20b70-1474-11ee-b31d-cbbae1f3fe4c_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_3bb20b70-1474-11ee-b31d-cbbae1f3fe4c_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_3bb20b70-1474-11ee-b31d-cbbae1f3fe4c_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_3bb20b70-1474-11ee-b31d-cbbae1f3fe4c_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_d7b96f50-4e48-11ee-9be2-e5f76f62f274_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_d7b96f50-4e48-11ee-9be2-e5f76f62f274_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_d7b96f50-4e48-11ee-9be2-e5f76f62f274_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_d7b96f50-4e48-11ee-9be2-e5f76f62f274_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_d7b96f50-4e48-11ee-9be2-e5f76f62f274_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_d7b96f50-4e48-11ee-9be2-e5f76f62f274_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_d7b96f50-4e48-11ee-9be2-e5f76f62f274_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clavaria_zollingeri_6bd78ed0-c282-11ee-b143-fd4e81448af3_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clavaria_zollingeri_6bd78ed0-c282-11ee-b143-fd4e81448af3_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clavaria_zollingeri_6bd78ed0-c282-11ee-b143-fd4e81448af3_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clavaria_zollingeri_6bd78ed0-c282-11ee-b143-fd4e81448af3_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clavaria_zollingeri_6bd78ed0-c282-11ee-b143-fd4e81448af3_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clavaria_zollingeri_6bd78ed0-c282-11ee-b143-fd4e81448af3_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clavaria_zollingeri_6bd78ed0-c282-11ee-b143-fd4e81448af3_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Clavaria_zollingeri_32f42ef0-0c08-11ef-b67e-1710c96b8479_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_b58b2ca0-3062-11ef-9346-0ba437e37eb9_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_b58b2ca0-3062-11ef-9346-0ba437e37eb9_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_b58b2ca0-3062-11ef-9346-0ba437e37eb9_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_350eb080-32d6-11ef-a3b3-77776aac927b_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_350eb080-32d6-11ef-a3b3-77776aac927b_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_350eb080-32d6-11ef-a3b3-77776aac927b_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_350eb080-32d6-11ef-a3b3-77776aac927b_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_350eb080-32d6-11ef-a3b3-77776aac927b_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_de54fed0-aa91-107f-8f76-27c3c5f26f6f_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_de54fed0-aa91-107f-8f76-27c3c5f26f6f_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_de54fed0-aa91-107f-8f76-27c3c5f26f6f_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_de54fed0-aa91-107f-8f76-27c3c5f26f6f_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Clavaria_zollingeri_de54fed0-aa91-107f-8f76-27c3c5f26f6f_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Clavaria_zollingeri_ccb5f830-7345-11ef-994a-e7876ae88565_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Clavaria_zollingeri_b8e58dc0-4b3f-11f0-bfb0-abeddaac209e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_aabc90c0-5947-11f0-aa4a-ef326cbed24d_8.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clavaria_zollingeri_b0ceb7f0-5fcc-11f0-bbb1-6baa1651ca69_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clavaria_zollingeri_b0ceb7f0-5fcc-11f0-bbb1-6baa1651ca69_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clavaria_zollingeri_b0ceb7f0-5fcc-11f0-bbb1-6baa1651ca69_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clavaria_zollingeri_b0ceb7f0-5fcc-11f0-bbb1-6baa1651ca69_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clavaria_zollingeri_b0ceb7f0-5fcc-11f0-bbb1-6baa1651ca69_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clavaria_zollingeri_b0ceb7f0-5fcc-11f0-bbb1-6baa1651ca69_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clavaria_zollingeri_b0ceb7f0-5fcc-11f0-bbb1-6baa1651ca69_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clavaria_zollingeri_b0ceb7f0-5fcc-11f0-bbb1-6baa1651ca69_8.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clavaria_zollingeri_b0ceb7f0-5fcc-11f0-bbb1-6baa1651ca69_9.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Clavaria_zollingeri_b0ceb7f0-5fcc-11f0-bbb1-6baa1651ca69_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_zollingeri_f439aa10-79b4-11f1-b132-ff6aeba1b5da_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Clavaria_zollingeri_27581150341568702_bc5e3420-7f69-11f1-a6ae-2d91ec182952_9.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Clavaria zollingeri",
+   "zhtw": "堇紫珊瑚菌",
+   "zhcn": "堇紫珊瑚菌"
+  }
+ ],
+ "names_zhcn": [
+  "堇紫拟锁瑚菌",
+  "堇紫珊瑚菌"
+ ],
+ "meta": {
+  "CapColors": "4288230092,4290401747,4293821166",
+  "CapDiamRangeValues": "20,100",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "coral",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "50,100",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "edible",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "堇紫擬鎖瑚菌，屬名Clavulinopsis意為「似鎖瑚菌屬（Clavulina）的」。二叉分枝叢生、枝端鈍圓，質脆，生於林地腐植層，孢子印白色。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Clavulinopsis zollingeri",
+   "cname": "violet coral",
+   "cname_zh": "堇紫珊瑚菌",
+   "url": "https://www.inaturalist.org/taxa/1672084",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/716340491/square.jpg"
+  }
+ ],
+ "timestamp": "20260815-184817"
+}

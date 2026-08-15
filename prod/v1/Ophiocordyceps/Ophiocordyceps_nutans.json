@@ -2,6 +2,7 @@
  "genus": "Ophiocordyceps",
  "name": "nutans",
  "date": [
+  "08/15/2026,27988368447513554",
   "06/16/2026,27257419767275096",
   "08/01/2025,24007626488921123",
   "07/07/2025,10050002711776736",
@@ -203,6 +204,14 @@
   {
    "author": "李采粉",
    "image_src": "Ophiocordyceps_nutans_84952700-75c1-11ef-9213-a9097d1efadf_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Ophiocordyceps_nutans_27988368447513554_94746d50-9880-11f1-b59b-39a33ce7c69c_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Ophiocordyceps_nutans_27988368447513554_94746d50-9880-11f1-b59b-39a33ce7c69c_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -231,13 +240,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,100",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "parasitic",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -252,5 +265,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/139116031/thumb.jpeg"
   }
  ],
- "timestamp": "20260814-154012"
+ "timestamp": "20260815-184817"
 }

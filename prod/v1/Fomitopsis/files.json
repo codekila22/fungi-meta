@@ -2,8 +2,26 @@
  "name": "Fomitopsis",
  "zhtw": "擬層孔菌屬",
  "zhcn": "拟层孔菌属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-184817",
  "list": [
+  {
+   "name": "Fomitopsis feei",
+   "zhtw": "費氏擬層孔菌",
+   "zhcn": "费氏拟层孔菌",
+   "img": "Trametes_feei_4_CC BY-NC.jpg"
+  },
+  {
+   "name": "Fomitopsis hartmannii",
+   "zhtw": "哈氏擬層孔菌",
+   "zhcn": "哈氏拟层孔菌",
+   "img": "Buglossoporus_eucalypticola_27893516736998726_8365a9e0-93ce-11f1-b920-0340f92f6a5e_1.jpg"
+  },
+  {
+   "name": "Fomitopsis malicola",
+   "zhtw": "蘋果擬層孔菌",
+   "zhcn": "苹果拟层孔菌",
+   "img": "Antrodia_malicola_0c894330-66fc-11f1-8097-490244077f1a_1.jpg"
+  },
   {
    "name": "Fomitopsis officinalis",
    "zhtw": "藥用擬層孔菌",

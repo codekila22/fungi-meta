@@ -2,7 +2,7 @@
  "name": "Coprinellus",
  "zhtw": "小鬼傘屬",
  "zhcn": "小鬼伞属",
- "timestamp": "20260814-154012",
+ "timestamp": "20260815-184817",
  "list": [
   {
    "name": "Coprinellus aureogranulatus",
@@ -38,9 +38,9 @@
    "name": "Coprinellus impatiens",
    "zhtw": "急躁小鬼傘",
    "zhcn": "急躁小鬼伞",
-   "current": "Tulosesus impatiens",
-   "current_zhtw": "急躁刺毛鬼傘",
-   "current_zhcn": "急躁刺毛鬼伞",
+   "current": "Ephemerocybe impatiens",
+   "current_zhtw": "急躁速亡鬼傘",
+   "current_zhcn": "急躁速亡鬼伞",
    "img": "Coprinellus_impatiens_1_CC BY-NC_張惠娟.jpg"
   },
   {
@@ -63,8 +63,11 @@
   },
   {
    "name": "Coprinellus velatopruinatus",
-   "zhtw": "霜覆小鬼傘",
-   "zhcn": "霜覆小鬼伞",
+   "zhtw": "霜覆小鬼傘/霜覆類鬼傘",
+   "zhcn": "霜覆小鬼伞/霜覆类鬼伞",
+   "current": "Ephemerocybe velatopruinata",
+   "current_zhtw": "霜覆速亡鬼傘",
+   "current_zhcn": "霜覆速亡鬼伞",
    "img": "Coprinellus_velatopruinatus_1_CC BY-NC_Sunny Wang.jpg"
   },
   {

@@ -1,0 +1,140 @@
+{
+ "genus": "Ephemerocybe",
+ "name": "impatiens",
+ "synonym": [
+  {
+   "name": "Coprinellus impatiens",
+   "zhtw": "急躁小鬼傘",
+   "zhcn": "急躁小鬼伞"
+  },
+  {
+   "name": "Tulosesus impatiens",
+   "zhtw": "急躁刺毛鬼傘/急躁類鬼傘",
+   "zhcn": "急躁刺毛鬼伞/急躁类鬼伞"
+  }
+ ],
+ "date": [
+  "08/22/2021,4059531597490574",
+  "08/21/2021,4056283434482057",
+  "07/26/2021,3979032208873847"
+ ],
+ "names_zhtw": [
+  "急躁速亡鬼傘",
+  "急躁刺毛鬼傘"
+ ],
+ "names_en": [],
+ "url": "3979032208873847",
+ "images": [
+  {
+   "author": "張惠娟",
+   "image_src": "Coprinellus_impatiens_1_CC BY-NC_張惠娟.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_impatiens_1_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_impatiens_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_impatiens_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_impatiens_4_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_impatiens_5_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_impatiens_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_impatiens_7_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_impatiens_8_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_impatiens_9_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Coprinellus_impatiens_10_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "張惠娟",
+   "image_src": "Coprinellus_impatiens_2_CC BY-NC_張惠娟.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "急躁速亡鬼伞",
+  "急躁刺毛鬼伞"
+ ],
+ "meta": {
+  "CapColors": "4294309365,4292072403",
+  "CapDiamRangeValues": "20,40",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "2,4",
+  "StalkLengthRangeValuess": "70,100",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "急躁速亡鬼傘，屬名Ephemerocybe由ephemeros（朝生暮死的）與kybe（頭、蓋）組成，指其子實體極為短命；種小名impatiens意為「不耐的、急躁的」。蓋幼時卵形、後圓錐至凸形而終平展、淡皮革色、具放射狀溝紋，菌褶初白後轉褐至近黑，柄白色、極細長而近等粗、基部略膨，生於闊葉林落葉層。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Ephemerocybe impatiens",
+   "cname": "",
+   "cname_zh": "急躁類鬼傘",
+   "url": "https://www.inaturalist.org/taxa/1626059",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11159838/square.jpg"
+  },
+  {
+   "name": "Ephemerocybe sp. 'impatiens-PNW01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1690251",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/347905114/square.jpeg"
+  },
+  {
+   "name": "Ephemerocybe sp. 'impatiens-CA01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1678159",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/434347775/square.jpeg"
+  }
+ ],
+ "timestamp": "20260815-184817"
+}

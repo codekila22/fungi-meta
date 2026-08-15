@@ -2,6 +2,7 @@
  "genus": "Tubifera",
  "name": "microsperma",
  "date": [
+  "08/03/2026,27920210537662679",
   "07/06/2026,27489259100757827",
   "06/23/2026,27358615707155501",
   "06/21/2024,7543518659091833",
@@ -169,6 +170,34 @@
   {
    "author": "黃金興",
    "image_src": "Tubifera_microsperma_21791de0-713f-11f1-8684-9f862e5ea078_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_microsperma_27920210537662679_90f48e00-9883-11f1-b59b-39a33ce7c69c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_microsperma_27920210537662679_90f48e00-9883-11f1-b59b-39a33ce7c69c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_microsperma_27920210537662679_90f48e00-9883-11f1-b59b-39a33ce7c69c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_microsperma_27920210537662679_90f48e00-9883-11f1-b59b-39a33ce7c69c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_microsperma_27920210537662679_90f48e00-9883-11f1-b59b-39a33ce7c69c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_microsperma_27920210537662679_90f48e00-9883-11f1-b59b-39a33ce7c69c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_microsperma_27920210537662679_90f48e00-9883-11f1-b59b-39a33ce7c69c_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -196,13 +225,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -217,5 +251,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4127182/thumb.jpg"
   }
  ],
- "timestamp": "20260814-154012"
+ "timestamp": "20260815-184817"
 }

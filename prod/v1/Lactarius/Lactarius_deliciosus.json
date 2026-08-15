@@ -155,7 +155,7 @@
   "Edible": "choice",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Lactarius akahatsu,,",
+  "LookAlikes": "Lactarius hatsudake,,",
   "Note": "松乳菇，屬名Lactarius意為「產乳的」；種小名deliciosus意為「美味的」。蓋橙色而具同心環紋、中央常下凹；菌褶延生、橙色；傷後湧出橙色乳汁、受傷處轉青綠色；與松樹共生為外生菌根菌。喜愛生長在松樹旁。受傷部位會呈現青綠色。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "紅汁乳菇,,",
@@ -226,5 +226,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260814-154012"
+ "timestamp": "20260815-184817"
 }
