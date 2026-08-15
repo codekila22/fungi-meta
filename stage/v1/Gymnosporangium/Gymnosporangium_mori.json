@@ -137,7 +137,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "桑銹孢銹菌，屬名Aecidium為銹菌之銹孢子器階段所立之形式屬；種小名mori意為「桑屬（Morus）的」，指其寄主。於桑之葉背形成杯狀之銹孢子器（aecium）、致葉面病斑，為一銹菌。"
+  "Note": "桑膠銹菌，屬名Gymnosporangium由gymnos（裸）與sporangion（孢子囊）組成；種小名mori意為「桑屬（Morus）的」，指其寄主。本菌僅見銹孢子器世代，2024年經分子親緣分析自形式屬銹孢銹菌屬Aecidium移入本屬。於桑之葉背形成杯狀之銹孢子器（aecium）、致葉面病斑；亞洲之桑屬與構屬（Broussonetia）植物上均有紀錄。"
  },
  "inaturalist": [
   {
@@ -148,5 +148,5 @@
    "src": "https://static.inaturalist.org/photos/393153534/square.jpeg"
   }
  ],
- "timestamp": "20260815-123541"
+ "timestamp": "20260815-132641"
 }
