@@ -2,6 +2,7 @@
  "genus": "Syzygites",
  "name": "megalocarpus",
  "date": [
+  "08/06/2026,27992442443772821",
   "07/16/2026,27613339695016433",
   "08/23/2023,6332692890174422",
   "07/02/2023,6176346945809018",
@@ -84,6 +85,14 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Syzygites_megalocarpus_27613339695016433_e7d34320-81b2-11f1-bc1c-03cdbdc6f262_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Syzygites_megalocarpus_27992442443772821_3f491a40-9968-11f1-afd7-afcf28d2627f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Syzygites_megalocarpus_27992442443772821_3f491a40-9968-11f1-afd7-afcf28d2627f_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -111,13 +120,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "parasitic",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -132,5 +146,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21933263/thumb.jpg"
   }
  ],
- "timestamp": "20260816-192629"
+ "timestamp": "20260816-195131"
 }
