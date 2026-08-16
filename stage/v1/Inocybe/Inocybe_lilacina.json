@@ -183,20 +183,47 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Inocybe geophylla,,",
-  "Note": "",
+  "Note": "淡紫絲蓋傘，種小名lilacina意為「淡紫丁香色的」。蓋絲絹狀、圓錐後平展而常留尖乳突、紫丁香色而老熟自中央褪為赭褐；菌褶彎生、初灰白後轉黏土褐；柄淡紫而基部近白，幼時具白色絲膜；外生菌根生於林地。與土味絲蓋傘之別僅在色澤，褪色後極易混淆。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "土味絲蓋傘,,",
   "la_zhcn": "土味丝盖伞,,"
  },
- "timestamp": "20260816-181959"
+ "inaturalist": [
+  {
+   "name": "Inocybe lilacina",
+   "cname": "Lilac Fibrecap",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1288764",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13390511/square.jpg"
+  },
+  {
+   "name": "Inocybe sp. 'lilacina-PNW02'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1691869",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/591048105/square.jpg"
+  },
+  {
+   "name": "Inocybe sp. 'lilacina-PNW10'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1691870",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260816-192629"
 }
