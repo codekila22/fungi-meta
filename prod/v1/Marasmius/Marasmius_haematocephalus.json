@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "haematocephalus",
  "date": [
+  "08/15/2026,28001757879507944",
   "06/17/2026,27421813134169091",
   "06/12/2026,27187837650899975",
   "04/08/2026,26358600167157065",
@@ -482,6 +483,46 @@
   {
    "author": "江志緯",
    "image_src": "Marasmius_haematocephalus_4ce43e50-74e7-11f1-a5ff-1b0cc88a8eef_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -510,15 +551,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "22,62",
   "HeightRangeValuess": "",
-  "Rareness": "occacional",
-  "Elevation": "low",
+  "Rareness": "common",
+  "Elevation": "low,mid",
   "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "debris,leaves",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -548,5 +591,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260815-184817"
+ "timestamp": "20260816-195131"
 }

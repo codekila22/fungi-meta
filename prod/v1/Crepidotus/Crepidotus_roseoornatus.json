@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "roseoornatus",
  "date": [
+  "08/15/2026,27991463340537398",
   "04/22/2026,26513454311671649",
   "09/12/2025,24437016265982141",
   "06/12/2025,9850979535012389",
@@ -232,13 +233,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Crepidotus boninensis,,",
@@ -247,5 +252,5 @@
   "la_zhtw": "小笠原靴耳,,",
   "la_zhcn": "小笠原靴耳,,"
  },
- "timestamp": "20260815-184817"
+ "timestamp": "20260816-195131"
 }
