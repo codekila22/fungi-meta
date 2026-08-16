@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "lignyotus var. marginatus",
  "date": [
+  "08/05/2026,27992337490449983",
   "07/13/2026,9843924675717875",
   "06/10/2025,9843924675717875",
   "09/19/2023,6431839903593053"
@@ -91,6 +92,18 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_lignyotus var. marginatus_9843924675717875_71da5c40-809e-11f1-8b5e-3b9b042f3c40_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_lignyotus var. marginatus_27992337490449983_27561540-9937-11f1-afd7-afcf28d2627f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_lignyotus var. marginatus_27992337490449983_27561540-9937-11f1-afd7-afcf28d2627f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactarius_lignyotus var. marginatus_27992337490449983_27561540-9937-11f1-afd7-afcf28d2627f_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,15 +132,17 @@
   "StalkDiamRangeValuess": "5,15",
   "StalkLengthRangeValuess": "40,100",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "mid",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Lactarius lignyotus,,",
@@ -145,5 +160,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260815-184817"
+ "timestamp": "20260816-181959"
 }

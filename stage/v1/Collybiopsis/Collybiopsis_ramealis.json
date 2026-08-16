@@ -2,6 +2,7 @@
  "genus": "Collybiopsis",
  "name": "ramealis",
  "date": [
+  "08/15/2026,27991469257203473",
   "07/20/2026,27685392997811102",
   "10/31/2025,24876450202038743",
   "10/29/2025,24830621243288306",
@@ -308,6 +309,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Collybiopsis_ramealis_27685392997811102_81782e00-8726-11f1-b6f2-838219972457_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Collybiopsis_ramealis_27991469257203473_e7815b40-98ab-11f1-b38b-f1b66f9fc19b_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Collybiopsis_ramealis_27991469257203473_e7815b40-98ab-11f1-b38b-f1b66f9fc19b_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Collybiopsis_ramealis_27991469257203473_e7815b40-98ab-11f1-b38b-f1b66f9fc19b_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Collybiopsis_ramealis_27991469257203473_e7815b40-98ab-11f1-b38b-f1b66f9fc19b_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Collybiopsis_ramealis_27991469257203473_e7815b40-98ab-11f1-b38b-f1b66f9fc19b_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Collybiopsis_ramealis_27991469257203473_e7815b40-98ab-11f1-b38b-f1b66f9fc19b_6.jpg"
   }
  ],
  "synonym": [
@@ -343,13 +368,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "5,10",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -365,5 +395,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/468289098/square.jpeg"
   }
  ],
- "timestamp": "20260815-184817"
+ "timestamp": "20260816-181959"
 }
