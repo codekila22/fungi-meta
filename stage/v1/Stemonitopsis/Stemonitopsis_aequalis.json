@@ -2,6 +2,7 @@
  "genus": "Stemonitopsis",
  "name": "aequalis",
  "date": [
+  "08/04/2026,28015606638123068",
   "07/08/2017,1253351844775244"
  ],
  "names_zhtw": [
@@ -33,6 +34,50 @@
   {
    "author": "陳雅芬",
    "image_src": "Stemonitopsis_aequalis_6_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Stemonitopsis_aequalis_28015606638123068_48573d10-9a3f-11f1-bfc8-dff6a4899418_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -60,13 +105,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -81,5 +131,5 @@
    "src": "https://static.inaturalist.org/photos/255671094/thumb.jpeg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260818-081909"
 }

@@ -2,6 +2,7 @@
  "genus": "Trichoderma",
  "name": "viride",
  "date": [
+  "08/16/2026,28004356219248110",
   "07/02/2026,27454805284203209",
   "04/07/2026,26353374671012948",
   "12/07/2025,25280665414950551",
@@ -200,6 +201,10 @@
   {
    "author": "江志緯",
    "image_src": "Trichoderma_viride_00d28760-3419-11f1-b3ea-2792ecee302d_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trichoderma_viride_28004356219248110_db2cbda0-9a11-11f1-bfc8-dff6a4899418_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -228,13 +233,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hypocrea rufa,,",
@@ -251,5 +260,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/19630876/thumb.jpg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260818-081909"
 }

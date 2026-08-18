@@ -2,6 +2,7 @@
  "genus": "Lentinus",
  "name": "squarrosulus",
  "date": [
+  "08/16/2026,28004296395920759",
   "07/31/2026,27791544033862664",
   "06/21/2026,27322695704080835",
   "07/15/2025,https://www.facebook.com/bian.mei/videos/1280328753671931/?idorvanity=429770557133381",
@@ -336,6 +337,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Lentinus_squarrosulus_86a527e0-6e47-11f1-89c7-7be5f67a70f5_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinus_squarrosulus_28004296395920759_9aa21460-9976-11f1-abba-4d570d823012_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinus_squarrosulus_28004296395920759_9aa21460-9976-11f1-abba-4d570d823012_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinus_squarrosulus_28004296395920759_9aa21460-9976-11f1-abba-4d570d823012_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinus_squarrosulus_28004296395920759_9aa21460-9976-11f1-abba-4d570d823012_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinus_squarrosulus_28004296395920759_9aa21460-9976-11f1-abba-4d570d823012_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinus_squarrosulus_28004296395920759_9aa21460-9976-11f1-abba-4d570d823012_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinus_squarrosulus_28004296395920759_9aa21460-9976-11f1-abba-4d570d823012_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinus_squarrosulus_28004296395920759_9aa21460-9976-11f1-abba-4d570d823012_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lentinus_squarrosulus_28004296395920759_9aa21460-9976-11f1-abba-4d570d823012_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -371,9 +408,11 @@
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "yes",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -389,5 +428,5 @@
    "src": "https://static.inaturalist.org/photos/102975356/thumb.jpeg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260818-081909"
 }

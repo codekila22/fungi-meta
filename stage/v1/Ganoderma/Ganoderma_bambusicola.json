@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "bambusicola",
  "date": [
+  "08/16/2026,28003451546005244",
   "06/19/2026,27284555144561558",
   "07/12/2025,10083404711769869",
   "05/31/2025,9779386328838377",
@@ -286,6 +287,10 @@
   {
    "author": "吳湯姆",
    "image_src": "Ganoderma_bambusicola_bf03ee30-6c2d-11f1-89ed-a3e8900bac08_7.jpg"
+  },
+  {
+   "author": "游永滄",
+   "image_src": "Ganoderma_bambusicola_28003451546005244_e30091f0-9a07-11f1-bfc8-dff6a4899418_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -314,20 +319,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "bamboo",
+  "NearHome": "yes",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "medicinal",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "竹生靈芝，屬名Ganoderma意為「光亮之皮」，指其漆亮之蓋面；種小名bambusicola意為「生於竹的」，指其專生於竹之習性。子實體木栓質、具柄，蓋面紅褐色而具漆狀光澤與環紋；孔面初白後轉褐；生於枯竹近基部與竹頭上。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260816-195131"
+ "timestamp": "20260818-081909"
 }

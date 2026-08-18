@@ -431,13 +431,15 @@
   "HeightRangeValuess": "",
   "Rareness": "common",
   "Elevation": "low",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "meadow,ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "yes",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -453,5 +455,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245992823/thumb.jpg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260818-081909"
 }

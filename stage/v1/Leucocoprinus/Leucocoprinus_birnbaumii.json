@@ -410,6 +410,7 @@
   "HeightRangeValuess": "",
   "Rareness": "common",
   "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood,ground,debris",
@@ -417,6 +418,7 @@
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "not-edible,toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -446,5 +448,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260818-081909"
 }

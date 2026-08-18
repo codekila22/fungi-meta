@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "ura",
  "date": [
+  "08/17/2026,28016519704698428",
   "07/13/2025,10090534511056889",
   "08/22/2024,7893413194102376",
   "06/03/2024,7449399698503730"
@@ -71,6 +72,30 @@
   {
    "author": "徐秀團",
    "image_src": "Mycena_ura_177d63b0-5fdd-11f0-b49f-45831621e5b0_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_ura_28016519704698428_0df7a140-9a36-11f1-bfc8-dff6a4899418_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_ura_28016519704698428_0df7a140-9a36-11f1-bfc8-dff6a4899418_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_ura_28016519704698428_0df7a140-9a36-11f1-bfc8-dff6a4899418_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_ura_28016519704698428_0df7a140-9a36-11f1-bfc8-dff6a4899418_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_ura_28016519704698428_0df7a140-9a36-11f1-bfc8-dff6a4899418_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_ura_28016519704698428_0df7a140-9a36-11f1-bfc8-dff6a4899418_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -99,15 +124,17 @@
   "StalkDiamRangeValuess": "0,1",
   "StalkLengthRangeValuess": "20,40",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "low",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
-  "GrowthEnv": "debris",
+  "GrowthEnv": "debris,leaves",
+  "NearHome": "",
   "Bruising": "red",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Mycena aff. ura,,",
@@ -125,5 +152,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/34079341/thumb.jpeg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260818-081909"
 }

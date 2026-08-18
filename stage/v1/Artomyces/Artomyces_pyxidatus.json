@@ -2,6 +2,7 @@
  "genus": "Artomyces",
  "name": "pyxidatus",
  "date": [
+  "08/16/2026,28005108282506237",
   "07/28/2026,27767289879621413",
   "06/19/2026,27619480721068997",
   "06/10/2026,27524821377201599",
@@ -357,6 +358,14 @@
   {
    "author": "吳湯姆",
    "image_src": "Artomyces_pyxidatus_27767289879621413_b8367ee0-8b5b-11f1-b510-09488ad17d92_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Artomyces_pyxidatus_28005108282506237_66d85b20-9a12-11f1-bfc8-dff6a4899418_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Artomyces_pyxidatus_28005108282506237_66d85b20-9a12-11f1-bfc8-dff6a4899418_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -387,13 +396,15 @@
   "HeightRangeValuess": "30,130",
   "Rareness": "common",
   "Elevation": "low,mid",
-  "Tropical": "",
-  "Seasons": "spring,summer,autumn",
-  "GrowthType": "",
+  "Tropical": "no",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "peppery",
   "LookAlikes": "Artomyces colensoi,,",
@@ -411,5 +422,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24343731/thumb.jpeg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260818-081909"
 }

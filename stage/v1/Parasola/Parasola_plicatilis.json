@@ -2,6 +2,7 @@
  "genus": "Parasola",
  "name": "plicatilis",
  "date": [
+  "08/16/2026,28011457055204693",
   "05/31/2026,27020589220958153",
   "06/12/2025,9850020408441635",
   "06/02/2024,7443609452416088",
@@ -168,6 +169,34 @@
   {
    "author": "黃金興",
    "image_src": "Parasola_plicatilis_3f99faa0-6308-11f1-83b2-a1dd343f431f_9.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_plicatilis_28011457055204693_56e41e50-9a14-11f1-bfc8-dff6a4899418_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_plicatilis_28011457055204693_56e41e50-9a14-11f1-bfc8-dff6a4899418_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_plicatilis_28011457055204693_56e41e50-9a14-11f1-bfc8-dff6a4899418_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_plicatilis_28011457055204693_56e41e50-9a14-11f1-bfc8-dff6a4899418_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_plicatilis_28011457055204693_56e41e50-9a14-11f1-bfc8-dff6a4899418_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_plicatilis_28011457055204693_56e41e50-9a14-11f1-bfc8-dff6a4899418_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Parasola_plicatilis_28011457055204693_56e41e50-9a14-11f1-bfc8-dff6a4899418_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -196,13 +225,17 @@
   "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "35,100",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground,meadow,debris",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "yes",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Parasola cf. crataegi,,",
@@ -227,5 +260,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260818-081909"
 }

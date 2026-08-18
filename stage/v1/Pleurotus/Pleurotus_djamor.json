@@ -2,6 +2,7 @@
  "genus": "Pleurotus",
  "name": "djamor",
  "date": [
+  "08/17/2026,28012442475106151",
   "12/06/2025,25170430329307394",
   "04/28/2025,9500596220050724",
   "04/27/2025,9482310141879332",
@@ -192,6 +193,58 @@
   {
    "author": "徐秀團",
    "image_src": "Pleurotus_djamor_dfb8d330-d294-11f0-9ad9-019ae2ac4af9_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_4.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_6.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_7.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_8.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_9.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_10.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_11.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_12.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Pleurotus_djamor_28012442475106151_3269f650-9a12-11f1-bfc8-dff6a4899418_13.jpg"
   }
  ],
  "synonym": [
@@ -227,10 +280,13 @@
   "StalkDiamRangeValuess": "3,15",
   "StalkLengthRangeValuess": "5,20",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "spring,autumn,winter",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
@@ -271,5 +327,5 @@
    "src": "https://static.inaturalist.org/photos/127650465/thumb.jpg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260818-081909"
 }
