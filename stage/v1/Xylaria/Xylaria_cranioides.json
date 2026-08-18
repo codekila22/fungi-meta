@@ -2,6 +2,7 @@
  "genus": "Xylaria",
  "name": "cranioides",
  "date": [
+  "08/06/2026,28015465164803882",
   "12/03/2023,6766434793466894",
   "07/29/2023,6666668120110229",
   "07/12/2023,6187027688074277",
@@ -160,6 +161,34 @@
   {
    "author": "江志緯",
    "image_src": "Xylaria_cranioides_1818f3b0-9ee2-11ee-ba3c-0f19446d2194_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cranioides_28015465164803882_e7ec1db0-9a9d-11f1-a76e-b5ccd1e08f10_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cranioides_28015465164803882_e7ec1db0-9a9d-11f1-a76e-b5ccd1e08f10_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cranioides_28015465164803882_e7ec1db0-9a9d-11f1-a76e-b5ccd1e08f10_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cranioides_28015465164803882_e7ec1db0-9a9d-11f1-a76e-b5ccd1e08f10_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cranioides_28015465164803882_e7ec1db0-9a9d-11f1-a76e-b5ccd1e08f10_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cranioides_28015465164803882_e7ec1db0-9a9d-11f1-a76e-b5ccd1e08f10_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_cranioides_28015465164803882_e7ec1db0-9a9d-11f1-a76e-b5ccd1e08f10_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -210,5 +239,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/247350320/thumb.jpg"
   }
  ],
- "timestamp": "20260818-081909"
+ "timestamp": "20260818-085826"
 }

@@ -2,7 +2,7 @@
  "name": "Entoloma",
  "zhtw": "粉褶菌屬",
  "zhcn": "粉褶菌属",
- "timestamp": "20260818-081909",
+ "timestamp": "20260818-085826",
  "list": [
   {
    "name": "Entoloma aff. perumbilicatum",
@@ -14,6 +14,9 @@
    "name": "Entoloma aff. quadratum",
    "zhtw": "鮭橘粉褶菌",
    "zhcn": "鲑橘粉褶菌",
+   "current": "Entoloma kermesinum",
+   "current_zhtw": "洋紅粉褶菌",
+   "current_zhcn": "洋红粉褶菌",
    "img": "Entoloma_aff. quadratum_1_CC BY-NC_柯文俊.jpg"
   },
   {
@@ -120,6 +123,12 @@
    "zhtw": "寡味粉褶菌(暫名)",
    "zhcn": "寡味粉褶菌(暂名)",
    "img": "Entoloma_hebes_4a9ee6c0-ac9f-11ef-8d25-4fba1369a7c7_1.jpg"
+  },
+  {
+   "name": "Entoloma kermesinum",
+   "zhtw": "洋紅粉褶菌",
+   "zhcn": "洋红粉褶菌",
+   "img": "Entoloma_aff. quadratum_1_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Entoloma kujyuense",
