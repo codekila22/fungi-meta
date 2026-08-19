@@ -2,6 +2,7 @@
  "genus": "Laccaria",
  "name": "vinaceoavellanea",
  "date": [
+  "08/07/2026,28037720525911679",
   "08/11/2025,24101629502854154",
   "08/21/2024,7906910472752648",
   "04/10/2024,7203370629773306",
@@ -226,6 +227,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Laccaria_vinaceoavellanea_da2dd3a0-7b4d-11f0-82e5-db829d3cb073_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Laccaria_vinaceoavellanea_28037720525911679_d7e00de0-9b75-11f1-9a67-4f01e6d27505_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Laccaria_vinaceoavellanea_28037720525911679_d7e00de0-9b75-11f1-9a67-4f01e6d27505_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Laccaria_vinaceoavellanea_28037720525911679_d7e00de0-9b75-11f1-9a67-4f01e6d27505_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Laccaria_vinaceoavellanea_28037720525911679_d7e00de0-9b75-11f1-9a67-4f01e6d27505_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Laccaria_vinaceoavellanea_28037720525911679_d7e00de0-9b75-11f1-9a67-4f01e6d27505_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Laccaria_vinaceoavellanea_28037720525911679_d7e00de0-9b75-11f1-9a67-4f01e6d27505_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -233,7 +258,7 @@
  ],
  "meta": {
   "CapColors": "4294303411,4291605388",
-  "CapDiamRangeValues": "40,60",
+  "CapDiamRangeValues": "40,100",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -260,13 +285,15 @@
   "Seasons": "",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "灰酒紅蠟蘑，酒褐色蠟蘑，帽凸至平中凹肉桂粉褐、菌褶粉褐稀疏，柄纖維質同色，闊葉林地。",
+  "Note": "灰酒紅蠟蘑是一種中大型蠟蘑，帽凸至平中凹肉桂粉褐、菌褶粉褐稀疏，柄纖維質同色，闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -278,5 +305,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/46460711/thumb.jpg"
   }
  ],
- "timestamp": "20260819-095733"
+ "timestamp": "20260819-184909"
 }

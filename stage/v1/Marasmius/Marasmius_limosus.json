@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "limosus",
  "date": [
+  "08/18/2026,28029359353414463",
   "07/30/2026,27910214078662325",
   "08/01/2025,24007702595580179",
   "08/10/2023,6281255845318127"
@@ -99,6 +100,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Marasmius_limosus_27910214078662325_b4bd3d10-9463-11f1-8050-ddec5645ce23_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_limosus_28029359353414463_941412b0-9b92-11f1-9a67-4f01e6d27505_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_limosus_28029359353414463_941412b0-9b92-11f1-9a67-4f01e6d27505_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_limosus_28029359353414463_941412b0-9b92-11f1-9a67-4f01e6d27505_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_limosus_28029359353414463_941412b0-9b92-11f1-9a67-4f01e6d27505_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_limosus_28029359353414463_941412b0-9b92-11f1-9a67-4f01e6d27505_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_limosus_28029359353414463_941412b0-9b92-11f1-9a67-4f01e6d27505_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -153,5 +178,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/235382353/thumb.jpg"
   }
  ],
- "timestamp": "20260819-095733"
+ "timestamp": "20260819-184909"
 }
