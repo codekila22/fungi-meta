@@ -239,7 +239,7 @@
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "NearHome": "",
+  "NearHome": "yes",
   "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
@@ -260,5 +260,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/19630876/thumb.jpg"
   }
  ],
- "timestamp": "20260818-085826"
+ "timestamp": "20260819-095733"
 }

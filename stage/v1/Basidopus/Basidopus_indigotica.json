@@ -2,6 +2,7 @@
  "genus": "Basidopus",
  "name": "indigotica",
  "date": [
+  "08/16/2026,28026130453737353",
   "01/29/2026,25663431813340574",
   "01/29/2026,25663431813340574",
   "10/31/2025,24859148603768903",
@@ -385,6 +386,22 @@
   {
    "author": "陳雅芬",
    "image_src": "Mycena_indigotica_57c55980-fe77-11f0-97a0-7b652e6c454b_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Basidopus_indigotica_28026130453737353_93f7e1c0-9ada-11f1-a587-07ac940d3722_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Basidopus_indigotica_28026130453737353_93f7e1c0-9ada-11f1-a587-07ac940d3722_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Basidopus_indigotica_28026130453737353_93f7e1c0-9ada-11f1-a587-07ac940d3722_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Basidopus_indigotica_28026130453737353_93f7e1c0-9ada-11f1-a587-07ac940d3722_4.jpg"
   }
  ],
  "synonym": [
@@ -420,13 +437,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
-  "GrowthEnv": "wood",
+  "GrowthEnv": "leaves",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -442,5 +463,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/313858454/thumb.jpg"
   }
  ],
- "timestamp": "20260818-085826"
+ "timestamp": "20260819-095733"
 }

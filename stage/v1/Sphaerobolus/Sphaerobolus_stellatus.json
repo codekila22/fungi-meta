@@ -2,6 +2,7 @@
  "genus": "Sphaerobolus",
  "name": "stellatus",
  "date": [
+  "08/16/2026,28026130453737353",
   "08/06/2026,27865266029823797",
   "08/03/2026,27824825340534533",
   "08/02/2026,27812352535115147",
@@ -238,6 +239,14 @@
   {
    "author": "陳中城",
    "image_src": "Sphaerobolus_stellatus_27824825340534533_2adac640-8f12-11f1-9bd4-97f2e44ed3d2_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Sphaerobolus_stellatus_28026130453737353_613b99c0-9ada-11f1-a587-07ac940d3722_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Sphaerobolus_stellatus_28026130453737353_613b99c0-9ada-11f1-a587-07ac940d3722_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -290,5 +299,5 @@
    "src": "https://static.inaturalist.org/photos/60104007/thumb.jpg"
   }
  ],
- "timestamp": "20260818-085826"
+ "timestamp": "20260819-095733"
 }

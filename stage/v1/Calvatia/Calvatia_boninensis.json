@@ -2,6 +2,7 @@
  "genus": "Calvatia",
  "name": "boninensis",
  "date": [
+  "08/17/2026,28028164190200646",
   "10/31/2025,24847765848240512",
   "05/03/2024,7281453028631732",
   "04/28/2024,7281453028631732",
@@ -137,6 +138,38 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Calvatia_boninensis_9cfa8730-b7c5-11f0-b642-e38adf4043b2_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28028164190200646_237758b0-9add-11f1-a587-07ac940d3722_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28028164190200646_237758b0-9add-11f1-a587-07ac940d3722_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28028164190200646_237758b0-9add-11f1-a587-07ac940d3722_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28028164190200646_237758b0-9add-11f1-a587-07ac940d3722_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28028164190200646_237758b0-9add-11f1-a587-07ac940d3722_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28028164190200646_237758b0-9add-11f1-a587-07ac940d3722_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28028164190200646_237758b0-9add-11f1-a587-07ac940d3722_7.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28028164190200646_237758b0-9add-11f1-a587-07ac940d3722_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -165,13 +198,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "40,120",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -187,5 +224,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155107439/thumb.jpg"
   }
  ],
- "timestamp": "20260818-085826"
+ "timestamp": "20260819-095733"
 }

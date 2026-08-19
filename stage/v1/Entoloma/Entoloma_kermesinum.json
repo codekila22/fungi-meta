@@ -2,10 +2,13 @@
  "genus": "Entoloma",
  "name": "kermesinum",
  "date": [
+  "08/13/2026,28013803904970008",
   "08/02/2026,27816893297994404",
   "07/30/2026,27793182943698773",
+  "07/19/2026,28030218609995204",
   "10/13/2024,8327051517405206",
   "08/27/2023,6339296802847364",
+  "09/06/2020,3082558555187888",
   "07/27/2020,2962372133873198",
   "07/27/2017,1267420336701728"
  ],
@@ -38,10 +41,6 @@
   {
    "author": "柯文俊",
    "image_src": "Entoloma_aff. quadratum_6_CC BY-NC_柯文俊.jpg"
-  },
-  {
-   "author": "柯文俊",
-   "image_src": "Entoloma_aff. quadratum_7_CC BY-NC_柯文俊.jpg"
   },
   {
    "author": "柯文俊",
@@ -110,6 +109,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Entoloma_aff. quadratum_27816893297994404_14dbdd30-8eee-11f1-9bd4-97f2e44ed3d2_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_kermesinum_28013803904970008_9aea3b10-9aa1-11f1-a76e-b5ccd1e08f10_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_kermesinum_28013803904970008_9aea3b10-9aa1-11f1-a76e-b5ccd1e08f10_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_kermesinum_28013803904970008_9aea3b10-9aa1-11f1-a76e-b5ccd1e08f10_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_kermesinum_28013803904970008_9aea3b10-9aa1-11f1-a76e-b5ccd1e08f10_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_kermesinum_28013803904970008_9aea3b10-9aa1-11f1-a76e-b5ccd1e08f10_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Entoloma_kermesinum_28013803904970008_9aea3b10-9aa1-11f1-a76e-b5ccd1e08f10_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Entoloma_kermesinum_3082558555187888_08bc8fe0-9aa6-11f1-a76e-b5ccd1e08f10_1.jpg"
   }
  ],
  "synonym": [
@@ -151,13 +178,15 @@
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Entoloma quadratum,,",
-  "Note": "鮭橘粉褶菌是方孢粉褶菌的近似種，差異在於此種菌蓋滿佈絨毛，也無明顯條紋。",
+  "Note": "菌蓋呈顯著的錐形至鐘形，頂端具極為明顯且尖銳的乳頭狀突起（papilla），表面帶有細微的纖毛狀或微鱗片質感，顏色呈現鮮豔的橙紅色至鮭橘紅色，在頂突附近細細覆蓋著微小的白色纖維狀鱗片。菌褶彎生，粉橙色；菌柄呈圓柱狀、與菌蓋同色系，表面有扭曲的纖維條紋，基部有些許白色菌絲。\n\n​過去在東亞（如日本）記錄到的橙紅色、頂端具顯著尖突（papillate/acutely umbonate）立體方孢的粉褶菌，大多直接套用北美發表的方孢粉褶菌（Entoloma quadratum）。​2025年日本學者佐藤博俊（Hirotoshi Sato）等人透過多基因標記（包含 mitochondrial LSU、ITS 及 22 個單拷貝基因組位點）與群體遺傳學分析，證實東亞原先被視為 E. quadratum 的族群，在遺傳上已構成獨立的分支，並正式將其發表為新種 Entoloma kermesinum Sato et al.，種小名取自 \"kermes\"，意指洋紅、胭脂紅。同研究亦發表了分立自 E. murrayi (尖頂粉褶菌)的黃色新種 E. flavescens。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "方孢粉褶菌,,",
   "la_zhcn": "方孢粉褶菌,,"
@@ -171,5 +200,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/569353503/square.jpg"
   }
  ],
- "timestamp": "20260818-085826"
+ "timestamp": "20260819-095733"
 }

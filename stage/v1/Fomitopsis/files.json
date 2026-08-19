@@ -2,7 +2,7 @@
  "name": "Fomitopsis",
  "zhtw": "擬層孔菌屬",
  "zhcn": "拟层孔菌属",
- "timestamp": "20260818-085826",
+ "timestamp": "20260819-095733",
  "list": [
   {
    "name": "Fomitopsis feei",
@@ -48,6 +48,12 @@
    "current_zhtw": "紅褐新擬層孔菌",
    "current_zhcn": "红褐新拟层孔菌",
    "img": "Fomitopsis_rhodophaea_2_CC BY-NC.jpg"
+  },
+  {
+   "name": "Fomitopsis spraguei",
+   "zhtw": "施氏擬層孔菌",
+   "zhcn": "施氏拟层孔菌",
+   "img": "Fomitopsis_spraguei_28016590881357977_941efc50-9adb-11f1-a587-07ac940d3722_1.jpg"
   },
   {
    "name": "Fomitopsis vinosa",
