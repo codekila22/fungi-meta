@@ -92,7 +92,7 @@
   "琥珀白鬼伞"
  ],
  "meta": {
-  "CapColors": "4294967295,4292461216",
+  "CapColors": "4294967295,4291605388",
   "CapDiamRangeValues": "15,35",
   "CapShape": "",
   "CapTexture": "",
@@ -114,18 +114,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,70",
-  "Rareness": "",
-  "Seasons": "summer",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
+  "Seasons": "",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "琥珀白鬼傘（暫名），屬名Leucocoprinus意為「白色之鬼傘」，因外觀近似鬼傘屬（Coprinus）而菌褶不易自溶得名；中文名取自菌蓋中央殘留之琥珀色斑塊。子實體纖弱，菌蓋薄膜質、白色，具明顯放射狀溝紋，中央殘留一圈琥珀色至淡褐色之鱗屑狀斑塊；菌柄細長、近白色至米黃色；菌褶離生、白色。群生於草地與腐植質豐富之地表，尚待正式鑑定命名。",
+  "Note": "琥珀白鬼傘（暫名）中文名取自菌柄基部晶瑩剔透的金黃液滴，宛如琥珀一般，而菌蓋中央也有殘留之琥珀色斑塊。\n子實體纖弱，菌蓋薄膜質、白色，具明顯放射狀溝紋，中央殘留一圈琥珀色至淡褐色之鱗屑狀斑塊；菌柄細長、近白色至米黃色；菌褶離生、白色。群生於草地與腐植質豐富之地表，尚待正式鑑定命名。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260820-201610"
+ "timestamp": "20260820-231247"
 }

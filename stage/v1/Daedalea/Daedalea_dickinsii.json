@@ -2,9 +2,10 @@
  "genus": "Daedalea",
  "name": "dickinsii",
  "date": [
-  "01/01/0001"
+  "04/13/2015"
  ],
  "names_zhtw": [
+  "白肉迷孔菌",
   "肉色迷孔菌"
  ],
  "names_en": [],
@@ -32,6 +33,7 @@
   }
  ],
  "names_zhcn": [
+  "白肉迷孔菌",
   "肉色迷孔菌"
  ],
  "meta": {
@@ -78,5 +80,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/48841560/square.jpeg"
   }
  ],
- "timestamp": "20260820-201610"
+ "timestamp": "20260820-231247"
 }

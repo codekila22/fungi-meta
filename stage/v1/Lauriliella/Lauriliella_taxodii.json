@@ -2,14 +2,14 @@
  "genus": "Lauriliella",
  "name": "taxodii",
  "date": [
-  "01/01/0001"
+  "08/15/2016,1046437758799988"
  ],
  "names_zhtw": [
   "落羽杉小勞氏菌",
   "落羽杉勞氏革菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/3263",
+ "url": "1046437758799988",
  "images": [
   {
    "author": "陳雅德",
@@ -79,5 +79,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29588770/square.jpeg"
   }
  ],
- "timestamp": "20260820-201610"
+ "timestamp": "20260820-231247"
 }

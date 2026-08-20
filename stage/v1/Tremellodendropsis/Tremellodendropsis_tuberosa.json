@@ -2,13 +2,14 @@
  "genus": "Tremellodendropsis",
  "name": "tuberosa",
  "date": [
-  "01/01/0001"
+  "07/09/2022,5052137761563281",
+  "08/21/2016,959964347447330"
  ],
  "names_zhtw": [
   "種珊瑚銀耳"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/2730",
+ "url": "959964347447330",
  "images": [
   {
    "author": "陳雅芬",
@@ -75,5 +76,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9224/thumb.jpg"
   }
  ],
- "timestamp": "20260820-201610"
+ "timestamp": "20260820-231247"
 }

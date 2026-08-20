@@ -60,7 +60,7 @@
   "可疑蛋糕马勃"
  ],
  "meta": {
-  "CapColors": "4294967295,4294963322,4291080569",
+  "CapColors": "4294967295,4293977740,4291605388",
   "CapDiamRangeValues": "7,19",
   "CapShape": "",
   "CapTexture": "",
@@ -83,12 +83,16 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "6,12",
   "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,grouped",
   "GrowthEnv": "ground,meadow",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -104,5 +108,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260820-201610"
+ "timestamp": "20260820-231247"
 }

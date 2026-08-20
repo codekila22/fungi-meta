@@ -2,14 +2,14 @@
  "genus": "Reticularia",
  "name": "intermedia",
  "date": [
-  "01/01/0001"
+  "05/21/2016,905530552890710"
  ],
  "names_zhtw": [
   "中間型網孢黏菌",
   "中間型孔膜黏菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/1933",
+ "url": "905530552890710",
  "images": [
   {
    "author": "陳雅芬",
@@ -82,5 +82,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12927492/square.jpeg"
   }
  ],
- "timestamp": "20260820-201610"
+ "timestamp": "20260820-231247"
 }

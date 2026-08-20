@@ -2,7 +2,7 @@
  "genus": "Cudonia",
  "name": "lutea",
  "date": [
-  "01/01/0001"
+  "10/24/2013"
  ],
  "names_zhtw": [
   "黃地錘菌"
@@ -11,35 +11,35 @@
  "url": "https://fungimap.biodiv.tw/pages/722",
  "images": [
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Cudonia_lutea_1_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Cudonia_lutea_2_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Cudonia_lutea_3_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Cudonia_lutea_4_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Cudonia_lutea_5_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Cudonia_lutea_6_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Cudonia_lutea_7_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Cudonia_lutea_8_CC BY-NC.jpg"
   }
  ],
@@ -91,5 +91,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13805750/thumb.jpg"
   }
  ],
- "timestamp": "20260820-201610"
+ "timestamp": "20260820-231247"
 }

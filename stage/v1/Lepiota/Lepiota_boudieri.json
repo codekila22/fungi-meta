@@ -2,7 +2,7 @@
  "genus": "Lepiota",
  "name": "boudieri",
  "date": [
-  "01/01/0001"
+  "08/28/2015"
  ],
  "names_zhtw": [
   "布氏環柄菇",
@@ -12,19 +12,19 @@
  "url": "https://fungimap.biodiv.tw/pages/853",
  "images": [
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Lepiota_fulvella_1_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Lepiota_fulvella_2_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Lepiota_fulvella_3_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Lepiota_fulvella_4_CC BY-NC.jpg"
   }
  ],
@@ -83,5 +83,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/53586309/square.jpeg"
   }
  ],
- "timestamp": "20260820-201610"
+ "timestamp": "20260820-231247"
 }

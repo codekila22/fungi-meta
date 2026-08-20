@@ -208,19 +208,21 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,60",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "mid",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,leaves",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "羽瑚菌狀密瑚菌，屬名Artomyces為珊瑚狀真菌之一屬；種小名pteruloides意為「似鬚瑚菌屬（Pterula）的」，指其外觀與鬚瑚菌屬相似、曾被誤置於該屬（原暫定為Pterula sp.1，後經鑑定確認改隸本屬）。子實體纖細、多回分枝如小樹或鬚狀、質韌，灰褐至暗褐色、枝端漸尖細轉黑；生於闊葉樹枯木與樹皮上。",
+  "Note": "羽瑚菌狀密瑚菌，屬名Artomyces為珊瑚狀真菌之一屬；種小名pteruloides意為「似鬚(羽)瑚菌屬（Pterula）的」，指其外觀與鬚瑚菌屬相似、曾被誤置於該屬，後經鑑定確認改隸本屬。子實體纖細、多回分枝如小樹或鬚狀、質韌，灰褐至暗褐色、枝端漸尖細轉黑；生於闊葉樹枯木與樹皮上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -232,5 +234,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260820-201610"
+ "timestamp": "20260820-231247"
 }

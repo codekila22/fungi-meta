@@ -2,7 +2,7 @@
  "genus": "Elaphomyces",
  "name": "granulatus",
  "date": [
-  "01/01/0001"
+  "05/28/2017"
  ],
  "names_zhtw": [
   "粗粒大團囊菌"
@@ -76,13 +76,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground,parasitic",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -111,5 +116,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260820-201610"
+ "timestamp": "20260820-231247"
 }
