@@ -75,5 +75,14 @@
   "LookAlikes": "",
   "Note": "炭黑大團囊菌，屬名Elaphomyces意為「鹿之菌」；種小名anthracinus意為「炭黑色的」，指其外包被成熟後呈煤黑色。子實體為近球形之地下閉囊果（假塊菌），外包被厚而堅硬、初帶灰褐、成熟轉為煤黑色，表面粗糙具細疣；剖面可見近白色之邊緣包被下為深褐色粉狀之產孢組織（gleba）。與多數大團囊菌屬成員相同，為外生菌根菌，與樹木共生，多生於林地土中或落葉堆下，須翻找始能發現。"
  },
- "timestamp": "20260820-191950"
+ "inaturalist": [
+  {
+   "name": "Elaphomyces anthracinus",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/218922",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/451095735/square.jpg"
+  }
+ ],
+ "timestamp": "20260820-201610"
 }
