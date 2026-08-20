@@ -2,13 +2,19 @@
  "name": "Artomyces",
  "zhtw": "密瑚菌屬",
  "zhcn": "密瑚菌属",
- "timestamp": "20260819-184909",
+ "timestamp": "20260820-191950",
  "list": [
   {
    "name": "Artomyces colensoi",
    "zhtw": "枝密瑚菌",
    "zhcn": "枝密瑚菌",
    "img": "Artomyces_colensoi_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Artomyces pteruloides",
+   "zhtw": "羽瑚菌狀密瑚菌",
+   "zhcn": "羽瑚菌状密瑚菌",
+   "img": "Pterula_sp.1_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Artomyces pyxidatus",

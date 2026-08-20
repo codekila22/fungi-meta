@@ -2,6 +2,7 @@
  "genus": "Coltricia",
  "name": "cinnamomea",
  "date": [
+  "08/06/2026,28045397958477269",
   "08/04/2026,27856828290667571",
   "06/30/2026,27429166866767051",
   "08/04/2025,24074748938875544",
@@ -262,6 +263,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Coltricia_cinnamomea_27856828290667571_b3d25700-9125-11f1-9fc8-5f7cf042a2f2_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coltricia_cinnamomea_28045397958477269_616c2520-9bd6-11f1-b846-b555569b07a8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coltricia_cinnamomea_28045397958477269_616c2520-9bd6-11f1-b846-b555569b07a8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coltricia_cinnamomea_28045397958477269_616c2520-9bd6-11f1-b846-b555569b07a8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coltricia_cinnamomea_28045397958477269_616c2520-9bd6-11f1-b846-b555569b07a8_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -290,13 +307,17 @@
   "StalkDiamRangeValuess": "1,4",
   "StalkLengthRangeValuess": "10,50",
   "HeightRangeValuess": "20,80",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid,high",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -312,5 +333,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/76566/thumb.jpg"
   }
  ],
- "timestamp": "20260819-184909"
+ "timestamp": "20260820-191950"
 }

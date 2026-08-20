@@ -2,6 +2,7 @@
  "genus": "Mucor",
  "name": "mucedo",
  "date": [
+  "08/06/2026,28045397958477269",
   "07/16/2026,27612270165123386",
   "04/09/2025,24162234133460357",
   "09/08/2024,8000817830028578",
@@ -195,6 +196,14 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Mucor_mucedo_27612270165123386_656fe6f0-81a7-11f1-bc1c-03cdbdc6f262_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucor_mucedo_28045397958477269_73a759d0-9bd6-11f1-b846-b555569b07a8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mucor_mucedo_28045397958477269_73a759d0-9bd6-11f1-b846-b555569b07a8_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -222,13 +231,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground,wood,leaves,fruit,stool",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -243,5 +257,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/72209269/thumb.jpg"
   }
  ],
- "timestamp": "20260819-184909"
+ "timestamp": "20260820-191950"
 }

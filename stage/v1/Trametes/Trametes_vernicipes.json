@@ -229,19 +229,23 @@
   "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "20,60",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Microporus xanthopus,Podoscypha parvula,",
+  "LookAlikes": "Microporus xanthopus,Podoscypha parvula,Microporus affinis",
   "Note": "漆柄栓菌，種小名vernicipes意為「漆狀柄」，指柄具亮漆狀外皮。帽腎形至扇形黃褐光滑、柄側生具紅褐漆皮，孔面白色細密，生於闊葉樹枯木。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "黃柄小孔菌,小柄杯菌,",
-  "la_zhcn": "黄柄小孔菌,小柄杯菌,"
+  "la_zhtw": "黃柄小孔菌,小柄杯菌,相鄰小孔菌",
+  "la_zhcn": "黄柄小孔菌,小柄杯菌,相邻小孔菌"
  },
  "inaturalist": [
   {
@@ -252,5 +256,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176458268/thumb.jpg"
   }
  ],
- "timestamp": "20260819-184909"
+ "timestamp": "20260820-191950"
 }

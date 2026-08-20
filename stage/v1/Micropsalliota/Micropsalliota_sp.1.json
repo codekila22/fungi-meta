@@ -2,6 +2,7 @@
  "genus": "Micropsalliota",
  "name": "sp.1",
  "date": [
+  "07/17/2025,23895356556814784",
   "06/16/2024,7512388705538162"
  ],
  "names_zhtw": [
@@ -77,6 +78,62 @@
   {
    "author": "陳雅芬",
    "image_src": "Micropsalliota_sp.1_bd742610-2bb7-11ef-ab04-f96238a48823_17.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Micropsalliota_sp.1_23895356556814784_0740dfe0-9c68-11f1-a4b9-6b70c5b4a2ab_14.jpg"
   }
  ],
  "names_zhcn": [
@@ -105,20 +162,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
   "Elevation": "low",
-  "Tropical": "",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "疏褶小蘑菇（暫名），屬名Micropsalliota意為「小型之蘑菇」。子實體纖小；蓋白至淡褐色、被細鱗；菌褶離生、稀疏、由白轉褐；柄具小菌環；地生於林下。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260819-184909"
+ "timestamp": "20260820-191950"
 }
