@@ -226,7 +226,7 @@
   "Seasons": "summer,autumn",
   "GrowthType": "singly,grouped",
   "GrowthEnv": "ground,meadow",
-  "NearHome": "",
+  "NearHome": "yes",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
@@ -246,5 +246,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

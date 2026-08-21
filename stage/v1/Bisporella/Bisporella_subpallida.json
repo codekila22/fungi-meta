@@ -2,6 +2,7 @@
  "genus": "Bisporella",
  "name": "subpallida",
  "date": [
+  "03/12/2022,4725715354205525",
   "03/06/2017"
  ],
  "names_zhtw": [
@@ -49,6 +50,34 @@
   {
    "author": "柯文俊",
    "image_src": "Bisporella_subpallida_10_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_subpallida_4725715354205525_32b8ecb0-9d5f-11f1-9091-97877a72abba_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_subpallida_4725715354205525_32b8ecb0-9d5f-11f1-9091-97877a72abba_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_subpallida_4725715354205525_32b8ecb0-9d5f-11f1-9091-97877a72abba_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_subpallida_4725715354205525_32b8ecb0-9d5f-11f1-9091-97877a72abba_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_subpallida_4725715354205525_32b8ecb0-9d5f-11f1-9091-97877a72abba_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_subpallida_4725715354205525_32b8ecb0-9d5f-11f1-9091-97877a72abba_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bisporella_subpallida_4725715354205525_32b8ecb0-9d5f-11f1-9091-97877a72abba_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -98,5 +127,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/93887730/thumb.jpg"
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

@@ -2,6 +2,7 @@
  "genus": "Gymnopus",
  "name": "sp.1",
  "date": [
+  "08/21/2026,28067384189611979",
   "07/08/2026,27514179778265759",
   "09/20/2024,8101906833253010",
   "08/03/2024,7778878155555881",
@@ -192,6 +193,22 @@
   {
    "author": "徐秀團",
    "image_src": "Gymnopus_sp.1_61d571c0-7aba-11f1-9f37-11da2773397a_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gymnopus_sp.1_28067384189611979_a900fe20-9d38-11f1-9091-97877a72abba_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gymnopus_sp.1_28067384189611979_a900fe20-9d38-11f1-9091-97877a72abba_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gymnopus_sp.1_28067384189611979_a900fe20-9d38-11f1-9091-97877a72abba_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Gymnopus_sp.1_28067384189611979_a900fe20-9d38-11f1-9091-97877a72abba_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -220,18 +237,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "leaves",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "姑婆芋金錢菌，屬名Gymnopus意為「裸足」，指其光裸之柄。蓋凸至平展、淡褐色；菌褶疏；柄堅韌而光裸；目前僅見生於姑婆芋（Alocasia）之枯莖上，為一尚未正式命名之金錢菌。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

@@ -228,7 +228,7 @@
   "Rareness": "occacional",
   "Elevation": "mid",
   "Tropical": "no",
-  "Seasons": "",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood,leaves",
   "NearHome": "",
@@ -251,5 +251,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

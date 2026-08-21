@@ -166,12 +166,16 @@
   "StalkLengthRangeValuess": "20,50",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "summer",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground,rocks",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hemimycena ignobilis,Clitopilus scyphoides,",
@@ -189,5 +193,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

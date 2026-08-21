@@ -2,6 +2,7 @@
  "genus": "Marasmiellus",
  "name": "candidus",
  "date": [
+  "08/21/2026,28069455359404862",
   "07/22/2026,27675912325425836",
   "06/11/2023,6076893699087677",
   "04/08/2023,7094606503983053",
@@ -193,6 +194,22 @@
   {
    "author": "陳中城",
    "image_src": "Marasmiellus_candidus_27675912325425836_bd3a2600-85dc-11f1-ac8e-95ab1f129b13_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_candidus_28069455359404862_07294910-9d40-11f1-9091-97877a72abba_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_candidus_28069455359404862_07294910-9d40-11f1-9091-97877a72abba_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_candidus_28069455359404862_07294910-9d40-11f1-9091-97877a72abba_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_candidus_28069455359404862_07294910-9d40-11f1-9091-97877a72abba_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -244,5 +261,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/153149052/thumb.jpeg"
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

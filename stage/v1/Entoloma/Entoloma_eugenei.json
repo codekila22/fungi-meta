@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "eugenei",
  "date": [
+  "08/19/2026,28045844948432570",
   "07/19/2025,24844012751949155",
   "07/11/2025,10076838582426482",
   "09/07/2024,8163624680414558",
@@ -216,6 +217,34 @@
   {
    "author": "向高世",
    "image_src": "Entoloma_eugenei_27918882711128795_33891eb0-95f0-11f1-a3e4-05b50467044d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_28045844948432570_feb96860-9d34-11f1-9091-97877a72abba_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_28045844948432570_feb96860-9d34-11f1-9091-97877a72abba_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_28045844948432570_feb96860-9d34-11f1-9091-97877a72abba_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_28045844948432570_feb96860-9d34-11f1-9091-97877a72abba_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_28045844948432570_feb96860-9d34-11f1-9091-97877a72abba_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_28045844948432570_feb96860-9d34-11f1-9091-97877a72abba_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Entoloma_eugenei_28045844948432570_feb96860-9d34-11f1-9091-97877a72abba_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -270,5 +299,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/16579164/thumb.jpg"
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

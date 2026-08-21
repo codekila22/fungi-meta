@@ -2,6 +2,7 @@
  "genus": "Aphelaria",
  "name": "lacerata",
  "date": [
+  "08/21/2026,28069076879442710",
   "09/27/2025,24563758759974557",
   "05/28/2025,9742020985908245",
   "07/29/2024,7746977938745903",
@@ -211,6 +212,30 @@
   {
    "author": "江志緯",
    "image_src": "Aphelaria_lacerata_f8164bc0-a0de-11f0-8ae0-adaa9954f2d5_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aphelaria_lacerata_28069076879442710_25af7e20-9d3d-11f1-9091-97877a72abba_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aphelaria_lacerata_28069076879442710_25af7e20-9d3d-11f1-9091-97877a72abba_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aphelaria_lacerata_28069076879442710_25af7e20-9d3d-11f1-9091-97877a72abba_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aphelaria_lacerata_28069076879442710_25af7e20-9d3d-11f1-9091-97877a72abba_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aphelaria_lacerata_28069076879442710_25af7e20-9d3d-11f1-9091-97877a72abba_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Aphelaria_lacerata_28069076879442710_25af7e20-9d3d-11f1-9091-97877a72abba_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -239,14 +264,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,60",
-  "Rareness": "",
-  "Tropical": "yes",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "",
   "GrowthEnv": "bamboo,leaves",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -261,5 +289,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164177437/thumb.jpg"
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

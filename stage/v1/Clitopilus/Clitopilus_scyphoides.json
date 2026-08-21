@@ -2,6 +2,7 @@
  "genus": "Clitopilus",
  "name": "scyphoides",
  "date": [
+  "08/20/2026,28069498402733891",
   "06/15/2024,7509119499198416",
   "09/25/2023,6442922019151508",
   "06/17/2022,5039140879529636",
@@ -91,6 +92,18 @@
   {
    "author": "陳雅芬",
    "image_src": "Clitopilus_scyphoides_75a64260-2b6b-11ef-aecb-a38821a76715_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitopilus_scyphoides_28069498402733891_628e00d0-9d3f-11f1-9091-97877a72abba_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitopilus_scyphoides_28069498402733891_628e00d0-9d3f-11f1-9091-97877a72abba_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitopilus_scyphoides_28069498402733891_628e00d0-9d3f-11f1-9091-97877a72abba_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -119,13 +132,17 @@
   "StalkDiamRangeValuess": "1,4",
   "StalkLengthRangeValuess": "10,20",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground,rocks",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Clitopilus subscyphoides,,",
@@ -157,5 +174,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

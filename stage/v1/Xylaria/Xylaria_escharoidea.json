@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "08/21/2026,28068801942803537",
   "06/07/2025,9814510611992615",
   "05/11/2025,9945124572264551",
   "07/27/2024,7735698049873892",
@@ -23,12 +24,12 @@
  "url": "6179159108861135",
  "images": [
   {
-   "author": "",
-   "image_src": "Xylaria_melanaxis_1_CC BY-NC.jpg"
+   "author": "蔣珮瑩",
+   "image_src": "Xylaria_melanaxis_f3fca620-1fca-11ee-b2c1-e38ecd7e9e0c_3.jpg"
   },
   {
-   "author": "",
-   "image_src": "Xylaria_melanaxis_2_CC BY-NC.jpg"
+   "author": "蔣珮瑩",
+   "image_src": "Xylaria_melanaxis_f3fca620-1fca-11ee-b2c1-e38ecd7e9e0c_4.jpg"
   },
   {
    "author": "蔣珮瑩",
@@ -37,14 +38,6 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Xylaria_melanaxis_f3fca620-1fca-11ee-b2c1-e38ecd7e9e0c_2.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Xylaria_melanaxis_f3fca620-1fca-11ee-b2c1-e38ecd7e9e0c_3.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Xylaria_melanaxis_f3fca620-1fca-11ee-b2c1-e38ecd7e9e0c_4.jpg"
   },
   {
    "author": "蔣珮瑩",
@@ -129,6 +122,46 @@
   {
    "author": "江志緯",
    "image_src": "Xylaria_escharoidea_ecf0bae0-5b0c-11f0-9d46-eb799ca92082_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_escharoidea_28068801942803537_32712a90-9d39-11f1-9091-97877a72abba_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_escharoidea_28068801942803537_32712a90-9d39-11f1-9091-97877a72abba_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_escharoidea_28068801942803537_32712a90-9d39-11f1-9091-97877a72abba_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_escharoidea_28068801942803537_32712a90-9d39-11f1-9091-97877a72abba_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_escharoidea_28068801942803537_32712a90-9d39-11f1-9091-97877a72abba_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_escharoidea_28068801942803537_32712a90-9d39-11f1-9091-97877a72abba_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_escharoidea_28068801942803537_32712a90-9d39-11f1-9091-97877a72abba_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_escharoidea_28068801942803537_32712a90-9d39-11f1-9091-97877a72abba_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_escharoidea_28068801942803537_32712a90-9d39-11f1-9091-97877a72abba_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xylaria_escharoidea_28068801942803537_32712a90-9d39-11f1-9091-97877a72abba_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -163,13 +196,15 @@
   "Seasons": "spring,summer,autumn",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "芽孔炭角菌，種小名escharoidea意為「似痂的」，指其子座表面粗糙如結痂。子座棒狀至瘤狀直立、黑褐色而表面具明顯突起之子囊殼孔口，內裡白色，質炭硬，生於闊葉樹腐木。",
+  "Note": "芽孔炭角菌，種小名escharoidea意為「似痂的」，指其子座表面粗糙如結痂。子座棒狀至瘤狀直立、黑褐色而表面具明顯突起之子囊殼孔口，內裡白色，質炭硬，生於闊葉林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -181,5 +216,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

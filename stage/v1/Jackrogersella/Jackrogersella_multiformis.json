@@ -14,6 +14,14 @@
  "url": "https://fungimap.biodiv.tw/pages/814",
  "images": [
   {
+   "author": "陳中城",
+   "image_src": "Jackrogersella_multiformis_5037708266339564_c4bce350-9cab-11f1-8e7c-bbf14b4690fc_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Jackrogersella_multiformis_8990339707743047_9ad83f80-9cab-11f1-8e7c-bbf14b4690fc_4.jpg"
+  },
+  {
    "author": "柯文俊",
    "image_src": "Hypoxylon_multiforme_1_CC BY-NC.jpg"
   },
@@ -40,10 +48,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Jackrogersella_multiformis_8990339707743047_9ad83f80-9cab-11f1-8e7c-bbf14b4690fc_3.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Jackrogersella_multiformis_8990339707743047_9ad83f80-9cab-11f1-8e7c-bbf14b4690fc_4.jpg"
   },
   {
    "author": "陳麗紅",
@@ -76,10 +80,6 @@
   {
    "author": "陳中城",
    "image_src": "Jackrogersella_multiformis_5037708266339564_c4bce350-9cab-11f1-8e7c-bbf14b4690fc_5.jpg"
-  },
-  {
-   "author": "陳中城",
-   "image_src": "Jackrogersella_multiformis_5037708266339564_c4bce350-9cab-11f1-8e7c-bbf14b4690fc_6.jpg"
   },
   {
    "author": "陳中城",
@@ -148,5 +148,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }

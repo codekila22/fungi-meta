@@ -2,6 +2,7 @@
  "genus": "Pruinomycena",
  "name": "subcyanocephala",
  "date": [
+  "08/18/2026,28068611949489203",
   "08/13/2026,27978290625188003",
   "08/12/2026,27947033078313758",
   "07/30/2026,27777495141934220",
@@ -699,6 +700,26 @@
   {
    "author": "陳雅芬",
    "image_src": "Pruinomycena_subcyanocephala_27978290625188003_73c498f0-986c-11f1-b59b-39a33ce7c69c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pruinomycena_subcyanocephala_28068611949489203_f5690730-9d33-11f1-8b90-6fe879c7f977_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pruinomycena_subcyanocephala_28068611949489203_f5690730-9d33-11f1-8b90-6fe879c7f977_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pruinomycena_subcyanocephala_28068611949489203_f5690730-9d33-11f1-8b90-6fe879c7f977_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pruinomycena_subcyanocephala_28068611949489203_f5690730-9d33-11f1-8b90-6fe879c7f977_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pruinomycena_subcyanocephala_28068611949489203_f5690730-9d33-11f1-8b90-6fe879c7f977_5.jpg"
   }
  ],
  "synonym": [
@@ -759,5 +780,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/260296784/square.jpg"
   }
  ],
- "timestamp": "20260821-084621"
+ "timestamp": "20260821-215143"
 }
