@@ -2,6 +2,7 @@
  "genus": "Conocybe",
  "name": "incarnata",
  "date": [
+  "03/04/2017,1128703503906746",
   "12/30/2015,827538060689960"
  ],
  "names_zhtw": [
@@ -37,6 +38,34 @@
   {
    "author": "林進福",
    "image_src": "Conocybe_incarnata_7_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -64,13 +93,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "meadow,debris",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -86,5 +120,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260820-231247"
+ "timestamp": "20260821-084621"
 }

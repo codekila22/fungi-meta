@@ -2,7 +2,10 @@
  "genus": "Dacrymyces",
  "name": "stillatus",
  "date": [
-  "01/06/2018"
+  "04/03/2026,26327024393647976",
+  "03/08/2025,9237127253064290",
+  "01/06/2018",
+  "01/31/2016,843803965730036"
  ],
  "names_zhtw": [
   "滴流花耳"
@@ -33,6 +36,34 @@
   {
    "author": "柯文俊",
    "image_src": "Dacrymyces_stillatus_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dacrymyces_stillatus_9237127253064290_fbba3060-9cab-11f1-8e7c-bbf14b4690fc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dacrymyces_stillatus_9237127253064290_fbba3060-9cab-11f1-8e7c-bbf14b4690fc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Dacrymyces_stillatus_9237127253064290_fbba3060-9cab-11f1-8e7c-bbf14b4690fc_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Dacrymyces_stillatus_26327024393647976_339644b0-9cac-11f1-8e7c-bbf14b4690fc_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Dacrymyces_stillatus_26327024393647976_339644b0-9cac-11f1-8e7c-bbf14b4690fc_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Dacrymyces_stillatus_26327024393647976_339644b0-9cac-11f1-8e7c-bbf14b4690fc_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Dacrymyces_stillatus_26327024393647976_339644b0-9cac-11f1-8e7c-bbf14b4690fc_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -82,5 +113,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5337/thumb.jpg"
   }
  ],
- "timestamp": "20260820-231247"
+ "timestamp": "20260821-084621"
 }

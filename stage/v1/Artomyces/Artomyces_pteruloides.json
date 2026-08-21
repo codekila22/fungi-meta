@@ -2,6 +2,7 @@
  "genus": "Artomyces",
  "name": "pteruloides",
  "date": [
+  "08/19/2026,28056966353987096",
   "04/22/2026,26526841383666275",
   "01/03/2026,25438694305814327",
   "12/18/2025,25285126531171106",
@@ -179,6 +180,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Pterula_sp.1_25285126531171106_a7953ee0-7dd8-11f1-b11d-55569bc6ae87_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Artomyces_pteruloides_28056966353987096_8b453580-9cad-11f1-8e7c-bbf14b4690fc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Artomyces_pteruloides_28056966353987096_8b453580-9cad-11f1-8e7c-bbf14b4690fc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Artomyces_pteruloides_28056966353987096_8b453580-9cad-11f1-8e7c-bbf14b4690fc_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Artomyces_pteruloides_28056966353987096_8b453580-9cad-11f1-8e7c-bbf14b4690fc_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -234,5 +251,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260820-231247"
+ "timestamp": "20260821-084621"
 }
