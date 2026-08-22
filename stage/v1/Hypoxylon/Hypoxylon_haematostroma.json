@@ -2,6 +2,7 @@
  "genus": "Hypoxylon",
  "name": "haematostroma",
  "date": [
+  "08/01/2026,28028932900123775",
   "12/25/2025,25343841645299594",
   "11/20/2024,8664307487012939",
   "10/10/2024,8662116717232016",
@@ -203,6 +204,30 @@
   {
    "author": "江志緯",
    "image_src": "Hypoxylon_haematostroma_105dee20-e2b3-11f0-9e15-356f188ada79_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypoxylon_haematostroma_28028932900123775_86f49700-9dd4-11f1-bf2f-b5e2a817e6fd_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypoxylon_haematostroma_28028932900123775_86f49700-9dd4-11f1-bf2f-b5e2a817e6fd_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypoxylon_haematostroma_28028932900123775_86f49700-9dd4-11f1-bf2f-b5e2a817e6fd_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypoxylon_haematostroma_28028932900123775_86f49700-9dd4-11f1-bf2f-b5e2a817e6fd_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypoxylon_haematostroma_28028932900123775_86f49700-9dd4-11f1-bf2f-b5e2a817e6fd_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Hypoxylon_haematostroma_28028932900123775_86f49700-9dd4-11f1-bf2f-b5e2a817e6fd_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -231,13 +256,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "1,5",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -253,5 +282,5 @@
    "src": "https://static.inaturalist.org/photos/95547230/thumb.jpeg"
   }
  ],
- "timestamp": "20260821-215143"
+ "timestamp": "20260822-161916"
 }

@@ -259,7 +259,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "淡黃紅菇，種小名flavida意為「淡黃色的」，指菌蓋鮮黃色。蓋橙黃至鉻黃、乾燥微絨質，菌褶白至淡黃，柄亦帶黃色（紅菇屬中少見），肉脆，外生菌根生於闊葉林地。",
+  "Note": "淡黃紅菇，種小名flavida意為「淡黃色的」，指菌蓋鮮黃色。菌蓋橙黃至鉻黃、乾燥微絨質，菌褶白至淡黃，柄亦帶黃色（紅菇屬中少見），肉脆，外生菌根生於闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -271,5 +271,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/79878163/thumb.jpg"
   }
  ],
- "timestamp": "20260821-215143"
+ "timestamp": "20260822-161916"
 }

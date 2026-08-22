@@ -252,19 +252,23 @@
   "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "not-edible,psychoactive",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Gymnopilus dilepis,,",
+  "LookAlikes": "Gymnopilus dilepis,Gymnopilus aeruginosus,",
   "Note": "紫色裸傘，帽紅褐乾燥被鱗、菌褶黃橙，柄褐紅、傷處染藍綠斑，叢生於木屑腐木。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "熱帶紫褐裸傘,,",
-  "la_zhcn": "热带紫褐裸伞,,"
+  "la_zhtw": "熱帶紫褐裸傘,綠褐裸傘,",
+  "la_zhcn": "热带紫褐裸伞,绿褐裸伞,"
  },
  "inaturalist": [
   {
@@ -275,5 +279,5 @@
    "src": "https://static.inaturalist.org/photos/1257491/thumb."
   }
  ],
- "timestamp": "20260821-215143"
+ "timestamp": "20260822-161916"
 }

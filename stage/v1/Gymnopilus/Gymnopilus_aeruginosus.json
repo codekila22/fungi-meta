@@ -109,7 +109,7 @@
  ],
  "meta": {
   "CapColors": "4294944000,4292519200",
-  "CapDiamRangeValues": "30,80",
+  "CapDiamRangeValues": "20,80",
   "CapShape": "",
   "CapTexture": "raised-scales,fibrous",
   "CapMargin": "",
@@ -131,17 +131,23 @@
   "StalkLengthRangeValuess": "50,120",
   "HeightRangeValuess": "",
   "Rareness": "common",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "not-edible,psychoactive",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "綠褐裸傘，屬名Gymnopilus意為「裸露之蓋」；種小名aeruginosus意為「銅綠色的」，指其常現之藍綠色斑。蓋被細鱗、常有藍綠、粉紅乃至酒紅色之斑塊；菌褶初黃後轉銹褐、常帶鏽斑；柄具菌環痕；叢生於腐木上。",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Gymnopilus purpuratus,,",
+  "Note": "綠褐裸傘，屬名Gymnopilus意為「裸露之蓋」；種小名aeruginosus意為「銅綠色的」，指其常現之藍綠色斑。菌蓋被細鱗、常有藍綠、粉紅乃至酒紅色之斑塊；菌褶初黃後轉銹褐、常帶鏽斑；柄具菌環痕；叢生於腐木上。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "紫色裸傘,,",
+  "la_zhcn": "紫色裸伞,,"
  },
  "inaturalist": [
   {
@@ -159,5 +165,5 @@
    "src": "https://static.inaturalist.org/photos/38669/square.jpg"
   }
  ],
- "timestamp": "20260821-215143"
+ "timestamp": "20260822-161916"
 }

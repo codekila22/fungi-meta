@@ -337,11 +337,11 @@
   "Cultivated": "yes",
   "Smell": "mild",
   "Taste": "mild",
-  "LookAlikes": "Pleurocybella porrigens,Pleurotus ostreatus,",
-  "Note": "肺形側耳，屬名Pleurotus意為「側生之耳」；種小名pulmonarius意為「肺形的」，指其扇形之菌蓋。蓋扇形至半圓、白至淡灰褐色、肉較薄；菌褶延生、白色；柄短而偏生；生於闊葉樹枯木上，較糙皮側耳肉薄而柄長，廣為栽培。雖然偏好溫暖氣候，但台灣山區似乎四季可見，此種相比於冬季出現的糙皮側耳(Pleurotus ostreatus)而言，菌肉較為軟薄，而莖更長一點。",
+  "LookAlikes": "Pleurotus ostreatus,,",
+  "Note": "肺形側耳，屬名Pleurotus意為「側生之耳」；種小名pulmonarius意為「肺形的」，指其扇形之菌蓋。菌蓋扇形至半圓、白至淡灰褐色、肉較薄；菌褶延生、白色；柄短而偏生；生於闊葉樹枯木上，較糙皮側耳肉薄而柄長，廣為栽培。雖然偏好溫暖氣候，但台灣山區似乎四季可見，此種相比於冬季出現的糙皮側耳(Pleurotus ostreatus)而言，菌肉較為軟薄，而莖更長一點。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": ",糙皮側耳,",
-  "la_zhcn": ",糙皮侧耳,"
+  "la_zhtw": "糙皮側耳,,",
+  "la_zhcn": "糙皮侧耳,,"
  },
  "inaturalist": [
   {
@@ -352,5 +352,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/59421868/thumb.jpeg"
   }
  ],
- "timestamp": "20260821-215143"
+ "timestamp": "20260822-161916"
 }
