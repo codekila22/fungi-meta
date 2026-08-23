@@ -2,6 +2,7 @@
  "genus": "Ceratiomyxa",
  "name": "fruticulosa var. descendens",
  "date": [
+  "08/19/2026,28085531184463946",
   "06/22/2026,27378044758545929",
   "06/19/2026,27302173522799720",
   "06/18/2026,27267196746297398",
@@ -338,15 +339,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low,mid",
   "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -361,5 +364,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260823-175433"
+ "timestamp": "20260823-191841"
 }

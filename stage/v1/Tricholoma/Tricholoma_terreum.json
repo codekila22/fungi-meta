@@ -2,6 +2,7 @@
  "genus": "Tricholoma",
  "name": "terreum",
  "date": [
+  "08/14/2026,28082066558143742",
   "03/18/2026,26164987466518337",
   "08/26/2025,24283561967994239",
   "08/23/2024,7921147384662290",
@@ -282,13 +283,17 @@
   "StalkDiamRangeValuess": "10,15",
   "StalkLengthRangeValuess": "30,50",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "singly,scattered",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
-  "Edible": "",
+  "NearHome": "no",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "not-edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -325,5 +330,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6133625/thumb.jpg"
   }
  ],
- "timestamp": "20260823-175433"
+ "timestamp": "20260823-191841"
 }

@@ -2,6 +2,7 @@
  "genus": "Ophiocordyceps",
  "name": "tricentri",
  "date": [
+  "08/15/2026,28082026398147758",
   "08/12/2021,24327394876944281"
  ],
  "names_zhtw": [
@@ -58,6 +59,42 @@
   {
    "author": "向高世",
    "image_src": "Ophiocordyceps_tricentri_3e09d220-8d4b-11f0-9bd0-f5d38e147848_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_tricentri_28082026398147758_f595a770-9ede-11f1-9e4c-35150746c971_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_tricentri_28082026398147758_f595a770-9ede-11f1-9e4c-35150746c971_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_tricentri_28082026398147758_f595a770-9ede-11f1-9e4c-35150746c971_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_tricentri_28082026398147758_f595a770-9ede-11f1-9e4c-35150746c971_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_tricentri_28082026398147758_f595a770-9ede-11f1-9e4c-35150746c971_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_tricentri_28082026398147758_f595a770-9ede-11f1-9e4c-35150746c971_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_tricentri_28082026398147758_f595a770-9ede-11f1-9e4c-35150746c971_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_tricentri_28082026398147758_f595a770-9ede-11f1-9e4c-35150746c971_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ophiocordyceps_tricentri_28082026398147758_f595a770-9ede-11f1-9e4c-35150746c971_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -86,13 +123,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "parasitic",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -107,5 +149,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260823-175433"
+ "timestamp": "20260823-191841"
 }

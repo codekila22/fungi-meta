@@ -2,6 +2,7 @@
  "genus": "Clonostachys",
  "name": "byssicola",
  "date": [
+  "08/20/2026,28093773033639761",
   "01/08/2023,5578765632233822"
  ],
  "names_zhtw": [
@@ -45,6 +46,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Bionectria_byssicola_9_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clonostachys_byssicola_28093773033639761_d0b2bd70-9eda-11f1-9e4c-35150746c971_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clonostachys_byssicola_28093773033639761_d0b2bd70-9eda-11f1-9e4c-35150746c971_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clonostachys_byssicola_28093773033639761_d0b2bd70-9eda-11f1-9e4c-35150746c971_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clonostachys_byssicola_28093773033639761_d0b2bd70-9eda-11f1-9e4c-35150746c971_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clonostachys_byssicola_28093773033639761_d0b2bd70-9eda-11f1-9e4c-35150746c971_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clonostachys_byssicola_28093773033639761_d0b2bd70-9eda-11f1-9e4c-35150746c971_6.jpg"
   }
  ],
  "synonym": [
@@ -80,13 +105,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -102,5 +131,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260823-175433"
+ "timestamp": "20260823-191841"
 }

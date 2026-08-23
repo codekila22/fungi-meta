@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "haematocephalus",
  "date": [
+  "08/20/2026,28055449317472133",
   "08/15/2026,28001757879507944",
   "06/17/2026,27421813134169091",
   "06/12/2026,27187837650899975",
@@ -523,6 +524,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Marasmius_haematocephalus_28001757879507944_1e38eb80-9956-11f1-afd7-afcf28d2627f_10.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Marasmius_haematocephalus_28055449317472133_ce14c060-9ee2-11f1-9e4c-35150746c971_1.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Marasmius_haematocephalus_28055449317472133_ce14c060-9ee2-11f1-9e4c-35150746c971_2.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Marasmius_haematocephalus_28055449317472133_ce14c060-9ee2-11f1-9e4c-35150746c971_3.jpg"
+  },
+  {
+   "author": "林杏蓉",
+   "image_src": "Marasmius_haematocephalus_28055449317472133_ce14c060-9ee2-11f1-9e4c-35150746c971_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -591,5 +608,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260823-175433"
+ "timestamp": "20260823-191841"
 }

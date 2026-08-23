@@ -2,6 +2,7 @@
  "genus": "Coniolepiota",
  "name": "spongodes",
  "date": [
+  "08/20/2026,28085601271123604",
   "07/14/2025,24132793263071111",
   "07/12/2025,10084233581686982",
   "08/02/2024,7782683208508709",
@@ -238,6 +239,18 @@
   {
    "author": "向高世",
    "image_src": "Coniolepiota_spongodes_646fbd10-7b50-11f0-82e5-db829d3cb073_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coniolepiota_spongodes_28085601271123604_def6f8f0-9edb-11f1-9e4c-35150746c971_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coniolepiota_spongodes_28085601271123604_def6f8f0-9edb-11f1-9e4c-35150746c971_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coniolepiota_spongodes_28085601271123604_def6f8f0-9edb-11f1-9e4c-35150746c971_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -265,13 +278,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -287,5 +305,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249780748/thumb.jpg"
   }
  ],
- "timestamp": "20260823-175433"
+ "timestamp": "20260823-191841"
 }
