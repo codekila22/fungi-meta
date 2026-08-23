@@ -2,41 +2,70 @@
  "genus": "Conocybe",
  "name": "incarnata",
  "date": [
-  "01/01/0001"
+  "03/04/2017,1128703503906746",
+  "12/30/2015,827538060689960"
  ],
  "names_zhtw": [
   "粉紅褐錐蓋傘"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/690",
+ "url": "827538060689960",
  "images": [
   {
-   "author": "",
+   "author": "林進福",
    "image_src": "Conocybe_incarnata_1_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "林進福",
    "image_src": "Conocybe_incarnata_2_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "林進福",
    "image_src": "Conocybe_incarnata_3_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "林進福",
    "image_src": "Conocybe_incarnata_4_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "林進福",
    "image_src": "Conocybe_incarnata_5_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "林進福",
    "image_src": "Conocybe_incarnata_6_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "林進福",
    "image_src": "Conocybe_incarnata_7_CC BY-NC.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Conocybe_incarnata_1128703503906746_a60eece0-9cac-11f1-8e7c-bbf14b4690fc_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -64,17 +93,22 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "meadow,debris",
+  "NearHome": "yes",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "粉紅褐錐蓋傘，屬名Conocybe意為「錐形之頭」，指其圓錐狀之菌蓋；種小名incarnata意為「肉色的」。蓋圓錐至鐘形、粉褐至肉褐色、濕時具條紋；菌褶淡褐至鏽褐；柄細長而脆；地生於草地或腐植質上。",
+  "Note": "粉紅褐錐蓋傘，屬名Conocybe意為「錐形之頭」，指其圓錐狀之菌蓋；種小名incarnata意為「肉色的」。菌蓋圓錐至鐘形、粉褐至肉褐色、濕時具條紋；菌褶淡褐至鏽褐；柄細長而脆；地生於草地或腐植質上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -86,5 +120,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

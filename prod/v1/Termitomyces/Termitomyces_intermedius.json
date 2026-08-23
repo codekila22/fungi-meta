@@ -2,6 +2,7 @@
  "genus": "Termitomyces",
  "name": "intermedius",
  "date": [
+  "08/22/2026,28086025171081214",
   "06/15/2025,9877691709007838",
   "08/18/2024,7869214109855618",
   "08/17/2024,7857896834320679",
@@ -16,6 +17,14 @@
  "names_en": [],
  "url": "中間型蟻巢傘",
  "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_intermedius_28086025171081214_c8073e80-9e7b-11f1-9e10-fb87728df5c8_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_intermedius_28086025171081214_c8073e80-9e7b-11f1-9e10-fb87728df5c8_5.jpg"
+  },
   {
    "author": "彭成標",
    "image_src": "Termitomyces_intermedius_1_CC BY-NC_彭成標.jpg"
@@ -151,6 +160,34 @@
   {
    "author": "江志緯",
    "image_src": "Termitomyces_intermedius_00fd1890-4a63-11f0-b5a7-752f756e3208_14.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_intermedius_28086025171081214_c8073e80-9e7b-11f1-9e10-fb87728df5c8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_intermedius_28086025171081214_c8073e80-9e7b-11f1-9e10-fb87728df5c8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_intermedius_28086025171081214_c8073e80-9e7b-11f1-9e10-fb87728df5c8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_intermedius_28086025171081214_c8073e80-9e7b-11f1-9e10-fb87728df5c8_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_intermedius_28086025171081214_c8073e80-9e7b-11f1-9e10-fb87728df5c8_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_intermedius_28086025171081214_c8073e80-9e7b-11f1-9e10-fb87728df5c8_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_intermedius_28086025171081214_c8073e80-9e7b-11f1-9e10-fb87728df5c8_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -194,7 +231,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "中間型蟻巢傘，種小名intermedius意為「中間型的」，指其形態介於近緣種之間。蓋灰褐色、中央具尖突（perforatorium），菌褶白轉粉紅，柄白且向下延伸為深入蟻巢之長假根，與大白蟻共生，雨後發生。",
+  "Note": "中間型蟻巢傘，種小名intermedius意為「中間型的」，指其形態介於近緣種之間。菌蓋灰褐色、中央具尖突（perforatorium），菌褶白轉粉紅，柄白且向下延伸為深入蟻巢之長假根，與大白蟻共生，雨後發生。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -206,5 +243,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/187153577/thumb.jpeg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

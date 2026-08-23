@@ -2,7 +2,7 @@
  "name": "Nectria",
  "zhtw": "叢赤殼菌屬",
  "zhcn": "丛赤壳菌属",
- "timestamp": "20260816-195131",
+ "timestamp": "20260823-203055",
  "list": [
   {
    "name": "Nectria balansae",
@@ -24,6 +24,15 @@
    "current_zhtw": "棒狀細束梗孢菌",
    "current_zhcn": "棒状细束梗孢菌",
    "img": "Gracilistilbella_clavulata_1_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "name": "Nectria myxomyceticola",
+   "zhtw": "黏菌生叢赤殼菌",
+   "zhcn": "黏菌生丛赤壳菌",
+   "current": "Nectriopsis rexiana",
+   "current_zhtw": "雷氏擬叢赤殼菌",
+   "current_zhcn": "雷氏拟丛赤壳菌",
+   "img": "Nectriopsis_myxomyceticola_b7033e00-dc54-11ed-97d6-b9d792666652_1.jpg"
   },
   {
    "name": "Nectria pseudopeziza",

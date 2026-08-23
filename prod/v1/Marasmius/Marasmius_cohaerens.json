@@ -2,32 +2,32 @@
  "genus": "Marasmius",
  "name": "cohaerens",
  "date": [
-  "01/01/0001"
+  "03/22/2015,701176283326139"
  ],
  "names_zhtw": [
   "紅絨小皮傘"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/879",
+ "url": "701176283326139",
  "images": [
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Marasmius_cohaerens_2_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Marasmius_cohaerens_3_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Marasmius_cohaerens_1_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Marasmius_cohaerens_4_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Marasmius_cohaerens_5_CC BY-NC.jpg"
   }
  ],
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "紅絨小皮傘，種小名cohaerens意為「黏合的、相連的」，指其菌柄基部常相互癒合而叢生。蓋無光澤至略呈氈狀、淡褐、黃褐至巧克力褐而有時帶粉暈，菌褶淡色，柄細長而堅韌、基部暗褐、頂端近白而中段帶赭紅，生於闊葉林之落葉層。",
+  "Note": "紅絨小皮傘，種小名cohaerens意為「黏合的、相連的」，指其菌柄基部常相互癒合而叢生。菌蓋無光澤至略呈氈狀、淡褐、黃褐至巧克力褐而有時帶粉暈，菌褶淡色，柄細長而堅韌、基部暗褐、頂端近白而中段帶赭紅，生於闊葉林之落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -106,5 +106,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

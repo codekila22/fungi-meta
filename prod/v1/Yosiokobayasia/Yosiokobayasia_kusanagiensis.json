@@ -1,0 +1,286 @@
+{
+ "genus": "Yosiokobayasia",
+ "name": "kusanagiensis",
+ "synonym": [
+  {
+   "name": "Metarhizium kusanagiense",
+   "zhtw": "草薙黑殭菌",
+   "zhcn": "草薙黑僵菌"
+  },
+  {
+   "name": "Cordyceps kusanagiense",
+   "zhtw": "草薙蟲草",
+   "zhcn": "草薙虫草"
+  }
+ ],
+ "date": [
+  "03/21/2026,26151527431197674",
+  "01/11/2026,25492755340408223",
+  "01/07/2026,25438903332460091",
+  "02/16/2022,5715613201882397",
+  "03/20/2018,3698883030222101"
+ ],
+ "names_zhtw": [
+  "草薙小林蟲草"
+ ],
+ "names_en": [],
+ "url": "3698883030222101",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_6_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_11_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_3_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_4_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_5_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_1_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_7_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_8_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_9_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_10_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_2_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Yosiokobayasia_kusanaginensis_12_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Yosiokobayasia_kusanaginensis_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Yosiokobayasia_kusanaginensis_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Yosiokobayasia_kusanaginensis_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Yosiokobayasia_kusanaginensis_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "羅美玲",
+   "image_src": "Metarhizium_kusanagiense_4_CC BY-NC_羅美玲.jpg"
+  },
+  {
+   "author": "羅美玲",
+   "image_src": "Metarhizium_kusanagiense_2_CC BY-NC_羅美玲.jpg"
+  },
+  {
+   "author": "羅美玲",
+   "image_src": "Metarhizium_kusanagiense_3_CC BY-NC_羅美玲.jpg"
+  },
+  {
+   "author": "羅美玲",
+   "image_src": "Metarhizium_kusanagiense_1_CC BY-NC_羅美玲.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_14.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_15.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_16.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_17.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_18.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_19.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_20.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_21.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_22.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_0b4444c0-eba5-11f0-9256-f996bf44aa61_23.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_b0250160-f36f-11f0-8963-3b6c150f88e7_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_b0250160-f36f-11f0-8963-3b6c150f88e7_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_b0250160-f36f-11f0-8963-3b6c150f88e7_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_f5a08a90-2595-11f1-a2c5-819526c06663_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_f5a08a90-2595-11f1-a2c5-819526c06663_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_f5a08a90-2595-11f1-a2c5-819526c06663_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_f5a08a90-2595-11f1-a2c5-819526c06663_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Yosiokobayasia_kusanaginensis_f5a08a90-2595-11f1-a2c5-819526c06663_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "草薙小林虫草"
+ ],
+ "meta": {
+  "CapColors": "4294303411,4292786311",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "10,35",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
+  "Seasons": "",
+  "GrowthType": "singly",
+  "GrowthEnv": "parasitic",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Cultivated": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "草薙小林蟲草，屬名Yosiokobayasia紀念日本真菌學家小林義雄（Yosio Kobayasi）；種小名kusanagiensis指其模式產地草薙。為一蟲生真菌，自寄主之蛾繭伸出子座；子座棒狀而具頭部，內生子囊殼。"
+ },
+ "inaturalist": [
+  {
+   "name": "Yosiokobayasia kusanagiensis",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1607361",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/609113876/square.jpg"
+  }
+ ],
+ "timestamp": "20260823-203055"
+}

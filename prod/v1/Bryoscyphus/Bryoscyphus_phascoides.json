@@ -1,0 +1,126 @@
+{
+ "genus": "Bryoscyphus",
+ "name": "phascoides",
+ "date": [
+  "01/27/2026,25802815696068851",
+  "12/27/2025,25848313891519031"
+ ],
+ "names_zhtw": [
+  "碟狀苔盤菌"
+ ],
+ "names_en": [],
+ "url": "25802815696068851",
+ "images": [
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_9.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_10.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Bryoscyphus_phascoide_7977cd10-0f2f-11f1-942e-ebe424231d36_11.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Bryoscyphus_phascoide_74994a20-0f1c-11f1-bc56-1143e7374c6e_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Bryoscyphus_phascoide_74994a20-0f1c-11f1-bc56-1143e7374c6e_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Bryoscyphus_phascoide_74994a20-0f1c-11f1-bc56-1143e7374c6e_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Bryoscyphus_phascoide_74994a20-0f1c-11f1-bc56-1143e7374c6e_4.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "碟状苔盘菌"
+ ],
+ "meta": {
+  "CapColors": "4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "smooth",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "no",
+  "Seasons": "",
+  "GrowthType": "scattered,grouped",
+  "GrowthEnv": "moss",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "碟狀苔盤菌，屬名Bryoscyphus意為「苔上之杯」；種小名phascoides意為「似小立碗蘚（Phascum）的」，指其寄主。子囊盤微小、碟狀、淡色、具短柄；生於苔蘚之體上（苔生），為一子囊菌。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Bryoscyphus phascoides",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1143144",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/100291627/square.jpeg"
+  }
+ ],
+ "timestamp": "20260823-203055"
+}

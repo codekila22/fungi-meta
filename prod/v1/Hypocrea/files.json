@@ -2,7 +2,7 @@
  "name": "Hypocrea",
  "zhtw": "肉座菌屬",
  "zhcn": "肉座菌属",
- "timestamp": "20260816-195131",
+ "timestamp": "20260823-203055",
  "list": [
   {
    "name": "Hypocrea cf. rogersonii",
@@ -41,9 +41,9 @@
    "name": "Hypocrea jecorina",
    "zhtw": "紅褐肉座菌",
    "zhcn": "红褐肉座菌",
-   "current": "Trichoderma jecorina",
-   "current_zhtw": "紅褐木黴菌",
-   "current_zhcn": "红褐木霉菌",
+   "current": "Trichoderma reesei",
+   "current_zhtw": "里氏木黴菌",
+   "current_zhcn": "里氏木霉菌",
    "img": "Hypocrea_jecorina_3_CC BY-NC_柯文俊.jpg"
   },
   {

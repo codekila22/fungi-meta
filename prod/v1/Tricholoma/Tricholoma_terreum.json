@@ -2,6 +2,7 @@
  "genus": "Tricholoma",
  "name": "terreum",
  "date": [
+  "08/14/2026,28082066558143742",
   "03/18/2026,26164987466518337",
   "08/26/2025,24283561967994239",
   "08/23/2024,7921147384662290",
@@ -282,17 +283,21 @@
   "StalkDiamRangeValuess": "10,15",
   "StalkLengthRangeValuess": "30,50",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "singly,scattered",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
-  "Edible": "",
+  "NearHome": "no",
+  "Bruising": "no",
+  "Bioluminescent": "no",
+  "Edible": "not-edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "棕灰口蘑，屬名Tricholoma意為「毛緣」；種小名terreum意為「土色的」，指其棕灰之蓋色。蓋圓錐至凸形、棕灰色、被絲毛狀纖維並向外輻射、中央具鈍凸；菌褶白至灰而常帶黃；柄白；喜針葉林與鈣質土。",
+  "Note": "棕灰口蘑，屬名Tricholoma意為「毛緣」；種小名terreum意為「土色的」，指其棕灰之菌蓋色澤。菌蓋圓錐至凸形、棕灰色、被絲毛狀纖維並向外輻射、中央具鈍凸；菌褶白至灰而常帶黃；柄白；喜針葉林與鈣質土。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -325,5 +330,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6133625/thumb.jpg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

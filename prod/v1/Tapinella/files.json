@@ -2,13 +2,19 @@
  "name": "Tapinella",
  "zhtw": "樁菇屬",
  "zhcn": "桩菇属",
- "timestamp": "20260816-195131",
+ "timestamp": "20260823-203055",
  "list": [
   {
    "name": "Tapinella atrotomentosa",
    "zhtw": "黑毛樁菇",
    "zhcn": "黑毛桩菇",
    "img": "Tapinella_atrotomentosus_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "name": "Tapinella atrotomentosa var. bambusina",
+   "zhtw": "竹生黑毛樁菇",
+   "zhcn": "竹生黑毛桩菇",
+   "img": "Tapinella_atrotomentosus var. bambusinus_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Tapinella atrotomentosus",
@@ -18,12 +24,6 @@
    "current_zhtw": "黑毛樁菇",
    "current_zhcn": "黑毛桩菇",
    "img": "Tapinella_atrotomentosus_2_CC BY-NC_James Ho.jpg"
-  },
-  {
-   "name": "Tapinella atrotomentosus var. bambusinus",
-   "zhtw": "竹生黑毛樁菇",
-   "zhcn": "竹生黑毛桩菇",
-   "img": "Tapinella_atrotomentosus var. bambusinus_1_CC BY-NC_向高世.jpg"
   },
   {
    "name": "Tapinella panuoides",

@@ -2,15 +2,21 @@
  "genus": "Lauriliella",
  "name": "taxodii",
  "date": [
-  "01/01/0001"
+  "12/12/2025,25241909812159445",
+  "08/15/2016,1046437758799988"
  ],
  "names_zhtw": [
   "落羽杉小勞氏菌",
-  "落羽杉勞氏革菌"
+  "落羽杉勞氏革菌",
+  "紫杉木齒菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/3263",
+ "url": "1046437758799988",
  "images": [
+  {
+   "author": "陳雅德",
+   "image_src": "Lauriliella_taxodii_1046437758799988_a6dd2440-9caa-11f1-8e7c-bbf14b4690fc_1.jpg"
+  },
   {
    "author": "陳雅德",
    "image_src": "Laurilia_taxodii_2_CC BY-NC_陳雅德.jpg"
@@ -20,8 +26,36 @@
    "image_src": "Laurilia_taxodii_1_CC BY-NC_陳雅德.jpg"
   },
   {
-   "author": "陳雅德",
-   "image_src": "Laurilia_taxodii_3_CC BY-NC_陳雅德.jpg"
+   "author": "陳麗紅",
+   "image_src": "Echinodotium_taxodii_cbca3560-e23b-11f0-bac7-9fe6c1617890_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinodotium_taxodii_cbca3560-e23b-11f0-bac7-9fe6c1617890_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinodotium_taxodii_cbca3560-e23b-11f0-bac7-9fe6c1617890_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinodotium_taxodii_cbca3560-e23b-11f0-bac7-9fe6c1617890_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinodotium_taxodii_cbca3560-e23b-11f0-bac7-9fe6c1617890_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinodotium_taxodii_cbca3560-e23b-11f0-bac7-9fe6c1617890_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinodotium_taxodii_cbca3560-e23b-11f0-bac7-9fe6c1617890_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Echinodotium_taxodii_cbca3560-e23b-11f0-bac7-9fe6c1617890_8.jpg"
   }
  ],
  "synonym": [
@@ -29,11 +63,17 @@
    "name": "Laurilia taxodii",
    "zhtw": "落羽杉勞氏菌",
    "zhcn": "落羽杉劳氏菌"
+  },
+  {
+   "name": "Echinodontium taxodii",
+   "zhtw": "紫杉木齒菌",
+   "zhcn": "紫杉木齿菌"
   }
  ],
  "names_zhcn": [
   "落羽杉小劳氏菌",
-  "落羽杉劳氏革菌"
+  "落羽杉劳氏革菌",
+  "紫杉木齿菌"
  ],
  "meta": {
   "CapColors": "4286611584,4284635991,4278190080",
@@ -67,7 +107,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "落羽杉小勞氏菌，屬名Lauriliella為革菌類之一屬；種小名taxodii意為「落羽杉屬（Taxodium）的」，指其寄主。子實體平伏至略反捲、革質、淡褐至灰褐色；子實層平滑至略瘤狀；生於落羽杉等針葉樹之枯木上，致木材腐朽。",
+  "Note": "落羽杉小勞氏菌，屬名Lauriliella為革菌類之一屬；種小名taxodii意為「落羽杉屬（Taxodium）的」，指其寄主。子實體平伏至略反捲、革質、淡褐至灰褐色；子實層平滑至略瘤狀。舊置木齒菌屬，作Echinodontium taxodii（中文名紫杉木齒菌），該屬之種以齒狀子實層為特徵；本種後經分子證據移出，改隸小勞氏菌屬。生於落羽杉、紅檜等針葉樹之枯木與活立木基部，致木材腐朽。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -79,5 +119,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29588770/square.jpeg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

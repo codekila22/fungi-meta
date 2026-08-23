@@ -2,13 +2,13 @@
  "genus": "Entoloma",
  "name": "chytrophilum",
  "date": [
-  "01/01/0001"
+  "09/09/2017,1306994096077685"
  ],
  "names_zhtw": [
   "紫迷粉褶菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/5459",
+ "url": "1306994096077685",
  "images": [
   {
    "author": "郭淑慧",
@@ -58,7 +58,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "紫迷粉褶菌，種小名chytrophilum意為「喜腐生質的」。蓋藍灰色、成熟時平展而中央略凹；菌褶粉褶菌屬特有之肉粉色；柄中生、圓柱形、為本屬之藍灰色小型種。",
+  "Note": "紫迷粉褶菌，種小名chytrophilum意為「喜腐生質的」。菌蓋藍灰色、成熟時平展而中央略凹；菌褶粉褶菌屬特有之肉粉色；柄中生、圓柱形、為本屬之藍灰色小型種。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -70,5 +70,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28080649/thumb.jpg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

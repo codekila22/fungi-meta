@@ -2,6 +2,7 @@
  "genus": "Deconica",
  "name": "protea",
  "date": [
+  "08/23/2026,28098028259880905",
   "10/10/2024,8295661293877562",
   "05/28/2024,7432452483531785",
   "06/01/2022,4953286154781776",
@@ -148,6 +149,46 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Deconica_protea_e8e86d60-1f3c-11ef-87c5-b3f8b8ccb40f_9.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_9.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -186,7 +227,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "海神無錐菇，屬名Deconica為無錐菇之屬；種小名protea意指希臘變幻之海神普羅透斯（Proteus），喻其多變之形態。蓋小、褐色、具吸水性；菌褶疏、暗褐色；柄短；生於月桃等單子葉植物之枯桿上。",
+  "Note": "海神無錐菇，屬名Deconica為無錐菇之屬；種小名protea意指希臘變幻之海神普羅透斯（Proteus），喻其多變之形態。菌蓋小、褐色、具吸水性；菌褶疏、暗褐色；柄短；生於月桃等單子葉植物之枯桿上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -198,5 +239,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157104503/thumb.jpg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

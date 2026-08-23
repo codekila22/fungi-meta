@@ -2,6 +2,7 @@
  "genus": "Auricularia",
  "name": "cornea",
  "date": [
+  "08/22/2026,28093610850322646",
   "08/11/2026,27932586716425061",
   "06/17/2026,27285679871115752",
   "11/02/2025,24911292071887889",
@@ -683,6 +684,30 @@
   {
    "author": "江志緯",
    "image_src": "Auricularia_cornea_606f0520-bc66-11f0-861e-9ff72c9295f4_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_28093610850322646_28041a60-9edb-11f1-9e4c-35150746c971_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_28093610850322646_28041a60-9edb-11f1-9e4c-35150746c971_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_28093610850322646_28041a60-9edb-11f1-9e4c-35150746c971_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_28093610850322646_28041a60-9edb-11f1-9e4c-35150746c971_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_28093610850322646_28041a60-9edb-11f1-9e4c-35150746c971_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Auricularia_cornea_28093610850322646_28041a60-9edb-11f1-9e4c-35150746c971_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -740,5 +765,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28895640/thumb.jpg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

@@ -2,6 +2,9 @@
  "genus": "Lepiota",
  "name": "bengalensis",
  "date": [
+  "08/23/2026,28095854890098242",
+  "08/23/2026,28097695359914195",
+  "08/21/2026,28070321462651585",
   "05/16/2026,26807455815604829",
   "08/02/2025,24014597984890640",
   "07/16/2025,23877064391977334",
@@ -215,6 +218,26 @@
   {
    "author": "何俊霖",
    "image_src": "Lepiota_bengalensis_e922b9f0-631b-11f1-8c7b-35e0c681c388_6.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lepiota_bengalensis_28097695359914195_a658c4c0-9ee9-11f1-8d4f-8d12d174a7e6_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lepiota_bengalensis_28097695359914195_a658c4c0-9ee9-11f1-8d4f-8d12d174a7e6_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lepiota_bengalensis_28097695359914195_a658c4c0-9ee9-11f1-8d4f-8d12d174a7e6_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lepiota_bengalensis_28097695359914195_a658c4c0-9ee9-11f1-8d4f-8d12d174a7e6_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lepiota_bengalensis_28097695359914195_a658c4c0-9ee9-11f1-8d4f-8d12d174a7e6_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -267,5 +290,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

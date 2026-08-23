@@ -2,6 +2,7 @@
  "genus": "Coprinopsis",
  "name": "lilacina",
  "date": [
+  "08/21/2026,28095773240106407",
   "06/13/2026,27191840140499726",
   "07/30/2023,6245750128868699",
   "10/16/2021,4230153143761751",
@@ -158,6 +159,46 @@
   {
    "author": "何俊霖",
    "image_src": "Coprinopsis_lilacina_d39a8dc0-6969-11f1-83fd-65b4efef4895_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_lilacina_28095773240106407_52bea470-9ede-11f1-9e4c-35150746c971_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_lilacina_28095773240106407_52bea470-9ede-11f1-9e4c-35150746c971_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_lilacina_28095773240106407_52bea470-9ede-11f1-9e4c-35150746c971_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_lilacina_28095773240106407_52bea470-9ede-11f1-9e4c-35150746c971_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_lilacina_28095773240106407_52bea470-9ede-11f1-9e4c-35150746c971_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_lilacina_28095773240106407_52bea470-9ede-11f1-9e4c-35150746c971_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_lilacina_28095773240106407_52bea470-9ede-11f1-9e4c-35150746c971_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_lilacina_28095773240106407_52bea470-9ede-11f1-9e4c-35150746c971_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_lilacina_28095773240106407_52bea470-9ede-11f1-9e4c-35150746c971_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Coprinopsis_lilacina_28095773240106407_52bea470-9ede-11f1-9e4c-35150746c971_10.jpg"
   }
  ],
  "synonym": [
@@ -194,17 +235,21 @@
   "StalkDiamRangeValuess": "2,5",
   "StalkLengthRangeValuess": "15,25",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "淡紫色擬鬼傘，屬名Coprinopsis意指其似鬼傘之習性；種小名lilacina意為「淡紫色的」。子實體小，被淡紫色之菌幕；紫色與灰白色之個體有時並存於同一群；紫色型蓋面常裂為小格狀而不見典型之墨化自溶。",
+  "Note": "淡紫色擬鬼傘，屬名Coprinopsis意指其似鬼傘之習性；種小名lilacina意為「淡紫色的」。子實體小，被淡紫色之菌幕；紫色與灰白色之個體有時並存於同一群；紫色型菌蓋表面常裂為小格狀而不見典型之墨化自溶。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -216,5 +261,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/149561074/square.jpg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

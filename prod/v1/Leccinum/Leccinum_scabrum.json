@@ -2,10 +2,13 @@
  "genus": "Leccinum",
  "name": "scabrum",
  "date": [
-  "06/27/2021,7463343633776003"
+  "06/27/2021,7463343633776003",
+  "07/28/2020,2965223220254756",
+  "07/13/2020,2948207491956329"
  ],
  "names_zhtw": [
-  "褐疣柄牛肝菌"
+  "褐疣柄牛肝菌",
+  "疣柄牛肝菌複合群"
  ],
  "names_en": [],
  "url": "7463343633776003",
@@ -33,10 +36,55 @@
   {
    "author": "蔡古媧",
    "image_src": "Leccinum_scabrum_3af29d70-2720-11ef-ab2e-3d3d7be2fcbb_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leccinum_scrabrum complex_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leccinum_scrabrum complex_2_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leccinum_scrabrum complex_3_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Leccinum_scrabrum complex_4_CC BY-NC_向高世.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leccinum_scrabrum complex_1_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leccinum_scrabrum complex_2_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leccinum_scrabrum complex_3_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leccinum_scrabrum complex_4_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leccinum_scrabrum complex_5_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leccinum_scrabrum complex_6_CC BY-NC_James Ho.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leccinum_scrabrum complex_7_CC BY-NC_James Ho.jpg"
   }
  ],
  "names_zhcn": [
-  "褐疣柄牛肝菌"
+  "褐疣柄牛肝菌",
+  "疣柄牛肝菌复合群"
  ],
  "meta": {
   "CapColors": "4286141768",
@@ -71,7 +119,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "褐疣柄牛肝菌，種小名scabrum意為「粗糙的」，指菌柄密被粗糙之疣點鱗（scaber）。蓋褐至茶褐、緣色較淡、平滑而乾至微黏，柄細長向上漸細、白底被白至黑褐色疣鱗，肉白、幼時緊實而旋即海綿質吸水，與樺木共生。",
+  "Note": "褐疣柄牛肝菌，屬名Leccinum為疣柄牛肝菌之屬；種小名scabrum意為「粗糙的」，指菌柄密被粗糙之疣點鱗（scaber）。菌蓋褐至茶褐、緣色較淡、平滑而乾至微黏；孔面初白後轉污褐；柄細長向上漸細、白底密被白至黑褐色之疣鱗；肉白、幼時緊實而旋即海綿質吸水；與樺木共生為外生菌根菌。本種實為一複合群：分子研究顯示廣義的Leccinum scabrum之下包含數個形態相近、難以肉眼區分的種，台灣的採集紀錄多僅能鑑定至此複合群層級。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -132,5 +180,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "omiense",
  "date": [
+  "08/17/2026,28016460048037727",
   "07/03/2026,27595144526835950",
   "06/17/2026,27567706282913108",
   "09/13/2024,8029377953839232",
@@ -246,7 +247,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "黃條紋粉褶菌，屬名Entoloma意為「內捲之緣」，為粉褶菌之屬；種小名omiense意為「（日本）大峨山的」。蓋黃色、具放射狀條紋；菌褶粉褶菌屬特有之肉粉色；柄黃色；地生於林下。",
+  "Note": "黃條紋粉褶菌，屬名Entoloma意為「內捲之緣」，為粉褶菌之屬；種小名omiense意為「（日本）大峨山的」。菌蓋黃色、具放射狀條紋；菌褶粉褶菌屬特有之肉粉色；柄黃色；地生於林下。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -256,14 +257,7 @@
    "cname_zh": "",
    "url": "https://www.inaturalist.org/taxa/854749-Entoloma-omiense",
    "src": "https://static.inaturalist.org/photos/30298327/thumb.jpg"
-  },
-  {
-   "name": "Entoloma omiense",
-   "cname": "",
-   "cname_zh": "",
-   "url": "https://www.inaturalist.org/taxa/1431787-Entoloma-omiense",
-   "src": ""
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

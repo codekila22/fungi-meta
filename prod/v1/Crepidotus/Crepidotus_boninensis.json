@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "boninensis",
  "date": [
+  "08/22/2026,28086191637731234",
   "03/15/2026,26099287029755048",
   "07/15/2025,24101552399528531",
   "10/10/2024,8292946840815674",
@@ -280,6 +281,42 @@
   {
    "author": "何俊霖",
    "image_src": "Crepidotus_boninensis_b608d750-234e-11f1-af08-d9a91f1da3c2_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_boninensis_28086191637731234_95c6e2a0-9e8e-11f1-9e10-fb87728df5c8_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_boninensis_28086191637731234_95c6e2a0-9e8e-11f1-9e10-fb87728df5c8_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_boninensis_28086191637731234_95c6e2a0-9e8e-11f1-9e10-fb87728df5c8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_boninensis_28086191637731234_95c6e2a0-9e8e-11f1-9e10-fb87728df5c8_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_boninensis_28086191637731234_95c6e2a0-9e8e-11f1-9e10-fb87728df5c8_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_boninensis_28086191637731234_95c6e2a0-9e8e-11f1-9e10-fb87728df5c8_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_boninensis_28086191637731234_95c6e2a0-9e8e-11f1-9e10-fb87728df5c8_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_boninensis_28086191637731234_95c6e2a0-9e8e-11f1-9e10-fb87728df5c8_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_boninensis_28086191637731234_95c6e2a0-9e8e-11f1-9e10-fb87728df5c8_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -308,17 +345,21 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Crepidotus roseoornatus,,",
-  "Note": "小笠原靴耳，屬名Crepidotus意為「似鞋的耳」，指其貝殼狀而側生之子實體；種小名boninensis意為「小笠原（群島）的」。蓋小、貝殼形至腎形、無柄而側生、白至淡褐、表面具細紋；菌褶自著生點放射；基部具粉紅色絨毛；生於枯木上。",
+  "Note": "小笠原靴耳，屬名Crepidotus意為「似鞋的耳」，指其貝殼狀而側生之子實體；種小名boninensis意為「小笠原（群島）的」。菌蓋小、貝殼形至腎形、無柄而側生、白至淡褐、表面具細紋；菌褶自著生點放射；基部具粉紅色絨毛；生於枯木上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "玫瑰靴耳,,",
   "la_zhcn": "玫瑰靴耳,,"
@@ -332,5 +373,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159168842/thumb.jpg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

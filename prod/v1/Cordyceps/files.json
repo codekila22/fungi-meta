@@ -2,7 +2,7 @@
  "name": "Cordyceps",
  "zhtw": "蟲草屬",
  "zhcn": "虫草属",
- "timestamp": "20260816-195131",
+ "timestamp": "20260823-203055",
  "list": [
   {
    "name": "Cordyceps cylindrica",
@@ -26,7 +26,7 @@
    "name": "Cordyceps kusanagiense",
    "zhtw": "草薙蟲草",
    "zhcn": "草薙虫草",
-   "current": "Yosiokobayasia kusanaginensis",
+   "current": "Yosiokobayasia kusanagiensis",
    "current_zhtw": "草薙小林蟲草",
    "current_zhcn": "草薙小林虫草",
    "img": "Yosiokobayasia_kusanaginensis_6_CC BY-NC_Sunny Wang.jpg"
@@ -69,12 +69,6 @@
    "zhtw": "偽粉色蟲草",
    "zhcn": "伪粉色虫草",
    "img": "Cordyceps_pseudorosea_d45c20d0-69fb-11ef-adfd-219b7f82a202_1.jpg"
-  },
-  {
-   "name": "Cordyceps roseostromata",
-   "zhtw": "紅座蟲草",
-   "zhcn": "红座虫草",
-   "img": "Cordyceps_roseostromata_1_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Cordyceps tenuipes",

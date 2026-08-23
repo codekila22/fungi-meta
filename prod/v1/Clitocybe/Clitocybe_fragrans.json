@@ -2,7 +2,7 @@
  "genus": "Clitocybe",
  "name": "fragrans",
  "date": [
-  "01/01/0001"
+  "05/08/2015"
  ],
  "names_zhtw": [
   "芳香杯傘"
@@ -11,23 +11,23 @@
  "url": "https://fungimap.biodiv.tw/pages/685",
  "images": [
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Clitocybe_fragrans_4_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Clitocybe_fragrans_5_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Clitocybe_fragrans_3_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Clitocybe_fragrans_1_CC BY-NC.jpg"
   },
   {
-   "author": "",
+   "author": "柯文俊",
    "image_src": "Clitocybe_fragrans_2_CC BY-NC.jpg"
   }
  ],
@@ -66,7 +66,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "芳香杯傘，種小名fragrans意為「芳香的」，指其濃烈之茴香氣味。蓋淡黃褐至近白、具變水性、凸形而後平展或中央略下凹、緣初內捲，菌褶白至淡黃、延生，柄細而同色，最醒目之特徵為強烈之洋茴香（anise）香氣，群生於林地落葉層。",
+  "Note": "芳香杯傘，種小名fragrans意為「芳香的」，指其濃烈之茴香氣味。菌蓋淡黃褐至近白、具變水性、凸形而後平展或中央略下凹、緣初內捲，菌褶白至淡黃、延生，柄細而同色，最醒目之特徵為強烈之洋茴香（anise）香氣，群生於林地落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -78,5 +78,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4132600/thumb."
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }

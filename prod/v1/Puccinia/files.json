@@ -2,7 +2,7 @@
  "name": "Puccinia",
  "zhtw": "柄銹菌屬",
  "zhcn": "柄锈菌属",
- "timestamp": "20260816-195131",
+ "timestamp": "20260823-203055",
  "list": [
   {
    "name": "Puccinia allii",
@@ -71,9 +71,12 @@
    "img": "Puccinia_hydrocotyles_1_CC BY-NC_陳雅芬.jpg"
   },
   {
-   "name": "Puccinia liearis",
+   "name": "Puccinia linearis",
    "zhtw": "線狀柄銹菌",
    "zhcn": "线状柄锈菌",
+   "current": "Puccinia sessilis",
+   "current_zhtw": "無柄柄銹菌",
+   "current_zhcn": "无柄柄锈菌",
    "img": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_1.jpg"
   },
   {
@@ -102,6 +105,12 @@
    "zhtw": "雞屎藤柄銹菌",
    "zhcn": "鸡屎藤柄锈菌",
    "img": "Aecidium_paederiae_00acd660-886b-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "name": "Puccinia sessilis",
+   "zhtw": "無柄柄銹菌",
+   "zhcn": "无柄柄锈菌",
+   "img": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_1.jpg"
   },
   {
    "name": "Puccinia spegazzinii",

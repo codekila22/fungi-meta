@@ -2,6 +2,7 @@
  "genus": "Coprinopsis",
  "name": "cinerea",
  "date": [
+  "08/22/2026,28095458466804551",
   "07/18/2026,27637437032606699",
   "12/19/2025,25285716081112151",
   "09/14/2025,24392042650479503",
@@ -318,6 +319,30 @@
   {
    "author": "何俊霖",
    "image_src": "Coprinopsis_cinerea_27637437032606699_2190de00-833a-11f1-a062-8118f6bbb4de_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Coprinopsis_cinerea_28095458466804551_9c0a8720-9ede-11f1-9e4c-35150746c971_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Coprinopsis_cinerea_28095458466804551_9c0a8720-9ede-11f1-9e4c-35150746c971_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Coprinopsis_cinerea_28095458466804551_9c0a8720-9ede-11f1-9e4c-35150746c971_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Coprinopsis_cinerea_28095458466804551_9c0a8720-9ede-11f1-9e4c-35150746c971_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Coprinopsis_cinerea_28095458466804551_9c0a8720-9ede-11f1-9e4c-35150746c971_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Coprinopsis_cinerea_28095458466804551_9c0a8720-9ede-11f1-9e4c-35150746c971_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -347,8 +372,9 @@
   "StalkDiamRangeValuess": "1,3",
   "StalkLengthRangeValuess": "30,90",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped,scattered,clustered",
   "GrowthEnv": "ground",
@@ -356,10 +382,11 @@
   "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "灰蓋擬鬼傘，屬名Coprinopsis意指其似鬼傘（Coprinus）而糞腐之習性；種小名cinerea意為「灰色的」，指其灰色之菌蓋。蓋卵形至鐘形、灰色、被絮狀鱗餘、具溝紋，成熟後由緣墨化液化；菌褶初白後轉黑；柄白而中空；為常用之模式研究生物。常會大量出現在馬路邊坡護坡噴料上。",
+  "Note": "灰蓋擬鬼傘，屬名Coprinopsis意指其似鬼傘（Coprinus）而糞腐之習性；種小名cinerea意為「灰色的」，指其灰色之菌蓋。菌蓋卵形至鐘形、灰色、被絮狀鱗餘、具溝紋，成熟後由緣墨化液化；菌褶初白後轉黑；柄白而中空；為常用之模式研究生物。常會大量出現在馬路邊坡護坡噴料上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -378,5 +405,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/85322652/thumb.jpeg"
   }
  ],
- "timestamp": "20260816-195131"
+ "timestamp": "20260823-203055"
 }
