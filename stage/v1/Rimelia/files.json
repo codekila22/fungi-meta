@@ -2,12 +2,15 @@
  "name": "Rimelia",
  "zhtw": "網裂梅衣屬",
  "zhcn": "网裂梅衣属",
- "timestamp": "20260823-102649",
+ "timestamp": "20260823-175433",
  "list": [
   {
-   "name": "Rimelia Clavulifera",
+   "name": "Rimelia clavulifera",
    "zhtw": "白腹緣網裂梅衣",
    "zhcn": "白腹缘网裂梅衣",
+   "current": "Parmotrema clavuliferum",
+   "current_zhtw": "棒緣裸緣梅衣",
+   "current_zhcn": "棒缘裸缘梅衣",
    "img": "Rimelia_Clavulifera_1_CC BY-NC_柯文俊.jpg"
   },
   {

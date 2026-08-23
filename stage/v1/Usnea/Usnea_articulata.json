@@ -1,0 +1,82 @@
+{
+ "genus": "Usnea",
+ "name": "articulata",
+ "date": [
+  "02/19/2023,8301127836664241"
+ ],
+ "names_zhtw": [
+  "鉸狀松蘿"
+ ],
+ "names_en": [],
+ "url": "8301127836664241",
+ "images": [
+  {
+   "author": "蔡古媧",
+   "image_src": "Usnea_articulate_e6d9c2c0-8865-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Usnea_articulate_e6d9c2c0-8865-11ef-be38-335f10af7160_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Usnea_articulate_e6d9c2c0-8865-11ef-be38-335f10af7160_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Usnea_articulate_e6d9c2c0-8865-11ef-be38-335f10af7160_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Usnea_articulate_e6d9c2c0-8865-11ef-be38-335f10af7160_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "铰状松萝"
+ ],
+ "meta": {
+  "CapColors": "4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "鉸狀松蘿，屬名Usnea為松蘿之屬；種小名articulata意為「具關節的」，正指其節斷之枝條。地衣體線狀、下垂、灰綠色，老之主枝漸變光滑並膨大、狀似「香腸」而呈一節節之關節狀；附生於樹皮上。"
+ },
+ "inaturalist": [
+  {
+   "name": "Usnea articulata",
+   "cname": "string-of-sausage lichen",
+   "cname_zh": "鉸狀松蘿",
+   "url": "https://www.inaturalist.org/taxa/410737",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9931532/square.jpeg"
+  }
+ ],
+ "timestamp": "20260823-175433"
+}

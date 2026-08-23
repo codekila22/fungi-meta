@@ -1,0 +1,98 @@
+{
+ "genus": "Parmotrema",
+ "name": "clavuliferum",
+ "date": [
+  "01/01/0001"
+ ],
+ "names_zhtw": [
+  "棒緣裸緣梅衣",
+  "白腹緣網裂梅衣"
+ ],
+ "names_en": [],
+ "url": "https://fungimap.biodiv.tw/pages/1375",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Rimelia_Clavulifera_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Rimelia_Clavulifera_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Rimelia_Clavulifera_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Rimelia_Clavulifera_4_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Rimelia_Clavulifera_5_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Rimelia_Clavulifera_6_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Rimelia_Clavulifera_7_CC BY-NC_柯文俊.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Rimelia clavulifera",
+   "zhtw": "白腹緣網裂梅衣",
+   "zhcn": "白腹缘网裂梅衣"
+  }
+ ],
+ "names_zhcn": [
+  "棒缘裸缘梅衣",
+  "白腹缘网裂梅衣"
+ ],
+ "meta": {
+  "CapColors": "4285238819,4278222848",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "棒緣裸緣梅衣，屬名Parmotrema指其葉狀地衣體與裸出之下表面周緣；種小名clavuliferum意為「具小棒（裂芽）的」。地衣體葉狀、灰綠色、上表面具白色之網狀裂溝；下表面黑而周緣裸白；生於樹皮與岩上。原置於網裂梅衣屬（Rimelia clavulifera，白腹緣網裂梅衣），該屬已併入裸緣梅衣屬（Parmotrema）。"
+ },
+ "inaturalist": [
+  {
+   "name": "Parmotrema clavuliferum",
+   "cname": "",
+   "cname_zh": "白腹緣網裂梅衣",
+   "url": "https://www.inaturalist.org/taxa/974647",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32365682/square.jpeg"
+  }
+ ],
+ "timestamp": "20260823-175433"
+}

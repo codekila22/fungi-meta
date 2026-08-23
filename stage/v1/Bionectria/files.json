@@ -2,12 +2,15 @@
  "name": "Bionectria",
  "zhtw": "生赤殼屬",
  "zhcn": "生赤壳属",
- "timestamp": "20260823-102649",
+ "timestamp": "20260823-175433",
  "list": [
   {
    "name": "Bionectria byssicola",
    "zhtw": "亞麻生生赤殼",
    "zhcn": "亚麻生生赤壳",
+   "current": "Clonostachys byssicola",
+   "current_zhtw": "亞麻生黏帚黴",
+   "current_zhcn": "亚麻生黏帚霉",
    "img": "Bionectria_byssicola_1_CC BY-NC_陳雅芬.jpg"
   }
  ],

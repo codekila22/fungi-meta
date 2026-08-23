@@ -2,7 +2,7 @@
  "name": "Trichoderma",
  "zhtw": "木黴菌屬",
  "zhcn": "木霉菌属",
- "timestamp": "20260823-102649",
+ "timestamp": "20260823-175433",
  "list": [
   {
    "name": "Trichoderma alutaceum",
@@ -50,12 +50,6 @@
    "img": "Trichoderma_lixii_592ec790-0871-11f0-9a70-2746f022c7c6_1.jpg"
   },
   {
-   "name": "Trichoderma jecorina",
-   "zhtw": "紅褐木黴菌",
-   "zhcn": "红褐木霉菌",
-   "img": "Hypocrea_jecorina_3_CC BY-NC_柯文俊.jpg"
-  },
-  {
    "name": "Trichoderma lixii",
    "zhtw": "綠西木黴菌",
    "zhcn": "绿西木霉菌",
@@ -66,6 +60,12 @@
    "zhtw": "盾形木黴",
    "zhcn": "盾形木霉",
    "img": "Hypocrea_peltata_1_CC BY-NC_向高世.jpg"
+  },
+  {
+   "name": "Trichoderma reesei",
+   "zhtw": "里氏木黴菌",
+   "zhcn": "里氏木霉菌",
+   "img": "Hypocrea_jecorina_3_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Trichoderma sinuosum",

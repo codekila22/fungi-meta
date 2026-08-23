@@ -2,7 +2,7 @@
  "name": "Mycena",
  "zhtw": "小菇屬",
  "zhcn": "小菇属",
- "timestamp": "20260823-102649",
+ "timestamp": "20260823-175433",
  "list": [
   {
    "name": "Mycena Adonis",
@@ -122,7 +122,7 @@
    "name": "Mycena brunneisetosa",
    "zhtw": "褐剛毛小菇",
    "zhcn": "褐刚毛小菇",
-   "current": "Basidopus brunneisetosa",
+   "current": "Basidopus brunneisetosus",
    "current_zhtw": "褐剛毛基盤小菇",
    "current_zhcn": "褐刚毛基盘小菇",
    "img": "Mycena_brunneisetosa_0f697200-8873-11ef-be38-335f10af7160_1.jpg"
@@ -263,7 +263,7 @@
    "name": "Mycena indigotica",
    "zhtw": "靛藍小菇",
    "zhcn": "靛蓝小菇",
-   "current": "Basidopus indigotica",
+   "current": "Basidopus indigoticus",
    "current_zhtw": "靛藍基盤小菇",
    "current_zhcn": "靛蓝基盘小菇",
    "img": "Mycena_indigotica_1_CC BY-NC_向高世.jpg"

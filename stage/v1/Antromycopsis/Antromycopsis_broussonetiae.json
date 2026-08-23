@@ -303,13 +303,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": ",,",
@@ -318,5 +322,14 @@
   "la_zhtw": ",,",
   "la_zhcn": ",,"
  },
- "timestamp": "20260823-102649"
+ "inaturalist": [
+  {
+   "name": "Pleurotus cystidiosus",
+   "cname": "Abalone Oyster Mushroom",
+   "cname_zh": "泡囊側耳",
+   "url": "https://www.inaturalist.org/taxa/460346",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/333481379/square.jpeg"
+  }
+ ],
+ "timestamp": "20260823-175433"
 }

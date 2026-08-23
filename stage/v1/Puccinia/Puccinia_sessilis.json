@@ -1,0 +1,107 @@
+{
+ "genus": "Puccinia",
+ "name": "sessilis",
+ "date": [
+  "03/07/2025,9158836554226694"
+ ],
+ "names_zhtw": [
+  "無柄柄銹菌",
+  "線狀柄銹菌"
+ ],
+ "names_en": [],
+ "url": "9158836554226694",
+ "images": [
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Puccinia_liearis_25a88520-fcc6-11ef-ac4e-8368236df178_9.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Puccinia linearis",
+   "zhtw": "線狀柄銹菌",
+   "zhcn": "线状柄锈菌"
+  }
+ ],
+ "names_zhcn": [
+  "无柄柄锈菌",
+  "线状柄锈菌"
+ ],
+ "meta": {
+  "CapColors": "4294083840,4286141768",
+  "CapDiamRangeValues": "",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "leaves,parasitic",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "無柄柄銹菌，屬名Puccinia為柄銹菌之屬；種小名sessilis意為「無柄的、直接著生的」。為一銹菌，於鋪地黍之葉上形成線狀排列之褐色孢子堆，致葉部條斑。舊名Puccinia linearis（線狀柄銹菌，種小名意為「線形的」，正指其線狀排列之孢子堆）經Index Fungorum判定為不合法名（Illegitimate），現行名為Puccinia sessilis。"
+ },
+ "inaturalist": [
+  {
+   "name": "Puccinia sessilis",
+   "cname": "arum rust",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/383988",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/40353893/square.jpg"
+  }
+ ],
+ "timestamp": "20260823-175433"
+}
