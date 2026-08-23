@@ -14,6 +14,10 @@
  "images": [
   {
    "author": "林進福",
+   "image_src": "Ophiocordyceps_tricentri_7_CC BY-NC_林進福.jpg"
+  },
+  {
+   "author": "林進福",
    "image_src": "Ophiocordyceps_tricentri_1_CC BY-NC_林進福.jpg"
   },
   {
@@ -35,10 +39,6 @@
   {
    "author": "林進福",
    "image_src": "Ophiocordyceps_tricentri_6_CC BY-NC_林進福.jpg"
-  },
-  {
-   "author": "林進福",
-   "image_src": "Ophiocordyceps_tricentri_7_CC BY-NC_林進福.jpg"
   },
   {
    "author": "向高世",
@@ -149,5 +149,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260823-191841"
+ "timestamp": "20260823-203055"
 }

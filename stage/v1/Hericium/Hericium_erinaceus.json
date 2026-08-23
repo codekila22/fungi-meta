@@ -150,18 +150,24 @@
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
+  "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "50,300",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "medicinal,choice",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -177,5 +183,5 @@
    "src": "https://static.inaturalist.org/photos/170247695/square.jpg"
   }
  ],
- "timestamp": "20260823-191841"
+ "timestamp": "20260823-203055"
 }
