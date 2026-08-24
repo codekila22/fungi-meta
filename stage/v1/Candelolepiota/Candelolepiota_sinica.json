@@ -40,6 +40,14 @@
  "url": "6076925429084504",
  "images": [
   {
+   "author": "陳麗紅",
+   "image_src": "Leucoagaricus_lacrymans_c1effea0-2367-11f0-b1ed-631cf80c9c78_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucoagaricus_lacrymans_e5721360-a1b7-10d5-ba70-13ef1a043951_8.jpg"
+  },
+  {
    "author": "向高世",
    "image_src": "Leucocoprinus_meleagris_1_CC BY-NC_向高世.jpg"
   },
@@ -308,10 +316,6 @@
    "image_src": "Leucoagaricus_lacrymans_e5721360-a1b7-10d5-ba70-13ef1a043951_7.jpg"
   },
   {
-   "author": "陳麗紅",
-   "image_src": "Leucoagaricus_lacrymans_e5721360-a1b7-10d5-ba70-13ef1a043951_8.jpg"
-  },
-  {
    "author": "徐秀團",
    "image_src": "Leucoagaricus_lacrymans_32b6c2b0-83a7-11ef-afc1-ed71844e4d91_1.jpg"
   },
@@ -346,10 +350,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Leucoagaricus_lacrymans_c1effea0-2367-11f0-b1ed-631cf80c9c78_4.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Leucoagaricus_lacrymans_c1effea0-2367-11f0-b1ed-631cf80c9c78_5.jpg"
   },
   {
    "author": "陳麗紅",
@@ -463,9 +463,11 @@
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Leucoagaricus americanus,,",
   "Note": "燃燈環柄菇，屬名Candelolepiota之Candela為「蠟燭」，喻其如蠟滴淚般分泌之液滴；種小名sinica意為「中國的」。菌蓋白至乳色、被肉桂至銹褐色壓伏細鱗、中央具色深之凸起；鮮時菌蓋表面與柄分泌琥珀色液滴、乾後轉褐；為近年新立之單型屬。傘面與菌柄會分泌琥珀色液體，菌柄基部有白色菌絲體。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "美國白環蘑,,",
+  "la_zhcn": "美国白环蘑,,"
  },
  "inaturalist": [
   {
@@ -476,5 +478,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245992823/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260824-164608"
 }

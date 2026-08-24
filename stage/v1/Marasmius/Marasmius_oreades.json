@@ -31,12 +31,16 @@
  "url": "4782850741825319",
  "images": [
   {
-   "author": "陳麗紅",
-   "image_src": "Marasmius_oreades_1_CC BY-NC_陳麗紅.jpg"
+   "author": "江志緯",
+   "image_src": "Marasmius_oreades_856dab60-0952-11ef-952d-5fac8fe60e98_4.jpg"
   },
   {
    "author": "陳麗紅",
    "image_src": "Marasmius_oreades_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_oreades_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "author": "陳麗紅",
@@ -216,10 +220,6 @@
   },
   {
    "author": "江志緯",
-   "image_src": "Marasmius_oreades_856dab60-0952-11ef-952d-5fac8fe60e98_4.jpg"
-  },
-  {
-   "author": "江志緯",
    "image_src": "Marasmius_oreades_856dab60-0952-11ef-952d-5fac8fe60e98_5.jpg"
   },
   {
@@ -351,5 +351,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/35760467/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260824-164608"
 }

@@ -382,11 +382,14 @@
   "Bruising": "red",
   "Bioluminescent": "",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Candelolepiota sinica,,",
   "Note": "美國白環蘑，帽白具紅褐鱗、傷變黃轉紅褐，柄具環傷變色，叢生於木屑堆肥。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "燃燈環柄菇,,",
+  "la_zhcn": "燃灯环柄菇,,"
  },
  "inaturalist": [
   {
@@ -397,5 +400,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314654/square.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260824-164608"
 }

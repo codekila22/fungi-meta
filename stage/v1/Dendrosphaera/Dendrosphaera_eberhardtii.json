@@ -215,7 +215,7 @@
   "埃伯哈特枝状球菌"
  ],
  "meta": {
-  "CapColors": "4294961979",
+  "CapColors": "4294962944",
   "CapDiamRangeValues": "",
   "CapShape": "",
   "CapTexture": "",
@@ -230,17 +230,24 @@
   "StalkAttachment": "",
   "StalkColors": "",
   "StalkTexture": "",
+  "StalkHollow": "",
   "StalkPartialVeil": "",
   "StalkVolva": "",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "spring,summer",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -256,5 +263,5 @@
    "src": "https://static.inaturalist.org/photos/396341229/square.jpeg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260824-164608"
 }

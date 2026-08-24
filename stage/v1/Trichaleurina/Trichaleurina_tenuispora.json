@@ -2,6 +2,7 @@
  "genus": "Trichaleurina",
  "name": "tenuispora",
  "date": [
+  "08/18/2026,28105207682496296",
   "06/15/2026,27618653221151747",
   "06/13/2026,27200493322967741",
   "01/04/2026,25444740428543048",
@@ -453,9 +454,11 @@
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
+  "NearHome": "yes",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -471,5 +474,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156210195/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260824-164608"
 }

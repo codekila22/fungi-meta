@@ -17,6 +17,10 @@
  "url": "3515312788579127",
  "images": [
   {
+   "author": "James Ho",
+   "image_src": "Gymnopilus_aeruginosus_28079479235069141_319737a0-9ee1-11f1-9e4c-35150746c971_10.jpg"
+  },
+  {
    "author": "Hannah Wang",
    "image_src": "Gymnopilus_aeruginosus_1_CC BY-NC_Hannah Wang.jpg"
   },
@@ -134,10 +138,6 @@
   },
   {
    "author": "James Ho",
-   "image_src": "Gymnopilus_aeruginosus_28079479235069141_319737a0-9ee1-11f1-9e4c-35150746c971_10.jpg"
-  },
-  {
-   "author": "James Ho",
    "image_src": "Gymnopilus_aeruginosus_28079479235069141_319737a0-9ee1-11f1-9e4c-35150746c971_11.jpg"
   },
   {
@@ -218,5 +218,5 @@
    "src": "https://static.inaturalist.org/photos/38669/square.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260824-164608"
 }
