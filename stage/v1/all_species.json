@@ -1,5 +1,5 @@
 {
- "timestamp": "20260824-164608",
+ "timestamp": "20260827-151643",
  "config": {
   "cover": {
    "image": "cover-photo-2.jpg",
@@ -402,6 +402,7 @@
    "Austroboletus,南牛肝菌屬,南牛肝菌属",
    "Boletellopsis,擬條孢牛肝菌屬,拟条孢牛肝菌属",
    "Boletellus,條孢牛肝菌屬,条孢牛肝菌属",
+   "Boletinellus,小牛肝菌屬,小牛肝菌属",
    "Boletinus,假牛肝菌屬,假牛肝菌属",
    "Boletus,牛肝菌屬,牛肝菌属",
    "Borofutus,大孔牛肝菌屬,大孔牛肝菌属",
@@ -412,6 +413,7 @@
    "Crocinoboletus,橙牛肝菌屬,橙牛肝菌属",
    "Favolaschia,膠孔菌屬,胶孔菌属",
    "Fistulinella,小牛舌菌屬,小牛舌菌属",
+   "Gyrodon,圓孔牛肝菌屬,圆孔牛肝菌属",
    "Gyroporus,圓孔牛肝菌屬,圆孔牛肝菌属",
    "Harrya,哈氏牛肝菌屬,哈氏牛肝菌属",
    "Heimioporus,海氏牛肝菌屬,海氏牛肝菌属",
@@ -1092,7 +1094,7 @@
    "Turbinellus,釘菇屬,钉菇属"
   ]
  },
- "total_species": 2518,
+ "total_species": 2519,
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌,二年殘孔菌，屬名Abortiporus意為「發育不全之孔」，指其常不規則之孔口；種小名biennis意為「二年生的」。子實體扇形、半圓形至漏斗狀，常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白或淡黃而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。",
   "Absidia sp.1,犁頭黴,犁头霉,犁頭黴，屬名Absidia為接合菌之一屬（毛黴目）。菌絲發達，於匍匐菌絲間生出孢囊柄，頂端著生梨形之孢子囊、囊軸與囊托明顯；本紀錄似寄生於成熟之黏菌上，為一尚待鑑定之種。",
@@ -1407,6 +1409,7 @@
   "Boletellus longicollis,長柄條孢牛肝菌,长柄条孢牛肝菌",
   "Boletellus obscurecoccineus,深紅條孢牛肝菌,深红条孢牛肝菌,深紅條孢牛肝菌，屬名Boletellus意為「小牛肝菌」；種小名obscurecoccineus意為「暗深紅的」，指其深紅之菌蓋。菌蓋深紅至玫瑰紅色、緣常掛菌幕殘餘、老時龜裂露出黃色菌肉；孔面黃色，多不變色而偶傷藍；柄具條紋；孢子具縱脊。",
   "Boletellus shichianus,小條孢牛肝菌,小条孢牛肝菌",
+  "Boletinellus merulioides,皺孔小牛肝菌,皱孔小牛肝菌,梣樹小牛肝菌 梣树小牛肝菌 皺孔小牛肝菌（舊名 Gyrodon merulioides，現訂正為 Boletinellus merulioides），菌蓋扁半球形至扇形、常偏心生長，橙褐至巧克力褐色；子實層體非典型圓孔，而是淺而寬、輻射排列並相互交織的皺褶狀（merulioid）孔口，色澤鮮明的金黃至橙色，受傷或老熟後轉暗；菌柄偏心或側生，短粗。生態上與白蠟樹（Fraxinus）根部伴生蚜蟲（Meliarhizophagus fraxinifolii）所形成的根瘤共生，故常見於白蠟樹下地面，叢生或群生。",
   "Boletinus spectabilis,美麗假牛肝菌,美丽假牛肝菌,美麗假牛肝菌，屬名Boletinus為假牛肝菌之一屬；種小名spectabilis意為「美觀的」。菌蓋紅至紅褐色、被翻捲之鱗片、黏；孔面黃色、孔口大而呈輻射狀之片隔；柄具菌環；與落葉松共生為外生菌根菌。",
   "Boletus aokii,青木氏牛肝菌,青木氏牛肝菌",
   "Boletus aurantiosplendens,亮金牛肝菌,亮金牛肝菌,亮金牛肝菌，種小名aurantiosplendens意為「燦爛橙色的」，指其鮮明橙色。菌蓋凸形至平展，孔面孔徑0.5–1mm而圓至略呈角形，柄肉鮮黃至淡黃、傷後略轉暗，外生菌根生於闊葉林地。",
@@ -2276,6 +2279,7 @@
   "Gymnosporangium mori,桑膠銹菌,桑胶锈菌,桑銹孢銹菌 桑锈孢锈菌 桑膠銹菌，屬名Gymnosporangium由gymnos（裸）與sporangion（孢子囊）組成；種小名mori意為「桑屬（Morus）的」，指其寄主。本菌僅見銹孢子器世代，2024年經分子親緣分析自形式屬銹孢銹菌屬Aecidium移入本屬。於桑之葉背形成杯狀之銹孢子器（aecium）、致葉面病斑；亞洲之桑屬與構屬（Broussonetia）植物上均有紀錄。",
   "Gymnosporangium niitakayamense,新高山膠銹菌,新高山胶锈菌,新高山膠銹菌，屬名Gymnosporangium為膠銹菌之屬；種小名niitakayamense意為「新高山（玉山）的」。於刺柏（Juniperus）之枝上形成膠質之冬孢子角（遇雨吸水膨脹成橙色膠團）；其銹孢子世代寄生於薔薇科植物，為一轉主寄生之銹菌。",
   "Gymnosporangium raphiolepidis,石斑木膠銹菌,石斑木胶锈菌,石斑木膠銹菌，屬名Gymnosporangium為膠銹菌之屬；種小名raphiolepidis意為「石斑木屬（Rhaphiolepis）的」。於刺柏（Juniperus）之枝上形成膠質之冬孢子角；其銹孢子世代寄生於石斑木（薔薇科），為一轉主寄生之銹菌。",
+  "Gyrodon merulioides,皺孔圓孢牛肝菌,皱孔圆孢牛肝菌",
   "Gyrodontium sacchari,糖圓齒菌,糖圆齿菌,糖圓齒菌，平伏於腐木被密集下垂軟刺，孢面褐色，熱帶木材腐生。",
   "Gyromitra ancilis,珠光鹿花菌,珠光鹿花菌",
   "Gyromitra esculenta,鹿花菌,鹿花菌,鹿花菌，帽紅褐至暗褐、表面皺曲似腦，柄白短中空，春季生於針葉林砂地。",
@@ -3663,7 +3667,7 @@
   "Singerocybe alboinfundibuliformis,白漏斗囊泡杯傘,白漏斗囊泡杯伞,白漏斗囊泡杯傘，屬名Singerocybe紀念真菌學家Rolf Singer；種小名alboinfundibuliformis意為「白色漏斗狀的」。菌蓋漏斗狀、白至污白色；菌褶延生、密、白色而無橫脈；柄白；生於林地。",
   "Singerocybe humilis,薄囊泡杯傘,薄囊泡杯伞,薄囊泡杯傘，屬名Singerocybe紀念真菌學家Singer；種小名humilis意為「矮小的」。子實體小、菌蓋中凹呈杯狀、淡色；菌褶延生、密；柄短；地生於林下落葉層間。",
   "Siphula decumbens,臥白角衣,卧白角衣,臥白角衣，屬名Siphula為石蕊科之一屬；種小名decumbens意為「平臥的」。地衣體為直立至平臥之扁指狀分枝、白至灰白色、不結子囊盤（不育）；生於潮濕之土坡、岩面與苔上。",
-  "Sirobasidium magnum,大鍊擔耳菌,大炼担耳菌,大鍊擔耳菌，種小名magnum意為「大型的」，指其為本屬中之大型種。子實體膠質、腦狀至瓣裂之團塊、褐至暗褐半透明，寄生於其他真菌之菌絲，生於闊葉樹枯枝。",
+  "Sirobasidium magnum,大鍊擔耳菌,大炼担耳菌,大鍊擔耳菌，種小名magnum意為「大型的」，指其為本屬中之大型種。子實體膠質、腦狀至瓣裂之團塊、褐至暗褐半透明，寄生於其他真菌之菌絲，生於闊葉樹枯枝。可食性未知，請勿食用。",
   "Skeletocutis carneogrisea,肉灰色骨皮菌,肉灰色骨皮菌,肉灰色骨皮菌，種小名carneogrisea意為「肉灰色的」，指孔面色澤。平伏反捲之薄托架、孔面肉灰至淡粉紅、孔口細密，質韌，常生於針葉樹枯木，並伴隨其他多孔菌發生。",
   "Skeletocutis odora,香味骨皮菌,香味骨皮菌",
   "Solorina saccata,凹散盤衣,凹散盘衣,Chocolate Chip Lichen 巧克力片地衣 巧克力片地衣 凹散盤衣，屬名Solorina為地衣之一屬；種小名saccata意為「具囊袋的」。地衣體葉狀、綠褐色（含綠藻、另具藍綠菌之頭衣）、濕時轉綠；子囊盤紅褐至暗褐色、凹陷於上表面（狀如巧克力片）；生於鈣質土上。",

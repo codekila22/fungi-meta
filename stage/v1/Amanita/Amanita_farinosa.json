@@ -3,6 +3,7 @@
  "name": "farinosa",
  "date": [
   "08/19/2026,28093550350328696",
+  "08/06/2026,28109038465446551",
   "07/22/2025,23964499859900453",
   "08/20/2024,7880456982064664",
   "08/08/2024,7807999075977122",
@@ -275,6 +276,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_farinosa_28093550350328696_4b2ea2d0-9edb-11f1-9e4c-35150746c971_5.jpg"
+  },
+  {
+   "author": "SY AW",
+   "image_src": "Amanita_farinosa_28109038465446551_0d4f4de0-9fc9-11f1-9b1a-914a61ef8f20_1.jpg"
+  },
+  {
+   "author": "SY AW",
+   "image_src": "Amanita_farinosa_28109038465446551_0d4f4de0-9fc9-11f1-9b1a-914a61ef8f20_2.jpg"
+  },
+  {
+   "author": "SY AW",
+   "image_src": "Amanita_farinosa_28109038465446551_0d4f4de0-9fc9-11f1-9b1a-914a61ef8f20_3.jpg"
+  },
+  {
+   "author": "SY AW",
+   "image_src": "Amanita_farinosa_28109038465446551_0d4f4de0-9fc9-11f1-9b1a-914a61ef8f20_4.jpg"
+  },
+  {
+   "author": "SY AW",
+   "image_src": "Amanita_farinosa_28109038465446551_0d4f4de0-9fc9-11f1-9b1a-914a61ef8f20_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -329,5 +350,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/56134815/thumb.jpeg"
   }
  ],
- "timestamp": "20260824-164608"
+ "timestamp": "20260827-151643"
 }
