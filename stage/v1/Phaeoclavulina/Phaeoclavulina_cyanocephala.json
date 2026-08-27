@@ -2,6 +2,7 @@
  "genus": "Phaeoclavulina",
  "name": "cyanocephala",
  "date": [
+  "08/27/2026,28154032090947188",
   "07/17/2025,24037004085983363",
   "11/14/2024,8515537995223223",
   "11/14/2024,8524768770966812",
@@ -186,6 +187,38 @@
   {
    "author": "朱艷",
    "image_src": "Phaeoclavulina_cyanocephala_80cb3fc0-71d2-11f0-8f45-ade7be17b4f5_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeoclavulina_cyanocephala_28154032090947188_6dba23b0-a21e-11f1-8615-511733f75d00_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeoclavulina_cyanocephala_28154032090947188_6dba23b0-a21e-11f1-8615-511733f75d00_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeoclavulina_cyanocephala_28154032090947188_6dba23b0-a21e-11f1-8615-511733f75d00_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeoclavulina_cyanocephala_28154032090947188_6dba23b0-a21e-11f1-8615-511733f75d00_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeoclavulina_cyanocephala_28154032090947188_6dba23b0-a21e-11f1-8615-511733f75d00_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeoclavulina_cyanocephala_28154032090947188_6dba23b0-a21e-11f1-8615-511733f75d00_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeoclavulina_cyanocephala_28154032090947188_6dba23b0-a21e-11f1-8615-511733f75d00_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeoclavulina_cyanocephala_28154032090947188_6dba23b0-a21e-11f1-8615-511733f75d00_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -214,17 +247,21 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,90",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "red",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "藍頂褐鎖瑚菌，種小名cyanocephala意為「藍色頭部的」，指枝端帶藍紫色。子實體反覆分枝呈叢、枝黃褐、枝端藍紫至藍綠、傷變色，地生於針葉林腐落物。",
+  "Note": "藍頂褐鎖瑚菌，種小名cyanocephala意為「藍色頭部的」，指枝端帶藍紫色。子實體反覆分枝呈叢、枝黃褐、枝端藍紫至藍綠、傷變酒紅色，地生於闊葉或針葉林腐落物。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -236,5 +273,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/26895353/thumb.jpeg"
   }
  ],
- "timestamp": "20260827-210058"
+ "timestamp": "20260827-215929"
 }

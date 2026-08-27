@@ -2,6 +2,7 @@
  "genus": "Calvatia",
  "name": "lilacina",
  "date": [
+  "08/27/2026,28153902270960170",
   "08/23/2026,28092438540439877",
   "08/13/2026,27963619843321748",
   "08/06/2026,28015184351498630",
@@ -222,6 +223,34 @@
   {
    "author": "黃金興",
    "image_src": "Calvatia_lilacina_28092438540439877_507a0a30-9f63-11f1-976b-5f74f598e3c7_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -278,5 +307,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/135197871/thumb.jpg"
   }
  ],
- "timestamp": "20260827-210058"
+ "timestamp": "20260827-215929"
 }

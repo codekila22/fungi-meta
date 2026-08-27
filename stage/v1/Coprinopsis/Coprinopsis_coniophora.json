@@ -17,6 +17,10 @@
  "images": [
   {
    "author": "Sunny Wang",
+   "image_src": "Coprinopsis_coniophora_8_CC BY-NC_Sunny Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
    "image_src": "Coprinopsis_coniophora_2_CC BY-NC_Sunny Wang.jpg"
   },
   {
@@ -42,10 +46,6 @@
   {
    "author": "Sunny Wang",
    "image_src": "Coprinopsis_coniophora_7_CC BY-NC_Sunny Wang.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Coprinopsis_coniophora_8_CC BY-NC_Sunny Wang.jpg"
   },
   {
    "author": "Sunny Wang",
@@ -216,5 +216,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4126224/thumb.jpg"
   }
  ],
- "timestamp": "20260827-210058"
+ "timestamp": "20260827-215929"
 }
