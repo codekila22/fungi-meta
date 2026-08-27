@@ -2,6 +2,7 @@
  "genus": "Filoboletus",
  "name": "manipularis",
  "date": [
+  "08/23/2026,28149178328099231",
   "08/16/2026,28003782179305514",
   "07/27/2026,27779962725020795",
   "07/16/2026,27626525497031186",
@@ -557,6 +558,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Filoboletus_manipularis_28003782179305514_985d2e70-996b-11f1-afd7-afcf28d2627f_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Filoboletus_manipularis_28149178328099231_74735250-a1ea-11f1-8b60-1f435991d7a4_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Filoboletus_manipularis_28149178328099231_74735250-a1ea-11f1-8b60-1f435991d7a4_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Filoboletus_manipularis_28149178328099231_74735250-a1ea-11f1-8b60-1f435991d7a4_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Filoboletus_manipularis_28149178328099231_74735250-a1ea-11f1-8b60-1f435991d7a4_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Filoboletus_manipularis_28149178328099231_74735250-a1ea-11f1-8b60-1f435991d7a4_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Filoboletus_manipularis_28149178328099231_74735250-a1ea-11f1-8b60-1f435991d7a4_6.jpg"
   }
  ],
  "synonym": [
@@ -624,5 +649,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/451535428/square.jpeg"
   }
  ],
- "timestamp": "20260827-151643"
+ "timestamp": "20260827-210058"
 }

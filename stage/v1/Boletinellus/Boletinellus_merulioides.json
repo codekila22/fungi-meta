@@ -75,5 +75,28 @@
   "Note": "皺孔小牛肝菌（舊名 Gyrodon merulioides，現訂正為 Boletinellus merulioides），菌蓋扁半球形至扇形、常偏心生長，橙褐至巧克力褐色；子實層體非典型圓孔，而是淺而寬、輻射排列並相互交織的皺褶狀（merulioid）孔口，色澤鮮明的金黃至橙色，受傷或老熟後轉暗；菌柄偏心或側生，短粗。生態上與白蠟樹（Fraxinus）根部伴生蚜蟲（Meliarhizophagus fraxinifolii）所形成的根瘤共生，故常見於白蠟樹下地面，叢生或群生。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260827-151643"
+ "inaturalist": [
+  {
+   "name": "Boletinellus merulioides",
+   "cname": "ash-tree bolete",
+   "cname_zh": "迷孔牛肝菌",
+   "url": "https://www.inaturalist.org/taxa/922275",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4859883/square.jpg"
+  },
+  {
+   "name": "Boletinellus sp. 'merulioides-IN01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1698965",
+   "src": "https://static.inaturalist.org/photos/222302077/square.jpg"
+  },
+  {
+   "name": "Boletinellus sp. 'merulioides-IN02'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1697272",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/421478872/square.jpeg"
+  }
+ ],
+ "timestamp": "20260827-210058"
 }

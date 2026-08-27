@@ -217,14 +217,18 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "100,120",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
+  "GrowthType": "singly",
+  "GrowthEnv": "ground,debris",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
-  "Smell": "",
+  "Cultivated": "",
+  "Smell": "stinky",
   "Taste": "",
   "LookAlikes": "",
   "Note": "狗蛇頭菌，種小名caninus意為「狗的」。成熟自卵狀菌托伸出黃白至淡橙色海綿質柱狀托，頂端漸尖覆暗橄欖褐產孢黏液具臭味，生於腐木落葉。",
@@ -260,5 +264,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260827-151643"
+ "timestamp": "20260827-210058"
 }

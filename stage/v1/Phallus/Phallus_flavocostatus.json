@@ -419,14 +419,18 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "100,200",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
-  "Smell": "",
+  "Cultivated": "",
+  "Smell": "stinky",
   "Taste": "",
   "LookAlikes": "",
   "Note": "黃重脈鬼筆，孢托鐘形具網紋覆橄欖褐產孢黏液惡臭，柄白色海綿質，托杯狀。",
@@ -441,5 +445,5 @@
    "src": "https://static.inaturalist.org/photos/25278916/thumb.jpg"
   }
  ],
- "timestamp": "20260827-151643"
+ "timestamp": "20260827-210058"
 }

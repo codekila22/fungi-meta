@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "08/22/2026,28121099454240452",
   "05/18/2026,27109067798776961",
   "05/16/2021,3788985331211870",
   "02/27/2021,4264919166951815"
@@ -116,6 +117,50 @@
   {
    "author": "陳麗紅",
    "image_src": "Pluteus_cervinus_f40f7110-66c1-11f1-9925-15ccffdc628d_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_10.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pluteus_cervinus_28121099454240452_a4c6b700-a1f2-11f1-8b60-1f435991d7a4_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -143,13 +188,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,20",
   "StalkLengthRangeValuess": "50,120",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -186,5 +236,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260827-151643"
+ "timestamp": "20260827-210058"
 }

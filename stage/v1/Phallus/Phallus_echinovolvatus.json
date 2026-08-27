@@ -100,14 +100,18 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
-  "Smell": "",
+  "Cultivated": "",
+  "Smell": "stinky",
   "Taste": "",
   "LookAlikes": "Phallus indusiatus,,",
   "Note": "棘托鬼筆，屬名Phallus意為「陰莖」，指其柱狀之外形；種小名echinovolvatus由echinus（刺）與volva（菌托）組成，意為「棘托的」，正指其菌托上之長棘。幼時為卵狀之菌蕾、其上具灰白至暗褐色之長棘；成熟後伸出海綿質之柄與具網格之菌蓋、覆以橄欖褐色之孢體，近之可聞熟果或風信子之香。",
@@ -124,5 +128,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260827-151643"
+ "timestamp": "20260827-210058"
 }

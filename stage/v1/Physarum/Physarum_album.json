@@ -2,6 +2,7 @@
  "genus": "Physarum",
  "name": "album",
  "date": [
+  "08/26/2026,28140651245618606",
   "04/15/2026,26435494549467626",
   "06/08/2024,7475167385926961",
   "06/08/2024,7481554348621598",
@@ -185,6 +186,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Physarum_album_9eafe680-3b26-11f1-aedc-e3e1e8175744_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_album_28140651245618606_3159c7f0-a1eb-11f1-8b60-1f435991d7a4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_album_28140651245618606_3159c7f0-a1eb-11f1-8b60-1f435991d7a4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_album_28140651245618606_3159c7f0-a1eb-11f1-8b60-1f435991d7a4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_album_28140651245618606_3159c7f0-a1eb-11f1-8b60-1f435991d7a4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_album_28140651245618606_3159c7f0-a1eb-11f1-8b60-1f435991d7a4_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Physarum_album_28140651245618606_3159c7f0-a1eb-11f1-8b60-1f435991d7a4_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -213,13 +238,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "wood,leaves",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood,leaves,moss",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -234,5 +263,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7400209/thumb.jpg"
   }
  ],
- "timestamp": "20260827-151643"
+ "timestamp": "20260827-210058"
 }

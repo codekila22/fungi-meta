@@ -1,12 +1,12 @@
 {
- "timestamp": "20260827-151643",
+ "timestamp": "20260827-210058",
  "list": [
   "Schizophyllum commune,裂褶菌,裂褶菌",
   "Trichaleurina tenuispora,瘦孢長毛飾孢盤菌,瘦孢长毛饰孢盘菌",
   "Coprinellus disseminatus,簇生小鬼傘,簇生小鬼伞",
   "Lentinus squarrosulus,翹鱗斗菇,翘鳞斗菇",
-  "Lentinus arcularius,漏斗香菇,漏斗香菇",
   "Leucocoprinus birnbaumii,純黃白鬼傘,纯黄白鬼伞",
+  "Lentinus arcularius,漏斗香菇,漏斗香菇",
   "Agaricus trisulphuratus,三硫色蘑菇,三硫色蘑菇",
   "Auricularia cornea,毛木耳,毛木耳",
   "Phallus luteus,純黃竹蓀,纯黄竹荪",
@@ -24,9 +24,9 @@
   "Xylaria flabelliformis,扇形炭角菌,扇形炭角菌",
   "Coprinellus radians,輻毛小鬼傘,辐毛小鬼伞",
   "Agaricus campestris,野蘑菇,野蘑菇",
+  "Bresadolia uda,潮潤布氏多孔菌,潮润布氏多孔菌",
   "Tetrapyrgos nigripes,黑柄四角孢傘,黑柄四角孢伞",
   "Arcyria cinerea,灰團網黏菌,灰团网黏菌",
-  "Bresadolia uda,潮潤布氏多孔菌,潮润布氏多孔菌",
   "Microporus xanthopus,黃柄小孔菌,黄柄小孔菌",
   "Phlebopus marginatus,黑脈柄牛肝菌,黑脉柄牛肝菌",
   "Lysurus periphragmoides,圍籬散尾鬼筆,围篱散尾鬼笔",
@@ -42,8 +42,8 @@
   "Parasola plicatilis,褶紋超鬼傘,褶纹超鬼伞",
   "Trichoderma viride,綠木黴菌,绿木霉菌",
   "Lycoperdon hiemale,冬季馬勃,冬季马勃",
-  "Conocybe apala,阿帕錐蓋傘(複合群),阿帕锥盖伞(复合群)",
   "Satyrus qiandenghuensis,千燈湖紅鬼筆,千灯湖红鬼笔",
+  "Conocybe apala,阿帕錐蓋傘(複合群),阿帕锥盖伞(复合群)",
   "Leucoagaricus americanus,美國白環蘑,美国白环蘑",
   "Coprinopsis cinerea,灰蓋擬鬼傘,灰盖拟鬼伞",
   "Xylaria sp.1,小葉欖仁炭角菌,小叶榄仁炭角菌",
@@ -51,6 +51,7 @@
   "Hygrocybe cuspidata,突頂橙紅濕傘,突顶橙红湿伞",
   "Leucocoprinus cepaestipes,粗柄白鬼傘,粗柄白鬼伞",
   "Leucocoprinus ianthinus,紫羅蘭色白鬼傘,紫罗兰色白鬼伞",
+  "Saproamanita nauseosa,厭味腐生鵝膏,厌味腐生鹅膏",
   "Coprinellus micaceus,晶粒小鬼傘,晶粒小鬼伞",
   "Coprinellus parcus,小型小鬼傘,小型小鬼伞",
   "Coprinopsis stercorea,糞生擬鬼傘,粪生拟鬼伞",
@@ -62,8 +63,8 @@
   "Leucocoprinus brebissonii,暗鱗白鬼傘,暗鳞白鬼伞",
   "Panaeolus cyanescens,藍斑褶傘,蓝斑褶伞",
   "Tortoperdon suspectum,可疑蛋糕馬勃,可疑蛋糕马勃",
-  "Volvopluteus gloiocephalus,黏蓋具托光柄菇,黏盖具托光柄菇",
   "Xuaniella urbica,草坪玄女菇,草坪玄女菇",
+  "Volvopluteus gloiocephalus,黏蓋具托光柄菇,黏盖具托光柄菇",
   "Conocybe incarnata,粉紅褐錐蓋傘,粉红褐锥盖伞"
  ]
 }
