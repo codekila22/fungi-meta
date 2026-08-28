@@ -2,6 +2,7 @@
  "genus": "Clitopilus",
  "name": "hobsonii",
  "date": [
+  "08/21/2026,28154205417596522",
   "03/05/2026,26035821726101579",
   "11/01/2025,25199077146442712",
   "04/25/2025,9471207039656309",
@@ -328,6 +329,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Clitopilus_hobsonii_f88eb720-1c50-11f1-8e22-4d5e3043b5b0_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clitopilus_hobsonii_28154205417596522_f58368d0-a21c-11f1-8615-511733f75d00_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clitopilus_hobsonii_28154205417596522_f58368d0-a21c-11f1-8615-511733f75d00_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clitopilus_hobsonii_28154205417596522_f58368d0-a21c-11f1-8615-511733f75d00_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clitopilus_hobsonii_28154205417596522_f58368d0-a21c-11f1-8615-511733f75d00_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clitopilus_hobsonii_28154205417596522_f58368d0-a21c-11f1-8615-511733f75d00_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clitopilus_hobsonii_28154205417596522_f58368d0-a21c-11f1-8615-511733f75d00_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clitopilus_hobsonii_28154205417596522_f58368d0-a21c-11f1-8615-511733f75d00_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Clitopilus_hobsonii_28154205417596522_f58368d0-a21c-11f1-8615-511733f75d00_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -370,7 +403,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "荷伯生氏斜蓋傘，屬名Clitopilus為斜蓋傘之一屬；種小名hobsonii紀念採集者Hobson。子實體微小、白色、無柄至側生，菌蓋貝殼形、被細絨毛；菌褶延生、初白後轉粉紅；孢子印粉紅色（本屬特徵）；生於枯木與樹皮上。基部有白色絨毛。",
+  "Note": "荷伯生氏斜蓋傘，種小名hobsonii紀念採集者Hobson。子實體微小、白色、無柄至側生，菌蓋貝殼形、被細絨毛；菌褶延生、初白後轉粉紅；孢子印粉紅色（本屬特徵）；生於枯木與樹皮上。基部有白色絨毛。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -389,5 +422,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/259121760/thumb.jpeg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

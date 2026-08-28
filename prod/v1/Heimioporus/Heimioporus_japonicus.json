@@ -2,6 +2,7 @@
  "genus": "Heimioporus",
  "name": "japonicus",
  "date": [
+  "08/27/2026,28150848161265581",
   "10/12/2024,8308997145877310",
   "08/14/2023,6294782857298759",
   "10/10/2020,3197010733742669",
@@ -112,6 +113,38 @@
   {
    "author": "徐秀團",
    "image_src": "Heimioporus_japonicus_3d7d86e0-3a77-11ee-a188-3b7c575162d9_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Heimioporus_japonicus_28150848161265581_7a37e5f0-a1f1-11f1-8b60-1f435991d7a4_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Heimioporus_japonicus_28150848161265581_7a37e5f0-a1f1-11f1-8b60-1f435991d7a4_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Heimioporus_japonicus_28150848161265581_7a37e5f0-a1f1-11f1-8b60-1f435991d7a4_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Heimioporus_japonicus_28150848161265581_7a37e5f0-a1f1-11f1-8b60-1f435991d7a4_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Heimioporus_japonicus_28150848161265581_7a37e5f0-a1f1-11f1-8b60-1f435991d7a4_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Heimioporus_japonicus_28150848161265581_7a37e5f0-a1f1-11f1-8b60-1f435991d7a4_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Heimioporus_japonicus_28150848161265581_7a37e5f0-a1f1-11f1-8b60-1f435991d7a4_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Heimioporus_japonicus_28150848161265581_7a37e5f0-a1f1-11f1-8b60-1f435991d7a4_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -132,20 +165,25 @@
   "HymeniumPoresPerMM": "1,2",
   "StalkAttachment": "",
   "StalkColors": "",
-  "StalkTexture": "",
+  "StalkTexture": "reticulum",
   "StalkHollow": "",
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "7,12",
   "StalkLengthRangeValuess": "60,130",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -161,5 +199,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/850531/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

@@ -52,6 +52,26 @@
   {
    "author": "朱艷",
    "image_src": "Lentinus_concavus_e2d22470-62da-11ef-8fb1-614f68c71ea9_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lentinus_concavus_6280912245352487_cbeaaad0-9f9a-11f1-976b-5f74f598e3c7_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lentinus_concavus_6280912245352487_cbeaaad0-9f9a-11f1-976b-5f74f598e3c7_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lentinus_concavus_6280912245352487_cbeaaad0-9f9a-11f1-976b-5f74f598e3c7_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lentinus_concavus_6280912245352487_cbeaaad0-9f9a-11f1-976b-5f74f598e3c7_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lentinus_concavus_6280912245352487_cbeaaad0-9f9a-11f1-976b-5f74f598e3c7_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -80,17 +100,22 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "凹蓋斗菇，屬名Lentinus為斗菇（香菇近緣）之屬、質韌；種小名concavus意為「凹陷的」，指其漏斗狀之菌蓋。菌蓋漏斗狀而中凹、褐色、具細鱗；菌褶延生、緣具細鋸齒；柄中生至偏生；生於闊葉樹腐木上。",
+  "Note": "凹蓋斗菇，種小名concavus意為「凹陷的」，指其漏斗狀之菌蓋。菌蓋漏斗狀而中凹、褐色、具細鱗；菌褶延生、緣具細鋸齒；柄中生至偏生；生於平地/低海拔闊葉樹腐木上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -102,5 +127,5 @@
    "src": "https://static.inaturalist.org/photos/14844624/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

@@ -2,6 +2,7 @@
  "genus": "Leucocoprinus",
  "name": "cretaceus",
  "date": [
+  "08/28/2026,28159630947053969",
   "07/01/2026,27437884365895301",
   "06/24/2026,27344564838560588",
   "06/20/2026,27619972061019863",
@@ -415,6 +416,22 @@
   {
    "author": "何俊霖",
    "image_src": "Leucocoprinus_cretaceus_27619972061019863_7d3a1120-822e-11f1-be21-8375c91e8992_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Leucocoprinus_cretaceus_28159630947053969_850e3480-a29a-11f1-b9ae-7b3f6fa56b05_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Leucocoprinus_cretaceus_28159630947053969_850e3480-a29a-11f1-b9ae-7b3f6fa56b05_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Leucocoprinus_cretaceus_28159630947053969_850e3480-a29a-11f1-b9ae-7b3f6fa56b05_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Leucocoprinus_cretaceus_28159630947053969_850e3480-a29a-11f1-b9ae-7b3f6fa56b05_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -457,7 +474,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "白堊白鬼傘，屬名Leucocoprinus意為「白色的鬼傘」；種小名cretaceus意為「白堊質的」，指其純白而如撲粉之外觀。菌蓋白色、密被粉狀至絮狀之白色顆粒、具溝紋；菌褶白色、離生；柄白、具一膜質菌環，基部略膨大；多生於富腐植質之土壤與堆肥。土生或腐爛的枯木上生長。",
+  "Note": "白堊白鬼傘，種小名cretaceus意為「白堊質的」，指其純白而如撲粉之外觀。菌蓋白色、密被粉狀至絮狀之白色顆粒、具溝紋；菌褶白色、離生；柄白、具一膜質菌環，基部略膨大；多生於富腐植質之土壤與堆肥。土生或腐爛的枯木上生長。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -469,5 +486,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/110450191/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

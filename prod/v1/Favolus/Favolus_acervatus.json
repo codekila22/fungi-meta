@@ -120,7 +120,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "叢生菱孔菌，屬名Favolus意為「蜂窩」，指其孔口大而呈六角形之蜂巢狀排列；種小名acervatus意為「成堆叢生的」，指其常多枚簇生。子實體扇形至漏斗形、白至淡黃褐色、質韌；柄短而偏生；叢生於闊葉樹枯木，為木材腐朽菌。",
+  "Note": "叢生菱孔菌，種小名acervatus意為「成堆叢生的」，指其常多枚簇生。子實體扇形至漏斗形、白至淡黃褐色、質韌；柄短而偏生；叢生於闊葉樹枯木，為木材腐朽菌。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -132,5 +132,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/320158636/square.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

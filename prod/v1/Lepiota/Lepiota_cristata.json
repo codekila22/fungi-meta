@@ -2,6 +2,8 @@
  "genus": "Lepiota",
  "name": "cristata",
  "date": [
+  "08/26/2026,28141159265567804",
+  "08/22/2026,28107121785638219",
   "06/25/2026,27355892870761118",
   "06/17/2026,27490816860602051",
   "10/26/2025,24797862219897542",
@@ -233,6 +235,58 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Lepiota_cristata_cbaca290-7096-11f1-a1fc-692ffc955ebc_10.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lepiota_cristata_28107121785638219_60e7af30-9f81-11f1-976b-5f74f598e3c7_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lepiota_cristata_28107121785638219_60e7af30-9f81-11f1-976b-5f74f598e3c7_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lepiota_cristata_28107121785638219_60e7af30-9f81-11f1-976b-5f74f598e3c7_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lepiota_cristata_28107121785638219_60e7af30-9f81-11f1-976b-5f74f598e3c7_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lepiota_cristata_28107121785638219_60e7af30-9f81-11f1-976b-5f74f598e3c7_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_28141159265567804_b5140df0-a1bc-11f1-a7c1-b32ee1a7ed1c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_28141159265567804_b5140df0-a1bc-11f1-a7c1-b32ee1a7ed1c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_28141159265567804_b5140df0-a1bc-11f1-a7c1-b32ee1a7ed1c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_28141159265567804_b5140df0-a1bc-11f1-a7c1-b32ee1a7ed1c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_28141159265567804_b5140df0-a1bc-11f1-a7c1-b32ee1a7ed1c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_28141159265567804_b5140df0-a1bc-11f1-a7c1-b32ee1a7ed1c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_28141159265567804_b5140df0-a1bc-11f1-a7c1-b32ee1a7ed1c_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lepiota_cristata_28141159265567804_b5140df0-a1bc-11f1-a7c1-b32ee1a7ed1c_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -271,7 +325,7 @@
   "Smell": "other",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "冠環柄菇，屬名Lepiota為環柄菇之屬；種小名cristata意為「具冠的」，指其菌蓋表面同心排列之鱗片。菌蓋白色、中央紅褐、被同心環狀排列之紅褐色鱗片；菌褶白色、離生；柄具一易脫落之菌環；具刺鼻之化學氣味。",
+  "Note": "冠環柄菇，種小名cristata意為「具冠的」，指其菌蓋表面同心排列之鱗片。菌蓋白色、中央紅褐、被同心環狀排列之紅褐色鱗片；菌褶白色、離生；柄具一易脫落之菌環；具刺鼻之化學氣味。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -290,5 +344,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/300631187/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

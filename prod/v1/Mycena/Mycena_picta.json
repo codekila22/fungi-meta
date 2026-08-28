@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "picta",
  "date": [
+  "08/25/2026,28120949244255473",
   "06/17/2026,27254330520917354",
   "05/11/2025,9601773313266347",
   "11/20/2024,8598730660237289",
@@ -196,6 +197,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Mycena_picta_0fd15320-6a3a-11f1-a41d-a761c135f162_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_picta_28120949244255473_25c5fac0-a10b-11f1-baf6-ab99b0cf376c_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_picta_28120949244255473_25c5fac0-a10b-11f1-baf6-ab99b0cf376c_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_picta_28120949244255473_25c5fac0-a10b-11f1-baf6-ab99b0cf376c_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_picta_28120949244255473_25c5fac0-a10b-11f1-baf6-ab99b0cf376c_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_picta_28120949244255473_25c5fac0-a10b-11f1-baf6-ab99b0cf376c_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Mycena_picta_28120949244255473_25c5fac0-a10b-11f1-baf6-ab99b0cf376c_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -248,5 +273,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/120042145/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

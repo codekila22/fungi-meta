@@ -2,6 +2,7 @@
  "genus": "Trametes",
  "name": "hirsuta",
  "date": [
+  "08/22/2026,28135469126136818",
   "06/20/2026,27294413623575710",
   "08/29/2025,24249153574768412",
   "01/31/2025,8948364135273938",
@@ -279,6 +280,38 @@
   {
    "author": "陳中城",
    "image_src": "Trametes_hirsuta_f2575000-6c83-11f1-8af8-b1515166ffd1_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Trametes_hirsuta_28135469126136818_ed502030-a146-11f1-8dc5-1becb85f8fbc_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Trametes_hirsuta_28135469126136818_ed502030-a146-11f1-8dc5-1becb85f8fbc_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Trametes_hirsuta_28135469126136818_ed502030-a146-11f1-8dc5-1becb85f8fbc_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Trametes_hirsuta_28135469126136818_ed502030-a146-11f1-8dc5-1becb85f8fbc_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Trametes_hirsuta_28135469126136818_ed502030-a146-11f1-8dc5-1becb85f8fbc_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Trametes_hirsuta_28135469126136818_ed502030-a146-11f1-8dc5-1becb85f8fbc_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Trametes_hirsuta_28135469126136818_ed502030-a146-11f1-8dc5-1becb85f8fbc_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Trametes_hirsuta_28135469126136818_ed502030-a146-11f1-8dc5-1becb85f8fbc_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -307,13 +340,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,80",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -329,5 +366,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/113603380/thumb.jpeg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

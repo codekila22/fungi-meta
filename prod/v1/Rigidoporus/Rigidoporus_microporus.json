@@ -2,6 +2,7 @@
  "genus": "Rigidoporus",
  "name": "microporus",
  "date": [
+  "08/27/2026,28154374860912911",
   "10/12/2025,24668175769532855",
   "09/02/2023,6360244550752589"
  ],
@@ -118,6 +119,34 @@
   {
    "author": "陳中城",
    "image_src": "Rigidoporus_microporus_502c5fb0-49f3-11ee-b4ce-ab005c12bd37_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rigidoporus_microporus_28154374860912911_98a686d0-a25b-11f1-8f05-8356243ec169_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rigidoporus_microporus_28154374860912911_98a686d0-a25b-11f1-8f05-8356243ec169_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rigidoporus_microporus_28154374860912911_98a686d0-a25b-11f1-8f05-8356243ec169_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rigidoporus_microporus_28154374860912911_98a686d0-a25b-11f1-8f05-8356243ec169_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rigidoporus_microporus_28154374860912911_98a686d0-a25b-11f1-8f05-8356243ec169_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rigidoporus_microporus_28154374860912911_98a686d0-a25b-11f1-8f05-8356243ec169_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Rigidoporus_microporus_28154374860912911_98a686d0-a25b-11f1-8f05-8356243ec169_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -146,13 +175,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "10,50",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -168,5 +201,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5732445/thumb.jpeg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

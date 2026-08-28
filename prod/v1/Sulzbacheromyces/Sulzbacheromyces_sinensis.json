@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "08/21/2026,28154271840923213",
   "11/29/2025,25398744146476010",
   "01/02/2025,8781916665252020",
   "05/07/2024,7393003797476654",
@@ -137,6 +138,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Sulzbacheromyces_sinensis_fdaabab0-eaff-11f0-bb18-cf071b81db95_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Sulzbacheromyces_sinensis_28154271840923213_a0f9e900-a21d-11f1-8615-511733f75d00_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Sulzbacheromyces_sinensis_28154271840923213_a0f9e900-a21d-11f1-8615-511733f75d00_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Sulzbacheromyces_sinensis_28154271840923213_a0f9e900-a21d-11f1-8615-511733f75d00_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Sulzbacheromyces_sinensis_28154271840923213_a0f9e900-a21d-11f1-8615-511733f75d00_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Sulzbacheromyces_sinensis_28154271840923213_a0f9e900-a21d-11f1-8615-511733f75d00_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -190,5 +211,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157486265/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

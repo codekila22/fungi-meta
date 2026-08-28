@@ -2,6 +2,7 @@
  "genus": "Marasmius",
  "name": "bambusiniformis",
  "date": [
+  "08/26/2026,28140333735650357",
   "10/30/2025,24835370899480007",
   "05/23/2025,9701252276651783",
   "08/24/2024,7906371356139893",
@@ -131,6 +132,38 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Marasmius_bambusiniformis_24412770-b7c7-11f0-b642-e38adf4043b2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_bambusiniformis_28140333735650357_447f8e40-a1ec-11f1-8b60-1f435991d7a4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_bambusiniformis_28140333735650357_447f8e40-a1ec-11f1-8b60-1f435991d7a4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_bambusiniformis_28140333735650357_447f8e40-a1ec-11f1-8b60-1f435991d7a4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_bambusiniformis_28140333735650357_447f8e40-a1ec-11f1-8b60-1f435991d7a4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_bambusiniformis_28140333735650357_447f8e40-a1ec-11f1-8b60-1f435991d7a4_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_bambusiniformis_28140333735650357_447f8e40-a1ec-11f1-8b60-1f435991d7a4_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_bambusiniformis_28140333735650357_447f8e40-a1ec-11f1-8b60-1f435991d7a4_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_bambusiniformis_28140333735650357_447f8e40-a1ec-11f1-8b60-1f435991d7a4_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -171,7 +204,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "擬竹林小皮傘，屬名Marasmius意指其乾而能復潤之特性；種小名bambusiniformis意為「似竹林小皮傘（M. bambusinus）的」。菌蓋橘黃色、具槽狀溝紋；菌褶近稀（約10至18片）、以一小接觸點著生（近離生）、褶緣略具鑲邊；柄細如線、上白黃而下紅棕；低海拔林下常見。",
+  "Note": "擬竹林小皮傘，種小名bambusiniformis意為「似竹林小皮傘（M. bambusinus）的」。菌蓋橘黃色、具槽狀溝紋；菌褶近稀（約10至18片）、以一小接觸點著生（近離生）、褶緣略具鑲邊；柄細如線、上白黃而下紅棕；低海拔林下常見。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -183,5 +216,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63308987/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

@@ -2,6 +2,7 @@
  "genus": "Resupinatus",
  "name": "trichotis",
  "date": [
+  "08/22/2026,28084764371207294",
   "07/31/2025,24143381212012316",
   "03/15/2025,9212406382203044",
   "02/09/2024,6980373952072976",
@@ -328,12 +329,16 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -349,5 +354,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/72349864/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

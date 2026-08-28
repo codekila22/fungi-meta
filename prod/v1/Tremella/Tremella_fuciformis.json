@@ -2,6 +2,7 @@
  "genus": "Tremella",
  "name": "fuciformis",
  "date": [
+  "08/28/2026,28159458857071178",
   "07/22/2026,27727503636933371",
   "07/14/2026,27587851304231939",
   "06/16/2026,27244858271864579",
@@ -202,6 +203,10 @@
   {
    "author": "吳湯姆",
    "image_src": "Tremella_fuciformis_27587851304231939_3468ada0-8015-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Tremella_fuciformis_28159458857071178_c3742fa0-a29e-11f1-b9ae-7b3f6fa56b05_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -244,7 +249,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "銀耳，屬名Tremella意為「顫動的」，指其膠質而顫動之子實體；種小名fuciformis意為「似海藻的」，指其葉狀之波曲摺瓣。子實體膠質、半透明、白色、由多數波曲之瓣片密聚成花團狀；為寄生於環紋炭團菌等之膠質菌，須先有其寄主菌方能發生，廣為栽培。銀耳雖然長在腐木上，卻是一種寄生真菌，腐木上要先長環紋炭團菌屬(Annulohypoxylon spp.) 或是炭團菌屬(Hypoxylon spp.)，然後才會有銀耳出現。",
+  "Note": "銀耳，種小名fuciformis意為「似海藻的」，指其葉狀之波曲摺瓣。子實體膠質、半透明、白色、由多數波曲之瓣片密聚成花團狀；為寄生於環紋炭團菌等之膠質菌，須先有其寄主菌方能發生，廣為栽培。銀耳雖然長在腐木上，卻是一種寄生真菌，腐木上要先長環紋炭團菌屬(Annulohypoxylon spp.) 或是炭團菌屬(Hypoxylon spp.)，然後才會有銀耳出現。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -256,5 +261,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13274753/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

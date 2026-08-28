@@ -2,6 +2,9 @@
  "genus": "Leucocoprinus",
  "name": "birnbaumii",
  "date": [
+  "08/26/2026,28138895552460842",
+  "08/26/2026,28145330431817354",
+  "08/26/2026,28154917930858604",
   "07/15/2026,27595000410183695",
   "06/29/2026,27407441352272936",
   "11/01/2025,24858482347168862",
@@ -380,6 +383,74 @@
   {
    "author": "姜淋友",
    "image_src": "Leucocoprinus_birnbaumii_95aedd60-73c6-11f1-babc-45e4824c247c_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_28145330431817354_bd64ea90-a1eb-11f1-8b60-1f435991d7a4_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_28145330431817354_bd64ea90-a1eb-11f1-8b60-1f435991d7a4_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_28145330431817354_bd64ea90-a1eb-11f1-8b60-1f435991d7a4_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_28145330431817354_bd64ea90-a1eb-11f1-8b60-1f435991d7a4_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_28145330431817354_bd64ea90-a1eb-11f1-8b60-1f435991d7a4_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_28145330431817354_bd64ea90-a1eb-11f1-8b60-1f435991d7a4_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_28145330431817354_bd64ea90-a1eb-11f1-8b60-1f435991d7a4_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_28145330431817354_bd64ea90-a1eb-11f1-8b60-1f435991d7a4_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Leucocoprinus_birnbaumii_28145330431817354_bd64ea90-a1eb-11f1-8b60-1f435991d7a4_9.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Leucocoprinus_birnbaumii_28154917930858604_14f41460-a25b-11f1-8f05-8356243ec169_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Leucocoprinus_birnbaumii_28154917930858604_14f41460-a25b-11f1-8f05-8356243ec169_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Leucocoprinus_birnbaumii_28154917930858604_14f41460-a25b-11f1-8f05-8356243ec169_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Leucocoprinus_birnbaumii_28154917930858604_14f41460-a25b-11f1-8f05-8356243ec169_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Leucocoprinus_birnbaumii_28154917930858604_14f41460-a25b-11f1-8f05-8356243ec169_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Leucocoprinus_birnbaumii_28154917930858604_14f41460-a25b-11f1-8f05-8356243ec169_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Leucocoprinus_birnbaumii_28154917930858604_14f41460-a25b-11f1-8f05-8356243ec169_7.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Leucocoprinus_birnbaumii_28154917930858604_14f41460-a25b-11f1-8f05-8356243ec169_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -421,9 +492,11 @@
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "純黃白鬼傘，屬名Leucocoprinus意為「白色的鬼傘」；種小名birnbaumii紀念園丁Birnbaum，其於溫室中首度發現本種。菌蓋鮮硫黃色、被粉狀顆粒、具溝紋；菌褶黃色、離生；柄黃、具一膜質菌環；常見於花盆與溫室之腐植土上。除了低海拔野外枯木生以外，常生長於市區的花台花盆中。",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Leucocoprinus fragilissimus,,",
+  "Note": "純黃白鬼傘，種小名birnbaumii紀念園丁Birnbaum，其於溫室中首度發現本種。菌蓋鮮硫黃色、被粉狀顆粒、具溝紋；菌褶黃色、離生；柄黃、具一膜質菌環；常見於花盆與溫室之腐植土上。除了低海拔野外枯木生以外，常生長於市區的花台花盆中。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "易碎白鬼傘,,",
+  "la_zhcn": "易碎白鬼伞,,"
  },
  "inaturalist": [
   {
@@ -448,5 +521,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

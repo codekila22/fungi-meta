@@ -2,6 +2,7 @@
  "genus": "Xuaniella",
  "name": "urbica",
  "date": [
+  "08/26/2026,28150710694612661",
   "09/24/2024,8153684324741927",
   "09/15/2022,7961554390621589",
   "03/25/2022,4762216120555448"
@@ -195,6 +196,42 @@
   {
    "author": "江志緯",
    "image_src": "Atheniella_flavoalba_29be7610-7d23-11ef-b57c-6f3ef061cc1d_14.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Xuaniella_urbica_28150710694612661_b4b0cc90-a1ee-11f1-8b60-1f435991d7a4_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Xuaniella_urbica_28150710694612661_b4b0cc90-a1ee-11f1-8b60-1f435991d7a4_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Xuaniella_urbica_28150710694612661_b4b0cc90-a1ee-11f1-8b60-1f435991d7a4_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Xuaniella_urbica_28150710694612661_b4b0cc90-a1ee-11f1-8b60-1f435991d7a4_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Xuaniella_urbica_28150710694612661_b4b0cc90-a1ee-11f1-8b60-1f435991d7a4_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Xuaniella_urbica_28150710694612661_b4b0cc90-a1ee-11f1-8b60-1f435991d7a4_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Xuaniella_urbica_28150710694612661_b4b0cc90-a1ee-11f1-8b60-1f435991d7a4_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Xuaniella_urbica_28150710694612661_b4b0cc90-a1ee-11f1-8b60-1f435991d7a4_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Xuaniella_urbica_28150710694612661_b4b0cc90-a1ee-11f1-8b60-1f435991d7a4_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -236,7 +273,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "草坪玄女菇，屬名Xuaniella取自中國神話之玄女；種小名urbica意為「都市的」，指其常見於市區草坪之習性。子實體小型；地生而群生於草坪與人為擾動之草地上。",
+  "Note": "草坪玄女菇，種小名urbica意為「都市的」，指其常見於市區草坪之習性。子實體小型；地生而群生於草坪與人為擾動之草地上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -248,5 +285,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

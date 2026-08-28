@@ -2,6 +2,8 @@
  "genus": "Calvatia",
  "name": "lilacina",
  "date": [
+  "08/27/2026,28153902270960170",
+  "08/23/2026,28092438540439877",
   "08/13/2026,27963619843321748",
   "08/06/2026,28015184351498630",
   "07/23/2026,27693377267012675",
@@ -209,6 +211,46 @@
   {
    "author": "何俊霖",
    "image_src": "Calvatia_lilacina_28015184351498630_1c370db0-9a2a-11f1-bfc8-dff6a4899418_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_lilacina_28092438540439877_507a0a30-9f63-11f1-976b-5f74f598e3c7_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_lilacina_28092438540439877_507a0a30-9f63-11f1-976b-5f74f598e3c7_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_lilacina_28092438540439877_507a0a30-9f63-11f1-976b-5f74f598e3c7_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Calvatia_lilacina_28153902270960170_61fd0510-a219-11f1-8615-511733f75d00_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -251,7 +293,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Calvatia cyathiformis,,",
-  "Note": "紫色禿馬勃，屬名Calvatia為禿馬勃之屬；種小名lilacina意為「淡紫丁香色的」，指其孢粉之紫色。子實體大、近球形至陀螺形、白至淡褐；成熟後內部之產孢組織轉為紫至紫褐色，並由頂部崩解散出孢粉；雨後常見於平地草坪。平地草坪上雨後常見，它只有菌肉白色時才可食用。",
+  "Note": "紫色禿馬勃，種小名lilacina意為「淡紫丁香色的」，指其孢粉之紫色。子實體大、近球形至陀螺形、白至淡褐；成熟後內部之產孢組織轉為紫至紫褐色，並由頂部崩解散出孢粉；雨後常見於平地草坪。平地草坪上雨後常見，它只有菌肉白色時才可食用。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "杯形禿馬勃,,",
   "la_zhcn": "杯形秃马勃,,"
@@ -265,5 +307,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/135197871/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

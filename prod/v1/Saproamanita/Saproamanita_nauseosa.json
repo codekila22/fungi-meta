@@ -2,6 +2,7 @@
  "genus": "Saproamanita",
  "name": "nauseosa",
  "date": [
+  "08/25/2026,28121259470891117",
   "10/31/2025,25584457627904660",
   "06/04/2025,9787647628012247",
   "05/20/2022,4910435145733544",
@@ -17,7 +18,7 @@
  "images": [
   {
    "author": "陳雅芬",
-   "image_src": "Saproamanita_nauseosa_1_CC BY-NC_陳雅芬.jpg"
+   "image_src": "Saproamanita_nauseosa_3864488543661548_79231460-a20e-11f1-8615-511733f75d00_1.jpg"
   },
   {
    "author": "陳雅芬",
@@ -198,6 +199,26 @@
   {
    "author": "蔡古媧",
    "image_src": "Saproamanita_nauseosa_ddc3b050-fa5c-11f0-8a2b-cd87cd28b07c_8.jpg"
+  },
+  {
+   "author": "林慧美",
+   "image_src": "Saproamanita_nauseosa_28121259470891117_564d7f30-a20d-11f1-8615-511733f75d00_1.jpg"
+  },
+  {
+   "author": "林慧美",
+   "image_src": "Saproamanita_nauseosa_28121259470891117_564d7f30-a20d-11f1-8615-511733f75d00_2.jpg"
+  },
+  {
+   "author": "林慧美",
+   "image_src": "Saproamanita_nauseosa_28121259470891117_564d7f30-a20d-11f1-8615-511733f75d00_3.jpg"
+  },
+  {
+   "author": "林慧美",
+   "image_src": "Saproamanita_nauseosa_28121259470891117_564d7f30-a20d-11f1-8615-511733f75d00_4.jpg"
+  },
+  {
+   "author": "林慧美",
+   "image_src": "Saproamanita_nauseosa_28121259470891117_564d7f30-a20d-11f1-8615-511733f75d00_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -225,13 +246,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground,meadow",
-  "Bruising": "",
+  "NearHome": "yes",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -247,5 +273,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6930415/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }

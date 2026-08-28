@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "jingyinga",
  "date": [
+  "08/22/2026,28121311680885896",
   "04/08/2026,26489386130745134",
   "04/11/2024,7241152429328459",
   "04/08/2024,7228789633898072",
@@ -340,6 +341,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Mycena_jingyinga_0af54ce0-3ca3-11f1-a180-9bceb9739bbb_14.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Mycena_jingyinga_28121311680885896_cbdf7120-a214-11f1-8615-511733f75d00_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Mycena_jingyinga_28121311680885896_cbdf7120-a214-11f1-8615-511733f75d00_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Mycena_jingyinga_28121311680885896_cbdf7120-a214-11f1-8615-511733f75d00_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Mycena_jingyinga_28121311680885896_cbdf7120-a214-11f1-8615-511733f75d00_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Mycena_jingyinga_28121311680885896_cbdf7120-a214-11f1-8615-511733f75d00_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -389,5 +410,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/277039769/thumb.jpg"
   }
  ],
- "timestamp": "20260823-203055"
+ "timestamp": "20260828-163325"
 }
