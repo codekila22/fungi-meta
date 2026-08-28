@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "vestita",
  "date": [
+  "08/27/2026,28164107149939682",
   "07/08/2026,27538881089128961",
   "06/30/2026,27420065204343884",
   "06/29/2026,27405305489153189",
@@ -416,6 +417,10 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_vestita_27538881089128961_134d6790-7c6f-11f1-80da-a3de4c005827_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_vestita_28164107149939682_0a9f12d0-a2ba-11f1-b9ae-7b3f6fa56b05_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -444,15 +449,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "40,100",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "low,mid",
   "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -468,5 +475,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253549348/thumb.jpg"
   }
  ],
- "timestamp": "20260828-122300"
+ "timestamp": "20260828-163325"
 }

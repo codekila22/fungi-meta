@@ -2,6 +2,7 @@
  "genus": "Dacrymyces",
  "name": "spathularia",
  "date": [
+  "08/28/2026,28159458857071178",
   "08/24/2026,28106349819048749",
   "07/12/2026,27558659017151168",
   "06/09/2026,27198455573171516",
@@ -274,6 +275,10 @@
   {
    "author": "姜淋友",
    "image_src": "Dacryopinax_spathularia_c4dbb2f0-6716-11f1-81ed-0d648da220a2_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Dacrymyces_spathularia_28159458857071178_df825870-a29e-11f1-b9ae-7b3f6fa56b05_1.jpg"
   }
  ],
  "synonym": [
@@ -336,5 +341,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11379334/square.jpg"
   }
  ],
- "timestamp": "20260828-122300"
+ "timestamp": "20260828-163325"
 }

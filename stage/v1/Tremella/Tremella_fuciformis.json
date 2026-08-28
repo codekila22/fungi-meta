@@ -2,6 +2,7 @@
  "genus": "Tremella",
  "name": "fuciformis",
  "date": [
+  "08/28/2026,28159458857071178",
   "07/22/2026,27727503636933371",
   "07/14/2026,27587851304231939",
   "06/16/2026,27244858271864579",
@@ -202,6 +203,10 @@
   {
    "author": "吳湯姆",
    "image_src": "Tremella_fuciformis_27587851304231939_3468ada0-8015-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Tremella_fuciformis_28159458857071178_c3742fa0-a29e-11f1-b9ae-7b3f6fa56b05_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -256,5 +261,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13274753/thumb.jpg"
   }
  ],
- "timestamp": "20260828-122300"
+ "timestamp": "20260828-163325"
 }
