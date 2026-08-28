@@ -499,16 +499,20 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "50,100",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "堇紫擬鎖瑚菌，屬名Clavulinopsis意為「似鎖瑚菌屬（Clavulina）的」。二叉分枝叢生、枝端鈍圓，質脆，生於林地腐植層，孢子印白色。",
+  "Note": "堇紫擬鎖瑚菌，屬名Clavulinopsis意為「似鎖瑚菌屬（Clavulina）的」。二叉分枝叢生、枝端鈍圓，質脆，生於林地腐植層，孢子印白色。\n此物種與外觀極為相似的Clavaria lilacina (淡紫珊瑚菌)無法可靠的巨觀區別，後者據文獻在東亞與紐澳地區有穩定分佈，台灣的紀錄物種尚待進一步調查。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -520,5 +524,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/716340491/square.jpg"
   }
  ],
- "timestamp": "20260827-215929"
+ "timestamp": "20260828-093302"
 }

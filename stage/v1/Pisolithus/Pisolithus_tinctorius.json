@@ -2,6 +2,7 @@
  "genus": "Pisolithus",
  "name": "tinctorius",
  "date": [
+  "08/25/2026,28154388020911595",
   "10/30/2025,24840035602346870",
   "09/25/2024,8145018555608504",
   "07/07/2024,7621094598000905",
@@ -234,6 +235,42 @@
   {
    "author": "姜淋友",
    "image_src": "Pisolithus_tinctorius_c5174730-7d1f-11ef-b57c-6f3ef061cc1d_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Pisolithus_tinctorius_28154388020911595_c9f50370-a25a-11f1-8f05-8356243ec169_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Pisolithus_tinctorius_28154388020911595_c9f50370-a25a-11f1-8f05-8356243ec169_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Pisolithus_tinctorius_28154388020911595_c9f50370-a25a-11f1-8f05-8356243ec169_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Pisolithus_tinctorius_28154388020911595_c9f50370-a25a-11f1-8f05-8356243ec169_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Pisolithus_tinctorius_28154388020911595_c9f50370-a25a-11f1-8f05-8356243ec169_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Pisolithus_tinctorius_28154388020911595_c9f50370-a25a-11f1-8f05-8356243ec169_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Pisolithus_tinctorius_28154388020911595_c9f50370-a25a-11f1-8f05-8356243ec169_7.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Pisolithus_tinctorius_28154388020911595_c9f50370-a25a-11f1-8f05-8356243ec169_8.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Pisolithus_tinctorius_28154388020911595_c9f50370-a25a-11f1-8f05-8356243ec169_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -265,13 +302,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "50,300",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "no",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "not-edible,medicinal",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -329,5 +370,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260827-215929"
+ "timestamp": "20260828-093302"
 }
