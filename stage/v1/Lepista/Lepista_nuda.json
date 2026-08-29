@@ -20,6 +20,14 @@
  "url": "6141202922656754",
  "images": [
   {
+   "author": "蔡古媧",
+   "image_src": "Lepista_nuda_d5f12ac0-e97d-11ee-a571-5d8ff83f127d_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Lepista_nuda_d5f12ac0-e97d-11ee-a571-5d8ff83f127d_3.jpg"
+  },
+  {
    "author": "陳麗紅",
    "image_src": "Lepista_nuda_1_CC BY-NC_陳麗紅.jpg"
   },
@@ -125,14 +133,6 @@
   },
   {
    "author": "蔡古媧",
-   "image_src": "Lepista_nuda_d5f12ac0-e97d-11ee-a571-5d8ff83f127d_2.jpg"
-  },
-  {
-   "author": "蔡古媧",
-   "image_src": "Lepista_nuda_d5f12ac0-e97d-11ee-a571-5d8ff83f127d_3.jpg"
-  },
-  {
-   "author": "蔡古媧",
    "image_src": "Lepista_nuda_d5f12ac0-e97d-11ee-a571-5d8ff83f127d_4.jpg"
   },
   {
@@ -169,13 +169,18 @@
   "StalkBase": "equal",
   "StalkDiamRangeValuess": "4,15",
   "StalkLengthRangeValuess": "30,80",
+  "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground,debris",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "choice",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Collybia sordida,,",
@@ -193,5 +198,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/57891023/square.jpeg"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260829-135403"
 }
