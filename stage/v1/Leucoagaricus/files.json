@@ -2,22 +2,13 @@
  "name": "Leucoagaricus",
  "zhtw": "白環蘑屬",
  "zhcn": "白环蘑属",
- "timestamp": "20260829-135403",
+ "timestamp": "20260829-192149",
  "list": [
   {
    "name": "Leucoagaricus americanus",
    "zhtw": "美國白環蘑",
    "zhcn": "美国白环蘑",
    "img": "Leucoagaricus_americanus_4_CC BY-NC_陳雅芬.jpg"
-  },
-  {
-   "name": "Leucoagaricus atrosquamulosus",
-   "zhtw": "暗鱗白環蘑",
-   "zhcn": "暗鳞白环蘑",
-   "current": "Leucocoprinus atrosquamulosus",
-   "current_zhtw": "黑鱗白鬼傘",
-   "current_zhcn": "黑鳞白鬼伞",
-   "img": "Lepiota_atrosquamulosa_1_CC BY-NC_James Ho.jpg"
   },
   {
    "name": "Leucoagaricus aurantioruber",
