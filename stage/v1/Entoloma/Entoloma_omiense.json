@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "omiense",
  "date": [
+  "08/24/2026,28182423468108050",
   "08/17/2026,28016460048037727",
   "07/03/2026,27595144526835950",
   "06/17/2026,27567706282913108",
@@ -207,6 +208,46 @@
   {
    "author": "吳湯姆",
    "image_src": "Entoloma_omiense_27595144526835950_136a22c0-805e-11f1-98ac-13bd3a7a9bd4_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_omiense_28182423468108050_2ab8ce60-a3a2-11f1-8157-ed1a63be68cc_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_omiense_28182423468108050_2ab8ce60-a3a2-11f1-8157-ed1a63be68cc_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_omiense_28182423468108050_2ab8ce60-a3a2-11f1-8157-ed1a63be68cc_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_omiense_28182423468108050_2ab8ce60-a3a2-11f1-8157-ed1a63be68cc_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_omiense_28182423468108050_2ab8ce60-a3a2-11f1-8157-ed1a63be68cc_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_omiense_28182423468108050_2ab8ce60-a3a2-11f1-8157-ed1a63be68cc_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_omiense_28182423468108050_2ab8ce60-a3a2-11f1-8157-ed1a63be68cc_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_omiense_28182423468108050_2ab8ce60-a3a2-11f1-8157-ed1a63be68cc_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_omiense_28182423468108050_2ab8ce60-a3a2-11f1-8157-ed1a63be68cc_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Entoloma_omiense_28182423468108050_2ab8ce60-a3a2-11f1-8157-ed1a63be68cc_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -241,9 +282,11 @@
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
-  "Edible": "",
+  "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -259,5 +302,5 @@
    "src": "https://static.inaturalist.org/photos/30298327/thumb.jpg"
   }
  ],
- "timestamp": "20260829-192149"
+ "timestamp": "20260829-205603"
 }

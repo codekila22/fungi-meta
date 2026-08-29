@@ -2,7 +2,6 @@
  "genus": "Daldinia",
  "name": "eschscholtzii",
  "date": [
-  "08/11/2026,27947259841624415",
   "10/25/2025,24787366390947125",
   "09/21/2024,8111157925661234",
   "11/25/2023,6677162115727496",
@@ -184,30 +183,6 @@
   {
    "author": "江志緯",
    "image_src": "Daldinia_eschscholtzii_e0196f40-b162-11f0-9f24-6d0d0b42b9ff_6.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Daldinia_eschscholtzii_27947259841624415_a3e716e0-9635-11f1-9836-5b8ad379a2d1_1.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Daldinia_eschscholtzii_27947259841624415_a3e716e0-9635-11f1-9836-5b8ad379a2d1_2.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Daldinia_eschscholtzii_27947259841624415_a3e716e0-9635-11f1-9836-5b8ad379a2d1_3.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Daldinia_eschscholtzii_27947259841624415_a3e716e0-9635-11f1-9836-5b8ad379a2d1_4.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Daldinia_eschscholtzii_27947259841624415_a3e716e0-9635-11f1-9836-5b8ad379a2d1_5.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Daldinia_eschscholtzii_27947259841624415_a3e716e0-9635-11f1-9836-5b8ad379a2d1_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -271,5 +246,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/76125697/thumb.jpg"
   }
  ],
- "timestamp": "20260829-192149"
+ "timestamp": "20260829-205603"
 }
