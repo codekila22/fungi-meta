@@ -2,6 +2,7 @@
  "genus": "Deconica",
  "name": "protea",
  "date": [
+  "08/26/2026,28182271308123266",
   "08/23/2026,28098028259880905",
   "10/10/2024,8295661293877562",
   "05/28/2024,7432452483531785",
@@ -189,6 +190,10 @@
   {
    "author": "James Ho",
    "image_src": "Deconica_protea_28098028259880905_f050e5a0-9eec-11f1-8d4f-8d12d174a7e6_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Deconica_protea_28182271308123266_202449e0-a3a0-11f1-8157-ed1a63be68cc_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -218,16 +223,20 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "leaves",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "海神無錐菇，種小名protea意指希臘變幻之海神普羅透斯（Proteus），喻其多變之形態。菌蓋小、褐色、具吸水性；菌褶疏、暗褐色；柄短；生於月桃等單子葉植物之枯桿上。",
+  "Note": "海神無錐菇，種小名protea意指希臘變幻之海神普羅透斯（Proteus），喻其多變之形態。菌蓋小、褐色、具吸水性；菌褶疏、暗褐色；柄短；生於月桃、山蕉、黃藤等單子葉植物之枯桿上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -239,5 +248,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157104503/thumb.jpg"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

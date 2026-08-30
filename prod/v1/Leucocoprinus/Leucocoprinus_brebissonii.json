@@ -2,13 +2,24 @@
  "genus": "Leucocoprinus",
  "name": "brebissonii",
  "date": [
+  "08/26/2026,28182416561442074",
+  "08/26/2026,28178992258451171",
   "07/13/2025,10090675194376154",
   "09/27/2024,8168921943218165",
   "05/21/2024,7390817061028661",
   "04/19/2023,5898685003575215"
  ],
+ "synonym": [
+  {
+   "name": "Leucocoprinus otsuensis",
+   "zhtw": "乙女白鬼傘",
+   "zhcn": "乙女白鬼伞"
+  }
+ ],
  "names_zhtw": [
-  "暗鱗白鬼傘"
+  "暗鱗白鬼傘",
+  "褐頂白鬼傘",
+  "柏列氏白鬼傘"
  ],
  "names_en": [],
  "url": "5898685003575215",
@@ -176,10 +187,88 @@
   {
    "author": "徐秀團",
    "image_src": "Leucocoprinus_brebissonii_d9089520-5fd0-11f0-b93c-f9e721d3732f_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_9.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_10.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_11.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_12.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_13.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Leucocoprinus_brebissonii_28182416561442074_e58f6c40-a3a1-11f1-8157-ed1a63be68cc_14.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leucocoprinus_brebissonii_28178992258451171_c9a550c0-a3a2-11f1-8157-ed1a63be68cc_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leucocoprinus_brebissonii_28178992258451171_c9a550c0-a3a2-11f1-8157-ed1a63be68cc_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leucocoprinus_brebissonii_28178992258451171_c9a550c0-a3a2-11f1-8157-ed1a63be68cc_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leucocoprinus_brebissonii_28178992258451171_c9a550c0-a3a2-11f1-8157-ed1a63be68cc_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Leucocoprinus_brebissonii_28178992258451171_c9a550c0-a3a2-11f1-8157-ed1a63be68cc_5.jpg"
   }
  ],
  "names_zhcn": [
-  "暗鳞白鬼伞"
+  "暗鳞白鬼伞",
+  "褐顶白鬼伞",
+  "柏列氏白鬼伞"
  ],
  "meta": {
   "CapColors": "4286611584,4286141768",
@@ -188,14 +277,14 @@
   "CapTexture": "",
   "CapMargin": "",
   "HymeniumType": "gilled",
-  "HymeniumColors": "",
+  "HymeniumColors": "4294967295",
   "HymeniumSporePrints": "",
-  "HymeniumGillArrangement": "",
-  "HymeniumGillAttachment": "",
+  "HymeniumGillArrangement": "close",
+  "HymeniumGillAttachment": "free",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
-  "StalkColors": "",
+  "StalkColors": "4294967295",
   "StalkTexture": "",
   "StalkHollow": "",
   "StalkPartialVeil": "yes",
@@ -208,7 +297,7 @@
   "Elevation": "low",
   "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "singly,scattered,grouped",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
   "NearHome": "yes",
   "Bruising": "no",
@@ -217,11 +306,11 @@
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Leucoagaricus atrosquamulosus,,",
-  "Note": "暗鱗白鬼傘，種小名brebissonii紀念真菌學者Brébisson。菌蓋白色、中央暗褐、被褐色放射狀細鱗、緣具深溝紋，柄白具易脫落小環，菌褶白色，生於溫室腐土或林地。",
+  "LookAlikes": ",,",
+  "Note": "暗鱗白鬼傘，種小名brebissonii紀念真菌學者柏列氏(Brébisson)。菌蓋白色、中央暗褐、被褐色放射狀細鱗至纖絲狀、緣具深溝紋，菌褶白色。菌柄色白，具易脫落可移動小菌環，菌柄老時略帶褐色調。生於闊葉林地，夏秋時期常大量群生。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "暗鱗白環蘑,,",
-  "la_zhcn": "暗鳞白环蘑,,"
+  "la_zhtw": ",,",
+  "la_zhcn": ",,"
  },
  "inaturalist": [
   {
@@ -232,5 +321,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/52936646/thumb.jpg"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

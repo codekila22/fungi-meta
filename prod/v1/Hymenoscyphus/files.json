@@ -2,7 +2,7 @@
  "name": "Hymenoscyphus",
  "zhtw": "膜盤菌屬",
  "zhcn": "膜盘菌属",
- "timestamp": "20260828-163325",
+ "timestamp": "20260830-164841",
  "list": [
   {
    "name": "Hymenoscyphus albopunctus",
@@ -38,6 +38,9 @@
    "name": "Hymenoscyphus javanicus",
    "zhtw": "爪哇膜盤菌",
    "zhcn": "爪哇膜盘菌",
+   "current": "Lachnocudoniella javanica",
+   "current_zhtw": "爪哇小粒毛地錘菌",
+   "current_zhcn": "爪哇小粒毛地锤菌",
    "img": "Hymenoscyphus_javanicus_1a38ee70-7138-11ee-8eb1-49052e092472_1.jpg"
   },
   {

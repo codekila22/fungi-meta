@@ -2,6 +2,7 @@
  "genus": "Schizophyllum",
  "name": "commune",
  "date": [
+  "08/30/2026,28193186013698462",
   "08/17/2026,28014979548185777",
   "07/28/2026,27763224663361268",
   "06/29/2026,27407025238981214",
@@ -552,6 +553,30 @@
   {
    "author": "陳中城",
    "image_src": "Schizophyllum_commune_28014979548185777_a4e6e730-9ab5-11f1-a76e-b5ccd1e08f10_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Schizophyllum_commune_28193186013698462_046e0e60-a44b-11f1-b25d-6fbc5944d97f_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Schizophyllum_commune_28193186013698462_046e0e60-a44b-11f1-b25d-6fbc5944d97f_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Schizophyllum_commune_28193186013698462_046e0e60-a44b-11f1-b25d-6fbc5944d97f_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Schizophyllum_commune_28193186013698462_046e0e60-a44b-11f1-b25d-6fbc5944d97f_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Schizophyllum_commune_28193186013698462_046e0e60-a44b-11f1-b25d-6fbc5944d97f_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Schizophyllum_commune_28193186013698462_046e0e60-a44b-11f1-b25d-6fbc5944d97f_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -606,5 +631,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/310771/thumb.JPG"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

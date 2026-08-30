@@ -317,7 +317,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": ",,",
-  "Note": "這是囊狀側耳(Pleurotus cystidiosus)的無性世代。",
+  "Note": "這是囊狀側耳(Pleurotus cystidiosus)的無性世代。　Index Fungorum現名為Pleurotus cystidiosus，與MycoBank不一致，暫不處理。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -331,5 +331,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/333481379/square.jpeg"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

@@ -2,6 +2,7 @@
  "genus": "Marasmiellus",
  "name": "aff. pilosus",
  "date": [
+  "08/29/2026,28180991921584538",
   "10/19/2024,8397305623713128"
  ],
  "names_zhtw": [
@@ -25,6 +26,34 @@
   {
    "author": "陳雅芬",
    "image_src": "Marasmiellus_aff. pilosus_cad44720-9bda-11ef-a6ca-fd12af9e91fc_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_aff. pilosus_28180991921584538_71561dc0-a3a0-11f1-8157-ed1a63be68cc_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_aff. pilosus_28180991921584538_71561dc0-a3a0-11f1-8157-ed1a63be68cc_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_aff. pilosus_28180991921584538_71561dc0-a3a0-11f1-8157-ed1a63be68cc_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_aff. pilosus_28180991921584538_71561dc0-a3a0-11f1-8157-ed1a63be68cc_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_aff. pilosus_28180991921584538_71561dc0-a3a0-11f1-8157-ed1a63be68cc_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_aff. pilosus_28180991921584538_71561dc0-a3a0-11f1-8157-ed1a63be68cc_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmiellus_aff. pilosus_28180991921584538_71561dc0-a3a0-11f1-8157-ed1a63be68cc_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -53,17 +82,21 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "毛微皮傘之相似種，種小名pilosus意為「被毛的」。子實體微小、白至淡色；菌蓋膜質、被細毛、具放射溝紋；菌褶疏；柄細而被毛；生於枯枝落葉上。",
+  "Note": "毛微皮傘之相似種，種小名pilosus意為「被毛的」。子實體微小、白至淡色；菌蓋膜質、被細毛、具放射溝紋；菌褶疏；柄細而被毛；生於枯枝上。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -75,5 +108,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/339826272/thumb.jpeg"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

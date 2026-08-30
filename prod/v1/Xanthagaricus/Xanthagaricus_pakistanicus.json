@@ -2,6 +2,7 @@
  "genus": "Xanthagaricus",
  "name": "pakistanicus",
  "date": [
+  "08/27/2026,28169452696071794",
   "04/17/2024,7233206213456414",
   "10/12/2023,6510202142423495",
   "08/02/2023,6255295271247518",
@@ -206,6 +207,22 @@
   {
    "author": "徐秀團",
    "image_src": "Xanthagaricus_pakistanicus_0ef1b5c0-ff12-11ee-ba99-17763cd728f3_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_pakistanicus_28169452696071794_46aac400-a39f-11f1-8157-ed1a63be68cc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_pakistanicus_28169452696071794_46aac400-a39f-11f1-8157-ed1a63be68cc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_pakistanicus_28169452696071794_46aac400-a39f-11f1-8157-ed1a63be68cc_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Xanthagaricus_pakistanicus_28169452696071794_46aac400-a39f-11f1-8157-ed1a63be68cc_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -234,13 +251,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hymenagaricus olivaceus,,",
@@ -249,5 +270,5 @@
   "la_zhtw": "橄欖色層蘑菇,,",
   "la_zhcn": "橄榄色层蘑菇,,"
  },
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

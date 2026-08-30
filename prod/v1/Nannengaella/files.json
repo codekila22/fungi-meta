@@ -2,7 +2,7 @@
  "name": "Nannengaella",
  "zhtw": "南氏黏菌屬",
  "zhcn": "南氏黏菌属",
- "timestamp": "20260828-163325",
+ "timestamp": "20260830-164841",
  "list": [
   {
    "name": "Nannengaella globulifera",
@@ -15,6 +15,12 @@
    "zhtw": "白柄南氏黏菌",
    "zhcn": "白柄南氏黏菌",
    "img": "Physarum_leucopus_4d162200-231b-11ef-ae53-a9ee693680d0_1.jpg"
+  },
+  {
+   "name": "Nannengaella mellea",
+   "zhtw": "蜜黃南氏黏菌",
+   "zhcn": "蜜黄南氏黏菌",
+   "img": "Physarum_melleum_1_CC BY-NC_江志緯.jpg"
   },
   {
    "name": "Nannengaella plicata",

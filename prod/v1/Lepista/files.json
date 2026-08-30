@@ -2,19 +2,25 @@
  "name": "Lepista",
  "zhtw": "香蘑屬",
  "zhcn": "香蘑属",
- "timestamp": "20260828-163325",
+ "timestamp": "20260830-164841",
  "list": [
   {
    "name": "Lepista irina",
    "zhtw": "肉色香蘑",
    "zhcn": "肉色香蘑",
+   "current": "Collybia irina",
+   "current_zhtw": "肉色金錢菇",
+   "current_zhcn": "肉色金钱菇",
    "img": "Lepista_irina_4_CC BY-NC_Hannah Wang.jpg"
   },
   {
    "name": "Lepista nuda",
    "zhtw": "紫丁香蘑",
    "zhcn": "紫丁香蘑",
-   "img": "Lepista_nuda_1_CC BY-NC_陳麗紅.jpg"
+   "current": "Collybia nuda",
+   "current_zhtw": "紫丁香金錢菇",
+   "current_zhcn": "紫丁香金钱菇",
+   "img": "Lepista_nuda_d5f12ac0-e97d-11ee-a571-5d8ff83f127d_2.jpg"
   },
   {
    "name": "Lepista sordida",

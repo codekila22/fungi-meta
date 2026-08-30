@@ -2,18 +2,24 @@
  "name": "Physisporinus",
  "zhtw": "變色臥孔菌屬",
  "zhcn": "变色卧孔菌属",
- "timestamp": "20260828-163325",
+ "timestamp": "20260830-164841",
  "list": [
   {
    "name": "Physisporinus lineatus",
    "zhtw": "平絲變色臥孔菌",
    "zhcn": "平丝变色卧孔菌",
+   "current": "Meripilus lineatus",
+   "current_zhtw": "線紋亞灰樹花菌",
+   "current_zhcn": "线纹亚灰树花菌",
    "img": "Rigidoporus_lineatus_2_CC BY-NC_柯文俊.jpg"
   },
   {
    "name": "Physisporinus vitreus",
    "zhtw": "透明臥孔菌",
    "zhcn": "透明卧孔菌",
+   "current": "Meripilus vitreus",
+   "current_zhtw": "透明亞灰樹花菌",
+   "current_zhcn": "透明亚灰树花菌",
    "img": "Physisporinus_vitreus_1_CC BY-NC_陳麗紅.jpg"
   }
  ],

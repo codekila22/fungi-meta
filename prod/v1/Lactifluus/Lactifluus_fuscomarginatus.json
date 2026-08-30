@@ -2,6 +2,7 @@
  "genus": "Lactifluus",
  "name": "fuscomarginatus",
  "date": [
+  "08/13/2026,28191057650577965",
   "08/30/2022,8088905087886518",
   "07/10/2022,5058409337602790"
  ],
@@ -51,6 +52,30 @@
   {
    "author": "Sunny Wang",
    "image_src": "Lactarius_fuscomarginatus_5bb99bc0-77a3-11ef-b05e-9b9e0c24776c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactifluus_fuscomarginatus_28191057650577965_e98ee720-a433-11f1-a49e-d993d600223c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactifluus_fuscomarginatus_28191057650577965_e98ee720-a433-11f1-a49e-d993d600223c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactifluus_fuscomarginatus_28191057650577965_e98ee720-a433-11f1-a49e-d993d600223c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactifluus_fuscomarginatus_28191057650577965_e98ee720-a433-11f1-a49e-d993d600223c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactifluus_fuscomarginatus_28191057650577965_e98ee720-a433-11f1-a49e-d993d600223c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lactifluus_fuscomarginatus_28191057650577965_e98ee720-a433-11f1-a49e-d993d600223c_6.jpg"
   }
  ],
  "synonym": [
@@ -109,5 +134,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27331118/square.jpeg"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

@@ -2,7 +2,7 @@
  "name": "Lentinus",
  "zhtw": "斗菇屬",
  "zhcn": "斗菇属",
- "timestamp": "20260828-163325",
+ "timestamp": "20260830-164841",
  "list": [
   {
    "name": "Lentinus arcularius",
@@ -15,6 +15,12 @@
    "zhtw": "栗褐斗菇",
    "zhcn": "栗褐斗菇",
    "img": "Lentinus_badius_1_CC BY-NC_Angela Huang.jpg"
+  },
+  {
+   "name": "Lentinus brumalis",
+   "zhtw": "冬生斗菇",
+   "zhcn": "冬生斗菇",
+   "img": "Polyporus_brumalis_3_CC BY-NC_Sunny Wang.jpg"
   },
   {
    "name": "Lentinus concavus",

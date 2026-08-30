@@ -2,12 +2,15 @@
  "name": "Neolentiporus",
  "zhtw": "新鏡孔菌屬",
  "zhcn": "新镜孔菌属",
- "timestamp": "20260828-163325",
+ "timestamp": "20260830-164841",
  "list": [
   {
    "name": "Neolentiporus maculatissimus",
    "zhtw": "斑點新鏡孔菌",
    "zhcn": "斑点新镜孔菌",
+   "current": "Fomitopsis maculatissima",
+   "current_zhtw": "多斑擬層孔菌",
+   "current_zhcn": "多斑拟层孔菌",
    "img": "Neolentiporus_maculatissimus_d19bf710-6aad-11ee-a000-67e93e5156bd_1.jpg"
   }
  ],

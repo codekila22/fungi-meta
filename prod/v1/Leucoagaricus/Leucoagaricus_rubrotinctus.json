@@ -2,6 +2,7 @@
  "genus": "Leucoagaricus",
  "name": "rubrotinctus",
  "date": [
+  "08/23/2026,28178152295201834",
   "06/11/2026,27173141605702913",
   "04/15/2026,26435625462787868",
   "04/13/2026,26413322291684852",
@@ -248,6 +249,26 @@
   {
    "author": "陳中城",
    "image_src": "Leucoagaricus_rubrotinctus_aa261530-6569-11f1-8f3c-017babfa75a1_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leucoagaricus_rubrotinctus_28178152295201834_28a64610-a376-11f1-8157-ed1a63be68cc_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leucoagaricus_rubrotinctus_28178152295201834_28a64610-a376-11f1-8157-ed1a63be68cc_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leucoagaricus_rubrotinctus_28178152295201834_28a64610-a376-11f1-8157-ed1a63be68cc_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leucoagaricus_rubrotinctus_28178152295201834_28a64610-a376-11f1-8157-ed1a63be68cc_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Leucoagaricus_rubrotinctus_28178152295201834_28a64610-a376-11f1-8157-ed1a63be68cc_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -297,5 +318,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314755/thumb.jpg"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

@@ -2,6 +2,7 @@
  "genus": "Hymenopellis",
  "name": "raphanipes",
  "date": [
+  "08/07/2026,28177971895219874",
   "07/25/2026,27729847043365697",
   "07/03/2026,27456779667339104",
   "06/30/2026,27438661762484228",
@@ -176,6 +177,26 @@
   {
    "author": "姜淋友",
    "image_src": "Hymenopellis_raphanipes_27729847043365697_6973f550-8942-11f1-9e17-2d14e8cf1c96_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hymenopellis_raphanipes_28177971895219874_f68fb4f0-a36a-11f1-8157-ed1a63be68cc_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hymenopellis_raphanipes_28177971895219874_f68fb4f0-a36a-11f1-8157-ed1a63be68cc_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hymenopellis_raphanipes_28177971895219874_f68fb4f0-a36a-11f1-8157-ed1a63be68cc_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hymenopellis_raphanipes_28177971895219874_f68fb4f0-a36a-11f1-8157-ed1a63be68cc_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Hymenopellis_raphanipes_28177971895219874_f68fb4f0-a36a-11f1-8157-ed1a63be68cc_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -231,5 +252,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/21375786/thumb.jpeg"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

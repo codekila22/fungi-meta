@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "08/22/2026,28183020531381677",
   "07/09/2026,27544298798587190",
   "01/25/2025,8924267991016886",
   "01/30/2024,6920495334727505",
@@ -182,6 +183,34 @@
   {
    "author": "黃金興",
    "image_src": "Orbilia_xanthostigma_27544298798587190_b9584b20-7ccc-11f1-a10a-9f31227dc601_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Orbilia_xanthostigma_28183020531381677_3d835120-a3aa-11f1-8157-ed1a63be68cc_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Orbilia_xanthostigma_28183020531381677_3d835120-a3aa-11f1-8157-ed1a63be68cc_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Orbilia_xanthostigma_28183020531381677_3d835120-a3aa-11f1-8157-ed1a63be68cc_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Orbilia_xanthostigma_28183020531381677_3d835120-a3aa-11f1-8157-ed1a63be68cc_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Orbilia_xanthostigma_28183020531381677_3d835120-a3aa-11f1-8157-ed1a63be68cc_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Orbilia_xanthostigma_28183020531381677_3d835120-a3aa-11f1-8157-ed1a63be68cc_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Orbilia_xanthostigma_28183020531381677_3d835120-a3aa-11f1-8157-ed1a63be68cc_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -234,5 +263,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28567180/thumb.jpeg"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

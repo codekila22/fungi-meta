@@ -1,0 +1,129 @@
+{
+ "genus": "Naematelia",
+ "name": "encephala",
+ "date": [
+  "03/16/2025,9231882976922051"
+ ],
+ "names_zhtw": [
+  "腦狀白耳",
+  "腦狀銀耳"
+ ],
+ "names_en": [],
+ "url": "9231882976922051",
+ "images": [
+  {
+   "author": "柯文俊",
+   "image_src": "Tremella_encephala_3_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Tremella_encephala_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "柯文俊",
+   "image_src": "Tremella_encephala_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tremella_encephala_9d4a9c30-086f-11f0-b555-f96f84483bd0_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tremella_encephala_9d4a9c30-086f-11f0-b555-f96f84483bd0_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tremella_encephala_9d4a9c30-086f-11f0-b555-f96f84483bd0_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tremella_encephala_9d4a9c30-086f-11f0-b555-f96f84483bd0_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tremella_encephala_9d4a9c30-086f-11f0-b555-f96f84483bd0_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tremella_encephala_9d4a9c30-086f-11f0-b555-f96f84483bd0_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tremella_encephala_9d4a9c30-086f-11f0-b555-f96f84483bd0_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tremella_encephala_9d4a9c30-086f-11f0-b555-f96f84483bd0_8.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Tremella encephala",
+   "zhtw": "腦狀銀耳",
+   "zhcn": "脑状银耳"
+  }
+ ],
+ "names_zhcn": [
+  "脑状白耳",
+  "脑状银耳"
+ ],
+ "meta": {
+  "CapColors": "4293302630,4291998860",
+  "CapDiamRangeValues": "10,30",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "jelly",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "腦狀白耳，種小名encephala意為「腦狀的」，指其皺曲如腦之外形。子實體膠質、淡粉紅至黃粉紅、腦狀皺曲，內部具一緊實之白色核心（實為被寄生之韌革菌組織），為寄生於血跡韌革菌（Stereum sanguinolentum）之寄生真菌，生於針葉樹枯木。本種原置銀耳屬（Tremella）；台灣物種名錄作腦狀銀耳。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Naematelia encephala",
+   "cname": "Conifer Brain",
+   "cname_zh": "腦狀銀耳",
+   "url": "https://www.inaturalist.org/taxa/1109244",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5636192/square.jpeg"
+  },
+  {
+   "name": "Naematelia sp. 'encephala-BC01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1694564",
+   "src": ""
+  },
+  {
+   "name": "Naematelia sp. 'encephala-CA01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1698521",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/466085655/square.jpeg"
+  }
+ ],
+ "timestamp": "20260830-164841"
+}

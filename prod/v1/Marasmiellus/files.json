@@ -2,7 +2,7 @@
  "name": "Marasmiellus",
  "zhtw": "微皮傘屬",
  "zhcn": "微皮伞属",
- "timestamp": "20260828-163325",
+ "timestamp": "20260830-164841",
  "list": [
   {
    "name": "Marasmiellus aff. pilosus",
@@ -107,6 +107,9 @@
    "name": "Marasmiellus tricolor",
    "zhtw": "三色微皮傘",
    "zhcn": "三色微皮伞",
+   "current": "Metacampanella tricolor",
+   "current_zhtw": "三色超脈褶菌",
+   "current_zhcn": "三色超脉褶菌",
    "img": "Marasmiellus_tricolor_8c6a21f0-2464-11ef-ae7b-2d4195f8299b_2.jpg"
   }
  ],

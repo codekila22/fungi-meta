@@ -2,7 +2,8 @@
  "genus": "Fomitopsis",
  "name": "spraguei",
  "date": [
-  "08/13/2026,28016590881357977"
+  "08/13/2026,28016590881357977",
+  "08/13/2026,28190844700599260"
  ],
  "names_zhtw": [
   "施氏擬層孔菌"
@@ -41,6 +42,38 @@
   {
    "author": "陳雅芬",
    "image_src": "Fomitopsis_spraguei_28016590881357977_941efc50-9adb-11f1-a587-07ac940d3722_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_spraguei_28190844700599260_f2e2fe90-a444-11f1-b25d-6fbc5944d97f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_spraguei_28190844700599260_f2e2fe90-a444-11f1-b25d-6fbc5944d97f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_spraguei_28190844700599260_f2e2fe90-a444-11f1-b25d-6fbc5944d97f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_spraguei_28190844700599260_f2e2fe90-a444-11f1-b25d-6fbc5944d97f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_spraguei_28190844700599260_f2e2fe90-a444-11f1-b25d-6fbc5944d97f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_spraguei_28190844700599260_f2e2fe90-a444-11f1-b25d-6fbc5944d97f_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_spraguei_28190844700599260_f2e2fe90-a444-11f1-b25d-6fbc5944d97f_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Fomitopsis_spraguei_28190844700599260_04c0f810-a445-11f1-b25d-6fbc5944d97f_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -95,5 +128,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/211884176/square.jpeg"
   }
  ],
- "timestamp": "20260828-163325"
+ "timestamp": "20260830-164841"
 }

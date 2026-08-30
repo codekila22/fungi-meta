@@ -2,7 +2,7 @@
  "name": "Phallus",
  "zhtw": "鬼筆屬",
  "zhcn": "鬼笔属",
- "timestamp": "20260828-163325",
+ "timestamp": "20260830-164841",
  "list": [
   {
    "name": "Phallus dongsun",
@@ -56,6 +56,9 @@
    "name": "Phallus rugulosus",
    "zhtw": "細皺鬼筆",
    "zhcn": "细皱鬼笔",
+   "current": "Satyrus rugulosus",
+   "current_zhtw": "細皺紅鬼筆",
+   "current_zhcn": "细皱红鬼笔",
    "img": "Phallus_rugulosus_1_CC BY-NC_向高世.jpg"
   }
  ],
