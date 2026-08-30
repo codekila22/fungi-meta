@@ -180,9 +180,11 @@
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Artomyces brunneoalbus,,",
   "Note": "羽瑚菌狀密瑚菌，種小名pteruloides意為「似鬚(羽)瑚菌屬（Pterula）的」，指其外觀與鬚瑚菌屬相似、曾被誤置於該屬，後經鑑定確認改隸本屬。子實體纖細、多回分枝如小樹或鬚狀、質韌，灰褐至暗褐色、枝端漸尖細轉黑；生於闊葉樹枯木與樹皮上。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "棕白密瑚菌,,",
+  "la_zhcn": "棕白密瑚菌,,"
  },
  "inaturalist": [
   {
@@ -193,5 +195,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260830-172000"
+ "timestamp": "20260830-173035"
 }

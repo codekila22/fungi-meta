@@ -93,18 +93,34 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Artomyces pteruloides,,",
   "Note": "棕白密瑚菌，種小名brunneoalbus意為「褐與白」，指其分枝下段棕褐、上段轉白之雙色特徵。子實體珊瑚狀、多回分枝，基部至中段呈橙棕至肉桂褐色、近頂端漸轉白色，枝端尖細分岔；叢生於闊葉樹倒木或枯枝上。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "羽瑚菌狀密瑚菌,,",
+  "la_zhcn": "羽瑚菌状密瑚菌,,"
  },
- "timestamp": "20260830-172000"
+ "inaturalist": [
+  {
+   "name": "Artomyces brunneoalbus",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1616545",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260830-173035"
 }
