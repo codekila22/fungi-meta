@@ -2,8 +2,14 @@
  "name": "Artomyces",
  "zhtw": "密瑚菌屬",
  "zhcn": "密瑚菌属",
- "timestamp": "20260830-164841",
+ "timestamp": "20260830-172000",
  "list": [
+  {
+   "name": "Artomyces brunneoalbus",
+   "zhtw": "棕白密瑚菌",
+   "zhcn": "棕白密瑚菌",
+   "img": "Artomyces_brunneoalbus_6614606881983020_d4f89350-a452-11f1-87ae-999154efd688_1.jpg"
+  },
   {
    "name": "Artomyces colensoi",
    "zhtw": "枝密瑚菌",
