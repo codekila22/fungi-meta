@@ -2,7 +2,7 @@
  "name": "Physarum",
  "zhtw": "絨泡黏菌屬",
  "zhcn": "绒泡黏菌属",
- "timestamp": "20260829-205603",
+ "timestamp": "20260830-090658",
  "list": [
   {
    "name": "Physarum album",
@@ -107,6 +107,9 @@
    "name": "Physarum melleum",
    "zhtw": "蜜黃絨泡黏菌",
    "zhcn": "蜜黄绒泡黏菌",
+   "current": "Nannengaella mellea",
+   "current_zhtw": "蜜黃南氏黏菌",
+   "current_zhcn": "蜜黄南氏黏菌",
    "img": "Physarum_melleum_1_CC BY-NC_江志緯.jpg"
   },
   {
@@ -176,6 +179,9 @@
    "name": "Physarum roseum",
    "zhtw": "薔薇絨泡黏菌",
    "zhcn": "蔷薇绒泡黏菌",
+   "current": "Craterium roseum",
+   "current_zhtw": "薔薇高杯黏菌",
+   "current_zhcn": "蔷薇高杯黏菌",
    "img": "Physarum_roseum_1_CC BY-NC_蔣珮瑩.jpg"
   },
   {

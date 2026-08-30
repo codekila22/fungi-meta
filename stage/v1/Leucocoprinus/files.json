@@ -2,8 +2,14 @@
  "name": "Leucocoprinus",
  "zhtw": "白鬼傘屬",
  "zhcn": "白鬼伞属",
- "timestamp": "20260829-205603",
+ "timestamp": "20260830-090658",
  "list": [
+  {
+   "name": "Leucocoprinus atrodiscus",
+   "zhtw": "黑盤白鬼傘",
+   "zhcn": "黑盘白鬼伞",
+   "img": "Lepiota_atrodisca_204f2450-0d01-11ee-a694-697a48ce98b8_1.jpg"
+  },
   {
    "name": "Leucocoprinus birnbaumii",
    "zhtw": "純黃白鬼傘",

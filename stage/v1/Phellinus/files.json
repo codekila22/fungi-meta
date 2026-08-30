@@ -2,7 +2,7 @@
  "name": "Phellinus",
  "zhtw": "木層孔菌屬",
  "zhcn": "木层孔菌属",
- "timestamp": "20260829-205603",
+ "timestamp": "20260830-090658",
  "list": [
   {
    "name": "Phellinus fushanianus",
@@ -17,6 +17,9 @@
    "name": "Phellinus gilvus",
    "zhtw": "淡黃木層孔菌",
    "zhcn": "淡黄木层孔菌",
+   "current": "Fuscoporia gilva",
+   "current_zhtw": "暗黃褐孔菌",
+   "current_zhcn": "暗黄褐孔菌",
    "img": "Phellinus_gilvus_b26e2aa0-c97e-11ed-ad8c-695397dbb987_3.jpg"
   },
   {

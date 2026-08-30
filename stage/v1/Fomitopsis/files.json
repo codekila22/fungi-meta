@@ -2,7 +2,7 @@
  "name": "Fomitopsis",
  "zhtw": "擬層孔菌屬",
  "zhcn": "拟层孔菌属",
- "timestamp": "20260829-205603",
+ "timestamp": "20260830-090658",
  "list": [
   {
    "name": "Fomitopsis feei",
@@ -15,6 +15,12 @@
    "zhtw": "哈氏擬層孔菌",
    "zhcn": "哈氏拟层孔菌",
    "img": "Buglossoporus_eucalypticola_27893516736998726_8365a9e0-93ce-11f1-b920-0340f92f6a5e_1.jpg"
+  },
+  {
+   "name": "Fomitopsis maculatissima",
+   "zhtw": "多斑擬層孔菌",
+   "zhcn": "多斑拟层孔菌",
+   "img": "Neolentiporus_maculatissimus_d19bf710-6aad-11ee-a000-67e93e5156bd_1.jpg"
   },
   {
    "name": "Fomitopsis malicola",

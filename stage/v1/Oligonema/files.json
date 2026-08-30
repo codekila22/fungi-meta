@@ -2,13 +2,19 @@
  "name": "Oligonema",
  "zhtw": "少絲黏菌屬",
  "zhcn": "少丝黏菌属",
- "timestamp": "20260829-205603",
+ "timestamp": "20260830-090658",
  "list": [
   {
    "name": "Oligonema affine",
    "zhtw": "近緣少絲黏菌",
    "zhcn": "近缘少丝黏菌",
    "img": "Trichia_affinis_41c4d360-a02f-11ef-ada2-7528d83fa5c1_1.jpg"
+  },
+  {
+   "name": "Oligonema favogineum",
+   "zhtw": "深格少絲黏菌",
+   "zhcn": "深格少丝黏菌",
+   "img": "Trichia_favoginea_1_CC BY-NC_陳麗紅.jpg"
   },
   {
    "name": "Oligonema verrucosum",

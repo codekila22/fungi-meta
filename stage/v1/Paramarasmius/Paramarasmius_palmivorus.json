@@ -1,0 +1,418 @@
+{
+ "genus": "Paramarasmius",
+ "name": "palmivorus",
+ "date": [
+  "08/12/2026,27947897698227296",
+  "08/01/2025,24007419295608509",
+  "07/29/2025,23986333434383762",
+  "07/11/2025,10075677752542565",
+  "11/20/2024,8560016734108682",
+  "09/20/2024,8101876873256006",
+  "08/18/2024,7868445776599118",
+  "05/27/2021,3811213838989019"
+ ],
+ "names_zhtw": [
+  "棕櫚擬小皮傘",
+  "棕櫚小皮傘"
+ ],
+ "names_en": [],
+ "url": "3811213838989019",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_palmivorus_a5b05f70-0733-11ee-a13b-63e148c0bbba_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_palmivorus_a5b05f70-0733-11ee-a13b-63e148c0bbba_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_palmivorus_a5b05f70-0733-11ee-a13b-63e148c0bbba_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_palmivorus_a5b05f70-0733-11ee-a13b-63e148c0bbba_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_palmivorus_a5b05f70-0733-11ee-a13b-63e148c0bbba_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_palmivorus_a5b05f70-0733-11ee-a13b-63e148c0bbba_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_palmivorus_a5b05f70-0733-11ee-a13b-63e148c0bbba_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_palmivorus_a5b05f70-0733-11ee-a13b-63e148c0bbba_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_palmivorus_a5b05f70-0733-11ee-a13b-63e148c0bbba_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Marasmius_palmivorus_a5b05f70-0733-11ee-a13b-63e148c0bbba_10.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_10.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_11.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_12.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_13.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_be60c0f0-1ccb-10fb-a952-033d43e2f9c1_14.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_293636b0-77a6-11ef-b05e-9b9e0c24776c_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_293636b0-77a6-11ef-b05e-9b9e0c24776c_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_293636b0-77a6-11ef-b05e-9b9e0c24776c_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_293636b0-77a6-11ef-b05e-9b9e0c24776c_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_293636b0-77a6-11ef-b05e-9b9e0c24776c_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_293636b0-77a6-11ef-b05e-9b9e0c24776c_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_293636b0-77a6-11ef-b05e-9b9e0c24776c_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_293636b0-77a6-11ef-b05e-9b9e0c24776c_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_293636b0-77a6-11ef-b05e-9b9e0c24776c_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_293636b0-77a6-11ef-b05e-9b9e0c24776c_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_12.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_13.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_14.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Marasmius_palmivorus_816a2ff0-a981-11ef-807b-23f5897693f2_15.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_070e1770-5f03-11f0-a766-21427abf302f_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_070e1770-5f03-11f0-a766-21427abf302f_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_070e1770-5f03-11f0-a766-21427abf302f_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_070e1770-5f03-11f0-a766-21427abf302f_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_070e1770-5f03-11f0-a766-21427abf302f_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_070e1770-5f03-11f0-a766-21427abf302f_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Marasmius_palmivorus_fa922470-6f4a-11f0-b88f-6bc2be5f5baa_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Marasmius_palmivorus_20a20590-7027-11f0-ba61-d123ab869cb1_13.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_27947897698227296_a00acb70-9653-11f1-9836-5b8ad379a2d1_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_27947897698227296_a00acb70-9653-11f1-9836-5b8ad379a2d1_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_27947897698227296_a00acb70-9653-11f1-9836-5b8ad379a2d1_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_27947897698227296_a00acb70-9653-11f1-9836-5b8ad379a2d1_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_27947897698227296_a00acb70-9653-11f1-9836-5b8ad379a2d1_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_27947897698227296_a00acb70-9653-11f1-9836-5b8ad379a2d1_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Marasmius_palmivorus_27947897698227296_a00acb70-9653-11f1-9836-5b8ad379a2d1_7.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Marasmius palmivorus",
+   "zhtw": "棕櫚小皮傘",
+   "zhcn": "棕榈小皮伞"
+  }
+ ],
+ "names_zhcn": [
+  "棕榈拟小皮伞",
+  "棕榈小皮伞"
+ ],
+ "meta": {
+  "CapColors": "4286141768,4294083840",
+  "CapDiamRangeValues": "10,30",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "1,3",
+  "StalkLengthRangeValuess": "30,80",
+  "HeightRangeValuess": "",
+  "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "leaves",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "Marasmiellus inoderma,,",
+  "Note": "棕櫚小皮傘，種小名palmivorus由palma（棕櫚）與vorare（吞食）組成，意為「食棕櫚的」，指其專生於棕櫚類之習性。菌蓋淡黃褐至白色、具溝紋；菌褶疏、白色；柄細韌；生於山棕等棕櫚科之枯葉桿上，亦可為其病原。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "纖狀微皮傘,,",
+  "la_zhcn": "纤状微皮伞,,"
+ },
+ "inaturalist": [
+  {
+   "name": "Paramarasmius palmivorus",
+   "cname": "",
+   "cname_zh": "棕櫚小皮傘",
+   "url": "https://www.inaturalist.org/taxa/1409643",
+   "src": "https://static.inaturalist.org/photos/54590291/square.jpeg"
+  },
+  {
+   "name": "Paramarasmius sp. 'palmivorus-JM01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1680197",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/509442586/square.jpg"
+  }
+ ],
+ "timestamp": "20260830-090658"
+}

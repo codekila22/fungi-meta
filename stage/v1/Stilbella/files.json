@@ -2,7 +2,7 @@
  "name": "Stilbella",
  "zhtw": "束梗孢菌屬",
  "zhcn": "束梗孢菌属",
- "timestamp": "20260829-205603",
+ "timestamp": "20260830-090658",
  "list": [
   {
    "name": "Stilbella aleuriata",
@@ -35,6 +35,9 @@
    "name": "Stilbella fimetaria",
    "zhtw": "糞生束梗孢菌",
    "zhcn": "粪生束梗孢菌",
+   "current": "Emericellopsis fimetaria",
+   "current_zhtw": "糞生翅孢殼",
+   "current_zhcn": "粪生翅孢壳",
    "img": "Stilbella_fimetaria_2d158710-fa4f-11ee-9899-83a89efcaf9c_2.jpg"
   }
  ],

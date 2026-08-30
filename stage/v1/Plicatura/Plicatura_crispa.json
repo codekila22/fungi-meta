@@ -1,5 +1,454 @@
 {
- "zhtw": "皺波褶尾菌",
- "zhcn": "皱波褶尾菌",
- "redirect_to_species": "Plicaturopsis crispa"
+ "genus": "Plicatura",
+ "name": "crispa",
+ "date": [
+  "01/06/2026,25432869543063470",
+  "12/31/2025,25380681278282297",
+  "11/03/2025,24907837212233375",
+  "01/05/2025,8805324132911273",
+  "12/03/2024,8704063263037361",
+  "11/02/2024,8709099589200395",
+  "12/29/2023,6823664561077250",
+  "01/03/2023,5565185480258504",
+  "12/15/2022,5517634485013604",
+  "12/03/2022,5466631196780600",
+  "10/12/2022,5326864787423909",
+  "12/02/2021,4382762785167452",
+  "11/25/2021,4356713984438999",
+  "01/24/2021,3464857413624665",
+  "12/06/2020,3342666309177110"
+ ],
+ "names_zhtw": [
+  "皺褶革菌",
+  "皺波擬褶尾菌"
+ ],
+ "names_en": [],
+ "url": "3342666309177110",
+ "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_1_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Plicatura_crispa_1_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_2_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_3_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_4_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_5_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_6_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_7_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_8_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_9_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_10_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_11_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Plicatura_crispa_2_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Plicatura_crispa_3_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Plicatura_crispa_4_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Plicatura_crispa_5_CC BY-NC_蔡古媧.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_12_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_13_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_14_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_15_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_16_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_17_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_18_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_19_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_20_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_21_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_22_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_23_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_24_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_25_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_26_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_27_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_28_CC BY-NC_陳麗紅.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_3d24eb10-ab7f-11ee-8426-ab54a17fd9c4_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_3d24eb10-ab7f-11ee-8426-ab54a17fd9c4_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_3d24eb10-ab7f-11ee-8426-ab54a17fd9c4_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_3d24eb10-ab7f-11ee-8426-ab54a17fd9c4_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_12.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_13.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_14.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Plicaturopsis_crispa_20a56530-bf94-11ef-ab70-eb9a4b335548_15.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_a8a2f430-bfa7-11ef-89d6-39f19b309775_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_a8a2f430-bfa7-11ef-89d6-39f19b309775_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_a8a2f430-bfa7-11ef-89d6-39f19b309775_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_a8a2f430-bfa7-11ef-89d6-39f19b309775_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_a8a2f430-bfa7-11ef-89d6-39f19b309775_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_a8a2f430-bfa7-11ef-89d6-39f19b309775_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_a6a16920-cc2f-11ef-ace5-69cf2859952f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_a6a16920-cc2f-11ef-ace5-69cf2859952f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_a6a16920-cc2f-11ef-ace5-69cf2859952f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_a6a16920-cc2f-11ef-ace5-69cf2859952f_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_a6a16920-cc2f-11ef-ace5-69cf2859952f_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_a6a16920-cc2f-11ef-ace5-69cf2859952f_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_a6a16920-cc2f-11ef-ace5-69cf2859952f_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_e0d00410-bbe1-11f0-89b5-af97cfeeeb9e_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_e0d00410-bbe1-11f0-89b5-af97cfeeeb9e_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_e0d00410-bbe1-11f0-89b5-af97cfeeeb9e_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_e0d00410-bbe1-11f0-89b5-af97cfeeeb9e_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_e0d00410-bbe1-11f0-89b5-af97cfeeeb9e_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_e0d00410-bbe1-11f0-89b5-af97cfeeeb9e_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicaturopsis_crispa_e0d00410-bbe1-11f0-89b5-af97cfeeeb9e_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_d2910030-e647-11f0-9839-6151dc142f2d_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_7.jpg"
+  }
+ ],
+ "synonym": [
+  {
+   "name": "Plicaturopsis crispa",
+   "zhtw": "皺波擬褶尾菌/皺褶革菌",
+   "zhcn": "皱波拟褶尾菌/皱褶革菌"
+  }
+ ],
+ "names_zhcn": [
+  "皱褶革菌",
+  "皱波拟褶尾菌"
+ ],
+ "meta": {
+  "CapColors": "4293498490,4292072403,4293302630",
+  "CapDiamRangeValues": "10,30",
+  "CapShape": "",
+  "CapTexture": "velvety",
+  "CapMargin": "",
+  "HymeniumType": "",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "none",
+  "StalkVolva": "none",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Seasons": "winter",
+  "GrowthType": "",
+  "GrowthEnv": "wood",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "皺波擬褶尾菌，扇形帽波狀捲曲黃褐色，下表面具脈狀皺褶，群生於闊葉樹枯枝。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Plicatura crispa",
+   "cname": "crimped gill",
+   "cname_zh": "皺褶革菌",
+   "url": "https://www.inaturalist.org/taxa/1503458",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135520/square."
+  }
+ ],
+ "timestamp": "20260830-090658"
 }

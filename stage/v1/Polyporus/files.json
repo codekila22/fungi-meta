@@ -2,7 +2,7 @@
  "name": "Polyporus",
  "zhtw": "多孔菌屬",
  "zhcn": "多孔菌属",
- "timestamp": "20260829-205603",
+ "timestamp": "20260830-090658",
  "list": [
   {
    "name": "Polyporus admirabilis",
@@ -44,6 +44,9 @@
    "name": "Polyporus brumalis",
    "zhtw": "冬生多孔菌",
    "zhcn": "冬生多孔菌",
+   "current": "Lentinus brumalis",
+   "current_zhtw": "冬生斗菇",
+   "current_zhcn": "冬生斗菇",
    "img": "Polyporus_brumalis_3_CC BY-NC_Sunny Wang.jpg"
   },
   {
@@ -83,6 +86,9 @@
    "name": "Polyporus melanopus",
    "zhtw": "黑柄多孔菌",
    "zhcn": "黑柄多孔菌",
+   "current": "Picipes melanopus",
+   "current_zhtw": "黑柄多孔菌",
+   "current_zhcn": "黑柄多孔菌",
    "img": "Polyporus_melanopus_5_CC BY-NC_柯文俊.jpg"
   },
   {
@@ -125,6 +131,9 @@
    "name": "Polyporus varius",
    "zhtw": "多變多孔菌",
    "zhcn": "多变多孔菌",
+   "current": "Cerioporus varius",
+   "current_zhtw": "多變蠟孔菌",
+   "current_zhcn": "多变蜡孔菌",
    "img": "Polyporus_varius_2_CC BY-NC_陳麗紅.jpg"
   }
  ],

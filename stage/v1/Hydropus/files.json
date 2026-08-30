@@ -2,7 +2,7 @@
  "name": "Hydropus",
  "zhtw": "濕柄傘屬",
  "zhcn": "湿柄伞属",
- "timestamp": "20260829-205603",
+ "timestamp": "20260830-090658",
  "list": [
   {
    "name": "Hydropus atramentosus",
@@ -29,6 +29,9 @@
    "name": "Hydropus omphaliiformis",
    "zhtw": "臍形濕柄傘",
    "zhcn": "脐形湿柄伞",
+   "current": "Marasmiellomycena omphaliiformis",
+   "current_zhtw": "臍形微皮傘小菇",
+   "current_zhcn": "脐形微皮伞小菇",
    "img": "Hydropus_omphaliiformis_bc979790-0a1f-11ef-b676-91cf3fe8a982_1.jpg"
   }
  ],

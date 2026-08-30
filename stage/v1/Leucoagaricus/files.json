@@ -2,12 +2,15 @@
  "name": "Leucoagaricus",
  "zhtw": "白環蘑屬",
  "zhcn": "白环蘑属",
- "timestamp": "20260829-205603",
+ "timestamp": "20260830-090658",
  "list": [
   {
    "name": "Leucoagaricus americanus",
    "zhtw": "美國白環蘑",
    "zhcn": "美国白环蘑",
+   "current": "Macropsalliota americana",
+   "current_zhtw": "美洲大蘑菇",
+   "current_zhcn": "美洲大蘑菇",
    "img": "Leucoagaricus_americanus_4_CC BY-NC_陳雅芬.jpg"
   },
   {
@@ -20,9 +23,9 @@
    "name": "Leucoagaricus bresadolae",
    "zhtw": "布雷白環蘑",
    "zhcn": "布雷白环蘑",
-   "current": "Leucoagaricus americanus",
-   "current_zhtw": "美國白環蘑",
-   "current_zhcn": "美国白环蘑",
+   "current": "Macropsalliota americana",
+   "current_zhtw": "美洲大蘑菇",
+   "current_zhcn": "美洲大蘑菇",
    "img": "Leucoagaricus_americanus_4_CC BY-NC_陳雅芬.jpg"
   },
   {
