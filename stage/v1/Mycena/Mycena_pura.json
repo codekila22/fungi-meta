@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "pura",
  "date": [
+  "08/29/2026,28202273556123041",
   "08/28/2025,24250208731329563",
   "03/29/2024,7177918658985170",
   "10/14/2023,6517656981678011",
@@ -265,6 +266,14 @@
   {
    "author": "吳湯姆",
    "image_src": "Mycena_pura_45505ec0-8d3a-11f0-9bd0-f5d38e147848_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_pura_28202273556123041_49db86b0-a501-11f1-91ca-67dcf1476147_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Mycena_pura_28202273556123041_49db86b0-a501-11f1-91ca-67dcf1476147_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -293,13 +302,17 @@
   "StalkDiamRangeValuess": "1,3",
   "StalkLengthRangeValuess": "40,80",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "weak",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Mycena aff. pura,,",
@@ -359,5 +372,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260901-111320"
 }
