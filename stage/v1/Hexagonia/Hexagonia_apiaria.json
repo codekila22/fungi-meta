@@ -2,6 +2,7 @@
  "genus": "Hexagonia",
  "name": "apiaria",
  "date": [
+  "08/27/2026,28209261212090942",
   "10/25/2025,24788509714166126",
   "04/19/2025,9433845033392510",
   "10/08/2024,8275693919207633",
@@ -264,6 +265,14 @@
   {
    "author": "江志緯",
    "image_src": "Hexagonia_apiaria_78fa5c60-b17c-11f0-b502-5faf82993acd_14.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hexagonia_apiaria_28209261212090942_a77f56f0-a5da-11f1-a9d2-e3d283617cd4_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hexagonia_apiaria_28209261212090942_a77f56f0-a5da-11f1-a9d2-e3d283617cd4_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -318,5 +327,5 @@
    "src": "https://static.inaturalist.org/photos/25478917/thumb.jpg"
   }
  ],
- "timestamp": "20260901-111320"
+ "timestamp": "20260903-164641"
 }

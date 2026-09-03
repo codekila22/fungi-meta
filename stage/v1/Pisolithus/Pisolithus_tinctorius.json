@@ -2,6 +2,7 @@
  "genus": "Pisolithus",
  "name": "tinctorius",
  "date": [
+  "08/27/2026,28219628314387565",
   "08/25/2026,28154388020911595",
   "10/30/2025,24840035602346870",
   "09/25/2024,8145018555608504",
@@ -271,6 +272,22 @@
   {
    "author": "黃金興",
    "image_src": "Pisolithus_tinctorius_28154388020911595_c9f50370-a25a-11f1-8f05-8356243ec169_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pisolithus_tinctorius_28219628314387565_dbf79c40-a5d9-11f1-a9d2-e3d283617cd4_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pisolithus_tinctorius_28219628314387565_dbf79c40-a5d9-11f1-a9d2-e3d283617cd4_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pisolithus_tinctorius_28219628314387565_dbf79c40-a5d9-11f1-a9d2-e3d283617cd4_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Pisolithus_tinctorius_28219628314387565_dbf79c40-a5d9-11f1-a9d2-e3d283617cd4_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -370,5 +387,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260901-111320"
+ "timestamp": "20260903-164641"
 }
