@@ -2,6 +2,7 @@
  "genus": "Tylopilus",
  "name": "griseocarneus",
  "date": [
+  "09/03/2026,28252263301124066",
   "07/02/2025,10099079570202383",
   "08/30/2022,25175998232083937",
   "09/12/2018,3557337604376645"
@@ -147,6 +148,34 @@
   {
    "author": "江志緯",
    "image_src": "Tylopilus_griseocarneus_7e4ea8a0-d31a-11f0-907c-fbc3296eacad_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28252263301124066_73588440-a810-11f1-a055-d9c461f722ec_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28252263301124066_73588440-a810-11f1-a055-d9c461f722ec_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28252263301124066_73588440-a810-11f1-a055-d9c461f722ec_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28252263301124066_73588440-a810-11f1-a055-d9c461f722ec_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28252263301124066_73588440-a810-11f1-a055-d9c461f722ec_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28252263301124066_73588440-a810-11f1-a055-d9c461f722ec_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28252263301124066_73588440-a810-11f1-a055-d9c461f722ec_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -174,17 +203,22 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,25",
   "StalkLengthRangeValuess": "50,100",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "no",
+  "NearHome": "",
+  "Bruising": "red,black",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "灰肉色粉孢牛肝菌，種小名griseocarneus意為「灰肉色的」，指菌蓋灰褐帶肉色。菌蓋灰褐色，孔面白色轉粉紅（粉孢牛肝菌屬特徵），柄具網紋，肉味苦，外生菌根生於殼斗科林地。",
+  "Note": "灰肉色粉孢牛肝菌，種小名griseocarneus意為「灰肉色的」，指菌蓋灰褐帶肉色。菌蓋灰褐色，孔面白色轉粉紅（粉孢牛肝菌屬特徵），柄具網紋，肉味苦，外生菌根生於殼斗科林地。菌蓋菌肉碰傷會變為橙紅色並逐漸褪為黑色。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -196,5 +230,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157277126/thumb.jpg"
   }
  ],
- "timestamp": "20260903-164641"
+ "timestamp": "20260904-113637"
 }

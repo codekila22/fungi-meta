@@ -64,17 +64,22 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "bamboo",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": ",,",
-  "Note": "竹生滴小菇相似種，近似竹生滴小菇（Roridomyces phyllostachydis）。子實體微小，菌蓋半球至鐘形、白色半透明而具放射狀溝紋；菌褶白色、稀疏；菌柄纖細、通體被厚滑黏液層，基部常凝結成透明露珠狀黏液滴，為本屬（Roridomyces）之典型特徵；數株叢生於朽木上。",
+  "Note": "竹生滴小菇相似種，子實體微小，菌蓋半球至鐘形、白色半透明而具放射狀溝紋；菌褶白色、稀疏；菌柄纖細、通體被厚滑黏液層，基部常凝結成透明露珠狀黏液滴，為本屬（Roridomyces）之典型特徵；數株叢生於枯竹上而非枯木。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": ",,",
   "la_zhcn": ",,"
@@ -88,5 +93,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260903-164641"
+ "timestamp": "20260904-113637"
 }

@@ -1,5 +1,5 @@
 {
- "timestamp": "20260903-164641",
+ "timestamp": "20260904-113637",
  "list": [
   "Abortiporus biennis|Polypores|wood|50,150|4294919424,4291998860,4283244288",
   "Absidia sp.1|Parasitic,Molds|parasitic||4294967295",
@@ -1053,7 +1053,7 @@
   "Hapalopilus rutilans|Polypores|wood|25,120|4291605388",
   "Haplotrichum curtisii|Molds|wood||4291659071,4291998860",
   "Harrya chromapes|Boletes|ground|30,150|4293313475,4291648604,4294901760",
-  "Hausknechtia leucosticta|Agarics|ground||4294967295,4292072403,4286141768",
+  "Hausknechtia leucosticta|Agarics|ground|16,43|4294967295,4292072403,4286141768",
   "Heimiomyces velutipes|Agarics|wood||4293977740,4292519200",
   "Heimioporus japonicus|Boletes|ground|50,100|4288217142,4286578688",
   "Helicogloea compressa|Jelly|wood|5,20|4292072403,4294309365,4294967295",
@@ -2290,6 +2290,7 @@
   "Tapinella atrotomentosa var. bambusina|Agarics|wood,ground,bamboo|60,120|4286141768,4283244288,4288768839",
   "Tapinella atrotomentosa|Agarics|wood|60,120|4286141768",
   "Tapinella panuoides|Agarics|wood|30,100|4286141768,4288244511,4294967040",
+  "Tarzetta catinus|Cups|ground||4294303411,4291998860",
   "Tectella patellaris|Agarics|wood|5,20|4286141768",
   "Teloschistes flavicans|Lichens|wood||4294956800,4294962944",
   "Tephromela cf. atra|Lichens|wood||4278190080,4278222848",

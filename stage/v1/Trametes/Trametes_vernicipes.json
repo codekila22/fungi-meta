@@ -9,6 +9,8 @@
   }
  ],
  "date": [
+  "09/02/2026,28263843559966040",
+  "08/24/2026,28263843559966040",
   "07/07/2024,7626731907437174",
   "04/29/2024,7363161597127541",
   "10/24/2023,6560131967430512",
@@ -200,6 +202,74 @@
   {
    "author": "James Ho",
    "image_src": "Trametes_vernicipes_a9876330-f3f4-107f-be59-0995c43991f1_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_12.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_13.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_14.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_15.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_16.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Trametes_vernicipes_28263843559966040_f0022670-a80d-11f1-a055-d9c461f722ec_17.jpg"
   }
  ],
  "names_zhcn": [
@@ -228,14 +298,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "20,60",
   "HeightRangeValuess": "20,60",
-  "Rareness": "",
-  "Elevation": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
   "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "NearHome": "",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
   "Cultivated": "",
@@ -256,5 +326,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/176458268/thumb.jpg"
   }
  ],
- "timestamp": "20260903-164641"
+ "timestamp": "20260904-113637"
 }

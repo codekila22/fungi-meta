@@ -198,14 +198,18 @@
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "debris,leaves",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "擬竹林小皮傘，種小名bambusiniformis意為「似竹林小皮傘（M. bambusinus）的」。菌蓋橘黃色、具槽狀溝紋；菌褶近稀（約10至18片）、以一小接觸點著生（近離生）、褶緣略具鑲邊；柄細如線、上白黃而下紅棕；低海拔林下常見。",
-  "GrowthEco": "saprotrophic"
+  "LookAlikes": "Marasmius siccus,,",
+  "Note": "擬竹林小皮傘，種小名bambusiniformis意為「似竹林小皮傘(Marasmius bambusinus)的」。菌蓋橘黃色、具槽狀溝紋；菌褶近稀（約10至18片）、以一小接觸點著生（近離生）、褶緣略具鑲邊；柄細如線、上白黃而下紅棕；低海拔林下常見。",
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "琥珀小皮傘,,",
+  "la_zhcn": "琥珀小皮伞,,"
  },
  "inaturalist": [
   {
@@ -216,5 +220,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63308987/thumb.jpg"
   }
  ],
- "timestamp": "20260903-164641"
+ "timestamp": "20260904-113637"
 }
