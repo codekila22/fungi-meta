@@ -2,6 +2,7 @@
  "genus": "Agaricus",
  "name": "albosquamosus",
  "date": [
+  "08/27/2026,28209552008728529",
   "09/30/2024,8224005577709801",
   "09/16/2024,8116931235083903"
  ],
@@ -90,6 +91,58 @@
   {
    "author": "陳麗紅",
    "image_src": "Agaricus_albosquamosus_06042fd0-814c-11ef-92d0-9b0b1561ec64_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Agaricus_albosquamosus_28209552008728529_1ba3a560-a5b1-11f1-b692-c592f34dec52_13.jpg"
   }
  ],
  "names_zhcn": [
@@ -118,13 +171,17 @@
   "StalkDiamRangeValuess": "5,12",
   "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita virosa,,",
@@ -142,5 +199,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157491384/thumb.jpg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

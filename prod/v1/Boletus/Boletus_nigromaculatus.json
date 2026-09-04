@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "09/03/2026,28252083457808717",
   "05/28/2021,3812785102165226"
  ],
  "names_zhtw": [
@@ -36,6 +37,42 @@
   {
    "author": "Hannah Wang",
    "image_src": "Xerocomus_nigromaculatus_6_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_nigromaculatus_28252083457808717_9700c440-a778-11f1-9d91-3d436325414c_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_nigromaculatus_28252083457808717_9700c440-a778-11f1-9d91-3d436325414c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_nigromaculatus_28252083457808717_9700c440-a778-11f1-9d91-3d436325414c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_nigromaculatus_28252083457808717_9700c440-a778-11f1-9d91-3d436325414c_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_nigromaculatus_28252083457808717_9700c440-a778-11f1-9d91-3d436325414c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_nigromaculatus_28252083457808717_9700c440-a778-11f1-9d91-3d436325414c_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_nigromaculatus_28252083457808717_9700c440-a778-11f1-9d91-3d436325414c_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_nigromaculatus_28252083457808717_9700c440-a778-11f1-9d91-3d436325414c_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletus_nigromaculatus_28252083457808717_9700c440-a778-11f1-9d91-3d436325414c_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -64,20 +101,24 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
   "Elevation": "low",
   "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "blue",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "黑斑牛肝菌，種小名nigromaculatus意為「具黑斑的」，指其傷後之黑變。菌蓋褐色；孔面傷後先轉藍、再變黑而現黑斑；柄具網紋；與樹木共生為外生菌根菌。",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Borofutus dhakanus,,",
+  "Note": "黑斑牛肝菌，種小名nigromaculatus意為「具黑斑的」，指其傷後之黑變。菌蓋褐色；孔面傷後先轉藍、再變黑而現黑斑；柄具縱紋；與樹木共生為外生菌根菌。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "大孔牛肝菌,,",
+  "la_zhcn": "大孔牛肝菌,,"
  },
  "inaturalist": [
   {
@@ -88,5 +129,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157476327/thumb.jpg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "mengsongense",
  "date": [
+  "09/02/2026,28242147598802303",
   "06/22/2025,9930242787086063",
   "06/20/2025,9914615801982095",
   "08/24/2024,7904969079613454",
@@ -225,9 +226,11 @@
   "Seasons": "summer,autumn",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Entoloma virescens,,",
@@ -245,5 +248,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

@@ -2,6 +2,7 @@
  "genus": "Delicatula",
  "name": "integrella",
  "date": [
+  "09/01/2026,28221188324231564",
   "09/21/2025,24443436198673481",
   "07/30/2025,23999338633083242",
   "06/12/2025,9850854271691582",
@@ -307,6 +308,22 @@
   {
    "author": "江志緯",
    "image_src": "Delicatula_integrella_02c3d2f0-96cf-11f0-96e7-7b7f49f622a8_15.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Delicatula_integrella_28221188324231564_131f4f20-a813-11f1-a055-d9c461f722ec_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Delicatula_integrella_28221188324231564_131f4f20-a813-11f1-a055-d9c461f722ec_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Delicatula_integrella_28221188324231564_131f4f20-a813-11f1-a055-d9c461f722ec_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Delicatula_integrella_28221188324231564_131f4f20-a813-11f1-a055-d9c461f722ec_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -334,13 +351,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "0,2",
   "StalkLengthRangeValuess": "10,30",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -356,5 +378,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4606744/thumb.jpg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

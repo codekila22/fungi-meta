@@ -2,6 +2,7 @@
  "genus": "Collaria",
  "name": "arcyrionema",
  "date": [
+  "08/29/2026,28193036703713393",
   "09/05/2024,7982441895199505",
   "07/05/2024,7638659872911044",
   "10/15/2023,6576744279102614",
@@ -338,6 +339,50 @@
   {
    "author": "朱艷",
    "image_src": "Collaria_arcyrionema_b215cc90-6c19-11ef-ac2d-9d55987c7550_8.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_7.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_8.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_9.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_10.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Collaria_arcyrionema_28193036703713393_18916530-a465-11f1-8053-e599f3835f2b_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -365,17 +410,24 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "光孢項圈黏菌，種小名arcyrionema意為「具團網黏菌狀網絲的」。孢子囊微小、具細長之黑柄、頂端毛體聯成宿存之網體、基部留一領圈狀殘膜；孢子光滑；群生於腐木上。"
+  "LookAlikes": "Lamproderma scintillans,,",
+  "Note": "光孢項圈黏菌，種小名arcyrionema意為「具團網黏菌狀網絲的」。孢子囊微小、具細長之黑柄、頂端毛體聯成宿存之網體、基部留一領圈狀殘膜；孢子光滑；群生於腐木上。",
+  "la_zhtw": "閃光亮皮黏菌,,",
+  "la_zhcn": "闪光亮皮黏菌,,"
  },
  "inaturalist": [
   {
@@ -386,5 +438,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/26939102/thumb.jpeg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

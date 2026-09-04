@@ -2,6 +2,7 @@
  "genus": "Phaeocollybia",
  "name": "purpurea",
  "date": [
+  "08/29/2026,28202273556123041",
   "08/03/2026,27835636886120045",
   "07/28/2026,27767332576283810",
   "07/21/2026,27693425343674534",
@@ -280,6 +281,14 @@
   {
    "author": "吳湯姆",
    "image_src": "Phaeocollybia_purpurea_27767332576283810_dc443b60-8b5b-11f1-b510-09488ad17d92_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Phaeocollybia_purpurea_28202273556123041_a8a82c20-a501-11f1-91ca-67dcf1476147_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Phaeocollybia_purpurea_28202273556123041_a8a82c20-a501-11f1-91ca-67dcf1476147_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -307,18 +316,23 @@
   "StalkBase": "rooting",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "spring,summer",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "紫色暗金錢菌，帽圓錐至凸紫褐黏滑、柄軟骨質深入土中呈假根，菌褶鏽褐，針闊葉林地。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

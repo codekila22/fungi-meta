@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "macrocarpa",
  "date": [
+  "09/04/2026,28164107149939682",
   "08/27/2026,28164107149939682",
   "11/16/2025,25196213026729124",
   "08/04/2025,24036483679368737",
@@ -217,6 +218,14 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_macrocarpa_28164107149939682_74daecb0-a2b9-11f1-b9ae-7b3f6fa56b05_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_28164107149939682_480e47e0-a80e-11f1-a055-d9c461f722ec_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Amanita_macrocarpa_28164107149939682_480e47e0-a80e-11f1-a055-d9c461f722ec_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -271,5 +280,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5643586/thumb.png"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

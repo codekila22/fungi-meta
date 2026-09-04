@@ -2,6 +2,7 @@
  "genus": "Xanthoconium",
  "name": "affine",
  "date": [
+  "08/31/2026,28219225857761144",
   "07/02/2026,27476468732036864",
   "08/01/2025,24011326428551129",
   "07/31/2025,24022840347399737",
@@ -294,6 +295,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Xanthoconium_affine_4bdeda50-791b-11f1-9bac-25118943d88e_18.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Xanthoconium_affine_28219225857761144_c48a0f90-a5d7-11f1-a9d2-e3d283617cd4_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Xanthoconium_affine_28219225857761144_c48a0f90-a5d7-11f1-a9d2-e3d283617cd4_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Xanthoconium_affine_28219225857761144_c48a0f90-a5d7-11f1-a9d2-e3d283617cd4_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -323,13 +336,17 @@
   "StalkDiamRangeValuess": "5,20",
   "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Boletus edulis,,",
@@ -368,5 +385,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/80194436/thumb.jpg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

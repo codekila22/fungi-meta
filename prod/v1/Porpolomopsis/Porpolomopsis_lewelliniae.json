@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "08/29/2026,28202273556123041",
   "08/01/2026,27815352954815105",
   "06/28/2026,27766534783030256",
   "07/08/2025,10052999121477095",
@@ -43,6 +44,10 @@
  ],
  "url": "3262158543894554",
  "images": [
+  {
+   "author": "何俊霖",
+   "image_src": "Porpolomopsis_lewelliniae_27766534783030256_f94dbfb0-8b51-11f1-b510-09488ad17d92_7.jpg"
+  },
   {
    "author": "Sunny Wang",
    "image_src": "Porpolomopsis_lewelliniae_11_CC BY-NC_Sunny Wang.jpg"
@@ -320,10 +325,6 @@
    "image_src": "Porpolomopsis_lewelliniae_27766534783030256_f94dbfb0-8b51-11f1-b510-09488ad17d92_6.jpg"
   },
   {
-   "author": "何俊霖",
-   "image_src": "Porpolomopsis_lewelliniae_27766534783030256_f94dbfb0-8b51-11f1-b510-09488ad17d92_7.jpg"
-  },
-  {
    "author": "蔡古媧",
    "image_src": "Porpolomopsis_lewelliniae_27815352954815105_9731f230-8e65-11f1-bdb3-bbb8d9d5caa1_1.jpg"
   },
@@ -334,6 +335,14 @@
   {
    "author": "蔡古媧",
    "image_src": "Porpolomopsis_lewelliniae_27815352954815105_9731f230-8e65-11f1-bdb3-bbb8d9d5caa1_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Porpolomopsis_lewelliniae_28202273556123041_6bf625c0-a501-11f1-91ca-67dcf1476147_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Porpolomopsis_lewelliniae_28202273556123041_6bf625c0-a501-11f1-91ca-67dcf1476147_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -387,5 +396,5 @@
    "src": "https://static.inaturalist.org/photos/84318948/thumb.jpg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

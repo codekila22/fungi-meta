@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "sp.4",
  "date": [
+  "09/02/2026,28234941892856207",
   "02/02/2026,25680346364982452",
   "11/24/2024,8566138396829849",
   "11/23/2024,8560860417357647",
@@ -278,18 +279,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "leaves",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "幸運草小菇，子實體微小、菌蓋半透明而具條紋；菌褶疏；柄纖細；生於低海拔血桐（Macaranga）之枯葉上，為一尚未正式命名之小菇。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

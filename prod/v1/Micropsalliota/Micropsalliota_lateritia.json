@@ -2,6 +2,8 @@
  "genus": "Micropsalliota",
  "name": "lateritia",
  "date": [
+  "09/02/2026,28237039275979802",
+  "08/31/2026,28220532764297120",
   "06/13/2026,27204950292522044",
   "08/20/2024,7945072048936490",
   "06/11/2024,7567700860006946",
@@ -265,6 +267,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Micropsalliota_lateritia_355b5c60-673a-11f1-b2a6-7b24677bce75_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Micropsalliota_lateritia_28237039275979802_c5855640-a6d9-11f1-b47f-93751227ef9d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Micropsalliota_lateritia_28237039275979802_c5855640-a6d9-11f1-b47f-93751227ef9d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Micropsalliota_lateritia_28237039275979802_c5855640-a6d9-11f1-b47f-93751227ef9d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Micropsalliota_lateritia_28237039275979802_c5855640-a6d9-11f1-b47f-93751227ef9d_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Micropsalliota_lateritia_28220532764297120_011b1380-a814-11f1-a055-d9c461f722ec_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Micropsalliota_lateritia_28220532764297120_011b1380-a814-11f1-a055-d9c461f722ec_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Micropsalliota_lateritia_28220532764297120_011b1380-a814-11f1-a055-d9c461f722ec_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Micropsalliota_lateritia_28220532764297120_011b1380-a814-11f1-a055-d9c461f722ec_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Micropsalliota_lateritia_28220532764297120_011b1380-a814-11f1-a055-d9c461f722ec_5.jpg"
   }
  ],
  "synonym": [
@@ -300,15 +338,17 @@
   "StalkDiamRangeValuess": "1,2",
   "StalkLengthRangeValuess": "20,26",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low",
   "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Cystolepiota moelleri,Micropsalliota wuyishanensis,Micropsalliota rufosquarrosa",
@@ -326,5 +366,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/173267171/thumb.jpeg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

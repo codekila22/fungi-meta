@@ -2,6 +2,7 @@
  "genus": "Fuligo",
  "name": "aurea",
  "date": [
+  "08/31/2026,28234638696219860",
   "06/23/2026,27358531543830584",
   "10/13/2024,8314408685336156",
   "07/15/2024,7667135690063462",
@@ -122,6 +123,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Fuligo_aurea_d6593860-7097-11f1-a1fc-692ffc955ebc_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Fuligo_aurea_28234638696219860_eccd56f0-a76d-11f1-9d91-3d436325414c_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Fuligo_aurea_28234638696219860_eccd56f0-a76d-11f1-9d91-3d436325414c_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Fuligo_aurea_28234638696219860_eccd56f0-a76d-11f1-9d91-3d436325414c_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Fuligo_aurea_28234638696219860_eccd56f0-a76d-11f1-9d91-3d436325414c_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Fuligo_aurea_28234638696219860_eccd56f0-a76d-11f1-9d91-3d436325414c_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -149,13 +170,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood,ground,leaves",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -170,5 +196,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/62991822/square.jpeg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

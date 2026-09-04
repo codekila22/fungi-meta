@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "similis",
  "date": [
+  "09/02/2026,28232691436414586",
   "06/16/2024,7565549996888699",
   "04/28/2024,7289847867792248",
   "06/22/2023,6138641292912917",
@@ -248,6 +249,18 @@
   {
    "author": "蔡古媧",
    "image_src": "Amanita_similis_185e3bd0-3458-11ef-bcdf-4537cb446c1e_15.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_similis_28232691436414586_301fb990-a686-11f1-b47f-93751227ef9d_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_similis_28232691436414586_301fb990-a686-11f1-b47f-93751227ef9d_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_similis_28232691436414586_301fb990-a686-11f1-b47f-93751227ef9d_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -277,22 +290,24 @@
   "StalkDiamRangeValuess": "6,15",
   "StalkLengthRangeValuess": "60,120",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Elevation": "",
+  "Rareness": "common",
+  "Elevation": "low",
   "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Amanita hemibapha,,",
+  "LookAlikes": "Amanita hemibapha,Amanita ochracea,",
   "Note": "相似鵝膏，種小名similis意為「相似的」，指其與近緣種難分。菌蓋褐至黃褐色、被外菌幕殘餘、緣具溝紋；菌褶白色；柄具菌環、表面帶橙色花紋，基部膨大而具菌托。",
   "GrowthEco": "mycorrhizal",
-  "la_zhtw": "花柄橙紅鵝膏,,",
-  "la_zhcn": "花柄橙红鹅膏,,"
+  "la_zhtw": "花柄橙紅鵝膏,黃褐鵝膏,",
+  "la_zhcn": "花柄橙红鹅膏,黄褐鹅膏,"
  },
  "inaturalist": [
   {
@@ -303,5 +318,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14759208/thumb.jpg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

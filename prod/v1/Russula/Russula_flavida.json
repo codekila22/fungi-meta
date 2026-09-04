@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "flavida",
  "date": [
+  "08/29/2026,28222785300738533",
   "07/21/2026,27704470762569992",
   "07/17/2026,27632446526439083",
   "06/29/2025,9990384981071843",
@@ -219,6 +220,30 @@
   {
    "author": "向高世",
    "image_src": "Russula_flavida_27934996866184046_e75099d0-95e3-11f1-8938-73fbf6689145_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_flavida_28222785300738533_c5fa14e0-a688-11f1-b47f-93751227ef9d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_flavida_28222785300738533_c5fa14e0-a688-11f1-b47f-93751227ef9d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_flavida_28222785300738533_c5fa14e0-a688-11f1-b47f-93751227ef9d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_flavida_28222785300738533_c5fa14e0-a688-11f1-b47f-93751227ef9d_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_flavida_28222785300738533_c5fa14e0-a688-11f1-b47f-93751227ef9d_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Russula_flavida_28222785300738533_c5fa14e0-a688-11f1-b47f-93751227ef9d_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -271,5 +296,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/79878163/thumb.jpg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }

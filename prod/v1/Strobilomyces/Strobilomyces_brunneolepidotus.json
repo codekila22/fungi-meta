@@ -2,6 +2,7 @@
  "genus": "Strobilomyces",
  "name": "brunneolepidotus",
  "date": [
+  "08/31/2026,28219225857761144",
   "07/10/2026,27726779567005778",
   "07/03/2026,27470268342656903",
   "07/02/2026,27456824187334652",
@@ -335,6 +336,14 @@
   {
    "author": "黃金興",
    "image_src": "Strobilomyces_brunneolepidotus_27726779567005778_c1af7310-8961-11f1-b0b4-394a5d49a5fd_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Strobilomyces_brunneolepidotus_28219225857761144_28ff6060-a5d8-11f1-a9d2-e3d283617cd4_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Strobilomyces_brunneolepidotus_28219225857761144_28ff6060-a5d8-11f1-a9d2-e3d283617cd4_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -387,5 +396,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/251574833/thumb.jpg"
   }
  ],
- "timestamp": "20260830-175046"
+ "timestamp": "20260904-195706"
 }
