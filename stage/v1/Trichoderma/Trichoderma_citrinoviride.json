@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "08/27/2026,28268723366144726",
   "12/13/2025,25242529432097483",
   "11/25/2016,3747317592045311"
  ],
@@ -53,6 +54,26 @@
   {
    "author": "江志緯",
    "image_src": "Trichoderma_citrinoviride_70d8d8e0-e23c-11f0-bac7-9fe6c1617890_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trichoderma_citrinoviride_28268723366144726_83e327e0-a8c2-11f1-9574-4f32831ae4d0_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trichoderma_citrinoviride_28268723366144726_83e327e0-a8c2-11f1-9574-4f32831ae4d0_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trichoderma_citrinoviride_28268723366144726_83e327e0-a8c2-11f1-9574-4f32831ae4d0_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trichoderma_citrinoviride_28268723366144726_83e327e0-a8c2-11f1-9574-4f32831ae4d0_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Trichoderma_citrinoviride_28268723366144726_83e327e0-a8c2-11f1-9574-4f32831ae4d0_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -101,5 +122,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/50188918/thumb.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260905-141332"
 }
