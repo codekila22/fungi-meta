@@ -101,17 +101,24 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "橘綠木黴，種小名citrinoviride意為「檸檬綠色的」。無性型於腐木與土壤上形成檸檬綠至黃綠色粉狀之分生孢子層；多為其他真菌之寄生者；有性世代形成墊狀之子座。"
+  "LookAlikes": "Hypocrea rufa,,",
+  "Note": "橘綠木黴，種小名citrinoviride意為「檸檬綠色的」。無性型於腐木與土壤上形成檸檬綠至黃綠色粉狀之分生孢子層；多為其他真菌之寄生者；有性世代形成墊狀之子座。",
+  "la_zhtw": "紅棕肉座菌,,",
+  "la_zhcn": "红棕肉座菌,,"
  },
  "inaturalist": [
   {
@@ -122,5 +129,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/50188918/thumb.jpeg"
   }
  ],
- "timestamp": "20260905-141332"
+ "timestamp": "20260906-081931"
 }

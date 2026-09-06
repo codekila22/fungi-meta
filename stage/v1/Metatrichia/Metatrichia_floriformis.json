@@ -2,6 +2,7 @@
  "genus": "Metatrichia",
  "name": "floriformis",
  "date": [
+  "09/02/2026,28278265488523847",
   "07/24/2026,27728246336859101",
   "11/09/2024,8487052581405098",
   "06/27/2024,7637887566321608",
@@ -200,6 +201,58 @@
   {
    "author": "黃金興",
    "image_src": "Metatrichia_floriformis_27728246336859101_548e9130-88df-11f1-b2d8-4b1e79a5b7b3_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_6.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_7.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_8.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_9.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_10.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_11.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_12.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Metatrichia_floriformis_28278265488523847_62892e00-a8f4-11f1-9c78-ede5cd9e9034_13.jpg"
   }
  ],
  "names_zhcn": [
@@ -227,13 +280,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -248,5 +306,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/274796/thumb.jpg"
   }
  ],
- "timestamp": "20260905-141332"
+ "timestamp": "20260906-081931"
 }
