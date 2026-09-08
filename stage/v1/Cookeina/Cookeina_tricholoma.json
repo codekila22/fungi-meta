@@ -2,6 +2,7 @@
  "genus": "Cookeina",
  "name": "tricholoma",
  "date": [
+  "09/05/2026,28313815988302130",
   "09/02/2026,28234604472889949",
   "07/05/2026,27515402221476848",
   "10/23/2025,24770157672667997",
@@ -378,6 +379,10 @@
   {
    "author": "吳湯姆",
    "image_src": "Cookeina_tricholoma_28234604472889949_c7981430-a6da-11f1-b47f-93751227ef9d_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Cookeina_tricholoma_28313815988302130_c8db1160-ab41-11f1-8fe0-996faf30584f_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -432,5 +437,5 @@
    "src": "https://static.inaturalist.org/photos/66678002/thumb.jpg"
   }
  ],
- "timestamp": "20260908-084548"
+ "timestamp": "20260908-125907"
 }

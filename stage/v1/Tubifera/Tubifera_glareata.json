@@ -2,6 +2,7 @@
  "genus": "Tubifera",
  "name": "glareata",
  "date": [
+  "09/07/2026,28313597514990644",
   "08/06/2026,28015547724795626",
   "09/06/2022,5230971380346584"
  ],
@@ -74,6 +75,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Tubifera_glareata_28015547724795626_6acc8bd0-9a2a-11f1-bfc8-dff6a4899418_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_glareata_28313597514990644_83f0ee10-ab34-11f1-82f0-f1c73e2a6db6_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_glareata_28313597514990644_83f0ee10-ab34-11f1-82f0-f1c73e2a6db6_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_glareata_28313597514990644_83f0ee10-ab34-11f1-82f0-f1c73e2a6db6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tubifera_glareata_28313597514990644_83f0ee10-ab34-11f1-82f0-f1c73e2a6db6_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,5 +144,5 @@
    "src": "https://static.inaturalist.org/photos/50774304/thumb.jpg"
   }
  ],
- "timestamp": "20260908-084548"
+ "timestamp": "20260908-125907"
 }

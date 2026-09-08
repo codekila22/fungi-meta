@@ -2,6 +2,7 @@
  "genus": "Phillipsia",
  "name": "domingensis",
  "date": [
+  "09/05/2026,28313738501643212",
   "08/22/2026,28082003771483354",
   "08/22/2026,28296899333327129",
   "08/20/2026,28209164562100607",
@@ -412,6 +413,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Phillipsia_domingensis_28296899333327129_c88bc190-a9d0-11f1-9797-05712ec55035_6.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Phillipsia_domingensis_28313738501643212_4b5e3e80-ab35-11f1-82f0-f1c73e2a6db6_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Phillipsia_domingensis_28313738501643212_4b5e3e80-ab35-11f1-82f0-f1c73e2a6db6_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Phillipsia_domingensis_28313738501643212_4b5e3e80-ab35-11f1-82f0-f1c73e2a6db6_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Phillipsia_domingensis_28313738501643212_4b5e3e80-ab35-11f1-82f0-f1c73e2a6db6_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -466,5 +483,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/81899161/thumb.jpeg"
   }
  ],
- "timestamp": "20260908-084548"
+ "timestamp": "20260908-125907"
 }

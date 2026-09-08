@@ -2,6 +2,7 @@
  "genus": "Gomphidius",
  "name": "subroseus",
  "date": [
+  "09/07/2026,28312257161791346",
   "08/14/2021,4047531682023899",
   "07/17/2021,3954528724657529"
  ],
@@ -50,6 +51,30 @@
   {
    "author": "Hannah Wang",
    "image_src": "Gomphidius_subroseus_2_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gomphidius_subroseus_28312257161791346_f07db140-ab3d-11f1-a10b-fb6a4384641a_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gomphidius_subroseus_28312257161791346_f07db140-ab3d-11f1-a10b-fb6a4384641a_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gomphidius_subroseus_28312257161791346_f07db140-ab3d-11f1-a10b-fb6a4384641a_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gomphidius_subroseus_28312257161791346_f07db140-ab3d-11f1-a10b-fb6a4384641a_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gomphidius_subroseus_28312257161791346_f07db140-ab3d-11f1-a10b-fb6a4384641a_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Gomphidius_subroseus_28312257161791346_f07db140-ab3d-11f1-a10b-fb6a4384641a_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -78,13 +103,17 @@
   "StalkDiamRangeValuess": "7,18",
   "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Gomphidius roseus,,",
@@ -116,5 +145,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260908-084548"
+ "timestamp": "20260908-125907"
 }
