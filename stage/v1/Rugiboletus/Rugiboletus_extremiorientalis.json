@@ -204,7 +204,7 @@
   "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
-  "Edible": "",
+  "Edible": "edible",
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
@@ -221,5 +221,5 @@
    "src": "https://static.inaturalist.org/photos/47932929/thumb.jpg"
   }
  ],
- "timestamp": "20260906-081931"
+ "timestamp": "20260908-084548"
 }

@@ -475,16 +475,18 @@
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "bamboo",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Pterula multifida,,",
+  "LookAlikes": "Pterula multifida,Aphelaria lacerata,",
   "Note": "竹生鬚瑚菌，細長分枝簇生灰白至淡褐，質韌，生於竹葉竹稈腐屑。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "白鬚瑚菌,,",
-  "la_zhcn": "白须瑚菌,,"
+  "la_zhtw": "白鬚瑚菌,裂枝滑瑚菌,",
+  "la_zhcn": "白须瑚菌,裂枝滑瑚菌,"
  },
- "timestamp": "20260906-081931"
+ "timestamp": "20260908-084548"
 }
