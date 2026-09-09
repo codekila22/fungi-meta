@@ -105,18 +105,23 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "8,20",
   "StalkLengthRangeValuess": "60,130",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "污白疣柄牛肝菌，種小名holopus意為「全為柄的」。菌蓋白至污白而略帶綠灰，孔面白色，柄細長白色而被白至淡褐之細鱗突（scabers），與樺木共生之外生菌根菌，生於濕地樺林。",
+  "Note": "污白疣柄牛肝菌，種小名holopus意為「全為柄的」。菌蓋白至污白而略帶綠灰，孔面白色，柄細長白色而被白至淡褐之細鱗突（scabers），與樺木共生之外生菌根菌，生於濕地樺林。\n此相似種棲地不同，菌柄顏色相異，特做區別。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260909-083410"
+ "timestamp": "20260909-145817"
 }

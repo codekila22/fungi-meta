@@ -2,6 +2,7 @@
  "genus": "Humaria",
  "name": "hemisphaerica",
  "date": [
+  "09/07/2026,28334252536258475",
   "07/30/2026,27825923777091356",
   "08/23/2024,8045016472275380",
   "09/29/2022,5292998564143865",
@@ -201,6 +202,74 @@
   {
    "author": "朱艷",
    "image_src": "Humaria_hemisphaerica_27825923777091356_ca218470-9000-11f1-9217-17fea985e4d8_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_14.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_15.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_16.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Humaria_hemisphaerica_28334252536258475_1ce43300-ac04-11f1-b8a7-51f0434901a0_17.jpg"
   }
  ],
  "names_zhcn": [
@@ -229,13 +298,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "5,15",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood,ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -251,5 +324,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5769367/thumb.jpeg"
   }
  ],
- "timestamp": "20260909-083410"
+ "timestamp": "20260909-145817"
 }
