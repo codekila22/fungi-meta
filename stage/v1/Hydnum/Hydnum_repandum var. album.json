@@ -217,13 +217,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,70",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "spring,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
-  "Edible": "",
+  "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hydnum repandum,,",
@@ -241,5 +245,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260909-145817"
+ "timestamp": "20260910-201749"
 }

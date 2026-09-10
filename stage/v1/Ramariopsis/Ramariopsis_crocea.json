@@ -2,6 +2,7 @@
  "genus": "Ramariopsis",
  "name": "crocea",
  "date": [
+  "09/07/2026,28342214452128950",
   "07/22/2026,27693715163645552",
   "06/26/2026,27394375603579511",
   "08/12/2025,24103585675991870",
@@ -135,6 +136,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Ramariopsis_crocea_27693715163645552_7f576650-8725-11f1-b6f2-838219972457_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ramariopsis_crocea_28342214452128950_3e03f610-acae-11f1-a851-95c9e302b008_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ramariopsis_crocea_28342214452128950_3e03f610-acae-11f1-a851-95c9e302b008_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ramariopsis_crocea_28342214452128950_3e03f610-acae-11f1-a851-95c9e302b008_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ramariopsis_crocea_28342214452128950_3e03f610-acae-11f1-a851-95c9e302b008_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ramariopsis_crocea_28342214452128950_3e03f610-acae-11f1-a851-95c9e302b008_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -163,13 +184,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "10,40",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Calocera viscosa,,",
@@ -187,5 +212,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5303051/thumb.jpg"
   }
  ],
- "timestamp": "20260909-145817"
+ "timestamp": "20260910-201749"
 }

@@ -66,17 +66,23 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "blue",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Boletus flammans,Neoboletus subvelutipes,",
   "Note": "褐紅蓋新牛肝菌，種小名brunneorubrocarpus意為「褐紅色子實體的」。菌蓋褐紅至紅褐色、絨質；孔面橙紅至紅色、傷後迅速轉深藍；柄黃而被紅色細點；與樹木共生為外生菌根菌。",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "血紅絨牛肝菌,褐絨柄新牛肝菌,",
+  "la_zhcn": "血红绒牛肝菌,褐绒柄新牛肝菌,"
  },
  "inaturalist": [
   {
@@ -87,5 +93,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260909-145817"
+ "timestamp": "20260910-201749"
 }

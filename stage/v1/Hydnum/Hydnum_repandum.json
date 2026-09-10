@@ -2,6 +2,7 @@
  "genus": "Hydnum",
  "name": "repandum",
  "date": [
+  "09/07/2026,28338595802490815",
   "04/25/2025,9683387361771608",
   "03/08/2025,9159776067466076",
   "12/08/2024,8673992346044453",
@@ -129,6 +130,54 @@
   {
    "author": "向高世",
    "image_src": "Hydnum_repandum_58649fe0-3ece-11f0-8098-4bcce0224ab0_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Hydnum_repandum_28338595802490815_7ecd9510-ac41-11f1-99b3-8f17aff3ebde_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -157,13 +206,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "30,100",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hydnum repandum var. album,,",
@@ -209,5 +262,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260909-145817"
+ "timestamp": "20260910-201749"
 }

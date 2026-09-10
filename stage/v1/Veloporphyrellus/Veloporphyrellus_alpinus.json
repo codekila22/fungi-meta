@@ -2,6 +2,7 @@
  "genus": "Veloporphyrellus",
  "name": "alpinus",
  "date": [
+  "09/07/2026,28338390249178037",
   "11/05/2025,24917718634578566",
   "07/02/2025,10035683929875281",
   "08/22/2020,27589150470768689"
@@ -71,6 +72,50 @@
   {
    "author": "Sunny Wang",
    "image_src": "Veloporphyrellus_alpinus_27589150470768689_12490020-8002-11f1-a6ae-2d91ec182952_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Veloporphyrellus_alpinus_28338390249178037_85d4bdd0-ac27-11f1-83f6-8d892df3e840_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -99,13 +144,17 @@
   "StalkDiamRangeValuess": "4,7",
   "StalkLengthRangeValuess": "55,65",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -121,5 +170,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260909-145817"
+ "timestamp": "20260910-201749"
 }

@@ -2,6 +2,7 @@
  "genus": "Boletus",
  "name": "flammans",
  "date": [
+  "09/07/2026,28349372108079851",
   "08/15/2025,24145888391761598",
   "09/27/2023,6457570891019954",
   "09/26/2023,6447425945367782"
@@ -99,6 +100,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Boletus_flammans_72a8dfc0-7b77-11f0-8972-a3809683156e_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_28349372108079851_d594fd10-ace7-11f1-a851-95c9e302b008_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_28349372108079851_d594fd10-ace7-11f1-a851-95c9e302b008_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_28349372108079851_d594fd10-ace7-11f1-a851-95c9e302b008_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_28349372108079851_d594fd10-ace7-11f1-a851-95c9e302b008_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_28349372108079851_d594fd10-ace7-11f1-a851-95c9e302b008_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_flammans_28349372108079851_d594fd10-ace7-11f1-a851-95c9e302b008_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,18 +152,24 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "blue",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Neoboletus brunneorubrocarpus,Neoboletus subvelutipes,",
   "Note": "血紅絨牛肝菌，種小名flammans意為「火焰般的」。菌蓋暗血紅至紅褐色、表面被絨；孔面黃色、傷後轉藍；柄具紅色細點或網紋；與針葉樹共生為外生菌根菌。",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "褐紅蓋新牛肝菌,褐絨柄新牛肝菌,",
+  "la_zhcn": "褐红盖新牛肝菌,褐绒柄新牛肝菌,"
  },
  "inaturalist": [
   {
@@ -149,5 +180,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2450876/thumb.jpg"
   }
  ],
- "timestamp": "20260909-145817"
+ "timestamp": "20260910-201749"
 }

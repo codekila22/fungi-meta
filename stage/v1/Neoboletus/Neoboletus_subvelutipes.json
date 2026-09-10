@@ -252,18 +252,25 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,30",
   "StalkLengthRangeValuess": "40,100",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "blue",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Neoboletus brunneorubrocarpus,,",
   "Note": "褐絨柄新牛肝菌，帽褐色絨質、孔面暗紅，柄基被暗紅絨毛，肉與孔傷即刻變深藍，殼斗林地。",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "褐紅蓋新牛肝菌,,",
+  "la_zhcn": "褐红盖新牛肝菌,,"
  },
  "inaturalist": [
   {
@@ -274,5 +281,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/187797817/square.jpeg"
   }
  ],
- "timestamp": "20260909-145817"
+ "timestamp": "20260910-201749"
 }

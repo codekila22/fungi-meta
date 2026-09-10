@@ -4,6 +4,7 @@
  "date": [
   "07/13/2026,27595319930151743",
   "08/05/2024,7790407174402979",
+  "07/14/2022,5071443926299331",
   "07/27/2020,3170079269769149"
  ],
  "names_zhtw": [
@@ -99,6 +100,10 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_lignyotus_27595319930151743_e33f3ff0-809d-11f1-8b5e-3b9b042f3c40_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_lignyotus_5071443926299331_493afa50-aceb-11f1-a851-95c9e302b008_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -107,39 +112,41 @@
  "meta": {
   "CapColors": "4284635991,4278190080",
   "CapDiamRangeValues": "20,100",
-  "CapShape": "",
-  "CapTexture": "",
-  "CapMargin": "",
+  "CapShape": "umbontae",
+  "CapTexture": "velvety",
+  "CapMargin": "entire",
   "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
-  "HymeniumGillArrangement": "",
-  "HymeniumGillAttachment": "",
+  "HymeniumGillArrangement": "close",
+  "HymeniumGillAttachment": "adnate",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "",
   "StalkColors": "",
-  "StalkTexture": "",
+  "StalkTexture": "velvety",
   "StalkHollow": "",
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "5,15",
-  "StalkLengthRangeValuess": "40,100",
+  "StalkLengthRangeValuess": "40,120",
   "HeightRangeValuess": "",
   "Rareness": "",
-  "Elevation": "mid",
+  "Elevation": "mid,high",
   "Tropical": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Lactarius lignyotus var. marginatus,,",
-  "Note": "黑乳菇，種小名lignyotus意為「煙炱色的」，指其暗黑之菌蓋。菌蓋暗褐至近黑、表面絨狀而具皺；菌褶疏、白色而顯眼（無鑲邊色）；柄與菌蓋同色；傷後湧出白色乳汁。",
+  "Note": "黑乳菇，種小名lignyotus意為「煙炱色的」，指其暗黑之菌蓋。菌蓋暗褐至近黑色、平展、.或淺凹，中央小突起，表面絨狀而具細皺紋。\n菌褶稍密至稍疏、白色但老時變成淡黃或帶點粉紅，偶爾會在近柄處有褐色鑲邊。菌褶傷後湧出白色乳汁，會慢慢轉為粉紅（菌肉亦然），乾後褐色。\n菌柄與菌蓋同色絨質，基部白色；菌柄頂處有菌褶延伸之細肋。生長於針葉林中。",
   "GrowthEco": "mycorrhizal",
   "la_zhtw": "褐褶緣黑乳菇,,",
   "la_zhcn": "褐褶缘黑乳菇,,"
@@ -209,5 +216,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260909-145817"
+ "timestamp": "20260910-201749"
 }

@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "rufoferruginea",
  "date": [
+  "09/07/2026,28342509835432745",
   "07/22/2026,27693802890303446",
   "07/05/2026,27505243859159351",
   "05/06/2025,9559499297493749",
@@ -336,6 +337,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Amanita_rufoferruginea_27693802890303446_f99f7b30-8709-11f1-b6f2-838219972457_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rufoferruginea_28342509835432745_7e3a7ad0-ac57-11f1-99b3-8f17aff3ebde_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rufoferruginea_28342509835432745_7e3a7ad0-ac57-11f1-99b3-8f17aff3ebde_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rufoferruginea_28342509835432745_7e3a7ad0-ac57-11f1-99b3-8f17aff3ebde_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rufoferruginea_28342509835432745_7e3a7ad0-ac57-11f1-99b3-8f17aff3ebde_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rufoferruginea_28342509835432745_7e3a7ad0-ac57-11f1-99b3-8f17aff3ebde_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rufoferruginea_28342509835432745_7e3a7ad0-ac57-11f1-99b3-8f17aff3ebde_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rufoferruginea_28342509835432745_7e3a7ad0-ac57-11f1-99b3-8f17aff3ebde_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rufoferruginea_28342509835432745_7e3a7ad0-ac57-11f1-99b3-8f17aff3ebde_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Amanita_rufoferruginea_28342509835432745_7e3a7ad0-ac57-11f1-99b3-8f17aff3ebde_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -365,14 +402,16 @@
   "StalkLengthRangeValuess": "50,120",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
-  "Elevation": "low,mid",
+  "Elevation": "low,mid,high",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -388,5 +427,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/49706808/thumb.jpeg"
   }
  ],
- "timestamp": "20260909-145817"
+ "timestamp": "20260910-201749"
 }

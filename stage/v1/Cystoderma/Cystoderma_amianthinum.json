@@ -2,6 +2,7 @@
  "genus": "Cystoderma",
  "name": "amianthinum",
  "date": [
+  "09/07/2026,28349515974732131",
   "09/03/2024,7996985510411810",
   "08/23/2024,7903499279760434",
   "11/30/2023,6693447487432292",
@@ -132,6 +133,66 @@
   {
    "author": "陳麗紅",
    "image_src": "Cystoderma_amianthinum_88525850-6db9-11ef-9b6a-9df91a34098c_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_14.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cystoderma_amianthinum_28349515974732131_604cba20-ace7-11f1-a851-95c9e302b008_15.jpg"
   }
  ],
  "names_zhcn": [
@@ -141,7 +202,7 @@
   "CapColors": "4288244511,4286141768,4294083840",
   "CapDiamRangeValues": "20,50",
   "CapShape": "",
-  "CapTexture": "",
+  "CapTexture": "wrinkled",
   "CapMargin": "crenate",
   "HymeniumType": "gilled",
   "HymeniumColors": "",
@@ -160,13 +221,17 @@
   "StalkDiamRangeValuess": "3,8",
   "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Cystoderma fallax,,",
@@ -205,5 +270,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260909-145817"
+ "timestamp": "20260910-201749"
 }
