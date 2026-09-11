@@ -145,11 +145,11 @@
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Lactarius lignyotus,,",
+  "LookAlikes": "Lactarius lignyotus,Lactarius gerardii,",
   "Note": "褐褶緣黑乳菇，種小名lignyotus意為「煙燻（黑）色的」，變種名marginatus意為「具緣的」，指其菌褶褐緣明顯。\n與黑乳菇相比，最大差異在於菌褶整條褐色鑲邊；乳汁白色、遇空氣轉紫。",
   "GrowthEco": "mycorrhizal",
-  "la_zhtw": "黑乳菇,,",
-  "la_zhcn": "黑乳菇,,"
+  "la_zhtw": "黑乳菇,黑柄乳菇,",
+  "la_zhcn": "黑乳菇,黑柄乳菇,"
  },
  "inaturalist": [
   {
@@ -160,5 +160,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260910-201749"
+ "timestamp": "20260911-135916"
 }

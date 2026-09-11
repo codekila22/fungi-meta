@@ -2,6 +2,7 @@
  "genus": "Ampulloclitocybe",
  "name": "clavipes",
  "date": [
+  "09/06/2026,28358437277173334",
   "05/12/2025,9828332970610379",
   "12/04/2024,8704038976373123",
   "10/28/2024,8449352478508442",
@@ -116,6 +117,34 @@
   {
    "author": "吳湯姆",
    "image_src": "Ampulloclitocybe_clavipes_5a80da80-4a92-11f0-8c67-a990d64b6c29_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ampulloclitocybe_clavipes_28358437277173334_09fd9ca0-ad84-11f1-8aae-63b6ac9d88f7_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ampulloclitocybe_clavipes_28358437277173334_09fd9ca0-ad84-11f1-8aae-63b6ac9d88f7_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ampulloclitocybe_clavipes_28358437277173334_09fd9ca0-ad84-11f1-8aae-63b6ac9d88f7_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ampulloclitocybe_clavipes_28358437277173334_09fd9ca0-ad84-11f1-8aae-63b6ac9d88f7_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ampulloclitocybe_clavipes_28358437277173334_09fd9ca0-ad84-11f1-8aae-63b6ac9d88f7_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ampulloclitocybe_clavipes_28358437277173334_09fd9ca0-ad84-11f1-8aae-63b6ac9d88f7_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ampulloclitocybe_clavipes_28358437277173334_09fd9ca0-ad84-11f1-8aae-63b6ac9d88f7_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -144,13 +173,17 @@
   "StalkDiamRangeValuess": "5,20",
   "StalkLengthRangeValuess": "30,70",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -166,5 +199,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4134275/thumb."
   }
  ],
- "timestamp": "20260910-201749"
+ "timestamp": "20260911-135916"
 }

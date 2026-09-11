@@ -258,9 +258,11 @@
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Lactarius lignyotus,,",
   "Note": "黑柄乳菇，種小名gerardii紀念採集者W. R. Gerard。菌蓋色澤黃褐至灰褐色多變、表面略帶絨感至光滑有光澤，但不似黑乳菇明顯的絨質，細皺紋明顯。\n菌褶延生、疏且寬、白色而顯眼,小褶長短不一，近柄頂處褶緣褐色且分叉。\n菌柄與菌蓋同色，外表略微絨質，頂端有時較淡，成熟後中空；傷後湧出多量白色乳汁、不變色亦無辛辣味。\n闊葉林尤其是殼斗科林下較常見，也能在針葉林下發現。",
-  "GrowthEco": "mycorrhizal"
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "黑乳菇,,",
+  "la_zhcn": "黑乳菇,,"
  },
  "inaturalist": [
   {
@@ -285,5 +287,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8967707/thumb.jpeg"
   }
  ],
- "timestamp": "20260910-201749"
+ "timestamp": "20260911-135916"
 }

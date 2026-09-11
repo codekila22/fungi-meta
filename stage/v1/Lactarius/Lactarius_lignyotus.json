@@ -145,11 +145,11 @@
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Lactarius lignyotus var. marginatus,,",
+  "LookAlikes": "Lactarius lignyotus var. marginatus,Lactarius gerardii,",
   "Note": "黑乳菇，種小名lignyotus意為「煙炱色的」，指其暗黑之菌蓋。菌蓋暗褐至近黑色、平展、.或淺凹，中央小突起，表面絨狀而具細皺紋。\n菌褶稍密至稍疏、白色但老時變成淡黃或帶點粉紅，偶爾會在近柄處有褐色鑲邊。菌褶傷後湧出白色乳汁，會慢慢轉為粉紅（菌肉亦然），乾後褐色。\n菌柄與菌蓋同色絨質，基部白色；菌柄頂處有菌褶延伸之細肋。生長於針葉林中。",
   "GrowthEco": "mycorrhizal",
-  "la_zhtw": "褐褶緣黑乳菇,,",
-  "la_zhcn": "褐褶缘黑乳菇,,"
+  "la_zhtw": "褐褶緣黑乳菇,黑柄乳菇,",
+  "la_zhcn": "褐褶缘黑乳菇,黑柄乳菇,"
  },
  "inaturalist": [
   {
@@ -216,5 +216,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260910-201749"
+ "timestamp": "20260911-135916"
 }
