@@ -1,5 +1,5 @@
 {
- "timestamp": "20260911-135916",
+ "timestamp": "20260911-153925",
  "list": [
   "Abortiporus biennis|Polypores|wood|50,150|4294919424,4291998860,4283244288",
   "Absidia sp.1|Parasitic,Molds|parasitic||4294967295",
@@ -1011,7 +1011,7 @@
   "Guepinia helvelloides|Jelly|wood|10,170|4291979550,4294940928",
   "Guepiniopsis alpina|Jelly|wood|5,25|4294956800,4294967040",
   "Guepiniopsis buccina|Jelly|wood|3,15|4294956800,4294950656",
-  "Gugumyces columbarius|Agarics|wood,moss||4294967295",
+  "Gugumyces columbarius|Agarics|ground||4294967295",
   "Gulielmina vermicularis|Slime Molds|wood||4278190080,4294083840,4287317267",
   "Gyalolechia flavovirescens|Lichens|rocks||4294083840,4294944000",
   "Gymnoderma cf. coccocarpum|Lichens|ground||4278222848",
@@ -1186,7 +1186,7 @@
   "Icmadophila ericetorum|Lichens|wood||4291605388,4294303411,4278222848",
   "Incrustocalyptella orientalis|Cups|leaves|0,5|4294967295",
   "Inflatostereum glabrum|Crust/Patch|wood|5,30|4291605388,4286611584",
-  "Infundibulicybe gibba|Agarics|ground|50,100|4294961979,4286141768",
+  "Infundibulicybe gibba|Agarics|ground|50,100|4294962944,4286141768",
   "Inocybe asterospora|Agarics|ground|20,50|4294958765,4290278195",
   "Inocybe calospora|Agarics|ground|5,20|4285547028,4287317267",
   "Inocybe cincinnata|Agarics|ground|10,40|4288768839,4290547599",

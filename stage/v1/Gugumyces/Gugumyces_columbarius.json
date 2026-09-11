@@ -2,9 +2,11 @@
  "genus": "Gugumyces",
  "name": "columbarius",
  "date": [
+  "09/06/2026,28349107511439644",
   "07/27/2026,27739532945730440",
   "05/28/2024,7436027919840908",
-  "07/25/2023,6255040294606349"
+  "07/25/2023,6255040294606349",
+  "08/15/2021,4103349656442101"
  ],
  "names_zhtw": [
   "鴿子咕咕菇"
@@ -87,6 +89,18 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Gugumyces_columbarius_6255040294606349_36bb9c30-ada5-11f1-8aae-63b6ac9d88f7_7.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Gugumyces_columbarius_4103349656442101_cb287a40-ada6-11f1-8aae-63b6ac9d88f7_1.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Gugumyces_columbarius_4103349656442101_cb287a40-ada6-11f1-8aae-63b6ac9d88f7_2.jpg"
+  },
+  {
+   "author": "Hannah Wang",
+   "image_src": "Gugumyces_columbarius_4103349656442101_cb287a40-ada6-11f1-8aae-63b6ac9d88f7_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -115,24 +129,22 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "occacional",
+  "Rareness": "common",
   "Elevation": "low",
   "Tropical": "no",
   "Seasons": "",
-  "GrowthType": "solitary,scattered",
-  "GrowthEnv": "wood,moss",
+  "GrowthType": "solitary,grouped",
+  "GrowthEnv": "ground",
   "NearHome": "",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Hemimycena ignobilis,Clitopilus subscyphoides,",
-  "Note": "鴿子咕咕菇，種小名columbarius意為「鴿子的」，形容其色澤近似鴿羽之白。子實體微小，菌蓋初期鐘形漸展為漏斗狀，全株純白、質地薄軟；菌褶延生；柄細長光滑。生於潮濕闊葉林地富含苔蘚之朽木上，營腐生。",
-  "GrowthEco": "saprotrophic",
-  "la_zhtw": "透白半小菇,近杯狀斜蓋傘,",
-  "la_zhcn": "透白半小菇,近杯状斜盖伞,"
+  "LookAlikes": "",
+  "Note": "鴿子咕咕菇，種小名columbarius意為「鴿子的」，形容其色澤近似鴿羽之白。子實體微小，菌蓋初期鐘形漸展為漏斗狀，全株純白、質地薄軟；菌褶延生；柄細長光滑。生於低海拔潮濕闊葉林地中。",
+  "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
@@ -143,5 +155,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260911-135916"
+ "timestamp": "20260911-153925"
 }
