@@ -2,6 +2,7 @@
  "genus": "Psathyrella",
  "name": "longistriata",
  "date": [
+  "09/07/2026,28342651862085209",
   "09/14/2025,24415244804825954",
   "05/19/2025,9692622470848097",
   "06/29/2024,7578044672305898",
@@ -113,6 +114,42 @@
   {
    "author": "蔡古媧",
    "image_src": "Psathyrella_longistriata_cff08c70-949d-11f0-a446-412a2dbcbdb5_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Psathyrella_longistriata_28342651862085209_097c0b50-ae5a-11f1-bb23-a99f6bf963e0_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Psathyrella_longistriata_28342651862085209_097c0b50-ae5a-11f1-bb23-a99f6bf963e0_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Psathyrella_longistriata_28342651862085209_097c0b50-ae5a-11f1-bb23-a99f6bf963e0_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Psathyrella_longistriata_28342651862085209_097c0b50-ae5a-11f1-bb23-a99f6bf963e0_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Psathyrella_longistriata_28342651862085209_097c0b50-ae5a-11f1-bb23-a99f6bf963e0_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Psathyrella_longistriata_28342651862085209_097c0b50-ae5a-11f1-bb23-a99f6bf963e0_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Psathyrella_longistriata_28342651862085209_097c0b50-ae5a-11f1-bb23-a99f6bf963e0_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Psathyrella_longistriata_28342651862085209_097c0b50-ae5a-11f1-bb23-a99f6bf963e0_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Psathyrella_longistriata_28342651862085209_097c0b50-ae5a-11f1-bb23-a99f6bf963e0_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -141,13 +178,17 @@
   "StalkDiamRangeValuess": "3,8",
   "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -170,5 +211,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260911-153925"
+ "timestamp": "20260912-132447"
 }
