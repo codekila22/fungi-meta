@@ -42,7 +42,10 @@
   "毛木耳",
   "角質木耳"
  ],
- "names_en": [],
+ "names_en": [
+  "Ear Fungus",
+  "Hairy Wood Ear"
+ ],
  "url": "6002659929844388",
  "images": [
   {
@@ -765,5 +768,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28895640/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -10,7 +10,10 @@
  "names_zhtw": [
   "櫟擬層孔菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Oak Mazegill",
+  "Maze-gill Fungus"
+ ],
  "url": "5877099879067061",
  "images": [
   {
@@ -180,5 +183,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10084/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

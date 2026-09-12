@@ -29,7 +29,10 @@
   "灰色喇叭菌",
   "灰色雞油菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Ashen Chanterelle",
+  "Black Chanterelle"
+ ],
  "url": "2867166300060449",
  "images": [
   {
@@ -440,5 +443,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/29157267/square.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -9,7 +9,10 @@
  "names_zhtw": [
   "泡質盤菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Blistered Cup",
+  "Common Dung Cup"
+ ],
  "url": "5809313029179080",
  "images": [
   {
@@ -125,5 +128,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13784804/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

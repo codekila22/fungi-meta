@@ -16,7 +16,10 @@
  "names_zhtw": [
   "掌狀革菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Stinking Earthfan",
+  "Fetid False Coral"
+ ],
  "url": "3937510859692649",
  "images": [
   {
@@ -312,5 +315,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4136539/thumb."
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

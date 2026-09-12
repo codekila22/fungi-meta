@@ -7,7 +7,10 @@
  "names_zhtw": [
   "黃斑蘑菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Yellow Stainer",
+  "Yellow-staining Mushroom"
+ ],
  "url": "27065222259828182",
  "images": [
   {
@@ -99,5 +102,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5235305/square.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

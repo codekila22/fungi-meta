@@ -17,7 +17,10 @@
  "names_zhtw": [
   "袋形地星"
  ],
- "names_en": [],
+ "names_en": [
+  "Rounded Earthstar",
+  "Sessile Earthstar"
+ ],
  "url": "4007857192658015",
  "images": [
   {
@@ -350,5 +353,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

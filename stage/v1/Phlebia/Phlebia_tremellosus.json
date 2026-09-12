@@ -27,7 +27,10 @@
  "names_zhtw": [
   "膠質射脈菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Trembling Crust",
+  "Jelly Rot"
+ ],
  "url": "3191277340982675",
  "images": [
   {
@@ -377,5 +380,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13067765/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

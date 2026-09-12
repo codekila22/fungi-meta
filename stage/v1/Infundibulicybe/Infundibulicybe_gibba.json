@@ -22,7 +22,9 @@
   "杯傘",
   "漏斗杯傘"
  ],
- "names_en": [],
+ "names_en": [
+  "Common Funnel"
+ ],
  "url": "3959013214209080",
  "images": [
   {
@@ -270,5 +272,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/787552/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

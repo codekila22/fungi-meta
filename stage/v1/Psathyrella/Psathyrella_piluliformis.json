@@ -20,7 +20,10 @@
  "names_zhtw": [
   "丸形小脆柄菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Common Stump Brittlestem",
+  "Clustered Brittlestem"
+ ],
  "url": "2810042315772848",
  "images": [
   {
@@ -236,5 +239,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12983535/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

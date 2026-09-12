@@ -10,7 +10,10 @@
  "names_zhtw": [
   "黃蓋鵝膏"
  ],
- "names_en": [],
+ "names_en": [
+  "Gemmed Amanita",
+  "Jonquil Amanita"
+ ],
  "url": "6139239169519796",
  "images": [
   {
@@ -103,5 +106,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/228102352/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -2,6 +2,7 @@
  "genus": "Cantharellus",
  "name": "cibarius",
  "date": [
+  "09/08/2026,28342392392111156",
   "08/03/2026,27893686403648426",
   "07/07/2026,27501364932880577",
   "07/03/2026,27456654970684907",
@@ -23,7 +24,10 @@
  "names_zhtw": [
   "雞油菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Golden Chanterelle",
+  "Girolle"
+ ],
  "url": "4024713234305744",
  "images": [
   {
@@ -213,6 +217,42 @@
   {
    "author": "陳麗紅",
    "image_src": "Cantharellus_cibarius_27893686403648426_593f6840-9315-11f1-bd6a-4ff4f0abfa1f_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cibarius_28342392392111156_ff91c290-aef1-11f1-8294-a586e44ed557_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cibarius_28342392392111156_ff91c290-aef1-11f1-8294-a586e44ed557_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cibarius_28342392392111156_ff91c290-aef1-11f1-8294-a586e44ed557_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cibarius_28342392392111156_ff91c290-aef1-11f1-8294-a586e44ed557_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cibarius_28342392392111156_ff91c290-aef1-11f1-8294-a586e44ed557_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cibarius_28342392392111156_ff91c290-aef1-11f1-8294-a586e44ed557_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cibarius_28342392392111156_ff91c290-aef1-11f1-8294-a586e44ed557_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cibarius_28342392392111156_ff91c290-aef1-11f1-8294-a586e44ed557_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cantharellus_cibarius_28342392392111156_ff91c290-aef1-11f1-8294-a586e44ed557_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -242,7 +282,7 @@
   "StalkLengthRangeValuess": "20,80",
   "HeightRangeValuess": "50,100",
   "Rareness": "common",
-  "Elevation": "low,mid",
+  "Elevation": "low,mid,high",
   "Tropical": "no",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
@@ -255,7 +295,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "雞油菌，種小名cibarius意為「屬於飲食的、食物的」。菌蓋蛋黃至杏黃色、漏斗形，下表面為分叉稜脊狀假菌褶延生（非真菌褶），肉厚具杏子香氣，外生菌根生於林地。",
+  "Note": "雞油菌，種小名cibarius意為「屬於飲食的、食物的」。菌蓋蛋黃至杏黃色、漏斗形，下表面為分叉稜脊狀假菌褶延生（非真菌褶），肉厚具杏子香氣，外生菌根生於林地。\n本資料庫紀錄的雞油菌橫跨低海拔至高海拔分佈，甚至外觀不盡相同，除了物種差異外，其中可能存在不同的未知近緣種，尚待日後研究釐清。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -288,5 +328,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/169080956/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

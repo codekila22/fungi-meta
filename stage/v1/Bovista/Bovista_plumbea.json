@@ -7,7 +7,10 @@
  "names_zhtw": [
   "鉛色灰球菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Lead-gray Puffball",
+  "Tumbling Puffball"
+ ],
  "url": "https://fungimap.biodiv.tw/pages/1499",
  "images": [
   {
@@ -79,5 +82,5 @@
    "src": "https://static.inaturalist.org/photos/22024877/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

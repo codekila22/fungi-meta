@@ -7,7 +7,10 @@
  "names_zhtw": [
   "樹舌靈芝"
  ],
- "names_en": [],
+ "names_en": [
+  "Artist's Bracket",
+  "Bear Bread"
+ ],
  "url": "8022732177837143",
  "images": [
   {
@@ -84,5 +87,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/74280813/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

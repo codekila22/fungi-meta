@@ -7,7 +7,10 @@
  "names_zhtw": [
   "長柄小菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Coldfoot Bonnet",
+  "Bluefoot Bonnet"
+ ],
  "url": "6188670914576621",
  "images": [
   {
@@ -100,5 +103,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14325212/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -41,7 +41,9 @@
   "叢傘絲孔菌",
   "叢傘小菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Luminous Porecap"
+ ],
  "url": "3729519277158476",
  "images": [
   {
@@ -666,5 +668,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/451535428/square.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

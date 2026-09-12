@@ -9,7 +9,10 @@
  "names_zhtw": [
   "黏蓋具托光柄菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Stubble Rosegill",
+  "Big Sheath Mushroom"
+ ],
  "url": "3993071737469894",
  "images": [
   {
@@ -205,5 +208,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22624144/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -22,7 +22,10 @@
   "皺褶革菌",
   "皺波擬褶尾菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Crimped Gill",
+  "Crispling"
+ ],
  "url": "3342666309177110",
  "images": [
   {
@@ -450,5 +453,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135520/square."
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

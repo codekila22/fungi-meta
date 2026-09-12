@@ -10,7 +10,9 @@
  "names_zhtw": [
   "天胡荽柄銹菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Rusty Pennies"
+ ],
  "url": "9164195137024169",
  "images": [
   {
@@ -208,5 +210,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1675288/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

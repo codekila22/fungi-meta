@@ -7,7 +7,10 @@
  "names_zhtw": [
   "金麗杯菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Spring Orange Peel Fungus",
+  "Snowbank Orange Peel Fungus"
+ ],
  "url": "3743839579059779",
  "images": [
   {
@@ -73,5 +76,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159805/thumb."
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

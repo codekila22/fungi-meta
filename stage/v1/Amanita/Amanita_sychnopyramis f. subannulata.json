@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "sychnopyramis f. subannulata",
  "date": [
+  "09/06/2026,28385628114454250",
   "07/01/2026,27454183547598716",
   "06/11/2026,27197817559901984",
   "07/23/2025,23989434967406942",
@@ -326,6 +327,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_sychnopyramis f. subannulata_d7113fa0-76eb-11f1-819e-9fa32b2d6e9d_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Amanita_sychnopyramis f. subannulata_28385628114454250_2cdd93f0-aef7-11f1-8294-a586e44ed557_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Amanita_sychnopyramis f. subannulata_28385628114454250_2cdd93f0-aef7-11f1-8294-a586e44ed557_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Amanita_sychnopyramis f. subannulata_28385628114454250_2cdd93f0-aef7-11f1-8294-a586e44ed557_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Amanita_sychnopyramis f. subannulata_28385628114454250_2cdd93f0-aef7-11f1-8294-a586e44ed557_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -354,13 +371,17 @@
   "StalkDiamRangeValuess": "4,10",
   "StalkLengthRangeValuess": "35,120",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Amanita sychnopyramis,,",
@@ -378,5 +399,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -20,7 +20,10 @@
  "names_zhtw": [
   "豹紋新香菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Trainwrecker",
+  "Scaly Sawgill"
+ ],
  "url": "4783997038377356",
  "images": [
   {
@@ -240,5 +243,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/12918875/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

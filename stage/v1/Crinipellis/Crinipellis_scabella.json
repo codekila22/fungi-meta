@@ -27,7 +27,9 @@
  "names_zhtw": [
   "柄毛皮傘"
  ],
- "names_en": [],
+ "names_en": [
+  "Hairy Parachute"
+ ],
  "url": "3720801518030252",
  "images": [
   {
@@ -495,5 +497,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/243794544/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

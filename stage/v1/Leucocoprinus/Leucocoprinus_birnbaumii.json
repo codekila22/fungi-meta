@@ -50,7 +50,10 @@
  "names_zhtw": [
   "純黃白鬼傘"
  ],
- "names_en": [],
+ "names_en": [
+  "Flowerpot Parasol",
+  "Plantpot Dapperling"
+ ],
  "url": "3164174183692991",
  "images": [
   {
@@ -530,5 +533,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

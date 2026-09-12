@@ -18,7 +18,10 @@
   "金褐傘",
   "金黃蓋褐傘"
  ],
- "names_en": [],
+ "names_en": [
+  "Golden Cap",
+  "Alaskan Gold"
+ ],
  "url": "4560276470749415",
  "images": [
   {
@@ -238,5 +241,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/111185337/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

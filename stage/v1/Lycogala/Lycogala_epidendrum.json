@@ -38,7 +38,10 @@
  "names_zhtw": [
   "粉瘤黏菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Wolf's Milk",
+  "Groening's Slime"
+ ],
  "url": "3615165831927155",
  "images": [
   {
@@ -379,5 +382,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1140317/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

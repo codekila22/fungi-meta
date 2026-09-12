@@ -10,7 +10,9 @@
  "names_zhtw": [
   "灰肉色粉孢牛肝菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Grayflesh Tylopilus"
+ ],
  "url": "3557337604376645",
  "images": [
   {
@@ -230,5 +232,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157277126/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

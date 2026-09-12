@@ -2,6 +2,7 @@
  "genus": "Agaricus",
  "name": "flocculosipes",
  "date": [
+  "09/09/2026,28388936744123387",
   "05/17/2024,7392916647485369"
  ],
  "names_zhtw": [
@@ -45,6 +46,82 @@
   {
    "author": "陳麗紅",
    "image_src": "Agaricus_flocculosipes_c5a1bee0-17ac-10c6-a254-93fc4ec39761_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_12.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_13.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_14.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_15.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_16.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_17.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_18.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Agaricus_flocculosipes_28388936744123387_16288070-aeb6-11f1-ac97-9b49eeefcc24_19.jpg"
   }
  ],
  "names_zhcn": [
@@ -73,13 +150,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
-  "GrowthEnv": "ground",
-  "Bruising": "",
+  "GrowthType": "singly,scattered,grouped",
+  "GrowthEnv": "ground,meadow",
+  "NearHome": "",
+  "Bruising": "yellow",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -95,5 +176,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/316338843/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

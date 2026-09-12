@@ -7,7 +7,9 @@
  "names_zhtw": [
   "冠柄銹菌(暫名)"
  ],
- "names_en": [],
+ "names_en": [
+  "Crown Rust"
+ ],
  "url": "9714745785302432",
  "images": [
   {
@@ -115,5 +117,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/109565076/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

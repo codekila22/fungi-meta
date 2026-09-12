@@ -24,7 +24,10 @@
  "names_zhtw": [
   "黏膠角耳"
  ],
- "names_en": [],
+ "names_en": [
+  "Jelly-antler",
+  "Yellow Stagshorn"
+ ],
  "url": "3919141701529565",
  "images": [
   {
@@ -300,5 +303,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/18635/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -21,7 +21,9 @@
  "names_zhtw": [
   "黃色圓盤菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Glasscup"
+ ],
  "url": "3850326975077705",
  "images": [
   {
@@ -263,5 +265,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28567180/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

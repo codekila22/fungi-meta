@@ -17,7 +17,10 @@
  "names_zhtw": [
   "酢漿草柄銹菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Oxalis Rust",
+  "Woodsorrel Rust"
+ ],
  "url": "5679620692148315",
  "images": [
   {
@@ -327,5 +330,5 @@
    "src": "https://static.inaturalist.org/photos/232111534/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

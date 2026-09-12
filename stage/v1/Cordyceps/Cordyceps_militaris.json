@@ -15,7 +15,10 @@
  "names_zhtw": [
   "蛹蟲草"
  ],
- "names_en": [],
+ "names_en": [
+  "Scarlet Caterpillar Club",
+  "Caterpillar Fungus"
+ ],
  "url": "6589051764538532",
  "images": [
   {
@@ -260,5 +263,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23680390/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

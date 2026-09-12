@@ -12,7 +12,10 @@
  "names_zhtw": [
   "緬梔鞘銹菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Frangipani Rust",
+  "Plumeria Rust"
+ ],
  "url": "5487787804664939",
  "images": [
   {
@@ -295,5 +298,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/25244964/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

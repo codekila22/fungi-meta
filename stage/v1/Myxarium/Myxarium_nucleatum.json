@@ -8,7 +8,10 @@
   "結節黏木耳",
   "結節黑耳"
  ],
- "names_en": [],
+ "names_en": [
+  "Crystal Brain Fungus",
+  "Granular Jelly Roll"
+ ],
  "url": "3522152764561796",
  "images": [
   {
@@ -84,5 +87,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/256326217/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

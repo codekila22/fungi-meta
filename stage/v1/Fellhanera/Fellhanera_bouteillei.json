@@ -8,7 +8,10 @@
  "names_zhtw": [
   "布氏肉盤衣"
  ],
- "names_en": [],
+ "names_en": [
+  "Pale Leaf-dot",
+  "Bouteille's Fellhanera Lichen"
+ ],
  "url": "5561170023993383",
  "images": [
   {
@@ -151,5 +154,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5533783/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

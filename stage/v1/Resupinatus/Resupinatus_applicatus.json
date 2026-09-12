@@ -14,7 +14,10 @@
  "names_zhtw": [
   "小伏褶菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Smoked Oysterling",
+  "Black Jelly Oyster"
+ ],
  "url": "3512983635478709",
  "images": [
   {
@@ -278,5 +281,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24029041/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

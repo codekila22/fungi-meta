@@ -17,7 +17,10 @@
  "names_zhtw": [
   "利氏小菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Orange Mycena",
+  "Lea's Mycena"
+ ],
  "url": "5085689698208087",
  "images": [
   {
@@ -271,5 +274,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/322266620/square.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

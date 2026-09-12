@@ -8,7 +8,10 @@
  "names_zhtw": [
   "齒狀粉褶菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Blue Edge Pinkgill",
+  "Charmer"
+ ],
  "url": "27306948068988932",
  "images": [
   {
@@ -102,5 +105,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245403999/square.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

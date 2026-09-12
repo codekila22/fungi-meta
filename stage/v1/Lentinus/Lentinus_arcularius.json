@@ -48,7 +48,9 @@
   "漏斗香菇",
   "漏斗斗菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Spring Polypore"
+ ],
  "url": "3722294127880991",
  "images": [
   {
@@ -418,5 +420,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/190283137/square.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

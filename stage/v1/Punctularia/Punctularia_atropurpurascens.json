@@ -7,7 +7,10 @@
  "names_zhtw": [
   "紫黑點殼菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Purple Fuzz",
+  "Violet Crust"
+ ],
  "url": "https://fungimap.biodiv.tw/pages/5700",
  "images": [
   {
@@ -143,5 +146,5 @@
    "src": "https://static.inaturalist.org/photos/43397361/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

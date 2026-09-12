@@ -11,7 +11,10 @@
   "暗黃褐孔菌",
   "淡黃木層孔菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Mustard Yellow Polypore",
+  "Oak Conk"
+ ],
  "url": "5809885809121802",
  "images": [
   {
@@ -215,5 +218,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/248867573/square.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

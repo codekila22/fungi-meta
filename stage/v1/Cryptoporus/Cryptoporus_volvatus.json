@@ -17,7 +17,10 @@
  "names_zhtw": [
   "隱孔菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Veiled Polypore",
+  "Cryptic Globe Fungus"
+ ],
  "url": "7686427144800983",
  "images": [
   {
@@ -317,5 +320,5 @@
    "src": "https://static.inaturalist.org/photos/70465768/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

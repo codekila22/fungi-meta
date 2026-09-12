@@ -8,7 +8,10 @@
   "葉生葉杯盤菌",
   "葉綠盤菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Common Brown Cup",
+  "Pig-ear Cup"
+ ],
  "url": "4720328784744182",
  "images": [
   {
@@ -100,5 +103,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2628361/square.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

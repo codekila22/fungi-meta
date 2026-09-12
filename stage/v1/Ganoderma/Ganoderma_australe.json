@@ -21,7 +21,9 @@
  "names_zhtw": [
   "南方靈芝"
  ],
- "names_en": [],
+ "names_en": [
+  "Southern Bracket"
+ ],
  "url": "5633060306804354",
  "images": [
   {
@@ -345,5 +347,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/54211256/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

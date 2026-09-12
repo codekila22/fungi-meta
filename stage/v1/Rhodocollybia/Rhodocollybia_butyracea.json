@@ -8,7 +8,10 @@
  "names_zhtw": [
   "乳酪紅金錢菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Buttery Collybia",
+  "Butter Cap"
+ ],
  "url": "9224546324322383",
  "images": [
   {
@@ -178,5 +181,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/177659894/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

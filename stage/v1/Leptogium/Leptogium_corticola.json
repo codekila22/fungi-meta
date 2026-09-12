@@ -11,7 +11,10 @@
  "names_zhtw": [
   "樹皮貓耳衣"
  ],
- "names_en": [],
+ "names_en": [
+  "Jelly Lichen",
+  "Blistered Jellyskin"
+ ],
  "url": "5121118577998532",
  "images": [
   {
@@ -242,5 +245,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10483213/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

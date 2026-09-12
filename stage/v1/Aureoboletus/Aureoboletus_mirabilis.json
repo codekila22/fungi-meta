@@ -11,7 +11,10 @@
  "names_zhtw": [
   "奇異金牛肝菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Admirable Bolete",
+  "Bragger's Bolete"
+ ],
  "url": "2965306730246405",
  "images": [
   {
@@ -183,5 +186,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11502862/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

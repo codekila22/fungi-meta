@@ -18,7 +18,10 @@
  "names_zhtw": [
   "乳牛肝菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Jersey Cow Mushroom",
+  "Bovine Jack"
+ ],
  "url": "3973787122731689",
  "images": [
   {
@@ -274,5 +277,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1825888/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -8,7 +8,9 @@
  "names_zhtw": [
   "黄金絮衣"
  ],
- "names_en": [],
+ "names_en": [
+  "Common Gold-dust"
+ ],
  "url": "9105598986217118",
  "images": [
   {
@@ -103,5 +105,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27561843/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

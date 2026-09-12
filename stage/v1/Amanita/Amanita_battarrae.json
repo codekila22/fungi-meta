@@ -24,7 +24,10 @@
   "黃褐鵝膏",
   "灰褐黃鵝膏"
  ],
- "names_en": [],
+ "names_en": [
+  "Gray-zoned Ringless Amanita",
+  "Banded Amanita"
+ ],
  "url": "2993127490797662",
  "images": [
   {
@@ -372,5 +375,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/151475816/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

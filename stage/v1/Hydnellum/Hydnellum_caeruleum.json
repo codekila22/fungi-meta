@@ -8,7 +8,10 @@
  "names_zhtw": [
   "藍亞齒菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Blue Tooth",
+  "Blue-gray Hydnellum"
+ ],
  "url": "5163572917086431",
  "images": [
   {
@@ -90,5 +93,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/2271017/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

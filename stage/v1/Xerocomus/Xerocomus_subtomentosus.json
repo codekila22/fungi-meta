@@ -21,7 +21,10 @@
  "names_zhtw": [
   "亞絨蓋牛肝菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Suede Bolete",
+  "Boring Brown Bolete"
+ ],
  "url": "791576664286100",
  "images": [
   {
@@ -174,5 +177,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10893112/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -2,6 +2,7 @@
  "genus": "Irpex",
  "name": "latemarginatus",
  "date": [
+  "09/12/2026,28388020510881677",
   "08/15/2026,28069068456110219",
   "07/18/2026,27792572597093141",
   "06/28/2026,27391865680497170",
@@ -20,7 +21,9 @@
  "names_zhtw": [
   "寬邊耙菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Frothy Porecrust"
+ ],
  "url": "3688625627914508",
  "images": [
   {
@@ -507,5 +510,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/318907938/square.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

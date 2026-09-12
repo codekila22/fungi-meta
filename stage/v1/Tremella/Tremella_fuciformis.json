@@ -41,7 +41,10 @@
   "銀耳",
   "白木耳"
  ],
- "names_en": [],
+ "names_en": [
+  "Snow Fungus",
+  "Silver Ear Fungus"
+ ],
  "url": "3897258723717863",
  "images": [
   {
@@ -261,5 +264,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13274753/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

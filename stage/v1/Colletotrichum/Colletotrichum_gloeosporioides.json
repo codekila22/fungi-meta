@@ -9,7 +9,10 @@
   "膠孢炭疽菌",
   "似膠黏孢炭疽刺盤孢菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Protea Leaf Anthracnose",
+  "Glomerella Cingulata"
+ ],
  "url": "5524619074315145",
  "images": [
   {
@@ -195,5 +198,5 @@
    "src": "https://static.inaturalist.org/photos/31553709/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

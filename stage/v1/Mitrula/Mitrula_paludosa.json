@@ -7,7 +7,10 @@
  "names_zhtw": [
   "濕生地杖菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Swamp Beacon",
+  "Bog Beacon"
+ ],
  "url": "4891948264248899",
  "images": [
   {
@@ -82,5 +85,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/63535/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

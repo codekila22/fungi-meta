@@ -16,7 +16,10 @@
  "names_zhtw": [
   "阿帕錐蓋傘(複合群)"
  ],
- "names_en": [],
+ "names_en": [
+  "Milky Conecap",
+  "White Dunce Cap"
+ ],
  "url": "3762318400545230",
  "images": [
   {
@@ -233,5 +236,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/310883193/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

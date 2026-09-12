@@ -14,7 +14,10 @@
  "names_zhtw": [
   "棕灰口蘑"
  ],
- "names_en": [],
+ "names_en": [
+  "Gray Knight",
+  "Dirty Tricholoma"
+ ],
  "url": "4772990126144714",
  "images": [
   {
@@ -330,5 +333,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6133625/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

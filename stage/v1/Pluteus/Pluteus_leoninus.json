@@ -32,7 +32,10 @@
  "names_zhtw": [
   "獅黃光柄菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Lion Shield",
+  "Lion Pluteus"
+ ],
  "url": "3714173588693045",
  "images": [
   {
@@ -318,5 +321,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -21,7 +21,10 @@
  "names_zhtw": [
   "紅星頭鬼筆"
  ],
- "names_en": [],
+ "names_en": [
+  "Anemone Stinkhorn Fungus",
+  "Starfish Fungus"
+ ],
  "url": "3274394049337670",
  "images": [
   {
@@ -245,5 +248,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/17444426/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

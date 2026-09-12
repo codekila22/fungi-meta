@@ -12,7 +12,10 @@
  "names_zhtw": [
   "皺馬鞍菌"
  ],
- "names_en": [],
+ "names_en": [
+  "White Saddle",
+  "Fluted White Elfin Saddle"
+ ],
  "url": "3983792478397820",
  "images": [
   {
@@ -276,5 +279,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89010780/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

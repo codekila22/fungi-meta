@@ -28,7 +28,10 @@
   "美洲大蘑菇",
   "美國白環蘑"
  ],
- "names_en": [],
+ "names_en": [
+  "Reddening Lepiota",
+  "American Parasol"
+ ],
  "url": "1588918751218550",
  "images": [
   {
@@ -407,5 +410,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28314654/square.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

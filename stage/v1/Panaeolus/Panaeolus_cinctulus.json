@@ -15,7 +15,10 @@
   "鹿色花褶傘",
   "褐紅斑褶菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Banded Mottlegill",
+  "Belted Panaeolus"
+ ],
  "url": "6254172484693130",
  "images": [
   {
@@ -112,5 +115,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13676246/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

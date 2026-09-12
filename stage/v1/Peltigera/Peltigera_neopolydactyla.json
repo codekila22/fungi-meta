@@ -11,7 +11,10 @@
  "names_zhtw": [
   "長根地卷"
  ],
- "names_en": [],
+ "names_en": [
+  "Carpet Pelt Lichen",
+  "Frog Pelt"
+ ],
  "url": "24383761364640965",
  "images": [
   {
@@ -110,5 +113,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/194071/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

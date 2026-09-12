@@ -59,7 +59,10 @@
   "粗糙鱗蓋傘",
   "粗糙乾蘑"
  ],
- "names_en": [],
+ "names_en": [
+  "Golden-scruffy Collybia",
+  "Spiny Woodknight"
+ ],
  "url": "3998062126970855",
  "images": [
   {
@@ -405,5 +408,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/850509/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

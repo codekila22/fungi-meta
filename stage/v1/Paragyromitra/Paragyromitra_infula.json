@@ -19,7 +19,10 @@
   "帶擬鹿花菌",
   "帶鹿花菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Saddle-shaped False Morel",
+  "Hooded False Morel"
+ ],
  "url": "3127613717349038",
  "images": [
   {
@@ -349,5 +352,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5851561/square.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

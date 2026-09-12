@@ -21,7 +21,10 @@
   "褐頂白鬼傘",
   "柏列氏白鬼傘"
  ],
- "names_en": [],
+ "names_en": [
+  "Skullcap Dapperling",
+  "Gray-eyed Dapperling"
+ ],
  "url": "5898685003575215",
  "images": [
   {
@@ -321,5 +324,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/52936646/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

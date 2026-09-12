@@ -13,7 +13,10 @@
  "names_zhtw": [
   "紫蠔貝革耳"
  ],
- "names_en": [],
+ "names_en": [
+  "Lilac Oysterling",
+  "Smooth Panus"
+ ],
  "url": "3629402937170111",
  "images": [
   {
@@ -240,5 +243,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28788875/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

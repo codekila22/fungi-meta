@@ -16,7 +16,10 @@
  "names_zhtw": [
   "翹鱗肉齒菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Shingled Hedgehog",
+  "Scaly Hedgehog"
+ ],
  "url": "3562822320494840",
  "images": [
   {
@@ -226,5 +229,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/196776/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

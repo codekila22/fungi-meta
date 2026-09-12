@@ -22,7 +22,10 @@
  "names_zhtw": [
   "黃柄小菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Yellowleg Bonnet",
+  "Yellow-stemmed Mycena"
+ ],
  "url": "3304440246333050",
  "images": [
   {
@@ -344,5 +347,5 @@
    "src": "https://static.inaturalist.org/photos/281196536/square.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

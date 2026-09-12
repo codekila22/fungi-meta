@@ -7,7 +7,10 @@
  "names_zhtw": [
   "黃白紅菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Ochre Brittlegill",
+  "Common Yellow Russula"
+ ],
  "url": "https://fungimap.biodiv.tw/pages/1949",
  "images": [
   {
@@ -74,5 +77,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174540168/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

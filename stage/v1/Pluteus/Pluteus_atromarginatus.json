@@ -12,7 +12,9 @@
  "names_zhtw": [
   "黑邊光柄菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Blackedged Shield"
+ ],
  "url": "4413591425417921",
  "images": [
   {
@@ -223,5 +225,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23672198/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

@@ -9,7 +9,10 @@
  "names_zhtw": [
   "黃綠菌寄生"
  ],
- "names_en": [],
+ "names_en": [
+  "Yellow-green Russula Mold",
+  "Green Langoustine"
+ ],
  "url": "7955486851228343",
  "images": [
   {
@@ -112,5 +115,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22821221/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

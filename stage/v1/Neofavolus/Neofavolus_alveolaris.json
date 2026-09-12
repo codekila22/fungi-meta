@@ -32,7 +32,10 @@
  "names_zhtw": [
   "大孔新菱孔菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Hexagonal-pored Polypore",
+  "Diamond Polypore"
+ ],
  "url": "4356741737769557",
  "images": [
   {
@@ -462,5 +465,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/36739657/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

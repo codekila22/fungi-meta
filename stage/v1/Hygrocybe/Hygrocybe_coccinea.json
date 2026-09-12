@@ -9,7 +9,10 @@
  "names_zhtw": [
   "緋紅濕傘"
  ],
- "names_en": [],
+ "names_en": [
+  "Scarlet Waxy Cap",
+  "Scarlet Hood"
+ ],
  "url": "3594755193968219",
  "images": [
   {
@@ -161,5 +164,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24392890/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

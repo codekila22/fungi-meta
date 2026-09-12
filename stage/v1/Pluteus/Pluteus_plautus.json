@@ -17,7 +17,10 @@
  "names_zhtw": [
   "裂紋光柄菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Satin Shield",
+  "Flatfoot Deer Mushroom"
+ ],
  "url": "1550894201687672",
  "images": [
   {
@@ -220,5 +223,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4136133/thumb."
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

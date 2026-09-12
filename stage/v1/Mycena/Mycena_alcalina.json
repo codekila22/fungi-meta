@@ -12,7 +12,10 @@
  "names_zhtw": [
   "鹼味小菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Alkaline Mycena",
+  "Stump Fairy Helmet"
+ ],
  "url": "6193018354141877",
  "images": [
   {
@@ -215,5 +218,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23404951/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

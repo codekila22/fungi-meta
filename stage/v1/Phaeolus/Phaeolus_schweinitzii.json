@@ -14,7 +14,10 @@
   "栗褐暗孔菌",
   "松杉暗孔菌"
  ],
- "names_en": [],
+ "names_en": [
+  "European Dyer's Polypore",
+  "European Velvet-top Fungus"
+ ],
  "url": "5032082846902106",
  "images": [
   {
@@ -271,5 +274,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8909871/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }

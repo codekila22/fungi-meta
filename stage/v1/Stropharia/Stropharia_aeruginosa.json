@@ -14,7 +14,10 @@
  "names_zhtw": [
   "黃銅綠球蓋菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Verdigris Agaric",
+  "Blue-green Stropharia"
+ ],
  "url": "https://fungimap.biodiv.tw/pages/3387",
  "images": [
   {
@@ -182,5 +185,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/171671477/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260913-065850"
 }
