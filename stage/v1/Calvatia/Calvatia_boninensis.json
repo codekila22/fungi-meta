@@ -3,6 +3,7 @@
  "name": "boninensis",
  "date": [
   "08/28/2026,28164753153208415",
+  "08/28/2026,28373441612339567",
   "08/17/2026,28028164190200646",
   "10/31/2025,24847765848240512",
   "05/03/2024,7281453028631732",
@@ -243,6 +244,18 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Calvatia_boninensis_28164753153208415_6bdaa750-a2b8-11f1-b9ae-7b3f6fa56b05_18.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28373441612339567_f7f14d00-ae7c-11f1-98a0-39fc36b25c1f_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28373441612339567_f7f14d00-ae7c-11f1-98a0-39fc36b25c1f_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Calvatia_boninensis_28373441612339567_f7f14d00-ae7c-11f1-98a0-39fc36b25c1f_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -297,5 +310,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155107439/thumb.jpg"
   }
  ],
- "timestamp": "20260912-132447"
+ "timestamp": "20260912-194605"
 }

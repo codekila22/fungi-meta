@@ -343,14 +343,18 @@
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped,clustered",
   "GrowthEnv": "ground,debris",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
+  "LookAlikes": "Marasmius maximus,,",
   "Note": "庫拉拉金錢菇，本種子實體小、菌蓋凸而後平展；菌褶連生；柄細而韌；生於林下落葉層間（分類上或應歸於裸腳傘屬Gymnopus）。",
-  "GrowthEco": "saprotrophic"
+  "GrowthEco": "saprotrophic",
+  "la_zhtw": "大蓋小皮傘,,",
+  "la_zhcn": "大盖小皮伞,,"
  },
  "inaturalist": [
   {
@@ -361,5 +365,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/154329688/thumb.jpg"
   }
  ],
- "timestamp": "20260912-132447"
+ "timestamp": "20260912-194605"
 }

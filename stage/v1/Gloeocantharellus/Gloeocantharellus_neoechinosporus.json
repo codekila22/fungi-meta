@@ -2,6 +2,7 @@
  "genus": "Gloeocantharellus",
  "name": "neoechinosporus",
  "date": [
+  "09/11/2026,28373169625700099",
   "08/14/2025,24118621024488335",
   "09/01/2024,7994481317328896",
   "11/15/2021,4323545474422517",
@@ -74,6 +75,14 @@
   {
    "author": "向高世",
    "image_src": "Gloeocantharellus_neoechinosporus_2a0c40e0-8d33-11f0-bf43-5d0ebef1c3f3_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Gloeocantharellus_neoechinosporus_28373169625700099_8da01b90-ae6b-11f1-98a0-39fc36b25c1f_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Gloeocantharellus_neoechinosporus_28373169625700099_8da01b90-ae6b-11f1-98a0-39fc36b25c1f_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,5 +136,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/552201690/thumb.jpg"
   }
  ],
- "timestamp": "20260912-132447"
+ "timestamp": "20260912-194605"
 }
