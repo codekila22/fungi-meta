@@ -12,8 +12,7 @@
   "02/14/2021,3521790241264715"
  ],
  "names_zhtw": [
-  "葉狀阿氏盤菌",
-  "復聚盤菌"
+  "葉狀阿氏盤菌"
  ],
  "names_en": [],
  "url": "3521790241264715",
@@ -218,13 +217,12 @@
  "synonym": [
   {
    "name": "Ionomidotis frondosa",
-   "zhtw": "復聚盤菌",
+   "zhtw": "複聚盤菌",
    "zhcn": "复聚盘菌"
   }
  ],
  "names_zhcn": [
-  "叶状阿氏盘菌",
-  "复聚盘菌"
+  "叶状阿氏盘菌"
  ],
  "meta": {
   "CapColors": "4278190080",
@@ -277,5 +275,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8409865/square.jpg"
   }
  ],
- "timestamp": "20260912-194605"
+ "timestamp": "20260912-200313"
 }

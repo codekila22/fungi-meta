@@ -38,8 +38,8 @@
   "CapColors": "4291998860,4294222944",
   "CapDiamRangeValues": "",
   "CapShape": "convex",
-  "CapTexture": "",
-  "CapMargin": "",
+  "CapTexture": "slimy",
+  "CapMargin": "appendiculate",
   "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
@@ -57,18 +57,31 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
   "Note": "存疑球蓋菇，種小名ambigua意為「模稜兩可、存疑的」，指其形態介於近緣種之間而不易辨識。菌蓋初期球形至半球形、表面黏滑，呈淡黃至土黃、金褐色，邊緣常附白色菌幕殘片；菌柄白色，密被棉絮狀至粉粒狀鱗片，具不明顯的膜質菌環區；菌褶初灰白後隨孢子成熟轉為灰紫褐色。生於草地、林緣腐植質或針葉林下地面。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260912-194605"
+ "inaturalist": [
+  {
+   "name": "Stropharia ambigua",
+   "cname": "Questionable Stropharia",
+   "cname_zh": "存疑球蓋菇",
+   "url": "https://www.inaturalist.org/taxa/53284",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/165286917/square.jpg"
+  }
+ ],
+ "timestamp": "20260912-200313"
 }

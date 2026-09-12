@@ -3,7 +3,6 @@
  "name": "griseovelutina",
  "date": [
   "06/10/2025,9847471748696501",
-  "10/15/2023,6521993007911075",
   "05/26/2023,6020950758015305",
   "10/26/2022,5360959530681101",
   "10/07/2021,4202291696547896",
@@ -69,18 +68,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Rossbeevera_griseovelutina_4_CC BY-NC_陳麗紅.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Rossbeevera_griseovelutina_293787e0-6b68-11ee-b39d-c3a7b917bf76_1.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Rossbeevera_griseovelutina_293787e0-6b68-11ee-b39d-c3a7b917bf76_2.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Rossbeevera_griseovelutina_293787e0-6b68-11ee-b39d-c3a7b917bf76_3.jpg"
   },
   {
    "author": "姜淋友",
@@ -162,5 +149,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/156212633/thumb.jpg"
   }
  ],
- "timestamp": "20260912-194605"
+ "timestamp": "20260912-200313"
 }
