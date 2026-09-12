@@ -1,6 +1,6 @@
 {
  "genus": "Leccinum",
- "name": "holopus",
+ "name": "aff. holopus",
  "date": [
   "09/22/2025,24453588494324918",
   "09/13/2025,24377928395224262",
@@ -10,7 +10,7 @@
   "07/04/2016,930705540373211"
  ],
  "names_zhtw": [
-  "污白疣柄牛肝菌"
+  "污白疣柄牛肝菌相似種"
  ],
  "names_en": [],
  "url": "6175375902572789",
@@ -81,7 +81,7 @@
   }
  ],
  "names_zhcn": [
-  "污白疣柄牛肝菌"
+  "污白疣柄牛肝菌相似种"
  ],
  "meta": {
   "CapColors": "4294309365,4292664540",
@@ -105,17 +105,22 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "8,20",
   "StalkLengthRangeValuess": "60,130",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "污白疣柄牛肝菌，種小名holopus意為「全為柄的」。菌蓋白至污白而略帶綠灰，孔面白色，柄細長白色而被白至淡褐之細鱗突（scabers），與樺木共生之外生菌根菌，生於濕地樺林。",
+  "Note": "污白疣柄牛肝菌，種小名holopus意為「全為柄的」。菌蓋白至污白而略帶綠灰，孔面白色，柄細長白色而被白至淡褐之細鱗突（scabers），與樺木共生之外生菌根菌，生於濕地樺林。\n此相似種棲地不同，菌柄顏色相異，特做區別。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -123,9 +128,9 @@
    "name": "Leccinum holopus",
    "cname": "Ghost Bolete",
    "cname_zh": "污白疣柄牛肝菌",
-   "url": "https://www.inaturalist.org/taxa/363587-Leccinum-holopus",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1031207/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/363587",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1031207/square.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

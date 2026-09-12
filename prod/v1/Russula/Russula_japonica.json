@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "japonica",
  "date": [
+  "09/11/2026,28369269706090091",
   "11/25/2024,8575902219186800"
  ],
  "names_zhtw": [
@@ -73,6 +74,62 @@
   {
    "author": "陳麗紅",
    "image_src": "Russula_japonica_93a8c5c0-aec0-11ef-92bf-077c3d29f0b0_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_12.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_13.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_japonica_28369269706090091_984fbdb0-adb3-11f1-a0b4-2b6607436e5f_14.jpg"
   }
  ],
  "names_zhcn": [
@@ -87,7 +144,7 @@
   "HymeniumType": "gilled",
   "HymeniumColors": "",
   "HymeniumSporePrints": "",
-  "HymeniumGillArrangement": "",
+  "HymeniumGillArrangement": "crowded",
   "HymeniumGillAttachment": "",
   "HymeniumGillMarginate": "",
   "HymeniumPoresPerMM": "",
@@ -100,13 +157,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "15,40",
   "StalkLengthRangeValuess": "30,80",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -122,5 +184,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/115632022/thumb.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

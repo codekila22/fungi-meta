@@ -2,6 +2,7 @@
  "genus": "Cortinarius",
  "name": "caperatus",
  "date": [
+  "09/07/2026,28358938817123180",
   "06/28/2026,27426653043685100",
   "10/24/2023,6564280427015666",
   "06/28/2023,6146149792162067",
@@ -207,6 +208,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Cortinarius_caperatus_c77c8550-74e7-11f1-a5ff-1b0cc88a8eef_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_caperatus_28358938817123180_98e076e0-adb1-11f1-a0b4-2b6607436e5f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_caperatus_28358938817123180_98e076e0-adb1-11f1-a0b4-2b6607436e5f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_caperatus_28358938817123180_98e076e0-adb1-11f1-a0b4-2b6607436e5f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_caperatus_28358938817123180_98e076e0-adb1-11f1-a0b4-2b6607436e5f_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_caperatus_28358938817123180_98e076e0-adb1-11f1-a0b4-2b6607436e5f_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_caperatus_28358938817123180_98e076e0-adb1-11f1-a0b4-2b6607436e5f_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -235,13 +260,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,25",
   "StalkLengthRangeValuess": "50,130",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "high,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -257,5 +287,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/87033/thumb.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

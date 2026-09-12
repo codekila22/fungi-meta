@@ -2,6 +2,7 @@
  "genus": "Physalacria",
  "name": "inflata",
  "date": [
+  "09/09/2026,28338853989131663",
   "06/23/2026,27334504552899950",
   "05/01/2024,7312770588833309",
   "12/06/2023,26677927428557669",
@@ -262,6 +263,38 @@
   {
    "author": "陳中城",
    "image_src": "Physalacria_inflata_bd071440-71f5-11f1-b7e5-fd1f1c51b1ac_9.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_inflata_28338853989131663_f7183040-ae6a-11f1-8a9f-b123f43e0a10_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_inflata_28338853989131663_f7183040-ae6a-11f1-8a9f-b123f43e0a10_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_inflata_28338853989131663_f7183040-ae6a-11f1-8a9f-b123f43e0a10_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_inflata_28338853989131663_f7183040-ae6a-11f1-8a9f-b123f43e0a10_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_inflata_28338853989131663_f7183040-ae6a-11f1-8a9f-b123f43e0a10_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_inflata_28338853989131663_f7183040-ae6a-11f1-8a9f-b123f43e0a10_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_inflata_28338853989131663_f7183040-ae6a-11f1-8a9f-b123f43e0a10_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Physalacria_inflata_28338853989131663_f7183040-ae6a-11f1-8a9f-b123f43e0a10_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -312,5 +345,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37744535/thumb.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

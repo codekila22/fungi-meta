@@ -2,6 +2,8 @@
  "genus": "Lycoperdon",
  "name": "spadiceum",
  "date": [
+  "09/10/2026,28385558977794497",
+  "09/07/2026,28311828341834228",
   "08/29/2026,28202443616106035",
   "08/01/2026,27905828865767513",
   "07/28/2026,27767415036275564",
@@ -205,6 +207,46 @@
   {
    "author": "吳湯姆",
    "image_src": "Lycoperdon_spadiceum_28202443616106035_e0c67560-a508-11f1-91ca-67dcf1476147_7.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lycoperdon_spadiceum_28311828341834228_23a2e350-ab35-11f1-82f0-f1c73e2a6db6_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lycoperdon_spadiceum_28311828341834228_23a2e350-ab35-11f1-82f0-f1c73e2a6db6_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lycoperdon_spadiceum_28311828341834228_23a2e350-ab35-11f1-82f0-f1c73e2a6db6_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lycoperdon_spadiceum_28311828341834228_23a2e350-ab35-11f1-82f0-f1c73e2a6db6_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lycoperdon_spadiceum_28311828341834228_23a2e350-ab35-11f1-82f0-f1c73e2a6db6_5.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lycoperdon_spadiceum_28385558977794497_81101bc0-ae96-11f1-98a0-39fc36b25c1f_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lycoperdon_spadiceum_28385558977794497_81101bc0-ae96-11f1-98a0-39fc36b25c1f_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lycoperdon_spadiceum_28385558977794497_81101bc0-ae96-11f1-98a0-39fc36b25c1f_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lycoperdon_spadiceum_28385558977794497_81101bc0-ae96-11f1-98a0-39fc36b25c1f_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Lycoperdon_spadiceum_28385558977794497_81101bc0-ae96-11f1-98a0-39fc36b25c1f_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -259,5 +301,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/22795486/thumb.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

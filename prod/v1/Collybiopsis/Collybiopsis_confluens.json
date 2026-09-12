@@ -2,6 +2,7 @@
  "genus": "Collybiopsis",
  "name": "confluens",
  "date": [
+  "08/31/2026,28351860131164382",
   "08/22/2023,6332673483509696"
  ],
  "names_zhtw": [
@@ -48,6 +49,74 @@
   {
    "author": "柯文俊",
    "image_src": "Gymnopus_confluens_9_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_28351860131164382_d7e531d0-aceb-11f1-a851-95c9e302b008_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_6332673483509696_9b9a18b0-aced-11f1-a851-95c9e302b008_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_6332673483509696_9b9a18b0-aced-11f1-a851-95c9e302b008_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_6332673483509696_9b9a18b0-aced-11f1-a851-95c9e302b008_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_6332673483509696_9b9a18b0-aced-11f1-a851-95c9e302b008_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_6332673483509696_9b9a18b0-aced-11f1-a851-95c9e302b008_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Collybiopsis_confluens_6332673483509696_9b9a18b0-aced-11f1-a851-95c9e302b008_6.jpg"
   }
  ],
  "synonym": [
@@ -83,13 +152,18 @@
   "StalkBase": "equal",
   "StalkDiamRangeValuess": "2,3",
   "StalkLengthRangeValuess": "50,80",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "spring,summer",
   "GrowthType": "grouped,clustered",
-  "GrowthEnv": "ground",
+  "GrowthEnv": "debris",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -119,5 +193,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/215255043/square.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

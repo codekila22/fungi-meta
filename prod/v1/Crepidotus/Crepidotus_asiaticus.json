@@ -2,7 +2,6 @@
  "genus": "Crepidotus",
  "name": "asiaticus",
  "date": [
-  "08/17/2026,28040848592265539",
   "08/04/2026,6260745804035798",
   "06/11/2024,7492964250813941",
   "05/04/2023,5945268165583565",
@@ -188,50 +187,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Tricholomopsis_flammula_5945268165583565_dcef1100-9585-11f1-b700-c99b10902140_10.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_1.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_2.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_3.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_4.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_5.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_6.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_7.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_8.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_9.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_10.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Crepidotus_asiaticus_28040848592265539_f509f420-9edc-11f1-9e4c-35150746c971_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -286,5 +241,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/279997660/square.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

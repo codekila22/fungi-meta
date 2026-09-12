@@ -2,6 +2,7 @@
  "genus": "Echinoporia",
  "name": "hydnophora",
  "date": [
+  "09/06/2026,28313162595034136",
   "10/30/2025,24835370899480007",
   "05/11/2024,7340858302691204",
   "04/06/2024,7187663354677367",
@@ -189,6 +190,46 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Echinoporia_hydnophora_e10404f0-b7c6-11f0-b642-e38adf4043b2_3.jpg"
+  },
+  {
+   "author": "Kam Ho",
+   "image_src": "Echinoporia_hydnophora_28313162595034136_82fe4920-ab12-11f1-9c50-bba2a0c747da_1.jpg"
+  },
+  {
+   "author": "Kam Ho",
+   "image_src": "Echinoporia_hydnophora_28313162595034136_82fe4920-ab12-11f1-9c50-bba2a0c747da_2.jpg"
+  },
+  {
+   "author": "Kam Ho",
+   "image_src": "Echinoporia_hydnophora_28313162595034136_82fe4920-ab12-11f1-9c50-bba2a0c747da_3.jpg"
+  },
+  {
+   "author": "Kam Ho",
+   "image_src": "Echinoporia_hydnophora_28313162595034136_82fe4920-ab12-11f1-9c50-bba2a0c747da_4.jpg"
+  },
+  {
+   "author": "Kam Ho",
+   "image_src": "Echinoporia_hydnophora_28313162595034136_82fe4920-ab12-11f1-9c50-bba2a0c747da_5.jpg"
+  },
+  {
+   "author": "Kam Ho",
+   "image_src": "Echinoporia_hydnophora_28313162595034136_82fe4920-ab12-11f1-9c50-bba2a0c747da_6.jpg"
+  },
+  {
+   "author": "Kam Ho",
+   "image_src": "Echinoporia_hydnophora_28313162595034136_82fe4920-ab12-11f1-9c50-bba2a0c747da_7.jpg"
+  },
+  {
+   "author": "Kam Ho",
+   "image_src": "Echinoporia_hydnophora_28313162595034136_82fe4920-ab12-11f1-9c50-bba2a0c747da_8.jpg"
+  },
+  {
+   "author": "Kam Ho",
+   "image_src": "Echinoporia_hydnophora_28313162595034136_82fe4920-ab12-11f1-9c50-bba2a0c747da_9.jpg"
+  },
+  {
+   "author": "Kam Ho",
+   "image_src": "Echinoporia_hydnophora_28313162595034136_82fe4920-ab12-11f1-9c50-bba2a0c747da_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -217,13 +258,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "10,40",
   "HeightRangeValuess": "5,20",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -239,5 +284,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/225701828/thumb.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

@@ -2,6 +2,7 @@
  "genus": "Rossbeevera",
  "name": "bispora",
  "date": [
+  "10/15/2023,6521993007911075",
   "08/02/2020,3116975021746241"
  ],
  "names_zhtw": [
@@ -21,6 +22,18 @@
   {
    "author": "向高世",
    "image_src": "Rossbeevera_bispora_d0288b00-79dc-11f1-8f5f-af74aa3a7189_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Rossbeevera_bispora_6521993007911075_7f175800-aea1-11f1-98a0-39fc36b25c1f_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Rossbeevera_bispora_6521993007911075_7f175800-aea1-11f1-98a0-39fc36b25c1f_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Rossbeevera_bispora_6521993007911075_7f175800-aea1-11f1-98a0-39fc36b25c1f_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -58,9 +71,11 @@
   "Edible": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "雙孢羅葉腹菌，種小名bispora意為「雙孢子的」，指其擔子通常僅產二孢子。子實體塊狀、腹菌型；外皮初白、切割後顯現深藍紫色（重要鑑別特徵）；地下或半地下生。",
-  "GrowthEco": "mycorrhizal"
+  "LookAlikes": "Rossbeevera griseovelutina,,",
+  "Note": "雙孢羅葉腹菌，種小名bispora意為「雙孢子的」，指其擔子通常僅產二孢子。子實體塊狀、腹菌型；外皮初白、光滑有光澤、老時龜裂或呈蜂窩狀凹陷。受傷或切開後快速轉藍至深藍（重要鑑別特徵，孢體切面反應尤其迅速），且觸感發黏；靜置數分鐘後，孢體轉鏽褐至暗褐、巧克力褐。微觀下無囊狀體、孢子縱脊4條且擔子多為2孢。地下或半地下生。",
+  "GrowthEco": "mycorrhizal",
+  "la_zhtw": "灰絨羅葉腹菌,,",
+  "la_zhcn": "灰绒罗叶腹菌,,"
  },
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

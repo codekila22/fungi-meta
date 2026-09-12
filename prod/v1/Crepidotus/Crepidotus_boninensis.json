@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "boninensis",
  "date": [
+  "09/08/2026,28324299110587151",
   "08/22/2026,28086191637731234",
   "03/15/2026,26099287029755048",
   "07/15/2025,24101552399528531",
@@ -317,6 +318,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Crepidotus_boninensis_28086191637731234_95c6e2a0-9e8e-11f1-9e10-fb87728df5c8_9.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Crepidotus_boninensis_28324299110587151_bd07beb0-ac18-11f1-b8a7-51f0434901a0_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Crepidotus_boninensis_28324299110587151_bd07beb0-ac18-11f1-b8a7-51f0434901a0_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Crepidotus_boninensis_28324299110587151_bd07beb0-ac18-11f1-b8a7-51f0434901a0_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Crepidotus_boninensis_28324299110587151_bd07beb0-ac18-11f1-b8a7-51f0434901a0_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -373,5 +390,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/159168842/thumb.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

@@ -2,6 +2,7 @@
  "genus": "Deconica",
  "name": "horizontalis",
  "date": [
+  "09/07/2026,28338316049185457",
   "03/01/2022"
  ],
  "names_zhtw": [
@@ -71,6 +72,26 @@
   {
    "author": "陳雅芬",
    "image_src": "Deconica_horizontalis_8_CC BY-NC_陳雅芬.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_horizontalis_28338316049185457_5cac72e0-ae9d-11f1-98a0-39fc36b25c1f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_horizontalis_28338316049185457_5cac72e0-ae9d-11f1-98a0-39fc36b25c1f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_horizontalis_28338316049185457_5cac72e0-ae9d-11f1-98a0-39fc36b25c1f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_horizontalis_28338316049185457_5cac72e0-ae9d-11f1-98a0-39fc36b25c1f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Deconica_horizontalis_28338316049185457_5cac72e0-ae9d-11f1-98a0-39fc36b25c1f_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -100,12 +121,16 @@
   "StalkLengthRangeValuess": "2,15",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -121,5 +146,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/36152828/thumb.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

@@ -2,6 +2,7 @@
  "genus": "Aphelaria",
  "name": "lacerata",
  "date": [
+  "09/05/2026,28285937221090007",
   "08/21/2026,28069076879442710",
   "09/27/2025,24563758759974557",
   "05/28/2025,9742020985908245",
@@ -236,6 +237,58 @@
   {
    "author": "陳麗紅",
    "image_src": "Aphelaria_lacerata_28069076879442710_25af7e20-9d3d-11f1-9091-97877a72abba_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_6.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_7.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_8.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_9.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_10.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_11.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_12.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Aphelaria_lacerata_28285937221090007_209b37a0-a97f-11f1-a959-e7ad72f1a27e_13.jpg"
   }
  ],
  "names_zhcn": [
@@ -277,8 +330,10 @@
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "",
-  "Note": "裂枝滑瑚菌，種小名lacerata意為「撕裂的」，指其扁平而末端撕裂之分枝。子實體直立、珊瑚狀分枝、淡褐至肉色、質韌，各枝扁平而末端撕裂；為熱帶物種，生於竹林下之竹枝與竹葉上。"
+  "LookAlikes": "Pterula bambusicola,,",
+  "Note": "裂枝滑瑚菌，種小名lacerata意為「撕裂的」，指其扁平而末端撕裂之分枝。子實體直立、珊瑚狀分枝、淡褐至肉色、質韌，各枝扁平而末端撕裂；為熱帶物種，生於竹林下之竹枝與竹葉上。",
+  "la_zhtw": "竹生鬚瑚菌,,",
+  "la_zhcn": "竹生须瑚菌,,"
  },
  "inaturalist": [
   {
@@ -289,5 +344,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/164177437/thumb.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "hatsudake",
  "date": [
+  "09/06/2026,28358879217129140",
   "08/19/2026,28038974885786243",
   "07/30/2026,27793062657044135",
   "08/23/2024,8026550700788624",
@@ -263,6 +264,22 @@
   {
    "author": "朱艷",
    "image_src": "Lactarius_hatsudake_27793062657044135_08a94760-8cef-11f1-97b3-49feec88cef3_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_hatsudake_28358879217129140_93095e10-ae99-11f1-98a0-39fc36b25c1f_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_hatsudake_28358879217129140_93095e10-ae99-11f1-98a0-39fc36b25c1f_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_hatsudake_28358879217129140_93095e10-ae99-11f1-98a0-39fc36b25c1f_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_hatsudake_28358879217129140_93095e10-ae99-11f1-98a0-39fc36b25c1f_4.jpg"
   }
  ],
  "synonym": [
@@ -322,5 +339,5 @@
    "src": "https://static.inaturalist.org/photos/26203336/thumb.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

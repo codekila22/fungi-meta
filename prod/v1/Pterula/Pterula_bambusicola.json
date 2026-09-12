@@ -2,6 +2,7 @@
  "genus": "Pterula",
  "name": "bambusicola",
  "date": [
+  "09/04/2026,28270090199341376",
   "06/18/2026,27751538441196557",
   "06/18/2026,27942317975451935",
   "12/18/2025,25281127374904355",
@@ -411,6 +412,34 @@
   {
    "author": "江志緯",
    "image_src": "Pterula_bambusicola_27942317975451935_52b2a990-95f6-11f1-a3e4-05b50467044d_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_bambusicola_28270090199341376_c68279d0-a86c-11f1-9ad0-cdfe0cc3ecbc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_bambusicola_28270090199341376_c68279d0-a86c-11f1-9ad0-cdfe0cc3ecbc_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_bambusicola_28270090199341376_c68279d0-a86c-11f1-9ad0-cdfe0cc3ecbc_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_bambusicola_28270090199341376_c68279d0-a86c-11f1-9ad0-cdfe0cc3ecbc_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_bambusicola_28270090199341376_c68279d0-a86c-11f1-9ad0-cdfe0cc3ecbc_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_bambusicola_28270090199341376_c68279d0-a86c-11f1-9ad0-cdfe0cc3ecbc_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pterula_bambusicola_28270090199341376_c68279d0-a86c-11f1-9ad0-cdfe0cc3ecbc_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -446,16 +475,18 @@
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "bamboo",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": "Pterula multifida,,",
+  "LookAlikes": "Pterula multifida,Aphelaria lacerata,",
   "Note": "竹生鬚瑚菌，細長分枝簇生灰白至淡褐，質韌，生於竹葉竹稈腐屑。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": "白鬚瑚菌,,",
-  "la_zhcn": "白须瑚菌,,"
+  "la_zhtw": "白鬚瑚菌,裂枝滑瑚菌,",
+  "la_zhcn": "白须瑚菌,裂枝滑瑚菌,"
  },
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

@@ -2,6 +2,7 @@
  "genus": "Leucopaxillus",
  "name": "brasiliensis",
  "date": [
+  "09/05/2026,28313758234974572",
   "05/02/2026,27331813456502393",
   "05/02/2026,27510397938643943"
  ],
@@ -98,13 +99,69 @@
   {
    "author": "Sunny Wang",
    "image_src": "Leucopaxillus_brasiliensis_606fdc00-7a72-11f1-9f37-11da2773397a_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Leucopaxillus_brasiliensis_28313758234974572_709cc390-ab19-11f1-9c50-bba2a0c747da_14.jpg"
   }
  ],
  "names_zhcn": [
   "巴西白桩菇"
  ],
  "meta": {
-  "CapColors": "4288694570,4290076718",
+  "CapColors": "4288696877,4291581184",
   "CapDiamRangeValues": "30,100",
   "CapShape": "",
   "CapTexture": "",
@@ -126,13 +183,17 @@
   "StalkDiamRangeValuess": "8,20",
   "StalkLengthRangeValuess": "30,80",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
-  "Bioluminescent": "",
+  "NearHome": "",
+  "Bruising": "no",
+  "Bioluminescent": "no",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -148,5 +209,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/158199549/square.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

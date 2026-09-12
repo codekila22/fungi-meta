@@ -2,6 +2,7 @@
  "genus": "Clitocybe",
  "name": "robusta",
  "date": [
+  "09/07/2026,28355960444087684",
   "09/01/2023,9467374843372862"
  ],
  "names_zhtw": [
@@ -41,6 +42,62 @@
   {
    "author": "蔡古媧",
    "image_src": "Clitocybe_robusta_8eddc3e0-2366-11f0-8e90-7be9cf072cb3_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clitocybe_robusta_28355960444087684_550c2b30-adb6-11f1-a0b4-2b6607436e5f_14.jpg"
   }
  ],
  "names_zhcn": [
@@ -69,17 +126,21 @@
   "StalkDiamRangeValuess": "10,30",
   "StalkLengthRangeValuess": "40,150",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "粗壯杯傘，種小名robusta意為「粗壯的」，指其肥厚碩大之子實體。菌蓋初凸圓後平展而中央淺凹、常不規則扭曲、柔軟而略帶革質、白至污淡黃色；柄圓柱形而基部可更寬。",
+  "Note": "粗壯杯傘，種小名robusta意為「粗壯的」，指其肥厚碩大之子實體。菌蓋初凸圓後平展而中央淺凹、常不規則扭曲、柔軟而略帶革質、白至污淡黃色；柄圓柱形而基部可更寬。常生長在受干擾的區域地上，如路邊或邊坡。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -91,5 +152,5 @@
    "src": "https://static.inaturalist.org/photos/11480135/thumb.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

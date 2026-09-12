@@ -2,6 +2,7 @@
  "genus": "Stereum",
  "name": "ostrea",
  "date": [
+  "09/05/2026,28269922912691438",
   "07/14/2026,27580426254974444",
   "06/21/2026,27326720263678379",
   "10/21/2023,6544350435675332",
@@ -227,6 +228,14 @@
   {
    "author": "黃金興",
    "image_src": "Stereum_ostrea_27580426254974444_3b393310-7f58-11f1-a6ae-2d91ec182952_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Stereum_ostrea_28269922912691438_5b695740-a989-11f1-a027-23682cafa82a_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Stereum_ostrea_28269922912691438_5b695740-a989-11f1-a027-23682cafa82a_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -282,5 +291,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5549292/thumb.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

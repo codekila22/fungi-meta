@@ -2,6 +2,8 @@
  "genus": "Singerocybe",
  "name": "humilis",
  "date": [
+  "09/06/2026,28328305856853143",
+  "08/29/2026,28267777669572629",
   "07/13/2026,27569554389394964",
   "01/05/2025,8825929310850755",
   "06/15/2024,7528488987261467",
@@ -130,6 +132,82 @@
   {
    "author": "陳麗紅",
    "image_src": "Singerocybe_humilis_27569554389394964_8cf90600-7f1f-11f1-8846-c3182a86bd03_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_humilis_28267777669572629_272e22b0-a9d1-11f1-9797-05712ec55035_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_humilis_28267777669572629_272e22b0-a9d1-11f1-9797-05712ec55035_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_humilis_28267777669572629_272e22b0-a9d1-11f1-9797-05712ec55035_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_humilis_28267777669572629_272e22b0-a9d1-11f1-9797-05712ec55035_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_humilis_28267777669572629_272e22b0-a9d1-11f1-9797-05712ec55035_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_humilis_28267777669572629_272e22b0-a9d1-11f1-9797-05712ec55035_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_humilis_28267777669572629_272e22b0-a9d1-11f1-9797-05712ec55035_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_humilis_28267777669572629_272e22b0-a9d1-11f1-9797-05712ec55035_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_humilis_28267777669572629_272e22b0-a9d1-11f1-9797-05712ec55035_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Singerocybe_humilis_28267777669572629_272e22b0-a9d1-11f1-9797-05712ec55035_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_28328305856853143_519ef0a0-abe4-11f1-b8a7-51f0434901a0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_28328305856853143_519ef0a0-abe4-11f1-b8a7-51f0434901a0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_28328305856853143_519ef0a0-abe4-11f1-b8a7-51f0434901a0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_28328305856853143_519ef0a0-abe4-11f1-b8a7-51f0434901a0_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_28328305856853143_519ef0a0-abe4-11f1-b8a7-51f0434901a0_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_28328305856853143_519ef0a0-abe4-11f1-b8a7-51f0434901a0_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_28328305856853143_519ef0a0-abe4-11f1-b8a7-51f0434901a0_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_28328305856853143_519ef0a0-abe4-11f1-b8a7-51f0434901a0_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Singerocybe_humilis_28328305856853143_519ef0a0-abe4-11f1-b8a7-51f0434901a0_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -158,15 +236,17 @@
   "StalkDiamRangeValuess": "3,5",
   "StalkLengthRangeValuess": "10,20",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low,mid",
   "Tropical": "no",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground,debris",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Singerocybe alboinfundibuliformis,,",
@@ -184,5 +264,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/160240617/thumb.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

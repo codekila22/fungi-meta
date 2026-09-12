@@ -2,8 +2,14 @@
  "name": "Leccinum",
  "zhtw": "疣柄牛肝菌屬",
  "zhcn": "疣柄牛肝菌属",
- "timestamp": "20260904-195706",
+ "timestamp": "20260912-200313",
  "list": [
+  {
+   "name": "Leccinum aff. holopus",
+   "zhtw": "污白疣柄牛肝菌相似種",
+   "zhcn": "污白疣柄牛肝菌相似种",
+   "img": "Leccinum_holopus_2_CC BY-NC_Terresa Kao.jpg"
+  },
   {
    "name": "Leccinum extremiorientale",
    "zhtw": "裂皮疣柄牛肝菌",
@@ -21,12 +27,6 @@
    "current_zhtw": "灰小疣柄牛肝菌",
    "current_zhcn": "灰小疣柄牛肝菌",
    "img": "Leccinum_griseum_1_CC BY-NC_Hannah Wang.jpg"
-  },
-  {
-   "name": "Leccinum holopus",
-   "zhtw": "污白疣柄牛肝菌",
-   "zhcn": "污白疣柄牛肝菌",
-   "img": "Leccinum_holopus_2_CC BY-NC_Terresa Kao.jpg"
   },
   {
    "name": "Leccinum intusrubens",

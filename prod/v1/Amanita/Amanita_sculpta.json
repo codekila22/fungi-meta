@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "sculpta",
  "date": [
+  "09/10/2026,28364518043231924",
   "07/24/2026,27779560921727642",
   "07/04/2026,27467510112932726",
   "06/30/2026,27431483666535371",
@@ -383,6 +384,10 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_sculpta_27779560921727642_e1a08f40-8c7e-11f1-9c53-7ba1c48155b0_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_sculpta_28364518043231924_c8ce2070-adaf-11f1-a0b4-2b6607436e5f_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -435,5 +440,5 @@
    "src": "https://static.inaturalist.org/photos/101674066/thumb.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

@@ -2,14 +2,14 @@
  "genus": "Fomitopsis",
  "name": "feei",
  "date": [
-  "01/01/0001"
+  "08/23/2026,28267777669572629"
  ],
  "names_zhtw": [
   "費氏擬層孔菌",
   "費氏紅擬層孔菌"
  ],
  "names_en": [],
- "url": "https://fungimap.biodiv.tw/pages/1047",
+ "url": "28267777669572629",
  "images": [
   {
    "author": "",
@@ -46,6 +46,26 @@
   {
    "author": "",
    "image_src": "Trametes_feei_9_CC BY-NC.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fomitopsis_feei_28267777669572629_dab2b580-a9d1-11f1-9797-05712ec55035_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fomitopsis_feei_28267777669572629_dab2b580-a9d1-11f1-9797-05712ec55035_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fomitopsis_feei_28267777669572629_dab2b580-a9d1-11f1-9797-05712ec55035_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fomitopsis_feei_28267777669572629_dab2b580-a9d1-11f1-9797-05712ec55035_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Fomitopsis_feei_28267777669572629_dab2b580-a9d1-11f1-9797-05712ec55035_5.jpg"
   }
  ],
  "synonym": [
@@ -86,13 +106,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -108,5 +133,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9091400/square.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

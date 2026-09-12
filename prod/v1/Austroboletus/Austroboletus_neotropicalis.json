@@ -2,6 +2,7 @@
  "genus": "Austroboletus",
  "name": "neotropicalis",
  "date": [
+  "09/06/2026,28313338848349844",
   "09/26/2023,6451849124925464",
   "06/16/2023,6095516303892083",
   "09/28/2022,5277731625670559",
@@ -142,6 +143,30 @@
   {
    "author": "蔡古媧",
    "image_src": "Austroboletus_neotropicalis_0fde5e80-14f1-11ef-bbc3-4f5b40029629_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_neotropicalis_28313338848349844_dc59a5e0-ab1d-11f1-9c50-bba2a0c747da_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_neotropicalis_28313338848349844_dc59a5e0-ab1d-11f1-9c50-bba2a0c747da_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_neotropicalis_28313338848349844_dc59a5e0-ab1d-11f1-9c50-bba2a0c747da_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_neotropicalis_28313338848349844_dc59a5e0-ab1d-11f1-9c50-bba2a0c747da_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_neotropicalis_28313338848349844_dc59a5e0-ab1d-11f1-9c50-bba2a0c747da_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Austroboletus_neotropicalis_28313338848349844_dc59a5e0-ab1d-11f1-9c50-bba2a0c747da_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -169,13 +194,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "60,130",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "rare",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -191,5 +221,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5754331/thumb.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

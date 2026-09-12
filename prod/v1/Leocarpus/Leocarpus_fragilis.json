@@ -2,6 +2,7 @@
  "genus": "Leocarpus",
  "name": "fragilis",
  "date": [
+  "09/07/2026,28358277740522621",
   "08/18/2024,7875177825925913"
  ],
  "names_zhtw": [
@@ -17,6 +18,18 @@
   {
    "author": "林慧美",
    "image_src": "Leocarpus_fragilis_982ba3f0-8916-10f8-9e63-2fd2d82380ae_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Leocarpus_fragilis_28358277740522621_474d69a0-ad84-11f1-8aae-63b6ac9d88f7_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Leocarpus_fragilis_28358277740522621_474d69a0-ad84-11f1-8aae-63b6ac9d88f7_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Leocarpus_fragilis_28358277740522621_474d69a0-ad84-11f1-8aae-63b6ac9d88f7_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -82,5 +95,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

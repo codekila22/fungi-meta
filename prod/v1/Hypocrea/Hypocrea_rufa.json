@@ -94,19 +94,23 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
-  "LookAlikes": ",,",
+  "LookAlikes": "Trichoderma citrinoviride,,",
   "Note": "紅棕肉座菌，種小名rufa意為「紅棕色的」。子座平伏至墊狀、紅棕色，其上散生子囊殼之孔口；綠木黴菌（Trichoderma viride）為其無性世代；生於闊葉樹枯木上。　Index Fungorum現名為Trichoderma viride，與MycoBank不一致，暫不處理。",
   "GrowthEco": "saprotrophic",
-  "la_zhtw": ",,",
-  "la_zhcn": ",,"
+  "la_zhtw": "橘綠木黴,,",
+  "la_zhcn": "橘绿木霉,,"
  },
  "inaturalist": [
   {
@@ -117,5 +121,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/19630876/thumb.jpg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

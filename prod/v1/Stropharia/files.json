@@ -2,7 +2,7 @@
  "name": "Stropharia",
  "zhtw": "球蓋菇屬",
  "zhcn": "球盖菇属",
- "timestamp": "20260904-195706",
+ "timestamp": "20260912-200313",
  "list": [
   {
    "name": "Stropharia aeruginosa",
@@ -18,6 +18,12 @@
    "current_zhtw": "河岸萊氏菇",
    "current_zhcn": "河岸莱氏菇",
    "img": "Stropharia_aff. riparia_2_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Stropharia ambigua",
+   "zhtw": "存疑球蓋菇",
+   "zhcn": "存疑球盖菇",
+   "img": "Stropharia_ambigua_28369657182718010_bfff4ea0-ae9b-11f1-98a0-39fc36b25c1f_1.jpg"
   },
   {
    "name": "Stropharia coronilla",

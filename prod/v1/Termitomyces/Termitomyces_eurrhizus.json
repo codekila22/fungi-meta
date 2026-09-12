@@ -2,6 +2,7 @@
  "genus": "Termitomyces",
  "name": "eurrhizus",
  "date": [
+  "09/05/2026,28336130469404015",
   "06/28/2026,27394135336936871",
   "11/01/2025,24915635884786841",
   "06/16/2025,9880672295376446",
@@ -335,6 +336,10 @@
   {
    "author": "姜淋友",
    "image_src": "Termitomyces_eurrhizus_67c40ef0-72e7-11f1-babc-45e4824c247c_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Termitomyces_eurrhizus_28336130469404015_758ad0a0-ac0d-11f1-b8a7-51f0434901a0_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -390,5 +395,5 @@
    "src": "https://static.inaturalist.org/photos/87599133/thumb.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }

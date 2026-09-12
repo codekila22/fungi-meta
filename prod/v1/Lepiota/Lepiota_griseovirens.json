@@ -2,6 +2,7 @@
  "genus": "Lepiota",
  "name": "griseovirens",
  "date": [
+  "09/04/2026,28220423444308052",
   "08/26/2026,28138412959175768",
   "10/12/2024,8309039172539774",
   "08/29/2024,7937710729672622",
@@ -179,6 +180,18 @@
   {
    "author": "徐秀團",
    "image_src": "Lepiota_griseovirens_28138412959175768_5fdd13b0-a147-11f1-8dc5-1becb85f8fbc_7.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lepiota_griseovirens_28220423444308052_389ffbf0-a868-11f1-9ad0-cdfe0cc3ecbc_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lepiota_griseovirens_28220423444308052_389ffbf0-a868-11f1-9ad0-cdfe0cc3ecbc_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Lepiota_griseovirens_28220423444308052_389ffbf0-a868-11f1-9ad0-cdfe0cc3ecbc_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -233,5 +246,5 @@
    "src": "https://static.inaturalist.org/photos/247189252/thumb.jpeg"
   }
  ],
- "timestamp": "20260904-195706"
+ "timestamp": "20260912-200313"
 }
