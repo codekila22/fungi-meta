@@ -2,6 +2,7 @@
  "genus": "Favolus",
  "name": "emerici",
  "date": [
+  "09/12/2026,28388393074177754",
   "08/01/2026,28036655402684858",
   "06/16/2026,27238730709144002",
   "07/14/2025,25856162984067455",
@@ -208,6 +209,30 @@
   {
    "author": "江志緯",
    "image_src": "Favolus_emerici_28036655402684858_66aca230-9bbd-11f1-aa67-551466c794de_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_emerici_28388393074177754_85bedc20-aea9-11f1-98a0-39fc36b25c1f_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_emerici_28388393074177754_85bedc20-aea9-11f1-98a0-39fc36b25c1f_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_emerici_28388393074177754_85bedc20-aea9-11f1-98a0-39fc36b25c1f_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_emerici_28388393074177754_85bedc20-aea9-11f1-98a0-39fc36b25c1f_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_emerici_28388393074177754_85bedc20-aea9-11f1-98a0-39fc36b25c1f_5.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Favolus_emerici_28388393074177754_85bedc20-aea9-11f1-98a0-39fc36b25c1f_6.jpg"
   }
  ],
  "synonym": [
@@ -276,5 +301,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253492089/square.jpg"
   }
  ],
- "timestamp": "20260912-200313"
+ "timestamp": "20260912-210858"
 }
