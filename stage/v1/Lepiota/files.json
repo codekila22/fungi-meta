@@ -2,7 +2,7 @@
  "name": "Lepiota",
  "zhtw": "環柄菇屬",
  "zhcn": "环柄菇属",
- "timestamp": "20260913-065850",
+ "timestamp": "20260913-082913",
  "list": [
   {
    "name": "Lepiota aspera",
@@ -129,6 +129,12 @@
    "zhtw": "灰綠環柄菇",
    "zhcn": "灰绿环柄菇",
    "img": "Lepiota_griseovirens_1_CC BY-NC_CN Chen.jpg"
+  },
+  {
+   "name": "Lepiota jacobi",
+   "zhtw": "錐鱗環柄菇",
+   "zhcn": "锥鳞环柄菇",
+   "img": "Lepiota_jacobi_28338205809196481_4529a680-af09-11f1-8294-a586e44ed557_1.jpg"
   },
   {
    "name": "Lepiota magnispora",
