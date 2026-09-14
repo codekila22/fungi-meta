@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "compacta",
  "date": [
+  "09/14/2026,28415704981446563",
   "07/15/2026,27675877475429321",
   "05/15/2026,26809955435354867",
   "11/17/2025,25008803622136733",
@@ -165,6 +166,18 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Russula_compacta_27675877475429321_934bb2c0-8940-11f1-9e17-2d14e8cf1c96_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_compacta_28415704981446563_d88939f0-b020-11f1-9a78-0186228b7e21_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_compacta_28415704981446563_d88939f0-b020-11f1-9a78-0186228b7e21_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_compacta_28415704981446563_d88939f0-b020-11f1-9a78-0186228b7e21_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -217,5 +230,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/45998024/thumb.jpeg"
   }
  ],
- "timestamp": "20260914-163043"
+ "timestamp": "20260914-200334"
 }

@@ -1,5 +1,5 @@
 {
- "timestamp": "20260914-163043",
+ "timestamp": "20260914-200334",
  "list": [
   "Abortiporus biennis|Polypores|wood|50,150|4294919424,4291998860,4283244288",
   "Absidia sp.1|Parasitic,Molds|parasitic||4294967295",
@@ -823,6 +823,7 @@
   "Enerthenema papillatum|Slime Molds|wood||4286141768,4288768839",
   "Enteridium simulans|Slime Molds|wood|0,2|4278190080,4286141768",
   "Entoloma aff. perumbilicatum|Agarics|ground||4286141768",
+  "Entoloma aff. tubaeforme|Agarics|ground|16,40|4291605388",
   "Entoloma album|Agarics|ground|10,40|4291605388,4294303411,4294309340",
   "Entoloma byssisedum|Agarics|wood|3,10|4294967295,4286141768",
   "Entoloma carneobrunneum|Agarics|ground|30,45|4286578816",
@@ -854,7 +855,6 @@
   "Entoloma serrulatum|Agarics|ground|15,60|4286611584,4278202707,4278190335",
   "Entoloma strictius|Agarics|ground|30,90|4291998860,4291605388",
   "Entoloma stylophorum|Agarics|ground|18,25|4294967295",
-  "Entoloma tubaeforme|Agarics|ground|16,40|4291605388",
   "Entoloma violaceum|Agarics|ground|10,40|4286578816,4287889619",
   "Entoloma virescens|Agarics|ground|20,35|4289583334,4282882227,4278190335",
   "Entomophthora muscae|Parasitic|parasitic||4288768839,4294957753",
