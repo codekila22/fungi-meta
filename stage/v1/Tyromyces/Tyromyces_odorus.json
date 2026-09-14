@@ -2,6 +2,7 @@
  "genus": "Tyromyces",
  "name": "odorus",
  "date": [
+  "08/29/2026,28400488392968222",
   "11/02/2025,24922192680797828",
   "09/09/2025,24428362140180887"
  ],
@@ -87,6 +88,38 @@
   {
    "author": "江志緯",
    "image_src": "Skeletocutis_odora_53fdb4e0-bc65-11f0-861e-9ff72c9295f4_11.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tyromyces_odorus_28400488392968222_8264e400-af5f-11f1-98d5-25812432bb95_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tyromyces_odorus_28400488392968222_8264e400-af5f-11f1-98d5-25812432bb95_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tyromyces_odorus_28400488392968222_8264e400-af5f-11f1-98d5-25812432bb95_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tyromyces_odorus_28400488392968222_8264e400-af5f-11f1-98d5-25812432bb95_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tyromyces_odorus_28400488392968222_8264e400-af5f-11f1-98d5-25812432bb95_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tyromyces_odorus_28400488392968222_8264e400-af5f-11f1-98d5-25812432bb95_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tyromyces_odorus_28400488392968222_8264e400-af5f-11f1-98d5-25812432bb95_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Tyromyces_odorus_28400488392968222_8264e400-af5f-11f1-98d5-25812432bb95_8.jpg"
   }
  ],
  "synonym": [
@@ -123,13 +156,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "5,30",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood,bamboo",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -152,5 +189,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260913-082913"
+ "timestamp": "20260914-163043"
 }

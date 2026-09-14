@@ -2,6 +2,7 @@
  "genus": "Neoboletus",
  "name": "erythropus",
  "date": [
+  "09/07/2026,28404920802524981",
   "07/12/2023,6186662308110815"
  ],
  "names_zhtw": [
@@ -49,6 +50,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Boletus_erythropus_2fa07480-2102-11ee-ba28-f5f6c2924b11_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Neoboletus_erythropus_28404920802524981_4e62a7b0-afd1-11f1-8c8b-57fda91fc400_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Neoboletus_erythropus_28404920802524981_4e62a7b0-afd1-11f1-8c8b-57fda91fc400_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Neoboletus_erythropus_28404920802524981_4e62a7b0-afd1-11f1-8c8b-57fda91fc400_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Neoboletus_erythropus_28404920802524981_4e62a7b0-afd1-11f1-8c8b-57fda91fc400_4.jpg"
   }
  ],
  "synonym": [
@@ -84,13 +101,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "40,150",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "blue",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -120,5 +142,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/528586017/square.jpg"
   }
  ],
- "timestamp": "20260913-082913"
+ "timestamp": "20260914-163043"
 }

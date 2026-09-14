@@ -2,6 +2,7 @@
  "genus": "Hygrophorus",
  "name": "chrysodon",
  "date": [
+  "09/11/2026,28410096135340781",
   "08/21/2022,5571206069656445"
  ],
  "names_zhtw": [
@@ -24,6 +25,42 @@
   {
    "author": "Hannah Wang",
    "image_src": "Hygrophorus_chrysodon_3_CC BY-NC_Hannah Wang.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hygrophorus_chrysodon_28410096135340781_c7cd94a0-b005-11f1-9a78-0186228b7e21_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hygrophorus_chrysodon_28410096135340781_c7cd94a0-b005-11f1-9a78-0186228b7e21_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hygrophorus_chrysodon_28410096135340781_c7cd94a0-b005-11f1-9a78-0186228b7e21_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hygrophorus_chrysodon_28410096135340781_c7cd94a0-b005-11f1-9a78-0186228b7e21_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hygrophorus_chrysodon_28410096135340781_c7cd94a0-b005-11f1-9a78-0186228b7e21_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hygrophorus_chrysodon_28410096135340781_c7cd94a0-b005-11f1-9a78-0186228b7e21_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hygrophorus_chrysodon_28410096135340781_c7cd94a0-b005-11f1-9a78-0186228b7e21_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hygrophorus_chrysodon_28410096135340781_c7cd94a0-b005-11f1-9a78-0186228b7e21_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Hygrophorus_chrysodon_28410096135340781_c7cd94a0-b005-11f1-9a78-0186228b7e21_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -52,13 +89,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "30,100",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "rare",
+  "Elevation": "high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -95,5 +136,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260913-082913"
+ "timestamp": "20260914-163043"
 }
