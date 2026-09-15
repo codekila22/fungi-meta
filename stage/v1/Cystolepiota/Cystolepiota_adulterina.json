@@ -2,6 +2,7 @@
  "genus": "Cystolepiota",
  "name": "adulterina",
  "date": [
+  "08/18/2026,28388518244165237",
   "10/05/2025,24576340362049730",
   "06/21/2025,10052807251496282",
   "02/17/2022,4659948354115559",
@@ -112,6 +113,26 @@
   {
    "author": "徐秀團",
    "image_src": "Cystolepiota_adulterina_e052a330-a1b5-11f0-b45c-556a5e72a3d8_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cystolepiota_adulterina_28388518244165237_d50d5960-b0bf-11f1-b358-49045ca9f504_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cystolepiota_adulterina_28388518244165237_d50d5960-b0bf-11f1-b358-49045ca9f504_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cystolepiota_adulterina_28388518244165237_d50d5960-b0bf-11f1-b358-49045ca9f504_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cystolepiota_adulterina_28388518244165237_d50d5960-b0bf-11f1-b358-49045ca9f504_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cystolepiota_adulterina_28388518244165237_d50d5960-b0bf-11f1-b358-49045ca9f504_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -168,5 +189,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/188597060/thumb.jpeg"
   }
  ],
- "timestamp": "20260914-200334"
+ "timestamp": "20260915-154537"
 }
