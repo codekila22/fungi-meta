@@ -2,6 +2,7 @@
  "genus": "Dicephalospora",
  "name": "rufocornea",
  "date": [
+  "09/16/2026,28450667631283631",
   "08/28/2026,28163003890050008",
   "06/21/2026,27321195404230865",
   "06/20/2026,27322892347394504",
@@ -209,6 +210,14 @@
   {
    "author": "吳湯姆",
    "image_src": "Dicephalospora_rufocornea_bfbc3fb0-6eb4-11f1-bfab-cd55ea4ed017_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Dicephalospora_rufocornea_28450667631283631_030da040-b1ce-11f1-818a-07302665aaad_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Dicephalospora_rufocornea_28450667631283631_030da040-b1ce-11f1-818a-07302665aaad_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -237,13 +246,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "3,5",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -259,5 +272,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5744756/thumb.jpeg"
   }
  ],
- "timestamp": "20260915-154537"
+ "timestamp": "20260916-215325"
 }
