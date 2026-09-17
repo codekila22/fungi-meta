@@ -2,6 +2,7 @@
  "genus": "Lentinus",
  "name": "badius",
  "date": [
+  "08/31/2026,28443147212035673",
   "08/15/2026,28082545701429161",
   "05/05/2025,9551380341638978",
   "04/02/2024,7174749935968709",
@@ -352,6 +353,82 @@
   {
    "author": "蔡古媧",
    "image_src": "Lentinus_badius_28082545701429161_041205a0-9dfe-11f1-aefc-c12ac16397f5_6.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_1.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_2.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_3.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_4.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_5.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_6.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_7.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_8.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_9.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_10.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_11.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_12.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_13.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_14.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_15.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_16.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_17.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_18.jpg"
+  },
+  {
+   "author": "孫晉光",
+   "image_src": "Lentinus_badius_28443147212035673_5997ff70-b299-11f1-bb20-9bc897b79ffc_19.jpg"
   }
  ],
  "names_zhcn": [
@@ -380,13 +457,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -402,5 +484,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/256569723/thumb.jpeg"
   }
  ],
- "timestamp": "20260916-215325"
+ "timestamp": "20260917-211740"
 }
