@@ -2,6 +2,7 @@
  "genus": "Hygroaster",
  "name": "nodulisporus",
  "date": [
+  "09/14/2026,28418837884466606",
   "09/11/2026,28373227915694270",
   "07/06/2026,27525793437104393",
   "10/09/2024,8330934980350193",
@@ -197,6 +198,18 @@
   {
    "author": "黃金興",
    "image_src": "Hygroaster_nodulisporus_28373227915694270_b109df70-ae35-11f1-bb23-a99f6bf963e0_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Hygroaster_nodulisporus_28418837884466606_42634a20-b2a4-11f1-bb20-9bc897b79ffc_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Hygroaster_nodulisporus_28418837884466606_42634a20-b2a4-11f1-bb20-9bc897b79ffc_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Hygroaster_nodulisporus_28418837884466606_42634a20-b2a4-11f1-bb20-9bc897b79ffc_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -247,5 +260,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/242551152/thumb.jpeg"
   }
  ],
- "timestamp": "20260917-211740"
+ "timestamp": "20260918-134909"
 }

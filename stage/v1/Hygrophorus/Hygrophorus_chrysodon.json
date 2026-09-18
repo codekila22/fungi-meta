@@ -3,7 +3,8 @@
  "name": "chrysodon",
  "date": [
   "09/11/2026,28410096135340781",
-  "08/21/2022,5571206069656445"
+  "08/21/2022,5571206069656445",
+  "08/28/2021,28472206415796419"
  ],
  "names_zhtw": [
   "金粒蠟傘"
@@ -61,6 +62,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Hygrophorus_chrysodon_28410096135340781_c7cd94a0-b005-11f1-9a78-0186228b7e21_9.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_chrysodon_28472206415796419_5ec1b860-b2fd-11f1-a43a-51f251b6a8bf_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_chrysodon_28472206415796419_5ec1b860-b2fd-11f1-a43a-51f251b6a8bf_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_chrysodon_28472206415796419_5ec1b860-b2fd-11f1-a43a-51f251b6a8bf_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_chrysodon_28472206415796419_5ec1b860-b2fd-11f1-a43a-51f251b6a8bf_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrophorus_chrysodon_28472206415796419_5ec1b860-b2fd-11f1-a43a-51f251b6a8bf_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -136,5 +157,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260917-211740"
+ "timestamp": "20260918-134909"
 }

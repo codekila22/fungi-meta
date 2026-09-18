@@ -180,6 +180,20 @@
    "image_src": "Russula_compacta_28415704981446563_d88939f0-b020-11f1-9a78-0186228b7e21_3.jpg"
   }
  ],
+ "videos": [
+  {
+   "author": "蔣珮瑩",
+   "video_src": "Russula_compacta_nopost_02a933d6-b307-11f1-9d51-42010a8c0004_v1.mp4",
+   "poster_src": "Russula_compacta_nopost_02a933d6-b307-11f1-9d51-42010a8c0004_v1.jpg",
+   "duration": 28.02,
+   "width": 1024,
+   "height": 576,
+   "size": 9366829,
+   "date": "09/18/2026",
+   "url": "",
+   "sha256": "c61722ed7417b409e00c77657c64ac6671c95570acc0830706ba18818f37c6cb"
+  }
+ ],
  "names_zhcn": [
   "致密红菇"
  ],
@@ -230,5 +244,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/45998024/thumb.jpeg"
   }
  ],
- "timestamp": "20260917-211740"
+ "timestamp": "20260918-134909"
 }

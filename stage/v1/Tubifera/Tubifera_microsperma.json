@@ -2,6 +2,7 @@
  "genus": "Tubifera",
  "name": "microsperma",
  "date": [
+  "09/17/2026,28465847669765627",
   "08/03/2026,27920210537662679",
   "07/06/2026,27489259100757827",
   "06/23/2026,27358615707155501",
@@ -198,6 +199,34 @@
   {
    "author": "陳麗紅",
    "image_src": "Tubifera_microsperma_27920210537662679_90f48e00-9883-11f1-b59b-39a33ce7c69c_7.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tubifera_microsperma_28465847669765627_cf5ea640-b2fe-11f1-a43a-51f251b6a8bf_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tubifera_microsperma_28465847669765627_cf5ea640-b2fe-11f1-a43a-51f251b6a8bf_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tubifera_microsperma_28465847669765627_cf5ea640-b2fe-11f1-a43a-51f251b6a8bf_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tubifera_microsperma_28465847669765627_cf5ea640-b2fe-11f1-a43a-51f251b6a8bf_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tubifera_microsperma_28465847669765627_cf5ea640-b2fe-11f1-a43a-51f251b6a8bf_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tubifera_microsperma_28465847669765627_cf5ea640-b2fe-11f1-a43a-51f251b6a8bf_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Tubifera_microsperma_28465847669765627_cf5ea640-b2fe-11f1-a43a-51f251b6a8bf_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -251,5 +280,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4127182/thumb.jpg"
   }
  ],
- "timestamp": "20260917-211740"
+ "timestamp": "20260918-134909"
 }

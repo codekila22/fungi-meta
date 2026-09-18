@@ -196,20 +196,7 @@
    "image_src": "Entoloma_quadratum_28462408960109498_705d9f10-b269-11f1-9bec-4dc7f985bc1f_3.jpg"
   }
  ],
- "videos": [
-  {
-   "author": "James Ho",
-   "video_src": "Entoloma_quadratum_nopost_e03ea7fc-b293-11f1-98e6-42010a8c0004_v1.mp4",
-   "poster_src": "Entoloma_quadratum_nopost_e03ea7fc-b293-11f1-98e6-42010a8c0004_v1.jpg",
-   "duration": 3.98,
-   "width": 1074,
-   "height": 874,
-   "size": 2051729,
-   "date": "09/17/2026",
-   "url": "",
-   "sha256": "ffb3ae083e0cfe52cbd3f6786b55bc47bdc5f084e8e7dfc51dd3b788adcb759e"
-  }
- ],
+ "videos": [],
  "names_zhcn": [
   "方孢粉褶菌"
  ],
@@ -262,5 +249,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/90070251/thumb.jpeg"
   }
  ],
- "timestamp": "20260917-211740"
+ "timestamp": "20260918-134909"
 }
