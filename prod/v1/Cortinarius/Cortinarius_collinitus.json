@@ -3,6 +3,7 @@
  "name": "collinitus",
  "date": [
   "09/07/2026,28339040472446348",
+  "09/07/2026,28419678384382556",
   "09/06/2026,28359046343779094",
   "11/04/2025,24917647767918986",
   "11/01/2023,6597124483731260",
@@ -16,7 +17,10 @@
  "names_zhtw": [
   "黏液絲膜菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Blue-girdled Webcap",
+  "Belted Slimy Cortinarius"
+ ],
  "url": "4053365014773899",
  "images": [
   {
@@ -354,6 +358,38 @@
   {
    "author": "吳湯姆",
    "image_src": "Cortinarius_collinitus_28359046343779094_af39dbd0-adb0-11f1-a0b4-2b6607436e5f_14.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_collinitus_28419678384382556_2f3abd10-b0d4-11f1-b358-49045ca9f504_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_collinitus_28419678384382556_2f3abd10-b0d4-11f1-b358-49045ca9f504_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_collinitus_28419678384382556_2f3abd10-b0d4-11f1-b358-49045ca9f504_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_collinitus_28419678384382556_2f3abd10-b0d4-11f1-b358-49045ca9f504_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_collinitus_28419678384382556_2f3abd10-b0d4-11f1-b358-49045ca9f504_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_collinitus_28419678384382556_2f3abd10-b0d4-11f1-b358-49045ca9f504_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_collinitus_28419678384382556_2f3abd10-b0d4-11f1-b358-49045ca9f504_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cortinarius_collinitus_28419678384382556_2f3abd10-b0d4-11f1-b358-49045ca9f504_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -422,5 +458,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/106387280/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

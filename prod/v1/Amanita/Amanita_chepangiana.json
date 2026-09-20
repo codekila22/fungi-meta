@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "chepangiana",
  "date": [
+  "09/10/2026,28446294188387642",
   "04/24/2026,26538468852503528",
   "10/10/2024,8301942923249399",
   "06/15/2024,7515942671849432",
@@ -10,7 +11,9 @@
  "names_zhtw": [
   "白條蓋鵝膏"
  ],
- "names_en": [],
+ "names_en": [
+  "Chepang Slender Caesar"
+ ],
  "url": "2835399363237143",
  "images": [
   {
@@ -196,6 +199,30 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Amanita_chepangiana_b8afda50-3fbc-11f1-8e81-bba2a97b1c78_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_chepangiana_28446294188387642_25799e30-b1cf-11f1-955d-8f5700995f36_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_chepangiana_28446294188387642_25799e30-b1cf-11f1-955d-8f5700995f36_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_chepangiana_28446294188387642_25799e30-b1cf-11f1-955d-8f5700995f36_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_chepangiana_28446294188387642_25799e30-b1cf-11f1-955d-8f5700995f36_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_chepangiana_28446294188387642_25799e30-b1cf-11f1-955d-8f5700995f36_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_chepangiana_28446294188387642_25799e30-b1cf-11f1-955d-8f5700995f36_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -224,13 +251,17 @@
   "StalkDiamRangeValuess": "10,20",
   "StalkLengthRangeValuess": "80,180",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -246,5 +277,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/99445962/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

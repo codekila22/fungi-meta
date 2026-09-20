@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "griseonigricans",
  "date": [
+  "09/18/2026,28489933814023679",
   "06/24/2026,27344603538556718",
   "08/06/2025,24066923856324719"
  ],
@@ -58,6 +59,50 @@
   {
    "author": "徐秀團",
    "image_src": "Hygrocybe_griseonigricans_44c37590-6fda-11f1-95ca-39b2ed0a22ae_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_8.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_9.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_10.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Hygrocybe_griseonigricans_28489933814023679_8945a560-b3ed-11f1-ad48-2b715efb10de_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -86,13 +131,17 @@
   "StalkDiamRangeValuess": "5,12",
   "StalkLengthRangeValuess": "50,150",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Hygrocybe astatogala,,",
@@ -110,5 +159,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

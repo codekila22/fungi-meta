@@ -3,7 +3,7 @@
  "name": "globosum",
  "date": [
   "08/28/2026,28160653233618407",
-  "08/26/2026,28163648723318858",
+  "08/26/2026,28163852909965106",
   "07/01/2026,27433940232956381",
   "07/31/2009,25172921879058239"
  ],
@@ -119,23 +119,27 @@
   },
   {
    "author": "蔣珮瑩",
-   "image_src": "Chlorophyllum_globosum_28163648723318858_f7efe8a0-a2a3-11f1-b9ae-7b3f6fa56b05_1.jpg"
+   "image_src": "Chlorophyllum_globosum_28163852909965106_efe96780-b4b4-11f1-8887-5dec4e36afd3_1.jpg"
   },
   {
    "author": "蔣珮瑩",
-   "image_src": "Chlorophyllum_globosum_28163648723318858_f7efe8a0-a2a3-11f1-b9ae-7b3f6fa56b05_2.jpg"
+   "image_src": "Chlorophyllum_globosum_28163852909965106_efe96780-b4b4-11f1-8887-5dec4e36afd3_2.jpg"
   },
   {
    "author": "蔣珮瑩",
-   "image_src": "Chlorophyllum_globosum_28163648723318858_f7efe8a0-a2a3-11f1-b9ae-7b3f6fa56b05_3.jpg"
+   "image_src": "Chlorophyllum_globosum_28163852909965106_efe96780-b4b4-11f1-8887-5dec4e36afd3_3.jpg"
   },
   {
    "author": "蔣珮瑩",
-   "image_src": "Chlorophyllum_globosum_28163648723318858_f7efe8a0-a2a3-11f1-b9ae-7b3f6fa56b05_4.jpg"
+   "image_src": "Chlorophyllum_globosum_28163852909965106_efe96780-b4b4-11f1-8887-5dec4e36afd3_4.jpg"
   },
   {
    "author": "蔣珮瑩",
-   "image_src": "Chlorophyllum_globosum_28163648723318858_f7efe8a0-a2a3-11f1-b9ae-7b3f6fa56b05_5.jpg"
+   "image_src": "Chlorophyllum_globosum_28163852909965106_efe96780-b4b4-11f1-8887-5dec4e36afd3_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Chlorophyllum_globosum_28163852909965106_efe96780-b4b4-11f1-8887-5dec4e36afd3_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -143,7 +147,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "50,200",
+  "CapDiamRangeValues": "90,180",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -162,7 +166,7 @@
   "StalkVolva": "none",
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
-  "StalkLengthRangeValuess": "",
+  "StalkLengthRangeValuess": "140,260",
   "HeightRangeValuess": "",
   "Rareness": "common",
   "Elevation": "low",
@@ -178,7 +182,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Chlorophyllum molybdites,,",
-  "Note": "球蓋綠褶菇，種小名globosum意為「球形的」，指其幼時球狀之菌蓋。菌蓋初球形後展開、被褐色鱗片；菌褶白色（不變綠，有別於綠褶菇）；柄具菌環、基部略膨大；菌肉傷後轉紅。",
+  "Note": "球蓋綠褶菇，種小名globosum意為「球形的」，指其幼時球狀之菌蓋。菌蓋初球形後展開、被褐色鱗片；菌褶幼時灰白、成熟轉灰綠，孢子無色或淡綠、孢子印淡黃；柄長、基部膨大，菌環雙層且持久；擔子4孢子，緣囊狀體偶具長柄，無鎖狀聯合；菌肉傷後轉紅。台灣主要分布於中部（台中、南投），與綠褶菇同域，春末至夏出現。過去館藏中曾有標本被誤鑑定為綠褶菇：兩者子實體相似，文獻將其切分在孢子印的綠與淡黃之間，並指出沒有分子資料時不易區分。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "綠褶菇,,",
   "la_zhcn": "绿褶菇,,"
@@ -192,5 +196,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/307544808/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

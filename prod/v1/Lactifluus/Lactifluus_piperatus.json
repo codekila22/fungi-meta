@@ -2,6 +2,7 @@
  "genus": "Lactifluus",
  "name": "piperatus",
  "date": [
+  "09/11/2026,28442952135388514",
   "09/07/2026,28342742918742770",
   "08/14/2026,28001922732824792",
   "09/07/2024,8147664472010579",
@@ -11,7 +12,9 @@
  "names_zhtw": [
   "白辣乳菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Peppery Milkcap"
+ ],
  "url": "2845762248867521",
  "images": [
   {
@@ -129,6 +132,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactifluus_piperatus_28342742918742770_540eeab0-ac9e-11f1-a851-95c9e302b008_11.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_piperatus_28442952135388514_8d6e03a0-b1cf-11f1-955d-8f5700995f36_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_piperatus_28442952135388514_8d6e03a0-b1cf-11f1-955d-8f5700995f36_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_piperatus_28442952135388514_8d6e03a0-b1cf-11f1-955d-8f5700995f36_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_piperatus_28442952135388514_8d6e03a0-b1cf-11f1-955d-8f5700995f36_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_piperatus_28442952135388514_8d6e03a0-b1cf-11f1-955d-8f5700995f36_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Lactifluus_piperatus_28442952135388514_8d6e03a0-b1cf-11f1-955d-8f5700995f36_6.jpg"
   }
  ],
  "synonym": [
@@ -192,5 +219,5 @@
    "src": "https://static.inaturalist.org/photos/32834443/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

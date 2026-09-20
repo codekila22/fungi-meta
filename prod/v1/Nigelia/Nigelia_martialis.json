@@ -2,6 +2,7 @@
  "genus": "Nigelia",
  "name": "martialis",
  "date": [
+  "09/16/2026,28495153746835019",
   "07/28/2026,27775982638752137",
   "03/09/2025,9198932793550403",
   "03/29/2024,7185674974876205",
@@ -298,6 +299,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Nigelia_martialis_27775982638752137_65059250-8bed-11f1-b4af-df994418c03d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigelia_martialis_28495153746835019_d6f67ab0-b4af-11f1-8887-5dec4e36afd3_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigelia_martialis_28495153746835019_d6f67ab0-b4af-11f1-8887-5dec4e36afd3_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigelia_martialis_28495153746835019_d6f67ab0-b4af-11f1-8887-5dec4e36afd3_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Nigelia_martialis_28495153746835019_d6f67ab0-b4af-11f1-8887-5dec4e36afd3_4.jpg"
   }
  ],
  "synonym": [
@@ -357,5 +374,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/426145084/square.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

@@ -2,6 +2,7 @@
  "genus": "Geastrum",
  "name": "triplex",
  "date": [
+  "09/07/2026,28435100319507029",
   "09/14/2025,24398754819808286",
   "09/13/2025,24373375155679586",
   "10/12/2024,8375090365934654",
@@ -208,6 +209,34 @@
   {
    "author": "朱艷",
    "image_src": "Geastrum_triplex_27178510-95fe-11f0-8153-551fb074ddcc_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_triplex_28435100319507029_b919eb30-b1d5-11f1-955d-8f5700995f36_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_triplex_28435100319507029_b919eb30-b1d5-11f1-955d-8f5700995f36_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_triplex_28435100319507029_b919eb30-b1d5-11f1-955d-8f5700995f36_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_triplex_28435100319507029_b919eb30-b1d5-11f1-955d-8f5700995f36_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_triplex_28435100319507029_b919eb30-b1d5-11f1-955d-8f5700995f36_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_triplex_28435100319507029_b919eb30-b1d5-11f1-955d-8f5700995f36_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Geastrum_triplex_28435100319507029_b919eb30-b1d5-11f1-955d-8f5700995f36_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -236,13 +265,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,50",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid,high",
+  "Tropical": "",
   "Seasons": "summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "not-edible,medicinal",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -279,5 +312,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

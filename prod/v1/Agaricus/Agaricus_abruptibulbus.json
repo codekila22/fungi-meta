@@ -3,8 +3,6 @@
  "name": "abruptibulbus",
  "date": [
   "08/21/2024,7903763426400686",
-  "06/05/2024,7454563257987374",
-  "10/12/2023,6525123710931338",
   "10/17/2020,3290960107681064",
   "09/29/2018,3290960107681064",
   "12/25/2015,824838884293211"
@@ -19,10 +17,6 @@
  ],
  "url": "3290960107681064",
  "images": [
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_cf727c80-6c0f-11ee-9ed1-e3a6fc48fdfa_1.jpg"
-  },
   {
    "author": "向高世",
    "image_src": "Agaricus_abruptibulbus_9_CC BY-NC_向高世.jpg"
@@ -58,46 +52,6 @@
   {
    "author": "向高世",
    "image_src": "Agaricus_abruptibulbus_8_CC BY-NC_向高世.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_68cc0250-2634-11ef-8fa9-fd3dd18cc225_1.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_68cc0250-2634-11ef-8fa9-fd3dd18cc225_2.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_68cc0250-2634-11ef-8fa9-fd3dd18cc225_3.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_68cc0250-2634-11ef-8fa9-fd3dd18cc225_4.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_68cc0250-2634-11ef-8fa9-fd3dd18cc225_5.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_68cc0250-2634-11ef-8fa9-fd3dd18cc225_6.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_68cc0250-2634-11ef-8fa9-fd3dd18cc225_7.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_68cc0250-2634-11ef-8fa9-fd3dd18cc225_8.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_68cc0250-2634-11ef-8fa9-fd3dd18cc225_9.jpg"
-  },
-  {
-   "author": "蔣珮瑩",
-   "image_src": "Agaricus_abruptibulbus_68cc0250-2634-11ef-8fa9-fd3dd18cc225_10.jpg"
   },
   {
    "author": "江志緯",
@@ -169,7 +123,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "球基蘑菇，種小名abruptibulbus意為「驟然球基的」，指其柄基突呈球狀膨大。菌蓋白色（頂常微黃）、平滑，傷後常漸轉黃色；菌褶初粉紅後轉巧克力褐色；柄具雙菌環、大而鬆軟、下表面被絨毛且帶黃；菌柄光滑，基部突然膨大成球或扁球；常帶杏仁氣味。KOH反應轉黃。生長於林地腐植質、落葉層。",
+  "Note": "球基蘑菇，種小名abruptibulbus意為「驟然球基的」，指其柄基突呈球狀膨大。菌蓋白色（頂常微黃）、平滑，傷後常漸轉黃色；菌褶初粉紅後轉巧克力褐色；柄具大而鬆軟的菌環，上表面光滑、下表面被絨毛且帶黃；菌柄光滑，基部突然膨大成球或扁球；常帶杏仁氣味。KOH反應轉黃。生長於林地腐植質、落葉層。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -181,5 +135,5 @@
    "src": "https://static.inaturalist.org/photos/54848133/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

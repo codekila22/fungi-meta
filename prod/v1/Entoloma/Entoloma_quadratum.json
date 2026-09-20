@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "quadratum",
  "date": [
+  "09/06/2026,28462408960109498",
   "07/14/2026,27587800854236984",
   "06/11/2025,9843763425734000",
   "10/06/2024,8255448787898813",
@@ -21,7 +22,9 @@
  "names_zhtw": [
   "方孢粉褶菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Salmon Pinkgill"
+ ],
  "url": "5046859718757752",
  "images": [
   {
@@ -179,8 +182,21 @@
   {
    "author": "吳湯姆",
    "image_src": "Entoloma_quadratum_27587800854236984_d7841c30-7fdf-11f1-a6ae-2d91ec182952_3.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Entoloma_quadratum_28462408960109498_705d9f10-b269-11f1-9bec-4dc7f985bc1f_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Entoloma_quadratum_28462408960109498_705d9f10-b269-11f1-9bec-4dc7f985bc1f_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Entoloma_quadratum_28462408960109498_705d9f10-b269-11f1-9bec-4dc7f985bc1f_3.jpg"
   }
  ],
+ "videos": [],
  "names_zhcn": [
   "方孢粉褶菌"
  ],
@@ -233,5 +249,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/90070251/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

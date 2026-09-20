@@ -2,6 +2,7 @@
  "genus": "Tricholomopsis",
  "name": "decora",
  "date": [
+  "09/06/2026,28403570909326637",
   "08/02/2026,27882408168109583",
   "07/31/2026,27816557618027972",
   "06/19/2026,27305032279180511",
@@ -16,7 +17,10 @@
  "names_zhtw": [
   "黃擬口蘑"
  ],
- "names_en": [],
+ "names_en": [
+  "Decorated Mop",
+  "Prunes and Custard"
+ ],
  "url": "4224790247631374",
  "images": [
   {
@@ -262,6 +266,70 @@
   {
    "author": "吳湯姆",
    "image_src": "Tricholomopsis_decora_27882408168109583_bdbfbab0-93c7-11f1-b920-0340f92f6a5e_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_13.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_14.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_15.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Tricholomopsis_decora_28403570909326637_a48c04f0-b009-11f1-9a78-0186228b7e21_16.jpg"
   }
  ],
  "names_zhcn": [
@@ -327,5 +395,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

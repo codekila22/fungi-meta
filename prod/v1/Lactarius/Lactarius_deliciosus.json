@@ -2,6 +2,7 @@
  "genus": "Lactarius",
  "name": "deliciosus",
  "date": [
+  "09/07/2026,28404567732560288",
   "07/28/2026,27774942332189501",
   "07/18/2026,27649024061447996",
   "11/01/2025,24859605497056547",
@@ -18,7 +19,10 @@
  "names_zhtw": [
   "松乳菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Saffron Milkcap",
+  "Delicious Milk Cap"
+ ],
  "url": "3701291043314633",
  "images": [
   {
@@ -116,6 +120,42 @@
   {
    "author": "吳湯姆",
    "image_src": "Lactarius_deliciosus_27774942332189501_85447e40-8e37-11f1-bdb3-bbb8d9d5caa1_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_28404567732560288_00640170-afc8-11f1-add0-7b54a07a6087_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_28404567732560288_00640170-afc8-11f1-add0-7b54a07a6087_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_28404567732560288_00640170-afc8-11f1-add0-7b54a07a6087_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_28404567732560288_00640170-afc8-11f1-add0-7b54a07a6087_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_28404567732560288_00640170-afc8-11f1-add0-7b54a07a6087_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_28404567732560288_00640170-afc8-11f1-add0-7b54a07a6087_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_28404567732560288_00640170-afc8-11f1-add0-7b54a07a6087_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_28404567732560288_00640170-afc8-11f1-add0-7b54a07a6087_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Lactarius_deliciosus_28404567732560288_00640170-afc8-11f1-add0-7b54a07a6087_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -226,5 +266,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

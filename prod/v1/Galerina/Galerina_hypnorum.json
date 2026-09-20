@@ -3,6 +3,7 @@
  "name": "hypnorum",
  "date": [
   "09/07/2026,28313597514990644",
+  "09/07/2026,28403389566011438",
   "03/29/2025,9283477611762587",
   "02/25/2025,9091452774298406",
   "02/18/2025,9056027194507631",
@@ -222,6 +223,34 @@
   {
    "author": "何俊霖",
    "image_src": "Galerina_hypnorum_8d7e6020-0d5b-11f0-910e-c9779dd7b27f_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_hypnorum_28403389566011438_82fc78b0-b0d6-11f1-b358-49045ca9f504_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_hypnorum_28403389566011438_82fc78b0-b0d6-11f1-b358-49045ca9f504_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_hypnorum_28403389566011438_82fc78b0-b0d6-11f1-b358-49045ca9f504_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_hypnorum_28403389566011438_82fc78b0-b0d6-11f1-b358-49045ca9f504_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_hypnorum_28403389566011438_82fc78b0-b0d6-11f1-b358-49045ca9f504_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_hypnorum_28403389566011438_82fc78b0-b0d6-11f1-b358-49045ca9f504_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Galerina_hypnorum_28403389566011438_82fc78b0-b0d6-11f1-b358-49045ca9f504_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -276,5 +305,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41423328/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

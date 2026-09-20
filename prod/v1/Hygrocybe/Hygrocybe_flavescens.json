@@ -2,12 +2,15 @@
  "genus": "Hygrocybe",
  "name": "flavescens",
  "date": [
-  "01/13/2021,3436044106505996"
+  "01/13/2021,3436044106505996",
+  "10/17/2020,28413152461701815"
  ],
  "names_zhtw": [
   "淺黃褐濕傘"
  ],
- "names_en": [],
+ "names_en": [
+  "Golden Waxy Cap"
+ ],
  "url": "3436044106505996",
  "images": [
   {
@@ -41,6 +44,26 @@
   {
    "author": "",
    "image_src": "Hygrocybe_flavescens_6_CC BY-NC.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrocybe_flavescens_28413152461701815_a47ef380-b033-11f1-9a78-0186228b7e21_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrocybe_flavescens_28413152461701815_a47ef380-b033-11f1-9a78-0186228b7e21_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrocybe_flavescens_28413152461701815_a47ef380-b033-11f1-9a78-0186228b7e21_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrocybe_flavescens_28413152461701815_a47ef380-b033-11f1-9a78-0186228b7e21_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hygrocybe_flavescens_28413152461701815_a47ef380-b033-11f1-9a78-0186228b7e21_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -97,5 +120,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1451471/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

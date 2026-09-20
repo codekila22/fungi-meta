@@ -2,15 +2,19 @@
  "genus": "Tylopilus",
  "name": "griseocarneus",
  "date": [
+  "09/14/2026,28433648712985523",
   "09/03/2026,28252263301124066",
   "07/02/2025,10099079570202383",
+  "05/01/2024,28429748096708918",
   "08/30/2022,25175998232083937",
   "09/12/2018,3557337604376645"
  ],
  "names_zhtw": [
   "灰肉色粉孢牛肝菌"
  ],
- "names_en": [],
+ "names_en": [
+  "Grayflesh Tylopilus"
+ ],
  "url": "3557337604376645",
  "images": [
   {
@@ -176,6 +180,86 @@
   {
    "author": "陳麗紅",
    "image_src": "Tylopilus_griseocarneus_28252263301124066_73588440-a810-11f1-a055-d9c461f722ec_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_8.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_9.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_10.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_11.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Tylopilus_griseocarneus_28429748096708918_a3f22e80-b0d0-11f1-b358-49045ca9f504_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28433648712985523_a975cab0-b30a-11f1-b779-d787305e07f9_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28433648712985523_a975cab0-b30a-11f1-b779-d787305e07f9_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28433648712985523_a975cab0-b30a-11f1-b779-d787305e07f9_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28433648712985523_a975cab0-b30a-11f1-b779-d787305e07f9_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28433648712985523_a975cab0-b30a-11f1-b779-d787305e07f9_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28433648712985523_a975cab0-b30a-11f1-b779-d787305e07f9_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28433648712985523_a975cab0-b30a-11f1-b779-d787305e07f9_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Tylopilus_griseocarneus_28433648712985523_a975cab0-b30a-11f1-b779-d787305e07f9_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -230,5 +314,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157277126/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

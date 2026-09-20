@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "cantharellus",
  "date": [
+  "09/14/2026,28420355077648220",
   "07/05/2026,27505593932457677",
   "07/07/2023,6169815323128847",
   "11/29/2022,5462708480506205",
@@ -12,7 +13,10 @@
  "names_zhtw": [
   "雞油濕傘"
  ],
- "names_en": [],
+ "names_en": [
+  "Goblet Waxcap",
+  "Chanterelle Waxy Cap"
+ ],
  "url": "5462708480506205",
  "images": [
   {
@@ -102,6 +106,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Hygrocybe_cantharellus_53004080-7a6f-11f1-9f37-11da2773397a_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_28420355077648220_8b154ea0-b0b3-11f1-b358-49045ca9f504_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_28420355077648220_8b154ea0-b0b3-11f1-b358-49045ca9f504_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_28420355077648220_8b154ea0-b0b3-11f1-b358-49045ca9f504_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_28420355077648220_8b154ea0-b0b3-11f1-b358-49045ca9f504_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_28420355077648220_8b154ea0-b0b3-11f1-b358-49045ca9f504_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_28420355077648220_8b154ea0-b0b3-11f1-b358-49045ca9f504_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_28420355077648220_8b154ea0-b0b3-11f1-b358-49045ca9f504_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_cantharellus_28420355077648220_8b154ea0-b0b3-11f1-b358-49045ca9f504_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -168,5 +204,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

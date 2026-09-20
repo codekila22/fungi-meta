@@ -2,6 +2,7 @@
  "genus": "Bondarzewia",
  "name": "berkeleyi",
  "date": [
+  "09/14/2026,28434883989528662",
   "08/06/2026,28190935290590201",
   "10/13/2025,24678809261802839",
   "06/30/2025,10029489410494733",
@@ -14,7 +15,8 @@
   "伯克利刺孢多孔菌"
  ],
  "names_en": [
-  "Berkeley’s Polypore"
+  "Berkeley’s Polypore",
+  "Stump Blossoms"
  ],
  "url": "5052280064882384",
  "images": [
@@ -157,6 +159,58 @@
   {
    "author": "陳麗紅",
    "image_src": "Bondarzewia_berkeleyi_28190935290590201_ddda9bf0-a44b-11f1-b25d-6fbc5944d97f_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_12.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bondarzewia_berkeleyi_28434883989528662_6acd9490-b194-11f1-bcc8-9f3f7d30ed3d_13.jpg"
   }
  ],
  "names_zhcn": [
@@ -185,17 +239,21 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "100,400",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Meripilus giganteus,Bondarzewia mesenterica,",
-  "Note": "伯克利刺孢多孔菌，種小名berkeleyi紀念英國真菌學家M. J. Berkeley。子實體大、由多數扇形之菌蓋叢聚成蓮座狀、乳白至淡褐色；孔面白色、孔口大；孢子球形而具刺；生於殼斗科樹幹基與根際。主要生長於殼斗科為主的樹幹基部或根部附近的大型真菌物種。",
+  "Note": "伯克利刺孢多孔菌，種小名berkeleyi紀念英國真菌學家M. J. Berkeley。子實體大、由多數扇形之菌蓋叢聚成蓮座狀、乳白至淡褐色；孔面白色、孔口大；孢子球形而具刺；生於殼斗科樹幹基與根際。主要生長於殼斗科為主的樹幹基部或根部附近的大型真菌物種。年輕時菇體較嫩，經過充分煮熟後可食用。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "大型亞灰樹花菌,金黃刺孢多孔菌,",
   "la_zhcn": "大型亚灰树花菌,金黄刺孢多孔菌,"
@@ -209,5 +267,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/20061206/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

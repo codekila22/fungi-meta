@@ -182,7 +182,7 @@
  ],
  "meta": {
   "CapColors": "4294967295",
-  "CapDiamRangeValues": "40,100",
+  "CapDiamRangeValues": "38,52",
   "CapShape": "",
   "CapTexture": "",
   "CapMargin": "",
@@ -203,11 +203,11 @@
   "StalkDiamRangeValuess": "5,12",
   "StalkLengthRangeValuess": "40,90",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low",
   "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "ground",
   "NearHome": "yes",
   "Bruising": "red",
@@ -217,7 +217,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Chlorophyllum molybdites,,",
-  "Note": "庭院綠褶菇，種小名hortense意為「庭園的」，指其常見於庭園之習性。菌蓋白至淡褐、被褐色鱗片；菌褶白色；柄具菌環；孢子印白色（有別於綠褶菇之灰綠），菌肉傷後迅速轉紅而後褪。此物種孢子印白色，與相似種綠褶菇的灰綠色不同，且此種傷後一分鐘內會快速變紅，約15分鍾後紅色會慢慢消失。",
+  "Note": "庭院綠褶菇，種小名hortense意為「庭園的」，指其常見於庭園之習性。菌蓋白至淡褐、被褐色鱗片、中央具淡橙褐色斑；菌褶白色；柄紅褐色、具雙層而持久之菌環；擔子2孢子（台灣本屬4種中，2孢子者為本種與淡紅環柄菇，4孢子者為綠褶菇與球蓋綠褶菇）；孢子印白色（有別於綠褶菇之灰綠），菌肉傷後迅速轉紅而後褪，約一分鐘內快速變紅，約15分鐘後紅色慢慢消失。台灣的紀錄原被鑑定為淡紅環柄菇，經分子分析後改訂為本種。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "綠褶菇,,",
   "la_zhcn": "绿褶菇,,"
@@ -231,5 +231,5 @@
    "src": "https://static.inaturalist.org/photos/30117443/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

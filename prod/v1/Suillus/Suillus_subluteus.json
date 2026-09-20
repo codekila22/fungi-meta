@@ -2,6 +2,7 @@
  "genus": "Suillus",
  "name": "subluteus",
  "date": [
+  "09/07/2026,28479944441689283",
   "07/02/2025,10043144285795912",
   "10/14/2024,8332880476822310",
   "09/21/2021,8407843429326014"
@@ -99,6 +100,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Suillus_subluteus_9cc4a920-5b0a-11f0-89a3-35d5d637b038_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Suillus_subluteus_28479944441689283_04be2b40-b493-11f1-ad48-2b715efb10de_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Suillus_subluteus_28479944441689283_04be2b40-b493-11f1-ad48-2b715efb10de_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Suillus_subluteus_28479944441689283_04be2b40-b493-11f1-ad48-2b715efb10de_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -127,13 +140,17 @@
   "StalkDiamRangeValuess": "9,12",
   "StalkLengthRangeValuess": "40,80",
   "HeightRangeValuess": "",
-  "Rareness": "common",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Suillus luteus,Suillus grevillei,",
@@ -151,5 +168,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

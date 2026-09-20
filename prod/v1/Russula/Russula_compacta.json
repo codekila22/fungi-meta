@@ -2,6 +2,7 @@
  "genus": "Russula",
  "name": "compacta",
  "date": [
+  "09/14/2026,28415704981446563",
   "07/15/2026,27675877475429321",
   "05/15/2026,26809955435354867",
   "11/17/2025,25008803622136733",
@@ -13,7 +14,9 @@
  "names_zhtw": [
   "緻密紅菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Fishbiscuit Russula"
+ ],
  "url": "6496354340474942",
  "images": [
   {
@@ -163,6 +166,32 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Russula_compacta_27675877475429321_934bb2c0-8940-11f1-9e17-2d14e8cf1c96_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_compacta_28415704981446563_d88939f0-b020-11f1-9a78-0186228b7e21_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_compacta_28415704981446563_d88939f0-b020-11f1-9a78-0186228b7e21_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Russula_compacta_28415704981446563_d88939f0-b020-11f1-9a78-0186228b7e21_3.jpg"
+  }
+ ],
+ "videos": [
+  {
+   "author": "蔣珮瑩",
+   "video_src": "Russula_compacta_nopost_02a933d6-b307-11f1-9d51-42010a8c0004_v1.mp4",
+   "poster_src": "Russula_compacta_nopost_02a933d6-b307-11f1-9d51-42010a8c0004_v1.jpg",
+   "duration": 28.02,
+   "width": 1024,
+   "height": 576,
+   "size": 9366829,
+   "date": "09/18/2026",
+   "url": "",
+   "sha256": "c61722ed7417b409e00c77657c64ac6671c95570acc0830706ba18818f37c6cb"
   }
  ],
  "names_zhcn": [
@@ -215,5 +244,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/45998024/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

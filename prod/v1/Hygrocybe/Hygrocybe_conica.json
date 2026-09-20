@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "conica",
  "date": [
+  "09/08/2026,28446527371697657",
   "09/02/2026,28254203974263332",
   "07/18/2026,27692729870410748",
   "09/14/2025,24398793646471070",
@@ -26,7 +27,7 @@
  ],
  "names_en": [
   "Witch's Hat",
-  "Conical wax cap"
+  "Conical Wax Cap"
  ],
  "url": "6076328309144216",
  "images": [
@@ -297,6 +298,42 @@
   {
    "author": "朱艷",
    "image_src": "Hygrocybe_conica_28254203974263332_0e3a81b0-a79f-11f1-9d91-3d436325414c_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_conica_28446527371697657_e352fd20-b1c0-11f1-818a-07302665aaad_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_conica_28446527371697657_e352fd20-b1c0-11f1-818a-07302665aaad_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_conica_28446527371697657_e352fd20-b1c0-11f1-818a-07302665aaad_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_conica_28446527371697657_e352fd20-b1c0-11f1-818a-07302665aaad_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_conica_28446527371697657_e352fd20-b1c0-11f1-818a-07302665aaad_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_conica_28446527371697657_e352fd20-b1c0-11f1-818a-07302665aaad_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_conica_28446527371697657_e352fd20-b1c0-11f1-818a-07302665aaad_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_conica_28446527371697657_e352fd20-b1c0-11f1-818a-07302665aaad_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Hygrocybe_conica_28446527371697657_e352fd20-b1c0-11f1-818a-07302665aaad_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -422,5 +459,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

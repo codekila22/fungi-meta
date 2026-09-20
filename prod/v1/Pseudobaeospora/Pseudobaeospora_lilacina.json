@@ -2,6 +2,7 @@
  "genus": "Pseudobaeospora",
  "name": "lilacina",
  "date": [
+  "09/12/2026,28445848961765498",
   "08/30/2026,28209370158746714",
   "05/03/2024,7303758839734484",
   "04/17/2024,7236989046411464",
@@ -164,6 +165,22 @@
   {
    "author": "何俊霖",
    "image_src": "Pseudobaeospora_lilacina_28209370158746714_65078040-a5da-11f1-a9d2-e3d283617cd4_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pseudobaeospora_lilacina_28445848961765498_3b8ac6c0-b2a3-11f1-bb20-9bc897b79ffc_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pseudobaeospora_lilacina_28445848961765498_3b8ac6c0-b2a3-11f1-bb20-9bc897b79ffc_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pseudobaeospora_lilacina_28445848961765498_3b8ac6c0-b2a3-11f1-bb20-9bc897b79ffc_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Pseudobaeospora_lilacina_28445848961765498_3b8ac6c0-b2a3-11f1-bb20-9bc897b79ffc_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -218,5 +235,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/313124749/thumb.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

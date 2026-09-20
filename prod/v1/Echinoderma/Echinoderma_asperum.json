@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "09/15/2026,28433050489712012",
   "08/31/2026,28202427676107629",
   "07/06/2026,27569344712749265",
   "06/30/2026,27415837638099974",
@@ -25,7 +26,9 @@
   "粗糙棘皮菌",
   "銳鱗環柄菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Freckled Dapperling"
+ ],
  "url": "4031183900325344",
  "images": [
   {
@@ -287,6 +290,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Echinoderma_asperum_28202427676107629_beda1cd0-a509-11f1-91ca-67dcf1476147_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Echinoderma_asperum_28433050489712012_42637a10-b158-11f1-abcd-132dca8040b3_1.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Echinoderma_asperum_28433050489712012_42637a10-b158-11f1-abcd-132dca8040b3_2.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Echinoderma_asperum_28433050489712012_42637a10-b158-11f1-abcd-132dca8040b3_3.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Echinoderma_asperum_28433050489712012_42637a10-b158-11f1-abcd-132dca8040b3_4.jpg"
+  },
+  {
+   "author": "陳中城",
+   "image_src": "Echinoderma_asperum_28433050489712012_42637a10-b158-11f1-abcd-132dca8040b3_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -325,12 +348,12 @@
   "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "toxic",
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "粗糙棘皮菌，帽被直立錐狀褐鱗具大棉絮狀環，柄環下具褐鱗，氣味特殊，闊葉林地。",
+  "Note": "粗糙棘皮菌是一個有數個分支的復合群，菌蓋超過 5 cm、被直立錐狀褐鱗，菌褶常分叉，菌環大而棉絮狀，菌環下具褐鱗，氣味特殊，闊葉林地。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
@@ -342,5 +365,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253686/thumb.JPG"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

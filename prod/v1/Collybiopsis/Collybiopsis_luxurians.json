@@ -14,6 +14,8 @@
   }
  ],
  "date": [
+  "09/16/2026,28474159382267789",
+  "09/13/2026,28474159382267789",
   "08/28/2026,28168625549487842",
   "08/27/2026,28154551447561919",
   "08/26/2026,28139038125779918",
@@ -28,7 +30,10 @@
  "names_zhtw": [
   "華麗擬金錢菇"
  ],
- "names_en": [],
+ "names_en": [
+  "Luxury Caps",
+  "Luxuriant Thoughshank"
+ ],
  "url": "4031525210291213",
  "images": [
   {
@@ -266,6 +271,74 @@
   {
    "author": "江志緯",
    "image_src": "Collybiopsis_luxurians_28363384620011933_12575a40-adb0-11f1-a0b4-2b6607436e5f_9.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_1.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_2.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_3.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_4.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_5.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_6.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_7.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_8.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_9.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_10.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_11.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_12.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_13.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_14.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_15.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_16.jpg"
+  },
+  {
+   "author": "James Ho",
+   "image_src": "Collybiopsis_luxurians_28474159382267789_dc6f6e00-b303-11f1-a43a-51f251b6a8bf_17.jpg"
   }
  ],
  "names_zhcn": [
@@ -320,5 +393,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/10379126/thumb.jpg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }

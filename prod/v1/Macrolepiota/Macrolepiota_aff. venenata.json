@@ -2,6 +2,7 @@
  "genus": "Macrolepiota",
  "name": "aff. venenata",
  "date": [
+  "09/09/2026,28344614228555639",
   "07/06/2026,27492370253780045",
   "09/10/2024,8017255235051504",
   "08/03/2023,6258895354220843",
@@ -255,17 +256,17 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "毒大環柄菇之相似種，種小名venenata源自拉丁文venenum。菌蓋大、傘狀、被紅棕色之裂片狀鱗片、除中央外常大小不一而不呈同心圓排列；柄細長、基部膨大而傷後轉紅棕色。此物種可能有毒。",
+  "Note": "毒大環柄菇之相似種，種小名venenata源自拉丁文venenum。菌蓋大、傘狀、被紅棕色之裂片狀鱗片、除中央外常大小不一而不呈同心圓排列；柄細長、基部膨大而傷後轉紅棕色。此物種可能有毒。iNaturalist 無此分類單元，參考連結指向其所屬之 Chlorophyllum sect. Rhacodium（代用，非等同）。",
   "GrowthEco": "saprotrophic"
  },
  "inaturalist": [
   {
-   "name": "Chlorophyllum rhacodes",
-   "cname": "Shaggy Parasol",
-   "cname_zh": "粗鱗大環柄菇",
-   "url": "https://www.inaturalist.org/taxa/56535-Chlorophyllum-rhacodes",
-   "src": "https://static.inaturalist.org/photos/11608138/thumb.jpg"
+   "name": "Rhacodium",
+   "cname": "Chlorophyllum sect. Rhacodium",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1413392-Rhacodium",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/342332237/square.jpeg"
   }
  ],
- "timestamp": "20260912-210858"
+ "timestamp": "20260920-211351"
 }
