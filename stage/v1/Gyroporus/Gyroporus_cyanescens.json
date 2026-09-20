@@ -98,5 +98,49 @@
   "Note": "藍圓孔牛肝菌，種小名cyanescens意為「轉藍的」，指菌肉與孔面受傷後迅速轉為鮮豔深藍色，為本種最顯著特徵。菌蓋淡黃褐至奶油色、被細絨毛，幼時近球形；孔面初白，觸傷即藍變；柄同色，內部具腔室至中空（本屬共同特徵）。與松科等樹木形成外生菌根，生於地上。",
   "GrowthEco": "mycorrhizal"
  },
- "timestamp": "20260920-191726"
+ "inaturalist": [
+  {
+   "name": "Gyroporus cyanescens",
+   "cname": "Cornflower Bolete",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/335276",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/146375383/square.jpeg"
+  },
+  {
+   "name": "Gyroporus sp. 'cyanescens-PA01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1696828",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/224492848/square.jpeg"
+  },
+  {
+   "name": "Gyroporus sp. 'cyanescens-IN01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1696830",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/324887965/square.jpg"
+  },
+  {
+   "name": "Gyroporus cyanescens vinosovirescens",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1521484",
+   "src": ""
+  },
+  {
+   "name": "Gyroporus cyanescens lacteus",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1521485",
+   "src": ""
+  },
+  {
+   "name": "Gyroporus sp. 'AZ-cyanescens'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1696838",
+   "src": ""
+  }
+ ],
+ "timestamp": "20260920-211351"
 }
