@@ -2,6 +2,7 @@
  "genus": "Helvella",
  "name": "macropus",
  "date": [
+  "09/17/2026,28489607614056299",
   "07/09/2024,7647237952053236",
   "06/28/2024,7615587131884985",
   "06/28/2023,6141259465984433",
@@ -215,6 +216,26 @@
   {
    "author": "向高世",
    "image_src": "Helvella_macropus_685b6bc0-aa42-11ef-8d19-09fd426b53f1_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Helvella_macropus_28489607614056299_476592e0-b492-11f1-ad48-2b715efb10de_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Helvella_macropus_28489607614056299_476592e0-b492-11f1-ad48-2b715efb10de_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Helvella_macropus_28489607614056299_476592e0-b492-11f1-ad48-2b715efb10de_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Helvella_macropus_28489607614056299_476592e0-b492-11f1-ad48-2b715efb10de_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Helvella_macropus_28489607614056299_476592e0-b492-11f1-ad48-2b715efb10de_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -243,13 +264,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "40,150",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -265,5 +290,5 @@
    "src": "https://static.inaturalist.org/photos/17201342/thumb.jpg"
   }
  ],
- "timestamp": "20260918-134909"
+ "timestamp": "20260920-093721"
 }

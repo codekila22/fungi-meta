@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "gymnopus",
  "date": [
+  "09/10/2026,28503120196038374",
   "07/01/2026,27430937449923326",
   "06/15/2024,7526096820834017",
   "06/21/2023,6109321009178279",
@@ -175,6 +176,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Amanita_gymnopus_5c4b1ee0-754b-11f1-ad8d-814b59be874e_15.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_gymnopus_28503120196038374_6d9a6a90-b491-11f1-ad48-2b715efb10de_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_gymnopus_28503120196038374_6d9a6a90-b491-11f1-ad48-2b715efb10de_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_gymnopus_28503120196038374_6d9a6a90-b491-11f1-ad48-2b715efb10de_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_gymnopus_28503120196038374_6d9a6a90-b491-11f1-ad48-2b715efb10de_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_gymnopus_28503120196038374_6d9a6a90-b491-11f1-ad48-2b715efb10de_5.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_gymnopus_28503120196038374_6d9a6a90-b491-11f1-ad48-2b715efb10de_6.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_gymnopus_28503120196038374_6d9a6a90-b491-11f1-ad48-2b715efb10de_7.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Amanita_gymnopus_28503120196038374_6d9a6a90-b491-11f1-ad48-2b715efb10de_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -202,13 +235,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "8,20",
   "StalkLengthRangeValuess": "60,120",
-  "Rareness": "",
+  "HeightRangeValuess": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "toxic",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -224,5 +262,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/157476758/thumb.jpg"
   }
  ],
- "timestamp": "20260918-134909"
+ "timestamp": "20260920-093721"
 }

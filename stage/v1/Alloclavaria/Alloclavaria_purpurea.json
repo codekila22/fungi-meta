@@ -2,6 +2,7 @@
  "genus": "Alloclavaria",
  "name": "purpurea",
  "date": [
+  "09/13/2026,28476447778705616",
   "06/29/2024,7578317858945246",
   "09/13/2023,6400795863364124",
   "09/13/2023,6401465466630497",
@@ -160,6 +161,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Clavaria_purpurea_36efedc0-3672-11ef-b6d4-39e12646dc1a_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Alloclavaria_purpurea_28476447778705616_3c071080-b344-11f1-b779-d787305e07f9_1.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Alloclavaria_purpurea_28476447778705616_3c071080-b344-11f1-b779-d787305e07f9_2.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Alloclavaria_purpurea_28476447778705616_3c071080-b344-11f1-b779-d787305e07f9_3.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Alloclavaria_purpurea_28476447778705616_3c071080-b344-11f1-b779-d787305e07f9_4.jpg"
+  },
+  {
+   "author": "蔡古媧",
+   "image_src": "Alloclavaria_purpurea_28476447778705616_3c071080-b344-11f1-b779-d787305e07f9_5.jpg"
   }
  ],
  "synonym": [
@@ -196,13 +217,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "20,100",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -232,5 +257,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/446969404/square.jpg"
   }
  ],
- "timestamp": "20260918-134909"
+ "timestamp": "20260920-093721"
 }
