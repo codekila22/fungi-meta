@@ -272,7 +272,7 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "HeightRangeValuess": "2,10",
+  "HeightRangeValuess": "",
   "Rareness": "common",
   "Elevation": "low,mid",
   "Tropical": "no",
@@ -301,5 +301,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253492089/square.jpg"
   }
  ],
- "timestamp": "20260920-211351"
+ "timestamp": "20260924-195044"
 }

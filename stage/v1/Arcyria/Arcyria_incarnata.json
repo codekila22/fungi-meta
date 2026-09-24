@@ -6,7 +6,8 @@
   "06/17/2024,7518349538275412",
   "09/20/2023,6425267344250309",
   "09/13/2020,3110780192365724",
-  "05/14/2016,899835740126858"
+  "05/14/2016,899835740126858",
+  "04/19/2016,28551573364526390"
  ],
  "names_zhtw": [
   "粉紅團網黏菌"
@@ -137,6 +138,38 @@
   {
    "author": "陳雅芬",
    "image_src": "Arcyria_incarnata_99f06d20-9f52-11ef-b81a-452f52a19771_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_incarnata_28551573364526390_aac43800-b70d-11f1-a69e-5d5a834bb276_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_incarnata_28551573364526390_aac43800-b70d-11f1-a69e-5d5a834bb276_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_incarnata_28551573364526390_aac43800-b70d-11f1-a69e-5d5a834bb276_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_incarnata_28551573364526390_aac43800-b70d-11f1-a69e-5d5a834bb276_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_incarnata_28551573364526390_aac43800-b70d-11f1-a69e-5d5a834bb276_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_incarnata_28551573364526390_aac43800-b70d-11f1-a69e-5d5a834bb276_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_incarnata_28551573364526390_aac43800-b70d-11f1-a69e-5d5a834bb276_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Arcyria_incarnata_28551573364526390_aac43800-b70d-11f1-a69e-5d5a834bb276_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -164,17 +197,22 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "粉紅團網黏菌，種小名incarnata意為「肉色的」。孢子囊短圓柱狀、肉粉至淡紅色、密集群生；成熟後周皮脫落、彈性之毛體網伸展而鬆展；生於腐木上。"
+  "Note": "粉紅團網黏菌，種小名incarnata意為「肉色的」。孢子囊短圓柱狀、肉粉至淡紅色、密集群生；成熟後周皮脫落、彈性之毛體網伸展而鬆展；生於腐木上。\n子實體粉紅色，成熟後細毛體彈開，灑落一地淡淡粉色的孢子。細毛體柔軟膨鬆不堅挺，給人一種髮絲零亂的感覺。輕微用工具撥一下或吹一下，上方的細毛體很容易和下方孢子囊基部的淺盤狀構造分離。"
  },
  "inaturalist": [
   {
@@ -185,5 +223,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1675332/thumb.jpg"
   }
  ],
- "timestamp": "20260920-211351"
+ "timestamp": "20260924-195044"
 }
