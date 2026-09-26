@@ -226,5 +226,21 @@
   "Note": "玉木耳，變種名lactea意為「乳白色的」，指其純白色（為毛木耳之白色栽培變種）。子實體膠質耳狀、純白至乳白、上表面被細絨毛，叢生於闊葉樹枯木，為人工栽培品系。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20260924-195044"
+ "inaturalist": [
+  {
+   "name": "Auricularia cornea",
+   "cname": "Ear fungus",
+   "cname_zh": "角質木耳",
+   "url": "https://www.inaturalist.org/taxa/179230",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/120283404/square.jpg"
+  },
+  {
+   "name": "Auricularia sp. 'cornea-FL01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1697002",
+   "src": "https://static.inaturalist.org/photos/500309368/square.jpeg"
+  }
+ ],
+ "timestamp": "20260926-180217"
 }

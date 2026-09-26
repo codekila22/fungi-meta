@@ -2,6 +2,7 @@
  "genus": "Sparassis",
  "name": "cystidiosa",
  "date": [
+  "09/23/2026,28575425515474508",
   "08/03/2026,27835545819462485",
   "07/02/2024,7594126890697676",
   "06/28/2024,7582369958540036",
@@ -168,6 +169,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Sparassis_cystidiosa_27835545819462485_b915ed60-8fc4-11f1-9217-17fea985e4d8_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_28575425515474508_21cb20f0-b879-11f1-8426-e919341300a0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_28575425515474508_21cb20f0-b879-11f1-8426-e919341300a0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_28575425515474508_21cb20f0-b879-11f1-8426-e919341300a0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_28575425515474508_21cb20f0-b879-11f1-8426-e919341300a0_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sparassis_cystidiosa_28575425515474508_21cb20f0-b879-11f1-8426-e919341300a0_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -222,5 +243,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8580647/thumb.jpeg"
   }
  ],
- "timestamp": "20260924-195044"
+ "timestamp": "20260926-180217"
 }

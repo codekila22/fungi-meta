@@ -2,6 +2,7 @@
  "genus": "Hygrocybe",
  "name": "minutula",
  "date": [
+  "09/13/2026,28582722508078142",
   "07/15/2026,27592216587128744",
   "06/24/2026,27344678315215907",
   "08/03/2025,24047585724925199",
@@ -222,6 +223,14 @@
   {
    "author": "徐秀團",
    "image_src": "Hygrocybe_minutula_27592216587128744_77394fb0-8036-11f1-ad19-23a1d6387027_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_minutula_28582722508078142_82a9cbc0-b8a0-11f1-8426-e919341300a0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hygrocybe_minutula_28582722508078142_82a9cbc0-b8a0-11f1-8426-e919341300a0_2.jpg"
   }
  ],
  "synonym": [
@@ -258,15 +267,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "low,mid",
   "Tropical": "",
   "Seasons": "",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -296,5 +307,5 @@
    "src": ""
   }
  ],
- "timestamp": "20260924-195044"
+ "timestamp": "20260926-180217"
 }

@@ -2,6 +2,7 @@
  "genus": "Lentinus",
  "name": "squarrosulus",
  "date": [
+  "09/23/2026,28575351005481959",
   "08/16/2026,28004296395920759",
   "07/31/2026,27791544033862664",
   "06/21/2026,27322695704080835",
@@ -373,6 +374,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Lentinus_squarrosulus_28004296395920759_9aa21460-9976-11f1-abba-4d570d823012_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinus_squarrosulus_28575351005481959_474c2210-b8b1-11f1-8426-e919341300a0_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinus_squarrosulus_28575351005481959_474c2210-b8b1-11f1-8426-e919341300a0_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinus_squarrosulus_28575351005481959_474c2210-b8b1-11f1-8426-e919341300a0_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinus_squarrosulus_28575351005481959_474c2210-b8b1-11f1-8426-e919341300a0_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinus_squarrosulus_28575351005481959_474c2210-b8b1-11f1-8426-e919341300a0_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lentinus_squarrosulus_28575351005481959_474c2210-b8b1-11f1-8426-e919341300a0_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -428,5 +453,5 @@
    "src": "https://static.inaturalist.org/photos/102975356/thumb.jpeg"
   }
  ],
- "timestamp": "20260924-195044"
+ "timestamp": "20260926-180217"
 }
