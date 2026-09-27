@@ -2,6 +2,7 @@
  "genus": "Favolaschia",
  "name": "calocera",
  "date": [
+  "09/26/2026,28609214868762239",
   "08/29/2026,28209478638735866",
   "08/21/2026,28081769841506747",
   "07/28/2026,27759436547073413",
@@ -502,6 +503,22 @@
   {
    "author": "朱艷",
    "image_src": "Favolaschia_calocera_28081769841506747_b3f168c0-9dff-11f1-aefc-c12ac16397f5_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_calocera_28609214868762239_00dd04c0-ba0a-11f1-9453-83049668c324_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_calocera_28609214868762239_00dd04c0-ba0a-11f1-9453-83049668c324_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_calocera_28609214868762239_00dd04c0-ba0a-11f1-9453-83049668c324_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Favolaschia_calocera_28609214868762239_00dd04c0-ba0a-11f1-9453-83049668c324_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -570,5 +587,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89984/thumb.jpg"
   }
  ],
- "timestamp": "20260920-211351"
+ "timestamp": "20260927-090703"
 }
