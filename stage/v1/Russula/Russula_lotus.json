@@ -1,6 +1,6 @@
 {
  "genus": "Russula",
- "name": "aff. lotus",
+ "name": "lotus",
  "date": [
   "07/07/2026,27501540239529713",
   "08/12/2025,24726840316999733",
@@ -10,7 +10,7 @@
   "05/13/2023,7746949585415405"
  ],
  "names_zhtw": [
-  "荷花紅菇的相似種"
+  "荷花紅菇"
  ],
  "names_en": [],
  "url": "7746949585415405",
@@ -221,7 +221,7 @@
   }
  ],
  "names_zhcn": [
-  "荷花红菇的相似种"
+  "荷花红菇"
  ],
  "meta": {
   "CapColors": "4294967295,4294901760",
@@ -259,14 +259,5 @@
   "Note": "荷花紅菇的相似種，種小名lotus意為「蓮、荷」。菌蓋堅實、幼時白色、成熟後漸現淡粉紅色；菌褶密、白至奶油色、質脆；柄白而結實；與樹木共生為外生菌根菌。",
   "GrowthEco": "mycorrhizal"
  },
- "inaturalist": [
-  {
-   "name": "Russula lotus",
-   "cname": "",
-   "cname_zh": "荷花紅菇",
-   "url": "https://www.inaturalist.org/taxa/1396257-Russula-lotus",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253235552/thumb.jpg"
-  }
- ],
- "timestamp": "20260927-090703"
+ "timestamp": "20261003-140651"
 }
