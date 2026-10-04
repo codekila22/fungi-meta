@@ -2,6 +2,7 @@
  "genus": "Phaeoclavulina",
  "name": "cyanocephala",
  "date": [
+  "09/14/2026,28419326221084439",
   "09/11/2026,28373280649022330",
   "09/05/2026,28281184808231915",
   "08/27/2026,28154032090947188",
@@ -261,6 +262,26 @@
   {
    "author": "黃金興",
    "image_src": "Phaeoclavulina_cyanocephala_28373280649022330_4580c940-ae2f-11f1-bb23-a99f6bf963e0_5.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Phaeoclavulina_cyanocephala_28419326221084439_072ed210-bf94-11f1-82cf-51a65cc2aa86_1.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Phaeoclavulina_cyanocephala_28419326221084439_072ed210-bf94-11f1-82cf-51a65cc2aa86_2.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Phaeoclavulina_cyanocephala_28419326221084439_072ed210-bf94-11f1-82cf-51a65cc2aa86_3.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Phaeoclavulina_cyanocephala_28419326221084439_072ed210-bf94-11f1-82cf-51a65cc2aa86_4.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Phaeoclavulina_cyanocephala_28419326221084439_072ed210-bf94-11f1-82cf-51a65cc2aa86_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -315,5 +336,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/26895353/thumb.jpeg"
   }
  ],
- "timestamp": "20261003-140651"
+ "timestamp": "20261004-135302"
 }
