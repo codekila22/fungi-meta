@@ -2,6 +2,7 @@
  "genus": "Amanita",
  "name": "muscaria",
  "date": [
+  "10/02/2026,28678517191832006",
   "10/25/2025,24786591834357914",
   "09/23/2025,24461062886910812",
   "12/08/2024,8647018922075129",
@@ -91,6 +92,26 @@
   {
    "author": "黃世仁",
    "image_src": "Amanita_muscaria_52ce1650-b224-11f0-ae7a-71b0609f3224_5.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Amanita_muscaria_28678517191832006_76261120-bf93-11f1-82cf-51a65cc2aa86_1.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Amanita_muscaria_28678517191832006_76261120-bf93-11f1-82cf-51a65cc2aa86_2.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Amanita_muscaria_28678517191832006_76261120-bf93-11f1-82cf-51a65cc2aa86_3.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Amanita_muscaria_28678517191832006_76261120-bf93-11f1-82cf-51a65cc2aa86_4.jpg"
+  },
+  {
+   "author": "林雪",
+   "image_src": "Amanita_muscaria_28678517191832006_76261120-bf93-11f1-82cf-51a65cc2aa86_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -206,5 +227,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/182600647/thumb.jpeg"
   }
  ],
- "timestamp": "20260927-090703"
+ "timestamp": "20261005-165710"
 }

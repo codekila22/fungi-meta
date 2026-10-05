@@ -1,7 +1,8 @@
 {
  "genus": "Russula",
- "name": "aff. lotus",
+ "name": "lotus",
  "date": [
+  "09/19/2026,28524485883901805",
   "07/07/2026,27501540239529713",
   "08/12/2025,24726840316999733",
   "10/20/2024,8356296357814055",
@@ -10,7 +11,7 @@
   "05/13/2023,7746949585415405"
  ],
  "names_zhtw": [
-  "荷花紅菇的相似種"
+  "荷花紅菇"
  ],
  "names_en": [],
  "url": "7746949585415405",
@@ -218,10 +219,38 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Russula_aff. lotus_0b7d61a0-79f9-11f1-bef5-4bf57cd7d16b_8.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_lotus_28524485883901805_9c056420-bef5-11f1-aabe-d7040f7d813c_1.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_lotus_28524485883901805_9c056420-bef5-11f1-aabe-d7040f7d813c_2.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_lotus_28524485883901805_9c056420-bef5-11f1-aabe-d7040f7d813c_3.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_lotus_28524485883901805_9c056420-bef5-11f1-aabe-d7040f7d813c_4.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_lotus_28524485883901805_9c056420-bef5-11f1-aabe-d7040f7d813c_5.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_lotus_28524485883901805_9c056420-bef5-11f1-aabe-d7040f7d813c_6.jpg"
+  },
+  {
+   "author": "陳雅芬",
+   "image_src": "Russula_lotus_28524485883901805_9c056420-bef5-11f1-aabe-d7040f7d813c_7.jpg"
   }
  ],
  "names_zhcn": [
-  "荷花红菇的相似种"
+  "荷花红菇"
  ],
  "meta": {
   "CapColors": "4294967295,4294901760",
@@ -246,17 +275,21 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "荷花紅菇的相似種，種小名lotus意為「蓮、荷」。菌蓋堅實、幼時白色、成熟後漸現淡粉紅色；菌褶密、白至奶油色、質脆；柄白而結實；與樹木共生為外生菌根菌。",
+  "Note": "荷花紅菇​(Russula lotus) 是 2018 年由中國學者（Li & Deng）於華南地區發現並發表的紅菇屬新種，​主要特徵​菌蓋淡粉紅色至紫粉紅色，菌蓋中心顏色較淺，呈黃白色至乳白色，配色如荷花般，因而得名荷花 (lotus)。\n菌蓋中等大小，約 3–5 cm，邊緣呈淡粉紅色至紫粉紅色，而中心顏色明顯退淡，呈黃白色至乳白色。成熟時中央常呈現淺凹陷，邊緣略具放射狀溝紋。\n​菌褶白色至乳白色，排列較為緊密，褶間靠近菌柄處偶爾有分叉，並混有短菌褶，而平行的菌褶溝縫底部，可以看到微小的橫向脈絡連接。\n​菌柄乳白色，表面光滑，圓柱狀。幼時為實心，成熟後內部質地逐漸鬆軟，常呈現海綿狀空腔或局部腔隙，並非薄壁管狀中空。\n氣味極不明顯或無特殊氣味；菌肉味道溫和，無辛辣感或苦味。屬於外生菌根真菌，多單生或散生於熱帶至亞熱帶的闊葉樹下（如殼斗科或樟科林木）。",
   "GrowthEco": "mycorrhizal"
  },
  "inaturalist": [
@@ -264,9 +297,9 @@
    "name": "Russula lotus",
    "cname": "",
    "cname_zh": "荷花紅菇",
-   "url": "https://www.inaturalist.org/taxa/1396257-Russula-lotus",
-   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253235552/thumb.jpg"
+   "url": "https://www.inaturalist.org/taxa/1396257",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/253235552/square.jpg"
   }
  ],
- "timestamp": "20260927-090703"
+ "timestamp": "20261005-165710"
 }

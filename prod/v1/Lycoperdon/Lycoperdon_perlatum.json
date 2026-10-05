@@ -2,6 +2,7 @@
  "genus": "Lycoperdon",
  "name": "perlatum",
  "date": [
+  "09/21/2026,28613693814981011",
   "09/18/2026,28495802436770150",
   "06/20/2026,27347180711632334",
   "01/03/2025,8826876504089369",
@@ -449,6 +450,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Lycoperdon_perlatum_28495802436770150_f2903bd0-b478-11f1-ad48-2b715efb10de_5.jpg"
+  },
+  {
+   "author": "Bill Hwang",
+   "image_src": "Lycoperdon_perlatum_28613693814981011_3ad2ecd0-bef6-11f1-aabe-d7040f7d813c_1.jpg"
+  },
+  {
+   "author": "Bill Hwang",
+   "image_src": "Lycoperdon_perlatum_28613693814981011_3ad2ecd0-bef6-11f1-aabe-d7040f7d813c_2.jpg"
+  },
+  {
+   "author": "Bill Hwang",
+   "image_src": "Lycoperdon_perlatum_28613693814981011_3ad2ecd0-bef6-11f1-aabe-d7040f7d813c_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -503,5 +516,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/237728653/thumb.jpg"
   }
  ],
- "timestamp": "20260927-090703"
+ "timestamp": "20261005-165710"
 }

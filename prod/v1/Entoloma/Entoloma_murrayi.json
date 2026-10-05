@@ -2,6 +2,7 @@
  "genus": "Entoloma",
  "name": "murrayi",
  "date": [
+  "09/26/2026,28629184353431957",
   "09/06/2026,28383065384710523",
   "07/25/2026,27714345278249207",
   "07/14/2026,27587777664239303",
@@ -179,6 +180,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Entoloma_murrayi_28383065384710523_d7cd3ab0-ae64-11f1-bb23-a99f6bf963e0_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_28629184353431957_5d812e70-bc87-11f1-839c-f39e61e6d74a_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_28629184353431957_5d812e70-bc87-11f1-839c-f39e61e6d74a_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_28629184353431957_5d812e70-bc87-11f1-839c-f39e61e6d74a_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_28629184353431957_5d812e70-bc87-11f1-839c-f39e61e6d74a_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_28629184353431957_5d812e70-bc87-11f1-839c-f39e61e6d74a_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Entoloma_murrayi_28629184353431957_5d812e70-bc87-11f1-839c-f39e61e6d74a_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -231,5 +256,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/414882/thumb.JPG"
   }
  ],
- "timestamp": "20260927-090703"
+ "timestamp": "20261005-165710"
 }

@@ -1,5 +1,5 @@
 {
- "timestamp": "20260927-090703",
+ "timestamp": "20261005-165710",
  "list": [
   "Abortiporus biennis|Polypores|wood|50,150|4294919424,4291998860,4283244288",
   "Absidia sp.1|Parasitic,Molds|parasitic||4294967295",
@@ -747,7 +747,7 @@
   "Descolea quercina|Agarics|ground|50,70|4286141768,4283788079",
   "Diachea aff. aurantipes|Slime Molds|leaves||4286141768,4294083840",
   "Diachea dictyospora|Slime Molds|leaves||4286141768,4294967040",
-  "Diachea leucopodia|Slime Molds|leaves||4278190080,4284635991",
+  "Diachea leucopodia|Slime Molds|wood,debris,leaves||4278190080,4284635991",
   "Diachea obovata|Slime Molds|leaves||4289309097,4286141768,4294967295",
   "Diachea splendens|Slime Molds|leaves||4278190080",
   "Diachea subsessilis|Slime Molds|leaves||4286141768,4284635991,4278190080",
@@ -2097,7 +2097,6 @@
   "Rugiboletus extremiorientalis|Boletes|ground|55,200|4291998860,4294956800,4290278195",
   "Russula adusta|Agarics|ground|50,200|4285098345,4278190080,4294967295",
   "Russula aeruginea|Agarics|ground|40,100|4281240407,4283788079,4285238819",
-  "Russula aff. lotus|Agarics|ground||4294967295,4294901760",
   "Russula alboareolata|Agarics|ground|50,80|4294309365,4294967295",
   "Russula albonigra|Agarics|ground|40,200|4294309365,4278190080",
   "Russula amoena|Agarics|ground|20,50|4291998860",
@@ -2124,6 +2123,7 @@
   "Russula grisea|Agarics|ground|50,110|4289309097",
   "Russula japonica|Agarics|ground|50,150|4294309365,4292664540",
   "Russula kansaiensis|Agarics|wood,ground|10,25|4282843172,4288768839,4288696877",
+  "Russula lotus|Agarics|ground||4294967295,4294901760",
   "Russula ochroleuca|Agarics|ground|50,120|4292519200,4294962944",
   "Russula olivacea|Agarics|ground|100,300|4286141768,4290547599",
   "Russula paludosa|Agarics|ground|60,200|4286578688,4288217142",
