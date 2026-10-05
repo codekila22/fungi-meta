@@ -2,6 +2,7 @@
  "genus": "Irpex",
  "name": "latemarginatus",
  "date": [
+  "09/24/2026,28678640811819644",
   "09/12/2026,28388020510881677",
   "08/15/2026,28069068456110219",
   "07/18/2026,27792572597093141",
@@ -449,6 +450,18 @@
   {
    "author": "江志緯",
    "image_src": "Irpex_latemarginatus_27792572597093141_57af61a0-8cef-11f1-97b3-49feec88cef3_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Irpex_latemarginatus_28678640811819644_0c737d20-bfe4-11f1-9d91-155dd1741d55_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Irpex_latemarginatus_28678640811819644_0c737d20-bfe4-11f1-9d91-155dd1741d55_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Irpex_latemarginatus_28678640811819644_0c737d20-bfe4-11f1-9d91-155dd1741d55_3.jpg"
   }
  ],
  "synonym": [
@@ -510,5 +523,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/318907938/square.jpeg"
   }
  ],
- "timestamp": "20261004-135302"
+ "timestamp": "20261005-165710"
 }
