@@ -2,6 +2,7 @@
  "genus": "Volvariella",
  "name": "subtaylori",
  "date": [
+  "10/05/2026,28728277293522662",
   "07/31/2026,28453970910953303",
   "10/26/2025,24796897403327357",
   "08/17/2023,6304791232964588",
@@ -153,6 +154,14 @@
   {
    "author": "江志緯",
    "image_src": "Volvariella_subtaylori_87f24650-b213-11f0-84be-f5bba386e204_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Volvariella_subtaylori_28728277293522662_df0c8050-c157-11f1-92cd-9bbe3247a593_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Volvariella_subtaylori_28728277293522662_df0c8050-c157-11f1-92cd-9bbe3247a593_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -203,5 +212,5 @@
    "src": "https://static.inaturalist.org/photos/465153863/thumb.jpeg"
   }
  ],
- "timestamp": "20261005-165710"
+ "timestamp": "20261009-175613"
 }

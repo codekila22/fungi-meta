@@ -2,6 +2,7 @@
  "genus": "Polycephalomyces",
  "name": "tomentosus",
  "date": [
+  "10/05/2026,28738591612491230",
   "01/04/2026,25432251393125285",
   "01/04/2025,8794952283948458",
   "04/28/2024,7282527358524299",
@@ -226,6 +227,14 @@
   {
    "author": "江志緯",
    "image_src": "Polycephalomyces_tomentosus_536cad80-eb8e-11f0-9256-f996bf44aa61_10.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Polycephalomyces_tomentosus_28738591612491230_120e5cd0-c158-11f1-92cd-9bbe3247a593_1.jpg"
+  },
+  {
+   "author": "吳明勳",
+   "image_src": "Polycephalomyces_tomentosus_28738591612491230_120e5cd0-c158-11f1-92cd-9bbe3247a593_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -253,13 +262,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "",
   "Rareness": "",
-  "Seasons": "",
+  "Elevation": "",
+  "Tropical": "",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "",
   "GrowthEnv": "parasitic",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -274,5 +288,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/116918264/thumb.jpg"
   }
  ],
- "timestamp": "20261005-165710"
+ "timestamp": "20261009-175613"
 }

@@ -2,6 +2,7 @@
  "genus": "Crucibulum",
  "name": "laeve",
  "date": [
+  "09/18/2026,28786390564378001",
   "11/06/2025,24917899507893812",
   "10/12/2024,8315348988575459",
   "08/11/2024,7827213734055656",
@@ -243,6 +244,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Crucibulum_laeve_315fa210-bc72-11f0-861e-9ff72c9295f4_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crucibulum_laeve_28786390564378001_28896dd0-c3b8-11f1-875b-fdd8790eff2a_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crucibulum_laeve_28786390564378001_28896dd0-c3b8-11f1-875b-fdd8790eff2a_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crucibulum_laeve_28786390564378001_28896dd0-c3b8-11f1-875b-fdd8790eff2a_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crucibulum_laeve_28786390564378001_28896dd0-c3b8-11f1-875b-fdd8790eff2a_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crucibulum_laeve_28786390564378001_28896dd0-c3b8-11f1-875b-fdd8790eff2a_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -293,5 +314,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/33650330/thumb.jpeg"
   }
  ],
- "timestamp": "20261005-165710"
+ "timestamp": "20261009-175613"
 }
