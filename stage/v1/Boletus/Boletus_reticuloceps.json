@@ -2,6 +2,7 @@
  "genus": "Boletus",
  "name": "reticuloceps",
  "date": [
+  "10/07/2026,28784198567930534",
   "09/07/2026,28404894072527654",
   "08/28/2025,24250075121342924",
   "06/11/2025,9857857464324596",
@@ -256,6 +257,30 @@
   {
    "author": "吳湯姆",
    "image_src": "Boletus_reticuloceps_28404894072527654_0a69e0e0-afd2-11f1-8c8b-57fda91fc400_16.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_reticuloceps_28784198567930534_46130380-c3ee-11f1-af41-6314ee5b6799_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_reticuloceps_28784198567930534_46130380-c3ee-11f1-af41-6314ee5b6799_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_reticuloceps_28784198567930534_46130380-c3ee-11f1-af41-6314ee5b6799_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_reticuloceps_28784198567930534_46130380-c3ee-11f1-af41-6314ee5b6799_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_reticuloceps_28784198567930534_46130380-c3ee-11f1-af41-6314ee5b6799_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Boletus_reticuloceps_28784198567930534_46130380-c3ee-11f1-af41-6314ee5b6799_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -284,14 +309,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
   "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -307,5 +335,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/238215162/thumb.jpg"
   }
  ],
- "timestamp": "20261009-175613"
+ "timestamp": "20261010-152518"
 }

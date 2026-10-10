@@ -9,6 +9,7 @@
   }
  ],
  "date": [
+  "10/06/2026,28786811477669243",
   "11/06/2024,8487435504700139",
   "06/19/2023,6120349594742087",
   "07/28/2021,3996151283828606",
@@ -87,6 +88,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Phaeotremella_foliacea_d45a5840-9f52-11ef-b81a-452f52a19771_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeotremella_foliacea_28786811477669243_e4067fe0-c3ee-11f1-af41-6314ee5b6799_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeotremella_foliacea_28786811477669243_e4067fe0-c3ee-11f1-af41-6314ee5b6799_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeotremella_foliacea_28786811477669243_e4067fe0-c3ee-11f1-af41-6314ee5b6799_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeotremella_foliacea_28786811477669243_e4067fe0-c3ee-11f1-af41-6314ee5b6799_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Phaeotremella_foliacea_28786811477669243_e4067fe0-c3ee-11f1-af41-6314ee5b6799_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -115,13 +136,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "clustered",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -158,5 +183,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261009-175613"
+ "timestamp": "20261010-152518"
 }

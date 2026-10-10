@@ -2,6 +2,7 @@
  "genus": "Ramariopsis",
  "name": "crocea",
  "date": [
+  "10/06/2026,28777498961933828",
   "09/07/2026,28342214452128950",
   "07/22/2026,27693715163645552",
   "06/26/2026,27394375603579511",
@@ -158,6 +159,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Ramariopsis_crocea_28342214452128950_3e03f610-acae-11f1-a851-95c9e302b008_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ramariopsis_crocea_28777498961933828_ff83c1a0-c462-11f1-8112-bf78749cbc7d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ramariopsis_crocea_28777498961933828_ff83c1a0-c462-11f1-8112-bf78749cbc7d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ramariopsis_crocea_28777498961933828_ff83c1a0-c462-11f1-8112-bf78749cbc7d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Ramariopsis_crocea_28777498961933828_ff83c1a0-c462-11f1-8112-bf78749cbc7d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -214,5 +231,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5303051/thumb.jpg"
   }
  ],
- "timestamp": "20261009-175613"
+ "timestamp": "20261010-152518"
 }

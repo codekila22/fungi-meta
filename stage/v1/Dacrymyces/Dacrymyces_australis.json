@@ -19,6 +19,7 @@
   }
  ],
  "date": [
+  "10/06/2026,28802487566101634",
   "12/03/2023,6735643419879365",
   "09/11/2023,6406979192745791",
   "03/14/2023,5792808447496205",
@@ -160,6 +161,46 @@
   {
    "author": "江志緯",
    "image_src": "Dacrymyces_australis_fd51fa90-9883-11ee-8bc6-033add2135ca_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacrymyces_australis_28802487566101634_005608f0-c467-11f1-8112-bf78749cbc7d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacrymyces_australis_28802487566101634_005608f0-c467-11f1-8112-bf78749cbc7d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacrymyces_australis_28802487566101634_005608f0-c467-11f1-8112-bf78749cbc7d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacrymyces_australis_28802487566101634_005608f0-c467-11f1-8112-bf78749cbc7d_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacrymyces_australis_28802487566101634_005608f0-c467-11f1-8112-bf78749cbc7d_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacrymyces_australis_28802487566101634_005608f0-c467-11f1-8112-bf78749cbc7d_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacrymyces_australis_28802487566101634_005608f0-c467-11f1-8112-bf78749cbc7d_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacrymyces_australis_28802487566101634_005608f0-c467-11f1-8112-bf78749cbc7d_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacrymyces_australis_28802487566101634_005608f0-c467-11f1-8112-bf78749cbc7d_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Dacrymyces_australis_28802487566101634_005608f0-c467-11f1-8112-bf78749cbc7d_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -188,13 +229,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "2,10",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -210,5 +255,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261009-175613"
+ "timestamp": "20261010-152518"
 }

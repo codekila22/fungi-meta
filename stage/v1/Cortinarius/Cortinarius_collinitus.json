@@ -2,6 +2,7 @@
  "genus": "Cortinarius",
  "name": "collinitus",
  "date": [
+  "10/07/2026,28802373502779707",
   "09/07/2026,28339040472446348",
   "09/07/2026,28419678384382556",
   "09/06/2026,28359046343779094",
@@ -390,6 +391,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Cortinarius_collinitus_28419678384382556_2f3abd10-b0d4-11f1-b358-49045ca9f504_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_collinitus_28802373502779707_45ab6f00-c465-11f1-8112-bf78749cbc7d_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_collinitus_28802373502779707_45ab6f00-c465-11f1-8112-bf78749cbc7d_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_collinitus_28802373502779707_45ab6f00-c465-11f1-8112-bf78749cbc7d_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_collinitus_28802373502779707_45ab6f00-c465-11f1-8112-bf78749cbc7d_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_collinitus_28802373502779707_45ab6f00-c465-11f1-8112-bf78749cbc7d_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_collinitus_28802373502779707_45ab6f00-c465-11f1-8112-bf78749cbc7d_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_collinitus_28802373502779707_45ab6f00-c465-11f1-8112-bf78749cbc7d_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Cortinarius_collinitus_28802373502779707_45ab6f00-c465-11f1-8112-bf78749cbc7d_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -458,5 +491,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/106387280/thumb.jpg"
   }
  ],
- "timestamp": "20261009-175613"
+ "timestamp": "20261010-152518"
 }

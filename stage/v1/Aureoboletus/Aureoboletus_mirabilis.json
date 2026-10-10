@@ -2,6 +2,7 @@
  "genus": "Aureoboletus",
  "name": "mirabilis",
  "date": [
+  "10/07/2026,28784268724590185",
   "09/07/2026,28349322474751481",
   "06/15/2024,7540396812737351",
   "07/11/2023,6186645668112479",
@@ -132,6 +133,58 @@
   {
    "author": "吳湯姆",
    "image_src": "Aureoboletus_mirabilis_28349322474751481_0f7d9fb0-ace7-11f1-a851-95c9e302b008_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_1.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_2.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_3.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_4.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_5.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_6.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_7.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_8.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_9.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_10.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_11.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_12.jpg"
+  },
+  {
+   "author": "吳湯姆",
+   "image_src": "Aureoboletus_mirabilis_28784268724590185_db2095c0-c3ec-11f1-af41-6314ee5b6799_13.jpg"
   }
  ],
  "names_zhcn": [
@@ -169,7 +222,7 @@
   "NearHome": "",
   "Bruising": "yellow",
   "Bioluminescent": "",
-  "Edible": "",
+  "Edible": "choice",
   "Cultivated": "",
   "Smell": "",
   "Taste": "",
@@ -186,5 +239,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/11502862/thumb.jpg"
   }
  ],
- "timestamp": "20261009-175613"
+ "timestamp": "20261010-152518"
 }
