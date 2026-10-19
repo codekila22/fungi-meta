@@ -2,6 +2,7 @@
  "genus": "Pleuroflammula",
  "name": "flammea",
  "date": [
+  "10/15/2026,28890639047286485",
   "12/23/2025,25340841862266239",
   "12/04/2025,25154898290860598",
   "04/01/2025,9321952114581803",
@@ -304,6 +305,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Pleuroflammula_flammea_25d03cf0-e23a-11f0-bac7-9fe6c1617890_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pleuroflammula_flammea_28890639047286485_357c61b0-ca7e-11f1-8a32-1738fe0ca472_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pleuroflammula_flammea_28890639047286485_357c61b0-ca7e-11f1-8a32-1738fe0ca472_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Pleuroflammula_flammea_28890639047286485_357c61b0-ca7e-11f1-8a32-1738fe0ca472_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -354,5 +367,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/173016823/thumb.jpg"
   }
  ],
- "timestamp": "20261005-165710"
+ "timestamp": "20261019-092857"
 }

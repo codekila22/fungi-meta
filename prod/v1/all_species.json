@@ -1,5 +1,5 @@
 {
- "timestamp": "20261005-165710",
+ "timestamp": "20261019-092857",
  "config": {
   "cover": {
    "image": "cover-photo-3.jpg",
@@ -519,6 +519,7 @@
    "Cryptomarasmius,隱皮傘屬,隐皮伞属",
    "Cuphophyllus,拱頂菇屬,拱顶菇属",
    "Cyclocybe,環傘屬,环伞属",
+   "Cynema,革色菇屬,革色菇属",
    "Cyphella,檳榔蕈屬,槟榔蕈属",
    "Cyptotrama,鱗蓋傘屬,鳞盖伞属",
    "Cystoderma,囊皮傘屬,囊皮伞属",
@@ -1103,7 +1104,7 @@
    "Turbinellus,釘菇屬,钉菇属"
   ]
  },
- "total_species": 2523,
+ "total_species": 2527,
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌,Blushing Rosette,二年殘孔菌，種小名biennis意為「二年生的」。子實體扇形、半圓形至漏斗狀，常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白或淡黃而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。",
   "Absidia sp.1,犁頭黴,犁头霉,,犁頭黴，菌絲發達，於匍匐菌絲間生出孢囊柄，頂端著生梨形之孢子囊、囊軸與囊托明顯；本紀錄似寄生於成熟之黏菌上，為一尚待鑑定之種。",
@@ -1302,7 +1303,7 @@
   "Arcyria oerstedii,奧氏團網黏菌,奥氏团网黏菌",
   "Arcyria pomiformis,果形團網黏菌,果形团网黏菌",
   "Armillaria gallica,高盧蜜環菌,高卢蜜环菌,Bulbous Honey Fungus 法國蜜環菌 法国蜜环菌,高盧蜜環菌，種小名gallica意為「高盧（法國）的」。菌蓋蜜黃至黃褐色、被細鱗；菌褶白至淡黃；柄具一菌環、基部膨大呈球狀；能形成黑色根狀菌索（rhizomorph），為北半球廣布之複合群。此物種在北半球廣泛分佈，但可能包含了數種複合群。",
-  "Armillaria mellea,蜜環菌,蜜环菌,Honey Mushroom 榛蘑 榛蘑,蜜環菌，種小名mellea意為「蜜色的」，指其菌蓋之蜜黃色。菌蓋蜜黃至黃褐色、被暗色細鱗；菌褶白至淡黃、延生；柄具一膜質菌環；能形成黑色根狀菌索、為林木之根部病原，常叢生。菌柄上有菌環，生長的枯木上具有一條一條的黑色菌索，菌絲體可能會發弱光，但是子實體不會自發光。台灣本島中海拔山區偶見。",
+  "Armillaria mellea,蜜環菌,蜜环菌,Honey Mushroom 榛蘑 榛蘑,蜜環菌，種小名mellea意為「蜜色的」，指其菌蓋之蜜黃色。菌蓋蜜黃至黃褐色、被暗色細鱗；菌褶白至淡黃、延生；柄具一膜質菌環；能形成黑色根狀菌索、為林木之根部病原，常叢生。菌柄上有菌環，生長的枯木上具有一條一條的黑色菌索，菌絲體可能會發弱光，但是子實體不會自發光。台灣本島中海拔山區偶見，春秋兩季較容易發現。",
   "Armillaria ostoyae,奧氏蜜環菌,奥氏蜜环菌,Honey Mushroom,奧氏蜜環菌，種小名ostoyae紀念採集者Ostoya。菌蓋蜜黃至紅褐色、被暗色細鱗；菌褶白至淡黃；柄具一膜質菌環；能形成黑色根狀菌索、為針葉林之根部病原，其菌絲網絡可綿延極廣。生長在針葉木的直立枯木或倒木上。",
   "Armillaria tabescens,無環蜜環菌/假蜜環菌/光松口蜜環菌,无环蜜环菌/假蜜环菌/光松口蜜环菌",
   "Arrhenia acerosa,銳葉蘚臍菇,锐叶藓脐菇,Moss Oysterling,銳葉蘚臍菇，種小名acerosa意為「針狀的、細尖的」。子實體小型而無柄、扇形至腎形、側生附著，菌蓋灰褐至暗灰、具變水性，菌褶白至灰、明顯延生而輻射自附著點，肉薄，群生於腐木、苔蘚與潮濕之草本殘體。",
@@ -1901,6 +1902,7 @@
   "Cymatoderma dendriticum,樹枝狀波邊革菌,树枝状波边革菌,,樹枝狀波邊革菌，種小名dendriticum意為「樹枝狀的」，指其放射狀之分枝稜脊。子實體漏斗至扇形、革質、菌蓋表面具放射狀稜脊而緣波曲；喜好生長在黃藤枯枝上，但也可能在其他枯枝上發現。",
   "Cymatoderma elegans,優雅波邊革菌,优雅波边革菌,Leathery Goblet,優雅波邊革菌，漏斗形帽具放射狀皺褶、褐色同心環紋，下表面白色多皺，中生柄。",
   "Cymatoderma lamellatum,片狀波邊革菌,片状波边革菌",
+  "Cynema alutacea,革質類小菇(暫名),革质类小菇(暂名),,革質類小菇，屬名 Cynema 由 Maas Geesteranus 與 Horak 於1995年依巴布亞紐幾內亞採集標本發表（載於〈Mycena and related genera from Papua New Guinea and New Caledonia〉），為單種屬，本種即其模式種。子實體呈典型小菇型（mycenoid）：菌蓋鐘形至扁半球形，具放射狀細條紋，為吸濕性（hygrophanous）薄膜質，濕時中央呈褐色、向外漸褪為灰白至灰藍，乾後轉為均勻之革（皮革）色，故種小名 alutacea 意為「皮革色的」；菌柄細長、近透明灰白；菌褶色淺、邊緣細鋸齒狀。生於熱帶雨林腐木上，叢生，營腐生。",
   "Cyphella ferruginea,鏽毛檳榔蕈,锈毛槟榔蕈,鏽毛掛鐘菌 锈毛挂钟菌,鏽毛檳榔蕈，種小名ferruginea意為「鏽色的」，指其被覆之鏽色細毛。子實體杯狀至鐘狀、倒懸、外面被鏽褐色之毛、內側（子實層）平滑；生於枯枝落葉上，為一杯菌狀真菌。",
   "Cyphella maxima,大型檳榔菌,大型槟榔菌,,大型檳榔菌，種小名maxima意為「最大的」。子實體杯狀至鐘狀、倒懸、較本屬他種為大、外面被細毛、內側（子實層）平滑；生於枯枝落葉上，為一杯菌狀真菌。",
   "Cyptotrama asprata,金黃鱗蓋傘,金黄鳞盖伞,Golden-scruffy Collybia Spiny Woodknight 粗糙鱗蓋傘 粗糙乾蘑 粗糙鳞盖伞 粗糙干蘑,金黃鱗蓋傘，種小名asprata意為「粗糙的」，指其被翹鱗而粗糙之菌蓋。菌蓋鮮金黃至橙黃色、密被錐狀翹鱗；菌褶白色、延生；柄具細鱗、與菌蓋同色；生於闊葉樹枯木上，偶見白色型。常有白色型出現。",
@@ -3328,6 +3330,7 @@
   "Pisolithus tinctorius,彩色豆馬勃,彩色豆马勃,Dead Man's Foot Dyeball 染料豆馬勃 砂生豆馬勃 死人足 染料豆马勃 砂生豆马勃 死人足,彩色豆馬勃，種小名tinctorius意為「染色用的」。子實體大、塊莖狀、黃褐至暗褐色，內部由無數包於膠質基質中之豆狀小包（peridiole）構成，成熟後崩解為孢粉；為外生菌根菌。子實體可用於製作黃色染料，孢子粉可用於外傷消炎、止血。",
   "Pithya cupressina,薄小豔盤菌,薄小艳盘菌,Juniper Disco,薄小豔盤菌，種小名cupressina意為「柏（Cupressus）的」，指其寄主基質。子囊盤小、盤狀至淺杯狀、鮮橙色、具短柄；生於南洋杉科與柏科之毬果、細枝與枯葉上。",
   "Placopsis cribellans,突癭茶漬衣,突瘿茶渍衣,Bullseye Lichen,突癭茶漬衣，種小名cribellans意指其篩孔狀之表面。地衣體殼狀、貼生於岩石、面上散生粉紅褐色之瘤狀頭衣（cephalodia，內共生藍綠菌）。",
+  "Placopsis gelida,冷癭茶漬衣,冷瘿茶渍衣,,冷癭茶漬衣，種小名gelida意指其好生於寒涼氣候之岩石地。地衣體殼狀、灰褐至灰白色，表面龜裂成多角形小塊、邊緣具放射狀裂片；中央散生粉褐色之瘤狀頭衣（cephalodia，內共生藍綠菌），常呈靶心狀排列。貼生於裸露岩石表面，分布於溫帶至亞極地之先驅拓殖地景。",
   "Placopsis lambii,蘭布癭茶漬,兰布瘿茶渍,Pink Bull's-eye Lichen,蘭布癭茶漬，種小名lambii紀念地衣學家Lamb。地衣體殼狀、貼生於岩石、灰白至淡褐色、放射狀而周緣具裂片；面上散生粉紅褐色之瘤狀頭衣（cephalodia，內共生藍綠菌）。",
   "Platismatia formosana,台灣寬葉衣,台湾宽叶衣,,台灣寬葉衣，種小名formosana意為「台灣的」。地衣體葉狀、大型、灰綠色、裂片寬而邊緣波曲、質薄如破布；生於高山之樹枝與樹幹上。",
   "Platythecium floridanum,佛羅里達雙實衣,佛罗里达双实衣,,佛羅里達雙實衣，種小名floridanum意為「（美國）佛羅里達的」。地衣體殼狀、貼生於樹皮、灰綠色；子器為線紋狀（lirellae）、埋生而具唇緣；為一書寫衣類地衣。",
@@ -3410,6 +3413,7 @@
   "Porphyrellus nigropurpureus,黑紫紅牛肝菌,黑紫红牛肝菌",
   "Porpidia albocaerulescens,白藍假網衣,白蓝假网衣,Smokey-eyed Boulder Lichen,白藍假網衣，種小名albocaerulescens意為「泛白藍的」，指其子器之藍白色霜被。地衣體殼狀、灰白色、緊貼基質；子囊盤黑色、常被藍灰色之粉霜；生於矽質岩石上。",
   "Porpidia flavicunda,橙假網衣,橙假网衣,Orange Boulder Lichen,橙假網衣，種小名flavicunda意為「亮黃（橙）色的」。地衣體殼狀、龜裂成小塊、鏽橙至橙褐色（含鐵鏽色素）；子囊盤黑色、無地衣體盤緣；生於矽質岩石（尤富鐵者）上。",
+  "Porpidia flavocruenta,黃紅假網衣,黄红假网衣,,黃紅假網衣，種小名 flavocruenta 意為「黃而帶血紅的」，描述其地衣體遇化學試劑呈黃轉血紅色之呈色反應。地衣體殼狀（crustose），厚實、龜裂成多角形小斑塊（areolate），表面呈鏽橙至土黃色；子囊盤（apothecium）為黑色、麗基衣型（lecideine，無含藻盤緣）之圓盤，散生於地衣體上，盤緣具碳化黑邊。多生於曝露之矽質岩面。",
   "Porpolomopsis lewelliniae,萊威林擬波緣傘,莱威林拟波缘伞,Mauve Splitting Wax-cap 淡紫擬波緣傘 淡紫拟波缘伞,萊威林擬波緣傘，帽圓錐至鐘形亮紅、緣具細裂，柄黃紅中空，生於草地林地。",
   "Postia caesia,灰藍波斯特孔菌,灰蓝波斯特孔菌",
   "Postia guttulatus,含油波斯特孔菌,含油波斯特孔菌",
@@ -3974,6 +3978,7 @@
   "Tyromyces odorus,香味乾酪菌,香味干酪菌,香味骨皮菌 香味骨皮菌,香味乾酪菌，種小名odorus意為「有氣味的」，指其具明顯香氣。子實體白至奶油色之軟質托架、上表面近光滑或細絨，孔面白色小孔，肉軟而具強烈茴香般香氣，一年生於針葉樹枯木。",
   "Tyromyces pulcherrimus,美麗乾酪菌,美丽干酪菌,Strawberry Bracket,美麗乾酪菌，種小名pulcherrimus意為「極美麗的」，指其鮮豔色澤。子實體托架狀、無柄而直接附著於基質，新鮮時櫻桃紅至鮭紅色、乾後轉褐，表面被毛（尤近附著處），孔面紅色，生於南半球之南青岡（Nothofagus）枯木。",
   "Tyromyces taxi,紫杉乾酪菌,紫杉干酪菌",
+  "Umbilicaria cylindrica,花石耳,花石耳,,花石耳，種小名 cylindrica 意為「圓柱形的」，指其裂片邊緣密生之圓柱狀纖毛（纖細如霜毛，為本種重要鑑別特徵）。地衣體葉狀（foliose），以單一中央臍固著於岩面，裂片深裂、邊緣上捲，表面灰褐至褐灰色、略帶粉霜；下表面色深、具密集假根。多見於高海拔、裸露之矽質岩石上，耐寒耐旱。",
   "Umbilicaria yunnana,雲南石耳,云南石耳,,雲南石耳，種小名yunnana意為「雲南的」。地衣體葉狀、圓盤形、革質、以中央之臍附著於岩石、灰褐至暗褐色；下表面黑而或具假根；子囊盤黑色、具同心裂紋；生於裸露之岩壁上。",
   "Unguiculariopsis aff. ravenelii,拉氏擬爪毛盤菌的相似種,拉氏拟爪毛盘菌的相似种,,拉氏擬爪毛盤菌的相似種，子囊盤微小、盤狀、外層粗糙但不具拉氏擬爪毛盤菌那種明顯長彎之外壁毛；子囊細瘦密集、8孢；孢子透明而長橢圓形；寄生於掃帚長頸座殼（Peroneutypa scoparia）之子座表面。",
   "Unguiculariopsis ravenelii,拉氏擬爪毛盤菌,拉氏拟爪毛盘菌,,拉氏擬爪毛盤菌，種小名ravenelii紀念美國真菌學家H. W. Ravenel。子囊盤微小、盤狀、緣被鉤狀之剛毛；為寄生於紅皺裂菌（Rhytidhysteron rufulum）子實體上之菌寄生盤菌。",

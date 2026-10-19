@@ -3,6 +3,7 @@
  "name": "frondosa",
  "date": [
   "03/09/2025,9199663956810620",
+  "03/08/2025,28833023006381423",
   "03/07/2025,9152644654845884",
   "08/22/2023,6321176834659361",
   "03/23/2020,2669233973187017"
@@ -107,6 +108,34 @@
   {
    "author": "江志緯",
    "image_src": "Grifola_frondosa_a4933280-01f9-11f0-a344-9ff6ad28cd22_16.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Grifola_frondosa_28833023006381423_b0d87a90-cb52-11f1-87b0-cb36b4d0efc7_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Grifola_frondosa_28833023006381423_b0d87a90-cb52-11f1-87b0-cb36b4d0efc7_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Grifola_frondosa_28833023006381423_b0d87a90-cb52-11f1-87b0-cb36b4d0efc7_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Grifola_frondosa_28833023006381423_b0d87a90-cb52-11f1-87b0-cb36b4d0efc7_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Grifola_frondosa_28833023006381423_b0d87a90-cb52-11f1-87b0-cb36b4d0efc7_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Grifola_frondosa_28833023006381423_b0d87a90-cb52-11f1-87b0-cb36b4d0efc7_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Grifola_frondosa_28833023006381423_b0d87a90-cb52-11f1-87b0-cb36b4d0efc7_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -135,10 +164,13 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "100,500",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "singly",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "choice",
@@ -160,5 +192,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027079/thumb.jpg"
   }
  ],
- "timestamp": "20261005-165710"
+ "timestamp": "20261019-092857"
 }

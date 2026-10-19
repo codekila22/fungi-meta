@@ -2,6 +2,7 @@
  "genus": "Hemitrichia",
  "name": "decipiens",
  "date": [
+  "10/06/2026,28807132582303799",
   "11/09/2024,8482936768483346",
   "01/07/2024,6848093751967664",
   "11/11/2023,6626599054117136",
@@ -248,6 +249,30 @@
   {
    "author": "陳雅芬",
    "image_src": "Trichia_decipiens_16fa8ba0-9e9c-11ef-9f59-db7df2d9998d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemitrichia_decipiens_28807132582303799_4da47790-c4a8-11f1-a8d5-f31ba7c39d2b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemitrichia_decipiens_28807132582303799_4da47790-c4a8-11f1-a8d5-f31ba7c39d2b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemitrichia_decipiens_28807132582303799_4da47790-c4a8-11f1-a8d5-f31ba7c39d2b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemitrichia_decipiens_28807132582303799_4da47790-c4a8-11f1-a8d5-f31ba7c39d2b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemitrichia_decipiens_28807132582303799_4da47790-c4a8-11f1-a8d5-f31ba7c39d2b_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hemitrichia_decipiens_28807132582303799_4da47790-c4a8-11f1-a8d5-f31ba7c39d2b_6.jpg"
   }
  ],
  "synonym": [
@@ -307,5 +332,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/240070416/square.jpg"
   }
  ],
- "timestamp": "20261005-165710"
+ "timestamp": "20261019-092857"
 }

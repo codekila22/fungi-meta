@@ -1,5 +1,5 @@
 {
- "timestamp": "20261005-165710",
+ "timestamp": "20261019-092857",
  "list": [
   "Abortiporus biennis|Polypores|wood|50,150|4294919424,4291998860,4283244288",
   "Absidia sp.1|Parasitic,Molds|parasitic||4294967295",
@@ -696,6 +696,7 @@
   "Cyclocybe parasitica|Agarics|wood,parasitic|50,250|4291605388",
   "Cymatoderma dendriticum|Crust/Patch|leaves|40,190|4286141768,4291605388,4294303411",
   "Cymatoderma elegans|Crust/Patch|wood|100,200|4294309365,4286141768",
+  "Cynema alutacea|Agarics|wood||4285430667,4294308070,4286204456",
   "Cyphella ferruginea|Agarics|wood|0,1|4294958765",
   "Cyphella maxima|Agarics|wood|0,1|4286141768",
   "Cyptotrama asprata|Agarics|wood,bamboo|0,40|4294956800,4294309365,4294944000",
@@ -1878,6 +1879,7 @@
   "Pisolithus tinctorius|Gasteroid|ground|20,200|4288244511,4283244288",
   "Pithya cupressina|Cups|wood,fruit||4291979550,4294931200",
   "Placopsis cribellans|Lichens|rocks||4290547599,4293313475,4294967280",
+  "Placopsis gelida|Lichens|rocks||4291605388,4290547599,4289309097",
   "Placopsis lambii|Lichens|rocks||4293313475,4290547599,4286611456",
   "Platismatia formosana|Lichens|wood||4294967295,4286141768,4278222848",
   "Platythecium floridanum|Lichens|wood||4278222848",
@@ -1938,6 +1940,7 @@
   "Poronia phosphorea|Clubs/Coral|wood,bamboo,fruit||4294967295",
   "Porpidia albocaerulescens|Lichens|rocks||4278190080,4294309365,4286611456",
   "Porpidia flavicunda|Lichens|wood||4278190080,4294944000,4294309365",
+  "Porpidia flavocruenta|Lichens|rocks||4290201386,4278190080",
   "Porpolomopsis lewelliniae|Agarics|ground|30,65|4287001761,4290290127,4282924427",
   "Proliferodiscus pulveraceus|Cups|wood|0,1|4294967295",
   "Proliferodiscus sp.1|Cups|leaves||4294967295",
@@ -2426,6 +2429,7 @@
   "Tyromyces incarnatus|Polypores|wood|20,80|4289864226,4294919424",
   "Tyromyces odorus|Polypores|wood,bamboo|20,80|4294967295",
   "Tyromyces pulcherrimus|Polypores|wood|30,80|4294901760,4294921472",
+  "Umbilicaria cylindrica|Lichens|rocks||4285359193,4283321934",
   "Umbilicaria yunnana|Lichens|wood||4278222848",
   "Unguiculariopsis aff. ravenelii|Parasitic|parasitic|0,2|4286141768",
   "Unguiculariopsis ravenelii|Parasitic|wood,parasitic||4286141768",

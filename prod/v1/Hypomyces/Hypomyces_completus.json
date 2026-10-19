@@ -2,6 +2,7 @@
  "genus": "Hypomyces",
  "name": "completus",
  "date": [
+  "10/03/2026,28786688814348176",
   "09/20/2025,24450390391311395",
   "09/14/2025,24569688576048242",
   "10/27/2024,8429686973808326",
@@ -125,6 +126,18 @@
   {
    "author": "朱艷",
    "image_src": "Hypomyces_completus_9c9a0a90-a172-11f0-aa83-69528e57c6f9_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypomyces_completus_28786688814348176_895508f0-c4a7-11f1-a8d5-f31ba7c39d2b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypomyces_completus_28786688814348176_895508f0-c4a7-11f1-a8d5-f31ba7c39d2b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Hypomyces_completus_28786688814348176_895508f0-c4a7-11f1-a8d5-f31ba7c39d2b_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -174,5 +187,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4159023/thumb."
   }
  ],
- "timestamp": "20261005-165710"
+ "timestamp": "20261019-092857"
 }
