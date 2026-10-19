@@ -41,7 +41,11 @@
   "03/28/2021,3643015029142235",
   "02/28/2021,3560322574078148",
   "02/15/2021,3524878974289175",
-  "08/15/2020,3016702565106821"
+  "08/15/2020,3016702565106821",
+  "03/21/2020,28847455364938187",
+  "05/16/2017,28847455364938187",
+  "04/28/2017,28847455364938187",
+  "08/14/2016,28847455364938187"
  ],
  "names_zhtw": [
   "優雅波邊革菌"
@@ -414,6 +418,54 @@
   {
    "author": "江志緯",
    "image_src": "Cymatoderma_elegans_28838474322502958_30335f10-c637-11f1-8377-4372cba81279_11.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_7.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_8.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_9.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_10.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_11.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Cymatoderma_elegans_28847455364938187_8c098990-cb55-11f1-87b0-cb36b4d0efc7_12.jpg"
   }
  ],
  "names_zhcn": [
@@ -468,5 +520,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/850516/thumb.jpg"
   }
  ],
- "timestamp": "20261017-184133"
+ "timestamp": "20261019-092857"
 }

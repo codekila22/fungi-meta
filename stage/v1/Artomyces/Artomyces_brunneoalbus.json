@@ -3,6 +3,7 @@
  "name": "brunneoalbus",
  "date": [
   "01/03/2026,25438694305814327",
+  "08/12/2021,28818061401210917",
   "07/24/2021,6614606881983020"
  ],
  "names_zhtw": [
@@ -66,6 +67,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Artomyces_brunneoalbus_25438694305814327_3ab1fce0-a453-11f1-87ae-999154efd688_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Artomyces_brunneoalbus_28818061401210917_e9f30250-cb52-11f1-87b0-cb36b4d0efc7_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Artomyces_brunneoalbus_28818061401210917_e9f30250-cb52-11f1-87b0-cb36b4d0efc7_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Artomyces_brunneoalbus_28818061401210917_e9f30250-cb52-11f1-87b0-cb36b4d0efc7_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Artomyces_brunneoalbus_28818061401210917_e9f30250-cb52-11f1-87b0-cb36b4d0efc7_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -94,11 +111,11 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Elevation": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
   "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
   "NearHome": "",
   "Bruising": "",
@@ -122,5 +139,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261017-184133"
+ "timestamp": "20261019-092857"
 }

@@ -1,5 +1,5 @@
 {
- "timestamp": "20261017-184133",
+ "timestamp": "20261019-092857",
  "config": {
   "cover": {
    "image": "cover-photo-3.jpg",
@@ -519,6 +519,7 @@
    "Cryptomarasmius,隱皮傘屬,隐皮伞属",
    "Cuphophyllus,拱頂菇屬,拱顶菇属",
    "Cyclocybe,環傘屬,环伞属",
+   "Cynema,革色菇屬,革色菇属",
    "Cyphella,檳榔蕈屬,槟榔蕈属",
    "Cyptotrama,鱗蓋傘屬,鳞盖伞属",
    "Cystoderma,囊皮傘屬,囊皮伞属",
@@ -1103,7 +1104,7 @@
    "Turbinellus,釘菇屬,钉菇属"
   ]
  },
- "total_species": 2524,
+ "total_species": 2527,
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌,Blushing Rosette,二年殘孔菌，種小名biennis意為「二年生的」。子實體扇形、半圓形至漏斗狀，常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白或淡黃而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。",
   "Absidia sp.1,犁頭黴,犁头霉,,犁頭黴，菌絲發達，於匍匐菌絲間生出孢囊柄，頂端著生梨形之孢子囊、囊軸與囊托明顯；本紀錄似寄生於成熟之黏菌上，為一尚待鑑定之種。",
@@ -1901,6 +1902,7 @@
   "Cymatoderma dendriticum,樹枝狀波邊革菌,树枝状波边革菌,,樹枝狀波邊革菌，種小名dendriticum意為「樹枝狀的」，指其放射狀之分枝稜脊。子實體漏斗至扇形、革質、菌蓋表面具放射狀稜脊而緣波曲；喜好生長在黃藤枯枝上，但也可能在其他枯枝上發現。",
   "Cymatoderma elegans,優雅波邊革菌,优雅波边革菌,Leathery Goblet,優雅波邊革菌，漏斗形帽具放射狀皺褶、褐色同心環紋，下表面白色多皺，中生柄。",
   "Cymatoderma lamellatum,片狀波邊革菌,片状波边革菌",
+  "Cynema alutacea,革質類小菇(暫名),革质类小菇(暂名),,革質類小菇，屬名 Cynema 由 Maas Geesteranus 與 Horak 於1995年依巴布亞紐幾內亞採集標本發表（載於〈Mycena and related genera from Papua New Guinea and New Caledonia〉），為單種屬，本種即其模式種。子實體呈典型小菇型（mycenoid）：菌蓋鐘形至扁半球形，具放射狀細條紋，為吸濕性（hygrophanous）薄膜質，濕時中央呈褐色、向外漸褪為灰白至灰藍，乾後轉為均勻之革（皮革）色，故種小名 alutacea 意為「皮革色的」；菌柄細長、近透明灰白；菌褶色淺、邊緣細鋸齒狀。生於熱帶雨林腐木上，叢生，營腐生。",
   "Cyphella ferruginea,鏽毛檳榔蕈,锈毛槟榔蕈,鏽毛掛鐘菌 锈毛挂钟菌,鏽毛檳榔蕈，種小名ferruginea意為「鏽色的」，指其被覆之鏽色細毛。子實體杯狀至鐘狀、倒懸、外面被鏽褐色之毛、內側（子實層）平滑；生於枯枝落葉上，為一杯菌狀真菌。",
   "Cyphella maxima,大型檳榔菌,大型槟榔菌,,大型檳榔菌，種小名maxima意為「最大的」。子實體杯狀至鐘狀、倒懸、較本屬他種為大、外面被細毛、內側（子實層）平滑；生於枯枝落葉上，為一杯菌狀真菌。",
   "Cyptotrama asprata,金黃鱗蓋傘,金黄鳞盖伞,Golden-scruffy Collybia Spiny Woodknight 粗糙鱗蓋傘 粗糙乾蘑 粗糙鳞盖伞 粗糙干蘑,金黃鱗蓋傘，種小名asprata意為「粗糙的」，指其被翹鱗而粗糙之菌蓋。菌蓋鮮金黃至橙黃色、密被錐狀翹鱗；菌褶白色、延生；柄具細鱗、與菌蓋同色；生於闊葉樹枯木上，偶見白色型。常有白色型出現。",
@@ -3411,6 +3413,7 @@
   "Porphyrellus nigropurpureus,黑紫紅牛肝菌,黑紫红牛肝菌",
   "Porpidia albocaerulescens,白藍假網衣,白蓝假网衣,Smokey-eyed Boulder Lichen,白藍假網衣，種小名albocaerulescens意為「泛白藍的」，指其子器之藍白色霜被。地衣體殼狀、灰白色、緊貼基質；子囊盤黑色、常被藍灰色之粉霜；生於矽質岩石上。",
   "Porpidia flavicunda,橙假網衣,橙假网衣,Orange Boulder Lichen,橙假網衣，種小名flavicunda意為「亮黃（橙）色的」。地衣體殼狀、龜裂成小塊、鏽橙至橙褐色（含鐵鏽色素）；子囊盤黑色、無地衣體盤緣；生於矽質岩石（尤富鐵者）上。",
+  "Porpidia flavocruenta,黃紅假網衣,黄红假网衣,,黃紅假網衣，種小名 flavocruenta 意為「黃而帶血紅的」，描述其地衣體遇化學試劑呈黃轉血紅色之呈色反應。地衣體殼狀（crustose），厚實、龜裂成多角形小斑塊（areolate），表面呈鏽橙至土黃色；子囊盤（apothecium）為黑色、麗基衣型（lecideine，無含藻盤緣）之圓盤，散生於地衣體上，盤緣具碳化黑邊。多生於曝露之矽質岩面。",
   "Porpolomopsis lewelliniae,萊威林擬波緣傘,莱威林拟波缘伞,Mauve Splitting Wax-cap 淡紫擬波緣傘 淡紫拟波缘伞,萊威林擬波緣傘，帽圓錐至鐘形亮紅、緣具細裂，柄黃紅中空，生於草地林地。",
   "Postia caesia,灰藍波斯特孔菌,灰蓝波斯特孔菌",
   "Postia guttulatus,含油波斯特孔菌,含油波斯特孔菌",
@@ -3975,6 +3978,7 @@
   "Tyromyces odorus,香味乾酪菌,香味干酪菌,香味骨皮菌 香味骨皮菌,香味乾酪菌，種小名odorus意為「有氣味的」，指其具明顯香氣。子實體白至奶油色之軟質托架、上表面近光滑或細絨，孔面白色小孔，肉軟而具強烈茴香般香氣，一年生於針葉樹枯木。",
   "Tyromyces pulcherrimus,美麗乾酪菌,美丽干酪菌,Strawberry Bracket,美麗乾酪菌，種小名pulcherrimus意為「極美麗的」，指其鮮豔色澤。子實體托架狀、無柄而直接附著於基質，新鮮時櫻桃紅至鮭紅色、乾後轉褐，表面被毛（尤近附著處），孔面紅色，生於南半球之南青岡（Nothofagus）枯木。",
   "Tyromyces taxi,紫杉乾酪菌,紫杉干酪菌",
+  "Umbilicaria cylindrica,花石耳,花石耳,,花石耳，種小名 cylindrica 意為「圓柱形的」，指其裂片邊緣密生之圓柱狀纖毛（纖細如霜毛，為本種重要鑑別特徵）。地衣體葉狀（foliose），以單一中央臍固著於岩面，裂片深裂、邊緣上捲，表面灰褐至褐灰色、略帶粉霜；下表面色深、具密集假根。多見於高海拔、裸露之矽質岩石上，耐寒耐旱。",
   "Umbilicaria yunnana,雲南石耳,云南石耳,,雲南石耳，種小名yunnana意為「雲南的」。地衣體葉狀、圓盤形、革質、以中央之臍附著於岩石、灰褐至暗褐色；下表面黑而或具假根；子囊盤黑色、具同心裂紋；生於裸露之岩壁上。",
   "Unguiculariopsis aff. ravenelii,拉氏擬爪毛盤菌的相似種,拉氏拟爪毛盘菌的相似种,,拉氏擬爪毛盤菌的相似種，子囊盤微小、盤狀、外層粗糙但不具拉氏擬爪毛盤菌那種明顯長彎之外壁毛；子囊細瘦密集、8孢；孢子透明而長橢圓形；寄生於掃帚長頸座殼（Peroneutypa scoparia）之子座表面。",
   "Unguiculariopsis ravenelii,拉氏擬爪毛盤菌,拉氏拟爪毛盘菌,,拉氏擬爪毛盤菌，種小名ravenelii紀念美國真菌學家H. W. Ravenel。子囊盤微小、盤狀、緣被鉤狀之剛毛；為寄生於紅皺裂菌（Rhytidhysteron rufulum）子實體上之菌寄生盤菌。",

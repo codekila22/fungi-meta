@@ -2,6 +2,7 @@
  "genus": "Typhula",
  "name": "setipes",
  "date": [
+  "10/15/2026,28890565437293846",
   "11/01/2025,24907669238916839",
   "10/31/2025,24876450202038743",
   "09/27/2025,24574664388883994",
@@ -162,6 +163,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Typhula_setipes_f4bb4dc0-bc65-11f0-861e-9ff72c9295f4_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_setipes_28890565437293846_42497110-ca80-11f1-8a32-1738fe0ca472_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_setipes_28890565437293846_42497110-ca80-11f1-8a32-1738fe0ca472_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Typhula_setipes_28890565437293846_42497110-ca80-11f1-8a32-1738fe0ca472_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -212,5 +225,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28080336/thumb.jpg"
   }
  ],
- "timestamp": "20261017-184133"
+ "timestamp": "20261019-092857"
 }

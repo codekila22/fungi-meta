@@ -2,6 +2,7 @@
  "genus": "Clitocybe",
  "name": "fragrans",
  "date": [
+  "09/06/2026,28903950985955291",
   "05/08/2015"
  ],
  "names_zhtw": [
@@ -31,6 +32,22 @@
   {
    "author": "柯文俊",
    "image_src": "Clitocybe_fragrans_2_CC BY-NC.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Clitocybe_fragrans_28903950985955291_1cac5560-cb59-11f1-87b0-cb36b4d0efc7_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Clitocybe_fragrans_28903950985955291_1cac5560-cb59-11f1-87b0-cb36b4d0efc7_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Clitocybe_fragrans_28903950985955291_1cac5560-cb59-11f1-87b0-cb36b4d0efc7_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Clitocybe_fragrans_28903950985955291_1cac5560-cb59-11f1-87b0-cb36b4d0efc7_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -80,5 +97,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4132600/thumb."
   }
  ],
- "timestamp": "20261017-184133"
+ "timestamp": "20261019-092857"
 }

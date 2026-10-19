@@ -2,6 +2,8 @@
  "genus": "Cookeina",
  "name": "insititia",
  "date": [
+  "10/15/2026,28891067137243676",
+  "10/12/2026,28835982686085455",
   "09/05/2026,28371187145898347",
   "08/08/2026,27907411085609291",
   "07/31/2026,27789588870724847",
@@ -375,6 +377,38 @@
   {
    "author": "James Ho",
    "image_src": "Cookeina_insititia_27907411085609291_310af0f0-93cf-11f1-b920-0340f92f6a5e_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cookeina_insititia_28835982686085455_9c39ef90-cb54-11f1-87b0-cb36b4d0efc7_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cookeina_insititia_28835982686085455_9c39ef90-cb54-11f1-87b0-cb36b4d0efc7_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cookeina_insititia_28835982686085455_9c39ef90-cb54-11f1-87b0-cb36b4d0efc7_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cookeina_insititia_28835982686085455_9c39ef90-cb54-11f1-87b0-cb36b4d0efc7_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cookeina_insititia_28835982686085455_9c39ef90-cb54-11f1-87b0-cb36b4d0efc7_5.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cookeina_insititia_28835982686085455_9c39ef90-cb54-11f1-87b0-cb36b4d0efc7_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cookeina_insititia_28835982686085455_9c39ef90-cb54-11f1-87b0-cb36b4d0efc7_7.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Cookeina_insititia_28835982686085455_9c39ef90-cb54-11f1-87b0-cb36b4d0efc7_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -429,5 +463,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/23627424/thumb.jpg"
   }
  ],
- "timestamp": "20261017-184133"
+ "timestamp": "20261019-092857"
 }
