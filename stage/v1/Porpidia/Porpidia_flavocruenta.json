@@ -31,7 +31,7 @@
   "黄红假网衣"
  ],
  "meta": {
-  "CapColors": "4290201386,4278190080",
+  "CapColors": "4288696877,4278190080",
   "CapDiamRangeValues": "",
   "CapShape": "",
   "CapTexture": "",
@@ -54,12 +54,16 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "high",
+  "Tropical": "",
   "Seasons": "",
   "GrowthType": "",
   "GrowthEnv": "rocks",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -74,5 +78,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261019-092857"
+ "timestamp": "20261022-101713"
 }
