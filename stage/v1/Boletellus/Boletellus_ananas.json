@@ -2,6 +2,7 @@
  "genus": "Boletellus",
  "name": "ananas",
  "date": [
+  "10/19/2026,29004337819249940",
   "08/02/2026,27829276940089373",
   "07/30/2026,27922527920764274",
   "06/06/2025,9814781218632221",
@@ -223,6 +224,14 @@
   {
    "author": "朱艷",
    "image_src": "Boletellus_ananas_27922527920764274_dc4780c0-9882-11f1-b59b-39a33ce7c69c_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletellus_ananas_29004337819249940_6395df60-cecd-11f1-aa9c-f739fb4ea267_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Boletellus_ananas_29004337819249940_6395df60-cecd-11f1-aa9c-f739fb4ea267_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -274,5 +283,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/55997700/thumb.jpg"
   }
  ],
- "timestamp": "20261023-115941"
+ "timestamp": "20261023-212417"
 }

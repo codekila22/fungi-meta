@@ -84,5 +84,21 @@
   "Note": "顆粒刺盤菌，種小名granulata意為「顆粒狀的」，指其子囊盤外緣被細緻顆粒狀之剛毛／疣突。子實體微小盤狀、盤面橙黃至金黃色、盤緣具細毛，群生於草食動物糞便上，為一糞生盤菌，與同屬之糞生緣刺盤菌（C. fimicola）、十字毛緣盤菌（C. crucipila）外觀相近，需以剛毛形態區分。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20261023-115941"
+ "inaturalist": [
+  {
+   "name": "Cheilymenia granulata",
+   "cname": "cowpat gem",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/471406",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/9865134/square.jpg"
+  },
+  {
+   "name": "Cheilymenia sp. 'granulata-MX01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1707614",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5766793/square.jpeg"
+  }
+ ],
+ "timestamp": "20261023-212417"
 }
