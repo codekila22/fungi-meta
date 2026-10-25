@@ -2,6 +2,7 @@
  "genus": "Junghuhnia",
  "name": "nitida",
  "date": [
+  "10/20/2026,29030768129940242",
   "01/22/2026,25624158287267927",
   "10/26/2025,24834608622889568",
   "01/28/2025,8934766576633694",
@@ -140,6 +141,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Junghuhnia_nitida_06362b00-fb64-11f0-9593-613411e1526a_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Junghuhnia_nitida_29030768129940242_513848c0-d045-11f1-ad4b-ed450e9eee71_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Junghuhnia_nitida_29030768129940242_513848c0-d045-11f1-ad4b-ed450e9eee71_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Junghuhnia_nitida_29030768129940242_513848c0-d045-11f1-ad4b-ed450e9eee71_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Junghuhnia_nitida_29030768129940242_513848c0-d045-11f1-ad4b-ed450e9eee71_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Junghuhnia_nitida_29030768129940242_513848c0-d045-11f1-ad4b-ed450e9eee71_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -190,5 +211,5 @@
    "src": "https://static.inaturalist.org/photos/4090868/thumb.JPG"
   }
  ],
- "timestamp": "20261025-090519"
+ "timestamp": "20261025-170206"
 }
