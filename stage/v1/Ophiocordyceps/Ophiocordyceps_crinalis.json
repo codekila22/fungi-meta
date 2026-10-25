@@ -174,7 +174,16 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
-  "Note": "蛇形蟲草屬的一種，子座自寄主蟲體伸出、具細長之柄與可孕之頭部，內生子囊殼；本種寄生於枯葉蛾之幼蟲，為一尚未正式命名之蟲草。"
+  "Note": "髮線蟲草，種小名crinalis源自拉丁文crinis（毛髮），意為「髮狀的」，指其纖細如髮絲之子座，中文名亦由此而來。子座自寄主蟲體長出、細長而具可孕之頭部，內生子囊殼；寄主為鱗翅目之幼蟲，本資料庫既有紀錄記為枯葉蛾（枯葉蛾科Lasiocampidae）之幼蟲。\n本種是重寄生菌常見的落腳處：Pleurocordyceps lianzhouensis（2014年發表時置於多頭黴屬Polycephalomyces）的原始材料即與本種共同發生，Pleurocordyceps heilongtanensis亦曾被記錄與本種出現在同一隻鱗翅目幼蟲上。文獻將此解讀為接力式定殖——蟲草先感染昆蟲血腔、把蟲體變成養分豐富的基質，重寄生菌隨後進駐。因此若見子座上另長出顏色或形態不同的分生孢子梗束，多半是重寄生菌，而非本種的一部分。\n學名沿革：Cordyceps crinalis Ellis ex Lloyd（1920）→ Ophiocordyceps crinalis（Sung等2007）。"
  },
- "timestamp": "20261025-170206"
+ "inaturalist": [
+  {
+   "name": "Ophiocordyceps crinalis",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1502910",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/327722741/square.jpg"
+  }
+ ],
+ "timestamp": "20261025-185337"
 }
