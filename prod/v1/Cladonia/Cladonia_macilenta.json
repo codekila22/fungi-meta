@@ -2,6 +2,7 @@
  "genus": "Cladonia",
  "name": "macilenta",
  "date": [
+  "10/19/2026,29004561025894286",
   "03/11/2023,5777204442389939",
   "05/15/2021,3791640060946397",
   "05/02/2021,3736600029783734",
@@ -107,6 +108,14 @@
   {
    "author": "姜淋友",
    "image_src": "Cladonia_macilenta_d06b2a10-c089-11ed-b4c2-8b08734655a0_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_macilenta_29004561025894286_577b4d60-ce9a-11f1-b28b-fbd9a47c66fc_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cladonia_macilenta_29004561025894286_577b4d60-ce9a-11f1-b28b-fbd9a47c66fc_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -169,5 +178,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27295412/thumb.jpeg"
   }
  ],
- "timestamp": "20261019-092857"
+ "timestamp": "20261025-185337"
 }

@@ -2,7 +2,7 @@
  "name": "Ophiocordyceps",
  "zhtw": "蛇形蟲草屬",
  "zhcn": "蛇形虫草属",
- "timestamp": "20261019-092857",
+ "timestamp": "20261025-185337",
  "list": [
   {
    "name": "Ophiocordyceps buquetii",
@@ -15,6 +15,12 @@
    "zhtw": "黃棒蟲草",
    "zhcn": "黄棒虫草",
    "img": "Ophiocordyceps_clavata_4d215810-7419-11ef-8aca-a155c309e022_1.jpg"
+  },
+  {
+   "name": "Ophiocordyceps crinalis",
+   "zhtw": "髮線蟲草",
+   "zhcn": "发线虫草",
+   "img": "Ophiocordyceps_sp.1_9a656df0-eef9-11ee-b5da-f9d63e16f80b_1.jpg"
   },
   {
    "name": "Ophiocordyceps dipterigena",
@@ -75,12 +81,6 @@
    "zhtw": "蜻蜓蛇形蟲草",
    "zhcn": "蜻蜓蛇形虫草",
    "img": "Ophiocordyceps_odonatae_280c0310-d5ca-11ee-882b-296905aea63c_1.jpg"
-  },
-  {
-   "name": "Ophiocordyceps sp.1",
-   "zhtw": "蛇形蟲草屬的一種",
-   "zhcn": "蛇形虫草属的一种",
-   "img": "Ophiocordyceps_sp.1_9a656df0-eef9-11ee-b5da-f9d63e16f80b_1.jpg"
   },
   {
    "name": "Ophiocordyceps sp.2",

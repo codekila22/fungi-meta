@@ -1,5 +1,5 @@
 {
- "timestamp": "20261019-092857",
+ "timestamp": "20261025-185337",
  "config": {
   "cover": {
    "image": "cover-photo-3.jpg",
@@ -308,6 +308,7 @@
    "Aecidium,銹孢銹菌屬,锈孢锈菌属",
    "Akanthomyces,亞肯士孢菌屬,亚肯士孢菌属",
    "Amphichorda,雙弦孢屬,双弦孢属",
+   "Angiopsora,包銹菌屬,包锈菌属",
    "Aschersonia,座殼孢屬,座壳孢属",
    "Balansia,瘤座菌屬,瘤座菌属",
    "Beauveria,白殭菌屬,白僵菌属",
@@ -317,6 +318,7 @@
    "Clinoconidium,斜孢菌屬,斜孢菌属",
    "Coleosporium,鞘銹菌屬,鞘锈菌属",
    "Colletotrichum,炭疽刺盤孢菌屬,炭疽刺盘孢菌属",
+   "Conidiosporomyces,分生孢子黑粉菌屬,分生孢子黑粉菌属",
    "Cordierites,復柄盤菌屬,复柄盘菌属",
    "Cordyceps,蟲草屬,虫草属",
    "Corynespora,棒狀桿孢菌屬,棒状杆孢菌属",
@@ -1104,7 +1106,7 @@
    "Turbinellus,釘菇屬,钉菇属"
   ]
  },
- "total_species": 2527,
+ "total_species": 2530,
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌,Blushing Rosette,二年殘孔菌，種小名biennis意為「二年生的」。子實體扇形、半圓形至漏斗狀，常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白或淡黃而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。",
   "Absidia sp.1,犁頭黴,犁头霉,,犁頭黴，菌絲發達，於匍匐菌絲間生出孢囊柄，頂端著生梨形之孢子囊、囊軸與囊托明顯；本紀錄似寄生於成熟之黏菌上，為一尚待鑑定之種。",
@@ -1267,6 +1269,7 @@
   "Ampulloclitocybe clavipes,棒柄瓶杯傘,棒柄瓶杯伞,Club Foot Club-footed Clitocybe,棒柄瓶杯傘，種小名clavipes意為「棒狀柄的」，指菌柄基部明顯膨大呈棒狀。菌蓋灰褐至暗褐、中央具小凸、緣內捲，菌褶白色明顯延生，柄向下膨大如棒，生於針闊葉林落葉層。",
   "Amyloporia xantha,黃粉孔菌,黄粉孔菌,Antrodia xantha Yellow Porecrust 黃薄孔菌 黄薄孔菌,黃粉孔菌，種小名xantha意為「黃色的」。子實體平伏、硫黃至檸檬黃色、質軟而易碎、乾後粉狀；子實層為細密之孔；生於針葉樹枯木上，致木材褐腐。",
   "Amylosporus campbellii,坎氏澱粉孢菌,坎氏淀粉孢菌,,坎氏澱粉孢菌，種小名campbellii紀念採集者Campbell。子實體具柄或墊狀、白至淡色、肉質至木栓質；孔面白色；常自地下腐木連生至地面、鄰近樹幹基部。",
+  "Angiopsora paspalicola,雀稗包銹菌或雀稗包柄鏽菌,雀稗包锈菌或雀稗包柄锈菌,,雀稗包銹菌（或稱雀稗包柄鏽菌），種小名paspalicola意為「生於雀稗屬（Paspalum）的」，指其寄主。原發表於夏孢銹菌屬（Uredo paspalicola Henn.），2020年經Aime與McTaggart依分子親緣分析移入本屬之現行有效組合。於雀稗等禾本科植物的葉片上形成橙褐至鏽褐色的夏孢子堆，熟後散生深褐色斑點，造成葉片銹斑，為熱帶禾草常見之葉銹病病原之一。",
   "Angioridium sinuosum,蜿蜒管囊黏菌,蜿蜒管囊黏菌,,蜿蜒管囊黏菌，種小名sinuosum意為「彎曲蜿蜒的」，正指其蟲跡狀之子實體。子實體多為延長而蜿蜒之假孢囊、灰白色、側扁；成熟後沿一預定之縫線開裂散孢；含石灰；生於落葉與腐木上。",
   "Annulohypoxylon annulatum,環孔環紋炭團菌,环孔环纹炭团菌,,環孔環紋炭團菌，種小名annulatum意為「具環的」，指其子囊殼孔口周圍具明顯之環狀盤。子座平伏至瘤狀墊塊、黑色而堅硬炭質、表面具環狀孔口，生於闊葉樹枯枝。",
   "Annulohypoxylon cf. nitens,疑似亮環紋炭團菌,疑似亮环纹炭团菌,,疑似亮環紋炭團菌，種小名nitens意為「有光澤的」，指子座表面光亮。子座平伏至瘤狀墊塊、漆黑具光澤、具環狀子囊殼孔口，堅硬炭質，生於闊葉樹枯枝。",
@@ -1574,6 +1577,7 @@
   "Cheilymenia aff. magnipila,大蓋緣刺盤菌之相似種,大盖缘刺盘菌之相似种,,大蓋緣刺盤菌之相似種，種小名magnipila意為「大毛的」。子囊盤微小、盤狀、橙至橙紅色、盤緣被褐色而粗長之剛毛；生於草食動物之糞或富肥之土上，為一糞生盤菌。",
   "Cheilymenia crucipila,十字毛緣盤菌,十字毛缘盘菌,十字毛盾盤菌 十字毛盾盘菌,十字毛緣盤菌，種小名crucipila意為「十字（基）毛的」，指其剛毛基部之十字狀分叉。子囊盤微小、盤狀、橙至橙紅色、盤緣被褐色之剛毛；生於草食動物之糞或富肥之土上，為一糞生盤菌。",
   "Cheilymenia fimicola,糞生緣刺盤菌,粪生缘刺盘菌,,糞生緣刺盤菌，種小名fimicola意為「生於糞的」，指其糞生習性。子實體微小盤狀、盤面鮮橙至橙黃、外緣被褐色剛毛，近無柄，群生於牛馬等草食動物之糞上。",
+  "Cheilymenia granulata,顆粒刺盤菌,颗粒刺盘菌,粒緣刺盤菌 粒缘刺盘菌,顆粒刺盤菌，種小名granulata意為「顆粒狀的」，指其子囊盤外緣被細緻顆粒狀之剛毛／疣突。子實體微小盤狀、盤面橙黃至金黃色、盤緣具細毛，群生於草食動物糞便上，為一糞生盤菌，與同屬之糞生緣刺盤菌（C. fimicola）、十字毛緣盤菌（C. crucipila）外觀相近，需以剛毛形態區分。",
   "Cheilymenia theleboloides,黃緣刺盤菌,黄缘刺盘菌,,黃緣刺盤菌，種小名theleboloides意為「似Thelebolus的」。微小盤菌盤面黃至橙色、外緣被淡色細毛，群生於糞肥或富氮土壤上。",
   "Cheimonophyllum candidissimum,極白冬褶菌/白孢冬褶菌,极白冬褶菌/白孢冬褶菌",
   "Cheimonophyllum haedinum,極白冬褶菌,极白冬褶菌,Snowy Oysterling White Oysterette 白孢冬褶菌 白孢冬褶菌,極白冬褶菌，種小名haedinum意為「小山羊的」；中文名則沿用舊種小名candidissimum之意——candidus（純白）之最高級，「極白的」。菌蓋扁凸至扇形、純白色、緣直或下彎、無柄而側生附著於基質，為附生於闊葉樹枯枝之微小白色側耳狀菇。",
@@ -1735,6 +1739,7 @@
   "Comatricha elegans,圓頭髮黏菌,圆头发黏菌,,圓頭髮黏菌，種小名elegans意為「優美的」。孢子囊卵至近球形、暗褐色、具細黑柄、囊軸貫入其中；毛體自囊軸分出成疏鬆之網；群生於腐木上。",
   "Comatricha pulchella,美髮黏菌,美发黏菌,,美髮黏菌，種小名pulchella意為「美麗的」。孢子囊微小、卵至圓柱形、暗褐色、具細黑柄；毛體自囊軸分出、聯成疏鬆之網；群生於腐木與樹皮上。",
   "Comatricha tenerrima,梭髮黏菌,梭发黏菌,,梭髮黏菌，為一種黏菌（myxomycete）；種小名tenerrima意為「極纖柔的」，指其纖細之子實體。孢子囊狹長卵形至圓柱形、頂端漸尖，具細長堅硬之黑柄（長逾全高之半）；周皮成熟後迅即消失、露出髮網狀之細絲體；孢子球形、淡褐而具微疣。剛成熟時呈現淺褐色或粉褐色，隨著孢子散落，顏色會逐漸變淡。中軸 (Columella)由黑色柄部延伸進入孢子囊內部，通常直達孢子囊的頂端附近。細毛體 (Capillitium)從中軸發散出的分枝非常細密且柔軟，形成精細的網狀結構。孢子 (Spores)球形，在透射光下呈現淺褐色，表面具有極細的疣點（minutely warted），7-9 微米。經常出現在潮濕的倒木、落葉或腐爛的草莖上。 此紀錄生長在棕櫚科植物的腐爛花序分枝上。",
+  "Conidiosporomyces ayresii,艾氏分生孢子黑粉菌,艾氏分生孢子黑粉菌,,艾氏分生孢子黑粉菌，為專性寄生禾本科植物子房的黑粉菌，異名 Tilletia ayresii Berk. 1899，1992年由Vánky移入本新屬。寄生於黍亞科禾草（如黍屬Panicum、狗尾草屬Setaria、甘根屬Hyparrhenia等）的子房內，使子房腫大變形、表面覆以膠質囊狀被膜，內含深褐紫色、具疣突紋飾的厚壁冬孢子與不孕細胞，熟時孢子堆表面常現灰白色粉狀之二次形成分生孢子。廣泛分布於非洲、亞洲、中南美洲等熱帶地區。",
   "Coniocarpon cinnabarinum,朱砂斑衣,朱砂斑衣,Bloody Comma Lichen 硃砂斑衣 朱砂斑衣,朱砂斑衣，種小名cinnabarinum意為「朱砂色的」。地衣體殼狀、貼生於樹皮；子器散生、被朱紅色之粉霜。",
   "Coniolepiota spongodes,海綿鱗環柄菇,海绵鳞环柄菇,,海綿鱗環柄菇，全體被藍灰色粉狀顆粒、具環，柄同色，生於闊葉林腐土。",
   "Connopus acervatus,堆聯腳傘,堆联脚伞,Cluster Cap Conifer Toughshank 堆金錢菌 堆金钱菌,堆聯腳傘，種小名acervatus意為「成堆的」。子實體密集叢生、菌蓋紅褐色、凸而後平；菌褶淡、較密；柄紅褐至暗色、多數之柄基相連成束；生於針葉樹之腐木與樹根上。",
@@ -3060,6 +3065,7 @@
   "Opegrapha physciae,蜈蚣衣生孔文衣,蜈蚣衣生孔文衣,,蜈蚣衣生孔文衣，種小名physciae意為「蜈蚣衣屬（Physcia）的」，指其寄主。為一地衣寄生之地衣，於蜈蚣衣屬地衣之地衣體上形成微小而線形之黑色子囊果。",
   "Ophiocordyceps buquetii,捧束蛇形蟲草,捧束蛇形虫草,,捧束蛇形蟲草，自蟲體長出細長棒狀子座、頂端膨大產孢，生於林地。",
   "Ophiocordyceps clavata,黃棒蟲草,黄棒虫草,,黃棒蟲草，種小名clavata意為「棒狀的」，指其棒狀之子座。子座自寄主蟲體伸出、棒狀而黃色，內生子囊殼；本種寄生於擬步行蟲科（Tenebrionidae）之幼蟲。",
+  "Ophiocordyceps crinalis,髮線蟲草,发线虫草,,髮線蟲草，種小名crinalis源自拉丁文crinis（毛髮），意為「髮狀的」，指其纖細如髮絲之子座，中文名亦由此而來。子座自寄主蟲體長出、細長而具可孕之頭部，內生子囊殼；寄主為鱗翅目之幼蟲，本資料庫既有紀錄記為枯葉蛾（枯葉蛾科Lasiocampidae）之幼蟲。 本種是重寄生菌常見的落腳處：Pleurocordyceps lianzhouensis（2014年發表時置於多頭黴屬Polycephalomyces）的原始材料即與本種共同發生，Pleurocordyceps heilongtanensis亦曾被記錄與本種出現在同一隻鱗翅目幼蟲上。文獻將此解讀為接力式定殖——蟲草先感染昆蟲血腔、把蟲體變成養分豐富的基質，重寄生菌隨後進駐。因此若見子座上另長出顏色或形態不同的分生孢子梗束，多半是重寄生菌，而非本種的一部分。 學名沿革：Cordyceps crinalis Ellis ex Lloyd（1920）→ Ophiocordyceps crinalis（Sung等2007）。",
   "Ophiocordyceps dipterigena,雙翅蛇形蟲草,双翅蛇形虫草,,雙翅蛇形蟲草，種小名dipterigena意為「生自雙翅目的」，指其寄主。子座自寄主之蒼蠅等雙翅目昆蟲伸出、具細長之柄與可孕之頭部，內生子囊殼；為蟲生真菌。",
   "Ophiocordyceps entomorrhiza,蟲根線蟲草,虫根线虫草,,蟲根線蟲草，種小名entomorrhiza由希臘文entomon（昆蟲）與rhiza（根）組成，意為「蟲根的」。子座自埋於土中之寄主伸出、棒狀而具頭部，內生子囊殼；本種主寄生於步甲科等鞘翅目昆蟲。此物種主要長在步行蟲/步 甲科等鞘翅目，可以持續生長超過一個月。 外觀相似種枝多頭黴(Polycephalomyces ramosus)專門寄生在蟲草或其無性型上(也就是長在別人的子實體上)。 目前記錄為此物種的無性世代。",
   "Ophiocordyceps geometridicola,尺蠖蛇形蟲草,尺蠖蛇形虫草,,尺蠖蛇形蟲草，種小名geometridicola意為「生於尺蛾科（尺蠖）的」，指其寄主。子座自寄主之尺蠖（尺蛾幼蟲）伸出、具細長之柄與可孕之頭部，內生子囊殼；為蟲生真菌。",
@@ -3070,7 +3076,6 @@
   "Ophiocordyceps myrmecophila,蟻蛇形蟲草,蚁蛇形虫草,Ant Fungus,蟻蛇形蟲草，自蟲體長出細長棒狀子座、頂端膨大產孢，生於林地。",
   "Ophiocordyceps nutans,下垂蛇形蟲草,下垂蛇形虫草,,下垂蛇形蟲草，種小名nutans意為「下垂的」，指其下垂之頭部。子座自寄主之椿象（蝽）體伸出，具細長之黑色柄與橙色而下垂之可孕頭部，內生子囊殼；為蟲生真菌。",
   "Ophiocordyceps odonatae,蜻蜓蛇形蟲草,蜻蜓蛇形虫草,,蜻蜓蛇形蟲草，自蟲體長出細長棒狀子座、頂端膨大產孢，生於林地。",
-  "Ophiocordyceps sp.1,蛇形蟲草屬的一種,蛇形虫草属的一种,,蛇形蟲草屬的一種，子座自寄主蟲體伸出、具細長之柄與可孕之頭部，內生子囊殼；本種寄生於枯葉蛾之幼蟲，為一尚未正式命名之蟲草。",
   "Ophiocordyceps sp.2,棒狀蛇形蟲草的相似種,棒状蛇形虫草的相似种,,棒狀蛇形蟲草的相似種，子座自埋於基質中之昆蟲寄主長出、具細長之柄與棒狀之可孕頭部；為一寄生於昆蟲之蟲草類真菌。",
   "Ophiocordyceps sphecocephala,蜂頭蛇形蟲草,蜂头蛇形虫草,,蜂頭蛇形蟲草，種小名sphecocephala由希臘文sphex（蜂）與kephale（頭）組成，意為「蜂頭的」，指其寄主。子座自埋於土中之蜂類伸出、具細長之柄與橙黃色之頭部；洪氏線蟲草（Ophiocordyceps humbertii）為其無性世代。",
   "Ophiocordyceps tricentri,沫蟬蛇形蟲草,沫蝉蛇形虫草,沫蟬蟲草 沫蝉虫草,沫蟬蟲草，種小名tricentri指其寄主。子座自寄主之沫蟬（半翅目）長出、具細長之柄與可孕之頭部；為一寄生於昆蟲之蟲草類真菌。",

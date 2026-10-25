@@ -2,6 +2,7 @@
  "genus": "Baeomyces",
  "name": "rufus",
  "date": [
+  "10/19/2026,29016815164668872",
   "04/07/2025,9379953995448281",
   "04/01/2025,9321979501245731",
   "06/05/2023,6057030304407350",
@@ -146,6 +147,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Baeomyces_rufus_507ecef0-1830-11f0-bf28-b910101fd34f_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Baeomyces_rufus_29016815164668872_62a04150-ceb8-11f1-833f-bbb0af7b32ab_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Baeomyces_rufus_29016815164668872_62a04150-ceb8-11f1-833f-bbb0af7b32ab_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Baeomyces_rufus_29016815164668872_62a04150-ceb8-11f1-833f-bbb0af7b32ab_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Baeomyces_rufus_29016815164668872_62a04150-ceb8-11f1-833f-bbb0af7b32ab_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -175,12 +192,16 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
   "Rareness": "",
+  "Elevation": "mid,high",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "rocks",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -244,5 +265,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261019-092857"
+ "timestamp": "20261025-185337"
 }

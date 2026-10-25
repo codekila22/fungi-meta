@@ -3,6 +3,7 @@
  "name": "cristatus",
  "date": [
   "09/06/2026,28383218481361880",
+  "08/27/2026,29016619088021813",
   "05/27/2023,6036640646446316",
   "05/21/2023,6002283786548669",
   "04/27/2023,5922666037843778",
@@ -133,6 +134,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Crepidotus_cristatus_28383218481361880_5659d970-ae7d-11f1-98a0-39fc36b25c1f_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Crepidotus_cristatus_29016619088021813_da5a5f10-ceee-11f1-aa9c-f739fb4ea267_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Crepidotus_cristatus_29016619088021813_da5a5f10-ceee-11f1-aa9c-f739fb4ea267_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Crepidotus_cristatus_29016619088021813_da5a5f10-ceee-11f1-aa9c-f739fb4ea267_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Crepidotus_cristatus_29016619088021813_da5a5f10-ceee-11f1-aa9c-f739fb4ea267_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Crepidotus_cristatus_29016619088021813_da5a5f10-ceee-11f1-aa9c-f739fb4ea267_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Crepidotus_cristatus_29016619088021813_da5a5f10-ceee-11f1-aa9c-f739fb4ea267_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -161,13 +186,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -183,5 +212,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261019-092857"
+ "timestamp": "20261025-185337"
 }

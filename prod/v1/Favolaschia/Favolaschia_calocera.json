@@ -3,6 +3,7 @@
  "name": "calocera",
  "date": [
   "09/26/2026,28609214868762239",
+  "09/17/2026,29030550139962041",
   "08/29/2026,28209478638735866",
   "08/21/2026,28081769841506747",
   "07/28/2026,27759436547073413",
@@ -519,6 +520,38 @@
   {
    "author": "吳湯姆",
    "image_src": "Favolaschia_calocera_28609214868762239_00dd04c0-ba0a-11f1-9453-83049668c324_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_calocera_29030550139962041_4630ef00-cf63-11f1-94fe-61bf92b16842_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_calocera_29030550139962041_4630ef00-cf63-11f1-94fe-61bf92b16842_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_calocera_29030550139962041_4630ef00-cf63-11f1-94fe-61bf92b16842_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_calocera_29030550139962041_4630ef00-cf63-11f1-94fe-61bf92b16842_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_calocera_29030550139962041_4630ef00-cf63-11f1-94fe-61bf92b16842_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_calocera_29030550139962041_4630ef00-cf63-11f1-94fe-61bf92b16842_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_calocera_29030550139962041_4630ef00-cf63-11f1-94fe-61bf92b16842_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Favolaschia_calocera_29030550139962041_4630ef00-cf63-11f1-94fe-61bf92b16842_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -587,5 +620,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/89984/thumb.jpg"
   }
  ],
- "timestamp": "20261019-092857"
+ "timestamp": "20261025-185337"
 }

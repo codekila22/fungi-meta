@@ -2,7 +2,7 @@
  "name": "Cheilymenia",
  "zhtw": "緣刺盤菌屬",
  "zhcn": "缘刺盘菌属",
- "timestamp": "20261019-092857",
+ "timestamp": "20261025-185337",
  "list": [
   {
    "name": "Cheilymenia aff. magnipila",
@@ -21,6 +21,12 @@
    "zhtw": "糞生緣刺盤菌",
    "zhcn": "粪生缘刺盘菌",
    "img": "Cheilymenia_fimicola_1_CC BY-NC_柯文俊.jpg"
+  },
+  {
+   "name": "Cheilymenia granulata",
+   "zhtw": "顆粒刺盤菌",
+   "zhcn": "颗粒刺盘菌",
+   "img": "Cheilymenia_granulata_29013901808293541_87521af0-ce95-11f1-b28b-fbd9a47c66fc_1.jpg"
   },
   {
    "name": "Cheilymenia theleboloides",

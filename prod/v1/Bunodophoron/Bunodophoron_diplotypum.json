@@ -2,6 +2,7 @@
  "genus": "Bunodophoron",
  "name": "diplotypum",
  "date": [
+  "10/20/2026,29017344054615983",
   "06/05/2025,10036482806462060",
   "01/03/2021,3413023018808105"
  ],
@@ -70,6 +71,22 @@
   {
    "author": "江志緯",
    "image_src": "Bunodophoron_diplotypum_133ce8f0-5afd-11f0-8346-e59f16063e49_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bunodophoron_diplotypum_29017344054615983_19d20b90-cee3-11f1-aa9c-f739fb4ea267_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bunodophoron_diplotypum_29017344054615983_19d20b90-cee3-11f1-aa9c-f739fb4ea267_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bunodophoron_diplotypum_29017344054615983_19d20b90-cee3-11f1-aa9c-f739fb4ea267_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bunodophoron_diplotypum_29017344054615983_19d20b90-cee3-11f1-aa9c-f739fb4ea267_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -118,5 +135,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155369536/thumb.jpg"
   }
  ],
- "timestamp": "20261019-092857"
+ "timestamp": "20261025-185337"
 }

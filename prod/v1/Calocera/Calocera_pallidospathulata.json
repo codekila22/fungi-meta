@@ -2,6 +2,7 @@
  "genus": "Calocera",
  "name": "pallidospathulata",
  "date": [
+  "09/27/2026,29005207789162943",
   "06/08/2026,27144427931907614",
   "01/03/2026,25415240564826368",
   "11/17/2024,8544386155671740",
@@ -145,6 +146,18 @@
   {
    "author": "陳麗紅",
    "image_src": "Calocera_pallidospathulata_9b07f1f0-66bc-11f1-beed-e1f2db233c75_5.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Calocera_pallidospathulata_29005207789162943_e761e330-ce9f-11f1-b28b-fbd9a47c66fc_1.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Calocera_pallidospathulata_29005207789162943_e761e330-ce9f-11f1-b28b-fbd9a47c66fc_2.jpg"
+  },
+  {
+   "author": "何俊霖",
+   "image_src": "Calocera_pallidospathulata_29005207789162943_e761e330-ce9f-11f1-b28b-fbd9a47c66fc_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -174,12 +187,16 @@
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "2,10",
   "Rareness": "",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -195,5 +212,5 @@
    "src": "https://static.inaturalist.org/photos/11549078/thumb.jpg"
   }
  ],
- "timestamp": "20261019-092857"
+ "timestamp": "20261025-185337"
 }

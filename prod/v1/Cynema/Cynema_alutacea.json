@@ -145,7 +145,7 @@
   "革质类小菇(暂名)"
  ],
  "meta": {
-  "CapColors": "4285430667,4294308070,4286204456",
+  "CapColors": "4285563024,4294966000,4285547028",
   "CapDiamRangeValues": "",
   "CapShape": "",
   "CapTexture": "",
@@ -167,14 +167,14 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
-  "Elevation": "",
+  "Rareness": "occacional",
+  "Elevation": "low",
   "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "singly,scattered,grouped",
   "GrowthEnv": "wood",
   "NearHome": "",
-  "Bruising": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
   "Cultivated": "",
@@ -193,5 +193,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/245831657/square.jpg"
   }
  ],
- "timestamp": "20261019-092857"
+ "timestamp": "20261025-185337"
 }
