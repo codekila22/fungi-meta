@@ -1,0 +1,116 @@
+{
+ "genus": "Ripartites",
+ "name": "tricholoma",
+ "date": [
+  "09/06/2026,29048303171520071"
+ ],
+ "names_zhtw": [
+  "毛緣菇"
+ ],
+ "names_en": [],
+ "url": "29048303171520071",
+ "images": [
+  {
+   "author": "徐秀團",
+   "image_src": "Ripartites_tricholoma_29048303171520071_71535d20-d0db-11f1-8d6a-ddbd555c2cf1_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ripartites_tricholoma_29048303171520071_71535d20-d0db-11f1-8d6a-ddbd555c2cf1_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ripartites_tricholoma_29048303171520071_71535d20-d0db-11f1-8d6a-ddbd555c2cf1_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ripartites_tricholoma_29048303171520071_71535d20-d0db-11f1-8d6a-ddbd555c2cf1_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ripartites_tricholoma_29048303171520071_71535d20-d0db-11f1-8d6a-ddbd555c2cf1_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ripartites_tricholoma_29048303171520071_71535d20-d0db-11f1-8d6a-ddbd555c2cf1_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ripartites_tricholoma_29048303171520071_71535d20-d0db-11f1-8d6a-ddbd555c2cf1_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Ripartites_tricholoma_29048303171520071_71535d20-d0db-11f1-8d6a-ddbd555c2cf1_8.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "毛缘菇"
+ ],
+ "meta": {
+  "CapColors": "4294967295,4294309340",
+  "CapDiamRangeValues": "15,40",
+  "CapShape": "convex,flat",
+  "CapTexture": "velvety",
+  "CapMargin": "appendiculate",
+  "HymeniumType": "gilled",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "central",
+  "StalkColors": "4294967295",
+  "StalkTexture": "velvety",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "equal",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "20,60",
+  "Rareness": "",
+  "Seasons": "",
+  "GrowthType": "",
+  "GrowthEnv": "ground",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "毛緣菇，屬名與種小名皆意指其特徵：子實體小型，菌蓋半球形至扁平，白色至奶油白，表面密被細毛，中央常帶淡黃褐暈斑；菌褶邊緣呈細鋸齒狀流蘇；菌柄亦密被白色細毛。地生，見於林地枯枝落葉與草生地間。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Ripartites tricholoma",
+   "cname": "bearded seamine",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/334219",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/53794956/square.jpeg"
+  },
+  {
+   "name": "Ripartites sp. 'tricholoma-PNW04'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1691860",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/335267711/square.jpg"
+  },
+  {
+   "name": "Ripartites sp. 'tricholoma-PNW01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1691785",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/569746382/square.jpg"
+  },
+  {
+   "name": "Ripartites sp. 'tricholoma-PEI01'",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/1691859",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/440720820/square.jpeg"
+  }
+ ],
+ "timestamp": "20261026-100842"
+}
