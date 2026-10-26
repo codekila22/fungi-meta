@@ -1,5 +1,5 @@
 {
- "timestamp": "20261026-092612",
+ "timestamp": "20261026-100842",
  "config": {
   "cover": {
    "image": "cover-photo-3.jpg",
@@ -1061,7 +1061,7 @@
    "Satyrus,紅鬼筆屬,红鬼笔属",
    "Scleroderma,硬皮馬勃屬,硬皮马勃属",
    "Sphaerobolus,彈球菌屬,弹球菌属",
-   "Tortoperdon,糕馬勃屬,糕马勃属",
+   "Tortoperdon,蛋糕馬勃屬,蛋糕马勃属",
    "Tulostoma,柄灰錘菌屬,柄灰锤菌属"
   ],
   "molds": [
@@ -2673,7 +2673,7 @@
   "Lepiota fusciceps,暗褐鱗環柄菇,暗褐鳞环柄菇,,暗褐鱗環柄菇，種小名fusciceps意為「暗褐頭（蓋）的」。子實體小；菌蓋暗褐色、被顆粒狀至細鱗之菌幕、中央色深；菌褶離生、白色；柄具菌環；地生於林下腐植質間。",
   "Lepiota fuscovinacea,絨鱗環柄菇,绒鳞环柄菇,,絨鱗環柄菇，種小名fuscovinacea意為「暗酒紅色的」，指其菌蓋色澤。菌蓋密被暗紫褐至酒紅色之絨狀鱗片，菌褶白色離生，柄下部亦被同色絨鱗而具模糊環帶，生於林地腐土。",
   "Lepiota griseovirens,灰綠環柄菇,灰绿环柄菇,,灰綠環柄菇，種小名griseovirens由griseus（灰）與virens（帶綠）組成，意為「灰綠色的」。菌蓋被灰綠色之細鱗；菌褶白色；柄上半近光滑、無明顯菌環而僅具一環帶，下半具與菌蓋同色之翹鱗。菌柄上半部較無纖毛，也沒有明顯的菌環，但是有一圈環帶，下半部有著與傘面相同的翹鱗。",
-  "Lepiota jacobi,錐鱗環柄菇,锥鳞环柄菇,,雅各環柄菇，種小名jacobi紀念人名Jacob，由 Vellinga 與 Knudsen 於1992年發表。菌蓋淺黃褐色（小麥色）、密布深褐色顆粒狀鱗片、中央色深；菌褶白色、離生、排列緊密；柄柱狀、色淺、光滑；生於林下枯葉堆與腐植質地上。現多數資料庫（GBIF、Wikidata）已將其移入棘皮菌屬列為 Echinoderma jacobi，本資料庫暫仍沿用原名，建議後續評估併入重分類作業。",
+  "Lepiota jacobi,錐鱗環柄菇,锥鳞环柄菇,,錐鱗環柄菇，種小名jacobi紀念丹麥真菌學家J. E. Lange（Jakob Emanuel Lange）之名Jakob：本種原由Knudsen於1980年命名為Lepiota langei，但該名已被Locquin於1945年用過，Vellinga與Knudsen遂於1992年改以Lange之名另立替代名。菌蓋淺黃褐色（小麥色）、密布深褐色顆粒狀鱗片、中央色深；菌褶白色、離生、排列緊密；柄柱狀、色淺、光滑；生於林下枯葉堆與腐植質地上。Index Fungorum與GBIF將其列為棘皮菌屬Echinoderma jacobi，但2025年的多基因親緣研究顯示本種不屬於狹義的棘皮菌屬，而歸環柄菇屬的Eriophorae組（iNaturalist已採用），本資料庫沿用Lepiota jacobi。",
   "Lepiota magnispora,梭孢環柄菇,梭孢环柄菇,Yellowfoot Dapperling Fluffstem Parasol,梭孢環柄菇，種小名magnispora意為「大孢子的」，指其孢子較大。菌蓋被黃褐至褐色羊毛狀鱗片、中央深色，柄具羊毛狀鞘與模糊環帶，菌褶白色，孢子紡錘狀，生於林地腐土。",
   "Lepiota praetervisa,保護色環柄菇,保护色环柄菇,,保護色環柄菇，種小名praetervisa意為「被忽略的」。菌蓋白底而被暗褐色之鱗片、中央之鱗片較密；菌褶白色、離生；柄具菌環；生於林地。",
   "Lepiota rubella,紅斑鱗環柄菇,红斑鳞环柄菇",
@@ -3497,7 +3497,7 @@
   "Puccinia mogiphanis,蓮子草柄銹菌,莲子草柄锈菌,,蓮子草柄銹菌，種小名mogiphanis指其寄主（Mogiphanes為蓮子草屬Alternanthera之舊名）。於蓮子草之葉與莖形成褐色之孢子堆，致病斑，為一銹菌。",
   "Puccinia oxalidis,酢漿草柄銹菌,酢浆草柄锈菌,Oxalis Rust Woodsorrel Rust,酢漿草柄銹菌，種小名oxalidis意為「酢漿草屬（Oxalis）的」，指其寄主。於酢漿草之葉背形成褐色之夏孢子堆與冬孢子堆，致葉部病斑，為其葉銹病。",
   "Puccinia paederiae,雞屎藤柄銹菌,鸡屎藤柄锈菌,雞屎藤鏽病菌 鸡屎藤锈病菌,雞屎藤柄銹菌，種小名paederiae意為「雞屎藤屬（Paederia）的」，指其寄主。於雞屎藤之葉形成褐色之夏孢子堆與冬孢子堆、致葉部病斑，為一銹菌。",
-  "Puccinia paspalina,雀稗柄銹菌,雀稗柄锈菌,,雀稗包銹菌（或稱雀稗包柄鏽菌），種小名paspalicola意為「生於雀稗屬（Paspalum）的」，指其寄主。原發表於夏孢銹菌屬（Uredo paspalicola Henn.），2020年經Aime與McTaggart依分子親緣分析移入本屬之現行有效組合。於雀稗等禾本科植物的葉片上形成橙褐至鏽褐色的夏孢子堆，熟後散生深褐色斑點，造成葉片銹斑，為熱帶禾草常見之葉銹病病原之一。",
+  "Puccinia paspalina,雀稗柄銹菌,雀稗柄锈菌,,雀稗柄銹菌，種小名paspalina意為「雀稗屬（Paspalum）的」，指其寄主。1945年由Cummins發表，模式標本採自澳洲昆士蘭之圓果雀稗（Paspalum orbiculare）葉片；其無性型曾以Uredo paspalina Syd. & P. Syd.（1917）之名發表。寄生於雀稗屬禾草之葉片，為葉銹病菌；分布於澳洲、日本、巴布亞紐幾內亞、新喀里多尼亞、菲律賓等亞洲至大洋洲地區，亦見於北美，台灣亦有紀錄。 易與同樣寄生於雀稗屬的雀稗包銹菌（Angiopsora paspalicola）混淆：兩者的無性型舊名Uredo paspalina與Uredo paspalicola只差一個字尾，寄主也同為雀稗屬，但分屬兩個不同屬、皆為現行有效種。",
   "Puccinia sessilis,無柄柄銹菌,无柄柄锈菌,Arum Rust Ramsons Rust 線狀柄銹菌 线状柄锈菌,無柄柄銹菌，種小名sessilis意為「無柄的、直接著生的」。為一銹菌，於鋪地黍之葉上形成線狀排列之褐色孢子堆，致葉部條斑。舊名Puccinia linearis（線狀柄銹菌，種小名意為「線形的」，正指其線狀排列之孢子堆）經Index Fungorum判定為不合法名（Illegitimate），現行名為Puccinia sessilis。",
   "Puccinia spegazzinii,薇甘菊柄銹菌,薇甘菊柄锈菌,,薇甘菊柄銹菌，種小名spegazzinii紀念阿根廷真菌學家C. Spegazzini。為一銹菌，寄生於小花蔓澤蘭（薇甘菊）之葉片與莖上、形成褐色孢子堆而致病斑；曾被用作此入侵雜草之生物防治劑。",
   "Puccinia thaliae,美人蕉柄銹菌,美人蕉柄锈菌,Canna Rust,美人蕉柄銹菌，種小名thaliae意為「水竹芋屬（Thalia）的」，亦寄生於美人蕉。於美人蕉之葉形成黃褐色之夏孢子堆，致葉面黃斑，為其葉銹病。",
@@ -3855,7 +3855,7 @@
   "Torrubiella cf. arachnophila,疑似嗜蛛蟲殼菌,疑似嗜蛛虫壳菌",
   "Torrubiella flava,黃蟲殼菌,黄虫壳菌,,黃蟲殼菌，種小名flava意為「黃色的」。於寄主（多為蜘蛛或介殼蟲）之體表形成黃色之菌被、其上散生表生之子囊殼；為一寄生節肢動物之子囊菌。",
   "Torrubiella gonylepticida,長腳蟹蟲殼菌,长脚蟹虫壳菌,,長腳蟹蟲殼菌，種小名gonylepticida意為「殺長腳蟹（盲蛛）的」。於盲蛛（長腳蟹、Opiliones）之體表形成菌被、其上散生表生之子囊殼；為一寄生節肢動物之子囊菌。",
-  "Tortoperdon suspectum,可疑蛋糕馬勃,可疑蛋糕马勃,,可疑糕馬勃，種小名suspectum意為「可疑的」，指其外觀與同科馬勃屬等物種相似而易生混淆，須以顯微特徵（孢子、孢絲）確認。2025年發表之新種，模式標本採自中國廣東。子實體微小至小型、扁球形至塊狀、無柄；外包被薄而易脫落，白色至瓷白色，被粉狀至糠麩狀小鱗；內包被月黃至乳黃色；內部產孢組織成熟後轉稻草褐色。常群生於草坪、牧地等禾本科植物生長之地表，營腐生。與同屬檸檬黃糕馬勃（T. citrinum）之區別在於孢子較大且無明顯柄狀突起、孢絲較薄而具豐富孔隙。 此種外觀與小灰球菌(Bovista pusilla)極為相似，是否同一物種尚待釐清。",
+  "Tortoperdon suspectum,可疑蛋糕馬勃,可疑蛋糕马勃,,可疑蛋糕馬勃，種小名suspectum意為「可疑的」，指其外觀與同科馬勃屬等物種相似而易生混淆，須以顯微特徵（孢子、孢絲）確認。2025年發表之新種，模式標本採自中國廣東。子實體微小至小型、扁球形至塊狀、無柄；外包被薄而易脫落，白色至瓷白色，被粉狀至糠麩狀小鱗；內包被月黃至乳黃色；內部產孢組織成熟後轉稻草褐色。常群生於草坪、牧地等禾本科植物生長之地表，營腐生。與同屬檸檬黃蛋糕馬勃（T. citrinum）之區別在於孢子較大且無明顯柄狀突起、孢絲較薄而具豐富孔隙。 此種外觀與小灰球菌(Bovista pusilla)極為相似，是否同一物種尚待釐清。",
   "Trametes betulina,樺栓菌,桦栓菌",
   "Trametes cinnabarina,朱紅栓菌,朱红栓菌,Northern Cinnabar Polypore,朱紅栓菌，種小名cinnabarina意為「朱紅色的」。子實體扇形至半圓、無柄、鮮朱紅至橙紅色；孔面亦紅、孔口較大；菌蓋較近緣種厚；生於闊葉樹枯木上。",
   "Trametes elegans,優美栓菌,优美栓菌,White Maze Polypore 雅緻栓菌 雅致栓菌,優美栓菌，種小名elegans意為「優美的」。帽白至奶油色、扇形至半圓形、表面近光滑，孔面白色而孔口常延長成迷宮狀或近褶狀（本種特徵），革質，生於闊葉樹枯木。",
