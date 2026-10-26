@@ -1,5 +1,5 @@
 {
- "timestamp": "20261025-185337",
+ "timestamp": "20261026-092612",
  "config": {
   "cover": {
    "image": "cover-photo-3.jpg",
@@ -654,6 +654,7 @@
    "Rickenella,里肯菇屬,里肯菇属",
    "Rimbachia,圓拱菌屬,圆拱菌属",
    "Ripartitella,岸生小菇屬,岸生小菇属",
+   "Ripartites,毛緣菇屬,毛缘菇属",
    "Roridomyces,滴小菇屬,滴小菇属",
    "Russula,紅菇屬,红菇属",
    "Saproamanita,腐生鵝膏屬,腐生鹅膏属",
@@ -1106,7 +1107,7 @@
    "Turbinellus,釘菇屬,钉菇属"
   ]
  },
- "total_species": 2530,
+ "total_species": 2531,
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌,Blushing Rosette,二年殘孔菌，種小名biennis意為「二年生的」。子實體扇形、半圓形至漏斗狀，常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白或淡黃而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。",
   "Absidia sp.1,犁頭黴,犁头霉,,犁頭黴，菌絲發達，於匍匐菌絲間生出孢囊柄，頂端著生梨形之孢子囊、囊軸與囊托明顯；本紀錄似寄生於成熟之黏菌上，為一尚待鑑定之種。",
@@ -1269,7 +1270,6 @@
   "Ampulloclitocybe clavipes,棒柄瓶杯傘,棒柄瓶杯伞,Club Foot Club-footed Clitocybe,棒柄瓶杯傘，種小名clavipes意為「棒狀柄的」，指菌柄基部明顯膨大呈棒狀。菌蓋灰褐至暗褐、中央具小凸、緣內捲，菌褶白色明顯延生，柄向下膨大如棒，生於針闊葉林落葉層。",
   "Amyloporia xantha,黃粉孔菌,黄粉孔菌,Antrodia xantha Yellow Porecrust 黃薄孔菌 黄薄孔菌,黃粉孔菌，種小名xantha意為「黃色的」。子實體平伏、硫黃至檸檬黃色、質軟而易碎、乾後粉狀；子實層為細密之孔；生於針葉樹枯木上，致木材褐腐。",
   "Amylosporus campbellii,坎氏澱粉孢菌,坎氏淀粉孢菌,,坎氏澱粉孢菌，種小名campbellii紀念採集者Campbell。子實體具柄或墊狀、白至淡色、肉質至木栓質；孔面白色；常自地下腐木連生至地面、鄰近樹幹基部。",
-  "Angiopsora paspalicola,雀稗包銹菌或雀稗包柄鏽菌,雀稗包锈菌或雀稗包柄锈菌,,雀稗包銹菌（或稱雀稗包柄鏽菌），種小名paspalicola意為「生於雀稗屬（Paspalum）的」，指其寄主。原發表於夏孢銹菌屬（Uredo paspalicola Henn.），2020年經Aime與McTaggart依分子親緣分析移入本屬之現行有效組合。於雀稗等禾本科植物的葉片上形成橙褐至鏽褐色的夏孢子堆，熟後散生深褐色斑點，造成葉片銹斑，為熱帶禾草常見之葉銹病病原之一。",
   "Angioridium sinuosum,蜿蜒管囊黏菌,蜿蜒管囊黏菌,,蜿蜒管囊黏菌，種小名sinuosum意為「彎曲蜿蜒的」，正指其蟲跡狀之子實體。子實體多為延長而蜿蜒之假孢囊、灰白色、側扁；成熟後沿一預定之縫線開裂散孢；含石灰；生於落葉與腐木上。",
   "Annulohypoxylon annulatum,環孔環紋炭團菌,环孔环纹炭团菌,,環孔環紋炭團菌，種小名annulatum意為「具環的」，指其子囊殼孔口周圍具明顯之環狀盤。子座平伏至瘤狀墊塊、黑色而堅硬炭質、表面具環狀孔口，生於闊葉樹枯枝。",
   "Annulohypoxylon cf. nitens,疑似亮環紋炭團菌,疑似亮环纹炭团菌,,疑似亮環紋炭團菌，種小名nitens意為「有光澤的」，指子座表面光亮。子座平伏至瘤狀墊塊、漆黑具光澤、具環狀子囊殼孔口，堅硬炭質，生於闊葉樹枯枝。",
@@ -3497,6 +3497,7 @@
   "Puccinia mogiphanis,蓮子草柄銹菌,莲子草柄锈菌,,蓮子草柄銹菌，種小名mogiphanis指其寄主（Mogiphanes為蓮子草屬Alternanthera之舊名）。於蓮子草之葉與莖形成褐色之孢子堆，致病斑，為一銹菌。",
   "Puccinia oxalidis,酢漿草柄銹菌,酢浆草柄锈菌,Oxalis Rust Woodsorrel Rust,酢漿草柄銹菌，種小名oxalidis意為「酢漿草屬（Oxalis）的」，指其寄主。於酢漿草之葉背形成褐色之夏孢子堆與冬孢子堆，致葉部病斑，為其葉銹病。",
   "Puccinia paederiae,雞屎藤柄銹菌,鸡屎藤柄锈菌,雞屎藤鏽病菌 鸡屎藤锈病菌,雞屎藤柄銹菌，種小名paederiae意為「雞屎藤屬（Paederia）的」，指其寄主。於雞屎藤之葉形成褐色之夏孢子堆與冬孢子堆、致葉部病斑，為一銹菌。",
+  "Puccinia paspalina,雀稗柄銹菌,雀稗柄锈菌,,雀稗包銹菌（或稱雀稗包柄鏽菌），種小名paspalicola意為「生於雀稗屬（Paspalum）的」，指其寄主。原發表於夏孢銹菌屬（Uredo paspalicola Henn.），2020年經Aime與McTaggart依分子親緣分析移入本屬之現行有效組合。於雀稗等禾本科植物的葉片上形成橙褐至鏽褐色的夏孢子堆，熟後散生深褐色斑點，造成葉片銹斑，為熱帶禾草常見之葉銹病病原之一。",
   "Puccinia sessilis,無柄柄銹菌,无柄柄锈菌,Arum Rust Ramsons Rust 線狀柄銹菌 线状柄锈菌,無柄柄銹菌，種小名sessilis意為「無柄的、直接著生的」。為一銹菌，於鋪地黍之葉上形成線狀排列之褐色孢子堆，致葉部條斑。舊名Puccinia linearis（線狀柄銹菌，種小名意為「線形的」，正指其線狀排列之孢子堆）經Index Fungorum判定為不合法名（Illegitimate），現行名為Puccinia sessilis。",
   "Puccinia spegazzinii,薇甘菊柄銹菌,薇甘菊柄锈菌,,薇甘菊柄銹菌，種小名spegazzinii紀念阿根廷真菌學家C. Spegazzini。為一銹菌，寄生於小花蔓澤蘭（薇甘菊）之葉片與莖上、形成褐色孢子堆而致病斑；曾被用作此入侵雜草之生物防治劑。",
   "Puccinia thaliae,美人蕉柄銹菌,美人蕉柄锈菌,Canna Rust,美人蕉柄銹菌，種小名thaliae意為「水竹芋屬（Thalia）的」，亦寄生於美人蕉。於美人蕉之葉形成黃褐色之夏孢子堆，致葉面黃斑，為其葉銹病。",
@@ -3591,6 +3592,7 @@
   "Rimelia reticulata,黑腹網裂梅衣,黑腹网裂梅衣",
   "Ripartitella alba,雪白岸生小菇,雪白岸生小菇,,雪白岸生小菇，種小名alba意為「白色的」。子實體小至中、通體白色；菌褶密；孢子表面具細疣（本屬特徵）；生於腐木與落葉層上。",
   "Ripartitella brasiliensis,巴西岸生小菇,巴西岸生小菇,Carnival Cap,巴西岸生小菇，種小名brasiliensis意為「巴西的」，指其模式產地。菌蓋白色而表面大部分為鱗片所覆蓋，菌褶白色，柄細長亦被鱗，子實體小型，孢子印白色，生於熱帶與亞熱帶林地之腐植質與腐木上。",
+  "Ripartites tricholoma,毛緣菇,毛缘菇,,毛緣菇，屬名與種小名皆意指其特徵：子實體小型，菌蓋半球形至扁平，白色至奶油白，表面密被細毛，中央常帶淡黃褐暈斑；菌褶邊緣呈細鋸齒狀流蘇；菌柄亦密被白色細毛。地生，見於林地枯枝落葉與草生地間。",
   "Roestelia pourthiaeae,石楠銹杯銹菌,石楠锈杯锈菌,石楠銹孢銹菌 石楠锈孢锈菌,石楠銹杯銹菌，種小名pourthiaeae意為「石楠屬（Pourthiaea/Photinia）的」，指其寄主。為一銹菌，於石楠之葉片與葉柄形成杯狀而周緣撕裂之銹孢子器（aecium），致病斑。本種原記為Aecidium pourthiaeae，Index Fungorum與GBIF均已改置Roestelia。",
   "Roridomyces aff. phyllostachydis,竹生滴小菇相似種,竹生滴小菇相似种,,竹生滴小菇相似種，子實體微小，菌蓋半球至鐘形、白色半透明而具放射狀溝紋；菌褶白色、稀疏；菌柄纖細、通體被厚滑黏液層，基部常凝結成透明露珠狀黏液滴，為本屬（Roridomyces）之典型特徵；數株叢生於枯竹上而非枯木。",
   "Roridomyces austrororidus,澳洲黏柄滴小菇,澳洲黏柄滴小菇,Austral Dripping Bonnet,澳洲黏柄滴小菇，種小名austrororidus意為「南方的roridus」，指其為滴小菇之南半球對應種。菌蓋小型淡褐至白色而具溝紋，菌褶白色，柄被極厚之透明滑黏液層（本屬特徵），生於腐木落枝。",

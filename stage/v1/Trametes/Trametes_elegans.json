@@ -2,6 +2,7 @@
  "genus": "Trametes",
  "name": "elegans",
  "date": [
+  "10/25/2026,29059982103685511",
   "09/06/2026,28338048949212167",
   "09/13/2025,24381202491563519",
   "08/24/2023,6327961537314224",
@@ -152,6 +153,42 @@
   {
    "author": "蔡古媧",
    "image_src": "Trametes_elegans_28338048949212167_90bf4c60-ac3b-11f1-83f6-8d892df3e840_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trametes_elegans_29059982103685511_a0ced960-d0d8-11f1-8d6a-ddbd555c2cf1_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trametes_elegans_29059982103685511_a0ced960-d0d8-11f1-8d6a-ddbd555c2cf1_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trametes_elegans_29059982103685511_a0ced960-d0d8-11f1-8d6a-ddbd555c2cf1_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trametes_elegans_29059982103685511_a0ced960-d0d8-11f1-8d6a-ddbd555c2cf1_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trametes_elegans_29059982103685511_a0ced960-d0d8-11f1-8d6a-ddbd555c2cf1_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trametes_elegans_29059982103685511_a0ced960-d0d8-11f1-8d6a-ddbd555c2cf1_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trametes_elegans_29059982103685511_a0ced960-d0d8-11f1-8d6a-ddbd555c2cf1_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trametes_elegans_29059982103685511_a0ced960-d0d8-11f1-8d6a-ddbd555c2cf1_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trametes_elegans_29059982103685511_a0ced960-d0d8-11f1-8d6a-ddbd555c2cf1_9.jpg"
   }
  ],
  "synonym": [
@@ -210,5 +247,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6108201/square.jpeg"
   }
  ],
- "timestamp": "20261025-185337"
+ "timestamp": "20261026-092612"
 }

@@ -2,7 +2,7 @@
  "name": "Puccinia",
  "zhtw": "柄銹菌屬",
  "zhcn": "柄锈菌属",
- "timestamp": "20261025-185337",
+ "timestamp": "20261026-092612",
  "list": [
   {
    "name": "Puccinia allii",
@@ -105,6 +105,12 @@
    "zhtw": "雞屎藤柄銹菌",
    "zhcn": "鸡屎藤柄锈菌",
    "img": "Aecidium_paederiae_00acd660-886b-11ef-be38-335f10af7160_1.jpg"
+  },
+  {
+   "name": "Puccinia paspalina",
+   "zhtw": "雀稗柄銹菌",
+   "zhcn": "雀稗柄锈菌",
+   "img": "Angiopsora_paspalicola_29030984756585246_29943600-d00c-11f1-a425-f981f8276161_1.jpg"
   },
   {
    "name": "Puccinia sessilis",

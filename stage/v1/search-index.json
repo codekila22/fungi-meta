@@ -1,5 +1,5 @@
 {
- "timestamp": "20261025-185337",
+ "timestamp": "20261026-092612",
  "list": [
   "Abortiporus biennis|Polypores|wood|50,150|4294919424,4291998860,4283244288",
   "Absidia sp.1|Parasitic,Molds|parasitic||4294967295",
@@ -143,7 +143,6 @@
   "Ampulloclitocybe clavipes|Agarics|ground|30,80|4286141768",
   "Amyloporia xantha|Polypores|wood||4294309365",
   "Amylosporus campbellii|Polypores|wood,ground|50,50|4294967295,4286141768,4292072403",
-  "Angiopsora paspalicola|Parasitic|leaves,parasitic||4294083840,4287317267",
   "Angioridium sinuosum|Slime Molds|wood,leaves||4294309365",
   "Annulohypoxylon annulatum|Crust/Patch|wood|5,40|4278190080",
   "Annulohypoxylon cf. nitens|Crust/Patch|wood|20,80|4278190080",
@@ -2005,6 +2004,7 @@
   "Puccinia mogiphanis|Parasitic|leaves,parasitic||4294083840",
   "Puccinia oxalidis|Parasitic|leaves,parasitic||4294956800",
   "Puccinia paederiae|Parasitic|leaves,parasitic||4294083840",
+  "Puccinia paspalina|Parasitic|leaves,parasitic||4294083840,4287317267",
   "Puccinia sessilis|Parasitic|leaves,parasitic||4294083840,4286141768",
   "Puccinia spegazzinii|Parasitic|leaves,parasitic||4294944000",
   "Puccinia thaliae|Parasitic|leaves,parasitic||4294956800,4294967040,4294944000",
@@ -2086,6 +2086,7 @@
   "Rimbachia cf. neckerae|Agarics|moss|2,8|4294967295",
   "Ripartitella alba|Agarics|wood|10,20|4294967295",
   "Ripartitella brasiliensis|Agarics|wood|10,40|4294901760,4294967295,4294921472",
+  "Ripartites tricholoma|Agarics|ground|15,40|4294967295,4294309340",
   "Roestelia pourthiaeae|Parasitic|leaves,parasitic||4294083840,4294944000",
   "Roridomyces aff. phyllostachydis|Agarics|bamboo||4294967295",
   "Roridomyces austrororidus|Agarics|wood|5,20|4294967295",
