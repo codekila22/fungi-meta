@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "leaiana",
  "date": [
+  "10/27/2026,29117275384622849",
   "01/13/2026,25492863343730756",
   "01/01/2026,25390112550672503",
   "12/31/2025,25381643508186074",
@@ -206,6 +207,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_leaiana_7d09ec00-f108-11f0-b159-c3d8fb6a4f6c_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leaiana_29117275384622849_3a9c85a0-d512-11f1-8047-0fec15490478_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leaiana_29117275384622849_3a9c85a0-d512-11f1-8047-0fec15490478_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leaiana_29117275384622849_3a9c85a0-d512-11f1-8047-0fec15490478_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_leaiana_29117275384622849_3a9c85a0-d512-11f1-8047-0fec15490478_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -274,5 +291,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/322266620/square.jpg"
   }
  ],
- "timestamp": "20261031-143159"
+ "timestamp": "20261031-181305"
 }

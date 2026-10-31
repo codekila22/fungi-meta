@@ -2,6 +2,7 @@
  "genus": "Inocybe",
  "name": "lacera",
  "date": [
+  "10/29/2026,29135296352820752",
   "01/03/2025,27365933316423740"
  ],
  "names_zhtw": [
@@ -51,6 +52,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Inocybe_lacera_73527d30-710f-11f1-a16f-0b14e3dad96d_10.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Inocybe_lacera_29135296352820752_7698f7a0-d512-11f1-8047-0fec15490478_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Inocybe_lacera_29135296352820752_7698f7a0-d512-11f1-8047-0fec15490478_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Inocybe_lacera_29135296352820752_7698f7a0-d512-11f1-8047-0fec15490478_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Inocybe_lacera_29135296352820752_7698f7a0-d512-11f1-8047-0fec15490478_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Inocybe_lacera_29135296352820752_7698f7a0-d512-11f1-8047-0fec15490478_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -122,5 +143,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261031-143159"
+ "timestamp": "20261031-181305"
 }

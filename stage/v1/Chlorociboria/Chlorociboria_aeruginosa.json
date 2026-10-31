@@ -2,6 +2,7 @@
  "genus": "Chlorociboria",
  "name": "aeruginosa",
  "date": [
+  "10/27/2026,29146225358394518",
   "06/29/2025,9993861594057515",
   "06/10/2024,7522592974517735",
   "08/31/2023,7522592974517735",
@@ -95,6 +96,22 @@
   {
    "author": "向高世",
    "image_src": "Chlorociboria_aeruginosa_38e850f0-5c9f-11f0-8039-7537bfffee6b_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chlorociboria_aeruginosa_29146225358394518_a0a2fc90-d4f8-11f1-8047-0fec15490478_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chlorociboria_aeruginosa_29146225358394518_a0a2fc90-d4f8-11f1-8047-0fec15490478_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chlorociboria_aeruginosa_29146225358394518_a0a2fc90-d4f8-11f1-8047-0fec15490478_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chlorociboria_aeruginosa_29146225358394518_a0a2fc90-d4f8-11f1-8047-0fec15490478_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -147,5 +164,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/94085864/thumb.jpeg"
   }
  ],
- "timestamp": "20261031-143159"
+ "timestamp": "20261031-181305"
 }

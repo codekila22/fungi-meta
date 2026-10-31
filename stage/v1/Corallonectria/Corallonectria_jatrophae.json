@@ -80,5 +80,14 @@
   "la_zhtw": "朱紅叢赤殼菌,,",
   "la_zhcn": "朱红丛赤壳菌,,"
  },
- "timestamp": "20261031-143159"
+ "inaturalist": [
+  {
+   "name": "Corallonectria jatrophae",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/972133",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32495934/square.jpeg"
+  }
+ ],
+ "timestamp": "20261031-181305"
 }
