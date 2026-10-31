@@ -2,6 +2,7 @@
  "genus": "Chrysothrix",
  "name": "xanthina",
  "date": [
+  "10/26/2026,29084454191238302",
   "03/03/2025,9164314010345615",
   "02/23/2025,9105598986217118"
  ],
@@ -56,6 +57,22 @@
   {
    "author": "陳麗紅",
    "image_src": "Chrysothrix_xanthina_7a5432f0-fcc5-11ef-982c-79fd035b2bd2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chrysothrix_xanthina_29084454191238302_385c86b0-d25f-11f1-928c-8b20c76c083b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chrysothrix_xanthina_29084454191238302_385c86b0-d25f-11f1-928c-8b20c76c083b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chrysothrix_xanthina_29084454191238302_385c86b0-d25f-11f1-928c-8b20c76c083b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Chrysothrix_xanthina_29084454191238302_385c86b0-d25f-11f1-928c-8b20c76c083b_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -105,5 +122,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/27561843/thumb.jpg"
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261031-143159"
 }

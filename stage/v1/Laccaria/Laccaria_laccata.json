@@ -2,6 +2,7 @@
  "genus": "Laccaria",
  "name": "laccata",
  "date": [
+  "10/27/2026,29081045541579167",
   "07/25/2026,27708330965517305",
   "06/20/2026,27297698356580570",
   "03/19/2025,9294091020701246",
@@ -154,6 +155,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Laccaria_laccata_2b145f50-0dc1-11f0-b438-7bebf53521a5_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Laccaria_laccata_29081045541579167_e58f4a60-d1f2-11f1-837a-5f83c12d8a46_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Laccaria_laccata_29081045541579167_e58f4a60-d1f2-11f1-837a-5f83c12d8a46_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Laccaria_laccata_29081045541579167_e58f4a60-d1f2-11f1-837a-5f83c12d8a46_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Laccaria_laccata_29081045541579167_e58f4a60-d1f2-11f1-837a-5f83c12d8a46_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -184,15 +201,17 @@
   "StalkDiamRangeValuess": "2,3",
   "StalkLengthRangeValuess": "30,50",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "common",
   "Elevation": "low,mid",
   "Tropical": "",
   "Seasons": "spring,summer,autumn",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "ground",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -264,5 +283,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261031-143159"
 }

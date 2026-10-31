@@ -2,6 +2,7 @@
  "genus": "Plicatura",
  "name": "crispa",
  "date": [
+  "10/27/2026,29095623446788043",
   "01/06/2026,25432869543063470",
   "12/31/2025,25380681278282297",
   "11/03/2025,24907837212233375",
@@ -395,6 +396,22 @@
   {
    "author": "吳湯姆",
    "image_src": "Plicaturopsis_crispa_feb6db30-ee7b-11f0-b80c-fb8f1759fc70_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_29095623446788043_f628d690-d2ae-11f1-928c-8b20c76c083b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_29095623446788043_f628d690-d2ae-11f1-928c-8b20c76c083b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_29095623446788043_f628d690-d2ae-11f1-928c-8b20c76c083b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Plicatura_crispa_29095623446788043_f628d690-d2ae-11f1-928c-8b20c76c083b_4.jpg"
   }
  ],
  "synonym": [
@@ -453,5 +470,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4135520/square."
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261031-143159"
 }

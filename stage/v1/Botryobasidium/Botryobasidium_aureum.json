@@ -2,6 +2,7 @@
  "genus": "Botryobasidium",
  "name": "aureum",
  "date": [
+  "10/28/2026,29129474006736320",
   "02/15/2026,25811256188558135",
   "01/04/2026,25738849205798834"
  ],
@@ -98,6 +99,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Botryobasidium_aureum_09e35470-0ace-11f1-bd9e-47c11d2b9bdb_6.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Botryobasidium_aureum_29129474006736320_b07524b0-d4f1-11f1-8047-0fec15490478_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Botryobasidium_aureum_29129474006736320_b07524b0-d4f1-11f1-8047-0fec15490478_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Botryobasidium_aureum_29129474006736320_b07524b0-d4f1-11f1-8047-0fec15490478_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Botryobasidium_aureum_29129474006736320_b07524b0-d4f1-11f1-8047-0fec15490478_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Botryobasidium_aureum_29129474006736320_b07524b0-d4f1-11f1-8047-0fec15490478_5.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Botryobasidium_aureum_29129474006736320_b07524b0-d4f1-11f1-8047-0fec15490478_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -147,5 +172,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/355549225/thumb.jpg"
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261031-143159"
 }

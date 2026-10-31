@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "lazulina",
  "date": [
+  "10/26/2026,29065266616490393",
   "08/30/2026,28235812286102501",
   "08/18/2026,28032403439776721",
   "08/16/2026,28026130453737353",
@@ -493,6 +494,22 @@
   {
    "author": "姜淋友",
    "image_src": "Mycena_lazulina_28032403439776721_73504be0-9ba4-11f1-9a67-4f01e6d27505_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_lazulina_29065266616490393_d8ff1300-d19a-11f1-8b4e-9f320944660d_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_lazulina_29065266616490393_d8ff1300-d19a-11f1-8b4e-9f320944660d_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_lazulina_29065266616490393_d8ff1300-d19a-11f1-8b4e-9f320944660d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_lazulina_29065266616490393_d8ff1300-d19a-11f1-8b4e-9f320944660d_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -521,15 +538,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "occacional",
+  "Rareness": "common",
   "Elevation": "low",
   "Tropical": "",
   "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "bamboo",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "weak",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -545,5 +564,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/41875596/thumb.jpeg"
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261031-143159"
 }

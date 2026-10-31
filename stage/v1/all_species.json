@@ -1,5 +1,5 @@
 {
- "timestamp": "20261026-100842",
+ "timestamp": "20261031-143159",
  "config": {
   "cover": {
    "image": "cover-photo-3.jpg",
@@ -226,6 +226,7 @@
    "Chrysonectria,金赤殼菌屬,金赤壳菌属",
    "Clonostachys,黏帚黴屬,黏帚霉属",
    "Colpoma,彎殼菌屬,弯壳菌属",
+   "Corallonectria,珊瑚赤殼屬,珊瑚赤壳属",
    "Cosmospora,赤殼屬,赤壳属",
    "Cotylidia,杯革菌屬,杯革菌属",
    "Crustodontia,殼齒菌屬,壳齿菌属",
@@ -1107,7 +1108,7 @@
    "Turbinellus,釘菇屬,钉菇属"
   ]
  },
- "total_species": 2531,
+ "total_species": 2532,
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌,Blushing Rosette,二年殘孔菌，種小名biennis意為「二年生的」。子實體扇形、半圓形至漏斗狀，常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白或淡黃而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。",
   "Absidia sp.1,犁頭黴,犁头霉,,犁頭黴，菌絲發達，於匍匐菌絲間生出孢囊柄，頂端著生梨形之孢子囊、囊軸與囊托明顯；本紀錄似寄生於成熟之黏菌上，為一尚待鑑定之種。",
@@ -1787,6 +1788,7 @@
   "Coprinus comatus,毛頭鬼傘,毛头鬼伞,Shaggy Mane Shaggy Ink Cap 雞腿菇 鸡腿菇,毛頭鬼傘，種小名comatus意為「具長髮的」，指其菌蓋表面翹起如髮之大型鱗片。菌蓋初圓柱形、白色、被大型翻捲之鱗片、後鐘形而由緣墨化液化；菌褶密、初白後轉黑；柄白而中空、具一可移動之菌環。與含酒精食物一起食用會產生中毒反應。",
   "Coprinus leucostictus,白斑鬼傘,白斑鬼伞",
   "Coprinus patouillardii,帕氏鬼傘,帕氏鬼伞",
+  "Corallonectria jatrophae,麻瘋樹珊瑚赤殼菌,麻疯树珊瑚赤壳菌,,麻瘋樹珊瑚赤殼菌，種小名jatrophae指其寄主麻瘋樹（Jatropha curcas）。子囊殼細小、鮮紅至橙紅色，密集叢生成珊瑚狀瘤狀簇團，好發於已枯死變黑之麻瘋樹莖幹表面，為該屬模式種，亦是麻瘋樹枝幹枯梢病之病原真菌之一。",
   "Cordierites coralloides,珊瑚狀復柄盤菌,珊瑚状复柄盘菌,,珊瑚狀復柄盤菌，種小名coralloides意為「珊瑚狀的」，指其分裂之子實體。子實體膠質、暗色、盤狀而多裂；為一菌寄生真菌，其束梗孢外型者為無性世代，寄生於柄座菌屬（Kretzschmaria）上。",
   "Cordyceps cylindrica,柱形蟲草,柱形虫草,,柱形蟲草，種小名cylindrica意為「圓柱形的」。子座自埋於土中之寄主蜘蛛伸出、圓柱狀而具頭部，內生子囊殼；紫殭菌（Purpureocillium atypicola）為其無性型。",
   "Cordyceps farinosa,粉粒擬青黴,粉粒拟青霉,,粉粒擬青黴，種小名farinosa意為「被粉的」，指其表面覆白色粉狀分生孢子。本種常見之無性世代自寄生之鱗翅目蛹體長出直立分枝之孢梗束、白至淡黃而頂端粉狀，生於林地落葉層。",

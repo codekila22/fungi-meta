@@ -1,5 +1,5 @@
 {
- "timestamp": "20261026-100842",
+ "timestamp": "20261031-143159",
  "list": [
   "Abortiporus biennis|Polypores|wood|50,150|4294919424,4291998860,4283244288",
   "Absidia sp.1|Parasitic,Molds|parasitic||4294967295",
@@ -588,6 +588,7 @@
   "Coprinopsis urticicola|Agarics|leaves|3,8|4294967295",
   "Coprinopsis variegata|Agarics|wood|40,80|4292664540",
   "Coprinus comatus|Agarics|ground,meadow|30,50|4294967295,4290822336",
+  "Corallonectria jatrophae|Crust/Patch|wood|0,1|4294910976,4287299584",
   "Cordierites coralloides|Parasitic|wood,parasitic||4294967295,4292786311,4294960324",
   "Cordyceps cylindrica|Parasitic,Clubs/Coral|parasitic||4291605388",
   "Cordyceps farinosa|Parasitic,Clubs/Coral|parasitic|5,30|4294309365",
@@ -2086,7 +2087,7 @@
   "Rimbachia cf. neckerae|Agarics|moss|2,8|4294967295",
   "Ripartitella alba|Agarics|wood|10,20|4294967295",
   "Ripartitella brasiliensis|Agarics|wood|10,40|4294901760,4294967295,4294921472",
-  "Ripartites tricholoma|Agarics|ground|15,40|4294967295,4294309340",
+  "Ripartites tricholoma|Agarics|ground,debris|15,40|4294967295,4294309340",
   "Roestelia pourthiaeae|Parasitic|leaves,parasitic||4294083840,4294944000",
   "Roridomyces aff. phyllostachydis|Agarics|bamboo||4294967295",
   "Roridomyces austrororidus|Agarics|wood|5,20|4294967295",

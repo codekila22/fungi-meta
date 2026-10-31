@@ -2,6 +2,7 @@
  "genus": "Chaetocalathus",
  "name": "craterellus",
  "date": [
+  "10/26/2026,29084033817947006",
   "05/02/2026,26654483197568759",
   "03/14/2025,9189860437790972",
   "06/30/2024,7692146684229029",
@@ -269,6 +270,22 @@
   {
    "author": "Sunny Wang",
    "image_src": "Chaetocalathus_craterellus_4f14f430-66f5-11f1-8097-490244077f1a_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Chaetocalathus_craterellus_29084033817947006_87d5c1a0-d1fd-11f1-912d-0b33804b24f0_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Chaetocalathus_craterellus_29084033817947006_87d5c1a0-d1fd-11f1-912d-0b33804b24f0_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Chaetocalathus_craterellus_29084033817947006_87d5c1a0-d1fd-11f1-912d-0b33804b24f0_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Chaetocalathus_craterellus_29084033817947006_87d5c1a0-d1fd-11f1-912d-0b33804b24f0_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -297,13 +314,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "low,mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped,scattered",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Chaetocalathus aff. craterellus,,",
@@ -321,5 +342,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/37878755/thumb.jpeg"
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261031-143159"
 }
