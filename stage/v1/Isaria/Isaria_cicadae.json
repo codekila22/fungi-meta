@@ -2,6 +2,7 @@
  "genus": "Isaria",
  "name": "cicadae",
  "date": [
+  "10/29/2026,29146733215010399",
   "04/09/2026,26371053905911691",
   "06/25/2024,7562644673845898",
   "05/31/2024,7435180463258987",
@@ -172,6 +173,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Isaria_cicadae_375b8440-3418-11f1-b3ea-2792ecee302d_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Isaria_cicadae_29146733215010399_9af1e9c0-d519-11f1-8047-0fec15490478_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Isaria_cicadae_29146733215010399_9af1e9c0-d519-11f1-8047-0fec15490478_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Isaria_cicadae_29146733215010399_9af1e9c0-d519-11f1-8047-0fec15490478_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Isaria_cicadae_29146733215010399_9af1e9c0-d519-11f1-8047-0fec15490478_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Isaria_cicadae_29146733215010399_9af1e9c0-d519-11f1-8047-0fec15490478_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Isaria_cicadae_29146733215010399_9af1e9c0-d519-11f1-8047-0fec15490478_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -221,5 +246,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/6108175/thumb.jpeg"
   }
  ],
- "timestamp": "20261031-181305"
+ "timestamp": "20261101-101913"
 }

@@ -2,7 +2,8 @@
  "genus": "Calogaya",
  "name": "decipiens",
  "date": [
-  "07/05/2026,27521883630828707"
+  "07/05/2026,27521883630828707",
+  "03/24/2026,29151024677914586"
  ],
  "names_zhtw": [
   "擬美橙衣(暫名)"
@@ -111,6 +112,26 @@
   {
    "author": "Sunny Wang",
    "image_src": "Calogaya_decipiens_27521883630828707_bf994aa0-7ce7-11f1-a10a-9f31227dc601_25.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calogaya_decipiens_29151024677914586_f6edcde0-d517-11f1-8047-0fec15490478_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calogaya_decipiens_29151024677914586_f6edcde0-d517-11f1-8047-0fec15490478_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calogaya_decipiens_29151024677914586_f6edcde0-d517-11f1-8047-0fec15490478_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calogaya_decipiens_29151024677914586_f6edcde0-d517-11f1-8047-0fec15490478_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calogaya_decipiens_29151024677914586_f6edcde0-d517-11f1-8047-0fec15490478_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -176,5 +197,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261031-181305"
+ "timestamp": "20261101-101913"
 }
