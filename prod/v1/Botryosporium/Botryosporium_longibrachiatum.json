@@ -2,6 +2,7 @@
  "genus": "Botryosporium",
  "name": "longibrachiatum",
  "date": [
+  "10/25/2026,29084606584556396",
   "10/18/2025,24711183545232077",
   "10/08/2023,6523764774400565",
   "10/08/2023,6514004842043225",
@@ -225,6 +226,10 @@
   {
    "author": "江志緯",
    "image_src": "Botryosporium_longibrachiatum_19859bb0-abcc-11f0-a7e3-f14bed0cea26_9.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Botryosporium_longibrachiatum_29084606584556396_3a834f80-d59a-11f1-adf5-05c197342c19_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -252,13 +257,18 @@
   "StalkBase": "",
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
-  "Rareness": "",
-  "Seasons": "",
-  "GrowthType": "",
+  "HeightRangeValuess": "",
+  "Rareness": "common",
+  "Elevation": "low,mid",
+  "Tropical": "",
+  "Seasons": "spring,summer,autumn,winter",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -273,5 +283,5 @@
    "src": "https://static.inaturalist.org/photos/219136290/thumb.jpg"
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261101-170522"
 }

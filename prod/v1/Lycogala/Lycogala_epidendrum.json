@@ -2,6 +2,7 @@
  "genus": "Lycogala",
  "name": "epidendrum",
  "date": [
+  "10/26/2026,29135294209487633",
   "08/14/2026,27920096977674035",
   "07/30/2026,28118485874413412",
   "07/07/2026,27545918331758570",
@@ -319,6 +320,14 @@
   {
    "author": "陳中城",
    "image_src": "Lycogala_epidendrum_27920096977674035_5e5b6e30-97ae-11f1-83ab-57a20a0eaaa6_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycogala_epidendrum_29135294209487633_064ef5a0-d51a-11f1-8047-0fec15490478_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycogala_epidendrum_29135294209487633_064ef5a0-d51a-11f1-8047-0fec15490478_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -382,5 +391,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1140317/thumb.jpg"
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261101-170522"
 }

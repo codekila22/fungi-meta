@@ -2,6 +2,7 @@
  "genus": "Trypethelium",
  "name": "eluteriae",
  "date": [
+  "10/28/2026,29097809343236120",
   "01/23/2026,25583571524659937",
   "01/22/2024,6886754244768281",
   "01/21/2024,6883127151797657",
@@ -156,6 +157,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Trypethelium_eluteriae_bd4eee10-f864-11f0-92d9-5ba924b418c2_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trypethelium_eluteriae_29097809343236120_4f876a30-d584-11f1-adf5-05c197342c19_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trypethelium_eluteriae_29097809343236120_4f876a30-d584-11f1-adf5-05c197342c19_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trypethelium_eluteriae_29097809343236120_4f876a30-d584-11f1-adf5-05c197342c19_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trypethelium_eluteriae_29097809343236120_4f876a30-d584-11f1-adf5-05c197342c19_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trypethelium_eluteriae_29097809343236120_4f876a30-d584-11f1-adf5-05c197342c19_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Trypethelium_eluteriae_29097809343236120_4f876a30-d584-11f1-adf5-05c197342c19_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -205,5 +230,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14160328/thumb.jpeg"
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261101-170522"
 }

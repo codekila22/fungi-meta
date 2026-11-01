@@ -2,6 +2,7 @@
  "genus": "Suillus",
  "name": "americanus",
  "date": [
+  "10/29/2026,29117538421263212",
   "08/21/2026,28071224965894568",
   "05/12/2026,26778334881850256",
   "04/10/2026,29015076614842727",
@@ -83,6 +84,10 @@
   {
    "author": "黃金興",
    "image_src": "Suillus_americanus_29015076614842727_739b9f00-cee4-11f1-aa9c-f739fb4ea267_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Suillus_americanus_29117538421263212_86262740-d5aa-11f1-841b-e5afaf5d96da_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -137,5 +142,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/186136/thumb.jpg"
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261101-170522"
 }

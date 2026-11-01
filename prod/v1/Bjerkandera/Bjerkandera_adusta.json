@@ -2,6 +2,7 @@
  "genus": "Bjerkandera",
  "name": "adusta",
  "date": [
+  "10/27/2026,29095818426768545",
   "12/23/2024,8730713033705717",
   "11/12/2024,8510858592357830",
   "09/15/2024,8063759813734379",
@@ -242,6 +243,34 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Bjerkandera_adusta_8f61e6a0-c17f-11ef-a781-251d43f0b055_19.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_adusta_29095818426768545_1c38dc00-d57e-11f1-adf5-05c197342c19_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_adusta_29095818426768545_1c38dc00-d57e-11f1-adf5-05c197342c19_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_adusta_29095818426768545_1c38dc00-d57e-11f1-adf5-05c197342c19_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_adusta_29095818426768545_1c38dc00-d57e-11f1-adf5-05c197342c19_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_adusta_29095818426768545_1c38dc00-d57e-11f1-adf5-05c197342c19_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_adusta_29095818426768545_1c38dc00-d57e-11f1-adf5-05c197342c19_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Bjerkandera_adusta_29095818426768545_1c38dc00-d57e-11f1-adf5-05c197342c19_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -294,5 +323,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13445427/thumb.jpeg"
   }
  ],
- "timestamp": "20261026-100842"
+ "timestamp": "20261101-170522"
 }
