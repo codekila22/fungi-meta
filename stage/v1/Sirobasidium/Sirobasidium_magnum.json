@@ -2,6 +2,7 @@
  "genus": "Sirobasidium",
  "name": "magnum",
  "date": [
+  "11/02/2026,29200909422926111",
   "08/25/2026,28123986087285122",
   "06/20/2026,27294212903595782",
   "12/15/2025,25259323703751389",
@@ -157,6 +158,42 @@
   {
    "author": "何俊霖",
    "image_src": "Sirobasidium_magnum_28123986087285122_2c2268f0-a10f-11f1-8dc5-1becb85f8fbc_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Sirobasidium_magnum_29200909422926111_8ddc14c0-d78c-11f1-99db-112d7c55853a_1.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Sirobasidium_magnum_29200909422926111_8ddc14c0-d78c-11f1-99db-112d7c55853a_2.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Sirobasidium_magnum_29200909422926111_8ddc14c0-d78c-11f1-99db-112d7c55853a_3.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Sirobasidium_magnum_29200909422926111_8ddc14c0-d78c-11f1-99db-112d7c55853a_4.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Sirobasidium_magnum_29200909422926111_8ddc14c0-d78c-11f1-99db-112d7c55853a_5.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Sirobasidium_magnum_29200909422926111_8ddc14c0-d78c-11f1-99db-112d7c55853a_6.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Sirobasidium_magnum_29200909422926111_8ddc14c0-d78c-11f1-99db-112d7c55853a_7.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Sirobasidium_magnum_29200909422926111_8ddc14c0-d78c-11f1-99db-112d7c55853a_8.jpg"
+  },
+  {
+   "author": "黃金興",
+   "image_src": "Sirobasidium_magnum_29200909422926111_8ddc14c0-d78c-11f1-99db-112d7c55853a_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -188,7 +225,7 @@
   "Rareness": "occacional",
   "Elevation": "low,mid",
   "Tropical": "no",
-  "Seasons": "",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "NearHome": "",
@@ -213,5 +250,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/15573843/thumb.jpg"
   }
  ],
- "timestamp": "20261102-092938"
+ "timestamp": "20261106-143724"
 }

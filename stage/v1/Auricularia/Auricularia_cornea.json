@@ -2,6 +2,7 @@
  "genus": "Auricularia",
  "name": "cornea",
  "date": [
+  "11/01/2026,29169025939447793",
   "09/27/2026,29063982626618792",
   "08/22/2026,28093610850322646",
   "08/11/2026,27932586716425061",
@@ -740,6 +741,14 @@
   {
    "author": "江志緯",
    "image_src": "Auricularia_cornea_29063982626618792_3374ed60-d1db-11f1-837a-5f83c12d8a46_7.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Auricularia_cornea_29169025939447793_ed8a2c50-d696-11f1-80e7-ebbe4b4e4d16_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Auricularia_cornea_29169025939447793_ed8a2c50-d696-11f1-80e7-ebbe4b4e4d16_2.jpg"
   }
  ],
  "names_zhcn": [
@@ -797,5 +806,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/28895640/thumb.jpg"
   }
  ],
- "timestamp": "20261102-092938"
+ "timestamp": "20261106-143724"
 }
