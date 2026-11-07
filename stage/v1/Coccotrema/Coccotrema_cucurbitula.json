@@ -2,6 +2,7 @@
  "genus": "Coccotrema",
  "name": "cucurbitula",
  "date": [
+  "11/03/2026,29215693354781051",
   "12/27/2025,25356856010664824"
  ],
  "names_zhtw": [
@@ -53,6 +54,22 @@
   {
    "author": "江志緯",
    "image_src": "Coccotrema_cucurbitula_8a6e77c0-e3d5-11f0-a557-8f7c45b3e5c1_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coccotrema_cucurbitula_29215693354781051_c1f17100-d9e5-11f1-aab3-5bcdacc37851_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coccotrema_cucurbitula_29215693354781051_c1f17100-d9e5-11f1-aab3-5bcdacc37851_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coccotrema_cucurbitula_29215693354781051_c1f17100-d9e5-11f1-aab3-5bcdacc37851_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Coccotrema_cucurbitula_29215693354781051_c1f17100-d9e5-11f1-aab3-5bcdacc37851_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -102,5 +119,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/66771734/thumb.jpeg"
   }
  ],
- "timestamp": "20261106-143724"
+ "timestamp": "20261107-170856"
 }

@@ -14,6 +14,7 @@
   "03/08/2024,7076954385748265",
   "12/15/2023,6745416135568760",
   "12/14/2023,7235933336517035",
+  "12/14/2023,29244818605201859",
   "12/13/2023,6741149969328710",
   "11/20/2023,6670484379728603",
   "05/06/2023,5994504737326574",
@@ -527,6 +528,50 @@
   {
    "author": "陳麗紅",
    "image_src": "Pholiota_aurivella_28819164221100635_06cc6ba0-c5c7-11f1-88d8-611cf417b423_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_10.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Pholiota_aurivella_29244818605201859_756d27d0-d9b2-11f1-b463-f98f39477909_11.jpg"
   }
  ],
  "names_zhcn": [
@@ -556,12 +601,16 @@
   "StalkLengthRangeValuess": "40,150",
   "HeightRangeValuess": "",
   "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "autumn,winter",
   "GrowthType": "scattered,grouped",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -605,5 +654,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261106-143724"
+ "timestamp": "20261107-170856"
 }

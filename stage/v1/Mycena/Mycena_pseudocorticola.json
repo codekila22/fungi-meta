@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "pseudocorticola",
  "date": [
+  "11/07/2026,29267715276245525",
   "05/31/2025,9846577178785958",
   "05/31/2025,9854897414620601",
   "03/16/2025,9213432982100384",
@@ -332,6 +333,26 @@
   {
    "author": "江志緯",
    "image_src": "Mycena_pseudocorticola_d0eee310-48c1-11f0-a3ac-933aeb317ee6_15.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_pseudocorticola_29267715276245525_0dc9ff80-da8a-11f1-ba8a-69a001ff58a8_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_pseudocorticola_29267715276245525_0dc9ff80-da8a-11f1-ba8a-69a001ff58a8_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_pseudocorticola_29267715276245525_0dc9ff80-da8a-11f1-ba8a-69a001ff58a8_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_pseudocorticola_29267715276245525_0dc9ff80-da8a-11f1-ba8a-69a001ff58a8_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_pseudocorticola_29267715276245525_0dc9ff80-da8a-11f1-ba8a-69a001ff58a8_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -381,5 +402,5 @@
    "src": "https://static.inaturalist.org/photos/58411921/thumb.jpg"
   }
  ],
- "timestamp": "20261106-143724"
+ "timestamp": "20261107-170856"
 }
