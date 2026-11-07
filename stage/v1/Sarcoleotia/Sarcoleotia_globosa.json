@@ -13,15 +13,19 @@
  "images": [
   {
    "author": "陳麗紅",
+   "image_src": "Sarcoleotia_globosa_6613223928787982_e6a5f7c0-da88-11f1-ba8a-69a001ff58a8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Sarcoleotia_globosa_29267488852934834_1ac5a050-da89-11f1-ba8a-69a001ff58a8_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
    "image_src": "Sarcoleotia_globosa_6613223928787982_e6a5f7c0-da88-11f1-ba8a-69a001ff58a8_1.jpg"
   },
   {
    "author": "陳麗紅",
    "image_src": "Sarcoleotia_globosa_6613223928787982_e6a5f7c0-da88-11f1-ba8a-69a001ff58a8_2.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Sarcoleotia_globosa_6613223928787982_e6a5f7c0-da88-11f1-ba8a-69a001ff58a8_3.jpg"
   },
   {
    "author": "陳麗紅",
@@ -50,10 +54,6 @@
   {
    "author": "陳麗紅",
    "image_src": "Sarcoleotia_globosa_29267488852934834_1ac5a050-da89-11f1-ba8a-69a001ff58a8_2.jpg"
-  },
-  {
-   "author": "陳麗紅",
-   "image_src": "Sarcoleotia_globosa_29267488852934834_1ac5a050-da89-11f1-ba8a-69a001ff58a8_3.jpg"
   },
   {
    "author": "陳麗紅",
@@ -103,5 +103,14 @@
   "Note": "球肉錘菌，種小名globosa意為「球形的」，指頭部近球形。子實體具柄，頭部近球形至饅頭狀、肉質而略具光澤，色澤暗褐至栗黑；柄細長、色淺，表面具細顆粒狀質地；地生，常見於潮濕苔蘚地與高山凍原、針葉林下的苔蘚間，群生或散生。外形雖似錘舌菌屬，實為地舌菌科成員。",
   "GrowthEco": "saprotrophic"
  },
- "timestamp": "20261107-170856"
+ "inaturalist": [
+  {
+   "name": "Sarcoleotia globosa",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/359417",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/441061242/square.jpg"
+  }
+ ],
+ "timestamp": "20261107-175937"
 }

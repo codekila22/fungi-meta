@@ -2,6 +2,7 @@
  "genus": "Psathyrella",
  "name": "rugocephala",
  "date": [
+  "11/07/2026,29267640686252984",
   "07/17/2026,27625433953807007",
   "06/23/2026,27347534741596931",
   "03/04/2026,25979916648358754",
@@ -420,6 +421,34 @@
   {
    "author": "吳湯姆",
    "image_src": "Psathyrella_rugocephala_27625433953807007_f430a910-826a-11f1-b205-db611c601ea1_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Psathyrella_rugocephala_29267640686252984_d7667a10-da8c-11f1-ba8a-69a001ff58a8_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Psathyrella_rugocephala_29267640686252984_d7667a10-da8c-11f1-ba8a-69a001ff58a8_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Psathyrella_rugocephala_29267640686252984_d7667a10-da8c-11f1-ba8a-69a001ff58a8_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Psathyrella_rugocephala_29267640686252984_d7667a10-da8c-11f1-ba8a-69a001ff58a8_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Psathyrella_rugocephala_29267640686252984_d7667a10-da8c-11f1-ba8a-69a001ff58a8_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Psathyrella_rugocephala_29267640686252984_d7667a10-da8c-11f1-ba8a-69a001ff58a8_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Psathyrella_rugocephala_29267640686252984_d7667a10-da8c-11f1-ba8a-69a001ff58a8_7.jpg"
   }
  ],
  "names_zhcn": [
@@ -469,5 +498,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/13086385/thumb.jpeg"
   }
  ],
- "timestamp": "20261107-170856"
+ "timestamp": "20261107-175937"
 }

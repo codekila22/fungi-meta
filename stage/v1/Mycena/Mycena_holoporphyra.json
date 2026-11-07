@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "holoporphyra",
  "date": [
+  "11/05/2026,29268397236177329",
   "09/26/2026,28608992958784430",
   "04/03/2024,7257296407714061",
   "03/15/2024,7117230475053989",
@@ -240,6 +241,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Mycena_holoporphyra_28608992958784430_861a35e0-ba0a-11f1-9453-83049668c324_11.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_holoporphyra_29268397236177329_f453e9e0-da8d-11f1-a426-4174402355b2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_holoporphyra_29268397236177329_f453e9e0-da8d-11f1-a426-4174402355b2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_holoporphyra_29268397236177329_f453e9e0-da8d-11f1-a426-4174402355b2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_holoporphyra_29268397236177329_f453e9e0-da8d-11f1-a426-4174402355b2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_holoporphyra_29268397236177329_f453e9e0-da8d-11f1-a426-4174402355b2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -294,5 +315,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174121814/thumb.jpeg"
   }
  ],
- "timestamp": "20261107-170856"
+ "timestamp": "20261107-175937"
 }
