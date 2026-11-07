@@ -4,7 +4,6 @@
  "date": [
   "11/02/2026,29215936104756776",
   "02/11/2025,9001961823247502",
-  "03/26/2024,7142893992487637",
   "03/10/2024,7142893992487637",
   "03/22/2023,5816689065108143",
   "02/28/2023,5742852389158478",
@@ -160,26 +159,6 @@
   },
   {
    "author": "Sunny Wang",
-   "image_src": "Nitschkia_grevillei_ef561500-eeed-11ee-96df-41216fa2a756_10.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Nitschkia_grevillei_ef561500-eeed-11ee-96df-41216fa2a756_11.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Nitschkia_grevillei_ef561500-eeed-11ee-96df-41216fa2a756_12.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Nitschkia_grevillei_ef561500-eeed-11ee-96df-41216fa2a756_13.jpg"
-  },
-  {
-   "author": "Sunny Wang",
-   "image_src": "Nitschkia_grevillei_ef561500-eeed-11ee-96df-41216fa2a756_14.jpg"
-  },
-  {
-   "author": "Sunny Wang",
    "image_src": "Nitschkia_grevillei_ef561500-eeed-11ee-96df-41216fa2a756_15.jpg"
   },
   {
@@ -290,5 +269,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/186364826/square.jpeg"
   }
  ],
- "timestamp": "20261107-175937"
+ "timestamp": "20261107-222151"
 }

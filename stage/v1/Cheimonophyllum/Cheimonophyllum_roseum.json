@@ -2,6 +2,7 @@
  "genus": "Cheimonophyllum",
  "name": "roseum",
  "date": [
+  "11/05/2026,29234365919580461",
   "09/29/2025,24514392281577872",
   "09/08/2025,24432770493073385",
   "08/24/2024,7910186342425061",
@@ -220,6 +221,18 @@
   {
    "author": "James Ho",
    "image_src": "Cheimonophyllum_roseum_607fed70-abf1-11f0-b9dc-b7db1f4ac827_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cheimonophyllum_roseum_29234365919580461_c0f46260-daa0-11f1-af0b-5b6f9fb8db76_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cheimonophyllum_roseum_29234365919580461_c0f46260-daa0-11f1-af0b-5b6f9fb8db76_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Cheimonophyllum_roseum_29234365919580461_c0f46260-daa0-11f1-af0b-5b6f9fb8db76_3.jpg"
   }
  ],
  "names_zhcn": [
@@ -271,5 +284,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/1330907/thumb.jpg"
   }
  ],
- "timestamp": "20261107-175937"
+ "timestamp": "20261107-222151"
 }

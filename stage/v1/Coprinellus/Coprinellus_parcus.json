@@ -320,7 +320,7 @@
   "CapColors": "4294967295",
   "CapDiamRangeValues": "3,9",
   "CapShape": "",
-  "CapTexture": "",
+  "CapTexture": "velvety",
   "CapMargin": "",
   "HymeniumType": "gilled",
   "HymeniumColors": "",
@@ -331,7 +331,7 @@
   "HymeniumPoresPerMM": "",
   "StalkAttachment": "central",
   "StalkColors": "",
-  "StalkTexture": "",
+  "StalkTexture": "velvety",
   "StalkHollow": "hollow",
   "StalkPartialVeil": "none",
   "StalkVolva": "none",
@@ -353,7 +353,7 @@
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Coprinellus disseminatus,,",
-  "Note": "小型小鬼傘，種小名parcus意為「微小的」，為集小鬼傘節（Disseminati）之小型種。子實體微小；菌蓋初白至珍珠白、老熟轉灰白、被顆粒狀之細菌幕、具放射溝紋；菌褶灰而後轉黑、微自溶；柄纖細白色、中空；春至夏成群或叢生於草地或闊葉樹皮上。",
+  "Note": "小型小鬼傘，種小名parcus意為「微小的」，為集小鬼傘節（Disseminati）之小型種。子實體微小；菌蓋初白至珍珠白、老熟轉灰白、有細毛、被顆粒狀之細菌幕、具放射溝紋；菌褶灰而後轉黑、微自溶；柄纖細白色有絨毛、中空；春至夏成群或叢生於草地或闊葉樹皮上。",
   "GrowthEco": "saprotrophic",
   "la_zhtw": "簇生小鬼傘,,",
   "la_zhcn": "簇生小鬼伞,,"
@@ -367,5 +367,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261107-175937"
+ "timestamp": "20261107-222151"
 }
