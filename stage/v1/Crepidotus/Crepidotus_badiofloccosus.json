@@ -2,6 +2,7 @@
  "genus": "Crepidotus",
  "name": "badiofloccosus",
  "date": [
+  "11/01/2026,29202460189437701",
   "04/12/2026,26480629278287486",
   "11/02/2025,24866785196338577",
   "04/09/2025,9374660759310938",
@@ -212,6 +213,26 @@
   {
    "author": "James Ho",
    "image_src": "Crepidotus_badiofloccosus_3889ced0-3bde-11f1-ad52-afbc234cb4a7_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_badiofloccosus_29202460189437701_e55338c0-db27-11f1-a611-4befe2c8a1b2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_badiofloccosus_29202460189437701_e55338c0-db27-11f1-a611-4befe2c8a1b2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_badiofloccosus_29202460189437701_e55338c0-db27-11f1-a611-4befe2c8a1b2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_badiofloccosus_29202460189437701_e55338c0-db27-11f1-a611-4befe2c8a1b2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Crepidotus_badiofloccosus_29202460189437701_e55338c0-db27-11f1-a611-4befe2c8a1b2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -261,5 +282,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/155108751/thumb.jpg"
   }
  ],
- "timestamp": "20261107-222151"
+ "timestamp": "20261108-115932"
 }

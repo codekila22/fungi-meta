@@ -19,6 +19,10 @@
  "url": "5171679042942485",
  "images": [
   {
+   "author": "江志緯",
+   "image_src": "Mycena_holoporphyra_0b708cf0-0241-11ef-953f-8de92ff26f5c_1.jpg"
+  },
+  {
    "author": "向高世",
    "image_src": "Mycena_holoporphyra_1_CC BY-NC_向高世.jpg"
   },
@@ -180,10 +184,6 @@
   },
   {
    "author": "江志緯",
-   "image_src": "Mycena_holoporphyra_0b708cf0-0241-11ef-953f-8de92ff26f5c_1.jpg"
-  },
-  {
-   "author": "江志緯",
    "image_src": "Mycena_holoporphyra_0b708cf0-0241-11ef-953f-8de92ff26f5c_2.jpg"
   },
   {
@@ -315,5 +315,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/174121814/thumb.jpeg"
   }
  ],
- "timestamp": "20261107-222151"
+ "timestamp": "20261108-115932"
 }

@@ -2,6 +2,7 @@
  "genus": "Gymnopilus",
  "name": "sapineus",
  "date": [
+  "11/01/2026,29215863481430705",
   "10/31/2026,29218520671164986",
   "04/09/2026,26511731228510624",
   "03/18/2026,26118395394510878",
@@ -249,6 +250,22 @@
   {
    "author": "何俊霖",
    "image_src": "Gymnopilus_sapineus_29218520671164986_d1972450-d851-11f1-b474-cfbd578d6836_9.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_sapineus_29215863481430705_baa57890-db27-11f1-a611-4befe2c8a1b2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_sapineus_29215863481430705_baa57890-db27-11f1-a611-4befe2c8a1b2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_sapineus_29215863481430705_baa57890-db27-11f1-a611-4befe2c8a1b2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Gymnopilus_sapineus_29215863481430705_baa57890-db27-11f1-a611-4befe2c8a1b2_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -299,5 +316,5 @@
    "src": "https://static.inaturalist.org/photos/1529638/thumb.jpg"
   }
  ],
- "timestamp": "20261107-222151"
+ "timestamp": "20261108-115932"
 }
