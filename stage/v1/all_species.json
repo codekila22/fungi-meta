@@ -1,5 +1,5 @@
 {
- "timestamp": "20261108-115932",
+ "timestamp": "20261108-125813",
  "config": {
   "cover": {
    "image": "cover-photo-3.jpg",
@@ -316,6 +316,7 @@
    "Cerotelium,蠟銹菌屬,蜡锈菌属",
    "Chaetothyrium,刺盾炱屬,刺盾炱属",
    "Chrysomyxa,金鏽菌屬,金锈菌属",
+   "Claviceps,麥角菌屬,麦角菌属",
    "Clinoconidium,斜孢菌屬,斜孢菌属",
    "Coleosporium,鞘銹菌屬,鞘锈菌属",
    "Colletotrichum,炭疽刺盤孢菌屬,炭疽刺盘孢菌属",
@@ -1110,7 +1111,7 @@
    "Turbinellus,釘菇屬,钉菇属"
   ]
  },
- "total_species": 2536,
+ "total_species": 2537,
  "list": [
   "Abortiporus biennis,二年殘孔菌,二年残孔菌,Blushing Rosette,二年殘孔菌，種小名biennis意為「二年生的」。子實體扇形、半圓形至漏斗狀，常聚成玫瑰花瓣狀之簇群、表面被絨毛、淺肉至紅褐色；孔面初白或淡黃而傷後滲出紅色汁液，孔口多角、老時轉迷宮狀至齒狀。常見於闊葉樹的樹樁、倒木，或埋於土中的樹根附近。它會引起木材的白腐病。",
   "Absidia sp.1,犁頭黴,犁头霉,,犁頭黴，菌絲發達，於匍匐菌絲間生出孢囊柄，頂端著生梨形之孢子囊、囊軸與囊托明顯；本紀錄似寄生於成熟之黏菌上，為一尚待鑑定之種。",
@@ -1650,6 +1651,7 @@
   "Clavaria tenuipes,纖柄珊瑚菌,纤柄珊瑚菌,Skinnyfoot Club,纖柄珊瑚菌，種小名tenuipes意為「細柄的」，指其纖細之柄。子實體棒狀、單生不分枝；常見於火燒過之地表，為珊瑚菌屬之細長棒狀種。",
   "Clavaria zollingeri,堇紫珊瑚菌,堇紫珊瑚菌",
   "Clavariadelphus truncatus,平截棒瑚菌,平截棒瑚菌,Truncated Club,平截棒瑚菌，種小名truncatus意為「平截的」，正指其平頂。子實體大、棒狀至杵狀、黃至橙褐色、頂端平截而表面具皺紋；地生，於台灣之紀錄皆在高海拔山區。",
+  "Claviceps miscanthicola,芒生麥角菌,芒生麦角菌,,芒生麥角菌，種小名miscanthicola意為「生於芒屬（Miscanthus）」，指其專一寄生於芒屬植物的花序。本種為麥角菌屬成員，孢子感染芒屬小穗子房後，菌絲取代原本發育中的穎果，於穗軸上形成堅硬、黑色至黑褐色、表面常被白色粉狀物的角狀菌核（sclerotium），叢生於小穗之間，外觀如一粒粒黑色種子鑲嵌於芒穗之中。菌核即為本種的越冬休眠構造，落地萌發後產生具柄子座、埋生子囊殼以完成有性世代。與麥角菌屬其他成員同樣含有麥角生物鹼，具潛在毒性。",
   "Clavidisculum acuum,集棒盤菌,集棒盘菌",
   "Clavulina aff. tepurumenga,特普魯蒙鎖瑚菌的相似種,特普鲁蒙锁瑚菌的相似种,,特普魯蒙鎖瑚菌的相似種，子實體珊瑚狀、多回分枝、淡色、枝端鈍；生於豆科植物旁之地上。",
   "Clavulina amethystinoides,淡紫鎖瑚菌,淡紫锁瑚菌,,淡紫鎖瑚菌，種小名amethystinoides意為「似紫水晶色的」。子實體珊瑚狀、多回分枝、淡紫至紫羅蘭色、頂枝鈍或呈冠狀；地生於林下、與樹木共生為外生菌根菌。",
