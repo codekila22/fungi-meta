@@ -2,6 +2,7 @@
  "genus": "Conocybe",
  "name": "rugosa",
  "date": [
+  "11/03/2026,29251304741219912",
   "12/04/2025,25172383305778763",
   "01/23/2025,8896884763755209",
   "12/21/2024,8716645431779144",
@@ -17,6 +18,10 @@
  ],
  "url": "7073079316135772",
  "images": [
+  {
+   "author": "陳麗紅",
+   "image_src": "Conocybe_rugosa_29251304741219912_e909dec0-da90-11f1-a426-4174402355b2_1.jpg"
+  },
   {
    "author": "陳麗紅",
    "image_src": "Pholiotina_rugosa_d54a9d30-ddda-11ee-9606-97b66c21e429_1.jpg"
@@ -116,6 +121,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Pholiotina_rugosa_06c4b180-d2b6-11f0-b7e8-739ef2c05c9e_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Conocybe_rugosa_29251304741219912_e909dec0-da90-11f1-a426-4174402355b2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Conocybe_rugosa_29251304741219912_e909dec0-da90-11f1-a426-4174402355b2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Conocybe_rugosa_29251304741219912_e909dec0-da90-11f1-a426-4174402355b2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Conocybe_rugosa_29251304741219912_e909dec0-da90-11f1-a426-4174402355b2_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Conocybe_rugosa_29251304741219912_e909dec0-da90-11f1-a426-4174402355b2_6.jpg"
   }
  ],
  "synonym": [
@@ -174,5 +199,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/57024202/square.jpeg"
   }
  ],
- "timestamp": "20261101-170522"
+ "timestamp": "20261108-115932"
 }

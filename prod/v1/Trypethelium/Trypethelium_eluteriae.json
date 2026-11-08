@@ -2,6 +2,7 @@
  "genus": "Trypethelium",
  "name": "eluteriae",
  "date": [
+  "11/07/2026,29272473115769741",
   "10/28/2026,29097809343236120",
   "01/23/2026,25583571524659937",
   "01/22/2024,6886754244768281",
@@ -24,6 +25,14 @@
  "images": [
   {
    "author": "江志緯",
+   "image_src": "Trypethelium_eluteriae_12_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trypethelium_eluteriae_5_CC BY-NC_江志緯.jpg"
+  },
+  {
+   "author": "江志緯",
    "image_src": "Trypethelium_eluteriae_1_CC BY-NC_江志緯.jpg"
   },
   {
@@ -37,10 +46,6 @@
   {
    "author": "江志緯",
    "image_src": "Trypethelium_eluteriae_4_CC BY-NC_江志緯.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Trypethelium_eluteriae_5_CC BY-NC_江志緯.jpg"
   },
   {
    "author": "江志緯",
@@ -65,10 +70,6 @@
   {
    "author": "江志緯",
    "image_src": "Trypethelium_eluteriae_11_CC BY-NC_江志緯.jpg"
-  },
-  {
-   "author": "江志緯",
-   "image_src": "Trypethelium_eluteriae_12_CC BY-NC_江志緯.jpg"
   },
   {
    "author": "江志緯",
@@ -181,6 +182,38 @@
   {
    "author": "黃金興",
    "image_src": "Trypethelium_eluteriae_29097809343236120_4f876a30-d584-11f1-adf5-05c197342c19_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trypethelium_eluteriae_29272473115769741_d6db4310-db26-11f1-a611-4befe2c8a1b2_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trypethelium_eluteriae_29272473115769741_d6db4310-db26-11f1-a611-4befe2c8a1b2_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trypethelium_eluteriae_29272473115769741_d6db4310-db26-11f1-a611-4befe2c8a1b2_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trypethelium_eluteriae_29272473115769741_d6db4310-db26-11f1-a611-4befe2c8a1b2_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trypethelium_eluteriae_29272473115769741_d6db4310-db26-11f1-a611-4befe2c8a1b2_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trypethelium_eluteriae_29272473115769741_d6db4310-db26-11f1-a611-4befe2c8a1b2_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trypethelium_eluteriae_29272473115769741_d6db4310-db26-11f1-a611-4befe2c8a1b2_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Trypethelium_eluteriae_29272473115769741_d6db4310-db26-11f1-a611-4befe2c8a1b2_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -230,5 +263,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/14160328/thumb.jpeg"
   }
  ],
- "timestamp": "20261101-170522"
+ "timestamp": "20261108-115932"
 }

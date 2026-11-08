@@ -2,6 +2,7 @@
  "genus": "Simocybe",
  "name": "centunculus",
  "date": [
+  "11/01/2026,29176658208684566",
   "11/21/2024,8566172936826395",
   "08/06/2024,7803147143128982",
   "07/28/2024,7740825949361102",
@@ -231,12 +232,14 @@
   "Rareness": "",
   "Elevation": "low,mid",
   "Tropical": "no",
-  "Seasons": "",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "singly,scattered",
   "GrowthEnv": "wood",
+  "NearHome": "",
   "Bruising": "",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -266,5 +269,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261101-170522"
+ "timestamp": "20261108-115932"
 }

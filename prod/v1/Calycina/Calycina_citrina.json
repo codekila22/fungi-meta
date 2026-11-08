@@ -2,6 +2,7 @@
  "genus": "Calycina",
  "name": "citrina",
  "date": [
+  "11/01/2026,29237387705944949",
   "12/31/2025,25381315971552161",
   "12/04/2025,25199125493104544",
   "01/16/2025,8858303910946628",
@@ -207,6 +208,26 @@
   {
    "author": "吳湯姆",
    "image_src": "Bisporella_citrina_23a64b60-e648-11f0-9839-6151dc142f2d_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calycina_citrina_29237387705944949_a91334b0-da90-11f1-a426-4174402355b2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calycina_citrina_29237387705944949_a91334b0-da90-11f1-a426-4174402355b2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calycina_citrina_29237387705944949_a91334b0-da90-11f1-a426-4174402355b2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calycina_citrina_29237387705944949_a91334b0-da90-11f1-a426-4174402355b2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Calycina_citrina_29237387705944949_a91334b0-da90-11f1-a426-4174402355b2_5.jpg"
   }
  ],
  "synonym": [
@@ -279,5 +300,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/381593403/square.jpeg"
   }
  ],
- "timestamp": "20261101-170522"
+ "timestamp": "20261108-115932"
 }

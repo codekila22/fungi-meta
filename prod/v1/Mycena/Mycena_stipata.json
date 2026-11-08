@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "stipata",
  "date": [
+  "11/02/2026,29268213542862365",
   "12/29/2023,6812532842190422",
   "05/15/2023,5983039555139759"
  ],
@@ -66,6 +67,38 @@
   {
    "author": "陳麗紅",
    "image_src": "Mycena_stipata_76482250-ac64-11ee-82cd-47bb6c7cd097_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_stipata_29268213542862365_be0c4650-da8f-11f1-a426-4174402355b2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_stipata_29268213542862365_be0c4650-da8f-11f1-a426-4174402355b2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_stipata_29268213542862365_be0c4650-da8f-11f1-a426-4174402355b2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_stipata_29268213542862365_be0c4650-da8f-11f1-a426-4174402355b2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_stipata_29268213542862365_be0c4650-da8f-11f1-a426-4174402355b2_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_stipata_29268213542862365_be0c4650-da8f-11f1-a426-4174402355b2_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_stipata_29268213542862365_be0c4650-da8f-11f1-a426-4174402355b2_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Mycena_stipata_29268213542862365_be0c4650-da8f-11f1-a426-4174402355b2_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -117,5 +150,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/32079067/thumb.jpeg"
   }
  ],
- "timestamp": "20261101-170522"
+ "timestamp": "20261108-115932"
 }

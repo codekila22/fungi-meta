@@ -1,0 +1,87 @@
+{
+ "genus": "Hydropisphaera",
+ "name": "peziza",
+ "date": [
+  "05/30/2019,29245582865125433"
+ ],
+ "names_zhtw": [
+  "水球殼"
+ ],
+ "names_en": [],
+ "url": "29245582865125433",
+ "images": [
+  {
+   "author": "向高世",
+   "image_src": "Hydropisphaera_peziza_29245582865125433_967b1600-d9ab-11f1-b463-f98f39477909_1.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hydropisphaera_peziza_29245582865125433_967b1600-d9ab-11f1-b463-f98f39477909_2.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hydropisphaera_peziza_29245582865125433_967b1600-d9ab-11f1-b463-f98f39477909_3.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hydropisphaera_peziza_29245582865125433_967b1600-d9ab-11f1-b463-f98f39477909_4.jpg"
+  },
+  {
+   "author": "向高世",
+   "image_src": "Hydropisphaera_peziza_29245582865125433_967b1600-d9ab-11f1-b463-f98f39477909_5.jpg"
+  }
+ ],
+ "names_zhcn": [
+  "水球壳"
+ ],
+ "meta": {
+  "CapColors": "4294944000,4294919424",
+  "CapDiamRangeValues": "0,1",
+  "CapShape": "",
+  "CapTexture": "",
+  "CapMargin": "",
+  "HymeniumType": "smooth",
+  "HymeniumColors": "",
+  "HymeniumSporePrints": "",
+  "HymeniumGillArrangement": "",
+  "HymeniumGillAttachment": "",
+  "HymeniumGillMarginate": "",
+  "HymeniumPoresPerMM": "",
+  "StalkAttachment": "",
+  "StalkColors": "",
+  "StalkTexture": "",
+  "StalkHollow": "",
+  "StalkPartialVeil": "",
+  "StalkVolva": "",
+  "StalkBase": "",
+  "StalkDiamRangeValuess": "",
+  "StalkLengthRangeValuess": "",
+  "HeightRangeValuess": "0,1",
+  "Rareness": "",
+  "Elevation": "",
+  "Tropical": "",
+  "Seasons": "",
+  "GrowthType": "grouped",
+  "GrowthEnv": "wood",
+  "NearHome": "",
+  "Bruising": "",
+  "Bioluminescent": "",
+  "Edible": "",
+  "Cultivated": "",
+  "Smell": "",
+  "Taste": "",
+  "LookAlikes": "",
+  "Note": "水球殼，本屬模式種，種小名peziza意指其子囊殼形似盤菌屬（Peziza）。子囊殼細小、近球形，鮮橙至橙紅色、表面光滑而略具光澤，密集叢生成簇團狀，好發於濕潤腐木之樹皮表面；子囊圓柱形，孢子無色、具一橫隔。營腐生，為腐木與樹皮上常見的小型肉座菌類群之一，世界廣布。",
+  "GrowthEco": "saprotrophic"
+ },
+ "inaturalist": [
+  {
+   "name": "Hydropisphaera peziza",
+   "cname": "",
+   "cname_zh": "",
+   "url": "https://www.inaturalist.org/taxa/382604",
+   "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/4136191/square."
+  }
+ ],
+ "timestamp": "20261108-115932"
+}

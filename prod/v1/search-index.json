@@ -1,9 +1,10 @@
 {
- "timestamp": "20261101-170522",
+ "timestamp": "20261108-115932",
  "list": [
   "Abortiporus biennis|Polypores|wood|50,150|4294919424,4291998860,4283244288",
   "Absidia sp.1|Parasitic,Molds|parasitic||4294967295",
   "Acanthonitschkea argentinensis|Crust/Patch|wood|0,1|4286611584,4292664540",
+  "Acarospora fuscata|Lichens|rocks||4291998860,4288244511",
   "Acervus epispartius|Cups|ground|5,20|4294944000,4294083840",
   "Aecidium cf. clerodendri|Parasitic|leaves,parasitic||4294083840,4294944000",
   "Aecidium cinnamomi|Parasitic|leaves,parasitic||4294083840,4294944000",
@@ -1119,6 +1120,7 @@
   "Hydnum repandum|Toothed|ground|20,250|4294083840",
   "Hydropisphaera angelicae|Crust/Patch|wood|0,1|4291659071,4292786311",
   "Hydropisphaera cf. ciliata|Crust/Patch|wood||4294083840",
+  "Hydropisphaera peziza|Crust/Patch|wood|0,1|4294944000,4294919424",
   "Hydropus atramentosus|Agarics|wood|10,30|4294967295,4294309365,4278190080",
   "Hydropus nigrita|Agarics|wood|7,26|4278190080,4286141768,4294967295",
   "Hygroaster nodulisporus|Agarics|ground|20,50|4278190080,4282843172,4292072403",
@@ -2161,6 +2163,7 @@
   "Sarcographa intricans|Lichens|wood||4278190080,4286611456",
   "Sarcographa labyrinthica|Lichens|wood||4278222848",
   "Sarcographa tricosa|Lichens|wood||4278190080,4278222848",
+  "Sarcoleotia globosa|Clubs/Coral|ground|20,50|4288696877,4283244288",
   "Sarcomyxa edulis|Agarics|wood|30,100|4294944000,4294083840,4294956800",
   "Sarcomyxa serotina|Agarics|wood|20,100|4286141768,4283788079,4286578816",
   "Sarcoscypha austriaca|Cups|wood|20,70|4287299584,4293263360",
