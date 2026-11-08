@@ -1,5 +1,5 @@
 {
- "timestamp": "20261108-125813",
+ "timestamp": "20261108-131830",
  "window_days": 30,
  "months": {
   "1": [
@@ -3803,6 +3803,7 @@
    "Physarum pezizoideum,盤頭絨泡黏菌,盘头绒泡黏菌",
    "Pisolithus tinctorius,彩色豆馬勃,彩色豆马勃",
    "Pleurotus citrinopileatus,金頂側耳,金顶侧耳",
+   "Pluteus leoninus,獅黃光柄菇,狮黄光柄菇",
    "Russula parvovirescens,塊斑綠紅菇,块斑绿红菇",
    "Schizophyllum commune,裂褶菌,裂褶菌",
    "Amanita muscaria,毒蠅傘,毒蝇伞",
@@ -3832,7 +3833,6 @@
    "Phallus luteus,純黃竹蓀,纯黄竹荪",
    "Phillipsia chinensis,中華歪盤菌,中华歪盘菌",
    "Picipes admirabilis,多斑黑柄多孔菌,多斑黑柄多孔菌",
-   "Pluteus leoninus,獅黃光柄菇,狮黄光柄菇",
    "Russula senecis,點柄黃紅菇,点柄黄红菇",
    "Stropharia aeruginosa,黃銅綠球蓋菇,黄铜绿球盖菇",
    "Suillus bovinus,乳牛肝菌,乳牛肝菌",
@@ -4167,6 +4167,7 @@
    "Phlebia tremellosus,膠質射脈菌,胶质射脉菌",
    "Physarella oblonga,針箍黏菌,针箍黏菌",
    "Physarum pezizoideum,盤頭絨泡黏菌,盘头绒泡黏菌",
+   "Pluteus leoninus,獅黃光柄菇,狮黄光柄菇",
    "Trametes versicolor,彩絨栓菌,彩绒栓菌",
    "Ampulloclitocybe clavipes,棒柄瓶杯傘,棒柄瓶杯伞",
    "Apioperdon pyriforme,梨形馬勃,梨形马勃",
@@ -4218,7 +4219,6 @@
    "Picipes admirabilis,多斑黑柄多孔菌,多斑黑柄多孔菌",
    "Picipes badius,紅褐黑柄多孔菌,红褐黑柄多孔菌",
    "Pisolithus tinctorius,彩色豆馬勃,彩色豆马勃",
-   "Pluteus leoninus,獅黃光柄菇,狮黄光柄菇",
    "Pluteus pauxillus,點褶光柄菇,点褶光柄菇",
    "Poromycena sp.1,葉生孔小菇,叶生孔小菇",
    "Rickenella fibula,絲狀里肯菇,丝状里肯菇",
