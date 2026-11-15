@@ -2,6 +2,7 @@
  "genus": "Cortinarius",
  "name": "anomalus",
  "date": [
+  "09/11/2026,28475921938758200",
   "03/30/2024,7160054207438282",
   "02/12/2023,5689586511151733",
   "02/21/2022,4671944572915937"
@@ -109,6 +110,30 @@
   {
    "author": "陳麗紅",
    "image_src": "Cortinarius_anomalus_b03d8a90-ef1c-11ee-8973-bdede13abfd1_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cortinarius_anomalus_28475921938758200_82148730-e08d-11f1-93a3-c9674c0cccb2_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cortinarius_anomalus_28475921938758200_82148730-e08d-11f1-93a3-c9674c0cccb2_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cortinarius_anomalus_28475921938758200_82148730-e08d-11f1-93a3-c9674c0cccb2_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cortinarius_anomalus_28475921938758200_82148730-e08d-11f1-93a3-c9674c0cccb2_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cortinarius_anomalus_28475921938758200_82148730-e08d-11f1-93a3-c9674c0cccb2_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Cortinarius_anomalus_28475921938758200_82148730-e08d-11f1-93a3-c9674c0cccb2_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -173,5 +198,5 @@
    "src": ""
   }
  ],
- "timestamp": "20261108-172617"
+ "timestamp": "20261115-090154"
 }

@@ -2,6 +2,7 @@
  "genus": "Mycena",
  "name": "clavularis",
  "date": [
+  "11/14/2026,29392735820410136",
   "07/11/2025,10084394408337566",
   "08/18/2024,7869910983119264",
   "05/28/2024,25088903080793453"
@@ -103,6 +104,46 @@
   {
    "author": "Sunny Wang",
    "image_src": "Mycena_clavularis_7585cec0-d02b-11f0-8fdb-4b625997ec7d_11.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_clavularis_29392735820410136_200cbe80-e08e-11f1-93a3-c9674c0cccb2_1.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_clavularis_29392735820410136_200cbe80-e08e-11f1-93a3-c9674c0cccb2_2.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_clavularis_29392735820410136_200cbe80-e08e-11f1-93a3-c9674c0cccb2_3.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_clavularis_29392735820410136_200cbe80-e08e-11f1-93a3-c9674c0cccb2_4.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_clavularis_29392735820410136_200cbe80-e08e-11f1-93a3-c9674c0cccb2_5.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_clavularis_29392735820410136_200cbe80-e08e-11f1-93a3-c9674c0cccb2_6.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_clavularis_29392735820410136_200cbe80-e08e-11f1-93a3-c9674c0cccb2_7.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_clavularis_29392735820410136_200cbe80-e08e-11f1-93a3-c9674c0cccb2_8.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_clavularis_29392735820410136_200cbe80-e08e-11f1-93a3-c9674c0cccb2_9.jpg"
+  },
+  {
+   "author": "徐秀團",
+   "image_src": "Mycena_clavularis_29392735820410136_200cbe80-e08e-11f1-93a3-c9674c0cccb2_10.jpg"
   }
  ],
  "names_zhcn": [
@@ -153,5 +194,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/328865585/thumb.jpeg"
   }
  ],
- "timestamp": "20261108-172617"
+ "timestamp": "20261115-090154"
 }

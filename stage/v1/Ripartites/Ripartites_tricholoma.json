@@ -2,7 +2,8 @@
  "genus": "Ripartites",
  "name": "tricholoma",
  "date": [
-  "09/06/2026,29048303171520071"
+  "09/06/2026,29048303171520071",
+  "06/12/2026,29330966419920410"
  ],
  "names_zhtw": [
   "毛緣菇"
@@ -41,6 +42,42 @@
   {
    "author": "徐秀團",
    "image_src": "Ripartites_tricholoma_29048303171520071_71535d20-d0db-11f1-8d6a-ddbd555c2cf1_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ripartites_tricholoma_29330966419920410_35813cc0-dd8f-11f1-ae4b-41a28ee4beaa_1.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ripartites_tricholoma_29330966419920410_35813cc0-dd8f-11f1-ae4b-41a28ee4beaa_2.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ripartites_tricholoma_29330966419920410_35813cc0-dd8f-11f1-ae4b-41a28ee4beaa_3.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ripartites_tricholoma_29330966419920410_35813cc0-dd8f-11f1-ae4b-41a28ee4beaa_4.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ripartites_tricholoma_29330966419920410_35813cc0-dd8f-11f1-ae4b-41a28ee4beaa_5.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ripartites_tricholoma_29330966419920410_35813cc0-dd8f-11f1-ae4b-41a28ee4beaa_6.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ripartites_tricholoma_29330966419920410_35813cc0-dd8f-11f1-ae4b-41a28ee4beaa_7.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ripartites_tricholoma_29330966419920410_35813cc0-dd8f-11f1-ae4b-41a28ee4beaa_8.jpg"
+  },
+  {
+   "author": "Sunny Wang",
+   "image_src": "Ripartites_tricholoma_29330966419920410_35813cc0-dd8f-11f1-ae4b-41a28ee4beaa_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -116,5 +153,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/440720820/square.jpeg"
   }
  ],
- "timestamp": "20261108-172617"
+ "timestamp": "20261115-090154"
 }

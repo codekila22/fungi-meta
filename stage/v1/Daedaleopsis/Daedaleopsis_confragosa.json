@@ -366,7 +366,7 @@
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "NearHome": "",
-  "Bruising": "no",
+  "Bruising": "red",
   "Bioluminescent": "",
   "Edible": "",
   "Cultivated": "",
@@ -406,5 +406,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/266883/thumb.jpg"
   }
  ],
- "timestamp": "20261108-172617"
+ "timestamp": "20261115-090154"
 }

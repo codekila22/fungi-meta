@@ -2,6 +2,7 @@
  "genus": "Coniolepiota",
  "name": "spongodes",
  "date": [
+  "11/08/2026,29287823430901376",
   "08/20/2026,28085601271123604",
   "07/14/2025,24132793263071111",
   "07/12/2025,10084233581686982",
@@ -251,6 +252,26 @@
   {
    "author": "陳麗紅",
    "image_src": "Coniolepiota_spongodes_28085601271123604_def6f8f0-9edb-11f1-9e4c-35150746c971_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Coniolepiota_spongodes_29287823430901376_ddd98600-db6b-11f1-a611-4befe2c8a1b2_1.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Coniolepiota_spongodes_29287823430901376_ddd98600-db6b-11f1-a611-4befe2c8a1b2_2.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Coniolepiota_spongodes_29287823430901376_ddd98600-db6b-11f1-a611-4befe2c8a1b2_3.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Coniolepiota_spongodes_29287823430901376_ddd98600-db6b-11f1-a611-4befe2c8a1b2_4.jpg"
+  },
+  {
+   "author": "朱艷",
+   "image_src": "Coniolepiota_spongodes_29287823430901376_ddd98600-db6b-11f1-a611-4befe2c8a1b2_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -305,5 +326,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249780748/thumb.jpg"
   }
  ],
- "timestamp": "20261108-172617"
+ "timestamp": "20261115-090154"
 }

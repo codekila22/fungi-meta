@@ -2,6 +2,7 @@
  "genus": "Campanophyllum",
  "name": "proboscideum",
  "date": [
+  "11/05/2026,29301514236198962",
   "06/29/2025,10042055439238130",
   "06/11/2025,9857984054311937",
   "11/14/2023,6641291562647885",
@@ -368,6 +369,42 @@
   {
    "author": "江志緯",
    "image_src": "Campanophyllum_proboscideum_0e671460-5af1-11f0-adbc-15c899864f2b_10.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanophyllum_proboscideum_29301514236198962_28daa700-dc62-11f1-a126-3b337c908eab_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanophyllum_proboscideum_29301514236198962_28daa700-dc62-11f1-a126-3b337c908eab_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanophyllum_proboscideum_29301514236198962_28daa700-dc62-11f1-a126-3b337c908eab_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanophyllum_proboscideum_29301514236198962_28daa700-dc62-11f1-a126-3b337c908eab_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanophyllum_proboscideum_29301514236198962_28daa700-dc62-11f1-a126-3b337c908eab_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanophyllum_proboscideum_29301514236198962_28daa700-dc62-11f1-a126-3b337c908eab_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanophyllum_proboscideum_29301514236198962_28daa700-dc62-11f1-a126-3b337c908eab_7.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanophyllum_proboscideum_29301514236198962_28daa700-dc62-11f1-a126-3b337c908eab_8.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Campanophyllum_proboscideum_29301514236198962_28daa700-dc62-11f1-a126-3b337c908eab_9.jpg"
   }
  ],
  "names_zhcn": [
@@ -396,13 +433,17 @@
   "StalkDiamRangeValuess": "",
   "StalkLengthRangeValuess": "",
   "HeightRangeValuess": "",
-  "Rareness": "",
+  "Rareness": "occacional",
+  "Elevation": "mid",
+  "Tropical": "",
   "Seasons": "",
-  "GrowthType": "",
+  "GrowthType": "grouped",
   "GrowthEnv": "wood",
-  "Bruising": "",
+  "NearHome": "",
+  "Bruising": "no",
   "Bioluminescent": "",
   "Edible": "",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "",
@@ -418,5 +459,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/8972998/thumb.jpeg"
   }
  ],
- "timestamp": "20261108-172617"
+ "timestamp": "20261115-090154"
 }
