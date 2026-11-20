@@ -2,6 +2,7 @@
  "genus": "Clavaria",
  "name": "fragilis",
  "date": [
+  "11/12/2026,29407817628901955",
   "09/15/2026,28624124610604598",
   "07/31/2026,27790310403986027",
   "06/07/2025,9812712042172472",
@@ -165,6 +166,30 @@
   {
    "author": "何俊霖",
    "image_src": "Clavaria_fragilis_28624124610604598_4e4c7530-bfb7-11f1-9549-0dc577ba5e34_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_fragilis_29407817628901955_be22a140-e0e1-11f1-93a3-c9674c0cccb2_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_fragilis_29407817628901955_be22a140-e0e1-11f1-93a3-c9674c0cccb2_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_fragilis_29407817628901955_be22a140-e0e1-11f1-93a3-c9674c0cccb2_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_fragilis_29407817628901955_be22a140-e0e1-11f1-93a3-c9674c0cccb2_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_fragilis_29407817628901955_be22a140-e0e1-11f1-93a3-c9674c0cccb2_5.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clavaria_fragilis_29407817628901955_be22a140-e0e1-11f1-93a3-c9674c0cccb2_6.jpg"
   }
  ],
  "names_zhcn": [
@@ -196,12 +221,14 @@
   "Rareness": "common",
   "Elevation": "low,mid",
   "Tropical": "no",
-  "Seasons": "spring,summer,autumn,winter",
+  "Seasons": "",
   "GrowthType": "grouped,scattered",
   "GrowthEnv": "ground,meadow",
+  "NearHome": "",
   "Bruising": "no",
   "Bioluminescent": "no",
   "Edible": "edible",
+  "Cultivated": "",
   "Smell": "",
   "Taste": "",
   "LookAlikes": "Clavaria falcata,Clavaria acuta,",
@@ -233,5 +260,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/64379765/thumb.jpeg"
   }
  ],
- "timestamp": "20261115-090154"
+ "timestamp": "20261120-122940"
 }
