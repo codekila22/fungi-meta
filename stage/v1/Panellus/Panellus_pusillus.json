@@ -2,6 +2,7 @@
  "genus": "Panellus",
  "name": "pusillus",
  "date": [
+  "11/20/2026,29526619583688425",
   "07/28/2026,27779930381690696",
   "04/04/2025,9430762530367427",
   "11/14/2024,8507885079321848",
@@ -350,6 +351,22 @@
   {
    "author": "江志緯",
    "image_src": "Panellus_pusillus_48f7ff60-1daf-11f0-b8f0-2331ad265e5e_13.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_pusillus_29526619583688425_8c33a790-e6c4-11f1-8677-d76406c71ae5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_pusillus_29526619583688425_8c33a790-e6c4-11f1-8677-d76406c71ae5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_pusillus_29526619583688425_8c33a790-e6c4-11f1-8677-d76406c71ae5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Panellus_pusillus_29526619583688425_8c33a790-e6c4-11f1-8677-d76406c71ae5_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -404,5 +421,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/5748774/thumb.jpeg"
   }
  ],
- "timestamp": "20261120-122940"
+ "timestamp": "20261123-071140"
 }

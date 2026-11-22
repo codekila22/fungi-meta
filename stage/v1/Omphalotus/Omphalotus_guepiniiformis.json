@@ -2,6 +2,8 @@
  "genus": "Omphalotus",
  "name": "guepiniiformis",
  "date": [
+  "11/21/2026,29522111307472586",
+  "11/20/2026,29494376186912765",
   "11/16/2026,29452806944403023",
   "11/16/2026,29472065482477169",
   "11/16/2026,29489289407421443",
@@ -689,6 +691,42 @@
   {
    "author": "江志緯",
    "image_src": "Omphalotus_guepiniiformis_29489289407421443_bdfd0bd0-e49a-11f1-94dc-f9d3992afa13_11.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Omphalotus_guepiniiformis_29494376186912765_187cfb70-e5a3-11f1-a991-8548ef02e4dd_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Omphalotus_guepiniiformis_29494376186912765_187cfb70-e5a3-11f1-a991-8548ef02e4dd_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Omphalotus_guepiniiformis_29494376186912765_187cfb70-e5a3-11f1-a991-8548ef02e4dd_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Omphalotus_guepiniiformis_29494376186912765_187cfb70-e5a3-11f1-a991-8548ef02e4dd_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Omphalotus_guepiniiformis_29522111307472586_94b0d450-e643-11f1-b75b-631287793128_1.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Omphalotus_guepiniiformis_29522111307472586_94b0d450-e643-11f1-b75b-631287793128_2.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Omphalotus_guepiniiformis_29522111307472586_94b0d450-e643-11f1-b75b-631287793128_3.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Omphalotus_guepiniiformis_29522111307472586_94b0d450-e643-11f1-b75b-631287793128_4.jpg"
+  },
+  {
+   "author": "姜淋友",
+   "image_src": "Omphalotus_guepiniiformis_29522111307472586_94b0d450-e643-11f1-b75b-631287793128_5.jpg"
   }
  ],
  "synonym": [
@@ -749,5 +787,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/249023134/square.jpg"
   }
  ],
- "timestamp": "20261120-122940"
+ "timestamp": "20261123-071140"
 }

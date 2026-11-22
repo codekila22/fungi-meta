@@ -2,6 +2,7 @@
  "genus": "Lycoperdon",
  "name": "subincarnatum",
  "date": [
+  "11/18/2026,29513601421656908",
   "11/04/2026,29321828010834251",
   "10/12/2024,8890566117720407",
   "02/08/2024,9019125858197765",
@@ -241,6 +242,10 @@
   {
    "author": "陳麗紅",
    "image_src": "Lycoperdon_subincarnatum_29321828010834251_9765ce20-de1f-11f1-9d7f-2f662adc47dc_6.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Lycoperdon_subincarnatum_29513601421656908_1e145520-e6c9-11f1-8677-d76406c71ae5_1.jpg"
   }
  ],
  "names_zhcn": [
@@ -293,5 +298,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/19848362/thumb.jpeg"
   }
  ],
- "timestamp": "20261120-122940"
+ "timestamp": "20261123-071140"
 }

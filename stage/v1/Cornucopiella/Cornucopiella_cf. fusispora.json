@@ -2,6 +2,7 @@
  "genus": "Cornucopiella",
  "name": "cf. fusispora",
  "date": [
+  "11/18/2026,29475161995500851",
   "07/02/2026,27547732058243864",
   "09/12/2025,24444932261857208",
   "07/02/2025,24476265772057190",
@@ -150,6 +151,22 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Cornucopiella_cf. fusispora_27547732058243864_ff7a3c40-7d07-11f1-a10a-9f31227dc601_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cornucopiella_cf. fusispora_29475161995500851_c42107b0-e6c9-11f1-8677-d76406c71ae5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cornucopiella_cf. fusispora_29475161995500851_c42107b0-e6c9-11f1-8677-d76406c71ae5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cornucopiella_cf. fusispora_29475161995500851_c42107b0-e6c9-11f1-8677-d76406c71ae5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Cornucopiella_cf. fusispora_29475161995500851_c42107b0-e6c9-11f1-8677-d76406c71ae5_4.jpg"
   }
  ],
  "names_zhcn": [
@@ -201,5 +218,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/50288297/thumb.jpeg"
   }
  ],
- "timestamp": "20261120-122940"
+ "timestamp": "20261123-071140"
 }
