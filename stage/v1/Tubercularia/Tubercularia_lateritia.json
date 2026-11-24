@@ -2,6 +2,7 @@
  "genus": "Tubercularia",
  "name": "lateritia",
  "date": [
+  "11/18/2026,29553343567682693",
   "03/15/2025,9199859860124363",
   "11/12/2024,8541744249269264",
   "05/02/2024,7375093179267716",
@@ -190,6 +191,26 @@
   {
    "author": "江志緯",
    "image_src": "Tubercularia_lateritia_e0c6faa0-0219-11f0-8ca2-793052a10bfd_6.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tubercularia_lateritia_29553343567682693_bd0828a0-e7c8-11f1-8dd2-9336d543a28e_1.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tubercularia_lateritia_29553343567682693_bd0828a0-e7c8-11f1-8dd2-9336d543a28e_2.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tubercularia_lateritia_29553343567682693_bd0828a0-e7c8-11f1-8dd2-9336d543a28e_3.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tubercularia_lateritia_29553343567682693_bd0828a0-e7c8-11f1-8dd2-9336d543a28e_4.jpg"
+  },
+  {
+   "author": "蔣珮瑩",
+   "image_src": "Tubercularia_lateritia_29553343567682693_bd0828a0-e7c8-11f1-8dd2-9336d543a28e_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -240,5 +261,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/26049602/thumb.jpg"
   }
  ],
- "timestamp": "20261123-071140"
+ "timestamp": "20261124-165122"
 }

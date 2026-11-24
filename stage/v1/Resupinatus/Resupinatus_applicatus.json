@@ -2,6 +2,7 @@
  "genus": "Resupinatus",
  "name": "applicatus",
  "date": [
+  "11/18/2026,29475022935514757",
   "08/16/2026,28026130453737353",
   "01/01/2026,25439040272446397",
   "02/17/2025,9067822333328117",
@@ -227,6 +228,26 @@
   {
    "author": "蔣珮瑩",
    "image_src": "Resupinatus_applicatus_28026130453737353_b2630d60-9ada-11f1-a587-07ac940d3722_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_29475022935514757_6ea42300-e6d1-11f1-8677-d76406c71ae5_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_29475022935514757_6ea42300-e6d1-11f1-8677-d76406c71ae5_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_29475022935514757_6ea42300-e6d1-11f1-8677-d76406c71ae5_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_29475022935514757_6ea42300-e6d1-11f1-8677-d76406c71ae5_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Resupinatus_applicatus_29475022935514757_6ea42300-e6d1-11f1-8677-d76406c71ae5_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -258,7 +279,7 @@
   "Rareness": "common",
   "Elevation": "low,mid",
   "Tropical": "no",
-  "Seasons": "",
+  "Seasons": "spring,summer,autumn,winter",
   "GrowthType": "grouped",
   "GrowthEnv": "wood",
   "NearHome": "",
@@ -281,5 +302,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/24029041/thumb.jpg"
   }
  ],
- "timestamp": "20261123-071140"
+ "timestamp": "20261124-165122"
 }
