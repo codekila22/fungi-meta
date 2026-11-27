@@ -2,6 +2,7 @@
  "genus": "Clinoconidium",
  "name": "cinnamomi",
  "date": [
+  "11/26/2026,29590397363977313",
   "11/15/2026,29404355825914802",
   "12/02/2025,25129689226714838",
   "10/12/2025,24652167817800317",
@@ -249,6 +250,26 @@
   {
    "author": "何俊霖",
    "image_src": "Clinoconidium_cinnamomi_fd66c4e0-a748-11f0-8492-2fc12b2ae8da_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clinoconidium_cinnamomi_29590397363977313_d4ecbb40-ea55-11f1-b189-05bfa32fbf9b_1.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clinoconidium_cinnamomi_29590397363977313_d4ecbb40-ea55-11f1-b189-05bfa32fbf9b_2.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clinoconidium_cinnamomi_29590397363977313_d4ecbb40-ea55-11f1-b189-05bfa32fbf9b_3.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clinoconidium_cinnamomi_29590397363977313_d4ecbb40-ea55-11f1-b189-05bfa32fbf9b_4.jpg"
+  },
+  {
+   "author": "陳麗紅",
+   "image_src": "Clinoconidium_cinnamomi_29590397363977313_d4ecbb40-ea55-11f1-b189-05bfa32fbf9b_5.jpg"
   }
  ],
  "names_zhcn": [
@@ -300,5 +321,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/58369641/thumb.jpg"
   }
  ],
- "timestamp": "20261124-165122"
+ "timestamp": "20261127-193202"
 }

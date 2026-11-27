@@ -2,6 +2,7 @@
  "genus": "Ganoderma",
  "name": "weberianum",
  "date": [
+  "11/22/2026,29602842876066095",
   "09/16/2026,28451279994555728",
   "07/18/2026,27699013726449029",
   "07/15/2026,27661919276825141",
@@ -324,6 +325,38 @@
   {
    "author": "James Ho",
    "image_src": "Ganoderma_weberianum_28451279994555728_08129f50-b1d3-11f1-955d-8f5700995f36_8.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_29602842876066095_98a66570-ea49-11f1-b189-05bfa32fbf9b_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_29602842876066095_98a66570-ea49-11f1-b189-05bfa32fbf9b_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_29602842876066095_98a66570-ea49-11f1-b189-05bfa32fbf9b_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_29602842876066095_98a66570-ea49-11f1-b189-05bfa32fbf9b_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_29602842876066095_98a66570-ea49-11f1-b189-05bfa32fbf9b_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_29602842876066095_98a66570-ea49-11f1-b189-05bfa32fbf9b_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_29602842876066095_98a66570-ea49-11f1-b189-05bfa32fbf9b_7.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Ganoderma_weberianum_29602842876066095_98a66570-ea49-11f1-b189-05bfa32fbf9b_8.jpg"
   }
  ],
  "names_zhcn": [
@@ -378,5 +411,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/112664495/thumb.jpeg"
   }
  ],
- "timestamp": "20261124-165122"
+ "timestamp": "20261127-193202"
 }

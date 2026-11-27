@@ -2,6 +2,7 @@
  "genus": "Basidopus",
  "name": "brunneisetosus",
  "date": [
+  "11/21/2026,29566020343081682",
   "09/06/2026,28301018842915178",
   "12/18/2025,25272557769094649",
   "10/31/2025,24876450202038743",
@@ -476,6 +477,34 @@
   {
    "author": "江志緯",
    "image_src": "Mycena_brunneisetosa_651faec0-defe-11f0-8f14-79f2560e7ab2_9.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Basidopus_brunneisetosus_29566020343081682_553ff350-e878-11f1-af25-2d03ec4c9937_1.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Basidopus_brunneisetosus_29566020343081682_553ff350-e878-11f1-af25-2d03ec4c9937_2.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Basidopus_brunneisetosus_29566020343081682_553ff350-e878-11f1-af25-2d03ec4c9937_3.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Basidopus_brunneisetosus_29566020343081682_553ff350-e878-11f1-af25-2d03ec4c9937_4.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Basidopus_brunneisetosus_29566020343081682_553ff350-e878-11f1-af25-2d03ec4c9937_5.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Basidopus_brunneisetosus_29566020343081682_553ff350-e878-11f1-af25-2d03ec4c9937_6.jpg"
+  },
+  {
+   "author": "江志緯",
+   "image_src": "Basidopus_brunneisetosus_29566020343081682_553ff350-e878-11f1-af25-2d03ec4c9937_7.jpg"
   }
  ],
  "synonym": [
@@ -535,5 +564,5 @@
    "src": "https://inaturalist-open-data.s3.amazonaws.com/photos/356479789/square.jpg"
   }
  ],
- "timestamp": "20261124-165122"
+ "timestamp": "20261127-193202"
 }
